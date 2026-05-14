@@ -1,0 +1,56 @@
+{
+  "meta": {
+    "image_key_path": ["1", "inputs", "image"],
+    "min_width": 1080,
+    "min_height": 1920,
+    "_note": [
+      "ComfyUI API-format workflow used by the hybrid pipeline to upscale",
+      "lower-resolution API-generated images (e.g. 576x1024 from Flux Pro).",
+      "",
+      "The pipeline:",
+      "  1. Uploads the raw API image via /upload/image.",
+      "  2. Injects the uploaded filename into node 1 (LoadImage).",
+      "  3. Runs 4x-UltraSharp: e.g. 576x1024 -> 2304x4096.",
+      "  4. Retrieves and verifies the upscaled PNG (~2304x4096 from 576x1024 input).",
+      "Final MP4 is still 1080x1920: FFmpeg scales clause images to SHORTS_VIDEO_*.",
+      "",
+      "Required file:",
+      "  models/upscale_models/ -> 4x-UltraSharp.pth",
+      "",
+      "This workflow is separate from the generation workflow.",
+      "Set SHORTS_COMFY_UPSCALE_WORKFLOW_NAME=upscale_4x_ultrasharp in .env."
+    ]
+  },
+  "prompt": {
+    "1": {
+      "class_type": "LoadImage",
+      "inputs": {
+        "image": "placeholder.png"
+      },
+      "_meta": {"title": "LOAD INPUT IMAGE"}
+    },
+    "2": {
+      "class_type": "UpscaleModelLoader",
+      "inputs": {
+        "model_name": "4x-UltraSharp.pth"
+      },
+      "_meta": {"title": "Load 4x-UltraSharp"}
+    },
+    "3": {
+      "class_type": "ImageUpscaleWithModel",
+      "inputs": {
+        "upscale_model": ["2", 0],
+        "image": ["1", 0]
+      },
+      "_meta": {"title": "4x UltraSharp Upscale"}
+    },
+    "4": {
+      "class_type": "SaveImage",
+      "inputs": {
+        "images": ["3", 0],
+        "filename_prefix": "upscaled_api"
+      },
+      "_meta": {"title": "SAVE UPSCALED"}
+    }
+  }
+}

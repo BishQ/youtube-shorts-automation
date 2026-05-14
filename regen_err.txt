@@ -1,0 +1,56 @@
+INFO  ============================================================
+INFO  STAGE 1/5 — Generating plan (14 clauses, 155-162 words) ...
+INFO  ============================================================
+INFO  HTTP Request: GET https://en.wikipedia.org/api/rest_v1/page/summary/Kareem_Abdul-Jabbar "HTTP/1.1 403 Forbidden"
+INFO  HTTP Request: GET https://en.wikipedia.org/w/api.php?action=opensearch&search=Kareem%20Abdul-Jabbar&limit=1&namespace=0&format=json "HTTP/1.1 403 Forbidden"
+INFO  HTTP Request: GET https://en.wikipedia.org/w/api.php?action=query&prop=extracts&exintro=false&explaintext=true&exsectionformat=plain&titles=Kareem_Abdul-Jabbar&format=json&redirects=1 "HTTP/1.1 403 Forbidden"
+C:\Users\35383\Documents\Youtube shorts automation\src\shorts_pipeline\planner\router.py:217: UserWarning: wiki_grounding_missing: figure='Kareem Abdul-Jabbar' — proceeding without Wikipedia facts — hallucination risk is higher
+  return GeminiPlannerClient(self._settings, model=model_name).generate_plan(
+INFO  AFC is enabled with max remote calls: 10.
+INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent "HTTP/1.1 429 Too Many Requests"
+INFO  HTTP Request: GET https://en.wikipedia.org/api/rest_v1/page/summary/Kareem_Abdul-Jabbar "HTTP/1.1 403 Forbidden"
+INFO  HTTP Request: GET https://en.wikipedia.org/w/api.php?action=opensearch&search=Kareem%20Abdul-Jabbar&limit=1&namespace=0&format=json "HTTP/1.1 403 Forbidden"
+INFO  HTTP Request: GET https://en.wikipedia.org/w/api.php?action=query&prop=extracts&exintro=false&explaintext=true&exsectionformat=plain&titles=Kareem_Abdul-Jabbar&format=json&redirects=1 "HTTP/1.1 403 Forbidden"
+INFO  AFC is enabled with max remote calls: 10.
+INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO  AFC is enabled with max remote calls: 10.
+INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO  AFC is enabled with max remote calls: 10.
+INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 503 Service Unavailable"
+INFO  AFC is enabled with max remote calls: 10.
+INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 503 Service Unavailable"
+INFO  AFC is enabled with max remote calls: 10.
+INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 503 Service Unavailable"
+INFO  AFC is enabled with max remote calls: 10.
+INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO  AFC is enabled with max remote calls: 10.
+INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 503 Service Unavailable"
+INFO  AFC is enabled with max remote calls: 10.
+INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 503 Service Unavailable"
+INFO  AFC is enabled with max remote calls: 10.
+INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 503 Service Unavailable"
+INFO  AFC is enabled with max remote calls: 10.
+INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 503 Service Unavailable"
+INFO  AFC is enabled with max remote calls: 10.
+INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 200 OK"
+INFO  AFC is enabled with max remote calls: 10.
+INFO  HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent "HTTP/1.1 200 OK"
+Traceback (most recent call last):
+  File "C:\Users\35383\Documents\Youtube shorts automation\src\shorts_pipeline\planner\gemini_client.py", line 224, in generate_plan
+    validate_english_figure_v1(plan, topic_type=topic_type, language=language)
+  File "C:\Users\35383\Documents\Youtube shorts automation\src\shorts_pipeline\planner\schema.py", line 392, in validate_english_figure_v1
+    raise ValueError("V1 only supports language=en")
+ValueError: V1 only supports language=en
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\35383\Documents\Youtube shorts automation\regen_kareem_14clauses.py", line 39, in <module>
+    plan = planner.generate_plan(FIGURE_NAME, topic_type="historical_figure", language="english")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\35383\Documents\Youtube shorts automation\src\shorts_pipeline\planner\router.py", line 217, in generate_plan
+    return GeminiPlannerClient(self._settings, model=model_name).generate_plan(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\35383\Documents\Youtube shorts automation\src\shorts_pipeline\planner\gemini_client.py", line 236, in generate_plan
+    raise GeminiPlannerError(
+shorts_pipeline.planner.gemini_client.GeminiPlannerError: Plan validation failed after 5 attempts: V1 only supports language=en

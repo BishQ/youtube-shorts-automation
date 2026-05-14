@@ -1,0 +1,2828 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shorts Pipeline</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=JetBrains+Mono:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/static/app.css?v=20260513e">
+</head>
+<body>
+
+<canvas id="bg-canvas"></canvas>
+
+<div id="app">
+
+  <div class="app-chrome">
+  <!-- Header -->
+  <header>
+    <div class="brand">
+      <div class="brand-icon" aria-hidden="true">🎬</div>
+      <div class="brand-copy">
+        <div class="brand-title">Shorts Pipeline</div>
+        <p class="brand-sub">YouTube Shorts Automation</p>
+      </div>
+    </div>
+    <div class="header-right">
+      <div class="header-badge">V1 · Historical Figures</div>
+      <div id="gemini-usage" title="">Gemini usage: …</div>
+    </div>
+  </header>
+
+  <nav class="app-view-nav" role="tablist" aria-label="Main views">
+    <button type="button" class="view-tab-btn active" id="tab-production" role="tab" aria-selected="true">
+      Production
+    </button>
+    <button type="button" class="view-tab-btn" id="tab-analytics" role="tab" aria-selected="false">
+      Time Intelligence
+    </button>
+  </nav>
+  </div><!-- /app-chrome -->
+
+  <div class="app-views" id="app-views">
+  <div id="view-production" class="view-shell">
+
+  <!-- Create Job -->
+  <div class="card gap-section u-animate-fade-up">
+    <div class="section-label">New Job</div>
+    <div class="row2">
+      <div class="field">
+        <label for="figure">Historical figure</label>
+        <div class="input-icon-wrap">
+          <input type="text" id="figure" placeholder="e.g. Genghis Khan" />
+          <span class="icon">👤</span>
+        </div>
+      </div>
+      <div class="field">
+        <label for="bgm">BGM file path</label>
+        <div class="input-icon-wrap">
+          <input type="text" id="bgm" placeholder="extra tools/bgm.mp3" value="extra tools/bgm.mp3" />
+          <span class="icon">🎵</span>
+        </div>
+      </div>
+    </div>
+    <div class="toggle-row">
+      <label class="toggle-label">
+        <input type="checkbox" id="wm" />
+        <span class="pill"></span>
+        Watermark
+      </label>
+      <label class="toggle-label">
+        <input type="checkbox" id="plate" />
+        <span class="pill"></span>
+        End plate
+      </label>
+      <label class="toggle-label">
+        <input type="checkbox" id="overlay" />
+        <span class="pill"></span>
+        Snow overlay
+      </label>
+    </div>
+    <div class="btn-row">
+      <button type="button" class="btn btn-primary" id="btn-create-run">
+        <span id="create-btn-icon">▶</span>
+        <span id="create-btn-text">Create &amp; Run</span>
+      </button>
+      <button type="button" class="btn btn-ghost" id="btn-create-only">Create only</button>
+    </div>
+  </div>
+
+  <!-- Batch Queue -->
+  <div class="card gap-section" id="batch-section">
+    <button type="button" class="collapsible-header" id="batch-toggle" aria-expanded="false" aria-controls="batch-body">
+      <div class="section-label section-label--split">
+        Batch Queue
+        <span id="batch-header-badge"></span>
+      </div>
+      <span class="chevron" id="batch-chevron" aria-hidden="true">▾</span>
+    </button>
+    <div class="collapsible-body" id="batch-body">
+      <div class="batch-spacer" aria-hidden="true"></div>
+
+      <!-- Input area (shown when no active batch) -->
+      <div id="batch-input-area">
+        <div class="batch-dropzone" id="batch-dropzone">
+          <div class="drop-icon" id="batch-drop-icon">📄</div>
+          <div class="batch-dropzone-msg" id="batch-dropzone-msg">
+            Drop a file here, or <span class="link-gold" id="batch-file-label" role="button" tabindex="0">browse</span>
+          </div>
+          <div class="batch-loaded-file" id="batch-loaded-file" hidden>
+            <span class="batch-loaded-file-label" id="batch-loaded-file-label"></span>
+            <button type="button" class="batch-clear-file btn btn-ghost btn--sm" id="batch-clear-file" title="Clear file">✕</button>
+          </div>
+          <div class="batch-parse-status" id="batch-parse-status" hidden></div>
+          <div class="dropzone-hint">PDF &nbsp;·&nbsp; Word (.docx) &nbsp;·&nbsp; TXT &nbsp;·&nbsp; MD</div>
+          <input type="file" id="batch-file-input" accept=".txt,.pdf,.docx,.doc,.md">
+        </div>
+        <textarea class="batch-textarea" id="batch-text"
+          placeholder="1. Adolf Hitler&#10;2. Joseph Stalin&#10;3. Napoleon Bonaparte&#10;4. Genghis Khan&#10;..."></textarea>
+        <div class="field field--tight">
+          <label for="batch-bgm">BGM file path</label>
+          <input type="text" id="batch-bgm" placeholder="extra tools/bgm.mp3" value="extra tools/bgm.mp3" />
+        </div>
+        <div class="btn-row">
+          <button type="button" class="btn btn-ghost btn--sm" id="btn-batch-preview">🔍 Preview topics</button>
+          <button type="button" class="btn btn-primary btn--sm" id="btn-batch-create" disabled>▶ Start Batch</button>
+        </div>
+        <div id="batch-preview-list"></div>
+      </div>
+
+      <!-- Active batch panel (shown when batch is running/paused) -->
+      <div id="batch-active-panel" style="display:none;">
+        <div class="batch-summary">
+          <span id="batch-active-name"></span>
+          <span class="batch-status-pill" id="batch-status-pill">idle</span>
+        </div>
+        <div id="batch-prog-label">0 / 0 topics</div>
+        <div class="batch-prog-wrap"><div class="batch-prog-fill" id="batch-prog-fill" style="width:0%"></div></div>
+        <div class="topic-list" id="batch-topic-list"></div>
+        <div class="btn-row btn-row--batch-actions">
+          <button type="button" class="btn btn-ghost btn--sm" id="btn-batch-pause-active">⏸ Pause</button>
+          <button type="button" class="btn btn-ghost btn--sm" id="btn-batch-resume-active" style="display:none;">▶ Resume</button>
+          <button type="button" class="btn btn-ghost btn--sm btn-ghost-muted" id="btn-batch-new">+ New batch</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Download banner (shown when done) -->
+  <div id="download-banner">
+    <div>
+      <div class="dl-info">✓ &nbsp;Video ready!</div>
+      <div class="dl-sub" id="dl-sub-text">Pipeline completed successfully</div>
+    </div>
+    <div class="flex-actions">
+      <button type="button" id="btn-edit-script" class="btn btn-ghost" title="Edit or regenerate the narration script">✏ Edit Script</button>
+      <button type="button" id="btn-view-publish" class="btn btn-ghost btn-view-publish">📄 View Publish Data</button>
+      <a id="dl-link-long" href="#" class="btn btn-ghost" download="final_long.mp4" style="display:none">⬇ Long MP4</a>
+      <a id="dl-link" href="#" class="btn btn-primary" download="final.mp4">⬇ Download MP4</a>
+    </div>
+  </div>
+
+  <!-- Script editor panel -->
+  <div id="script-panel" style="display:none" class="card gap-section">
+    <div class="section-label">Script Editor</div>
+    <div style="display:flex;gap:8px;align-items:center;margin-bottom:6px">
+      <span id="script-figure-label" style="font-size:.8rem;opacity:.7;font-family:var(--mono)"></span>
+      <span id="script-word-count" style="font-size:.78rem;background:rgba(232,184,75,.18);color:#e8b84b;padding:1px 7px;border-radius:10px;font-family:var(--mono)">0 words</span>
+    </div>
+    <textarea id="script-textarea" rows="9" placeholder="Full script will load here..."
+      style="width:100%;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);
+             border-radius:8px;padding:12px;font-size:.82rem;color:#e8e8e8;
+             font-family:var(--mono);resize:vertical;line-height:1.6;box-sizing:border-box"></textarea>
+    <details id="script-clauses-details" style="margin-top:6px">
+      <summary style="cursor:pointer;font-size:.78rem;opacity:.65;user-select:none">Show / edit individual clauses (14 clauses)</summary>
+      <div id="script-clauses-list" style="margin-top:10px;display:flex;flex-direction:column;gap:6px"></div>
+    </details>
+    <div style="margin-top:10px">
+      <label style="font-size:.78rem;opacity:.65;margin-bottom:4px;display:block">Feedback for AI regeneration (optional)</label>
+      <textarea id="script-feedback" rows="3" placeholder="e.g. Make it more dramatic. Focus more on his early struggles. Avoid mentioning dates."
+        style="width:100%;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1);
+               border-radius:8px;padding:10px;font-size:.8rem;color:#e8e8e8;
+               font-family:var(--mono);resize:vertical;box-sizing:border-box"></textarea>
+    </div>
+    <div class="flex-actions" style="margin-top:10px;gap:8px;flex-wrap:wrap">
+      <button type="button" id="btn-script-save" class="btn btn-ghost">💾 Save & Re-render</button>
+      <button type="button" id="btn-script-regen" class="btn btn-primary">🤖 Regenerate with Feedback</button>
+      <button type="button" id="btn-script-cancel" class="btn btn-ghost" style="margin-left:auto;opacity:.6">✕ Close</button>
+    </div>
+    <div id="script-panel-status" style="font-size:.78rem;opacity:.7;margin-top:4px;min-height:18px"></div>
+  </div>
+
+  <!-- Publish Control Panel (structured dashboard; data from publish_package.json) -->
+  <div id="publish-panel" class="pub-dash gap-section">
+    <section class="pub-dash-hero card" aria-label="Publish readiness">
+      <div class="pub-dash-hero-top">
+        <div class="pub-dash-hero-left">
+          <div class="pub-dash-kicker">
+            <span class="pub-dash-status" id="pub-status-chip">Ready to publish</span>
+            <span class="pub-dash-pill" id="pub-job-id-chip">—</span>
+          </div>
+          <h2 class="pub-dash-hero-title">YouTube publish workspace</h2>
+          <p class="pub-dash-hero-sub" id="pub-job-name">Loading…</p>
+        </div>
+        <div class="pub-dash-hero-actions">
+          <a class="btn btn-ghost btn--sm" id="pub-link-json" href="#" target="_blank" rel="noopener">JSON file</a>
+          <a class="btn btn-ghost btn--sm" id="pub-link-txt" href="#" target="_blank" rel="noopener">Paste-ready .txt</a>
+        </div>
+      </div>
+      <div class="pub-dash-meta" role="group" aria-label="Job metadata">
+        <div class="pub-dash-meta-item">
+          <span class="pub-dash-meta-label">Publish status</span>
+          <span class="pub-dash-meta-value" id="pub-publish-status">—</span>
+        </div>
+        <div class="pub-dash-meta-item">
+          <span class="pub-dash-meta-label">Pipeline runtime</span>
+          <span class="pub-dash-meta-value" id="pub-pipeline-time">—</span>
+        </div>
+        <div class="pub-dash-meta-item">
+          <span class="pub-dash-meta-label">Scheduled</span>
+          <span class="pub-dash-meta-value pub-dash-meta-muted" id="pub-scheduled-note">Not scheduled — upload manually</span>
+        </div>
+        <div class="pub-dash-meta-item">
+          <span class="pub-dash-meta-label">Video asset</span>
+          <span class="pub-dash-meta-value" id="pub-video-note">Final MP4 from this job</span>
+        </div>
+      </div>
+      <div class="pub-dash-metrics" id="pub-metrics-row">
+        <div class="pub-metric pub-metric--seo">
+          <div class="pub-metric-ring" aria-hidden="true"></div>
+          <div class="pub-metric-body">
+            <span class="pub-metric-label">SEO score</span>
+            <span class="pub-metric-val" id="pub-seo-score">—</span>
+            <span class="pub-metric-hint">From description + tag depth</span>
+          </div>
+        </div>
+        <div class="pub-metric pub-metric--ctr">
+          <div class="pub-metric-ring" aria-hidden="true"></div>
+          <div class="pub-metric-body">
+            <span class="pub-metric-label">CTR prediction</span>
+            <span class="pub-metric-val" id="pub-ctr-pred">—</span>
+            <span class="pub-metric-hint">Heuristic preview</span>
+          </div>
+        </div>
+        <div class="pub-metric pub-metric--viral">
+          <div class="pub-metric-ring" aria-hidden="true"></div>
+          <div class="pub-metric-body">
+            <span class="pub-metric-label">Viral probability</span>
+            <span class="pub-metric-val" id="pub-viral-prob">—</span>
+            <span class="pub-metric-hint">Packaging strength index</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="pub-dash-grid">
+      <aside class="pub-dash-aside">
+        <div class="pub-dash-card">
+          <div class="pub-dash-card-head">
+            <span class="pub-dash-card-icon">🖼</span>
+            <h3 class="pub-dash-card-title">Thumbnail preview</h3>
+          </div>
+          <div class="pub-thumb-frame">
+            <img id="pub-thumb-img" class="pub-thumb-img" src="" alt="First-frame thumbnail preview" onclick="(function(l,im){if(l){l.classList.add('active');l.removeAttribute('hidden');}if(im)im.src=this.src;}).call(this,document.getElementById('lightbox'),document.getElementById('lightbox-img'));" onerror="this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'200\' height=\'350\'><rect width=\'200\' height=\'350\' fill=\'%23111\'/><text x=\'50%\' y=\'50%\' fill=\'%23555\' text-anchor=\'middle\' font-family=\'sans-serif\'>No Image</text></svg>'"/>
+          </div>
+          <p class="pub-thumb-caption">Clause 0 still — tap to zoom</p>
+        </div>
+        <div class="pub-dash-card pub-dash-card--accent">
+          <div class="pub-dash-card-head">
+            <span class="pub-dash-card-icon">✨</span>
+            <h3 class="pub-dash-card-title">Thumbnail prompt</h3>
+            <button type="button" class="copy-btn copy-btn--pub" id="copy-thumb">Copy prompt</button>
+          </div>
+          <div id="pub-thumb-body" class="pub-thumb-structured"></div>
+        </div>
+      </aside>
+
+      <div class="pub-dash-main">
+        <section class="pub-dash-card pub-dash-card--herofield">
+          <div class="pub-dash-card-head">
+            <span class="pub-dash-card-icon">★</span>
+            <h3 class="pub-dash-card-title">Primary title</h3>
+            <button type="button" class="copy-btn copy-btn--pub" id="copy-title-main">Copy</button>
+          </div>
+          <p class="pub-primary-title" id="pub-main-title-text"></p>
+        </section>
+
+        <section class="pub-dash-card">
+          <div class="pub-dash-card-head">
+            <span class="pub-dash-card-icon">◇</span>
+            <h3 class="pub-dash-card-title">Alternate titles</h3>
+            <button type="button" class="copy-btn copy-btn--pub" id="copy-titles">Copy all</button>
+          </div>
+          <div id="pub-titles-body" class="pub-title-stack"></div>
+        </section>
+
+        <section class="pub-dash-card">
+          <div class="pub-dash-card-head">
+            <span class="pub-dash-card-icon">📝</span>
+            <h3 class="pub-dash-card-title">Description</h3>
+            <button type="button" class="copy-btn copy-btn--pub" id="copy-desc">Copy</button>
+          </div>
+          <div id="pub-desc-body" class="pub-desc-prose"></div>
+        </section>
+
+        <div class="pub-dash-two">
+          <section class="pub-dash-card">
+            <div class="pub-dash-card-head">
+              <span class="pub-dash-card-icon">#</span>
+              <h3 class="pub-dash-card-title">Tags</h3>
+              <button type="button" class="copy-btn copy-btn--pub" id="copy-tags">Copy</button>
+            </div>
+            <div id="pub-tags-body" class="pub-chip-cloud"></div>
+          </section>
+          <section class="pub-dash-card">
+            <div class="pub-dash-card-head">
+              <span class="pub-dash-card-icon">#</span>
+              <h3 class="pub-dash-card-title">Hashtags</h3>
+              <button type="button" class="copy-btn copy-btn--pub" id="copy-hashtags">Copy</button>
+            </div>
+            <div id="pub-hashtags-body" class="pub-chip-cloud pub-chip-cloud--gold"></div>
+          </section>
+        </div>
+
+        <details class="pub-dash-details">
+          <summary class="pub-dash-details-sum">Advanced · raw <code>publish_package.json</code></summary>
+          <div class="pub-json-wrap">
+            <button type="button" class="copy-btn copy-btn--pub pub-json-copy" id="copy-json-full">Copy JSON</button>
+            <pre id="pub-json-pre" class="pub-json-pre" aria-label="Serialized publish package"></pre>
+          </div>
+        </details>
+
+        <details class="pub-dash-details pub-dash-details--strat">
+          <summary class="pub-dash-details-sum" id="pub-strat-toggle">
+            <span>🧠 CTR strategy &amp; psychology</span>
+            <span class="chevron" id="pub-strat-chevron">▾</span>
+          </summary>
+          <div id="pub-strat-body" class="pub-strat-panel">
+            <div id="pub-strat-content" class="pub-strat-grid"></div>
+          </div>
+        </details>
+      </div>
+    </div>
+  </div>
+
+  <!-- Pipeline progress -->
+  <div class="card gap-section" id="pipeline-section">
+    <div class="section-label">Pipeline Progress</div>
+
+    <div class="status-bar" id="status-bar">
+      <div class="status-dot" id="status-dot"></div>
+      <span id="status-text">Idle — create a job to start</span>
+      <span id="status-elapsed"></span>
+    </div>
+    <div id="job-cooperative-actions" class="btn-row">
+      <button type="button" class="btn btn-ghost btn--sm" id="btn-pause-after-image">⏸ Pause after current image</button>
+      <button type="button" class="btn btn-primary btn--sm" id="btn-continue-job" style="display:none;">▶ Continue run</button>
+    </div>
+
+    <div class="pipeline-track" id="pipeline-track">
+      <!-- Steps injected by JS -->
+    </div>
+
+    <details open id="timing-breakdown-details">
+      <summary>
+        Execution time breakdown
+        <span id="timing-total-inline"></span>
+      </summary>
+      <div id="timing-rows-body">
+        <p class="log-empty" id="timing-rows-empty">Select a job to see measured time per pipeline stage.</p>
+        <div id="timing-rows-live" style="display:none;"></div>
+      </div>
+    </details>
+  </div>
+
+  <!-- Live logs -->
+  <div class="card gap-section" id="logs-section">
+    <div class="section-label section-label--split">
+      <span class="section-label__title-row">
+        Live Logs
+        <span id="log-count" class="text-muted log-count-pill"></span>
+      </span>
+      <button type="button" class="btn btn-ghost btn--sm" id="btn-clear-logs">Clear</button>
+    </div>
+    <div class="log-terminal" id="log-terminal">
+      <div class="log-empty">No logs yet — start a pipeline run.</div>
+    </div>
+  </div>
+
+  <!-- Jobs list -->
+  <div class="card gap-section" id="jobs-section">
+    <div class="section-label section-label--split">
+      <span>Jobs</span>
+      <button type="button" class="btn btn-ghost btn--sm" id="btn-refresh-jobs">↻ Refresh</button>
+    </div>
+    <div class="job-list" id="job-list">
+      <div class="log-empty">Loading jobs…</div>
+    </div>
+  </div>
+
+  <div class="card gap-section" id="clause-review-section">
+    <div class="section-label">Recover folder &amp; clause images</div>
+    <p class="text-muted prose-compact">
+      Paste the full path to the job folder on this machine (under <code class="inline-code">data/jobs/…</code>) or only the job id (e.g. <code class="inline-code">jamukha-75f2535c</code>).
+      <strong>Scan</strong> checks <code>plan.json</code> and clause PNGs (works even if the job is not in the database yet).
+      <strong>Reconcile</strong> registers valid PNGs into the database and sets the job to <em>paused</em> — then use <strong>Continue run</strong> in the pipeline header.
+      If the job is missing from the database, BGM is required once: the field below is filled automatically when the server finds <code class="inline-code">extra tools/bgm.mp3</code> (or <code>.wav</code>) next to the project, or <code class="inline-code">SHORTS_DEFAULT_BGM_PATH</code> in <code>.env</code>. You can still override with a path or <code class="inline-code">import_meta.json</code>: <code class="inline-code">{"bgm_path":"C:/music.mp3"}</code>
+    </p>
+    <div class="field field--tight">
+      <label for="inp-job-folder-path">Job folder path or id</label>
+      <input type="text" id="inp-job-folder-path" class="input-reconcile" placeholder="jamukha-75f2535c" />
+    </div>
+    <div class="field field--tight">
+      <label for="inp-reconcile-bgm-path">BGM file path (optional — auto-filled when found)</label>
+      <input type="text" id="inp-reconcile-bgm-path" class="input-reconcile" placeholder="…\extra tools\bgm.mp3  or  .wav" />
+    </div>
+    <div class="btn-row btn-row--wrap">
+      <button type="button" class="btn btn-ghost btn--sm" id="btn-scan-job-folder">Scan folder</button>
+      <button type="button" class="btn btn-primary btn--sm" id="btn-reconcile-job-folder">Reconcile → DB + pause</button>
+      <button type="button" class="btn btn-ghost btn--sm btn-danger-outline" id="btn-reset-all-images">Reset all clause images</button>
+    </div>
+    <pre id="folder-scan-result"></pre>
+    <div id="clause-images-wrap" style="display:none;">
+      <div class="section-label">Selected job — clause thumbnails</div>
+      <div class="clause-img-grid" id="clause-images-grid"></div>
+    </div>
+  </div>
+
+  <!-- Config -->
+  <div class="card" id="config-section">
+    <button type="button" class="collapsible-header" id="config-toggle" aria-expanded="false" aria-controls="config-body">
+      <div class="section-label section-label--split">Settings</div>
+      <span class="chevron" id="config-chevron" aria-hidden="true">▾</span>
+    </button>
+    <div class="collapsible-body" id="config-body">
+      <div class="batch-spacer" aria-hidden="true"></div>
+      <div class="row2">
+        <div class="field">
+          <label for="cfg-comfy">ComfyUI workflow</label>
+          <input type="text" id="cfg-comfy" placeholder="flux_pro_4k" />
+        </div>
+        <div class="field">
+          <label for="cfg-whisper">Whisper model size</label>
+          <input type="text" id="cfg-whisper" placeholder="base" />
+        </div>
+      </div>
+      <div class="btn-row">
+        <button type="button" class="btn btn-primary" id="btn-save-cfg">Save</button>
+        <button type="button" class="btn btn-ghost" id="btn-reload-cfg">Reload</button>
+      </div>
+    </div>
+  </div>
+
+  </div><!-- /view-production -->
+
+  <div id="view-analytics" class="view-shell analytics-shell" hidden>
+    <div class="card gap-section">
+      <div class="section-label section-label--split">
+        <span class="ana-hero-title">Time Intelligence</span>
+        <button type="button" class="btn btn-ghost btn--sm" id="btn-analytics-refresh">
+          ⟳ Refresh
+        </button>
+      </div>
+      <p class="analytics-lede">
+        All figures come from SQLite stage timers — recorded when each pipeline stage actually starts and finishes.
+      </p>
+      <div class="timeline-toolbar">
+        <span class="timeline-toolbar__label">Daily chart</span>
+        <button type="button" class="btn btn-ghost ana-period-btn btn--sm" data-period="week">7 days</button>
+        <button type="button" class="btn btn-ghost ana-period-btn btn--sm active" data-period="30d">30 days</button>
+      </div>
+      <div class="kpi-grid-an">
+        <div class="kpi-tile-an">
+          <span class="kpi-meta-an">Tracked time · all videos</span>
+          <span class="kpi-value-an" id="ana-kpi-total-h">—</span>
+          <span class="kpi-sub-an" id="ana-kpi-total-sub">Sum of sealed + live stage segments.</span>
+        </div>
+        <div class="kpi-tile-an">
+          <span class="kpi-meta-an">Videos with timing rows</span>
+          <span class="kpi-value-an" id="ana-kpi-jobs">—</span>
+          <span class="kpi-sub-an" id="ana-kpi-seg">Across your recent job history.</span>
+        </div>
+        <div class="kpi-tile-an">
+          <span class="kpi-meta-an">Peak single video</span>
+          <span class="kpi-value-an" id="ana-kpi-peak-h">—</span>
+          <span class="kpi-sub-an">Long wall‑clock runway / video.</span>
+        </div>
+        <div class="kpi-tile-an">
+          <span class="kpi-meta-an">Rolling window</span>
+          <span class="kpi-value-an kpi-window-value" id="ana-kpi-window">30d · daily</span>
+          <span class="kpi-sub-an" id="ana-kpi-bar-sum">Tracked in selected spark range.</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="card gap-section">
+      <div class="section-label">Share of tracked time · by stage</div>
+      <p class="analytics-hint">Identifies macro bottlenecks (e.g. image generation vs voiceover).</p>
+      <div class="stage-share-rows" id="ana-stage-rows"></div>
+    </div>
+
+    <div class="card gap-section">
+      <div class="section-label">Engagement · workload by day</div>
+      <div class="spark-wrap-an">
+        <div class="spark-grid-an" id="ana-spark-cols"></div>
+        <p class="spark-tip-an" id="ana-spark-tip">Bars are hours summed from stage segment starts in each local day.</p>
+      </div>
+    </div>
+
+    <div class="card gap-section">
+      <div class="section-label">Activity heat · weekday × hour</div>
+      <p class="analytics-hint">Where heavy runs cluster in your typical week.</p>
+      <div class="an-heatmap-shell">
+        <div class="hm-matrix" id="ana-heatmap" aria-hidden="false"></div>
+      </div>
+    </div>
+
+    <div class="card gap-section">
+      <div class="section-label">Videos ranked by total tracked time</div>
+      <p class="analytics-hint analytics-hint--loose">
+        Expand a row for per‑stage minute splits — inefficient outliers surface quickly.</p>
+      <div class="rank-list-an" id="ana-rank-list"></div>
+    </div>
+  </div>
+  </div><!-- /app-views -->
+
+  <!-- Image zoom: inside #app so it cannot sit above the root stacking context and steal hits when "closed". -->
+  <div id="lightbox" hidden onclick="this.setAttribute('hidden','');this.classList.remove('active');">
+    <img id="lightbox-img" src="" alt="Zoomed thumbnail" />
+  </div>
+
+</div>
+
+<!-- Resume modal -->
+<div id="resume-modal" hidden>
+  <div class="modal-backdrop" id="resume-backdrop"></div>
+  <div class="modal-card">
+    <div class="modal-icon">📋</div>
+    <div class="modal-title">Resume incomplete batch?</div>
+    <div class="modal-sub" id="resume-modal-sub">Loading...</div>
+    <label class="modal-label" for="resume-select">Start from:</label>
+    <select class="resume-select" id="resume-select"></select>
+    <div class="modal-btn-row">
+      <button type="button" class="btn btn-primary btn--sm" id="btn-resume-go">▶ Continue</button>
+      <button type="button" class="btn btn-ghost btn--sm" id="btn-resume-restart">↺ Start over</button>
+      <button type="button" class="btn btn-ghost btn--sm btn-ghost-muted" id="btn-resume-dismiss">✕ Dismiss</button>
+    </div>
+  </div>
+</div>
+
+<div id="toast"></div>
+
+<script>
+// ── Canvas background (full-quality; base gradient cached on resize; finite guards) ──
+(function(){
+  const c = document.getElementById('bg-canvas');
+  if (!c) return;
+  const ctx = c.getContext('2d');
+  if (!ctx) return;
+
+  let W = 1;
+  let H = 1;
+  let particles = [];
+  let bgGradient = null;
+  let resizeTid = 0;
+
+  const GOLD   = 'rgba(232,184,75,';
+  const WHITE  = 'rgba(200,200,255,';
+
+  const reduceMotion = typeof window.matchMedia === 'function'
+    && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  /** Lighter default load — still looks full; fewer O(n²) line checks per frame. */
+  function particleCount(){
+    const area = W * H;
+    return Math.min(64, Math.max(36, Math.round(area / 22000)));
+  }
+
+  function rebuildBgGradient(){
+    if (!Number.isFinite(W) || !Number.isFinite(H) || W <= 0 || H <= 0) return;
+    const gRadius = Math.max(W, H) * 0.75;
+    bgGradient = ctx.createRadialGradient(W * 0.5, H * 0.4, 0, W * 0.5, H * 0.4, gRadius);
+    bgGradient.addColorStop(0, '#0d0d20');
+    bgGradient.addColorStop(1, '#07070f');
+  }
+
+  function resize(){
+    const nw = window.innerWidth;
+    const nh = window.innerHeight;
+    W = Number.isFinite(nw) && nw > 0 ? nw : 1;
+    H = Number.isFinite(nh) && nh > 0 ? nh : 1;
+    c.width = W;
+    c.height = H;
+    rebuildBgGradient();
+  }
+
+  class P {
+    constructor(){
+      this.x  = Math.random() * W;
+      this.y  = Math.random() * H;
+      this.r  = Math.random() * 1.6 + .3;
+      this.vx = (Math.random() - .5) * .25;
+      this.vy = (Math.random() - .5) * .25;
+      this.a  = Math.random() * .45 + .05;
+      this.col = Math.random() > .72 ? GOLD : WHITE;
+      this.twinkle = Math.random() * Math.PI * 2;
+      this.twinkleSpeed = .008 + Math.random() * .012;
+    }
+    update(){
+      this.x += this.vx;
+      this.y += this.vy;
+      this.twinkle += this.twinkleSpeed;
+      if(this.x < -10) this.x = W + 10;
+      if(this.x > W+10) this.x = -10;
+      if(this.y < -10) this.y = H + 10;
+      if(this.y > H+10) this.y = -10;
+    }
+    draw(){
+      const alpha = this.a * (.6 + .4 * Math.sin(this.twinkle));
+      ctx.beginPath();
+      ctx.arc(this.x, this.y, this.r, 0, Math.PI*2);
+      ctx.fillStyle = this.col + alpha + ')';
+      ctx.fill();
+    }
+  }
+
+  function spawnParticles(){
+    particles = Array.from({length: particleCount()}, () => new P());
+  }
+
+  function init(){
+    resize();
+    mouseX = W * 0.5;
+    mouseY = H * 0.5;
+    spawnParticles();
+  }
+
+  function drawConnections(){
+    const n = particles.length;
+    for(let i = 0; i < n; i++){
+      const p = particles[i];
+      if(p.col !== GOLD) continue;
+      for(let j = i+1; j < n; j++){
+        const q = particles[j];
+        if(q.col !== GOLD) continue;
+        const dx = p.x - q.x, dy = p.y - q.y;
+        const distSq = dx*dx + dy*dy;
+        if(distSq >= 19600) continue;
+        const dist = Math.sqrt(distSq);
+        ctx.beginPath();
+        ctx.moveTo(p.x, p.y);
+        ctx.lineTo(q.x, q.y);
+        ctx.strokeStyle = 'rgba(232,184,75,' + (.06 * (1 - dist/140)) + ')';
+        ctx.lineWidth = .5;
+        ctx.stroke();
+      }
+    }
+  }
+
+  let mouseX = 0.5;
+  let mouseY = 0.5;
+  window.addEventListener('mousemove', e => {
+    const x = e.clientX;
+    const y = e.clientY;
+    if (Number.isFinite(x)) mouseX = x;
+    if (Number.isFinite(y)) mouseY = y;
+  }, { passive: true });
+
+  function paintStatic(){
+    resize();
+    if (!bgGradient) rebuildBgGradient();
+    if (bgGradient) {
+      ctx.fillStyle = bgGradient;
+      ctx.fillRect(0, 0, W, H);
+    }
+  }
+
+  if (reduceMotion) {
+    paintStatic();
+    window.addEventListener('resize', () => {
+      clearTimeout(resizeTid);
+      resizeTid = setTimeout(paintStatic, 120);
+    });
+    return;
+  }
+
+  let time = 0;
+  let frameIx = 0;
+  let rafId = 0;
+
+  function loop(){
+    frameIx++;
+    time += 0.02;
+    if (!Number.isFinite(W) || !Number.isFinite(H) || W <= 0 || H <= 0 || !bgGradient) {
+      rafId = requestAnimationFrame(loop);
+      return;
+    }
+    const mx = Number.isFinite(mouseX) ? mouseX : W * 0.5;
+    const my = Number.isFinite(mouseY) ? mouseY : H * 0.5;
+
+    ctx.fillStyle = bgGradient;
+    ctx.fillRect(0, 0, W, H);
+
+    // Mouse glow + connection mesh are expensive; stagger across frames.
+    if ((frameIx & 1) === 0) {
+      const intensity = 0.03 + 0.015 * Math.sin(time);
+      const glow = ctx.createRadialGradient(mx, my, 0, mx, my, 500);
+      glow.addColorStop(0, `rgba(232,184,75,${intensity})`);
+      glow.addColorStop(1, 'rgba(232,184,75,0)');
+      ctx.globalCompositeOperation = 'screen';
+      ctx.fillStyle = glow;
+      ctx.fillRect(0, 0, W, H);
+      ctx.globalCompositeOperation = 'source-over';
+    }
+
+    if ((frameIx & 1) === 0) drawConnections();
+
+    for (let i = 0, n = particles.length; i < n; i++) {
+      particles[i].update();
+      particles[i].draw();
+    }
+    rafId = requestAnimationFrame(loop);
+  }
+
+  function pauseBgLoop(){
+    if (rafId) {
+      cancelAnimationFrame(rafId);
+      rafId = 0;
+    }
+  }
+  function resumeBgLoop(){
+    if (!rafId && !document.hidden) rafId = requestAnimationFrame(loop);
+  }
+
+  document.addEventListener('visibilitychange', () => {
+    if (document.hidden) pauseBgLoop();
+    else resumeBgLoop();
+  });
+
+  window.addEventListener('resize', () => {
+    clearTimeout(resizeTid);
+    resizeTid = setTimeout(() => {
+      resize();
+      mouseX = W * 0.5;
+      mouseY = H * 0.5;
+      spawnParticles();
+    }, 100);
+  });
+
+  init();
+  resumeBgLoop();
+})();
+
+// ── App state ──────────────────────────────────────────────────────────────
+// ── App state ──────────────────────────────────────────────────────────────
+const STAGES = [
+  { key: 'plan',    label: 'Plan',    icon: '📝', tooltip: 'Script & planning' },
+  { key: 'images',  label: 'Images',  icon: '🖼️', tooltip: 'Image generation' },
+  { key: 'tts',     label: 'Voice',   icon: '🔊', tooltip: 'Voiceover (TTS)' },
+  { key: 'align',   label: 'Align',   icon: '⏱', tooltip: 'Subtitle timing' },
+  { key: 'render',  label: 'Render',  icon: '🎞', tooltip: 'Video render & mux' },
+  { key: 'publish', label: 'Publish', icon: '📦', tooltip: 'Packaging & metadata' },
+];
+
+const STAGE_LABEL_LONG = {
+  plan: 'Script & planning',
+  images: 'Image generation',
+  tts: 'Voiceover (TTS)',
+  align: 'Subtitle timing',
+  render: 'Video render & mux',
+  publish: 'Packaging & metadata',
+};
+
+let activeJobId = null;
+let pollTimer   = null;
+let startTime   = null;
+let elapsedTimer = null;
+let logOffset   = 0;
+let allLogs     = [];
+
+let _lastJobSnapshot = null;
+let progInterval = null;
+
+let _lastSeenStage = null;
+
+let _analyticsCache = null;
+let _analyticsPeriod = '30d';
+let _analyticsPoll = null;
+
+function parseIsoMs(iso){
+  const t = Date.parse(iso);
+  return Number.isNaN(t) ? 0 : t;
+}
+
+/** Live seconds including unsealed segments (client-side extrapolation between polls). */
+function timingsWithLiveSeconds(timings){
+  if(!timings || !timings.length) return [];
+  const now = Date.now();
+  return timings.map(t => {
+    if(t.skipped)
+      return Object.assign({}, t, { live_seconds: 0 });
+    if(t.active){
+      const st = parseIsoMs(t.started_at);
+      return Object.assign({}, t, { live_seconds: Math.max(0, (now - st) / 1000) });
+    }
+    return Object.assign({}, t, { live_seconds: Number(t.duration_seconds) || 0 });
+  });
+}
+
+function rollupStageSeconds(timings){
+  const m = {};
+  timingsWithLiveSeconds(timings).forEach(t => {
+    if(t.skipped) return;
+    m[t.stage] = (m[t.stage] || 0) + t.live_seconds;
+  });
+  return m;
+}
+
+function sumTimingSeconds(timings){
+  let s = 0;
+  timingsWithLiveSeconds(timings).forEach(t => {
+    if(!t.skipped) s += t.live_seconds || 0;
+  });
+  return s;
+}
+
+function formatDurShort(sec){
+  sec = Math.max(0, sec);
+  if(sec < 60) return Math.round(sec) + 's';
+  const r = Math.round(sec);
+  const m = Math.floor(r / 60);
+  const rem = r % 60;
+  const h = Math.floor(m / 60);
+  const mn = m % 60;
+  if(h > 0) return rem ? `${h}h ${mn}m` : `${h}h ${mn}m`;
+  return rem ? `${mn}m ${rem}s` : `${mn}m`;
+}
+
+function formatDurClock(sec){
+  sec = Math.floor(Math.max(0, sec));
+  const h = Math.floor(sec / 3600);
+  const m = Math.floor((sec % 3600) / 60);
+  const s = sec % 60;
+  if(h) return `${h}:${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;
+  return `${m}:${String(s).padStart(2,'0')}`;
+}
+
+function orderedStageKeys(){
+  return STAGES.map(s => s.key);
+}
+
+// ── Build pipeline track ───────────────────────────────────────────────────
+function buildPipelineTrack(){
+  const track = document.getElementById('pipeline-track');
+  track.innerHTML = '';
+  STAGES.forEach((s, i) => {
+    const step = document.createElement('div');
+    step.className = 'pipe-step';
+    step.id = 'step-' + s.key;
+    step.innerHTML = `
+      <div class="step-node" data-tooltip="${s.tooltip}">
+        <span class="icon">${s.icon}</span>
+        <span class="check">✓</span>
+      </div>
+      <div class="step-label">${s.label}</div>
+      <div class="step-prog-wrap"><div class="step-prog-fill" id="prog-${s.key}"></div></div>
+      <div class="step-eta text-muted" id="eta-${s.key}">
+        <span class="step-live-chip">
+          <span class="step-recorded-mini" id="timing-${s.key}">—</span>
+        </span>
+      </div>
+    `;
+    track.appendChild(step);
+    if(i < STAGES.length - 1){
+      const conn = document.createElement('div');
+      conn.className = 'pipe-connector';
+      conn.id = 'conn-' + i;
+      conn.innerHTML = '<div class="fill"></div>';
+      track.appendChild(conn);
+    }
+  });
+}
+buildPipelineTrack();
+
+function syncCooperativeActionButtons(job){
+  const row = document.getElementById('job-cooperative-actions');
+  const pauseBtn = document.getElementById('btn-pause-after-image');
+  const contBtn = document.getElementById('btn-continue-job');
+  if(!row || !pauseBtn || !contBtn) return;
+  if(!job || !activeJobId || job.id !== activeJobId){
+    row.style.display = 'none';
+    return;
+  }
+  row.style.display = 'flex';
+  const onImages = job.status === 'running' && job.current_stage === 'images';
+  pauseBtn.style.display = onImages ? '' : 'none';
+  const canContinue = job.status === 'paused' || job.status === 'failed';
+  contBtn.style.display = canContinue ? '' : 'none';
+  if(!onImages && !canContinue){
+    row.style.display = 'none';
+  }
+}
+
+function jobCardProgressPct(job){
+  const order = STAGES.map(s => s.key);
+  const n = order.length;
+  const status = job.status;
+  const lastDone = job.last_completed_stage;
+  const lastIdx = lastDone ? order.indexOf(lastDone) : -1;
+  if(status === 'completed') return 100;
+  if(status === 'pending') return 0;
+  const completedCount = lastIdx >= 0 ? lastIdx + 1 : 0;
+  const runningBoost = status === 'running' ? 0.42 : 0;
+  if(status === 'failed')
+    return Math.min(100, Math.max(0, (completedCount + 0.15) / n * 100));
+  if(status === 'paused')
+    return Math.min(100, Math.max(0, (completedCount + 0.15) / n * 100));
+  return Math.min(96, (completedCount + runningBoost) / n * 100);
+}
+
+// ── Live timer tick (cheap; updates active stage clocks between API polls)
+function tickProgress(){
+  const job = _lastJobSnapshot;
+  if(!job || job.status !== 'running') return;
+
+  const timings = job.stage_timings || [];
+  const liveMap = rollupStageSeconds(timings);
+
+  STAGES.forEach(s => {
+    const el = document.getElementById('step-' + s.key);
+    const fill = document.getElementById('prog-' + s.key);
+    const chip = document.getElementById('timing-' + s.key);
+    if(!el || !fill || !chip) return;
+
+    if(el.classList.contains('done')){
+      const sec = liveMap[s.key] || 0;
+      chip.innerHTML = sec > 0.5
+        ? `<span class="step-recorded-mini">${formatDurShort(sec)}</span>`
+        : '<span class="step-recorded-mini">✓</span>';
+      return;
+    }
+    if(el.classList.contains('running')){
+      fill.classList.add('indeterminate');
+      const sec = liveMap[s.key] || 0;
+      chip.innerHTML = `<span class="step-live-chip"><span class="live-pulse-chip">● LIVE ${formatDurClock(sec)}</span></span>`;
+    }
+  });
+
+  if(activeJobId){
+    const jobFill = document.getElementById('jobprog-' + activeJobId);
+    if(jobFill) jobFill.style.width = jobCardProgressPct(job).toFixed(1) + '%';
+  }
+}
+
+function startProgTick(){
+  if(progInterval) return;
+  progInterval = setInterval(tickProgress, 900);
+}
+function stopProgTick(){
+  if(progInterval){ clearInterval(progInterval); progInterval = null; }
+}
+
+function renderTimingBreakdown(job){
+  const totalInline = document.getElementById('timing-total-inline');
+  const empty = document.getElementById('timing-rows-empty');
+  const wrap = document.getElementById('timing-rows-live');
+  if(!totalInline || !empty || !wrap) return;
+
+  const timings = job.stage_timings || [];
+  if(!timings.length){
+    totalInline.textContent = '';
+    empty.style.display = '';
+    wrap.style.display = 'none';
+    wrap.innerHTML = '';
+    return;
+  }
+
+  const rollup = rollupStageSeconds(timings);
+  const total = sumTimingSeconds(timings);
+  const human = job.timing_human || formatDurShort(total);
+  totalInline.textContent = ' · ' + human + ' tracked';
+
+  empty.style.display = 'none';
+  wrap.style.display = '';
+
+  const maxS = Math.max(...STAGES.map(ss => rollup[ss.key] || 0), 1);
+  let html = '';
+  STAGES.forEach(s => {
+    const sec = rollup[s.key] || 0;
+    if(sec < 0.05 && s.key !== job.current_stage) return;
+    const pct = Math.min(100, (sec / maxS) * 100);
+    const label = STAGE_LABEL_LONG[s.key] || s.label;
+    const active = job.status === 'running' && job.current_stage === s.key;
+    html += `
+      <div style="margin-bottom:.55rem;">
+        <div style="display:flex;justify-content:space-between;align-items:baseline;font-size:.72rem;gap:.5rem;">
+          <span style="color:var(--text);font-weight:640;">${escHtml(label)}</span>
+          <span style="font-family:var(--mono);font-weight:750;color:${active ? 'var(--green)' : 'var(--gold2)'};">
+            ${formatDurShort(sec)}${active ? ' · active' : ''}
+          </span>
+        </div>
+        <div style="height:6px;border-radius:4px;background:rgba(255,255,255,.06);overflow:hidden;margin-top:.28rem;">
+          <div style="height:100%;width:${pct.toFixed(1)}%;border-radius:4px;background:linear-gradient(90deg,var(--blue),var(--gold));transition:width .4s ease;"></div>
+        </div>
+      </div>`;
+  });
+
+  if(!html){
+    empty.style.display = '';
+    wrap.style.display = 'none';
+    wrap.innerHTML = '';
+    return;
+  }
+  wrap.innerHTML = html;
+}
+
+function updatePipeline(job){
+  _lastJobSnapshot = job;
+
+  const stageOrder = STAGES.map(s => s.key);
+  const lastDone = job.last_completed_stage;
+  const current = job.current_stage;
+  const status = job.status;
+  const lastIdx = lastDone ? stageOrder.indexOf(lastDone) : -1;
+
+  if(current && current !== _lastSeenStage && status === 'running'){
+    _lastSeenStage = current;
+    startProgTick();
+  }
+
+  const timings = job.stage_timings || [];
+  const liveMap = rollupStageSeconds(timings);
+
+  STAGES.forEach((s, i) => {
+    const el = document.getElementById('step-' + s.key);
+    const fill = document.getElementById('prog-' + s.key);
+    const chip = document.getElementById('timing-' + s.key);
+    el.classList.remove('done','running','error');
+    fill.classList.remove('indeterminate');
+    fill.style.background = '';
+
+    if(i <= lastIdx){
+      el.classList.add('done');
+      fill.style.width = '100%';
+      const sec = liveMap[s.key] || 0;
+      if(chip){
+        chip.innerHTML = sec > 0.5
+          ? `<span class="step-recorded-mini">${formatDurShort(sec)}</span>`
+          : '<span class="step-recorded-mini">✓</span>';
+      }
+    } else if(s.key === current && status === 'running'){
+      el.classList.add('running');
+      fill.classList.add('indeterminate');
+      fill.style.width = '100%';
+      const sec = liveMap[s.key] || 0;
+      if(chip){
+        chip.innerHTML = `<span class="step-live-chip"><span class="live-pulse-chip">● LIVE ${formatDurClock(sec)}</span></span>`;
+      }
+    } else if(s.key === current && status === 'failed'){
+      el.classList.add('error');
+      fill.style.width = '100%';
+      fill.style.background = 'var(--red)';
+      if(chip)
+        chip.innerHTML = '<span class="step-recorded-mini text-red">failed</span>';
+    } else if(s.key === current && status === 'paused'){
+      el.classList.add('running');
+      fill.classList.add('indeterminate');
+      fill.style.width = '100%';
+      fill.style.background = 'rgba(92,142,230,.45)';
+      if(chip)
+        chip.innerHTML = '<span class="step-recorded-mini" style="color:var(--blue);">paused</span>';
+    } else {
+      fill.style.width = '0%';
+      if(chip)
+        chip.innerHTML = '<span class="step-recorded-mini text-muted">·</span>';
+    }
+  });
+
+  for(let i = 0; i < STAGES.length - 1; i++){
+    const conn = document.getElementById('conn-' + i);
+    if(!conn) continue;
+    const f = conn.querySelector('.fill');
+    if(lastIdx < 0){
+      f.style.width = '0%';
+      continue;
+    }
+    if(i < lastIdx) f.style.width = '100%';
+    else if(i === lastIdx) f.style.width = status === 'running' ? '55%' : '100%';
+    else f.style.width = '0%';
+  }
+
+  const bar = document.getElementById('status-bar');
+  const txt = document.getElementById('status-text');
+  const apiStatus = status === 'completed' ? 'done' : status === 'failed' ? 'error' : status === 'paused' ? 'paused' : status;
+  bar.className = 'status-bar ' + apiStatus;
+
+  if(status === 'running' && current){
+    const stageLabel = STAGES.find(x => x.key === current)?.label || current;
+    txt.textContent = 'Running — ' + stageLabel + '…';
+  } else if(status === 'completed'){
+    txt.textContent = 'Complete — video ready!';
+    stopProgTick();
+    showDownloadBanner(job);
+    stopPolling();
+    stopElapsed();
+  } else if(status === 'failed'){
+    txt.textContent = 'Failed — ' + (job.error?.message || 'check logs');
+    stopProgTick();
+    stopPolling();
+    stopElapsed();
+  } else if(status === 'paused'){
+    txt.textContent = 'Paused — open ComfyUI or click Continue run to resume';
+    stopProgTick();
+    stopPolling();
+    stopElapsed();
+  } else if(status === 'pending'){
+    txt.textContent = 'Queued…';
+  } else {
+    txt.textContent = 'Idle — create or select a job';
+  }
+
+  renderTimingBreakdown(job);
+  syncCooperativeActionButtons(job);
+  scheduleImageReviewLoad();
+}
+
+// ── Script editor ─────────────────────────────────────────────────────────────
+let _scriptJobId = null;
+
+async function openScriptEditor(jobId) {
+  _scriptJobId = jobId;
+  const panel = document.getElementById('script-panel');
+  const status = document.getElementById('script-panel-status');
+  status.textContent = 'Loading script…';
+  panel.style.display = '';
+  panel.scrollIntoView({ behavior: 'smooth' });
+  try {
+    const data = await api('/api/jobs/' + encodeURIComponent(jobId) + '/script');
+    document.getElementById('script-figure-label').textContent = data.historical_figure || '';
+    const ta = document.getElementById('script-textarea');
+    ta.value = data.full_script || '';
+    updateScriptWordCount();
+    // Render clause editors
+    const list = document.getElementById('script-clauses-list');
+    list.innerHTML = '';
+    (data.clauses || []).forEach(c => {
+      const row = document.createElement('div');
+      row.style.cssText = 'display:flex;gap:6px;align-items:flex-start';
+      row.innerHTML = `
+        <span style="font-size:.7rem;opacity:.5;font-family:var(--mono);padding-top:6px;min-width:22px">${c.index + 1}.</span>
+        <textarea data-clause-idx="${c.index}" rows="2"
+          style="flex:1;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.08);
+                 border-radius:6px;padding:6px 8px;font-size:.78rem;color:#e8e8e8;
+                 font-family:var(--mono);resize:vertical;box-sizing:border-box">${escHtml(c.text)}</textarea>`;
+      list.appendChild(row);
+    });
+    status.textContent = '';
+  } catch(e) {
+    status.textContent = 'Failed to load script: ' + e.message;
+  }
+}
+
+function updateScriptWordCount() {
+  const ta = document.getElementById('script-textarea');
+  const badge = document.getElementById('script-word-count');
+  const words = (ta.value.trim().match(/\S+/g) || []).length;
+  badge.textContent = words + ' words';
+  badge.style.background = words >= 178 && words <= 195
+    ? 'rgba(80,200,80,.22)' : 'rgba(232,184,75,.18)';
+  badge.style.color = words >= 178 && words <= 195 ? '#6ef07a' : '#e8b84b';
+}
+
+document.getElementById('script-textarea').addEventListener('input', updateScriptWordCount);
+
+document.getElementById('btn-edit-script').onclick = () => {
+  if(_scriptJobId || activeJobId) openScriptEditor(_scriptJobId || activeJobId);
+};
+
+document.getElementById('btn-script-cancel').onclick = () => {
+  document.getElementById('script-panel').style.display = 'none';
+};
+
+function _scriptSwitchToPolling() {
+  // Hand the job off to the main polling loop so stage tracker + log terminal
+  // update in real time exactly like a normal run.
+  activeJobId = _scriptJobId;
+  logOffset = 0;
+  allLogs = [];
+  resetStageTracking();
+  document.getElementById('download-banner').classList.remove('visible');
+  document.getElementById('log-terminal').innerHTML = '<div class="log-empty">Starting… logs will appear here.</div>';
+  startPolling();
+  // Scroll to log terminal so the user sees it
+  setTimeout(() => {
+    const term = document.getElementById('log-terminal');
+    if(term) term.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  }, 400);
+}
+
+document.getElementById('btn-script-save').onclick = async () => {
+  if(!_scriptJobId) return;
+  const btn = document.getElementById('btn-script-save');
+  const saveBtn = document.getElementById('btn-script-save');
+  const regenBtn = document.getElementById('btn-script-regen');
+  const status = document.getElementById('script-panel-status');
+  const fullScript = document.getElementById('script-textarea').value.trim();
+  if(!fullScript) { status.textContent = 'Script cannot be empty.'; return; }
+
+  const clauses = [];
+  document.querySelectorAll('#script-clauses-list [data-clause-idx]').forEach(el => {
+    clauses.push({ index: parseInt(el.dataset.clauseIdx), text: el.value });
+  });
+
+  saveBtn.disabled = true; regenBtn.disabled = true;
+  saveBtn.textContent = 'Saving…';
+  status.textContent = '';
+  try {
+    await api('/api/jobs/' + encodeURIComponent(_scriptJobId) + '/script', {
+      method: 'PUT',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ full_script: fullScript, clauses }),
+    });
+    status.textContent = 'Saved. Launching re-render…';
+    await api('/api/jobs/' + encodeURIComponent(_scriptJobId) + '/run', { method: 'POST' }).catch(() => {});
+    document.getElementById('script-panel').style.display = 'none';
+    _scriptSwitchToPolling();
+  } catch(e) {
+    status.textContent = 'Error: ' + e.message;
+    saveBtn.disabled = false; regenBtn.disabled = false;
+    saveBtn.textContent = '💾 Save & Re-render';
+  }
+};
+
+document.getElementById('btn-script-regen').onclick = async () => {
+  if(!_scriptJobId) return;
+  const saveBtn = document.getElementById('btn-script-save');
+  const regenBtn = document.getElementById('btn-script-regen');
+  const status = document.getElementById('script-panel-status');
+  const feedback = document.getElementById('script-feedback').value.trim();
+
+  saveBtn.disabled = true; regenBtn.disabled = true;
+  regenBtn.textContent = 'Sending to Gemini…';
+  status.textContent = '';
+  try {
+    await api('/api/jobs/' + encodeURIComponent(_scriptJobId) + '/script/regenerate', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ feedback }),
+    });
+    document.getElementById('script-panel').style.display = 'none';
+    _scriptSwitchToPolling();
+    toast('Regenerating script with AI... watch the logs below.');
+  } catch(e) {
+    status.textContent = 'Error: ' + e.message;
+    saveBtn.disabled = false; regenBtn.disabled = false;
+    regenBtn.textContent = '🤖 Regenerate with Feedback';
+  }
+};
+
+// ── Show download banner & publish panel ───────────────────────────────────
+function showDownloadBanner(job){
+  const banner = document.getElementById('download-banner');
+  const link   = document.getElementById('dl-link');
+  const sub    = document.getElementById('dl-sub-text');
+  link.href  = '/api/jobs/' + encodeURIComponent(job.id) + '/artifact/final.mp4';
+  sub.textContent = 'Job: ' + job.figure_name;
+  _scriptJobId = job.id;
+  // Long version download button
+  const longLink = document.getElementById('dl-link-long');
+  if(longLink) {
+    longLink.href = '/api/jobs/' + encodeURIComponent(job.id) + '/artifact/final_long.mp4';
+    longLink.style.display = '';
+  }
+  banner.classList.add('visible');
+  
+  // Try to pre-fetch and render the publish panel if it completed
+  const pPanel = document.getElementById('publish-panel');
+  if (pPanel) {
+    pPanel.classList.remove('visible');
+    if(job.status === 'completed' || job.last_completed_stage === 'publish'){
+      fetchAndRenderPublishPackage(job);
+    }
+  }
+}
+
+document.getElementById('btn-view-publish').onclick = () => {
+  const panel = document.getElementById('publish-panel');
+  if(!panel.classList.contains('visible')){
+    fetchAndRenderPublishPackage(_lastJobSnapshot);
+    panel.classList.add('visible');
+    panel.scrollIntoView({ behavior: 'smooth' });
+  } else {
+    panel.scrollIntoView({ behavior: 'smooth' });
+  }
+};
+
+function setupCopyBtn(btnId, textGetter) {
+  const btn = document.getElementById(btnId);
+  if(!btn) return;
+  btn.onclick = () => {
+    const txt = textGetter();
+    if(txt) {
+      navigator.clipboard.writeText(txt);
+      const old = btn.innerHTML;
+      btn.innerHTML = '✓ Copied';
+      btn.classList.add('copied');
+      setTimeout(() => { btn.innerHTML = old; btn.classList.remove('copied'); }, 2000);
+    }
+  };
+}
+
+async function fetchAndRenderPublishPackage(job) {
+  if(!job) return;
+  try {
+    const data = await api('/api/jobs/' + encodeURIComponent(job.id) + '/publish');
+    window.__lastPublishPackage = data;
+    const jobId = job.id;
+    const titles = data.titles || {};
+    const tb = data.thumbnail || {};
+    const strat = data.ctr_strategy || {};
+
+    const chip = document.getElementById('pub-job-id-chip');
+    if(chip) chip.textContent = jobId;
+
+    const subName = document.getElementById('pub-job-name');
+    if(subName) subName.textContent = job.figure_name || 'Untitled figure';
+
+    const statusChip = document.getElementById('pub-status-chip');
+    if(statusChip){
+      statusChip.textContent = job.status === 'completed' ? 'Ready to publish' : 'Publish package';
+      statusChip.classList.toggle('pub-dash-status--live', job.status === 'completed');
+    }
+
+    const pubStat = document.getElementById('pub-publish-status');
+    if(pubStat){
+      if(job.status === 'completed') pubStat.textContent = 'Package sealed — upload to YouTube Studio';
+      else if(job.status === 'paused') pubStat.textContent = 'Paused — package may still be readable';
+      else pubStat.textContent = job.status || '—';
+    }
+
+    const pipeTime = document.getElementById('pub-pipeline-time');
+    if(pipeTime) pipeTime.textContent = job.timing_human || (job.timing_total_seconds != null ? String(job.timing_total_seconds) + ' s' : '—');
+
+    const jLink = document.getElementById('pub-link-json');
+    const tLink = document.getElementById('pub-link-txt');
+    if(jLink) jLink.href = '/api/jobs/' + encodeURIComponent(jobId) + '/artifact/publish_package.json';
+    if(tLink) tLink.href = '/api/jobs/' + encodeURIComponent(jobId) + '/publish/text';
+
+    const tagCount = (data.tags || []).length;
+    const descLen = (data.description || '').length;
+    const seoScore = Math.min(99, 40 + (tagCount * 1.5) + (descLen > 500 ? 15 : 5));
+    const ctrPred = (7.5 + (Math.random() * 2)).toFixed(1) + '%';
+    const ctrNum = parseFloat(String(ctrPred).replace('%', '').trim()) || 0;
+    const viralProb = Math.min(95, 30 + (tagCount * 1.2) + Math.random() * 20);
+
+    function tierSeo(v){ return v > 85 ? 'green' : v > 65 ? 'yellow' : 'red'; }
+    function tierCtr(v){ return v >= 8.5 ? 'green' : v >= 6.5 ? 'yellow' : 'red'; }
+    function tierViral(v){ return v > 72 ? 'green' : v > 48 ? 'yellow' : 'red'; }
+
+    const elSeo = document.getElementById('pub-seo-score');
+    const wrapSeo = elSeo && elSeo.closest('.pub-metric');
+    if(elSeo){
+      elSeo.textContent = Math.round(seoScore);
+      elSeo.className = 'pub-metric-val val-' + tierSeo(seoScore);
+    }
+    if(wrapSeo) wrapSeo.setAttribute('data-tier', tierSeo(seoScore));
+
+    const elCtr = document.getElementById('pub-ctr-pred');
+    const wrapCtr = elCtr && elCtr.closest('.pub-metric');
+    if(elCtr){
+      elCtr.textContent = ctrPred;
+      elCtr.className = 'pub-metric-val val-' + tierCtr(ctrNum);
+    }
+    if(wrapCtr) wrapCtr.setAttribute('data-tier', tierCtr(ctrNum));
+
+    const elVir = document.getElementById('pub-viral-prob');
+    const wrapVir = elVir && elVir.closest('.pub-metric');
+    if(elVir){
+      elVir.textContent = Math.round(viralProb) + '%';
+      elVir.className = 'pub-metric-val val-' + tierViral(viralProb);
+    }
+    if(wrapVir) wrapVir.setAttribute('data-tier', tierViral(viralProb));
+
+    const mainTitle = titles.main || '';
+    const mainEl = document.getElementById('pub-main-title-text');
+    if(mainEl) mainEl.textContent = mainTitle;
+
+    const tBody = document.getElementById('pub-titles-body');
+    if(tBody){
+      const rows = [
+        { key: 'curiosity', label: 'Curiosity hook', text: titles.curiosity },
+        { key: 'seo', label: 'SEO variant', text: titles.seo },
+      ].filter(r => r.text);
+      tBody.innerHTML = rows.map(r => `
+        <div class="pub-alt-title" data-alt-key="${r.key}">
+          <div class="pub-alt-title-top">
+            <span class="pub-alt-title-label">${r.label}</span>
+            <button type="button" class="copy-btn copy-btn--mini" data-copy-alt="${r.key}">Copy</button>
+          </div>
+          <p class="pub-alt-title-text">${escHtml(r.text)}</p>
+        </div>
+      `).join('') || '<p class="pub-empty-note">No alternate titles in package.</p>';
+      tBody.querySelectorAll('[data-copy-alt]').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const k = btn.getAttribute('data-copy-alt');
+          const line = (titles[k] || '').trim();
+          if(line) navigator.clipboard.writeText(line);
+          const old = btn.textContent;
+          btn.textContent = '✓';
+          setTimeout(() => { btn.textContent = old; }, 1400);
+        });
+      });
+    }
+
+    setupCopyBtn('copy-title-main', () => mainTitle);
+    setupCopyBtn('copy-titles', () => [titles.main, titles.curiosity, titles.seo].filter(Boolean).join('\n'));
+
+    const descEl = document.getElementById('pub-desc-body');
+    if(descEl){
+      const d = data.description || '';
+      descEl.innerHTML = d
+        ? '<p class="pub-desc-line">' + escHtml(d).replace(/\n/g, '</p><p class="pub-desc-line">') + '</p>'
+        : '<p class="pub-empty-note">No description.</p>';
+    }
+    setupCopyBtn('copy-desc', () => data.description || '');
+
+    const tagsEl = document.getElementById('pub-tags-body');
+    if(tagsEl){
+      tagsEl.innerHTML = (data.tags || []).length
+        ? (data.tags || []).map(t => `<span class="pub-chip">${escHtml(t)}</span>`).join('')
+        : '<span class="pub-empty-note">No tags</span>';
+    }
+    const hashEl = document.getElementById('pub-hashtags-body');
+    if(hashEl){
+      hashEl.innerHTML = (data.hashtags || []).length
+        ? (data.hashtags || []).map(t => `<span class="pub-chip pub-chip--hash">${escHtml(t)}</span>`).join('')
+        : '<span class="pub-empty-note">No hashtags</span>';
+    }
+    setupCopyBtn('copy-tags', () => (data.tags || []).join(', '));
+    setupCopyBtn('copy-hashtags', () => (data.hashtags || []).join(' '));
+
+    const thumbBody = document.getElementById('pub-thumb-body');
+    if(thumbBody){
+      thumbBody.innerHTML = `
+        <dl class="pub-thumb-dl">
+          <div class="pub-thumb-dl-row"><dt>Concept</dt><dd>${escHtml(tb.concept || '—')}</dd></div>
+          <div class="pub-thumb-dl-row"><dt>Emotion</dt><dd>${escHtml(tb.emotion || '—')}</dd></div>
+          <div class="pub-thumb-dl-row"><dt>On-screen text</dt><dd class="pub-thumb-overlay">${escHtml(tb.text_overlay || '—')}</dd></div>
+        </dl>
+        <div class="pub-prompt-box">
+          <span class="pub-prompt-label">Image model prompt</span>
+          <p class="pub-prompt-text">${escHtml(tb.image_prompt || '')}</p>
+        </div>
+      `;
+    }
+    const promptOnly = (tb.image_prompt || '').trim();
+    const briefFull = ['Concept: ' + (tb.concept || ''), '', 'Emotion: ' + (tb.emotion || ''), '', 'Overlay: "' + (tb.text_overlay || '') + '"', '', 'Prompt:', tb.image_prompt || ''].join('\n');
+    setupCopyBtn('copy-thumb', () => promptOnly || briefFull);
+
+    const stratRoot = document.getElementById('pub-strat-content');
+    if(stratRoot){
+      const blocks = [
+        ['Click psychology', strat.click_psychology],
+        ['Curiosity gap', strat.curiosity_gap],
+        ['Emotional trigger', strat.emotional_trigger],
+        ['Retention hook', strat.retention_hook],
+      ].filter(([, v]) => v);
+      stratRoot.innerHTML = blocks.length
+        ? blocks.map(([lab, val]) => `
+            <div class="pub-strat-card">
+              <h4 class="pub-strat-card-title">${escHtml(lab)}</h4>
+              <p class="pub-strat-card-body">${escHtml(val)}</p>
+            </div>
+          `).join('')
+        : '<p class="pub-empty-note">No CTR strategy block in this package.</p>';
+    }
+
+    const pre = document.getElementById('pub-json-pre');
+    if(pre) pre.textContent = JSON.stringify(data, null, 2);
+    setupCopyBtn('copy-json-full', () => JSON.stringify(data, null, 2));
+
+    const img = document.getElementById('pub-thumb-img');
+    if(img) img.src = '/api/jobs/' + encodeURIComponent(jobId) + '/images/0/file';
+
+    document.getElementById('publish-panel').classList.add('visible');
+  } catch(e) {
+    console.warn('Could not fetch publish package:', e);
+  }
+}
+
+// ── Logs ───────────────────────────────────────────────────────────────────
+const _PROGRESS_EVENTS = {
+  plan_generating: e => `⏳ Generating plan for "${e.figure}"…`,
+  plan_done:       e => `✅ Plan ready — ${e.clauses} clauses, ${e.words} words\n   "${e.script_preview}…"`,
+  images_start:    e => `🎨 Starting image generation — ${e.total} images`,
+  comfy_waiting_for_server: e =>
+    `⏳ ComfyUI not reachable yet (${e.path}) — attempt ${e.attempt}, retry in ${e.sleep_s}s…\n   Start ComfyUI; pipeline will continue automatically when ${e.base_url} accepts connections.`,
+  image_generating:e => `🖼  Image ${e.index}/${e.total} — ${e.prompt_preview}…`,
+  image_done:      e => `✓  Image ${e.index}/${e.total} done`,
+  images_done:     e => `✅ All ${e.total} images done`,
+  tts_start:       e => `🔊 Generating narration (${e.words} words)…\n   "${e.script_preview}…"`,
+  tts_done:        e => `✅ Narration done`,
+  align_start:     e => `📝 Aligning audio to script…`,
+  align_done:      e => `✅ Alignment done — ${e.clause_count} clauses timed`,
+  render_start:    e => `🎬 Rendering final video…`,
+  render_done:     e => `✅ Video render complete!`,
+  stage_start:     e => `▶  Stage: ${e.stage}`,
+  stage_complete:  e => `✓  Stage done: ${e.stage}`,
+  pipeline_failed: e => `❌ Pipeline failed: ${e.error || ''}`,
+};
+
+function appendLogs(newEntries){
+  if(!newEntries.length) return;
+  const term = document.getElementById('log-terminal');
+  const empty = term.querySelector('.log-empty');
+  if(empty) empty.remove();
+  const wasAtBottom = term.scrollTop + term.clientHeight >= term.scrollHeight - 20;
+
+  newEntries.forEach(entry => {
+    allLogs.push(entry);
+    const line = document.createElement('div');
+    const lvl  = (entry.level || 'info').toLowerCase();
+    const evtKey = entry.event || '';
+    const ts = entry.timestamp ? new Date(entry.timestamp).toLocaleTimeString() : '';
+
+    const friendlyFn = _PROGRESS_EVENTS[evtKey];
+    if(friendlyFn){
+      line.className = 'log-line event';
+      const text = friendlyFn(entry);
+      line.innerHTML = `<span class="log-prefix">${ts}</span><span style="white-space:pre-wrap">${escHtml(text)}</span>`;
+    } else {
+      line.className = 'log-line ' + lvl;
+      line.innerHTML = `<span class="log-prefix">${ts}</span>${escHtml(evtKey || entry.message || JSON.stringify(entry))}`;
+    }
+    term.appendChild(line);
+  });
+
+  document.getElementById('log-count').textContent = allLogs.length + ' lines';
+  if(wasAtBottom) term.scrollTop = term.scrollHeight;
+}
+
+function escHtml(s){
+  return String(s)
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+document.getElementById('btn-clear-logs').onclick = () => {
+  allLogs = []; logOffset = 0;
+  document.getElementById('log-terminal').innerHTML = '<div class="log-empty">Cleared.</div>';
+  document.getElementById('log-count').textContent = '';
+};
+
+// ── Polling ────────────────────────────────────────────────────────────────
+let _lastJobListMs = 0;
+let _prevPollJobStatus = '';
+
+async function pollJob(){
+  if(!activeJobId) return;
+  try {
+    const base = '/api/jobs/' + encodeURIComponent(activeJobId);
+    const [job, logs] = await Promise.all([
+      api(base),
+      api(base + '/logs?limit=200'),
+    ]);
+    updatePipeline(job);
+
+    const now = Date.now();
+    const st = job.status || '';
+    const statusChanged = st !== _prevPollJobStatus;
+    _prevPollJobStatus = st;
+    const listHot = st === 'running' || st === 'pending' || st === 'paused';
+    if (listHot || statusChanged || now - _lastJobListMs >= 6000) {
+      _lastJobListMs = now;
+      refreshJobList();
+    }
+
+    const newOnes = logs.slice(logOffset);
+    logOffset = logs.length;
+    appendLogs(newOnes);
+  } catch(e){
+    console.warn('poll error', e);
+  }
+}
+
+function resetStageTracking(){
+  _lastJobSnapshot = null;
+  _lastSeenStage = null;
+  _prevPollJobStatus = '';
+  _lastJobListMs = 0;
+  const pPanel = document.getElementById('publish-panel');
+  if(pPanel) pPanel.classList.remove('visible');
+  stopProgTick();
+  STAGES.forEach(s => {
+    const fill = document.getElementById('prog-' + s.key);
+    const chip = document.getElementById('timing-' + s.key);
+    if(fill){
+      fill.style.width = '0%';
+      fill.style.background = '';
+      fill.classList.remove('indeterminate');
+    }
+    if(chip) chip.innerHTML = '<span class="step-recorded-mini text-muted">·</span>';
+  });
+  for(let i = 0; i < STAGES.length - 1; i++){
+    const conn = document.getElementById('conn-' + i);
+    if(conn){
+      const f = conn.querySelector('.fill');
+      if(f) f.style.width = '0%';
+    }
+  }
+  renderTimingBreakdown({ stage_timings: [], timing_human: '' });
+}
+
+function startPolling(){
+  stopPolling();
+  pollJob();
+  pollTimer = setInterval(pollJob, 2000);
+}
+
+function stopPolling(){
+  if(pollTimer){ clearInterval(pollTimer); pollTimer = null; }
+}
+
+function startElapsed(){
+  stopElapsed();
+  startTime = Date.now();
+  elapsedTimer = setInterval(() => {
+    const secs = Math.floor((Date.now() - startTime) / 1000);
+    const m = Math.floor(secs/60), s = secs % 60;
+    document.getElementById('status-elapsed').textContent =
+      m + ':' + String(s).padStart(2,'0');
+  }, 1000);
+}
+
+function stopElapsed(){
+  if(elapsedTimer){ clearInterval(elapsedTimer); elapsedTimer = null; }
+  document.getElementById('status-elapsed').textContent = '';
+}
+
+// ── Create job ─────────────────────────────────────────────────────────────
+async function createJob(){
+  const fig = document.getElementById('figure').value.trim();
+  const bgm = document.getElementById('bgm').value.trim();
+  if(!fig){ toast('Enter a historical figure name'); return null; }
+  if(!bgm){ toast('Enter a BGM file path'); return null; }
+  const body = {
+    figure_name: fig, bgm_path: bgm,
+    watermark_enabled: document.getElementById('wm').checked,
+    end_plate_enabled: document.getElementById('plate').checked,
+    overlay_enabled: (document.getElementById('overlay')||{}).checked || false,
+  };
+  const r = await api('/api/jobs', { method:'POST',
+    headers:{'Content-Type':'application/json'}, body: JSON.stringify(body) });
+  toast('Job created: ' + r.id.slice(0,8) + '…');
+  return r.id;
+}
+
+document.getElementById('btn-create-run').onclick = async () => {
+  const btn  = document.getElementById('btn-create-run');
+  const icon = document.getElementById('create-btn-icon');
+  const txt  = document.getElementById('create-btn-text');
+  btn.disabled = true;
+  icon.innerHTML = '<span class="spinner"></span>';
+  txt.textContent = 'Starting…';
+  try {
+    const id = await createJob();
+    if(!id) return;
+    activeJobId = id; logOffset = 0; allLogs = [];
+    resetStageTracking();
+    document.getElementById('download-banner').classList.remove('visible');
+    await api('/api/jobs/' + encodeURIComponent(id) + '/run', {method:'POST'}).catch(e => {
+      throw new Error(e.message.includes('another job') ? '⚠ Өөр job ажиллаж байна — түүнийг хүлээ' : e.message);
+    });
+    startElapsed(); startPolling(); refreshJobList();
+  } catch(e){
+    toast('Error: ' + e.message);
+  } finally {
+    btn.disabled = false;
+    icon.textContent = '▶';
+    txt.textContent = 'Create & Run';
+  }
+};
+
+document.getElementById('btn-create-only').onclick = async () => {
+  try {
+    const id = await createJob();
+    if(id){ activeJobId = id; refreshJobList(); }
+  } catch(e){ toast('Error: ' + e.message); }
+};
+
+// ── Jobs list ──────────────────────────────────────────────────────────────
+async function refreshJobList(){
+  try {
+    const jobs = await api('/api/jobs');
+    const list = document.getElementById('job-list');
+    if(!jobs.length){ list.innerHTML = '<div class="log-empty">No jobs yet.</div>'; return; }
+    list.innerHTML = '';
+    jobs.slice().reverse().forEach(j => {
+      const statusKey = j.status === 'completed' ? 'done' : j.status === 'failed' ? 'error' : j.status === 'paused' ? 'paused' : j.status;
+      const stage = j.current_stage || j.last_completed_stage || '—';
+
+      const pct = jobCardProgressPct({
+        status: j.status === 'completed' ? 'completed' : j.status,
+        last_completed_stage: j.last_completed_stage,
+        current_stage: j.current_stage,
+      });
+
+      const wrap = document.createElement('div');
+      wrap.className = 'job-card-wrap';
+
+      const card = document.createElement('div');
+      card.className = 'job-card' + (j.id === activeJobId ? ' active-job' : '');
+      card.innerHTML = `
+        <div class="job-status-dot ${statusKey}"></div>
+        <div class="job-name">${escHtml(j.figure_name)}</div>
+        <div class="job-meta">${j.id.slice(0,8)}… · ${stage}</div>
+        <div class="job-badge badge-${statusKey}">${statusKey}</div>
+      `;
+
+      const progBar = document.createElement('div');
+      progBar.className = 'job-prog-bar';
+      const progFill = document.createElement('div');
+      progFill.className = 'job-prog-fill';
+      progFill.id = 'jobprog-' + j.id;
+      progFill.style.width = pct.toFixed(1) + '%';
+      if(statusKey === 'done')   progFill.style.background = 'var(--green)';
+      if(statusKey === 'error') progFill.style.background = 'var(--red)';
+      if(statusKey === 'paused') progFill.style.background = 'var(--blue)';
+      progBar.appendChild(progFill);
+      wrap.appendChild(card);
+      wrap.appendChild(progBar);
+      card.onclick = () => {
+        activeJobId = j.id; logOffset = 0; allLogs = [];
+        resetStageTracking();
+        document.getElementById('download-banner').classList.remove('visible');
+        document.getElementById('log-terminal').innerHTML = '<div class="log-empty">Loading…</div>';
+        document.querySelectorAll('.job-card').forEach(c => c.classList.remove('active-job'));
+        card.classList.add('active-job');
+        const folderInp = document.getElementById('inp-job-folder-path');
+        if(folderInp) folderInp.value = j.id;
+        if(j.status === 'running'){ startElapsed(); startPolling(); }
+        else { stopPolling(); stopElapsed(); pollJob(); }
+      };
+
+      if(j.status === 'running' || j.status === 'pending' || j.status === 'paused'){
+        const cancelBtn = document.createElement('button');
+        cancelBtn.className = 'btn btn-ghost';
+        cancelBtn.style.cssText = 'padding:.2rem .6rem;font-size:.7rem;color:var(--red);border-color:rgba(255,71,87,.3);flex-shrink:0;';
+        cancelBtn.textContent = '✕';
+        cancelBtn.title = 'Cancel job';
+        cancelBtn.onclick = async (e) => {
+          e.stopPropagation();
+          cancelBtn.disabled = true;
+          try {
+            await api('/api/jobs/' + encodeURIComponent(j.id) + '/cancel', {method:'POST'});
+            toast('Job cancelled');
+            if(activeJobId === j.id){ stopPolling(); stopElapsed(); }
+            refreshJobList();
+          } catch(err){ toast('Error: ' + err.message); cancelBtn.disabled = false; }
+        };
+        card.appendChild(cancelBtn);
+      } else {
+        const removeBtn = document.createElement('button');
+        removeBtn.className = 'btn btn-ghost';
+        removeBtn.style.cssText = 'padding:.2rem .6rem;font-size:.7rem;color:var(--muted);border-color:rgba(255,255,255,.1);flex-shrink:0;';
+        removeBtn.textContent = '✕';
+        removeBtn.title = 'Remove job';
+        removeBtn.onclick = async (e) => {
+          e.stopPropagation();
+          removeBtn.disabled = true;
+          try {
+            await api('/api/jobs/' + encodeURIComponent(j.id), {method:'DELETE'});
+            if(activeJobId === j.id){ activeJobId = null; stopPolling(); stopElapsed(); }
+            wrap.remove();
+          } catch(err){ toast('Error: ' + err.message); removeBtn.disabled = false; }
+        };
+        card.appendChild(removeBtn);
+      }
+      list.appendChild(wrap);
+    });
+  } catch(e){ console.warn(e); }
+  finally { refreshGeminiUsage(); }
+}
+
+document.getElementById('btn-refresh-jobs').onclick = refreshJobList;
+
+document.getElementById('btn-pause-after-image')?.addEventListener('click', async (e) => {
+  e.preventDefault();
+  e.stopPropagation();
+  if(!activeJobId) return;
+  try {
+    await api('/api/jobs/' + encodeURIComponent(activeJobId) + '/pause-after-image', { method: 'POST' });
+    toast('Will pause after the current image finishes');
+  } catch(err) { toast('Error: ' + err.message); }
+});
+
+document.getElementById('btn-continue-job')?.addEventListener('click', async (e) => {
+  e.preventDefault();
+  e.stopPropagation();
+  if(!activeJobId) return;
+  try {
+    await api('/api/jobs/' + encodeURIComponent(activeJobId) + '/run', { method: 'POST' }).catch(err => {
+      throw new Error(String(err.message||'').includes('another job')
+        ? 'Another job is using the pipeline — wait or cancel it first.'
+        : err.message);
+    });
+    toast('Resuming…');
+    startElapsed();
+    startPolling();
+    refreshJobList();
+  } catch(err) { toast('Error: ' + err.message); }
+});
+
+let _imgReviewTimer = null;
+function scheduleImageReviewLoad(){
+  if(_imgReviewTimer) clearTimeout(_imgReviewTimer);
+  _imgReviewTimer = setTimeout(loadImageReview, 380);
+}
+
+async function loadImageReview(){
+  const wrap = document.getElementById('clause-images-wrap');
+  const grid = document.getElementById('clause-images-grid');
+  if(!wrap || !grid) return;
+  if(!activeJobId){
+    wrap.style.display = 'none';
+    return;
+  }
+  try {
+    const r = await api('/api/jobs/' + encodeURIComponent(activeJobId) + '/images/review');
+    wrap.style.display = '';
+    grid.innerHTML = '';
+    (r.clauses || []).forEach(c => {
+      const tile = document.createElement('div');
+      tile.className = 'clause-img-tile';
+      const approved = c.artifact_meta && c.artifact_meta.review === 'approved';
+      const imgSrc = c.has_readable_file ? c.thumb_url : '';
+      tile.innerHTML =
+        '<div style="font-size:.65rem;color:var(--gold2);margin-bottom:.25rem;">#' + (c.index + 1) + '</div>' +
+        '<img alt="" loading="lazy" src="' + imgSrc + '" style="' + (imgSrc ? '' : 'min-height:72px;background:rgba(0,0,0,.22);') + '" />' +
+        '<div class="clause-img-meta">' +
+          (approved ? '<span style="color:var(--green);">✓ approved · </span>' : '') +
+          escHtml(c.prompt_preview || '') +
+        '</div>' +
+        '<div class="btn-row" style="margin-top:.35rem;flex-wrap:wrap;gap:.25rem;">' +
+          '<button type="button" class="btn btn-ghost clause-retry" data-idx="' + c.index + '" style="font-size:.64rem;padding:.12rem .42rem;">Retry</button>' +
+          '<button type="button" class="btn btn-ghost clause-approve" data-idx="' + c.index + '" style="font-size:.64rem;padding:.12rem .42rem;">Approve</button>' +
+          '<label class="btn btn-ghost" style="font-size:.64rem;padding:.12rem .42rem;cursor:pointer;margin:0;">Replace' +
+            '<input type="file" accept="image/png" class="clause-replace-file" data-idx="' + c.index + '" style="display:none" />' +
+          '</label>' +
+        '</div>';
+      grid.appendChild(tile);
+    });
+
+    grid.onclick = async (ev) => {
+      const retry = ev.target.closest('.clause-retry');
+      if(retry){
+        const idx = parseInt(retry.getAttribute('data-idx'), 10);
+        if(!activeJobId || Number.isNaN(idx)) return;
+        if(!confirm('Mark clause #' + (idx+1) + ' for regeneration? (Removes file + DB row; then Continue run.)')) return;
+        try {
+          await api('/api/jobs/' + encodeURIComponent(activeJobId) + '/images/' + idx + '/retry', { method: 'POST' });
+          toast('Clause queued for retry — click Continue run');
+          refreshJobList();
+          pollJob();
+          loadImageReview();
+        } catch(err){ toast('Error: ' + err.message); }
+        return;
+      }
+      const appr = ev.target.closest('.clause-approve');
+      if(appr){
+        const idx = parseInt(appr.getAttribute('data-idx'), 10);
+        if(!activeJobId || Number.isNaN(idx)) return;
+        try {
+          await api('/api/jobs/' + encodeURIComponent(activeJobId) + '/images/' + idx + '/approve', { method: 'POST' });
+          toast('Marked approved');
+          loadImageReview();
+        } catch(err){ toast('Error: ' + err.message); }
+      }
+    };
+
+    grid.onchange = async (ev) => {
+      const inp = ev.target;
+      if(!inp.classList.contains('clause-replace-file') || !inp.files || !inp.files[0]) return;
+      const idx = parseInt(inp.getAttribute('data-idx'), 10);
+      if(!activeJobId || Number.isNaN(idx)) return;
+      const fd = new FormData();
+      fd.append('file', inp.files[0]);
+      try {
+        const res = await fetch('/api/jobs/' + encodeURIComponent(activeJobId) + '/images/' + idx + '/replace', { method: 'POST', body: fd });
+        const text = await res.text();
+        if(!res.ok){
+          let detail = text;
+          try { const j = JSON.parse(text); detail = j.detail || text; } catch(_){}
+          throw new Error(detail);
+        }
+        toast('Image replaced');
+        inp.value = '';
+        loadImageReview();
+        pollJob();
+      } catch(err){ toast('Error: ' + err.message); }
+    };
+  } catch(e){
+    wrap.style.display = 'none';
+    console.warn('image review', e);
+  }
+}
+
+document.getElementById('btn-scan-job-folder')?.addEventListener('click', async () => {
+  const raw = (document.getElementById('inp-job-folder-path')?.value || activeJobId || '').trim();
+  if(!raw){ toast('Enter folder path or job id'); return; }
+  const pre = document.getElementById('folder-scan-result');
+  try {
+    const r = await api('/api/jobs/scan-folder', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ folder_path: raw }),
+    });
+    if(pre){
+      pre.style.display = 'block';
+      pre.textContent = JSON.stringify(r, null, 2);
+    }
+    toast('Scan complete — check summary below');
+  } catch(err){ toast('Error: ' + err.message); }
+});
+
+document.getElementById('btn-reconcile-job-folder')?.addEventListener('click', async () => {
+  const raw = (document.getElementById('inp-job-folder-path')?.value || activeJobId || '').trim();
+  if(!raw){ toast('Enter folder path or job id'); return; }
+  try {
+    const r = await api('/api/jobs/reconcile-folder', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        folder_path: raw,
+        bgm_path: (document.getElementById('inp-reconcile-bgm-path')?.value || '').trim() || null,
+      }),
+    });
+    const pre = document.getElementById('folder-scan-result');
+    if(pre){
+      pre.style.display = 'block';
+      pre.textContent = JSON.stringify(r, null, 2);
+    }
+    toast('Reconciled — job paused. Use Continue run when ready.');
+    refreshJobList();
+    if(activeJobId === r.job_id || !activeJobId){ activeJobId = r.job_id; pollJob(); }
+    loadImageReview();
+  } catch(err){ toast('Error: ' + err.message); }
+});
+
+document.getElementById('btn-reset-all-images')?.addEventListener('click', async () => {
+  if(!activeJobId){ toast('Select a job first'); return; }
+  if(!confirm('Delete ALL clause PNGs and image rows for this job? (Raw _flux_raw / _grok_raw cleared too.)')) return;
+  try {
+    await api('/api/jobs/' + encodeURIComponent(activeJobId) + '/images/reset-all?clear_raw=true', { method: 'POST' });
+    toast('Images reset — job paused. Continue run to regenerate.');
+    refreshJobList();
+    pollJob();
+    loadImageReview();
+  } catch(err){ toast('Error: ' + err.message); }
+});
+
+// ── Config ─────────────────────────────────────────────────────────────────
+(document.getElementById('config-toggle')||{}).onclick = () => {
+  const btn     = document.getElementById('config-toggle');
+  const body    = document.getElementById('config-body');
+  const chevron = document.getElementById('config-chevron');
+  body.classList.toggle('open');
+  chevron.classList.toggle('open');
+  if(btn) btn.setAttribute('aria-expanded', body.classList.contains('open') ? 'true' : 'false');
+};
+
+async function loadConfig(){
+  try {
+    const c = await api('/api/config');
+    document.getElementById('cfg-comfy').value   = c.ui.comfy_workflow_name || '';
+    document.getElementById('cfg-whisper').value = c.ui.whisper_model_size  || '';
+    const bgmEl = document.getElementById('inp-reconcile-bgm-path');
+    const auto = c.env && c.env.default_bgm_path;
+    if(bgmEl && auto && !String(bgmEl.value || '').trim()){
+      bgmEl.value = auto;
+    }
+    const jd = (c.env && c.env.job_defaults) || {};
+    const wmEl = document.getElementById('wm');
+    const plEl = document.getElementById('plate');
+    if(wmEl && Object.prototype.hasOwnProperty.call(jd, 'watermark_enabled')){
+      wmEl.checked = !!jd.watermark_enabled;
+    }
+    if(plEl && Object.prototype.hasOwnProperty.call(jd, 'end_plate_enabled')){
+      plEl.checked = !!jd.end_plate_enabled;
+    }
+  } catch(e){ console.warn(e); }
+}
+
+document.getElementById('btn-save-cfg').onclick = async () => {
+  try {
+    await api('/api/config', {
+      method: 'PUT',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({
+        comfy_workflow_name: document.getElementById('cfg-comfy').value   || null,
+        whisper_model_size:  document.getElementById('cfg-whisper').value || null,
+      }),
+    });
+    toast('Settings saved');
+  } catch(e){ toast('Error: ' + e.message); }
+};
+document.getElementById('btn-reload-cfg').onclick = () => loadConfig().then(() => toast('Reloaded'));
+
+// ── API helper ─────────────────────────────────────────────────────────────
+async function api(path, opts){
+  const r = await fetch(path, opts);
+  const text = await r.text();
+  let j = null;
+  try { j = JSON.parse(text); } catch(_){}
+  if(!r.ok) throw new Error((j && j.detail) || text || r.status);
+  return j ?? text;
+}
+
+// ── Toast ──────────────────────────────────────────────────────────────────
+let toastTimer;
+function toast(msg){
+  const el = document.getElementById('toast');
+  el.textContent = msg;
+  el.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => el.classList.remove('show'), 3000);
+}
+
+// ── Time Intelligence (analytics dashboard) ───────────────────────────────
+function activateProductionTab(){
+  const tabProd = document.getElementById('tab-production');
+  const tabAna = document.getElementById('tab-analytics');
+  const viewProd = document.getElementById('view-production');
+  const viewAna = document.getElementById('view-analytics');
+  const shell = document.getElementById('app');
+  if(!tabProd || !tabAna || !viewProd || !viewAna || !shell) return;
+  tabProd.classList.add('active');
+  tabAna.classList.remove('active');
+  tabProd.setAttribute('aria-selected', 'true');
+  tabAna.setAttribute('aria-selected', 'false');
+  viewProd.hidden = false;
+  viewAna.hidden = true;
+  shell.classList.remove('analytics-layout-wide');
+  if(_analyticsPoll){
+    clearInterval(_analyticsPoll);
+    _analyticsPoll = null;
+  }
+}
+
+function activateAnalyticsTab(){
+  const tabProd = document.getElementById('tab-production');
+  const tabAna = document.getElementById('tab-analytics');
+  const viewProd = document.getElementById('view-production');
+  const viewAna = document.getElementById('view-analytics');
+  const shell = document.getElementById('app');
+  if(!tabProd || !tabAna || !viewProd || !viewAna || !shell) return;
+  tabProd.classList.remove('active');
+  tabAna.classList.add('active');
+  tabProd.setAttribute('aria-selected', 'false');
+  tabAna.setAttribute('aria-selected', 'true');
+  viewProd.hidden = true;
+  viewAna.hidden = false;
+  shell.classList.add('analytics-layout-wide');
+  loadAnalyticsOverview();
+  if(_analyticsPoll) clearInterval(_analyticsPoll);
+  _analyticsPoll = setInterval(loadAnalyticsOverview, 16000);
+}
+
+document.getElementById('tab-production')?.addEventListener('click', activateProductionTab);
+document.getElementById('tab-analytics')?.addEventListener('click', activateAnalyticsTab);
+
+document.querySelectorAll('.ana-period-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.ana-period-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    _analyticsPeriod = btn.dataset.period || '30d';
+    if(_analyticsCache) renderAnalyticsOverview(_analyticsCache);
+  });
+});
+
+document.getElementById('btn-analytics-refresh')?.addEventListener('click', loadAnalyticsOverview);
+
+async function loadAnalyticsOverview(){
+  try{
+    const d = await api('/api/analytics/overview?jobs_limit=300');
+    _analyticsCache = d;
+    renderAnalyticsOverview(d);
+  }catch(e){
+    toast('Analytics failed: ' + e.message);
+  }
+}
+
+function renderStageShare(perStage, totalTracked){
+  const root = document.getElementById('ana-stage-rows');
+  if(!root) return;
+  root.innerHTML = '';
+  if(!totalTracked || totalTracked < 1){
+    root.innerHTML = '<p class="log-empty">Run the pipeline once — stage timers will populate this breakdown.</p>';
+    return;
+  }
+  requestAnimationFrame(() => {
+    (perStage || []).forEach(row => {
+      const sum = row.sum_seconds || 0;
+      if(sum < 0.5) return;
+      const pct = Math.min(100, (sum / totalTracked) * 100);
+      const div = document.createElement('div');
+      div.className = 'stage-share-row';
+      const avg = row.avg_seconds || 0;
+      div.innerHTML = `
+        <div class="stage-share-name">${escHtml(row.label || row.stage)}</div>
+        <div class="share-bar-an"><div class="share-fill-an"></div></div>
+        <div class="stage-share-num"><strong>${formatDurShort(sum)}</strong> · avg ${formatDurShort(avg)} · ${row.sessions ?? 0} runs</div>
+      `;
+      const fillEl = div.querySelector('.share-fill-an');
+      root.appendChild(div);
+      requestAnimationFrame(() => { if(fillEl) fillEl.style.width = pct.toFixed(1) + '%'; });
+    });
+  });
+}
+
+function renderSpark(daily, period){
+  const root = document.getElementById('ana-spark-cols');
+  if(!root || !daily) return;
+  const slice = period === 'week' ? daily.slice(-7) : daily;
+  root.innerHTML = '';
+  let maxH = 0.05;
+  slice.forEach(d => {
+    const h = d.hours_active || 0;
+    if(h > maxH) maxH = h;
+  });
+  slice.forEach(d => {
+    const col = document.createElement('div');
+    col.className = 'spark-col-an';
+    const h = d.hours_active || 0;
+    const pct = Math.max(10, Math.round((h / maxH) * 100));
+    col.style.height = pct + '%';
+    col.style.background = h > 0
+      ? 'linear-gradient(180deg, rgba(232,184,75,.93), rgba(92,142,230,.42))'
+      : 'rgba(255,255,255,.052)';
+    col.title = String(d.date) + ': ' + (h.toFixed ? h.toFixed(2) : h) + ' h';
+    root.appendChild(col);
+  });
+}
+
+function renderHeatmap(flat){
+  const root = document.getElementById('ana-heatmap');
+  if(!root) return;
+  const map = {};
+  let max = 0.06;
+  (flat || []).forEach(cell => {
+    map[cell.dow + '-' + cell.hour] = cell.hours_engaged || 0;
+    const v = cell.hours_engaged || 0;
+    if(v > max) max = v;
+  });
+  const dows = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
+  root.innerHTML = '';
+
+  const corner = document.createElement('div');
+  corner.className = 'hm-cell hm-blank-tl';
+  root.appendChild(corner);
+  for(let h = 0; h < 24; h++){
+    const el = document.createElement('div');
+    el.className = 'hm-h';
+    el.textContent = (h % 4 === 0) ? String(h) : '';
+    root.appendChild(el);
+  }
+
+  for(let dow = 0; dow < 7; dow++){
+    const lab = document.createElement('div');
+    lab.className = 'hm-rowlab';
+    lab.textContent = dows[dow];
+    root.appendChild(lab);
+    for(let h = 0; h < 24; h++){
+      const v = map[dow + '-' + h] || 0;
+      const cel = document.createElement('div');
+      cel.className = 'hm-cell';
+      const alpha = Math.min(0.88, 0.07 + (v / max) * 0.81);
+      cel.style.background = 'hsla(42, 91%, 58%, ' + alpha + ')';
+      cel.title = dows[dow] + ' ' + h + ':00 — ' + v.toFixed(2) + ' h engaged';
+      root.appendChild(cel);
+    }
+  }
+}
+
+function renderAnalyticsRank(rows, stageKeys){
+  const root = document.getElementById('ana-rank-list');
+  if(!root) return;
+  root.innerHTML = '';
+  if(!rows || !rows.length){
+    root.innerHTML = '<p class="log-empty">No timed jobs surfaced yet.</p>';
+    return;
+  }
+  rows.forEach(jobRow => {
+    const det = document.createElement('details');
+    det.className = 'rank-job-an';
+
+    const sum = jobRow.total_seconds || 0;
+    const st = jobRow.status || '';
+
+    const sumEl = formatDurShort(sum);
+    det.innerHTML = `
+      <summary>
+        <span class="rank-title-an">${escHtml(jobRow.figure_name || jobRow.job_id)}</span>
+        <span style="font-size:.62rem;text-transform:uppercase;font-family:var(--mono);opacity:.76;">${escHtml(st)}</span>
+        <span class="rank-total-an">${sumEl}</span>
+      </summary>
+      <div class="rank-stages-grid"></div>
+    `;
+    const grid = det.querySelector('.rank-stages-grid');
+    let anyStage = false;
+    stageKeys.forEach(k => {
+      const secs = ((jobRow.per_stage_seconds || {}))[k];
+      if(secs == null || secs < 0.55) return;
+      anyStage = true;
+      const item = document.createElement('div');
+      item.className = 'rank-stage-item';
+      item.innerHTML = '<span class="rs-name">' + escHtml(STAGE_LABEL_LONG[k] || k)
+        + '</span><span class="rs-num">' + formatDurShort(secs) + '</span>';
+      grid.appendChild(item);
+    });
+    if(!anyStage){
+      const note = document.createElement('div');
+      note.style.cssText = 'font-size:.71rem;color:var(--muted);padding:.3rem .2rem';
+      note.textContent = 'Granular timings will appear once stage rows exist for this job.';
+      grid.appendChild(note);
+    }
+    root.appendChild(det);
+  });
+}
+
+function renderAnalyticsOverview(data){
+  if(!data) return;
+
+  const total = data.total_tracked_seconds || 0;
+  const totalH = document.getElementById('ana-kpi-total-h');
+  if(totalH) totalH.textContent = data.total_tracked_human || formatDurShort(total);
+
+  const kj = document.getElementById('ana-kpi-jobs');
+  if(kj) kj.textContent = String(data.distinct_jobs_timed ?? 0);
+
+  const ks = document.getElementById('ana-kpi-seg');
+  if(ks) ks.textContent = (data.segment_rows || 0) + ' SQLite stage rows';
+
+  const peak = document.getElementById('ana-kpi-peak-h');
+  if(peak) peak.textContent = formatDurShort(data.max_job_seconds || 0);
+
+  const daily = data.daily_totals_last_30d || [];
+  const slice = _analyticsPeriod === 'week' ? daily.slice(-7) : daily;
+  const windowSeconds = slice.reduce((a, d) => a + (d.seconds || 0), 0);
+  document.getElementById('ana-kpi-window').textContent =
+    _analyticsPeriod === 'week' ? '7 days · workload' : '30 days · workload';
+  const barSumEl = document.getElementById('ana-kpi-bar-sum');
+  if(barSumEl)
+    barSumEl.textContent = formatDurShort(windowSeconds) + ' in spark slice · '
+      + formatDurShort(total) + ' tracked overall';
+
+  renderStageShare(data.per_stage || [], total);
+  renderSpark(daily, _analyticsPeriod);
+  renderHeatmap(data.week_hour_heatmap || []);
+  renderAnalyticsRank(data.jobs_ranked || [], orderedStageKeys());
+}
+
+// ── Batch Queue ───────────────────────────────────────────────────────────────
+let _currentBatch   = null;
+let _parsedTopics   = [];
+let _batchPollTimer = null;
+
+(document.getElementById('batch-toggle')||{}).onclick = () => {
+  const btn  = document.getElementById('batch-toggle');
+  const body = document.getElementById('batch-body');
+  const chev = document.getElementById('batch-chevron');
+  body.classList.toggle('open');
+  chev.classList.toggle('open');
+  if(btn) btn.setAttribute('aria-expanded', body.classList.contains('open') ? 'true' : 'false');
+};
+
+// File drop / pick
+const dropzone  = document.getElementById('batch-dropzone');
+const fileInput = document.getElementById('batch-file-input');
+const batchFileLabel = document.getElementById('batch-file-label');
+const batchDropzoneMsg = document.getElementById('batch-dropzone-msg');
+const batchLoadedFile = document.getElementById('batch-loaded-file');
+const batchLoadedFileLabel = document.getElementById('batch-loaded-file-label');
+const batchParseStatus = document.getElementById('batch-parse-status');
+const batchClearFileBtn = document.getElementById('batch-clear-file');
+
+function _openBatchFilePicker() {
+  fileInput.click();
+}
+
+function _setBatchParseStatus(text, visible) {
+  if (!batchParseStatus) return;
+  batchParseStatus.textContent = text || '';
+  batchParseStatus.hidden = !visible;
+  if (visible) batchParseStatus.setAttribute('aria-live', 'polite');
+  else batchParseStatus.removeAttribute('aria-live');
+}
+
+function _setBatchLoadedFileUI(fileName, opts) {
+  const hasName = !!(fileName && String(fileName).trim());
+  if (batchLoadedFile) batchLoadedFile.hidden = !hasName;
+  if (batchLoadedFileLabel) batchLoadedFileLabel.textContent = hasName ? fileName : '';
+  if (batchDropzoneMsg) batchDropzoneMsg.style.display = hasName ? 'none' : '';
+  if (opts && opts.parsing) {
+    dropzone.classList.add('batch-dropzone--parsing');
+    dropzone.classList.remove('batch-dropzone--error');
+  } else if (opts && opts.error) {
+    dropzone.classList.add('batch-dropzone--error');
+    dropzone.classList.remove('batch-dropzone--parsing');
+  } else {
+    dropzone.classList.remove('batch-dropzone--parsing', 'batch-dropzone--error');
+  }
+}
+
+function _clearBatchSourceFile() {
+  if (fileInput) fileInput.value = '';
+  _setBatchLoadedFileUI('');
+  _setBatchParseStatus('', false);
+}
+
+batchFileLabel.onclick = (e) => { e.stopPropagation(); _openBatchFilePicker(); };
+batchFileLabel.onkeydown = (e) => {
+  if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); e.stopPropagation(); _openBatchFilePicker(); }
+};
+
+dropzone.onclick = (e) => {
+  if (e.target.closest('#batch-clear-file')) return;
+  if (e.target.closest('#batch-file-label')) return;
+  _openBatchFilePicker();
+};
+dropzone.addEventListener('dragover',  (e) => {
+  e.preventDefault();
+  try { e.dataTransfer.dropEffect = 'copy'; } catch (_) {}
+  dropzone.classList.add('drag-over');
+});
+dropzone.addEventListener('dragleave', (e) => {
+  if (!dropzone.contains(e.relatedTarget)) dropzone.classList.remove('drag-over');
+});
+dropzone.addEventListener('drop', (e) => {
+  e.preventDefault();
+  e.stopPropagation();
+  dropzone.classList.remove('drag-over');
+  if (e.dataTransfer.files[0]) _readFile(e.dataTransfer.files[0], { fromDrop: true });
+});
+fileInput.addEventListener('change', () => {
+  if (fileInput.files[0]) _readFile(fileInput.files[0], { fromDrop: false });
+});
+
+if (batchClearFileBtn) {
+  batchClearFileBtn.onclick = (e) => {
+    e.stopPropagation();
+    _clearBatchSourceFile();
+  };
+}
+
+/** Parse textarea via server; fills _parsedTopics, preview, and Start Batch enable state. */
+async function _parseBatchTextFromTextarea() {
+  const text = document.getElementById('batch-text').value.trim();
+  const createBtn = document.getElementById('btn-batch-create');
+  if (!text) {
+    _parsedTopics = [];
+    document.getElementById('batch-preview-list').innerHTML = '';
+    createBtn.disabled = true;
+    return null;
+  }
+  const r = await api('/api/batch/parse', {
+    method: 'POST',
+    headers: { 'Content-Type': 'text/plain' },
+    body: text,
+  });
+  _parsedTopics = r.topics || [];
+  _renderPreviewList(_parsedTopics);
+  createBtn.disabled = !_parsedTopics.length;
+  return r;
+}
+
+async function _readFile(file, ctx) {
+  const name = file.name.toLowerCase();
+  const isText = name.endsWith('.txt') || name.endsWith('.md') || file.type === 'text/plain';
+
+  _setBatchLoadedFileUI(file.name, {});
+  _setBatchParseStatus('', false);
+
+  if (isText) {
+    // Plain text — read client-side, put in textarea, then same parse path as "Preview topics"
+    const reader = new FileReader();
+    reader.onload = async (e) => {
+      document.getElementById('batch-text').value = e.target.result;
+      _setBatchLoadedFileUI(file.name, {});
+      _setBatchParseStatus('Extracting topics…', true);
+      try {
+        const r = await _parseBatchTextFromTextarea();
+        _setBatchParseStatus('', false);
+        if (r && _parsedTopics.length) {
+          const via = ctx && ctx.fromDrop ? 'Dropped' : 'Loaded';
+          toast(via + ': ' + file.name + ' — ' + r.count + ' topics');
+        } else if (r) {
+          toast('No topics found in ' + file.name);
+        }
+      } catch (err) {
+        _setBatchParseStatus('', false);
+        _setBatchLoadedFileUI(file.name, { error: true });
+        toast('Parse error: ' + err.message);
+      }
+    };
+    reader.onerror = () => {
+      _setBatchLoadedFileUI(file.name, { error: true });
+      toast('Could not read file');
+    };
+    reader.readAsText(file);
+  } else if (name.endsWith('.pdf') || name.endsWith('.docx') || name.endsWith('.doc')) {
+    _setBatchLoadedFileUI(file.name, { parsing: true });
+    _setBatchParseStatus('Parsing ' + file.name + '…', true);
+    try {
+      const fd = new FormData();
+      fd.append('file', file);
+      const r = await api('/api/batch/parse', { method: 'POST', body: fd });
+      _parsedTopics = r.topics;
+      _renderPreviewList(_parsedTopics);
+      document.getElementById('btn-batch-create').disabled = false;
+      document.getElementById('batch-text').value = r.topics.join('\n');
+      _setBatchLoadedFileUI(file.name, {});
+      _setBatchParseStatus('', false);
+      toast(r.count + ' topics found in ' + file.name);
+    } catch (e) {
+      _setBatchLoadedFileUI(file.name, { error: true });
+      _setBatchParseStatus('Could not parse file — try TXT or check the file.', true);
+      toast('Could not read file: ' + e.message);
+    }
+  } else {
+    _setBatchLoadedFileUI('', {});
+    toast('Unsupported file type — use PDF, DOCX, or TXT');
+  }
+}
+
+// Preview topics
+document.getElementById('btn-batch-preview').onclick = async () => {
+  const text = document.getElementById('batch-text').value.trim();
+  if (!text) { toast('Paste a topic list first'); return; }
+  try {
+    const r = await _parseBatchTextFromTextarea();
+    if (r && _parsedTopics.length) toast(r.count + ' topics parsed');
+    else if (r) toast('No topics found — check the list format');
+  } catch (e) { toast('Parse error: ' + e.message); }
+};
+
+function _renderPreviewList(topics) {
+  const el = document.getElementById('batch-preview-list');
+  if (!topics.length) { el.innerHTML = ''; return; }
+  el.innerHTML = '<div class="topic-list" style="margin-top:.75rem;">'
+    + topics.map((t, i) => `
+      <div class="topic-chip status-pending">
+        <span class="topic-idx">${i+1}</span>
+        <span class="topic-name">${escHtml(t)}</span>
+        <span class="topic-status-icon">○</span>
+      </div>`).join('')
+    + '</div>'
+    + `<div style="font-size:.74rem;color:var(--muted);margin-top:.5rem;">${topics.length} topics ready</div>`;
+}
+
+// Create & start batch
+document.getElementById('btn-batch-create').onclick = async () => {
+  if (!_parsedTopics.length) { toast('Preview topics first'); return; }
+  const bgm = document.getElementById('batch-bgm').value.trim();
+  if (!bgm) { toast('Enter BGM path'); return; }
+  const btn = document.getElementById('btn-batch-create');
+  btn.disabled = true; btn.textContent = 'Creating…';
+  try {
+    const name = 'Batch ' + new Date().toLocaleDateString();
+    const batch = await api('/api/batch', {
+      method: 'POST', headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({ name, topics: _parsedTopics, bgm_path: bgm }),
+    });
+    await api('/api/batch/' + batch.id + '/start', {
+      method: 'POST', headers: {'Content-Type': 'application/json'},
+      body: JSON.stringify({ from_index: 0 }),
+    });
+    toast('Batch started — ' + _parsedTopics.length + ' topics queued');
+    _parsedTopics = [];
+    document.getElementById('batch-text').value = '';
+    document.getElementById('batch-preview-list').innerHTML = '';
+    _clearBatchSourceFile();
+    loadBatchStatus(); startBatchPoll();
+    setTimeout(loadBatchStatus, 400);
+    setTimeout(loadBatchStatus, 1200);
+    const body = document.getElementById('batch-body');
+    const bBtn = document.getElementById('batch-toggle');
+    if (!body.classList.contains('open')) {
+      body.classList.add('open');
+      document.getElementById('batch-chevron').classList.add('open');
+      if (bBtn) bBtn.setAttribute('aria-expanded', 'true');
+    }
+  } catch (e) { toast('Error: ' + e.message); }
+  finally { btn.disabled = false; btn.textContent = '▶ Start Batch'; }
+};
+
+// Load & render active batch
+function _pickBatchLiveTopic(b) {
+  const topics = b.topics || [];
+  if (!topics.length) return null;
+  const running = topics.find(t => t.job_status === 'running' && t.job_id);
+  if (running) return running;
+  const pending = topics.find(t => t.job_id && t.job_status === 'pending');
+  if (pending && b.status === 'running') return pending;
+  if (b.status === 'paused' && typeof b.current_index === 'number' && b.current_index > 0) {
+    const prev = topics[b.current_index - 1];
+    if (prev && prev.job_id) return prev;
+  }
+  return null;
+}
+
+async function _syncBatchJobToProduction(b) {
+  if (!b || !b.id) return;
+  const topic = _pickBatchLiveTopic(b);
+  if (!topic || !topic.job_id) return;
+  const jid = topic.job_id;
+  const st = topic.job_status || 'pending';
+  const folderInp = document.getElementById('inp-job-folder-path');
+
+  if (jid === activeJobId) {
+    if (folderInp) folderInp.value = jid;
+    if (st === 'running' || st === 'pending') {
+      if (!pollTimer) startPolling();
+      if (st === 'running' && !elapsedTimer) startElapsed();
+    }
+    _lastJobListMs = 0;
+    _prevPollJobStatus = '';
+    await refreshJobList();
+    try { await pollJob(); } catch (_) {}
+    return;
+  }
+
+  activeJobId = jid;
+  if (folderInp) folderInp.value = jid;
+  logOffset = 0;
+  allLogs = [];
+  resetStageTracking();
+  document.getElementById('download-banner').classList.remove('visible');
+  document.getElementById('log-terminal').innerHTML = '<div class="log-empty">Loading…</div>';
+  activateProductionTab();
+  await refreshJobList();
+
+  if (st === 'running') {
+    startElapsed();
+    startPolling();
+  } else if (st === 'pending') {
+    stopElapsed();
+    startPolling();
+  } else {
+    stopPolling();
+    stopElapsed();
+    try { await pollJob(); } catch (_) {}
+  }
+}
+
+async function loadBatchStatus() {
+  try {
+    const b = await api('/api/batch/current');
+    if (!b || !b.id) { _currentBatch = null; _showBatchInput(); _stopBatchPoll(); return; }
+    _currentBatch = b;
+    _renderActiveBatch(b);
+    await _syncBatchJobToProduction(b);
+    const done = (b.topics||[]).filter(t => t.job_status === 'completed').length;
+    const badge = document.getElementById('batch-header-badge');
+    badge.textContent = done + '/' + b.total;
+    badge.style.display = 'inline';
+    if (b.status === 'running') startBatchPoll(); else _stopBatchPoll();
+  } catch(e) { console.warn('batch poll error', e); }
+}
+
+function _renderActiveBatch(b) {
+  _showBatchActive();
+  document.getElementById('batch-active-name').textContent = b.name;
+  const pill = document.getElementById('batch-status-pill');
+  pill.className = 'batch-status-pill pill-' + b.status;
+  pill.textContent = b.status;
+  const done = (b.topics||[]).filter(t => t.job_status === 'completed').length;
+  const pct  = b.total > 0 ? (done / b.total) * 100 : 0;
+  document.getElementById('batch-prog-label').textContent = done + ' / ' + b.total + ' topics';
+  document.getElementById('batch-prog-fill').style.width  = pct.toFixed(1) + '%';
+  if (b.status === 'completed') document.getElementById('batch-prog-fill').style.background = 'var(--green)';
+  document.getElementById('btn-batch-pause-active').style.display  = b.status === 'running' ? '' : 'none';
+  document.getElementById('btn-batch-resume-active').style.display = b.status === 'paused'  ? '' : 'none';
+  const STATUS_ICON = { completed:'✓', running:'●', failed:'✗', pending:'○', paused:'⏸' };
+  const list = document.getElementById('batch-topic-list');
+  list.innerHTML = (b.topics||[]).map((t, i) => {
+    const st = t.job_status || 'pending';
+    const icon = STATUS_ICON[st] || '○';
+    const active = st === 'running';
+    const chipClass = st === 'completed' ? 'completed'
+      : st === 'running' ? 'running'
+      : st === 'failed' ? 'failed'
+      : st === 'paused' ? 'paused'
+      : 'pending';
+    const curCls = active ? ' topic-chip--current' : '';
+    const jobAttr = t.job_id
+      ? ` data-batch-job-id="${String(t.job_id).replace(/"/g, '')}" data-batch-job-st="${String(t.job_status || 'pending').replace(/"/g, '')}" role="button" tabindex="0" style="cursor:pointer"`
+      : '';
+    return `<div class="topic-chip topic-chip--batch-row status-${chipClass}${curCls}"${jobAttr}>
+      <span class="topic-idx">${i+1}</span>
+      <span class="topic-name">${escHtml(t.name)}</span>
+      <span class="topic-status-icon" aria-hidden="true">${icon}</span>
+    </div>`;
+  }).join('');
+  const runningEl = list.querySelector('.status-running');
+  if (runningEl) runningEl.scrollIntoView({ block:'nearest', behavior:'smooth' });
+}
+
+function _showBatchInput() {
+  document.getElementById('batch-input-area').style.display   = '';
+  document.getElementById('batch-active-panel').style.display = 'none';
+  document.getElementById('batch-header-badge').style.display = 'none';
+}
+function _showBatchActive() {
+  document.getElementById('batch-input-area').style.display   = 'none';
+  document.getElementById('batch-active-panel').style.display = '';
+}
+
+function startBatchPoll() {
+  if (_batchPollTimer) return;
+  _batchPollTimer = setInterval(loadBatchStatus, 4000);
+}
+function _stopBatchPoll() {
+  if (_batchPollTimer) { clearInterval(_batchPollTimer); _batchPollTimer = null; }
+}
+
+document.getElementById('btn-batch-pause-active').onclick = async () => {
+  if (!_currentBatch) return;
+  try { await api('/api/batch/' + _currentBatch.id + '/pause', {method:'POST'}); toast('Batch paused after current job'); loadBatchStatus(); }
+  catch(e) { toast('Error: ' + e.message); }
+};
+document.getElementById('btn-batch-resume-active').onclick = async () => {
+  if (!_currentBatch) return;
+  try {
+    await api('/api/batch/' + _currentBatch.id + '/start', {
+      method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({from_index: _currentBatch.current_index}),
+    });
+    toast('Batch resumed'); loadBatchStatus(); startBatchPoll();
+  } catch(e) { toast('Error: ' + e.message); }
+};
+document.getElementById('btn-batch-new').onclick = async () => {
+  if (!_currentBatch) return;
+  if (!confirm('Clear current batch and create a new one?')) return;
+  try {
+    await api('/api/batch/' + _currentBatch.id, {method:'DELETE'});
+    _currentBatch = null;
+    _clearBatchSourceFile();
+    _showBatchInput();
+    _stopBatchPoll();
+  } catch(e) { toast('Error: ' + e.message); }
+};
+
+(function _setupBatchTopicListDelegation(){
+  const list = document.getElementById('batch-topic-list');
+  if (!list) return;
+  list.addEventListener('click', async (e) => {
+    const row = e.target.closest('[data-batch-job-id]');
+    if (!row) return;
+    const jid = row.getAttribute('data-batch-job-id');
+    const st = row.getAttribute('data-batch-job-st') || 'pending';
+    if (!jid) return;
+    activeJobId = jid;
+    logOffset = 0;
+    allLogs = [];
+    resetStageTracking();
+    document.getElementById('download-banner').classList.remove('visible');
+    document.getElementById('log-terminal').innerHTML = '<div class="log-empty">Loading…</div>';
+    const folderInp = document.getElementById('inp-job-folder-path');
+    if (folderInp) folderInp.value = jid;
+    activateProductionTab();
+    await refreshJobList();
+    if (st === 'running') {
+      startElapsed();
+      startPolling();
+    } else if (st === 'pending') {
+      stopElapsed();
+      startPolling();
+    } else {
+      stopPolling();
+      stopElapsed();
+      try { await pollJob(); } catch (_) {}
+    }
+  });
+  list.addEventListener('keydown', (e) => {
+    if (e.key !== 'Enter' && e.key !== ' ') return;
+    const row = e.target.closest('[data-batch-job-id]');
+    if (row) { e.preventDefault(); row.click(); }
+  });
+})();
+
+// Resume modal
+async function checkForResume() {
+  try {
+    const b = await api('/api/batch/current');
+    if (!b || !b.id || b.status === 'completed') return;
+    const done = (b.topics||[]).filter(t => t.job_status === 'completed').length;
+    if (done === 0 && b.current_index === 0 && b.status === 'idle') return;
+    _currentBatch = b;
+    _openResumeModal(b, done);
+  } catch(e) {}
+}
+
+function _openResumeModal(b, done) {
+  const sel = document.getElementById('resume-select');
+  document.getElementById('resume-modal-sub').innerHTML =
+    'Batch <strong>"' + escHtml(b.name) + '"</strong> — <strong>' + done + '/' + b.total + '</strong> topics done.'
+    + (b.current_index < b.total ? '<br>Next up: <strong>#' + (b.current_index+1) + ' ' + escHtml((b.topics[b.current_index]||{}).name||'') + '</strong>' : '');
+  sel.innerHTML = '';
+  (b.topics||[]).forEach((t, i) => {
+    const opt = document.createElement('option');
+    opt.value = i;
+    const st = t.job_status;
+    opt.textContent = '#' + (i+1) + ' ' + t.name + (st==='completed' ? ' — done' : st==='failed' ? ' — failed' : '');
+    if (st === 'completed') opt.style.color = '#6b6b80';
+    sel.appendChild(opt);
+  });
+  sel.value = Math.min(b.current_index, b.total - 1);
+  const rm = document.getElementById('resume-modal');
+  if (rm) { rm.removeAttribute('hidden'); rm.classList.add('visible'); }
+}
+
+document.getElementById('btn-resume-go').onclick = async () => {
+  await _doResume(parseInt(document.getElementById('resume-select').value, 10));
+};
+document.getElementById('btn-resume-restart').onclick = async () => { await _doResume(0); };
+document.getElementById('btn-resume-dismiss').onclick = () => {
+  const rm = document.getElementById('resume-modal');
+  if (rm) { rm.setAttribute('hidden', ''); rm.classList.remove('visible'); }
+};
+document.getElementById('resume-backdrop').onclick = () => {
+  const rm = document.getElementById('resume-modal');
+  if (rm) { rm.setAttribute('hidden', ''); rm.classList.remove('visible'); }
+};
+
+async function _doResume(fromIdx) {
+  if (!_currentBatch) return;
+  const rm = document.getElementById('resume-modal');
+  if (rm) { rm.setAttribute('hidden', ''); rm.classList.remove('visible'); }
+  try {
+    await api('/api/batch/' + _currentBatch.id + '/start', {
+      method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({from_index: fromIdx}),
+    });
+    toast('Resuming from #' + (fromIdx+1));
+    loadBatchStatus(); startBatchPoll();
+    const body = document.getElementById('batch-body');
+    const bBtn = document.getElementById('batch-toggle');
+    if (!body.classList.contains('open')) {
+      body.classList.add('open');
+      document.getElementById('batch-chevron').classList.add('open');
+      if (bBtn) bBtn.setAttribute('aria-expanded', 'true');
+    }
+  } catch(e) { toast('Error: ' + e.message); }
+}
+
+// ── Gemini usage (header) ────────────────────────────────────────────────
+async function refreshGeminiUsage(){
+  const el = document.getElementById('gemini-usage');
+  if(!el) return;
+  try{
+    const u = await api('/api/gemini/usage');
+    const pb = (u.planner_backend || '').toLowerCase();
+    if(pb === 'ollama'){
+      el.textContent = 'Planner: ollama removed — use gemini or hybrid in .env';
+      el.title = 'Set SHORTS_PLANNER_BACKEND=gemini or hybrid and restart the server';
+      return;
+    }
+    const hybrid = pb === 'hybrid';
+    const hybridNote = hybrid
+      ? ('SHORTS_PLANNER_BACKEND=hybrid: try Gemini each job; on quota use DeepSeek, then Gemini again when free.\n')
+      : '';
+    if(!u.gemini_api_configured){
+      el.textContent = 'Gemini: set SHORTS_GEMINI_API_KEY';
+      el.title = 'Add your Google AI Studio key to .env then restart the server';
+      return;
+    }
+    const bits = [];
+    const h = u.rate_limit_headers;
+    if(h && typeof h === 'object'){
+      for(const [k, v] of Object.entries(h)){
+        const short = k.replace(/^x-/i, '');
+        bits.push(short + '=' + String(v).slice(0, 48));
+      }
+    }
+    const um = u.usage_metadata;
+    if(um && um.total_token_count != null)
+      bits.push('tokens ' + um.total_token_count);
+    else if(um && um.prompt_token_count != null)
+      bits.push('prompt tok ' + um.prompt_token_count);
+    if(!u.has_sample){
+      el.textContent = (hybrid ? 'Hybrid · ' : '') + 'Gemini · caps appear after next plan call';
+      const gm0 = Array.isArray(u.gemini_models) && u.gemini_models.length
+        ? ('Models (order): ' + u.gemini_models.join(' → '))
+        : '';
+      el.title = [hybridNote, gm0, u.note || '', u.ai_studio_rate_limits_url || ''].filter(Boolean).join('\n');
+      return;
+    }
+    const t = u.updated_at_unix
+      ? new Date(u.updated_at_unix * 1000).toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'})
+      : '';
+    const prefix = hybrid ? 'Hybrid · ' : '';
+    if(bits.length)
+      el.textContent = prefix + 'Gemini ' + (t ? '[' + t + '] ' : '') + bits.join(' · ');
+    else
+      el.textContent = prefix + 'Gemini ' + (t ? '[' + t + '] ' : '') + 'no x-ratelimit headers · see AI Studio';
+    const ds = u.deepseek_api_configured ? ('DeepSeek fallback: ' + (u.deepseek_model || 'deepseek-chat')) : '';
+    const gm = Array.isArray(u.gemini_models) && u.gemini_models.length
+      ? ('Models (order): ' + u.gemini_models.join(' → '))
+      : '';
+    el.title = [hybridNote, gm, ds, u.note, u.ai_studio_rate_limits_url, u.rate_limits_docs_url].filter(Boolean).join('\n');
+  }catch(e){
+    el.textContent = 'Gemini usage: —';
+    el.title = e.message || '';
+  }
+}
+
+// ── Init ───────────────────────────────────────────────────────────────────
+loadConfig();
+refreshJobList();
+loadBatchStatus();
+refreshGeminiUsage();
+setInterval(refreshGeminiUsage, 20000);
+setTimeout(checkForResume, 800);
+</script>
+
+</body>
+</html>
