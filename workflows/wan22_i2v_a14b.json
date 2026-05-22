@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "prompt_key_path": ["7", "inputs", "text"],
+    "image_key_path": ["10", "inputs", "image"],
+    "length_key_path": ["12", "inputs", "length"],
+    "min_width": 720,
+    "min_height": 1280,
+    "_note": [
+      "ComfyUI API-format workflow for Wan 2.2 I2V-A14B (image-to-video).",
+      "Two-stage sampler: high-noise model (early steps) -> low-noise model (refine).",
+      "Input: uploaded PNG (1080x1920 from Qwen-Image, resized to 720x1280 by WanImageToVideo).",
+      "Output: 720x1280 MP4 @ 16fps. Length controlled by 'length' input (frames).",
+      "  3.0s = 49 frames, 4.0s = 65 frames, 5.0s = 81 frames (native), 6.0s = 97 frames.",
+      "Wan 2.2 was trained on 81 frames — quality drops beyond ~97 frames; cap at 113.",
+      "",
+      "Required files (BF16 full precision, ~40GB+ VRAM total):",
+      "  models/diffusion_models/ -> wan2.2_i2v_high_noise_14B_bf16.safetensors  (~28GB)",
+      "      https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_i2v_high_noise_14B_bf16.safetensors",
+      "  models/diffusion_models/ -> wan2.2_i2v_low_noise_14B_bf16.safetensors   (~28GB)",
+      "      https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_i2v_low_noise_14B_bf16.safetensors",
+      "  models/text_encoders/    -> umt5_xxl_fp16.safetensors                   (~11GB)",
+      "      https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp16.safetensors",
+      "  models/vae/              -> wan_2.1_vae.safetensors                     (~250MB)",
+      "      https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors",
+      "",
+      "Requires ComfyUI (>= Aug 2025) with native Wan 2.2 nodes + ComfyUI-VideoHelperSuite for VHS_VideoCombine.",
+      "Render time: ~5-8 min per 5s clip on RTX 4090, ~3-4 min on H100.",
+      "",
+      "Tune knobs (KSampler 1+2 nodes 13 & 14):",
+      "  - High-noise steps 0-N split: 20 total, 10 each works well. Adjust via 'end_step'.",
+      "  - CFG: 3.5-5.0. Higher = stronger prompt adherence but more morphing.",
+      "  - shift: 5.0 for 16fps. Increase to 8.0 for slower motion."
+    ]
+  },
+  "prompt": {
+    "1": {
+      "class_type": "UNETLoader",
+      "inputs": {
+        "unet_name": "wan2.2_i2v_high_noise_14B_bf16.safetensors",
+        "weight_dtype": "default"
+      },
+      "_meta": {"title": "Load Wan 2.2 I2V High-Noise"}
+    },
+    "2": {
+      "class_type": "UNETLoader",
+      "inputs": {
+        "unet_name": "wan2.2_i2v_low_noise_14B_bf16.safetensors",
+        "weight_dtype": "default"
+      },
+      "_meta": {"title": "Load Wan 2.2 I2V Low-Noise"}
+    },
+    "3": {
+      "class_type": "CLIPLoader",
+      "inputs": {
+        "clip_name": "umt5_xxl_fp16.safetensors",
+        "type": "wan",
+        "device": "default"
+      },
+      "_meta": {"title": "Load UMT5-XXL Text Encoder"}
+    },
+    "4": {
+      "class_type": "VAELoader",
+      "inputs": {
+        "vae_name": "wan_2.1_vae.safetensors"
+      },
+      "_meta": {"title": "Load Wan VAE"}
+    },
+    "5": {
+      "class_type": "ModelSamplingSD3",
+      "inputs": {
+        "model": ["1", 0],
+        "shift": 5.0
+      },
+      "_meta": {"title": "Model Sampling (high-noise, shift 5.0)"}
+    },
+    "6": {
+      "class_type": "ModelSamplingSD3",
+      "inputs": {
+        "model": ["2", 0],
+        "shift": 5.0
+      },
+      "_meta": {"title": "Model Sampling (low-noise, shift 5.0)"}
+    },
+    "7": {
+      "class_type": "CLIPTextEncode",
+      "inputs": {
+        "clip": ["3", 0],
+        "text": ""
+      },
+      "_meta": {"title": "POSITIVE MOTION PROMPT"}
+    },
+    "8": {
+      "class_type": "CLIPTextEncode",
+      "inputs": {
+        "clip": ["3", 0],
+        "text": "static, frozen, still image, no movement, jittery, low quality, blurry, distorted, deformed face, morphing, melting, warping, glitch artifacts, duplicate frames, text overlay, watermark"
+      },
+      "_meta": {"title": "NEGATIVE MOTION PROMPT"}
+    },
+    "10": {
+      "class_type": "LoadImage",
+      "inputs": {
+        "image": "placeholder.png"
+      },
+      "_meta": {"title": "Load Source Image (Qwen output)"}
+    },
+    "11": {
+      "class_type": "ImageScale",
+      "inputs": {
+        "image": ["10", 0],
+        "upscale_method": "lanczos",
+        "width": 720,
+        "height": 1280,
+        "crop": "center"
+      },
+      "_meta": {"title": "Resize to 720x1280 (Wan native)"}
+    },
+    "12": {
+      "class_type": "WanImageToVideo",
+      "inputs": {
+        "positive": ["7", 0],
+        "negative": ["8", 0],
+        "vae": ["4", 0],
+        "start_image": ["11", 0],
+        "width": 720,
+        "height": 1280,
+        "length": 81,
+        "batch_size": 1
+      },
+      "_meta": {"title": "Wan Image-To-Video (length = frames)"}
+    },
+    "13": {
+      "class_type": "KSamplerAdvanced",
+      "inputs": {
+        "model": ["5", 0],
+        "positive": ["12", 0],
+        "negative": ["12", 1],
+        "latent_image": ["12", 2],
+        "add_noise": "enable",
+        "noise_seed": 42,
+        "steps": 20,
+        "cfg": 3.5,
+        "sampler_name": "euler",
+        "scheduler": "simple",
+        "start_at_step": 0,
+        "end_at_step": 10,
+        "return_with_leftover_noise": "enable"
+      },
+      "_meta": {"title": "KSampler High-Noise (steps 0-10)"}
+    },
+    "14": {
+      "class_type": "KSamplerAdvanced",
+      "inputs": {
+        "model": ["6", 0],
+        "positive": ["12", 0],
+        "negative": ["12", 1],
+        "latent_image": ["13", 0],
+        "add_noise": "disable",
+        "noise_seed": 42,
+        "steps": 20,
+        "cfg": 3.5,
+        "sampler_name": "euler",
+        "scheduler": "simple",
+        "start_at_step": 10,
+        "end_at_step": 20,
+        "return_with_leftover_noise": "disable"
+      },
+      "_meta": {"title": "KSampler Low-Noise (steps 10-20, refine)"}
+    },
+    "15": {
+      "class_type": "VAEDecode",
+      "inputs": {
+        "samples": ["14", 0],
+        "vae": ["4", 0]
+      },
+      "_meta": {"title": "VAE Decode (latents -> frames)"}
+    },
+    "16": {
+      "class_type": "VHS_VideoCombine",
+      "inputs": {
+        "images": ["15", 0],
+        "frame_rate": 16,
+        "loop_count": 0,
+        "filename_prefix": "shorts_wan_i2v",
+        "format": "video/h264-mp4",
+        "pix_fmt": "yuv420p",
+        "crf": 18,
+        "save_metadata": false,
+        "pingpong": false,
+        "save_output": true
+      },
+      "_meta": {"title": "Save MP4 (16fps, CRF 18)"}
+    }
+  }
+}

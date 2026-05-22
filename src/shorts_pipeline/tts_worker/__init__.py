@@ -1,3 +1,3 @@
-from shorts_pipeline.tts_worker.fish import FishTTSClient, FishTTSError
+from shorts_pipeline.tts_worker.kokoro import KokoroTTSClient
 
-__all__ = ["FishTTSClient", "FishTTSError"]
+__all__ = ["KokoroTTSClient"]

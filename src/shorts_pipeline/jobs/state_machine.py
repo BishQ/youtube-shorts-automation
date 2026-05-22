@@ -7,6 +7,7 @@ from pathlib import Path
 from typing import Protocol
 
 from shorts_pipeline.context import set_job_id
+from shorts_pipeline.config.settings import Settings
 from shorts_pipeline.jobs.exceptions import CooperativePauseError
 from shorts_pipeline.jobs.models import (
     ArtifactType,
@@ -29,14 +30,27 @@ class StageHandler(Protocol):
     def run_images(self, job_id: str) -> None: ...
     def run_tts(self, job_id: str) -> None: ...
     def run_align(self, job_id: str) -> None: ...
+    def run_i2v(self, job_id: str) -> None: ...
     def run_render(self, job_id: str) -> None: ...
     def run_publish(self, job_id: str) -> None: ...
 
 
 class StageRunner:
-    def __init__(self, store: JobStore, handler: StageHandler) -> None:
+    def __init__(
+        self,
+        store: JobStore,
+        handler: StageHandler,
+        *,
+        settings: Settings | None = None,
+    ) -> None:
         self._store = store
         self._handler = handler
+        self._settings = settings
+
+    def _i2v_enabled(self) -> bool:
+        if self._settings is None:
+            return False
+        return bool(self._settings.i2v_enabled)
 
     def _gate_complete(self, job_id: str, stage: PipelineStage) -> bool:
         if stage == PipelineStage.plan:
@@ -62,6 +76,16 @@ class StageRunner:
             if art is None:
                 return False
             return verify_artifact_path(Path(art.path), art.sha256)
+        if stage == PipelineStage.i2v:
+            if not self._i2v_enabled():
+                return True
+            arts = self._store.get_artifacts_for_stage(job_id, stage, ArtifactType.video_mp4)
+            if not arts:
+                return False
+            expected = self._expected_image_count(job_id)
+            if expected is not None and len(arts) != expected:
+                return False
+            return all(verify_artifact_path(Path(a.path), a.sha256) for a in arts)
         if stage == PipelineStage.render:
             art = self._store.get_latest_artifact(job_id, stage, ArtifactType.final_mp4)
             if art is None:

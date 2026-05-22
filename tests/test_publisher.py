@@ -60,15 +60,15 @@ def _build_plan() -> NarrationPlan:
     )
 
     hook_text = (
-        "How does a boy abandoned in the snow at nine become the man who rewrote the world? "
-        "His name was once Temujin."
+        "How does a boy abandoned in the snow at nine become one who rewrote the world? "
+        "His name was Temujin."
     )
     body_texts = [
-        "Tribes left him to die when his father was poisoned at a feast.",
+        "Tribes left him when his father was poisoned at a feast.",
         "His mother fed five children on roots and the kindness of strangers.",
         "He stole a horse to ride seven days without sleeping.",
         "He killed his half-brother over a fish and never apologised.",
-        "Forty thousand riders eventually swore loyalty to a man with no clan.",
+        "Forty thousand riders swore loyalty to a man with no clan.",
         "He outlawed kidnapping, codified mercy for women, and burned cities.",
         "Persian scholars described him with two words: storm and patience.",
         "His armies turned engineers into soldiers and rivers into highways.",
@@ -112,8 +112,7 @@ def _build_plan() -> NarrationPlan:
         )
 
     full_script = " ".join(c.text for c in clauses)
-    while len(full_script.split()) < 155:
-        full_script += " His silence outlasted every dynasty that followed."
+    assert 152 <= len(full_script.split()) <= 162
 
     return NarrationPlan(
         historical_figure="Genghis Khan",
@@ -200,6 +199,8 @@ def _reference_package() -> PublishingPackage:
 def test_publish_stage_is_registered_and_terminal() -> None:
     assert PipelineStage.publish.value == "publish"
     assert ArtifactType.publish_package_json.value == "publish_package_json"
+    assert next_stage(PipelineStage.i2v) == PipelineStage.render
+    assert next_stage(PipelineStage.align) == PipelineStage.i2v
     assert next_stage(PipelineStage.render) == PipelineStage.publish
     assert next_stage(PipelineStage.publish) is None
 
@@ -217,6 +218,7 @@ def test_orchestrator_handler_exposes_run_publish(tmp_path) -> None:
         "run_images",
         "run_tts",
         "run_align",
+        "run_i2v",
         "run_render",
         "run_publish",
     ):

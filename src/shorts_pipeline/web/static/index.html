@@ -759,6 +759,7 @@ const STAGES = [
   { key: 'images',  label: 'Images',  icon: '🖼️', tooltip: 'Image generation' },
   { key: 'tts',     label: 'Voice',   icon: '🔊', tooltip: 'Voiceover (TTS)' },
   { key: 'align',   label: 'Align',   icon: '⏱', tooltip: 'Subtitle timing' },
+  { key: 'i2v',     label: 'I2V',     icon: '🎬', tooltip: 'Wan image-to-video clips' },
   { key: 'render',  label: 'Render',  icon: '🎞', tooltip: 'Video render & mux' },
   { key: 'publish', label: 'Publish', icon: '📦', tooltip: 'Packaging & metadata' },
 ];
@@ -768,6 +769,7 @@ const STAGE_LABEL_LONG = {
   images: 'Image generation',
   tts: 'Voiceover (TTS)',
   align: 'Subtitle timing',
+  i2v: 'Image-to-video (Wan)',
   render: 'Video render & mux',
   publish: 'Packaging & metadata',
 };
@@ -1166,9 +1168,9 @@ function updateScriptWordCount() {
   const badge = document.getElementById('script-word-count');
   const words = (ta.value.trim().match(/\S+/g) || []).length;
   badge.textContent = words + ' words';
-  badge.style.background = words >= 178 && words <= 195
+  badge.style.background = words >= 152 && words <= 162
     ? 'rgba(80,200,80,.22)' : 'rgba(232,184,75,.18)';
-  badge.style.color = words >= 178 && words <= 195 ? '#6ef07a' : '#e8b84b';
+  badge.style.color = words >= 152 && words <= 162 ? '#6ef07a' : '#e8b84b';
 }
 
 document.getElementById('script-textarea').addEventListener('input', updateScriptWordCount);
@@ -1503,6 +1505,10 @@ const _PROGRESS_EVENTS = {
   tts_done:        e => `✅ Narration done`,
   align_start:     e => `📝 Aligning audio to script…`,
   align_done:      e => `✅ Alignment done — ${e.clause_count} clauses timed`,
+  i2v_start:       e => `🎬 Starting Wan I2V — ${e.total} clips`,
+  i2v_generating:  e => `🎬 I2V clip ${e.index}/${e.total} (${e.duration_s}s)`,
+  i2v_done:        e => `✅ I2V clip ${e.index}/${e.total} done`,
+  i2v_stage_done:  e => `✅ All ${e.total} I2V clips ready`,
   render_start:    e => `🎬 Rendering final video…`,
   render_done:     e => `✅ Video render complete!`,
   stage_start:     e => `▶  Stage: ${e.stage}`,
@@ -1554,6 +1560,8 @@ document.getElementById('btn-clear-logs').onclick = () => {
 // ── Polling ────────────────────────────────────────────────────────────────
 let _lastJobListMs = 0;
 let _prevPollJobStatus = '';
+/** When unchanged, skip rebuilding #job-list so polling does not fight user scroll position. */
+let _lastJobListSig = '';
 
 async function pollJob(){
   if(!activeJobId) return;
@@ -1693,7 +1701,26 @@ async function refreshJobList(){
   try {
     const jobs = await api('/api/jobs');
     const list = document.getElementById('job-list');
-    if(!jobs.length){ list.innerHTML = '<div class="log-empty">No jobs yet.</div>'; return; }
+    if(!jobs.length){
+      _lastJobListSig = '';
+      list.innerHTML = '<div class="log-empty">No jobs yet.</div>';
+      return;
+    }
+    const sig = jobs
+      .map(
+        j =>
+          j.id +
+          ':' +
+          j.status +
+          ':' +
+          (j.current_stage || '') +
+          ':' +
+          (j.last_completed_stage || ''),
+      )
+      .join('|');
+    if (sig === _lastJobListSig && list.childElementCount === jobs.length) {
+      return;
+    }
     list.innerHTML = '';
     jobs.slice().reverse().forEach(j => {
       const statusKey = j.status === 'completed' ? 'done' : j.status === 'failed' ? 'error' : j.status === 'paused' ? 'paused' : j.status;
@@ -1778,11 +1805,15 @@ async function refreshJobList(){
       }
       list.appendChild(wrap);
     });
+    _lastJobListSig = sig;
   } catch(e){ console.warn(e); }
   finally { refreshGeminiUsage(); }
 }
 
-document.getElementById('btn-refresh-jobs').onclick = refreshJobList;
+document.getElementById('btn-refresh-jobs').onclick = () => {
+  _lastJobListSig = '';
+  refreshJobList();
+};
 
 document.getElementById('btn-pause-after-image')?.addEventListener('click', async (e) => {
   e.preventDefault();
@@ -2262,6 +2293,8 @@ function renderAnalyticsOverview(data){
 
 // ── Batch Queue ───────────────────────────────────────────────────────────────
 let _currentBatch   = null;
+/** Batch topic list: last row we auto-scrolled to (avoid fighting user scroll on every poll). */
+let _lastBatchRunningScrollKey = null;
 let _parsedTopics   = [];
 let _batchPollTimer = null;
 
@@ -2530,6 +2563,11 @@ async function _syncBatchJobToProduction(b) {
     return;
   }
 
+  // User chose another job in the list (e.g. older topic) — do not snap back to the live batch job on every poll.
+  if (activeJobId && activeJobId !== jid) {
+    return;
+  }
+
   activeJobId = jid;
   if (folderInp) folderInp.value = jid;
   logOffset = 0;
@@ -2603,10 +2641,20 @@ function _renderActiveBatch(b) {
     </div>`;
   }).join('');
   const runningEl = list.querySelector('.status-running');
-  if (runningEl) runningEl.scrollIntoView({ block:'nearest', behavior:'smooth' });
+  const runningTopic = (b.topics || []).find(t => t.job_status === 'running');
+  const runningKey = runningTopic
+    ? String(runningTopic.job_id || '') + ':' + String(runningTopic.name || '')
+    : null;
+  if (!runningKey) {
+    _lastBatchRunningScrollKey = null;
+  } else if (runningEl && runningKey !== _lastBatchRunningScrollKey) {
+    _lastBatchRunningScrollKey = runningKey;
+    runningEl.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+  }
 }
 
 function _showBatchInput() {
+  _lastBatchRunningScrollKey = null;
   document.getElementById('batch-input-area').style.display   = '';
   document.getElementById('batch-active-panel').style.display = 'none';
   document.getElementById('batch-header-badge').style.display = 'none';

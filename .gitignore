@@ -34,3 +34,12 @@ Thumbs.db
 # Local pipeline state (large binaries, DBs — not for GitHub)
 data/*
 !data/.gitkeep
+
+# Generated outputs
+scripts_out/
+
+# Log + ad-hoc test artifacts
+*.log
+failures.csv
+calibration_results.csv
+calibration_topics.json

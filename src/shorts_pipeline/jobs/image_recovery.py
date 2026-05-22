@@ -224,7 +224,7 @@ def build_job_config_for_disk_import(settings: Settings, job_id: str, bgm_path: 
         watermark_enabled=False,
         end_plate_enabled=True,
         comfy_workflow_name=None,
-        overlay_enabled=False,
+        overlay_enabled=True,
     )
 
 

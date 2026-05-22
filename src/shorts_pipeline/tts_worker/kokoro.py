@@ -67,6 +67,13 @@ class KokoroTTSClient:
         log.info("kokoro_synthesize", mode="python", voice=self._s.kokoro_voice)
 
         try:
+            # Pin torch's RNG so the same (text, voice, speed) tuple renders
+            # byte-identical audio across processes. Without this, Kokoro's
+            # internal sampling drifts 3-5 s per render, making fit_narration's
+            # duration-based speed math unreliable for the 80k-video pipeline.
+            import torch  # type: ignore
+            torch.manual_seed(getattr(self._s, "kokoro_seed", 42))
+
             pipeline = KPipeline(lang_code=self._s.kokoro_lang_code)
             generator = pipeline(
                 text,

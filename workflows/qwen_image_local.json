@@ -1,0 +1,133 @@
+{
+  "meta": {
+    "prompt_key_path": ["6", "inputs", "text"],
+    "min_width": 1080,
+    "min_height": 1920,
+    "_note": [
+      "ComfyUI API-format workflow for local Qwen-Image generation (9:16 portrait).",
+      "Pipeline: Qwen-Image base @ 928x1664 (20 steps, CFG 2.5) -> VAE decode -> 4x UltraSharp upscale.",
+      "Final PNG ~3712x6656; FFmpeg scales down to SHORTS_VIDEO_WIDTH x HEIGHT (1080x1920 default).",
+      "",
+      "Required files (download these into your ComfyUI/models folder):",
+      "  models/diffusion_models/ -> qwen_image_bf16.safetensors  (~40GB, full precision)",
+      "      https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/diffusion_models/qwen_image_bf16.safetensors",
+      "  models/text_encoders/    -> qwen_2.5_vl_7b.safetensors  (~15GB, full precision)",
+      "      https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b.safetensors",
+      "  models/vae/              -> qwen_image_vae.safetensors",
+      "      https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors",
+      "  models/upscale_models/   -> 4x-UltraSharp.pth (already present)",
+      "",
+      "Requires recent ComfyUI (>= Aug 2025) with native Qwen-Image support.",
+      "VRAM: bf16 needs ~40GB+ (A100/H100/RTX 6000 Ada). Maximum quality, no precision loss.",
+      "",
+      "Sampler tips: CFG 2.5-4.0, 20-30 steps, euler/simple work best for Qwen-Image.",
+      "Increase shift to 3.1 via ModelSamplingAuraFlow for sharper output."
+    ]
+  },
+  "prompt": {
+    "1": {
+      "class_type": "UNETLoader",
+      "inputs": {
+        "unet_name": "qwen_image_bf16.safetensors",
+        "weight_dtype": "default"
+      },
+      "_meta": {"title": "Load Qwen-Image UNet"}
+    },
+    "2": {
+      "class_type": "CLIPLoader",
+      "inputs": {
+        "clip_name": "qwen_2.5_vl_7b.safetensors",
+        "type": "qwen_image",
+        "device": "default"
+      },
+      "_meta": {"title": "Load Qwen 2.5 VL Text Encoder"}
+    },
+    "3": {
+      "class_type": "VAELoader",
+      "inputs": {
+        "vae_name": "qwen_image_vae.safetensors"
+      },
+      "_meta": {"title": "Load Qwen-Image VAE"}
+    },
+    "4": {
+      "class_type": "ModelSamplingAuraFlow",
+      "inputs": {
+        "model": ["1", 0],
+        "shift": 3.1
+      },
+      "_meta": {"title": "Model Sampling (shift 3.1)"}
+    },
+    "5": {
+      "class_type": "EmptyLatentImage",
+      "inputs": {
+        "width": 928,
+        "height": 1664,
+        "batch_size": 1
+      },
+      "_meta": {"title": "Empty Latent 928x1664 (9:16)"}
+    },
+    "6": {
+      "class_type": "CLIPTextEncode",
+      "inputs": {
+        "clip": ["2", 0],
+        "text": ""
+      },
+      "_meta": {"title": "POSITIVE PROMPT"}
+    },
+    "7": {
+      "class_type": "CLIPTextEncode",
+      "inputs": {
+        "clip": ["2", 0],
+        "text": "blurry, deformed, low quality, watermark, text, letters"
+      },
+      "_meta": {"title": "NEGATIVE PROMPT"}
+    },
+    "8": {
+      "class_type": "KSampler",
+      "inputs": {
+        "model": ["4", 0],
+        "positive": ["6", 0],
+        "negative": ["7", 0],
+        "latent_image": ["5", 0],
+        "seed": 42,
+        "steps": 30,
+        "cfg": 3.5,
+        "sampler_name": "euler",
+        "scheduler": "simple",
+        "denoise": 1.0
+      },
+      "_meta": {"title": "KSampler (20 steps, cfg 2.5)"}
+    },
+    "9": {
+      "class_type": "VAEDecode",
+      "inputs": {
+        "samples": ["8", 0],
+        "vae": ["3", 0]
+      },
+      "_meta": {"title": "VAE Decode"}
+    },
+    "10": {
+      "class_type": "UpscaleModelLoader",
+      "inputs": {
+        "model_name": "4x-UltraSharp.pth"
+      },
+      "_meta": {"title": "Load 4x-UltraSharp"}
+    },
+    "11": {
+      "class_type": "ImageUpscaleWithModel",
+      "inputs": {
+        "upscale_model": ["10", 0],
+        "image": ["9", 0]
+      },
+      "_meta": {"title": "4x UltraSharp Upscale"}
+    },
+    "12": {
+      "class_type": "SaveImage",
+      "inputs": {
+        "images": ["11", 0],
+        "filename_prefix": "shorts_qwen"
+      },
+      "_meta": {"title": "SAVE FINAL OUTPUT"}
+    }
+  }
+}

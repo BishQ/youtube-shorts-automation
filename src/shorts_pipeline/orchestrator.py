@@ -20,12 +20,19 @@ from shorts_pipeline.image_worker.hybrid_image_generator import HybridImageGener
 from shorts_pipeline.image_worker.triple_hybrid_image_generator import TripleHybridImageGenerator
 from shorts_pipeline.image_worker.smart_grok_image_generator import SmartGrokImageGenerator
 from shorts_pipeline.jobs.exceptions import CooperativePauseError
-from shorts_pipeline.jobs.image_order import sort_clause_png_artifacts
+from shorts_pipeline.jobs.image_order import (
+    clause_index_from_video_path,
+    sort_clause_mp4_artifacts,
+    sort_clause_png_artifacts,
+)
 from shorts_pipeline.jobs.models import ArtifactType, JobStatus, PipelineStage
 from shorts_pipeline.jobs.store import JobStore, verify_artifact_path
 from shorts_pipeline.logging_setup import get_logger
 from shorts_pipeline.planner.router import build_planner_client
 from shorts_pipeline.planner.schema import NarrationPlan
+from shorts_pipeline.runpod_adapter import make_i2v_client
+from shorts_pipeline.video_worker.motion_resolver import resolve_motion_prompt
+from shorts_pipeline.video_worker.wan_i2v import load_i2v_bundle
 from shorts_pipeline.publisher import (
     PublishingPackage,
     build_fallback_package,
@@ -317,13 +324,10 @@ class PipelineOrchestrator:
         if backend in ("kokoro", "kokoro_http"):
             from shorts_pipeline.tts_worker.kokoro import KokoroTTSClient
             KokoroTTSClient(self._settings).synthesize_wav(plan.full_script, out)
-        elif backend == "fish":
-            from shorts_pipeline.tts_worker.fish import FishTTSClient
-            FishTTSClient(self._settings).synthesize_wav(plan.full_script, out)
         else:
             raise RuntimeError(
                 f"Unknown tts_backend {backend!r}. "
-                "Set SHORTS_TTS_BACKEND to 'kokoro', 'kokoro_http', or 'fish'."
+                "Set SHORTS_TTS_BACKEND to 'kokoro' or 'kokoro_http'."
             )
         self._store.add_artifact(
             job_id,
@@ -386,6 +390,102 @@ class PipelineOrchestrator:
             meta={},
         )
         log.info("align_done", job_id=job_id, clause_count=len(ranges))
+
+    def run_i2v(self, job_id: str) -> None:
+        """Generate Wan 2.2 I2V MP4 clips — one per clause, timed to align ranges."""
+        if not self._settings.i2v_enabled:
+            log.info("i2v_skipped_disabled", job_id=job_id)
+            return
+
+        rec = self._store.get_job(job_id)
+        if rec is None:
+            raise ValueError("job not found")
+        plan = self._load_plan(job_id)
+        niche = plan.niche or rec.config_snapshot.topic_type
+
+        image_paths, _, _, _, timings_path = self._load_render_artifacts(job_id, plan)
+        ranges = self._load_ranges(timings_path, expected=len(plan.clauses))
+
+        wf_name = self._settings.i2v_workflow_name
+        bundle_path = (self._settings.workflows_dir / f"{wf_name}.json").resolve()
+        bundle = load_i2v_bundle(bundle_path)
+        client = make_i2v_client(self._settings)
+
+        out_dir = self._job_dir(job_id) / "videos"
+        out_dir.mkdir(parents=True, exist_ok=True)
+        max_dur = float(self._settings.i2v_max_clip_duration_s)
+
+        log.info(
+            "i2v_start",
+            job_id=job_id,
+            total=len(plan.clauses),
+            workflow=wf_name,
+            niche=niche,
+        )
+
+        for i, (clause, img_path, (start_s, end_s)) in enumerate(
+            zip(plan.clauses, image_paths, ranges)
+        ):
+            out_path = out_dir / f"clause_{i:03d}.mp4"
+            if self._video_artifact_valid_for_path(job_id, out_path):
+                log.info("i2v_done", job_id=job_id, index=i + 1, total=len(plan.clauses), skipped=True)
+                continue
+
+            duration_s = min(max_dur, max(0.5, end_s - start_s))
+            motion = resolve_motion_prompt(clause, niche=niche)
+            log.info(
+                "i2v_generating",
+                job_id=job_id,
+                index=i + 1,
+                total=len(plan.clauses),
+                duration_s=round(duration_s, 2),
+                motion_preview=motion[:80],
+            )
+            client.generate_clip(
+                bundle,
+                image_path=img_path,
+                motion_prompt=motion,
+                duration_s=duration_s,
+                out_path=out_path,
+            )
+            self._store.add_artifact(
+                job_id,
+                PipelineStage.i2v,
+                ArtifactType.video_mp4,
+                out_path,
+                meta={"clause_index": i, "duration_s": duration_s},
+            )
+            log.info(
+                "i2v_done",
+                job_id=job_id,
+                index=i + 1,
+                total=len(plan.clauses),
+                out=out_path.name,
+            )
+
+        log.info("i2v_stage_done", job_id=job_id, total=len(plan.clauses))
+
+    def _video_artifact_valid_for_path(self, job_id: str, out_path: Path) -> bool:
+        arts = self._store.get_artifacts_for_stage(job_id, PipelineStage.i2v, ArtifactType.video_mp4)
+        resolved = out_path.resolve()
+        for a in arts:
+            if Path(a.path).resolve() == resolved:
+                return verify_artifact_path(Path(a.path), a.sha256)
+        return False
+
+    def _load_i2v_video_paths(self, job_id: str, plan: NarrationPlan) -> list[Path | None]:
+        if not self._settings.i2v_enabled:
+            return [None] * len(plan.clauses)
+        arts = self._store.get_artifacts_for_stage(
+            job_id, PipelineStage.i2v, ArtifactType.video_mp4
+        )
+        if not arts:
+            return [None] * len(plan.clauses)
+        sorted_arts = sort_clause_mp4_artifacts(arts)
+        by_idx = {
+            clause_index_from_video_path(str(a.path)): Path(a.path) for a in sorted_arts
+        }
+        return [by_idx.get(i) for i in range(len(plan.clauses))]
 
     # ── Render helpers ────────────────────────────────────────────────────────
 
@@ -584,6 +684,7 @@ class PipelineOrchestrator:
         image_paths, outro_image_path, ass_path, wav_path, timings_path = (
             self._load_render_artifacts(job_id, plan)
         )
+        video_paths = self._load_i2v_video_paths(job_id, plan)
         ranges = self._load_ranges(timings_path, expected=len(plan.clauses))
         narration_duration_s = self._compute_narration_duration(job_id, wav_path, ranges)
         render_settings = self._build_render_settings(job_id, rec, narration_duration_s)
@@ -598,6 +699,7 @@ class PipelineOrchestrator:
             ranges,
             narration_duration_s,
             bgm_path=Path(rec.config_snapshot.bgm_path),
+            video_paths=video_paths,
             snap_to_bgm_beats=render_settings.snap_to_bgm_beats,
             run_face_detection=True,
             randomize_transitions=render_settings.randomize_clip_transitions,
@@ -609,6 +711,7 @@ class PipelineOrchestrator:
             job_id=job_id,
             clause_count=len(plan.clauses),
             has_outro_image=outro_image_path is not None,
+            i2v_clips=sum(1 for p in video_paths if p is not None and p.is_file()),
         )
         req = RenderRequest(
             edit=edit,
@@ -738,6 +841,22 @@ class PipelineOrchestrator:
             hashtag_count=len(package.hashtags),
         )
 
+        # ── Telegram auto-send ────────────────────────────────────────────────
+        # Non-fatal: a Telegram failure never marks the job as failed.
+        try:
+            from shorts_pipeline.tg_notify import send_job
+            jd = self._job_dir(job_id)
+            send_job(
+                api_id=self._settings.tg_api_id,
+                api_hash=self._settings.tg_api_hash,
+                session_path=self._settings.tg_session_path,
+                target_chat=self._settings.tg_target_chat,
+                job_dir=jd,
+                package_json=jd / "publish_package.json",
+            )
+        except Exception as _tg_exc:
+            log.warning("tg_notify_hook_error: %s", _tg_exc)
+
     # ── Helpers ───────────────────────────────────────────────────────────────
 
     def _generate_publishing_package(
@@ -815,6 +934,9 @@ def orchestrator_stage_handler(settings: Settings, store: JobStore):
 
         def run_align(self, job_id: str) -> None:
             orch.run_align(job_id)
+
+        def run_i2v(self, job_id: str) -> None:
+            orch.run_i2v(job_id)
 
         def run_render(self, job_id: str) -> None:
             orch.run_render(job_id)

@@ -58,7 +58,35 @@ def test_resync_when_full_script_bulkier_than_clauses() -> None:
     assert len(obj["full_script"].split()) == join_wc
 
 
-def test_no_op_when_already_short() -> None:
+def test_default_clamp_uses_schema_max_words() -> None:
+    lengths = [23, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 21]
+    clauses = [_make_clause(n) for n in lengths]
+    clauses[0]["text"] = (
+        "How does a shy child become a storm the world still whispers about? "
+        + " ".join(f"t{i}" for i in range(10))
+    )
+    full_script = " ".join(c["text"] for c in clauses)
+    assert len(full_script.split()) == 200
+
+    obj: dict = {
+        "historical_figure": "Test Subject",
+        "cold_open_object": "ancient coin macro",
+        "decision_lever": {
+            "lever_type": "politics",
+            "description": "A decisive political lever that split old allies",
+            "consequence": "Trade routes collapsed and the palace lost its tax base overnight",
+        },
+        "clauses": clauses,
+        "full_script": full_script,
+        "end_plate_question": "What would YOU have done?",
+    }
+
+    assert maybe_clamp_plan_json(obj) is True
+    final_wc = len(obj["full_script"].split())
+    assert final_wc <= 162
+    assert "?" in obj["clauses"][0]["text"]
+
+
     clauses = [_make_clause(8) for _ in range(14)]
     fs = " ".join(c["text"] for c in clauses)
     obj = {"clauses": clauses, "full_script": fs}

@@ -1,7 +1,14 @@
-"""DeepSeek planner client — OpenAI-compatible HTTP API, same plan flow as Gemini.
+"""Ollama planner client — local OpenAI-compatible HTTP API.
 
-Used as the final-tier fallback in hybrid mode when all Gemini models are
-unavailable (503 capacity overload or 429 quota exhaustion).
+Talks to a locally hosted Ollama server (default http://127.0.0.1:11434/v1)
+using the same OpenAI /chat/completions schema. No API key, no quotas,
+no cloud failover — this is the single planner backend for the pipeline.
+
+Default model: `qwen3.6:27b` (settings.local_llm_model).
+
+Mirrors the validation / correction loop that the old Gemini and DeepSeek
+clients used: parse JSON, validate NarrationPlan, on failure feed the
+correction message back as a new user turn and retry up to _MAX_RETRIES.
 """
 
 from __future__ import annotations
@@ -28,15 +35,7 @@ _BACKOFF_BASE_S = 3.0
 _BACKOFF_MAX_S = 30.0
 
 
-def _is_transient_deepseek_error(exc: DeepSeekPlannerError) -> bool:
-    """5xx server errors from DeepSeek that may resolve on retry."""
-    code = exc.status_code
-    if code is None:
-        return False
-    return 500 <= code < 600 and code not in (400, 401, 403, 404)
-
-
-class DeepSeekPlannerError(Exception):
+class OllamaPlannerError(Exception):
     def __init__(
         self, message: str, *, status_code: int | None = None, detail: Any = None
     ) -> None:
@@ -45,34 +44,40 @@ class DeepSeekPlannerError(Exception):
         self.detail = detail
 
 
-class DeepSeekPlannerClient:
+def _is_transient_ollama_error(exc: OllamaPlannerError) -> bool:
+    code = exc.status_code
+    if code is None:
+        # Network errors (timeout / connection refused) are transient
+        return True
+    return 500 <= code < 600 and code not in (400, 401, 403, 404)
+
+
+class OllamaPlannerClient:
+    """Generate a NarrationPlan via local Ollama (OpenAI-compatible /v1)."""
+
     def __init__(self, settings: Settings) -> None:
-        if not settings.deepseek_api_key:
-            raise DeepSeekPlannerError(
-                "deepseek_api_key is not set. Set SHORTS_DEEPSEEK_API_KEY in .env "
-                "or use planner_backend other than 'hybrid'."
+        if not settings.local_llm_model:
+            raise OllamaPlannerError(
+                "local_llm_model is not set. Set SHORTS_LOCAL_LLM_MODEL in .env "
+                "(e.g. qwen3.6:27b)."
             )
         self._settings = settings
 
     def _post_once(self, payload: dict[str, Any]) -> str:
-        """Single HTTP call — raises DeepSeekPlannerError on any failure."""
-        base = self._settings.deepseek_base_url.rstrip("/")
-        url = f"{base}/v1/chat/completions"
-        headers = {
-            "Authorization": f"Bearer {self._settings.deepseek_api_key}",
-            "Content-Type": "application/json",
-        }
+        base = self._settings.local_llm_base_url.rstrip("/")
+        url = f"{base}/chat/completions"
+        headers = {"Content-Type": "application/json"}
         try:
-            with httpx.Client(timeout=self._settings.deepseek_timeout_s) as client:
+            with httpx.Client(timeout=self._settings.local_llm_timeout_s) as client:
                 r = client.post(url, headers=headers, json=payload)
         except httpx.TimeoutException as e:
-            raise DeepSeekPlannerError(f"DeepSeek timeout: {e}") from e
+            raise OllamaPlannerError(f"Ollama timeout: {e}") from e
         except httpx.RequestError as e:
-            raise DeepSeekPlannerError(f"DeepSeek connection error: {e}") from e
+            raise OllamaPlannerError(f"Ollama connection error at {base}: {e}") from e
 
         if r.status_code >= 400:
-            raise DeepSeekPlannerError(
-                f"DeepSeek HTTP {r.status_code}",
+            raise OllamaPlannerError(
+                f"Ollama HTTP {r.status_code}",
                 status_code=r.status_code,
                 detail=r.text[:2000],
             )
@@ -80,33 +85,32 @@ class DeepSeekPlannerClient:
         try:
             data = r.json()
         except json.JSONDecodeError as e:
-            raise DeepSeekPlannerError(
-                "DeepSeek returned non-JSON body", detail=r.text[:2000]
+            raise OllamaPlannerError(
+                "Ollama returned non-JSON body", detail=r.text[:2000]
             ) from e
 
         choices = data.get("choices")
         if not isinstance(choices, list) or not choices:
-            raise DeepSeekPlannerError("DeepSeek missing choices[]", detail=data)
+            raise OllamaPlannerError("Ollama missing choices[]", detail=data)
         msg = choices[0].get("message") if isinstance(choices[0], dict) else None
         content = msg.get("content") if isinstance(msg, dict) else None
         if not isinstance(content, str) or not content.strip():
-            raise DeepSeekPlannerError("DeepSeek missing message.content", detail=data)
+            raise OllamaPlannerError("Ollama missing message.content", detail=data)
         return content
 
     def _post(self, payload: dict[str, Any]) -> str:
-        """HTTP call with exponential backoff retry on transient 5xx errors."""
-        max_retries = getattr(self._settings, "deepseek_transient_retries", 3)
+        max_retries = 3
         for attempt in range(1, max_retries + 1):
             try:
                 return self._post_once(payload)
-            except DeepSeekPlannerError as exc:
-                if _is_transient_deepseek_error(exc) and attempt < max_retries:
+            except OllamaPlannerError as exc:
+                if _is_transient_ollama_error(exc) and attempt < max_retries:
                     delay = min(
                         _BACKOFF_MAX_S,
                         _BACKOFF_BASE_S * (2 ** (attempt - 1)),
                     ) + random.uniform(0.0, 1.0)
                     log.warning(
-                        "deepseek_transient_retry",
+                        "ollama_transient_retry",
                         attempt=attempt,
                         max_attempts=max_retries,
                         status_code=exc.status_code,
@@ -115,8 +119,7 @@ class DeepSeekPlannerClient:
                     time.sleep(delay)
                     continue
                 raise
-
-        raise DeepSeekPlannerError("deepseek_post: retry loop exhausted (should not happen)")
+        raise OllamaPlannerError("ollama_post: retry loop exhausted (should not happen)")
 
     def generate_plan(
         self,
@@ -139,10 +142,11 @@ class DeepSeekPlannerClient:
             )
 
         base_payload: dict[str, Any] = {
-            "model": self._settings.deepseek_model,
-            "temperature": 0.85,
+            "model": self._settings.local_llm_model,
+            "temperature": self._settings.local_llm_temperature,
             "top_p": 0.95,
-            "max_tokens": 8192,
+            "max_tokens": self._settings.local_llm_max_tokens,
+            # Ollama OpenAI-compat supports JSON mode via this field.
             "response_format": {"type": "json_object"},
         }
 
@@ -154,7 +158,6 @@ class DeepSeekPlannerClient:
             {"role": "user", "content": user_prompt(figure_name, use_figure_name=use_figure_name)},
         ]
 
-        # Inject user feedback as a clarifying turn before generation
         if user_feedback and user_feedback.strip():
             messages = [
                 *messages,
@@ -171,10 +174,10 @@ class DeepSeekPlannerClient:
             ]
 
         log.info(
-            "deepseek_generate_start",
+            "ollama_generate_start",
             figure=figure_name,
-            model=self._settings.deepseek_model,
-            switch_context="[SWITCH] DeepSeek active — Gemini unavailable",
+            model=self._settings.local_llm_model,
+            base_url=self._settings.local_llm_base_url,
         )
 
         last_err: Exception | None = None
@@ -189,7 +192,7 @@ class DeepSeekPlannerClient:
             except json.JSONDecodeError as e:
                 if attempt < _MAX_RETRIES:
                     log.warning(
-                        "deepseek_json_parse_error_retry",
+                        "ollama_json_parse_error_retry",
                         attempt=attempt,
                         error=str(e)[:200],
                     )
@@ -209,17 +212,17 @@ class DeepSeekPlannerClient:
                     ]
                     last_err = e
                     continue
-                raise DeepSeekPlannerError(
-                    "DeepSeek did not return parseable JSON", detail=content[:4000]
+                raise OllamaPlannerError(
+                    "Ollama did not return parseable JSON", detail=content[:4000]
                 ) from e
 
             try:
                 plan = NarrationPlan.model_validate(obj, context=_validate_ctx)
                 validate_english_figure_v1(plan, topic_type=topic_type, language=language)
                 log.info(
-                    "deepseek_generate_success",
+                    "ollama_generate_success",
                     figure=figure_name,
-                    model=self._settings.deepseek_model,
+                    model=self._settings.local_llm_model,
                     attempt=attempt,
                 )
                 return plan
@@ -233,7 +236,7 @@ class DeepSeekPlannerClient:
                         {"role": "user", "content": _build_correction_message(obj, err)},
                     ]
 
-        raise DeepSeekPlannerError(
+        raise OllamaPlannerError(
             f"Plan validation failed after {_MAX_RETRIES} attempts: {last_err}",
             detail=last_obj,
         ) from last_err

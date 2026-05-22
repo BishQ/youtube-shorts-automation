@@ -46,6 +46,7 @@ def build_edit_plan_from_ranges(
     narration_duration_s: float,
     bgm_path: Path,
     *,
+    video_paths: list[Path | None] | None = None,
     snap_to_bgm_beats: bool = False,
     run_face_detection: bool = True,
     randomize_transitions: bool = False,
@@ -114,6 +115,11 @@ def build_edit_plan_from_ranges(
                 emotion=beat.emotion,
                 color_grade=beat.color_grade,
                 xfade_effect_name=xfade_name,
+                video_path=(
+                    video_paths[i]
+                    if video_paths is not None and i < len(video_paths)
+                    else None
+                ),
             )
         )
 

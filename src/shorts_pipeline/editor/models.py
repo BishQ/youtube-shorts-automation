@@ -30,9 +30,9 @@ class ClipSpec:
     intensity: float = 0.5
     emotion: EmotionType = EmotionType.reflective
     color_grade: ColorGrade | None = None
-    # FFmpeg xfade ``transition=`` when set (full catalog in ``xfade_effects``).
-    # Randomized edits set this; otherwise the renderer maps ``transition_in``.
     xfade_effect_name: str | None = None
+    # Wan I2V output — when set and the file exists, render uses MP4 instead of Ken Burns PNG.
+    video_path: Path | None = None
 
 
 @dataclass

@@ -1,0 +1,114 @@
+{
+  "survival": {
+    "max_syllables": 222,
+    "max_words": 141,
+    "avg_syl_per_word": 1.57,
+    "worst_sps": 4.039,
+    "mean_sps": 4.293
+  },
+  "crime": {
+    "max_syllables": 233,
+    "max_words": 146,
+    "avg_syl_per_word": 1.587,
+    "worst_sps": 4.24,
+    "mean_sps": 4.349
+  },
+  "wealth": {
+    "max_syllables": 239,
+    "max_words": 157,
+    "avg_syl_per_word": 1.514,
+    "worst_sps": 4.35,
+    "mean_sps": 4.362
+  },
+  "tech_hackers": {
+    "max_syllables": 237,
+    "max_words": 142,
+    "avg_syl_per_word": 1.663,
+    "worst_sps": 4.304,
+    "mean_sps": 4.387
+  },
+  "health": {
+    "max_syllables": 236,
+    "max_words": 145,
+    "avg_syl_per_word": 1.626,
+    "worst_sps": 4.292,
+    "mean_sps": 4.398
+  },
+  "military": {
+    "max_syllables": 229,
+    "max_words": 145,
+    "avg_syl_per_word": 1.577,
+    "worst_sps": 4.172,
+    "mean_sps": 4.407
+  },
+  "business": {
+    "max_syllables": 233,
+    "max_words": 140,
+    "avg_syl_per_word": 1.654,
+    "worst_sps": 4.23,
+    "mean_sps": 4.44
+  },
+  "history": {
+    "max_syllables": 243,
+    "max_words": 139,
+    "avg_syl_per_word": 1.741,
+    "worst_sps": 4.419,
+    "mean_sps": 4.457
+  },
+  "lost_tech": {
+    "max_syllables": 246,
+    "max_words": 151,
+    "avg_syl_per_word": 1.623,
+    "worst_sps": 4.465,
+    "mean_sps": 4.491
+  },
+  "cosmic": {
+    "max_syllables": 231,
+    "max_words": 148,
+    "avg_syl_per_word": 1.559,
+    "worst_sps": 4.208,
+    "mean_sps": 4.499
+  },
+  "science": {
+    "max_syllables": 238,
+    "max_words": 135,
+    "avg_syl_per_word": 1.75,
+    "worst_sps": 4.321,
+    "mean_sps": 4.512
+  },
+  "mythology": {
+    "max_syllables": 242,
+    "max_words": 167,
+    "avg_syl_per_word": 1.441,
+    "worst_sps": 4.395,
+    "mean_sps": 4.518
+  },
+  "edutainment": {
+    "max_syllables": 229,
+    "max_words": 144,
+    "avg_syl_per_word": 1.587,
+    "worst_sps": 4.168,
+    "mean_sps": 4.529
+  },
+  "cults": {
+    "max_syllables": 236,
+    "max_words": 139,
+    "avg_syl_per_word": 1.691,
+    "worst_sps": 4.295,
+    "mean_sps": 4.53
+  },
+  "sports": {
+    "max_syllables": 249,
+    "max_words": 159,
+    "avg_syl_per_word": 1.565,
+    "worst_sps": 4.523,
+    "mean_sps": 4.609
+  },
+  "psychology": {
+    "max_syllables": 255,
+    "max_words": 158,
+    "avg_syl_per_word": 1.613,
+    "worst_sps": 4.641,
+    "mean_sps": 4.663
+  }
+}

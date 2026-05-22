@@ -79,7 +79,7 @@ def _run_pipeline(job_id: str) -> None:
     base = _settings()
     s = effective_settings(base)
     h = orchestrator_stage_handler(s, _store())
-    StageRunner(_store(), h).resume_job(job_id)
+    StageRunner(_store(), h, settings=_settings()).resume_job(job_id)
 
 
 # ── Batch duplicate guard ─────────────────────────────────────────────────────
@@ -231,7 +231,7 @@ class CreateJobBody(BaseModel):
     watermark_enabled: bool = Field(default_factory=lambda: get_settings().watermark_enabled)
     end_plate_enabled: bool = Field(default_factory=lambda: get_settings().end_plate_enabled)
     comfy_workflow_name: str | None = None
-    overlay_enabled: bool = False
+    overlay_enabled: bool = True
 
 
 class UiPatchBody(BaseModel):
@@ -262,26 +262,17 @@ def health() -> dict[str, str]:
 
 @app.get("/api/gemini/usage")
 def gemini_usage() -> dict[str, object]:
-    """Last Gemini planner response: optional x-ratelimit* headers + token usage."""
-    from shorts_pipeline.planner.gemini_usage import get_usage_snapshot
+    """Legacy endpoint — kept so the UI keeps functioning.
 
+    The pipeline now runs entirely on local Ollama; there is no remote
+    quota to report.  Returns a minimal status payload.
+    """
     s = _settings()
-    snap = get_usage_snapshot()
     return {
         "planner_backend": s.planner_backend,
-        "gemini_api_configured": bool(s.gemini_api_key),
-        "gemini_model": s.gemini_model,
-        "gemini_models": s.gemini_models_ordered(),
-        "deepseek_api_configured": bool(s.deepseek_api_key),
-        "deepseek_model": s.deepseek_model,
-        **snap,
-        "rate_limits_docs_url": "https://ai.google.dev/gemini-api/docs/rate-limits",
-        "ai_studio_rate_limits_url": "https://aistudio.google.com/rate-limit",
-        "note": (
-            "Updates after each successful Gemini plan request in this server process. "
-            "If rate_limit_headers is null, Google omitted x-ratelimit* on the response; "
-            "use AI Studio usage for authoritative daily/minute caps."
-        ),
+        "local_llm_model": s.local_llm_model,
+        "local_llm_base_url": s.local_llm_base_url,
+        "note": "Pipeline runs on local Ollama — no remote rate limits.",
     }
 
 

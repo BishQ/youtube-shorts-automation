@@ -18,68 +18,18 @@ class Settings(BaseSettings):
     data_dir: Path = Field(default=Path("./data"))
 
     # ── Planner backend selector ─────────────────────────────────────────────
-    # "gemini"  → Gemini API only. On daily quota exhaustion the pipeline pauses
-    #             until midnight Pacific Time, then retries automatically.
-    # "hybrid"  → Try Gemini every time; on rate/daily quota errors fall back to
-    #             DeepSeek for that request. When Gemini works again, the next
-    #             job uses Gemini automatically (no manual switch).
-    planner_backend: str = "gemini"
+    # Only local Ollama (OpenAI-compatible /v1) is supported.  Kept for back-
+    # compat: accepted values are "ollama" / "local" / "auto" — anything else
+    # raises in build_planner_client.
+    planner_backend: str = "ollama"
 
-    # Gemini (planner_backend="gemini")
-    gemini_api_key: str | None = None
-    gemini_model: str = "gemini-2.5-flash"
-    # Comma-separated model ids, tried in order when the previous hits quota / RPM.
-    # If unset, only gemini_model is used. Example:
-    #   SHORTS_GEMINI_MODEL_CHAIN=gemini-2.5-flash,gemini-3.1-flash-lite
-    gemini_model_chain: str | None = None
-    gemini_timeout_s: float = 60.0
-
-    @field_validator("gemini_api_key", mode="before")
-    @classmethod
-    def _strip_gemini_api_key(cls, v: object) -> object:
-        if v is None:
-            return None
-        if isinstance(v, str):
-            s = v.strip()
-            return s if s else None
-        return v
-
-    def gemini_models_ordered(self) -> list[str]:
-        """Planner tries these Gemini model ids in order before waiting or DeepSeek."""
-        raw = (self.gemini_model_chain or "").strip()
-        if raw:
-            out = [p.strip() for p in raw.split(",") if p.strip()]
-            if out:
-                return out
-        single = (self.gemini_model or "").strip()
-        return [single] if single else []
-
-    # DeepSeek (planner_backend="hybrid" — fallback when Gemini quota / capacity fails)
-    deepseek_api_key: str | None = None
-    deepseek_base_url: str = "https://api.deepseek.com"
-    # deepseek-chat = DeepSeek-V3 (fast, cheap). Use deepseek-reasoner for DeepSeek-R1.
-    deepseek_model: str = "deepseek-chat"
-    deepseek_timeout_s: float = 120.0
-    # Max transient-error retries inside DeepSeekPlannerClient before giving up.
-    deepseek_transient_retries: int = 3
-
-    # ── Hybrid failover tuning ────────────────────────────────────────────────
-    # Seconds Gemini stays "degraded" after all chain models fail before the
-    # router retries it as the primary.  Set to 0 to always try Gemini first.
-    hybrid_gemini_cooldown_s: int = 600
-    # Max transient HTTP retries per Gemini model in hybrid mode (fast-fail so the
-    # router can switch to the next model / DeepSeek quickly).
-    hybrid_gemini_transient_retries: int = 2
-
-    @field_validator("deepseek_api_key", mode="before")
-    @classmethod
-    def _strip_deepseek_api_key(cls, v: object) -> object:
-        if v is None:
-            return None
-        if isinstance(v, str):
-            s = v.strip()
-            return s if s else None
-        return v
+    # ── Local LLM (Ollama default: http://127.0.0.1:11434/v1) ────────────────
+    # Default model: qwen3.6:27b (pull with `ollama pull qwen3.6:27b`).
+    local_llm_base_url: str = "http://127.0.0.1:11434/v1"
+    local_llm_model: str = "qwen3.6:27b"
+    local_llm_timeout_s: float = 600.0
+    local_llm_temperature: float = 0.4
+    local_llm_max_tokens: int = 8000
 
     # ── Image backend selector ────────────────────────────────────────────────
     # "comfy"  → All images via local ComfyUI (default).
@@ -97,8 +47,14 @@ class Settings(BaseSettings):
 
     comfy_base_url: str = "http://127.0.0.1:8188"
     comfy_timeout_s: float = 600.0
-    comfy_workflow_name: str = "flux_schnell_local"
+    comfy_workflow_name: str = "qwen_image_2512_local"
     comfy_upscale_workflow_name: str = "upscale_4x_ultrasharp"
+    # Wan 2.2 I2V workflow JSON (without .json) under workflows_dir.
+    i2v_workflow_name: str = "wan22_i2v_a14b"
+    # When True, pipeline runs align → i2v (Wan MP4 per clause) → render with video clips.
+    i2v_enabled: bool = True
+    # Max clause duration sent to Wan (seconds). Wan quality drops beyond ~7 s.
+    i2v_max_clip_duration_s: float = Field(default=6.5, ge=2.0, le=7.0)
     workflows_dir: Path = Field(default=Path("./workflows"))
     comfy_poll_interval_s: float = 1.0
     comfy_max_polls: int = 1200
@@ -106,6 +62,38 @@ class Settings(BaseSettings):
     # 0 on max wait = keep trying until Comfy accepts TCP (cancel the job to stop).
     comfy_connect_retry_interval_s: float = Field(default=2.5, ge=0.5, le=120.0)
     comfy_connect_max_wait_s: float = Field(default=0.0, ge=0.0)
+
+    # ── ComfyUI execution mode ────────────────────────────────────────────────
+    # "local"    → talk to comfy_base_url directly (localhost or a RunPod GPU Pod
+    #              proxy URL like https://xxx-8188.proxy.runpod.net).
+    # "runpod"   → talk to RunPod Serverless via /run + /status. Adapter wraps the
+    #              workflow JSON in {"input": {"workflow": ..., "images": [...]}}
+    #              and polls for completion. Uses runpod_* settings below.
+    # Both modes accept the same workflow JSON files in workflows_dir.
+    comfy_mode: str = "local"
+
+    # ── RunPod Serverless (only used when comfy_mode == "runpod") ─────────────
+    # Endpoint ID shown on the RunPod dashboard. NOT the worker pod ID.
+    runpod_endpoint_id: str | None = None
+    # API key from runpod.io/console/user/settings. SHORTS_RUNPOD_API_KEY env var.
+    runpod_api_key: str | None = None
+    runpod_base_url: str = "https://api.runpod.ai/v2"
+    # /status poll cadence. RunPod serverless is async — the /run call returns
+    # immediately with a job id and we poll /status/{id} until COMPLETED.
+    runpod_poll_interval_s: float = Field(default=2.0, ge=0.5, le=60.0)
+    # 600 polls * 2.0s = 20 min. Wan I2V at 7s @ 113 frames on H100 can take ~8min,
+    # so 20 min gives headroom for cold start + queue + worst-case generation.
+    runpod_max_polls: int = Field(default=600, ge=10)
+    # Single HTTP request timeout for /run and /status (not the whole job).
+    runpod_request_timeout_s: float = Field(default=120.0, ge=10.0)
+
+    @field_validator("runpod_api_key", mode="before")
+    @classmethod
+    def _strip_runpod_api_key(cls, v: object) -> object:
+        if isinstance(v, str):
+            s = v.strip()
+            return s if s else None
+        return v
     # Used when reconciling/importing a job from disk if BGM is not in the JSON body and
     # import_meta.json has no bgm_path. Also checks ./extra tools/bgm.mp3 next to the repo.
     default_bgm_path: str | None = Field(default=None, max_length=4096)
@@ -179,7 +167,6 @@ class Settings(BaseSettings):
     # ── TTS backend selector ─────────────────────────────────────────────────
     # "kokoro"       → direct Python API (pip install kokoro soundfile numpy)
     # "kokoro_http"  → kokoro-fastapi HTTP server
-    # "fish"         → Fish Speech HTTP (legacy)
     tts_backend: str = "kokoro"
 
     # Kokoro shared options (used by both modes)
@@ -190,12 +177,6 @@ class Settings(BaseSettings):
     # Kokoro HTTP mode (tts_backend="kokoro_http")
     kokoro_http_base_url: str = "http://127.0.0.1:8880"
     kokoro_http_timeout_s: float = 120.0
-
-    # Fish Speech (tts_backend="fish", kept for backward compat)
-    fish_base_url: str = "http://127.0.0.1:5000"
-    fish_timeout_s: float = 120.0
-    fish_tts_path: str = "/v1/tts"
-    fish_reference_id: str | None = None
 
     gpu_id: int = 0
 
@@ -234,9 +215,19 @@ class Settings(BaseSettings):
     # ── Atmospheric overlay (snow / dust / particles) ────────────────────────
     # A looping video composited onto the final frame using "screen" blend so
     # black areas vanish and bright particles (snow, embers) layer on top.
-    overlay_enabled: bool = False
+    overlay_enabled: bool = True
     overlay_video_path: Path | None = None
     overlay_opacity: float = Field(default=0.55, ge=0.0, le=1.0)
+
+    # ── Telegram auto-send (fires after every publish stage) ─────────────────
+    # Set all three in .env to enable.  Leave tg_api_id = 0 to disable.
+    #   SHORTS_TG_API_ID=12345678
+    #   SHORTS_TG_API_HASH=abcdef...
+    #   SHORTS_TG_TARGET_CHAT=123456789   (numeric user ID or @username)
+    tg_api_id: int = 0
+    tg_api_hash: str = ""
+    tg_target_chat: str = ""          # str so it accepts both int IDs and @handles
+    tg_session_path: str = "./tg_session"  # Telethon session file (no extension)
 
     log_level: str = "INFO"
     log_json: bool = False

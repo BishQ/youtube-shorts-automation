@@ -25,6 +25,7 @@ class PipelineStage(StrEnum):
     images = "images"
     tts = "tts"
     align = "align"
+    i2v = "i2v"
     render = "render"
     publish = "publish"
 
@@ -32,6 +33,7 @@ class PipelineStage(StrEnum):
 class ArtifactType(StrEnum):
     plan_json = "plan_json"
     image_png = "image_png"
+    video_mp4 = "video_mp4"
     narration_wav = "narration_wav"
     subtitles_ass = "subtitles_ass"
     final_mp4 = "final_mp4"
@@ -62,7 +64,7 @@ class JobConfigSnapshot(BaseModel):
     watermark_enabled: bool = False
     end_plate_enabled: bool = True
     comfy_workflow_name: str | None = None
-    overlay_enabled: bool = False
+    overlay_enabled: bool = True
 
 
 class JobErrorDetail(BaseModel):

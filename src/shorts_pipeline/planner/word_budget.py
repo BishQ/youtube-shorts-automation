@@ -1,9 +1,9 @@
 """Deterministic tightening of narration word count inside raw plan JSON.
 
-The planner LLMs routinely overshoot ``full_script`` by a handful of words
-(190–215 is common even when instructed to stay ≤185).  ``NarrationPlan``
-rejects anything above **185 tokens** (``.split()`` count), forcing full
-retry cycles across Gemini + DeepSeek and eventually failing the pipeline.
+The planner LLMs routinely overshoot ``full_script`` by a handful of words.
+``NarrationPlan`` rejects anything above ``NARRATION_SCRIPT_MAX_WORDS`` tokens
+(``.split()`` count), forcing full retry cycles across Gemini + DeepSeek and
+eventually failing the pipeline.
 
 Rather than widen the cinematic limit — which elongates Shorts narration past
 ideal TTS — we silently **trim clauses from the trailing edge** whenever the
@@ -26,11 +26,11 @@ import re
 from typing import Any
 
 from shorts_pipeline.logging_setup import get_logger
+from shorts_pipeline.planner.schema import NARRATION_SCRIPT_MAX_WORDS
 
 log = get_logger(__name__)
 
 _CLAUSE_TARGET = 14
-_MAX_SCRIPT_WORDS = 195
 
 
 def _word_count(script: str) -> int:
@@ -41,16 +41,30 @@ def _non_empty_sentence_min_chars(text: str) -> bool:
     return bool(text and len(text.strip()) >= 4)
 
 
+_MAX_SAFE_OVERSHOOT = 30  # over this, refuse to clamp — LLM must retry instead.
+# Why 30: LLM convergence floor on dense topics (e.g. "John Napier") sits around
+# 200-205 words even after 10 correction retries. Allowing the clamp to trim up
+# to 30 trailing words from clauses 13→2 absorbs that gap without mangling
+# sentences (each clause loses 1-3 words at most; clause 1 is never touched).
+
+
 def maybe_clamp_plan_json(
     obj: dict[str, Any],
     *,
-    max_words: int = _MAX_SCRIPT_WORDS,
+    max_words: int = NARRATION_SCRIPT_MAX_WORDS,
     min_hook_words: int = 14,
     min_body_words: int = 5,
     hard_body_floor_words: int = 3,
+    max_safe_overshoot: int = _MAX_SAFE_OVERSHOOT,
 ) -> bool:
-    """If ``full_script`` (or summed clause texts) exceeds *max_words*, trim
-    trailing words clause-by-clause and rebuild ``full_script``.
+    """If ``full_script`` (or summed clause texts) exceeds *max_words* by a
+    small amount (≤``max_safe_overshoot``), trim trailing words clause-by-
+    clause and rebuild ``full_script``.
+
+    Large overshoots are refused — returning ``False`` lets validation fail
+    and the planner client issues a correction-retry with explicit feedback.
+    Silent truncation of 50+ words destroys sentence structure and produces
+    mid-word audio fragments, which is far worse than one extra retry.
 
     Mutates ``obj`` **in-place** when applicable. Returns ``True`` iff any
     clause text or ``full_script`` changed.
@@ -96,6 +110,18 @@ def maybe_clamp_plan_json(
         return False
 
     before_wc = max(wc_fs, wc_join)
+
+    overshoot = before_wc - max_words
+    if overshoot > max_safe_overshoot:
+        log.warning(
+            "plan_word_clamp_refused_large_overshoot",
+            words=before_wc,
+            ceiling=max_words,
+            overshoot=overshoot,
+            max_safe_overshoot=max_safe_overshoot,
+            note="returning False so validator fails and planner retries with feedback",
+        )
+        return False
 
     def total_words() -> int:
         return sum(len(wl) for wl in word_lists)

@@ -848,8 +848,8 @@ SELF-CHECK BEFORE OUTPUTTING
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Before writing the final JSON, verify ALL of these silently:
   1. Clause count is exactly 14. Not 12, not 13, not 15. Always 14.
-  2. full_script word count is between 178 and 185. Count every word.
-     (Target 56–58 sec body at Kokoro TTS ~3.18 words/sec; 59.3s hard cap minus ~1.5s outro/breathe = ~57.8s narration.)
+  2. full_script word count is between 168 and 178 inclusive. Count every word.
+     (58–59 sec body TTS; 60 s Shorts cap minus ~1–2 s for end plate / breathe.)
   3. full_script contains NO MORE THAN 2 dates.
   4. No clause opens with a year or date.
   5. The script contains at least one contradiction or irony.
@@ -880,7 +880,10 @@ Before writing the final JSON, verify ALL of these silently:
       in this exact instant. No "standing", "sitting", "waiting", "watching" alone.
   19. EVERY image_prompt with a person includes at least one motion cue (hair, dust, cloak,
       sweat, breath, embers, banners, sparks, smoke, fabric) describing what is in motion.
-  20. NO image_prompt contains graphic blood or gore: no blood-soaked, bleeding, severed,
+  20. EVERY clause has a unique motion_prompt (20+ chars) with a camera-move verb
+      (push-in, pull-back, dolly, pan, tilt, orbit, tracks, zoom, static shot, handheld).
+      motion_prompt describes ONLY movement inside the existing image — never the scene setup.
+  21. NO image_prompt contains graphic blood or gore: no blood-soaked, bleeding, severed,
       pool of blood, decapitation, or exposed wounds. Violence is implied — never shown
       graphically. Platform moderation removes such content automatically.
   21. The first sentence of clause 1 is a CURIOSITY-GAP QUESTION (how/why/what) of ≤14 words
@@ -1251,7 +1254,7 @@ FINAL PRE-OUTPUT GATES (every system-prompt rule already applies — these are t
 hard quantitative numbers the validator will reject on):
 
   • Clauses: EXACTLY 14.
-  • full_script: 178–185 words. MAX 2 dates. No clause opens with a year.
+  • full_script: 168–178 words. MAX 2 dates. No clause opens with a year.
   • Birth/death year: max ONE mention, only in clauses 1–4. ZERO in clauses 12–14.
   • Question marks: EXACTLY 2 (clause 1 hook + end_plate_question).
   • Clause 1 text: curiosity-gap question ≤14 words, then a concrete moment.

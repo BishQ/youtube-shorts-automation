@@ -10,6 +10,7 @@ _STAGE_ORDER = [
     PipelineStage.images,
     PipelineStage.tts,
     PipelineStage.align,
+    PipelineStage.i2v,
     PipelineStage.render,
     PipelineStage.publish,
 ]
@@ -19,6 +20,7 @@ STAGE_TIMING_LABELS: dict[str, str] = {
     "images": "Image generation",
     "tts": "Voiceover (TTS)",
     "align": "Subtitle timing",
+    "i2v": "Image-to-video (Wan)",
     "render": "Video render & mux",
     "publish": "Packaging & metadata",
 }

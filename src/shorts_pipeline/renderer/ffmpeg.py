@@ -135,7 +135,7 @@ def _escape_drawtext(s: str) -> str:
 
 # ── Filter-complex helpers ────────────────────────────────────────────────────
 
-def _add_ken_burns(
+def _add_visual_clips(
     parts: list[str],
     clips: list[ClipSpec],
     settings: Settings,
@@ -143,47 +143,48 @@ def _add_ken_burns(
     w: int,
     h: int,
     fps: int,
+    *,
+    breathe_s: float,
+    n: int,
 ) -> None:
-    """Scale + pad every input image, apply emotion-aware zoompan, then
-    a per-clip 3-D LUT colour grade. Output: [vkb{i}].
-
-    Motion: editor.emotion_to_filtergraph.zoompan_expr encodes per-emotion
-    zmax, anchor offsets, and easing curves.
-
-    Colour: each clip's beat.color_grade (carried on ClipSpec) selects a LUT
-    file. Clips with no color_grade fall back to the plan-level edit.lut_choice.
-    """
+    """Prepare each clip input as [vkb{i}] — Wan MP4 trim/scale or Ken Burns PNG."""
     work_w = int(w * 1.8)
     work_h = int(h * 1.8)
-
     fallback_lut_path = settings.resolve_lut(edit.lut_choice.value)
 
     for clip in clips:
         i = clip.index
-        dur = clip.duration_s
-        frames = max(1, math.ceil(dur * fps))
+        dur = clip.duration_s + (breathe_s if i == n - 1 else 0.0)
+        use_video = clip.video_path is not None and clip.video_path.is_file()
 
-        zp = zoompan_expr(
-            camera=clip.camera,
-            n_frames=frames,
-            w=w,
-            h=h,
-            intensity=clip.intensity,
-            clip_index=i,
-            emotion=clip.emotion,
-        )
-
-        parts.append(
-            f"[{i}:v]scale={work_w}:{work_h}:force_original_aspect_ratio=decrease:flags=lanczos,"
-            f"pad={work_w}:{work_h}:(ow-iw)/2:(oh-ih)/2,setsar=1,"
-            f"trim=end_frame=1,setpts=PTS-STARTPTS,format=yuv420p[sc{i}]"
-        )
-
-        raw_tag = f"vkb{i}_raw"
-        parts.append(
-            f"[sc{i}]{zp},fps={fps},settb=1/{fps},"
-            f"trim=duration={dur:.6f},format=yuv420p,setpts=PTS-STARTPTS[{raw_tag}]"
-        )
+        if use_video:
+            raw_tag = f"vkb{i}_raw"
+            parts.append(
+                f"[{i}:v]scale={w}:{h}:force_original_aspect_ratio=increase:flags=lanczos,"
+                f"crop={w}:{h},fps={fps},trim=duration={dur:.6f},setpts=PTS-STARTPTS,"
+                f"format=yuv420p[{raw_tag}]"
+            )
+        else:
+            frames = max(1, math.ceil(dur * fps))
+            zp = zoompan_expr(
+                camera=clip.camera,
+                n_frames=frames,
+                w=w,
+                h=h,
+                intensity=clip.intensity,
+                clip_index=i,
+                emotion=clip.emotion,
+            )
+            parts.append(
+                f"[{i}:v]scale={work_w}:{work_h}:force_original_aspect_ratio=decrease:flags=lanczos,"
+                f"pad={work_w}:{work_h}:(ow-iw)/2:(oh-ih)/2,setsar=1,"
+                f"trim=end_frame=1,setpts=PTS-STARTPTS,format=yuv420p[sc{i}]"
+            )
+            raw_tag = f"vkb{i}_raw"
+            parts.append(
+                f"[sc{i}]{zp},fps={fps},settb=1/{fps},"
+                f"trim=duration={dur:.6f},format=yuv420p,setpts=PTS-STARTPTS[{raw_tag}]"
+            )
 
         lut_path = (
             settings.resolve_lut(clip.color_grade.value)
@@ -192,9 +193,7 @@ def _add_ken_burns(
         )
         if lut_path is not None:
             lut_esc = _escape_path_for_filter(lut_path)
-            parts.append(
-                f"[{raw_tag}]lut3d=file='{lut_esc}'[vkb{i}]"
-            )
+            parts.append(f"[{raw_tag}]lut3d=file='{lut_esc}'[vkb{i}]")
         else:
             parts.append(f"[{raw_tag}]null[vkb{i}]")
 
@@ -267,7 +266,7 @@ def _add_post_processing(
 ) -> str:
     """Apply vignette → grain → fade-out → end-plate. Returns final video tag.
 
-    Per-clip LUT colour grading is applied earlier inside `_add_ken_burns`
+    Per-clip LUT colour grading is applied earlier inside `_add_visual_clips`
     (one LUT per beat instead of one LUT for the whole video).
     """
     v = video_in
@@ -564,11 +563,14 @@ def build_ffmpeg_argv(req: RenderRequest, settings: Settings) -> list[str]:  # n
 
     argv: list[str] = [settings.ffmpeg_path, "-y"]
 
-    # ── Inputs: images ───────────────────────────────────────────────────────
+    # ── Inputs: clause visuals (Wan MP4 or looped PNG) ───────────────────────
     breathe_s = settings.last_frame_breathe_s
     for i, clip in enumerate(clips):
         img_dur = clip.duration_s + (breathe_s if i == n - 1 else 0.0)
-        argv.extend(["-loop", "1", "-t", f"{img_dur:.6f}", "-i", str(clip.image_path.resolve())])
+        if clip.video_path is not None and clip.video_path.is_file():
+            argv.extend(["-i", str(clip.video_path.resolve())])
+        else:
+            argv.extend(["-loop", "1", "-t", f"{img_dur:.6f}", "-i", str(clip.image_path.resolve())])
 
     # ── Input: narration ─────────────────────────────────────────────────────
     argv.extend(["-i", str(req.narration_wav.resolve())])
@@ -616,7 +618,7 @@ def build_ffmpeg_argv(req: RenderRequest, settings: Settings) -> list[str]:  # n
 
     # ── Input: atmospheric overlay (snow / dust / particles) ─────────────────
     idx_overlay: int | None = None
-    overlay_path = settings.resolve_overlay() if settings.overlay_enabled else None
+    overlay_path = settings.resolve_overlay()
     if overlay_path is not None:
         # -stream_loop -1 makes the overlay clip repeat for the whole narration
         argv.extend([
@@ -647,16 +649,9 @@ def build_ffmpeg_argv(req: RenderRequest, settings: Settings) -> list[str]:  # n
         idx_ep_bg = next_idx
         next_idx += 1
 
-    # ── Input: watermark ─────────────────────────────────────────────────────
+    # ── Input: watermark (disabled — not applied to any render) ──────────────
     idx_wm: int | None = None
-    use_wm = (
-        settings.watermark_enabled
-        and settings.watermark_png_path is not None
-        and settings.watermark_png_path.is_file()
-    )
-    if use_wm and settings.watermark_png_path is not None:
-        argv.extend(["-i", str(settings.watermark_png_path.resolve())])
-        idx_wm = next_idx
+    use_wm = False
 
     # ── Filter complex ────────────────────────────────────────────────────────
     parts: list[str] = []
@@ -696,13 +691,13 @@ def build_ffmpeg_argv(req: RenderRequest, settings: Settings) -> list[str]:  # n
             for ci, tag in zip(clip_indices, split_tags):
                 sfx_clip_tags[ci] = tag
 
-    # Rule 1 + Rule 8: Emotion-aware zoompan with per-clip LUT colour grade
-    _add_ken_burns(parts, clips, settings, edit, w, h, fps)
+    # Rule 1 + Rule 8: Wan MP4 or emotion-aware Ken Burns + per-clip LUT
+    _add_visual_clips(parts, clips, settings, edit, w, h, fps, breathe_s=breathe_s, n=n)
 
     # Rule 9: Chain transitions
     video_out = _build_transition_chain(parts, clips, fps)
 
-    # Rules 6, 11, 13 (LUT handled per-clip in _add_ken_burns above)
+    # Rules 6, 11, 13 (LUT handled per-clip in _add_visual_clips above)
     video_out = _add_post_processing(
         parts,
         video_out,

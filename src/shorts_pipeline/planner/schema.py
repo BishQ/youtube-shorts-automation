@@ -8,6 +8,24 @@ from enum import StrEnum
 from pydantic import BaseModel, Field, field_validator, model_validator
 from pydantic import ValidationInfo
 
+# Body narration only; 1–3 s of the 60 s Shorts cap reserved for end plate / breathe.
+# Per-niche caps live in ``niche_caps.NICHE_CAPS`` and are passed in via the
+# validator context (``allow_figure_name``-style). These module-level numbers
+# are the **fallback** used when no niche is supplied — they are deliberately
+# conservative (set to the all-niche median observed in calibration).
+from shorts_pipeline.planner.niche_caps import (
+    DEFAULT_MAX_SYLLABLES as _DEFAULT_MAX_SYLLABLES,
+    DEFAULT_MAX_WORDS as _DEFAULT_MAX_WORDS,
+    MIN_WORDS as NARRATION_SCRIPT_MIN_WORDS,
+    caps_for as _caps_for,
+    count_syllables as _count_syllables,
+)
+
+# Kept as a module-level name for backward compatibility with callers that
+# `from schema import NARRATION_SCRIPT_MAX_WORDS`. New code should call
+# ``caps_for(niche)`` or pass the niche via ValidationInfo context.
+NARRATION_SCRIPT_MAX_WORDS = _DEFAULT_MAX_WORDS
+
 
 class DecisionLeverType(StrEnum):
     law = "law"
@@ -208,6 +226,19 @@ _LIGHTING = re.compile(
     r'|low.?key|high.?key|contre.?jour)',
     re.IGNORECASE,
 )
+# Camera-move verbs accepted in motion_prompt — kept narrow so the LLM doesn't
+# describe scene content here (that lives in image_prompt). The image is given;
+# motion_prompt describes how the camera/subject MOVES inside it.
+_MOTION_CAMERA = re.compile(
+    r'\b('
+    r'push.?in|pull.?out|pull.?back|dolly|tracks?|tracking|orbit|orbits?'
+    r'|pan(?:s|ning)?|tilt(?:s|ing)?|crane|booms?|booming|zooms?|zooming'
+    r'|rotates?|rotating|rises?|rising|descends?|descending|drifts?|drifting'
+    r'|static shot|locked.?off|handheld|micro.?shake'
+    r')\b',
+    re.IGNORECASE,
+)
+
 _HUMAN_REFERENCE = re.compile(
     r'\b('
     r'face|eye|eyes|hand|hands|finger|fingers|arm|arms|leg|legs|knee|knees'
@@ -265,10 +296,38 @@ _CLOSING_BIO_YEAR_RE = re.compile(
 class Clause(BaseModel):
     text: str = Field(..., min_length=4, description="Single narration clause")
     image_prompt: str = Field(..., min_length=40)
+    # Image-to-video motion prompt for Wan 2.2 I2V (or any I2V backend).
+    # The image already describes scene content — motion_prompt describes how
+    # the camera/subject MOVES inside it. Format:
+    #   [subject action] + [camera move] + [secondary motion] + [atmosphere shift]
+    # Empty string → use niche-default template at I2V time (see video_worker.motion_templates).
+    motion_prompt: str = Field(default="", description="I2V motion description: camera move + subject action + atmosphere")
     beat: Beat = Field(default_factory=Beat)
     # True  → historical figure appears in this image (use Grok for likeness)
     # False → figure-free scene: city, landscape, object, crowd without the figure
     figure_present: bool = True
+
+    @field_validator("motion_prompt")
+    @classmethod
+    def validate_motion_prompt(cls, v: str) -> str:
+        if not v:
+            return v  # empty allowed — fallback template applied at I2V time
+        if len(v) < 20:
+            raise ValueError(
+                f"motion_prompt too short ({len(v)} chars). Must describe camera move + "
+                f"secondary motion. Example: 'camera slow push-in, dust motes drift in shafts of light, "
+                f"subject slowly turns head'. Got: {v[:80]}"
+            )
+        if not _MOTION_CAMERA.search(v):
+            raise ValueError(
+                "motion_prompt must include a camera-move verb "
+                "(push-in / pull-out / dolly / pan / tilt / orbit / tracks / zoom / "
+                "static shot / handheld). Describe MOTION, not scene content — the image "
+                f"already carries the scene. Got: {v[:120]}"
+            )
+        if _IMG_BANNED.search(v):
+            raise ValueError(f"motion_prompt contains banned content: {v[:120]}")
+        return v
 
     @field_validator("image_prompt")
     @classmethod
@@ -305,23 +364,53 @@ class NarrationPlan(BaseModel):
         min_length=4,
         description="Loop-hook question shown on the end plate",
     )
+    # Optional niche tag (history, crime, …) for I2V motion fallbacks and TTS caps.
+    niche: str | None = Field(default=None, max_length=64)
 
     @model_validator(mode="after")
     def script_coherent(self, info: ValidationInfo) -> NarrationPlan:
         joined = " ".join(c.text.strip() for c in self.clauses)
         if len(joined) < len(self.full_script) * 0.5:
             raise ValueError("clauses do not cover most of full_script; keep clauses aligned to narration")
+
+        # Per-niche caps are passed in via ValidationInfo context ({"niche": "history"}).
+        # When no niche is supplied (legacy callers / ad-hoc plan validation),
+        # ``caps_for`` returns the conservative defaults.
+        niche = (info.context or {}).get("niche") if isinstance(info.context, dict) else None
+        min_words, max_words, max_syllables = _caps_for(niche)
+
         word_count = len(self.full_script.split())
-        if word_count < 152:
+        if word_count < min_words:
             raise ValueError(
-                f"full_script is only {word_count} words — minimum is 152 words "
-                f"(~54 sec TTS). Target 152–162 words across exactly 14 clauses for a 56-58 sec body."
+                f"full_script is only {word_count} words — minimum is {min_words} words "
+                "(too short for the Shorts body window). Target "
+                f"{min_words}–{max_words} words across exactly 14 clauses for a 58-59 sec body."
             )
-        if word_count > 162:
+        if word_count > max_words:
             raise ValueError(
-                f"full_script is {word_count} words — exceeds 162-word limit "
-                f"(~58 sec TTS). Body must fit in 56-58 sec; outro takes 1-3 sec of the 60 sec cap. "
-                f"Keep between 152–162 words across exactly 14 clauses."
+                f"full_script is {word_count} words — exceeds the niche {niche!r} word "
+                f"limit of {max_words}. This cap was calibrated from real Kokoro TTS "
+                "runs on this niche's vocabulary. Body must fit in 58-59 sec; outro "
+                f"takes 1-2 sec of the 60 sec cap. Keep between {min_words}–{max_words} "
+                "words across exactly 14 clauses."
+            )
+
+        # Syllable gate — the true TTS load. Word count alone is a weak predictor of
+        # duration (R²=0.21 in calibration) because vocabulary density varies wildly
+        # between niches. Syllable count predicts duration nearly linearly (R²=0.86).
+        # If this gate fails the script is over-syllabified for its niche even when
+        # the word count is fine (typical failure mode: Latin titles, polysyllabic
+        # technical jargon, hyphenated compound nouns).
+        syll_count = _count_syllables(self.full_script)
+        if syll_count > max_syllables:
+            raise ValueError(
+                f"full_script contains {syll_count} syllables — exceeds the niche "
+                f"{niche!r} syllable budget of {max_syllables}. Even with the right "
+                "word count, dense polysyllabic vocabulary blows the 58 s TTS window "
+                "(Kokoro reads ~4.5 syllables/sec). Replace long Latinate/technical "
+                "words with shorter plain-English equivalents. Examples: "
+                "'characteristics' → 'traits', 'demonstration' → 'proof', "
+                "'logarithmic' → 'logs', 'extraordinarily' → 'incredibly'."
             )
 
         # Closing bio-year ban: clauses 12-14 (indices 11-13) must end on a powerful
