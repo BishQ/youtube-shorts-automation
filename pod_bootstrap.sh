@@ -102,7 +102,10 @@ fi
 
 log "Starting Ollama service…"
 pkill -f "ollama serve" || true
-OLLAMA_KEEP_ALIVE=2m nohup ollama serve >"$LOG_DIR/ollama.log" 2>&1 &
+# Persist Ollama models on the network volume so pod restarts don't re-download.
+export OLLAMA_MODELS="$ROOT/ollama_models"
+mkdir -p "$OLLAMA_MODELS"
+OLLAMA_KEEP_ALIVE=2m OLLAMA_MODELS="$OLLAMA_MODELS" nohup ollama serve >"$LOG_DIR/ollama.log" 2>&1 &
 sleep 4
 
 OLLAMA_MODEL=${OLLAMA_MODEL:-qwen3:30b}
