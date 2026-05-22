@@ -3,6 +3,10 @@
 .env.local
 .env.*.local
 
+# Telegram session (contains auth — never commit)
+*.session
+*.session-journal
+
 # Python
 .venv/
 venv/

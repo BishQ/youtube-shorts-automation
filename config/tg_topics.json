@@ -1,0 +1,47 @@
+{
+  "_readme": [
+    "1. Telegram supergroup үүсгэ → Settings → Topics идэвхжүүл",
+    "2. Niche бүрт topic нээ (доорх suggested_name-ийг ашиглаж болно)",
+    "3. python tg_list_topics.py ажиллуул → topic ID-уудыг энд paste хий",
+    "4. _default_topic_id = General topic (niche олдоогүй job энд очно)"
+  ],
+  "_default_topic_id": 1,
+  "topics": {
+    "business": 3,
+    "science": 4,
+    "crime": 5,
+    "history": 6,
+    "psychology": 7,
+    "edutainment": 8,
+    "military": 9,
+    "sports": 10,
+    "survival": 11,
+    "mythology": 12,
+    "tech_hackers": 13,
+    "health": 14,
+    "wealth": 15,
+    "cosmic": 16,
+    "cults": 17,
+    "lost_tech": 18,
+    "documentary": 25
+  },
+  "_suggested_topic_names": {
+    "business": "💼 Business & Power",
+    "science": "🔬 Science & Space",
+    "crime": "🕵 Crime & Mystery",
+    "history": "📜 History",
+    "psychology": "🧠 Psychology",
+    "edutainment": "🎓 Edutainment",
+    "military": "⚔️ Military & War",
+    "sports": "🏆 Sports",
+    "survival": "🏔 Survival",
+    "mythology": "🏛 Mythology",
+    "tech_hackers": "💻 Tech & Hackers",
+    "health": "❤️ Health",
+    "wealth": "💰 Wealth",
+    "cosmic": "🌌 Cosmic Horror",
+    "cults": "⛪ Cults",
+    "lost_tech": "⚙️ Lost Tech",
+    "documentary": "🎥 Documentary"
+  }
+}

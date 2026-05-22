@@ -323,6 +323,7 @@ def main() -> int:
                     print("  plan: generating…")
                     plan_dict = generate_plan_for_topic(settings, niche_sys, niche_user_fn, topic, niche=args.niche)
                     plan_dict["video_mode"] = args.mode
+                    plan_dict["niche"] = args.niche
                     plan_path.write_text(
                         json.dumps(plan_dict, ensure_ascii=False, indent=2),
                         encoding="utf-8",

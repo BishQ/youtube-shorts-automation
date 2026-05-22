@@ -844,16 +844,32 @@ class PipelineOrchestrator:
         # ── Telegram auto-send ────────────────────────────────────────────────
         # Non-fatal: a Telegram failure never marks the job as failed.
         try:
-            from shorts_pipeline.tg_notify import send_job
+            from shorts_pipeline.tg_notify import enqueue_send_job, send_job
+            from shorts_pipeline.tg_topics import resolve_job_niche
             jd = self._job_dir(job_id)
-            send_job(
+            niche = resolve_job_niche(
+                jd,
+                plan_niche=plan.niche,
+                default_niche=self._settings.tg_default_niche,
+            )
+            tg_kwargs = dict(
                 api_id=self._settings.tg_api_id,
                 api_hash=self._settings.tg_api_hash,
                 session_path=self._settings.tg_session_path,
                 target_chat=self._settings.tg_target_chat,
                 job_dir=jd,
                 package_json=jd / "publish_package.json",
+                send_archive=self._settings.tg_send_archive,
+                archive_max_mb=self._settings.tg_archive_max_mb,
+                niche=niche,
+                topics_path=self._settings.tg_topics_path,
+                forum_topics_enabled=self._settings.tg_forum_topics_enabled,
+                max_retries=self._settings.tg_send_max_retries,
             )
+            if self._settings.tg_async_send:
+                enqueue_send_job(**tg_kwargs)
+            else:
+                send_job(**tg_kwargs)
         except Exception as _tg_exc:
             log.warning("tg_notify_hook_error: %s", _tg_exc)
 

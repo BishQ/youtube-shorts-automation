@@ -223,11 +223,38 @@ class Settings(BaseSettings):
     # Set all three in .env to enable.  Leave tg_api_id = 0 to disable.
     #   SHORTS_TG_API_ID=12345678
     #   SHORTS_TG_API_HASH=abcdef...
-    #   SHORTS_TG_TARGET_CHAT=123456789   (numeric user ID or @username)
+    #   SHORTS_TG_TARGET_CHAT=-1001234567890   (forum supergroup ID)
+    #
+    # Forum topic routing: create topics per niche in the group, then run
+    # ``python tg_list_topics.py`` and paste IDs into config/tg_topics.json.
     tg_api_id: int = 0
     tg_api_hash: str = ""
     tg_target_chat: str = ""          # str so it accepts both int IDs and @handles
+    tg_invite_link: str = ""          # t.me/+... — used when target_chat is empty
     tg_session_path: str = "./tg_session"  # Telethon session file (no extension)
+    tg_topics_path: Path = Field(default=Path("./config/tg_topics.json"))
+    tg_forum_topics_enabled: bool = True
+    # Optional: substring matched against group titles when an invite link is
+    # used but the group cannot be resolved directly. Leave blank to skip the
+    # fallback search and rely on tg_target_chat / tg_invite_link only.
+    tg_forum_title_hint: str = ""
+    # Bounded queue so a Telegram outage cannot grow unbounded memory.
+    # 0 = unbounded. New enqueues block briefly when full.
+    tg_queue_max_size: int = 64
+    # Max retry attempts per send_job (excludes FloodWait sleeps which are honored
+    # regardless). Exponential backoff starting at 5s.
+    tg_send_max_retries: int = 3
+    # Jobs without plan.niche route here (famous-people / historical_figure pipeline).
+    tg_default_niche: str = "documentary"
+    # Queue Telegram uploads in a background worker — pipeline never waits on upload.
+    tg_async_send: bool = True
+    # Also send a zip of the whole job folder (raw images, clips, plan, narration)
+    # so the final files can be re-edited later. Telegram document limit is 2 GB
+    # (4 GB Premium); a typical job zips to 100–300 MB so this is safe.
+    tg_send_archive: bool = True
+    # Cap archive size in MB to avoid silently busting the Telegram limit on
+    # outlier jobs. Set 0 to disable the cap.
+    tg_archive_max_mb: int = 1800
 
     log_level: str = "INFO"
     log_json: bool = False
