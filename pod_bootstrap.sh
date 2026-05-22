@@ -13,7 +13,7 @@
 # Env overrides (set BEFORE running):
 #   REPO_URL=https://github.com/<USER>/<REPO>.git   # required if no local clone
 #   GIT_BRANCH=main
-#   OLLAMA_MODEL=qwen3:30b                          # model tag for Ollama pull
+#   OLLAMA_MODEL=qwen3.6:27b                          # model tag for Ollama pull
 #   SKIP_MODELS=0                                   # 1 = skip huggingface downloads
 #   SKIP_SMOKE=0                                    # 1 = setup only, don't launch render
 #   NICHES=history,crime,military                   # subset for smoke test
@@ -48,7 +48,17 @@ pip install -q -r requirements.txt
 log "Installing custom nodes…"
 mkdir -p custom_nodes && cd custom_nodes
 [ -d ComfyUI-Manager ] || git clone --depth 1 https://github.com/ltdrdata/ComfyUI-Manager.git
+# VideoHelperSuite: required for VHS_VideoCombine node in wan22_i2v_a14b.json
+[ -d ComfyUI-VideoHelperSuite ] || git clone --depth 1 https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git
+# WanVideoWrapper: optional fallback (workflow uses native Wan 2.2 nodes since Dec 2025)
 [ -d ComfyUI-WanVideoWrapper ] || git clone --depth 1 https://github.com/kijai/ComfyUI-WanVideoWrapper.git
+# Install per-node deps if requirements.txt present
+for d in ComfyUI-Manager ComfyUI-VideoHelperSuite ComfyUI-WanVideoWrapper; do
+  if [ -f "$d/requirements.txt" ]; then
+    log "  installing deps for $d…"
+    pip install -q -r "$d/requirements.txt" || warn "  deps for $d failed (non-fatal)"
+  fi
+done
 cd "$COMFY_DIR"
 
 # ─── 3. Models ───────────────────────────────────────────────────────────────
@@ -108,7 +118,7 @@ mkdir -p "$OLLAMA_MODELS"
 OLLAMA_KEEP_ALIVE=2m OLLAMA_MODELS="$OLLAMA_MODELS" nohup ollama serve >"$LOG_DIR/ollama.log" 2>&1 &
 sleep 4
 
-OLLAMA_MODEL=${OLLAMA_MODEL:-qwen3:30b}
+OLLAMA_MODEL=${OLLAMA_MODEL:-qwen3.6:27b}
 if ! ollama list | grep -q "$OLLAMA_MODEL"; then
   log "Pulling LLM model: $OLLAMA_MODEL…"
   ollama pull "$OLLAMA_MODEL"
