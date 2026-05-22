@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0196_002_e6f989a045f847ba",
+    "title": "The Forbidden Experiment Where Scientists Gave a Human a 'Second Brain'—and It Took Over",
+    "hook": "A neurosurgeon implanted a cluster of lab-grown neurons into a patient’s spine to fix paralysis—but the implant started making its own decisions.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "second brain",
+      "neuron implant",
+      "autonomous neurons",
+      "paralysis fix gone wrong",
+      "brain takeover"
+    ],
+    "overlap_check_hash": "e6f989a045f847ba",
+    "why_this_can_go_viral": "Body horror meets technology—people will obsess over the idea of losing control of their own body."
+  },
+  {
+    "unique_id": "science_0196_003_7b8af369464833ee",
+    "title": "The Biolab That Grew a Lung That Breathed on Its Own—and Then Screamed",
+    "hook": "A rat lung in a perfusion chamber started expanding and contracting rhythmically—until it emitted a sound no one could explain.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "breathing lung",
+      "organ scream",
+      "tissue horror",
+      "lab-grown organ",
+      "biological anomaly"
+    ],
+    "overlap_check_hash": "7b8af369464833ee",
+    "why_this_can_go_viral": "The visceral image of a screaming organ taps into primal fear; perfect for shock-and-awe sharing."
+  },
+  {
+    "unique_id": "science_0196_005_651e3fc2c9bef871",
+    "title": "The Scientific Fraud Who Faked a 'Human-Animal Chimera'—Using a Dog and a Wig",
+    "hook": "A disgraced biologist claimed he created a dog-human hybrid for years—until someone checked the DNA and found a wig fiber.",
+    "virality_score": 83,
+    "curiosity_gap_score": 90,
+    "darkness_score": 60,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "chimera fraud",
+      "dog-human hybrid",
+      "fake science",
+      "biological hoax",
+      "wig scandal"
+    ],
+    "overlap_check_hash": "651e3fc2c9bef871",
+    "why_this_can_go_viral": "Outrageous fraud with a funny twist—people love to laugh at audacious liars while feeling smarter."
+  },
+  {
+    "unique_id": "science_0196_006_01015644577353af",
+    "title": "The Neuroscientist Who Discovered That Your Brain Can Erase a Specific Person From Memory",
+    "hook": "A targeted electromagnetic pulse to the temporal lobe made subjects forget a childhood friend—but remember everything else perfectly.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory erasure",
+      "targeted forgetting",
+      "TMS",
+      "person deletion",
+      "neuroscience dark"
+    ],
+    "overlap_check_hash": "01015644577353af",
+    "why_this_can_go_viral": "Everyone has someone they'd want to forget—the dark fantasy of selective amnesia is universally compelling."
+  },
+  {
+    "unique_id": "science_0196_007_dce9d794f45417d0",
+    "title": "The Chemistry Disaster Where a Beaker Exploded and Turned the Lab Into a 'Glass Forest'",
+    "hook": "A failed synthesis of a new polymer created microscopic glass shards that grew like crystals—inside the lungs of everyone present.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 84,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "glass forest",
+      "polymer explosion",
+      "lung shards",
+      "crystalline growth",
+      "lab disaster"
+    ],
+    "overlap_check_hash": "dce9d794f45417d0",
+    "why_this_can_go_viral": "The image of lungs turning into glittering death traps is horrifyingly beautiful—perfect for visual storytelling."
+  },
+  {
+    "unique_id": "science_0196_008_183a671a12b43a86",
+    "title": "The Forbidden Experiment Where They Raised a Child in Total Darkness—and Lost Her to the Shadows",
+    "hook": "A 1970s study on sensory deprivation kept a girl in a lightless room for seven years—she never fully returned to human society.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "darkness experiment",
+      "sensory deprivation",
+      "feral child",
+      "forbidden study",
+      "lost to shadows"
+    ],
+    "overlap_check_hash": "183a671a12b43a86",
+    "why_this_can_go_viral": "Tragic, morally repugnant, and deeply unsettling—true crime audiences and dark science lovers will converge."
+  },
+  {
+    "unique_id": "science_0196_010_a08e0aa0e9919584",
+    "title": "The Physicist Who Made a 'Time Crystal' That Breaks the Laws of Motion—Forever",
+    "hook": "A crystal that never reaches thermal equilibrium—its atoms oscillate in a perpetual loop, even at absolute zero.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 55,
+    "educational_value": 88,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time crystal",
+      "perpetual motion",
+      "non-equilibrium",
+      "quantum time",
+      "broken physics"
+    ],
+    "overlap_check_hash": "a08e0aa0e9919584",
+    "why_this_can_go_viral": "Almost sounds like free energy—the 'perpetual motion' hook will draw skeptics and believers alike."
+  },
+  {
+    "unique_id": "science_0196_011_2d59c9ddabb02cb9",
+    "title": "The Scientific Fraud Who Faked a 'Cure for Death'—and Died in a Lab Fire",
+    "hook": "A biochemist claimed he could reverse aging with an enzyme cocktail—but his lab burned down with him inside, and the formula vanished.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "death cure",
+      "aging reversal",
+      "lab fire",
+      "vanished formula",
+      "fraud death"
+    ],
+    "overlap_check_hash": "2d59c9ddabb02cb9",
+    "why_this_can_go_viral": "Mystery, irony, and a dash of conspiracy—the 'cure for death' angle hooks everyone who fears dying."
+  },
+  {
+    "unique_id": "science_0196_012_c1eb183575d8a000",
+    "title": "The Lab Catastrophe Where a Frozen Sample Thawed—and Started Eating Its Way Through the Lab",
+    "hook": "A permafrost core sample from Siberia contained a dormant bacterium that, once thawed, consumed all organic matter in the room.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "thawed bacteria",
+      "permafrost horror",
+      "organic eater",
+      "Siberian sample",
+      "runaway consumption"
+    ],
+    "overlap_check_hash": "c1eb183575d8a000",
+    "why_this_can_go_viral": "Climate change meets biological horror—thawing pathogens feel terrifyingly relevant and immediate."
+  },
+  {
+    "unique_id": "science_0196_014_93e040073a87ff6f",
+    "title": "The Quantum Paradox Where a Particle Forgot It Was a Particle and Became a Wave Forever",
+    "hook": "In a double-slit variant, a single electron never collapsed into a particle—it stayed as a probability wave for over an hour.",
+    "virality_score": 74,
+    "curiosity_gap_score": 80,
+    "darkness_score": 45,
+    "educational_value": 85,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "wave forever",
+      "particle collapse",
+      "quantum persistence",
+      "double slit",
+      "probability wave"
+    ],
+    "overlap_check_hash": "93e040073a87ff6f",
+    "why_this_can_go_viral": "Challenges the very definition of reality—quantum enthusiasts and sci-fi fans will eat it up."
+  },
+  {
+    "unique_id": "science_0196_015_2e135e02dbb12df5",
+    "title": "The Chemist Who Made a Compound That Turns Pain Into Pleasure—and Back Again",
+    "hook": "A synthetic molecule binds to both pain and pleasure receptors simultaneously—the brain can't tell the difference after the first dose.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 76,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "pain pleasure drug",
+      "receptor hack",
+      "synthetic molecule",
+      "addiction horror",
+      "bipolar compound"
+    ],
+    "overlap_check_hash": "2e135e02dbb12df5",
+    "why_this_can_go_viral": "Dark hedonism and self-destruction have massive appeal—viewers will wonder if they'd try it."
+  },
+  {
+    "unique_id": "science_0196_016_f543f08840d4297d",
+    "title": "The Forbidden Experiment Where They Kept a Human in a Cage With a Starving Predator",
+    "hook": "A Soviet-era study on stress responses locked a man in a room with a hungry wolf—the results were hidden for 50 years.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 68,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "man vs wolf",
+      "Soviet stress test",
+      "predator experiment",
+      "human cage",
+      "hidden Soviet study"
+    ],
+    "overlap_check_hash": "f543f08840d4297d",
+    "why_this_can_go_viral": "Pure visceral horror with a Cold War mystery—irresistible to shock-hungry audiences."
+  },
+  {
+    "unique_id": "science_0196_017_7fdfe6f0f792bd97",
+    "title": "The Biolab That Grew a Nose That Could Smell Cancer—and Then Started Screaming When It Did",
+    "hook": "Engineered olfactory neurons in a petri dish could detect lung cancer in breath samples—and emitted a chemical signal that looked like a scream.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 77,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "cancer smelling",
+      "olfactory neurons",
+      "screaming nose",
+      "cancer detection",
+      "bio-sensor"
+    ],
+    "overlap_check_hash": "7fdfe6f0f792bd97",
+    "why_this_can_go_viral": "The 'screaming nose' imagery is bizarre enough to be shared widely; cancer detection gives it a serious edge."
+  },
+  {
+    "unique_id": "science_0196_018_a849f943dcb90896",
+    "title": "The Physicist Who Built a Machine That Generates 'Dark Light'—Visible Only in Peripheral Vision",
+    "hook": "A device emits photons that bypass the fovea—you can only see it out of the corner of your eye, and it feels like something is watching you.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 73,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "dark light",
+      "peripheral vision",
+      "invisible photons",
+      "something watching",
+      "optical illusion machine"
+    ],
+    "overlap_check_hash": "a849f943dcb90896",
+    "why_this_can_go_viral": "The uncanny valley of vision—viewers will try to 'see' it themselves, driving engagement and shares."
+  },
+  {
+    "unique_id": "science_0196_019_7e6fa1f36ed905a9",
+    "title": "The Scientific Fraud Who Faked a 'Quantum Healing' Machine—Using a Flickering Lightbulb",
+    "hook": "A wellness guru sold thousands of 'quantum resonance' devices for $5,000 each—inside was a 50-cent lightbulb with a loose wire.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 58,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "quantum healing",
+      "fake device",
+      "lightbulb scam",
+      "wellness fraud",
+      "resonance hoax"
+    ],
+    "overlap_check_hash": "7e6fa1f36ed905a9",
+    "why_this_can_go_viral": "Exposes modern pseudoscience—people love feeling smarter than scammers, especially in wellness circles."
+  },
+  {
+    "unique_id": "science_0196_020_6a76ad492fc2c0c9",
+    "title": "The Lab Catastrophe Where a Chemical Spill Made the Entire Building Invisible for 17 Hours",
+    "hook": "A spill of a rare-earth compound reacted with humidity to create a fog that bent light around the structure—it literally vanished from satellite view.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 68,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "invisible building",
+      "chemical spill",
+      "light bending",
+      "rare-earth fog",
+      "satellite vanishing"
+    ],
+    "overlap_check_hash": "6a76ad492fc2c0c9",
+    "why_this_can_go_viral": "Sounds like a sci-fi movie plot—the invisibility angle is irresistible and visually spectacular."
+  },
+  {
+    "unique_id": "science_0196_021_fd2329da8cea550f",
+    "title": "The Neuroscientist Who Discovered That Your Brain Has a 'Hidden Room' for Stored Trauma—and It Can Be Locked",
+    "hook": "A region of the hippocampus can wall off traumatic memories so completely that patients forget events—but the body still reacts with panic.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 80,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "hidden trauma",
+      "memory lock",
+      "hippocampus",
+      "body remembers",
+      "forgotten horror"
+    ],
+    "overlap_check_hash": "fd2329da8cea550f",
+    "why_this_can_go_viral": "Explains PTSD in a spooky, metaphorical way—viewers will relate and share their own experiences."
+  },
+  {
+    "unique_id": "science_0196_022_6a8a087e6affb04d",
+    "title": "The Quantum Paradox Where a Particle Measured Its Own State—and Nobody Else Did",
+    "hook": "In a 'self-measurement' experiment, a quantum system appeared to collapse its own wavefunction—without any observer or detector.",
+    "virality_score": 73,
+    "curiosity_gap_score": 79,
+    "darkness_score": 48,
+    "educational_value": 86,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "self-measurement",
+      "quantum collapse",
+      "no observer",
+      "wavefunction",
+      "consciousness debate"
+    ],
+    "overlap_check_hash": "6a8a087e6affb04d",
+    "why_this_can_go_viral": "Feeds the 'quantum consciousness' hype—viewers love philosophical rabbit holes about reality."
+  },
+  {
+    "unique_id": "science_0196_023_adca854342ffb9fd",
+    "title": "The Chemist Who Made a Compound That Makes Water Freeze at 30°C—and Then Explode",
+    "hook": "A silver-based catalyst lowers water's freezing point so dramatically that ice forms in a warm room—then shatters violently.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 62,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "hot ice",
+      "freezing explosion",
+      "silver catalyst",
+      "water anomaly",
+      "thermal shock"
+    ],
+    "overlap_check_hash": "adca854342ffb9fd",
+    "why_this_can_go_viral": "Visually stunning and counterintuitive—perfect for a short video demonstration that makes people say 'no way'."
+  },
+  {
+    "unique_id": "science_0196_024_836a1c46d25907f3",
+    "title": "The Forbidden Experiment Where They Destroyed a Monkey's Brain—and It Learned to Walk Again Immediately",
+    "hook": "After severing the motor cortex in a macaque, it stood up and walked within minutes—suggesting a backup brain system we don't understand.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 82,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "backup brain",
+      "motor cortex",
+      "walking again",
+      "primate experiment",
+      "hidden neural system"
+    ],
+    "overlap_check_hash": "836a1c46d25907f3",
+    "why_this_can_go_viral": "Implies humans might have hidden abilities—hope meets horror in a single shocking result."
+  },
+  {
+    "unique_id": "science_0196_025_3a7599916f6d6786",
+    "title": "The Biolab That Created a 'Zombie' Enzyme That Walks Along DNA—and Repairs the Undead Code",
+    "hook": "An engineered helicase that moves along DNA strands like a 'walker' can fix damaged sequences—but it occasionally edits in viral remnants from the past.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 74,
+    "educational_value": 79,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "zombie enzyme",
+      "DNA walker",
+      "helicase",
+      "viral remnants",
+      "genetic repair"
+    ],
+    "overlap_check_hash": "3a7599916f6d6786",
+    "why_this_can_go_viral": "The 'undead code' metaphor is creepy and memorable—molecular biology made into a horror story."
+  }
+]

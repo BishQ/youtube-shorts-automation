@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "business_0106_001_f2315190d2113a53",
+    "title": "The Factory That Sold 'Vintage' Wine—It Was Urine Aged in Oak Barrels",
+    "hook": "A massive winery was filling bottles with chemically treated human waste and selling it as rare vintage Bordeaux to the wealthy.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "fake wine",
+      "urine scam",
+      "vintage fraud",
+      "winery corruption",
+      "luxury goods scam"
+    ],
+    "overlap_check_hash": "f2315190d2113a53",
+    "why_this_can_go_viral": "The visceral disgust factor combined with the 'rich people get fooled' schadenfreude makes this irresistible to share."
+  },
+  {
+    "unique_id": "business_0106_002_0bbdbd92c19d2e82",
+    "title": "The CEO Who Sold 'AI Therapists'—They Were Cults Rehabilitating Members",
+    "hook": "A mental health startup was secretly routing users into a doomsday cult that used brainwashing scripts disguised as therapy.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 94,
+    "educational_value": 75,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "AI therapist scam",
+      "cult infiltration",
+      "mental health fraud",
+      "startup deception",
+      "brainwashing app"
+    ],
+    "overlap_check_hash": "0bbdbd92c19d2e82",
+    "why_this_can_go_viral": "Combines fear of AI, vulnerability of mental health users, and horror of cult recruitment into one explosive premise."
+  },
+  {
+    "unique_id": "business_0106_006_8bb347927a85df73",
+    "title": "The Spy Who Stole a Battery Formula by Dissolving a Lab Coat in Acid",
+    "hook": "A corporate spy wore a special coat made of soluble fabric, absorbed chemical residue in a cleanroom, then dissolved the coat in acid to extract the formula.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 79,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "battery formula theft",
+      "soluble lab coat",
+      "chemical espionage",
+      "industrial spying",
+      "cleanroom breach"
+    ],
+    "overlap_check_hash": "8bb347927a85df73",
+    "why_this_can_go_viral": "James Bond-level spycraft in a real corporate setting—viewers love the creative ingenuity of the theft."
+  },
+  {
+    "unique_id": "business_0106_007_cd97a2b6b77e4f66",
+    "title": "The Ad That Detected Your Loneliness—Then Sold You Pet Funerals",
+    "hook": "An advertising network used voice analysis from smart speakers to identify lonely people, then targeted them with ads for pet loss services—even if they didn't own a pet.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 77,
+    "estimated_short_retention": 94,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "voice surveillance",
+      "smart speaker spying",
+      "emotional targeting",
+      "predatory advertising",
+      "pet funeral scam"
+    ],
+    "overlap_check_hash": "cd97a2b6b77e4f66",
+    "why_this_can_go_viral": "The creepiness of devices listening and manipulating emotions is a universal fear—privacy advocates will amplify this."
+  },
+  {
+    "unique_id": "business_0106_008_3ca4486d3f269c11",
+    "title": "The Factory That Sold 'Wild-Caught' Tuna—It Was Farmed Fish Dyed with Squid Ink",
+    "hook": "A tuna processing plant was dieing farmed tilapia with squid ink and selling it as premium wild-caught bluefin to sushi restaurants nationwide.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "fake tuna",
+      "sushi fraud",
+      "fish dye scam",
+      "seafood deception",
+      "restaurant supply chain"
+    ],
+    "overlap_check_hash": "3ca4486d3f269c11",
+    "why_this_can_go_viral": "Sushi lovers will be horrified and share this warning—plus the squid ink detail is uniquely bizarre."
+  },
+  {
+    "unique_id": "business_0106_009_4fe2eebfd3c1c879",
+    "title": "The CEO Who Sold 'AI Recruiters'—They Were Unemployed Actors in a Basement",
+    "hook": "A hiring platform claimed AI was screening resumes, but it was actually a room of struggling actors reading applications and rejecting candidates based on mood.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 83,
+    "educational_value": 76,
+    "estimated_short_retention": 91,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "fake AI recruiter",
+      "human resume screeners",
+      "job application scam",
+      "startup lie",
+      "hiring fraud"
+    ],
+    "overlap_check_hash": "4fe2eebfd3c1c879",
+    "why_this_can_go_viral": "Everyone hates job hunting—this story validates that fear of being judged by arbitrary humans 'pretending' to be AI."
+  },
+  {
+    "unique_id": "business_0106_011_69c2debf088cfd4a",
+    "title": "The Trader Who Used a Fake 'Elon Musk Arrest' Tweet to Crash Crypto Markets",
+    "hook": "A trader bought hacked Twitter accounts of news outlets, posted that Elon was arrested for securities fraud, and made $50 million in 90 seconds.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 88,
+    "educational_value": 79,
+    "estimated_short_retention": 95,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "crypto manipulation",
+      "fake Elon tweet",
+      "Twitter hack trading",
+      "market crash",
+      "social media fraud"
+    ],
+    "overlap_check_hash": "69c2debf088cfd4a",
+    "why_this_can_go_viral": "Combines Elon Musk obsession, crypto chaos, and social media vulnerability—a triple viral trigger."
+  },
+  {
+    "unique_id": "business_0106_012_286e175dbcb36f20",
+    "title": "The Industry Cover-Up of 'Recycled' Toilet Paper That Came from Hospital Waste",
+    "hook": "A major toilet paper brand was buying medical waste from hospitals, bleaching it, and selling it as 'eco-friendly recycled' rolls to hotels.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 94,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "toilet paper scam",
+      "hospital waste recycled",
+      "eco-friendly lie",
+      "hotel supply fraud",
+      "sanitation cover-up"
+    ],
+    "overlap_check_hash": "286e175dbcb36f20",
+    "why_this_can_go_viral": "Extreme ick factor combined with the 'greenwashing' betrayal—people will feel personally violated."
+  },
+  {
+    "unique_id": "business_0106_013_341bd42510036e40",
+    "title": "The Spy Who Stole a Recipe by Replacing a Factory's Cooling System with a Scent Trap",
+    "hook": "A rival company replaced the air conditioning filters in a soda factory with specialized chemical traps that absorbed the secret syrup formula from the air.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 71,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "recipe theft",
+      "scent trap espionage",
+      "soda formula stolen",
+      "industrial spying",
+      "chemical absorption"
+    ],
+    "overlap_check_hash": "341bd42510036e40",
+    "why_this_can_go_viral": "The method is so clever and cinematic that people will share it for the 'wow' factor alone."
+  },
+  {
+    "unique_id": "business_0106_014_8fc0528f159128c8",
+    "title": "The Ad That Tracked Your Sleep Talking—Then Sold You Products for Your Dreams",
+    "hook": "A sleep tracking app recorded users' dreams and sold the audio to advertisers who inserted product recommendations into users' subconscious through targeted morning alerts.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 73,
+    "estimated_short_retention": 92,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "sleep tracking data",
+      "dream targeting",
+      "audio surveillance",
+      "subconscious advertising",
+      "privacy nightmare"
+    ],
+    "overlap_check_hash": "8fc0528f159128c8",
+    "why_this_can_go_viral": "The idea of companies listening to your most vulnerable moments is deeply unsettling and highly shareable."
+  },
+  {
+    "unique_id": "business_0106_015_912135e7ca35ec68",
+    "title": "The Factory That Sold 'Kobe Beef—It Was Cow Tongue Soaked in Beer",
+    "hook": "A meat exporter was passing off cheap cow tongue marinated in cheap beer as premium Kobe beef by inflating the texture with injections.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "fake Kobe beef",
+      "beer injection scam",
+      "meat fraud",
+      "luxury food fake",
+      "tongue deception"
+    ],
+    "overlap_check_hash": "912135e7ca35ec68",
+    "why_this_can_go_viral": "Foodies love to hate fake luxury foods—this story has a bizarre method that sparks curiosity."
+  },
+  {
+    "unique_id": "business_0106_016_0d74fab940d28175",
+    "title": "The CEO Who Sold 'AI Accountants'—They Were Inmates in a Prison Call Center",
+    "hook": "A fintech startup claimed AI was balancing books, but it was actually prisoners working for pennies behind a firewall disguised as a cloud server.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "prison labor scam",
+      "fake AI accounting",
+      "inmate exploitation",
+      "fintech fraud",
+      "digital sweatshop"
+    ],
+    "overlap_check_hash": "0d74fab940d28175",
+    "why_this_can_go_viral": "Outrage over prison industrial complex meets tech startup hype—a perfect moral outrage bomb."
+  },
+  {
+    "unique_id": "business_0106_017_e71214a5979a519c",
+    "title": "The Monopoly That Bought All the Crematoriums—Then Charged for the Ash",
+    "hook": "A corporation bought every crematorium in a region, then started charging families extra to 'release' their loved ones' ashes instead of dumping them in landfills.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 90,
+    "educational_value": 77,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "death industry monopoly",
+      "crematorium scam",
+      "ash ransom",
+      "funeral exploitation",
+      "grief pricing"
+    ],
+    "overlap_check_hash": "e71214a5979a519c",
+    "why_this_can_go_viral": "Death is inevitable—people will rage at the idea of corporations monetizing grief at the most vulnerable moment."
+  },
+  {
+    "unique_id": "business_0106_018_66b74fc56f1e2422",
+    "title": "The Trader Who Used a Fake 'Pandemic' News to Crash Travel Stocks—Twice",
+    "hook": "A hedge fund manager fabricated a lab leak story in 2022, then did it again six months later with a different virus—and regulators never caught him.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "pandemic stock manipulation",
+      "fake lab leak",
+      "travel stock crash",
+      "repeat fraud",
+      "unregulated trading"
+    ],
+    "overlap_check_hash": "66b74fc56f1e2422",
+    "why_this_can_go_viral": "Post-pandemic trauma makes this deeply personal—and the repeat offense shows how broken oversight is."
+  },
+  {
+    "unique_id": "business_0106_019_3c1f9f51cabb83a5",
+    "title": "The Industry Cover-Up of 'Biodegradable' Coffee Pods That Were Glued with Shellac from Bugs",
+    "hook": "A coffee giant claimed their pods were compostable, but the glue holding them together was made from crushed beetle shells that took 200 years to break down.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 79,
+    "estimated_short_retention": 87,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "coffee pod scam",
+      "biodegradable lie",
+      "shellac glue",
+      "greenwashing",
+      "compost fraud"
+    ],
+    "overlap_check_hash": "3c1f9f51cabb83a5",
+    "why_this_can_go_viral": "Coffee lovers who feel guilty about pods will share this as vindication for their suspicion."
+  },
+  {
+    "unique_id": "business_0106_020_1ce7d3a08c06804f",
+    "title": "The Spy Who Stole a Steel Formula by Replacing the Mill's Cooling Water with Oil",
+    "hook": "A rival company swapped the water in a steel plant's cooling system with a special oil that absorbed metallic particles, then drained and analyzed it to reverse-engineer the alloy.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 74,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "steel formula theft",
+      "oil replacement espionage",
+      "alloy reverse engineering",
+      "industrial sabotage",
+      "cooling system hack"
+    ],
+    "overlap_check_hash": "1ce7d3a08c06804f",
+    "why_this_can_go_viral": "The technical creativity appeals to engineering-minded viewers who love 'how they did it' stories."
+  },
+  {
+    "unique_id": "business_0106_021_f4fbf28becb016d4",
+    "title": "The Ad That Used Your Keystroke Rhythm to Detect Depression—Then Sold You Antidepressants",
+    "hook": "A keyboard manufacturer embedded sensors that analyzed typing patterns, flagged users as 'potentially depressed,' and sold the data to pharma companies for targeted ads.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "keystroke surveillance",
+      "typing depression detection",
+      "pharma targeting",
+      "keyboard spyware",
+      "mental health exploitation"
+    ],
+    "overlap_check_hash": "f4fbf28becb016d4",
+    "why_this_can_go_viral": "The idea that your keyboard knows your mental state before you do is terrifying and highly shareable."
+  },
+  {
+    "unique_id": "business_0106_022_7914e3fcec7e714e",
+    "title": "The Factory That Sold 'Organic' Milk—It Was Expired Milk Treated with Bleach",
+    "hook": "A dairy plant was buying expired milk from other farms, treating it with food-grade bleach to kill bacteria, and selling it as fresh organic.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 76,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "fake organic milk",
+      "bleach treatment",
+      "dairy fraud",
+      "expired milk scam",
+      "food safety cover-up"
+    ],
+    "overlap_check_hash": "7914e3fcec7e714e",
+    "why_this_can_go_viral": "Everyone drinks milk—the visceral disgust and health risk make it an instant share to warn family."
+  },
+  {
+    "unique_id": "business_0106_023_93de9a1cd092e9e1",
+    "title": "The Startup That Sold 'AI Editors'—They Were Ghostwriters in a Shipping Container",
+    "hook": "A writing platform claimed AI was generating articles, but it was actually a container full of underpaid refugees writing by hand in total darkness.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 83,
+    "estimated_short_retention": 94,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "fake AI writing",
+      "ghostwriter scam",
+      "human content farm",
+      "refugee exploitation",
+      "container prison"
+    ],
+    "overlap_check_hash": "93de9a1cd092e9e1",
+    "why_this_can_go_viral": "The image of humans in a shipping container 'pretending' to be AI is dystopian, shocking, and instantly memeable."
+  },
+  {
+    "unique_id": "business_0106_024_83e2046e1f80bc96",
+    "title": "The Trader Who Used a Fake 'Meteor Shower Destroys City' Video to Crash Insurance Stocks",
+    "hook": "A trader used CGI and archival footage to create a fake meteor impact over a major city, triggering algorithm sell-offs in catastrophe insurance stocks.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 89,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "CGI market manipulation",
+      "fake meteor video",
+      "insurance crash",
+      "algorithm deception",
+      "deepfake disaster"
+    ],
+    "overlap_check_hash": "83e2046e1f80bc96",
+    "why_this_can_go_viral": "The audacity of faking an apocalypse for profit is wildly entertaining and highlights market vulnerability."
+  }
+]

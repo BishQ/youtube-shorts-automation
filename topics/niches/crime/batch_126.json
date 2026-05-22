@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "crime_0126_001_3bb120c118b7f2a1",
+    "title": "The Unsolved Murder Where the Killer Left a Map Made of Teeth",
+    "hook": "A victim's teeth were pulled post-mortem and arranged into a map pointing to a location that doesn't exist on any modern chart.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "teeth map",
+      "dental evidence",
+      "unsolved murder mystery",
+      "body mutilation",
+      "cold case"
+    ],
+    "overlap_check_hash": "3bb120c118b7f2a1",
+    "why_this_can_go_viral": "Combines body horror with a cartographic puzzle that feels like a real-life Da Vinci Code, triggering deep curiosity and morbid fascination."
+  },
+  {
+    "unique_id": "crime_0126_002_31d58830bc8e47b0",
+    "title": "The Criminal Mastermind Who Stole a Cruise Ship by Faking an Outbreak",
+    "hook": "He declared a fake norovirus outbreak, evacuated the passengers, then sailed the empty ship to a scrapyard and sold it for scrap metal.",
+    "virality_score": 84,
+    "curiosity_gap_score": 92,
+    "darkness_score": 60,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "cruise ship heist",
+      "fake outbreak",
+      "maritime crime",
+      "audacious theft",
+      "scam"
+    ],
+    "overlap_check_hash": "31d58830bc8e47b0",
+    "why_this_can_go_viral": "The audacity of stealing an entire cruise ship using a biosecurity panic feels like a Hollywood plot, making it highly shareable."
+  },
+  {
+    "unique_id": "crime_0126_004_b74655ab4b04dd70",
+    "title": "The Serial Killer Who Only Left the Victims' Shadows—Burned into the Floor",
+    "hook": "No bodies were ever found, only perfect, human-shaped burn shadows on the floor, as if the victims had been vaporized where they stood.",
+    "virality_score": 85,
+    "curiosity_gap_score": 95,
+    "darkness_score": 92,
+    "educational_value": 45,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "shadow burns",
+      "vaporized victims",
+      "serial killer signature",
+      "cremation crime scene",
+      "missing bodies"
+    ],
+    "overlap_check_hash": "b74655ab4b04dd70",
+    "why_this_can_go_viral": "The visual of a human shadow burned into a floor is intrinsically eerie and puzzling, perfect for a thumbnail and fast retelling."
+  },
+  {
+    "unique_id": "crime_0126_006_7f6fb87e0e72f98c",
+    "title": "The Billion-Dollar Fraud That Sold 'Invisible Houses'—as NFT Real Estate in a Fake Metaverse",
+    "hook": "Investors bought luxury villas in a 'metaverse' that was actually a single, empty room in a warehouse, filmed with green screens.",
+    "virality_score": 81,
+    "curiosity_gap_score": 89,
+    "darkness_score": 55,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "metaverse scam",
+      "fake real estate",
+      "NFT fraud",
+      "green screen luxury",
+      "digital ponzi"
+    ],
+    "overlap_check_hash": "7f6fb87e0e72f98c",
+    "why_this_can_go_viral": "Taps into the current skepticism around the metaverse and cryptocurrency, making it relevant and cautionary while being absurdly entertaining."
+  },
+  {
+    "unique_id": "crime_0126_008_428eff3480c06d04",
+    "title": "The White-Collar Criminal Who Stole 100,000 Years of Prison Time—by Selling 'Good Behavior' Credits",
+    "hook": "He hacked a prison's behavioral tracking system, selling fake 'good time' credits to inmates, shaving decades off sentences for millions.",
+    "virality_score": 83,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "prison hack",
+      "good behavior scam",
+      "sentence reduction fraud",
+      "correctional corruption",
+      "time theft"
+    ],
+    "overlap_check_hash": "428eff3480c06d04",
+    "why_this_can_go_viral": "The idea of a bureaucratic white-collar crime that literally steals time from the justice system has a systemic critique that resonates deeply."
+  },
+  {
+    "unique_id": "crime_0126_009_94168a86a7274fb4",
+    "title": "The Unsolved Murder Where the Victim's Hand Was Formed into a Fingerprint—of the Killer",
+    "hook": "The victim's hand was deliberately mutilated and pressed into ink, leaving a perfect fingerprint that matched a known criminal—who had an alibi.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 60,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "victim fingerprint",
+      "mutilated hand",
+      "framed killer",
+      "alibi contradiction",
+      "forensic puzzle"
+    ],
+    "overlap_check_hash": "94168a86a7274fb4",
+    "why_this_can_go_viral": "A forensic paradox where the victim is made to literally point at the killer—yet the killer is innocent—creates a rabbit hole of conspiracy theories."
+  },
+  {
+    "unique_id": "crime_0126_010_d01762509dc85b7c",
+    "title": "The Criminal Mastermind Who Built a Fake Volcano—to Cover a Drug Lab Explosion",
+    "hook": "When his meth lab exploded, he created a massive dust cloud and staged a 'volcanic eruption' to explain the smoke and seismic activity.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 58,
+    "educational_value": 62,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake volcano",
+      "drug lab cover up",
+      "ingenious criminal",
+      "explosion cover",
+      "meth lab explosion"
+    ],
+    "overlap_check_hash": "d01762509dc85b7c",
+    "why_this_can_go_viral": "The absurd audacity of faking a natural disaster to cover a crime is the kind of insane real-life story that dominates short-form content."
+  },
+  {
+    "unique_id": "crime_0126_011_58d7f166b3c8fa79",
+    "title": "The Mob That Controlled a City's Pest Control—and Planted Bugs in Rivals' Homes",
+    "hook": "They ran the only extermination company in town, but instead of killing bugs, they planted listening devices inside customers' walls.",
+    "virality_score": 77,
+    "curiosity_gap_score": 86,
+    "darkness_score": 72,
+    "educational_value": 58,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "pest control spy",
+      "mob bugging",
+      "exterminator eavesdropping",
+      "organized crime infiltration",
+      "home surveillance"
+    ],
+    "overlap_check_hash": "58d7f166b3c8fa79",
+    "why_this_can_go_viral": "The mundane, trusted service of pest control being weaponized for mass surveillance is a paranoid's dream and a viewer's magnet."
+  },
+  {
+    "unique_id": "crime_0126_012_5bc8d3f0ab4a237b",
+    "title": "The Serial Killer Who Used a 3D Printer—to Create Fake Alibi Evidence",
+    "hook": "He printed replica murder weapons and planted them at scenes to frame innocent people, while keeping the real ones hidden in plain sight.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 74,
+    "educational_value": 65,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "3D printed evidence",
+      "fake murder weapon",
+      "serial killer framing",
+      "tech crime",
+      "alibi manipulation"
+    ],
+    "overlap_check_hash": "5bc8d3f0ab4a237b",
+    "why_this_can_go_viral": "Combines modern 3D printing tech with classic serial killer manipulation, appealing to both true crime and tech-savvy audiences."
+  },
+  {
+    "unique_id": "crime_0126_013_a4adc5e948034b2b",
+    "title": "The Heist Where Thieves Stole a Museum's Floor—Tile by Tile, Under Visitors' Feet",
+    "hook": "They replaced priceless mosaic tiles with fakes during visiting hours, swapping them out over months without anyone noticing the floor changing.",
+    "virality_score": 82,
+    "curiosity_gap_score": 91,
+    "darkness_score": 48,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "museum floor heist",
+      "mosaic theft",
+      "tile swap",
+      "slow heist",
+      "art forgery"
+    ],
+    "overlap_check_hash": "a4adc5e948034b2b",
+    "why_this_can_go_viral": "The idea of stealing something literally under everyone's feet, in plain sight over months, feels like a masterclass in patience and deception."
+  },
+  {
+    "unique_id": "crime_0126_014_1ad45f5755b61927",
+    "title": "The Billion-Dollar Fraud That Sold 'Immortality'—as a Subscription Service for Cryonics",
+    "hook": "Thousands paid annual fees for 'guaranteed resurrection', but the company never froze anyone—just stored empty pods in a warehouse.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "cryonics scam",
+      "immortality subscription",
+      "fake freezing",
+      "death fraud",
+      "empty pods"
+    ],
+    "overlap_check_hash": "1ad45f5755b61927",
+    "why_this_can_go_viral": "Exploits the universal fear of death and the hope for immortality, making the betrayal feel personal and profoundly dark."
+  },
+  {
+    "unique_id": "crime_0126_015_4a3a5492e2e06b02",
+    "title": "The Cartel That Used a Shark Tank—to 'Feed' Drugs to Sharks and Transport Them Inside",
+    "hook": "They surgically implanted cocaine packets into live sharks, then released them; the cartel would 'catch' them at the destination port.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 85,
+    "educational_value": 55,
+    "estimated_short_retention": 97,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "shark drug mules",
+      "cocaine sharks",
+      "cartel marine smuggling",
+      "surgical implant smuggling",
+      "animal abuse crime"
+    ],
+    "overlap_check_hash": "4a3a5492e2e06b02",
+    "why_this_can_go_viral": "Sharks carrying drugs is a high-concept, visually insane idea that combines ocean horror with cartel brutality—guaranteed clicks."
+  },
+  {
+    "unique_id": "crime_0126_016_3d325228cbb0ed8a",
+    "title": "The White-Collar Criminal Who Stole a Country's Seed Bank—and Held Its Agriculture Hostage",
+    "hook": "He cloned the world's largest seed vault's database and sold 'exclusive' seeds back to farmers, making them dependent on his modified strains.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 66,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "seed bank theft",
+      "agricultural hostage",
+      "food supply scam",
+      "biopiracy",
+      "crop monopoly"
+    ],
+    "overlap_check_hash": "3d325228cbb0ed8a",
+    "why_this_can_go_viral": "Touches on global food security and the fear of monoculture, making a white-collar crime feel apocalyptic in scale."
+  },
+  {
+    "unique_id": "crime_0126_017_b39f05b0348ac2c5",
+    "title": "The Unsolved Murder Where the Victim's Coffin Was Found—But the Body Was Replaced with a Pig",
+    "hook": "When the grave was exhumed, the coffin contained a dead pig dressed in the victim's clothes, with a note saying 'Wrong pig, wrong farm.'",
+    "virality_score": 87,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 50,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "pig in coffin",
+      "grave swap",
+      "body replacement",
+      "morbid prank",
+      "cold case mystery"
+    ],
+    "overlap_check_hash": "b39f05b0348ac2c5",
+    "why_this_can_go_viral": "The macabre absurdity of a pig wearing human clothes in a coffin is darkly humorous yet horrifying, perfect for viral spread."
+  },
+  {
+    "unique_id": "crime_0126_018_e50f85ef62eb3f7b",
+    "title": "The Criminal Mastermind Who Faked an Entire Hospital—to Steal Transplant Organs",
+    "hook": "He built a fake clinic with operating rooms and 'doctors' to harvest kidneys from donors who thought they were saving lives.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 98,
+    "educational_value": 65,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake hospital",
+      "organ harvesting",
+      "black market transplants",
+      "medical crime",
+      "fake doctors"
+    ],
+    "overlap_check_hash": "e50f85ef62eb3f7b",
+    "why_this_can_go_viral": "The betrayal of trust in a 'hospital' environment and the stealing of organs is deeply visceral and taps into primal fears of medicine gone wrong."
+  },
+  {
+    "unique_id": "crime_0126_019_4771bbf90fbd1984",
+    "title": "The Mob That Controlled a City's Graveyard—and Sold the Same Plot to 100 Families",
+    "hook": "They sold burial plots multiple times, stacking bodies vertically in a single hole, then charged families for 'maintenance' of fake graves.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 96,
+    "educational_value": 62,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "grave scam",
+      "burial plot fraud",
+      "mob graveyard",
+      "double selling graves",
+      "death industry crime"
+    ],
+    "overlap_check_hash": "4771bbf90fbd1984",
+    "why_this_can_go_viral": "Scamming grieving families over the bodies of their loved ones is a level of depravity that triggers outrage and morbid fascination."
+  },
+  {
+    "unique_id": "crime_0126_022_3093f54100940821",
+    "title": "The Billion-Dollar Fraud That Sold 'Time Travel Certificates'—to the Ultra-Rich",
+    "hook": "He claimed he could send them back in time for one hour; the 'experience' was a VR simulation while he stole their bank codes.",
+    "virality_score": 79,
+    "curiosity_gap_score": 88,
+    "darkness_score": 60,
+    "educational_value": 64,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "time travel scam",
+      "ultra rich fraud",
+      "VR heist",
+      "bank code theft",
+      "luxury deception"
+    ],
+    "overlap_check_hash": "3093f54100940821",
+    "why_this_can_go_viral": "Exploits the desire for the impossible (time travel) to rob the wealthy, blending sci-fi aspirations with a classic con."
+  },
+  {
+    "unique_id": "crime_0126_023_2716a7b7a99fb321",
+    "title": "The Cartel That Used a Migrant Caravan—as a Living Shield to Move Drugs",
+    "hook": "They hid tons of cocaine inside food and water supplies meant for migrants, knowing border patrols wouldn't inspect humanitarian aid.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 72,
+    "estimated_short_retention": 94,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "migrant caravan drug smuggling",
+      "humanitarian aid cover",
+      "cartel exploitation",
+      "border deception",
+      "cocaine in aid"
+    ],
+    "overlap_check_hash": "2716a7b7a99fb321",
+    "why_this_can_go_viral": "Taps into the highly charged, emotional debate around migration, adding a layer of cartel cruelty that sparks debate and shares."
+  },
+  {
+    "unique_id": "crime_0126_024_62f052a9a63a560b",
+    "title": "The White-Collar Criminal Who Stole a Country's Rain—by Selling 'Weather Insurance'",
+    "hook": "He sold policies to farmers that 'insured' against drought, then used cloud seeding tech to redirect rain away from their fields.",
+    "virality_score": 78,
+    "curiosity_gap_score": 87,
+    "darkness_score": 72,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "weather fraud",
+      "cloud seeding scam",
+      "rain theft",
+      "farmer exploitation",
+      "climate crime"
+    ],
+    "overlap_check_hash": "62f052a9a63a560b",
+    "why_this_can_go_viral": "The idea of literally stealing rain through a financial and scientific scheme is a novel, modern form of white-collar crime that feels dystopian."
+  }
+]

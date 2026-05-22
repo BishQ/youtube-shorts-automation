@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "business_0123_001_fcab1fca4c230aa7",
+    "title": "The CEO Who Sold Poison as Medicine to Millions",
+    "hook": "A pharmaceutical CEO knew his drug caused organ failure — but he kept selling it for 7 years.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 85,
+    "estimated_short_retention": 94,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "pharma fraud",
+      "poison drug",
+      "CEO cover-up",
+      "deadly medicine",
+      "corporate murder"
+    ],
+    "overlap_check_hash": "fcab1fca4c230aa7",
+    "why_this_can_go_viral": "Betrayal of trust at massive scale — people love outrage-driven exposés of evil CEOs."
+  },
+  {
+    "unique_id": "business_0123_002_519a036e95a11f4b",
+    "title": "The Hedge Fund That Shortened a Country's Lifespan for Profit",
+    "hook": "They bet against a nation's healthcare system — then secretly made it collapse.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "hedge fund attack",
+      "short selling",
+      "national crisis",
+      "healthcare collapse",
+      "economic warfare"
+    ],
+    "overlap_check_hash": "519a036e95a11f4b",
+    "why_this_can_go_viral": "Shows how financial markets can be weaponized against entire populations — feels like a thriller."
+  },
+  {
+    "unique_id": "business_0123_003_b2d04210dc87961f",
+    "title": "The Startup That Faked 10 Million Users — With Dead People",
+    "hook": "They bought a list of deceased citizens and created fake accounts to trick investors.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "fake users",
+      "dead people data",
+      "investor scam",
+      "startup deception",
+      "fraudulent metrics"
+    ],
+    "overlap_check_hash": "b2d04210dc87961f",
+    "why_this_can_go_viral": "Creepy and morally repulsive — viewers can't believe a startup would go that far."
+  },
+  {
+    "unique_id": "business_0123_005_a83dfb2583c5184c",
+    "title": "The Corporate Spy Who Controlled a Rival's Supply Chain for 5 Years",
+    "hook": "He got a job at the competitor and slowly sabotaged every shipment — without anyone noticing.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "insider sabotage",
+      "supply chain attack",
+      "long con",
+      "industrial spy",
+      "hidden destruction"
+    ],
+    "overlap_check_hash": "a83dfb2583c5184c",
+    "why_this_can_go_viral": "Slow-burn betrayal story — viewers love the 'how did nobody notice?' element."
+  },
+  {
+    "unique_id": "business_0123_006_da30b0167c4dca51",
+    "title": "The Dark Marketing Firm That Turned Funerals Into Ad Revenue",
+    "hook": "They scraped obituary data and sold funeral home ads to grieving families — at 10x markup.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 76,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "grief exploitation",
+      "obituary scraping",
+      "funeral ads",
+      "predatory marketing",
+      "death profiteering"
+    ],
+    "overlap_check_hash": "da30b0167c4dca51",
+    "why_this_can_go_viral": "Taboo-breaking and emotionally charged — people get furious at the exploitation of grief."
+  },
+  {
+    "unique_id": "business_0123_007_d7022211555e9fbd",
+    "title": "The Supply Chain Secret of 'Fresh' Orange Juice — It's Painted and Deodorized",
+    "hook": "Your 'fresh squeezed' juice was stored in tanks for a year, then bleached and flavored back to life.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 88,
+    "estimated_short_retention": 91,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "fake fresh juice",
+      "orange juice fraud",
+      "food adulteration",
+      "bleached juice",
+      "industry deception"
+    ],
+    "overlap_check_hash": "d7022211555e9fbd",
+    "why_this_can_go_viral": "Food industry lies always shock — viewers will never look at orange juice the same way."
+  },
+  {
+    "unique_id": "business_0123_008_3dc0b4a0229e5856",
+    "title": "The Industry Cover-Up of 'Mold-Free' Bread — It's Packed With Carcinogens",
+    "hook": "To stop mold, they added a chemical that causes liver damage — then hid the studies for 20 years.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 86,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "bread preservatives",
+      "carcinogen cover-up",
+      "food safety scandal",
+      "mold prevention poison",
+      "FDA failure"
+    ],
+    "overlap_check_hash": "3dc0b4a0229e5856",
+    "why_this_can_go_viral": "Everyone eats bread — personal relevance combined with hidden danger sparks mass sharing."
+  },
+  {
+    "unique_id": "business_0123_009_dbc8d33adedc1a53",
+    "title": "The CEO Who Bribed a Scientist to Falsify Climate Data for His Factory",
+    "hook": "He paid a climate researcher $2 million to say his factory was carbon-neutral — while it pumped poison.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 83,
+    "estimated_short_retention": 92,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "climate fraud",
+      "bought science",
+      "fake carbon neutral",
+      "corporate lies",
+      "environmental crime"
+    ],
+    "overlap_check_hash": "dbc8d33adedc1a53",
+    "why_this_can_go_viral": "Climate scandal + corruption — taps into public anger about greenwashing and fake activism."
+  },
+  {
+    "unique_id": "business_0123_011_739db7a7fb7b0226",
+    "title": "The Startup That Sold 'AI Doctors' — They Were Nurses in a Basement Following a Flowchart",
+    "hook": "Patients trusted 'AI diagnosis' — but it was just underpaid nurses reading from a manual.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 79,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "fake AI doctor",
+      "healthtech scam",
+      "nurse exploitation",
+      "AI lie",
+      "medical fraud"
+    ],
+    "overlap_check_hash": "739db7a7fb7b0226",
+    "why_this_can_go_viral": "AI hype meets human exploitation — viewers love the 'it was humans all along' twist."
+  },
+  {
+    "unique_id": "business_0123_012_0ec64bde1eda2951",
+    "title": "The Monopoly That Made College Textbooks Cost $500 Each — On Purpose",
+    "hook": "They bought every textbook publisher, then changed editions yearly to kill the used book market.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 86,
+    "educational_value": 84,
+    "estimated_short_retention": 91,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "textbook monopoly",
+      "education price gouging",
+      "publisher scam",
+      "student exploitation",
+      "edition fraud"
+    ],
+    "overlap_check_hash": "0ec64bde1eda2951",
+    "why_this_can_go_viral": "Relatable to millions of students and parents — anger about education costs drives engagement."
+  },
+  {
+    "unique_id": "business_0123_013_9d7b668ab533340a",
+    "title": "The Corporate Spy Who Posed as a Janitor for 10 Years to Steal a Chip Design",
+    "hook": "He swept floors for a decade — then walked out with the blueprint for a billion-dollar processor.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 77,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "long-term spy",
+      "janitor cover",
+      "chip theft",
+      "industrial espionage",
+      "patience heist"
+    ],
+    "overlap_check_hash": "9d7b668ab533340a",
+    "why_this_can_go_viral": "Incredible patience and cunning — viewers are amazed by the dedication and secrecy."
+  },
+  {
+    "unique_id": "business_0123_014_ba90df1247683158",
+    "title": "The Dark Marketing Agency That Used Car Trackers to Send You Bills for Things You Didn't Buy",
+    "hook": "They tracked your car's location, then billed you for ads based on where you parked — without consent.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "car tracking",
+      "location data abuse",
+      "forced billing",
+      "privacy violation",
+      "surveillance marketing"
+    ],
+    "overlap_check_hash": "ba90df1247683158",
+    "why_this_can_go_viral": "Invasion of privacy at a new level — viewers are horrified by how easily they can be tracked."
+  },
+  {
+    "unique_id": "business_0123_015_1d6f9a212474948b",
+    "title": "The Supply Chain Secret of 'Belgian' Chocolate — It's Made From African Child Labor and Repackaged",
+    "hook": "Your 'premium' chocolate was harvested by children, shipped to Belgium, and stamped with a fancy label.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 87,
+    "estimated_short_retention": 95,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "chocolate child labor",
+      "Belgian fraud",
+      "cocoa slavery",
+      "ethical branding lie",
+      "supply chain horror"
+    ],
+    "overlap_check_hash": "1d6f9a212474948b",
+    "why_this_can_go_viral": "Moral outrage + luxury brand deception — consumers feel betrayed and want to expose the truth."
+  },
+  {
+    "unique_id": "business_0123_016_00b95a440e0ac474",
+    "title": "The Industry Cover-Up of 'Safe' Artificial Sweeteners — They Were Tested on Orphans",
+    "hook": "To approve a sweetener, a company fed it to orphaned children without consent — then hid the results.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 99,
+    "educational_value": 88,
+    "estimated_short_retention": 96,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "orphan testing",
+      "sweetener scandal",
+      "human experimentation",
+      "FDA cover-up",
+      "unethical science"
+    ],
+    "overlap_check_hash": "00b95a440e0ac474",
+    "why_this_can_go_viral": "Extreme moral violation — the orphan testing angle is unforgettable and sparks massive outrage."
+  },
+  {
+    "unique_id": "business_0123_017_e1e04a3be5f6bb45",
+    "title": "The CEO Who Created a 'Smart' Water Bottle That Spied on Your Kitchen",
+    "hook": "The bottle had a hidden camera that recorded your eating habits — and sold the data to insurers.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 81,
+    "estimated_short_retention": 92,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "smart bottle spy",
+      "hidden camera",
+      "data theft",
+      "insurance scam",
+      "IoT betrayal"
+    ],
+    "overlap_check_hash": "e1e04a3be5f6bb45",
+    "why_this_can_go_viral": "Creepy tech betrayal — viewers fear their own 'smart' devices spying on them."
+  },
+  {
+    "unique_id": "business_0123_018_8ade4100f187a40d",
+    "title": "The Trader Who Used a Fake 'Celebrity Death' Tweet to Tank a Stock",
+    "hook": "He hacked a verified Twitter account, announced a founder's death, and shorted the stock in seconds.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 79,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "fake death tweet",
+      "stock manipulation",
+      "social media scam",
+      "hacked account",
+      "short selling fraud"
+    ],
+    "overlap_check_hash": "8ade4100f187a40d",
+    "why_this_can_go_viral": "Shows how fragile markets are to social media lies — viewers love the real-time chaos."
+  },
+  {
+    "unique_id": "business_0123_019_4d3d33fc9fe052d7",
+    "title": "The Startup That Sold 'AI Chefs' — They Were Unemployed Line Cooks in a Windowless Kitchen",
+    "hook": "Customers paid for AI-cooked gourmet meals — but it was just desperate chefs hidden in a basement.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 83,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "fake AI chef",
+      "food tech scam",
+      "human exploitation",
+      "kitchen fraud",
+      "startup lie"
+    ],
+    "overlap_check_hash": "4d3d33fc9fe052d7",
+    "why_this_can_go_viral": "AI deception is trending — viewers enjoy the 'it's just humans in a room' reveal."
+  },
+  {
+    "unique_id": "business_0123_021_20890466b174a999",
+    "title": "The Corporate Spy Who Stole a Billion-Dollar Formula by Seducing the Lead Chemist",
+    "hook": "She dated the chemist for two years, copied the formula, and vanished — he lost everything.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 95,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "romance spy",
+      "formula theft",
+      "industrial seduction",
+      "betrayal",
+      "trade secret heist"
+    ],
+    "overlap_check_hash": "20890466b174a999",
+    "why_this_can_go_viral": "Sexy, thrilling betrayal — viewers love the James Bond-style corporate espionage."
+  },
+  {
+    "unique_id": "business_0123_022_d61dcdf683a1a70b",
+    "title": "The Dark Marketing Firm That Used Traffic Cameras to Sell You Car Insurance",
+    "hook": "They scanned your license plate, checked your driving, and sent you a 'personalized' insurance quote — illegal but unstoppable.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 82,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "traffic camera abuse",
+      "license plate tracking",
+      "targeted insurance",
+      "privacy breach",
+      "surveillance ads"
+    ],
+    "overlap_check_hash": "d61dcdf683a1a70b",
+    "why_this_can_go_viral": "Shows how public infrastructure is used for profit — viewers feel watched and angry."
+  },
+  {
+    "unique_id": "business_0123_023_ca09182135f20643",
+    "title": "The Supply Chain Secret of 'Fair Trade' Coffee — It's Grown on Forced Labor Plantations",
+    "hook": "Your 'ethical' coffee was picked by people held against their will, then laundered through a fair trade stamp.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 89,
+    "estimated_short_retention": 94,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "fair trade fraud",
+      "coffee slavery",
+      "forced labor",
+      "ethical label lie",
+      "supply chain horror"
+    ],
+    "overlap_check_hash": "ca09182135f20643",
+    "why_this_can_go_viral": "Destroys trust in ethical labels — viewers feel personally duped and want to expose the truth."
+  },
+  {
+    "unique_id": "business_0123_025_3e012c3d19920c0f",
+    "title": "The CEO Who Secretly Owned the Rival's Supplier — Then Starved Their Factory",
+    "hook": "He bought the only supplier of a critical component, then delayed shipments to bankrupt his competitor.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 82,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "supplier sabotage",
+      "hidden ownership",
+      "hostile takeover",
+      "competitive destruction",
+      "backdoor monopoly"
+    ],
+    "overlap_check_hash": "3e012c3d19920c0f",
+    "why_this_can_go_viral": "A masterclass in ruthless business tactics — viewers are captivated by the hidden chess game."
+  }
+]

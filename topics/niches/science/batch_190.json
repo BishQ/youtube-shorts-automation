@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "science_0190_001_0d72628aab8c1b54",
+    "title": "The Scientist Who Built a Machine That Made Him Forget His Own Mother",
+    "hook": "He wanted to erase a single memory. Instead, he erased every emotional connection to his past.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory erasure",
+      "neuroscience experiment",
+      "forbidden memory",
+      "brain machine",
+      "emotional amnesia"
+    ],
+    "overlap_check_hash": "0d72628aab8c1b54",
+    "why_this_can_go_viral": "Taps into universal fear of losing identity and loved ones, with a personal tragic twist."
+  },
+  {
+    "unique_id": "science_0190_003_1e944af2af3d8937",
+    "title": "The Forbidden Experiment Where Scientists Grew a Human Ear on a Mouse",
+    "hook": "It looked like a science fiction trophy. Then they asked: what else can we grow?",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human ear mouse",
+      "tissue engineering",
+      "bioprinting",
+      "organ farming",
+      "vacanti mouse"
+    ],
+    "overlap_check_hash": "1e944af2af3d8937",
+    "why_this_can_go_viral": "Visual shock value plus ethical horror about growing human body parts on animals."
+  },
+  {
+    "unique_id": "science_0190_005_85143dbcfca32e24",
+    "title": "The Lab That Accidentally Created a Parasite That Engulfs Its Host in Slime",
+    "hook": "The host wasn't eaten. It was absorbed alive into a living ooze.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "slime parasite",
+      "living ooze",
+      "lab accident",
+      "biolab horror",
+      "organism takeover"
+    ],
+    "overlap_check_hash": "85143dbcfca32e24",
+    "why_this_can_go_viral": "Body horror meets real science — visceral disgust drives shares."
+  },
+  {
+    "unique_id": "science_0190_006_2e4c18bf16907bf0",
+    "title": "The Scientific Fraud Who Faked the Discovery of a 'Miracle Virus' That Cured Death",
+    "hook": "He injected terminally ill patients with a virus he swore was a cure. It wasn't a virus.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fake cure",
+      "miracle virus",
+      "scientific fraud",
+      "fake medicine",
+      "terminal patients"
+    ],
+    "overlap_check_hash": "2e4c18bf16907bf0",
+    "why_this_can_go_viral": "Exploits fear of false hope and medical scams — emotional and infuriating."
+  },
+  {
+    "unique_id": "science_0190_007_c7e5dba72ba795c2",
+    "title": "The Chemist Who Accidentally Made a Liquid That Dissolves Any Solid Except Glass",
+    "hook": "They called it the 'universal solvent' — because it could dissolve anything but the bottle.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "universal solvent",
+      "chemical accident",
+      "impossible liquid",
+      "dangerous chemistry",
+      "acid that dissolves"
+    ],
+    "overlap_check_hash": "c7e5dba72ba795c2",
+    "why_this_can_go_viral": "Alchemical myth meets real science — dramatic and counterintuitive."
+  },
+  {
+    "unique_id": "science_0190_008_1aea087c6118721f",
+    "title": "The Neuroscientist Who Found That Your Brain Has a 'Silence Center'",
+    "hook": "When stimulated, you stop speaking, stop moving, and stop thinking — but stay awake.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain silence",
+      "neuroscience dark",
+      "brain stimulation",
+      "consciousness",
+      "brain region"
+    ],
+    "overlap_check_hash": "1aea087c6118721f",
+    "why_this_can_go_viral": "Creepy discovery about a hidden off-switch for consciousness triggers existential fear."
+  },
+  {
+    "unique_id": "science_0190_010_3a8c9c9b43c8eb77",
+    "title": "The Biolab That Created a Bacteria That Can Survive in Boiling Acid",
+    "hook": "They thought they created a superbug. In reality, they woke up something ancient.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "extremophile bacteria",
+      "boiling acid",
+      "superbug",
+      "ancient microbe",
+      "lab escape"
+    ],
+    "overlap_check_hash": "3a8c9c9b43c8eb77",
+    "why_this_can_go_viral": "Feels like a horror movie setup — invincible bacteria escaping the lab."
+  },
+  {
+    "unique_id": "science_0190_013_4f7bbba04c4b5769",
+    "title": "The Scientific Fraud Who Faked a 'Global Warming Data Set' That Fooled the World for a Decade",
+    "hook": "He didn't just fake numbers. He faked a reality that changed policy — and no one checked.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 85,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fake climate data",
+      "global warming hoax",
+      "scientific fraud",
+      "data manipulation",
+      "climate scandal"
+    ],
+    "overlap_check_hash": "4f7bbba04c4b5769",
+    "why_this_can_go_viral": "High stakes fraud with global consequences — triggers debate and curiosity."
+  },
+  {
+    "unique_id": "science_0190_014_592386c66b37afcd",
+    "title": "The Chemist Who Made a Compound That Explodes When Exposed to Moonlight",
+    "hook": "They stored it in a lead box. One crack and the night sky would trigger destruction.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "moonlight explosion",
+      "photochemical compound",
+      "unstable chemistry",
+      "dangerous reaction",
+      "lab disaster"
+    ],
+    "overlap_check_hash": "592386c66b37afcd",
+    "why_this_can_go_viral": "Poetic and terrifying — a substance that can't be safely stored outdoors."
+  },
+  {
+    "unique_id": "science_0190_015_e465fda653841eaa",
+    "title": "The Quantum Paradox Where a Cat Was Both Alive and Dead — But the Owner Refused to Open the Box",
+    "hook": "He said: 'As long as I don't check, she's both. And I prefer it that way.'",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "Schrödinger's cat",
+      "quantum paradox",
+      "observer effect",
+      "quantum decision",
+      "cat experiment"
+    ],
+    "overlap_check_hash": "e465fda653841eaa",
+    "why_this_can_go_viral": "Emotional twist on a famous paradox — humanizes quantum mechanics."
+  },
+  {
+    "unique_id": "science_0190_016_1c7a8dd46eaaa78f",
+    "title": "The Neuroscientist Who Found a Way to Make People See Ghosts",
+    "hook": "With a simple magnetic pulse to the brain, the room fills with invisible presences.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "ghost experiment",
+      "brain stimulation",
+      "hallucination",
+      "neuroscience ghost",
+      "temporal lobe"
+    ],
+    "overlap_check_hash": "1c7a8dd46eaaa78f",
+    "why_this_can_go_viral": "Demystifies paranormal experiences — spooky but scientific."
+  },
+  {
+    "unique_id": "science_0190_018_4b1aae36e0ec713b",
+    "title": "The Lab Catastrophe Where a Chemical Spill Created a Living Goo That Fed on Light",
+    "hook": "It wasn't alive. But it moved, grew, and consumed everything in its path.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "chemical goo",
+      "lab spill",
+      "living chemical",
+      "self-replicating",
+      "goo disaster"
+    ],
+    "overlap_check_hash": "4b1aae36e0ec713b",
+    "why_this_can_go_viral": "Classic sci-fi horror becomes real — evokes The Blob fear."
+  },
+  {
+    "unique_id": "science_0190_019_c0d94b5055dc198d",
+    "title": "The Scientific Fraud Who Faked a 'Telepathy' Chip That Was Just a Mini Microphone",
+    "hook": "Volunteers thought they could read minds. They were just reading whispers broadcast into their ears.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "telepathy scam",
+      "fake brain chip",
+      "mind reading hoax",
+      "scientific fraud",
+      "microphone trick"
+    ],
+    "overlap_check_hash": "c0d94b5055dc198d",
+    "why_this_can_go_viral": "Exposes how easily the brain is fooled — satisfying debunking narrative."
+  },
+  {
+    "unique_id": "science_0190_020_cc3341c13ddeb457",
+    "title": "The Physicist Who Created a 'Time Crystal' That Perpetually Breaks Time Symmetry",
+    "hook": "It moves without energy. It ticks forever. And it shouldn't exist by any law of physics.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 60,
+    "educational_value": 85,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time crystal",
+      "perpetual motion",
+      "quantum time",
+      "impossible crystal",
+      "time symmetry"
+    ],
+    "overlap_check_hash": "cc3341c13ddeb457",
+    "why_this_can_go_viral": "Perpetual motion forbidden by thermodynamics — feels like science fiction made real."
+  },
+  {
+    "unique_id": "science_0190_022_affcb90d2e2a2402",
+    "title": "The Chemist Who Synthesized a Molecule That Smells Like Pure Dread",
+    "hook": "One sniff and subjects reported a nameless terror — they couldn't explain why they were afraid.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "fear smell",
+      "dread molecule",
+      "chemical fear",
+      "olfactory horror",
+      "panic scent"
+    ],
+    "overlap_check_hash": "affcb90d2e2a2402",
+    "why_this_can_go_viral": "Primal fear triggered by chemistry — irresistible viral curiosity."
+  },
+  {
+    "unique_id": "science_0190_023_be5f87ea7eef868c",
+    "title": "The Neuroscientist Who Discovered That Your Brain Can Be Hacked by a Single Tone",
+    "hook": "A specific frequency triggers an involuntary panic attack in almost every listener.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain hacking",
+      "panic frequency",
+      "sound trigger",
+      "neural manipulation",
+      "fear sound"
+    ],
+    "overlap_check_hash": "be5f87ea7eef868c",
+    "why_this_can_go_viral": "Immediate personal relevance — viewers want to test if they're vulnerable."
+  },
+  {
+    "unique_id": "science_0190_024_1c9a78f1a8b8db2f",
+    "title": "The Biolab That Accidentally Made a Fungus That Spreads Through Phone Screens",
+    "hook": "You don't touch it. You open an app. The spores travel through the vibration.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 60,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "digital fungus",
+      "fungus phone",
+      "lab accident",
+      "spore transmission",
+      "bio-digital threat"
+    ],
+    "overlap_check_hash": "1c9a78f1a8b8db2f",
+    "why_this_can_go_viral": "Combines tech horror with biology — feels like a modern Black Mirror plot."
+  },
+  {
+    "unique_id": "science_0190_025_41c89ee65e559a6f",
+    "title": "The Quantum Paradox Where a Measurement Changed the Past — and Erased the Scientist's Memory",
+    "hook": "He saw the result, then forgot. The equipment showed he had already seen it — twice.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum eraser",
+      "time paradox",
+      "memory erasure",
+      "quantum experiment",
+      "retrocausality"
+    ],
+    "overlap_check_hash": "41c89ee65e559a6f",
+    "why_this_can_go_viral": "Reality-bending story that questions memory and causality — mind-blowing."
+  }
+]

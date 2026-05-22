@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "edutainment_0152_001_4bb2b4b27ef83318",
+    "title": "The Machine That Extracts Dreams from Sleeping Brains",
+    "hook": "A secret government project found a way to record your dreams—and they never stopped.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "dream recording",
+      "brain machine",
+      "classified experiment",
+      "neural decoding",
+      "secret project"
+    ],
+    "overlap_check_hash": "4bb2b4b27ef83318",
+    "why_this_can_go_viral": "Taps into universal curiosity about dreams and paranoia about government surveillance—high shareability."
+  },
+  {
+    "unique_id": "edutainment_0152_003_15a96263d362fabe",
+    "title": "The Hidden Chemical That Makes Cancer Disappear—Then Return",
+    "hook": "Researchers found a compound that erases tumors—but what comes back is worse than the original.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "cancer cure",
+      "hidden chemical",
+      "tumor regression",
+      "medical secret",
+      "dangerous treatment"
+    ],
+    "overlap_check_hash": "15a96263d362fabe",
+    "why_this_can_go_viral": "Taps into fear of cancer and distrust of medical establishment—high emotional engagement."
+  },
+  {
+    "unique_id": "edutainment_0152_005_a976b3d1a1d81bc4",
+    "title": "The Man Who Survived 10 Minutes Inside a Particle Collider",
+    "hook": "He walked into the most dangerous machine on Earth—and came out seeing the universe differently.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 80,
+    "niche_name": "edutainment",
+    "subcategory": "strange science facts",
+    "keywords": [
+      "particle accelerator",
+      "human exposure",
+      "radiation survival",
+      "CERN accident",
+      "near death"
+    ],
+    "overlap_check_hash": "a976b3d1a1d81bc4",
+    "why_this_can_go_viral": "Extreme survival story in a high-tech setting—creates awe and disbelief."
+  },
+  {
+    "unique_id": "edutainment_0152_007_8fc058621f00f17b",
+    "title": "The Experiment That Gave a Fish the Memory of a Human",
+    "hook": "Scientists transferred human brain cells into a fish—and it started recognizing faces.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "human brain cells",
+      "fish intelligence",
+      "memory transfer",
+      "genetic experiment",
+      "animal consciousness"
+    ],
+    "overlap_check_hash": "8fc058621f00f17b",
+    "why_this_can_go_viral": "Blurs the line between human and animal—ethical shock value drives shares."
+  },
+  {
+    "unique_id": "edutainment_0152_008_9d077ff07d7761c9",
+    "title": "The Secret Tunnel Under a Hospital That Leads to Nowhere",
+    "hook": "A hidden passage was discovered beneath a hospital—but its purpose remains a complete mystery.",
+    "virality_score": 79,
+    "curiosity_gap_score": 87,
+    "darkness_score": 74,
+    "educational_value": 55,
+    "estimated_short_retention": 84,
+    "niche_name": "edutainment",
+    "subcategory": "unexpected connections",
+    "keywords": [
+      "hidden tunnel",
+      "hospital secret",
+      "underground passage",
+      "abandoned corridor",
+      "mystery hallway"
+    ],
+    "overlap_check_hash": "9d077ff07d7761c9",
+    "why_this_can_go_viral": "Mysterious abandoned spaces always fascinate—creates urban exploration intrigue."
+  },
+  {
+    "unique_id": "edutainment_0152_010_57ef0fbea6a51ef4",
+    "title": "The Hidden Camera Network That Watches Your Dreams",
+    "hook": "Infrared cameras in your bedroom may be recording more than you think—and scientists are watching.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 60,
+    "estimated_short_retention": 87,
+    "niche_name": "edutainment",
+    "subcategory": "secret mechanisms of the world",
+    "keywords": [
+      "dream surveillance",
+      "hidden cameras",
+      "privacy violation",
+      "sleep monitoring",
+      "paranoia"
+    ],
+    "overlap_check_hash": "57ef0fbea6a51ef4",
+    "why_this_can_go_viral": "Combines privacy fear with creepy surveillance angle—highly relevant and shareable."
+  },
+  {
+    "unique_id": "edutainment_0152_012_119862543d50df89",
+    "title": "Why a Single Ocean Wave Can Travel the Entire Planet",
+    "hook": "One wave generated by a storm in Antarctica circled the Earth three times before stopping.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 60,
+    "educational_value": 78,
+    "estimated_short_retention": 79,
+    "niche_name": "edutainment",
+    "subcategory": "reality-breaking statistics",
+    "keywords": [
+      "global wave",
+      "ocean energy",
+      "Antarctic storm",
+      "megawave",
+      "Earth circulation"
+    ],
+    "overlap_check_hash": "119862543d50df89",
+    "why_this_can_go_viral": "Mind-bending scale of natural phenomena—awe and wonder drive shares."
+  },
+  {
+    "unique_id": "edutainment_0152_013_21e7e938d93cdefc",
+    "title": "The Experiment That Made a Room Temp Drop to Absolute Zero",
+    "hook": "Scientists accidentally created a space colder than deep space—and almost froze time itself.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 68,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "edutainment",
+    "subcategory": "strange science facts",
+    "keywords": [
+      "absolute zero",
+      "coldest room",
+      "quantum experiment",
+      "time freeze",
+      "temperature anomaly"
+    ],
+    "overlap_check_hash": "21e7e938d93cdefc",
+    "why_this_can_go_viral": "Extreme scientific achievement with sci-fi implications—highly shareable."
+  },
+  {
+    "unique_id": "edutainment_0152_015_f4032178d9e05bb6",
+    "title": "Why a Single Mountain Breathes Like a Living Organism",
+    "hook": "This mountain expands and contracts daily—and scientists have no idea why it's alive.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 65,
+    "educational_value": 72,
+    "estimated_short_retention": 81,
+    "niche_name": "edutainment",
+    "subcategory": "counterintuitive discoveries",
+    "keywords": [
+      "breathing mountain",
+      "living geology",
+      "mountain movement",
+      "Earth anomaly",
+      "geological mystery"
+    ],
+    "overlap_check_hash": "f4032178d9e05bb6",
+    "why_this_can_go_viral": "Bizarre natural phenomenon that feels supernatural—high curiosity and awe."
+  },
+  {
+    "unique_id": "edutainment_0152_016_71a796bc98a1fc63",
+    "title": "The Hidden Algorithm That Decides Your Prison Sentence",
+    "hook": "A secret formula predicts your future crimes—and judges use it to lock you up longer.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "edutainment",
+    "subcategory": "secret mechanisms of the world",
+    "keywords": [
+      "sentencing algorithm",
+      "AI justice",
+      "bias in law",
+      "predictive policing",
+      "hidden system"
+    ],
+    "overlap_check_hash": "71a796bc98a1fc63",
+    "why_this_can_go_viral": "Injustice and algorithmic control are hot-button topics—high emotional and social shareability."
+  },
+  {
+    "unique_id": "edutainment_0152_017_473c09de0710b5e4",
+    "title": "The Man Who Survived a Fall from Space—and Lived to Tell",
+    "hook": "He fell from the edge of space without a parachute, and doctors said he should be dead.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 72,
+    "educational_value": 75,
+    "estimated_short_retention": 93,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "space fall",
+      "survival",
+      "extreme height",
+      "highest fall survived",
+      "impossible survival"
+    ],
+    "overlap_check_hash": "473c09de0710b5e4",
+    "why_this_can_go_viral": "Impossible survival story with record-breaking numbers—highly shareable and memorable."
+  },
+  {
+    "unique_id": "edutainment_0152_018_5b32188e6d326139",
+    "title": "Why a Single Chemical in Your Brain Makes You Trust Strangers",
+    "hook": "A hidden compound governs who you trust—and strangers can manipulate it without you knowing.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 76,
+    "educational_value": 80,
+    "estimated_short_retention": 83,
+    "niche_name": "edutainment",
+    "subcategory": "strange science facts",
+    "keywords": [
+      "trust chemical",
+      "oxytocin",
+      "brain manipulation",
+      "social control",
+      "hidden influence"
+    ],
+    "overlap_check_hash": "5b32188e6d326139",
+    "why_this_can_go_viral": "Reveals hidden vulnerability in social interactions—creates paranoia and self-reflection."
+  },
+  {
+    "unique_id": "edutainment_0152_020_55cc18843c0785ce",
+    "title": "The Experiment That Made a Swarm of Insects Act as One Brain",
+    "hook": "Scientists connected thousands of insects into a single hive mind—and it started solving puzzles.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 74,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "hive mind",
+      "insect intelligence",
+      "swarm network",
+      "collective brain",
+      "experiment"
+    ],
+    "overlap_check_hash": "55cc18843c0785ce",
+    "why_this_can_go_viral": "Blurs boundary between individual and collective—fascinating and eerie."
+  },
+  {
+    "unique_id": "edutainment_0152_021_d46de64d3631544a",
+    "title": "Why a Single Lake in Bolivia Reflects the Sky Perfectly—Forever",
+    "hook": "This lake is so still and shallow that it acts as a mirror for the entire sky—day and night.",
+    "virality_score": 78,
+    "curiosity_gap_score": 80,
+    "darkness_score": 55,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "mirror lake",
+      "sky reflection",
+      "Bolivia",
+      "natural mirror",
+      "Salar de Uyuni"
+    ],
+    "overlap_check_hash": "d46de64d3631544a",
+    "why_this_can_go_viral": "Visually stunning natural phenomenon—high shareability on visual platforms."
+  },
+  {
+    "unique_id": "edutainment_0152_023_2f37fb62087379ee",
+    "title": "Why a Single Hospital Ward Has Patients Who Never Age",
+    "hook": "A rare condition in one ward stops biological aging—patients look the same for decades.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 79,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "edutainment",
+    "subcategory": "reality-breaking statistics",
+    "keywords": [
+      "no aging",
+      "immortality ward",
+      "rare disease",
+      "biological clock",
+      "medical mystery"
+    ],
+    "overlap_check_hash": "2f37fb62087379ee",
+    "why_this_can_go_viral": "Fascination with immortality and rare medical conditions—high emotional pull."
+  },
+  {
+    "unique_id": "edutainment_0152_025_e835e9cc5beb03f8",
+    "title": "The Experiment That Created a Liquid That Defies Gravity",
+    "hook": "A strange liquid climbs walls and flows upward—and scientists don't fully understand why.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 62,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "edutainment",
+    "subcategory": "counterintuitive discoveries",
+    "keywords": [
+      "anti-gravity liquid",
+      "defying physics",
+      "strange fluid",
+      "upward flow",
+      "scientific anomaly"
+    ],
+    "overlap_check_hash": "e835e9cc5beb03f8",
+    "why_this_can_go_viral": "Visually shocking and counterintuitive—creates immediate 'how is that possible?' reaction."
+  }
+]

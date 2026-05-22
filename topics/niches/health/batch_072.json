@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "health_0072_003_7ead09d621459a02",
+    "title": "The Dentist Who Drilled Teeth on 1,000 Healthy Patients",
+    "hook": "He convinced people they had cavities, drilled into perfectly good enamel, and billed insurance for root canals no one needed—for 15 years.",
+    "virality_score": 87,
+    "curiosity_gap_score": 84,
+    "darkness_score": 82,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "dentist fraud",
+      "unnecessary root canals",
+      "dental scam",
+      "insurance fraud",
+      "tooth drilling"
+    ],
+    "overlap_check_hash": "7ead09d621459a02",
+    "why_this_can_go_viral": "Dental anxiety is universal—this story feeds the fear that every trip to the dentist could be a trap."
+  },
+  {
+    "unique_id": "health_0072_004_235d99800e4a830a",
+    "title": "The Pharmaceutical Giant That Sold a Chemo Drug That Killed Faster Than Cancer",
+    "hook": "Clinical trials showed patients on this drug died 40% sooner than those who took nothing—yet the company marketed it as a breakthrough.",
+    "virality_score": 93,
+    "curiosity_gap_score": 90,
+    "darkness_score": 96,
+    "educational_value": 82,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "chemo drug death",
+      "drug kills faster",
+      "pharma scandal",
+      "cancer drug failure",
+      "deadly medication"
+    ],
+    "overlap_check_hash": "235d99800e4a830a",
+    "why_this_can_go_viral": "Cancer is the most feared disease—the idea that the cure is worse than the disease is a gut-punch that demands clicks."
+  },
+  {
+    "unique_id": "health_0072_005_d7d87bc2df6989df",
+    "title": "The Experiment That Froze 50 Soldiers to Death for 'Science'",
+    "hook": "Military doctors submerged healthy men in ice water to study hypothermia—and when they died, the researchers just took notes.",
+    "virality_score": 94,
+    "curiosity_gap_score": 91,
+    "darkness_score": 99,
+    "educational_value": 78,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "human freezing",
+      "military experiments",
+      "hypothermia deaths",
+      "Nazi-style tests",
+      "soldier abuse"
+    ],
+    "overlap_check_hash": "d7d87bc2df6989df",
+    "why_this_can_go_viral": "The imagery of men being slowly frozen to death while scientists watch is viscerally horrifying—perfect for dark history content."
+  },
+  {
+    "unique_id": "health_0072_006_1550149f677d4ce5",
+    "title": "The Disease Cover-Up: How Bleach Wipes Caused 30% of Asthma in Cleaners",
+    "hook": "Janitors who used standard cleaning wipes developed asthma at triple the normal rate—but manufacturers never added a warning label.",
+    "virality_score": 85,
+    "curiosity_gap_score": 82,
+    "darkness_score": 80,
+    "educational_value": 88,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "bleach wipes asthma",
+      "cleaning product danger",
+      "janitor health",
+      "chemical cover-up",
+      "occupational disease"
+    ],
+    "overlap_check_hash": "1550149f677d4ce5",
+    "why_this_can_go_viral": "Everyone uses cleaning products—this turns a routine household item into a hidden threat, sparking mass outrage."
+  },
+  {
+    "unique_id": "health_0072_007_e6f8ace54beb754a",
+    "title": "The Doctor Who Prescribed Heroin to 500 Patients for 20 Years",
+    "hook": "He called it 'legal pain management'—but he was handing out bottles of medical heroin with a smile, and the DEA looked the other way.",
+    "virality_score": 90,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "heroin prescription",
+      "doctor drug dealer",
+      "opioid crisis",
+      "medical heroin",
+      "DEA failure"
+    ],
+    "overlap_check_hash": "e6f8ace54beb754a",
+    "why_this_can_go_viral": "The opioid epidemic is a hot-button issue—this story feeds the 'doctors are dealers' narrative that drives millions of views."
+  },
+  {
+    "unique_id": "health_0072_008_382cc05bd26f4fca",
+    "title": "The Hospital That Used Homeless People as Surgical Practice",
+    "hook": "Homeless patients were brought in for 'free treatment'—but surgeons actually used their bodies to train medical students without anesthesia.",
+    "virality_score": 92,
+    "curiosity_gap_score": 88,
+    "darkness_score": 97,
+    "educational_value": 79,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "homeless surgery",
+      "surgical practice",
+      "no anesthesia",
+      "medical abuse",
+      "charity hospital scam"
+    ],
+    "overlap_check_hash": "382cc05bd26f4fca",
+    "why_this_can_go_viral": "The exploitation of the most vulnerable people triggers visceral disgust and moral outrage, guaranteeing shares."
+  },
+  {
+    "unique_id": "health_0072_009_8b3f216dc856cc93",
+    "title": "The Suppressed Cure: $1 Baking Powder Stopped 50% of Kidney Stones",
+    "hook": "A 1930s study proved that simple baking powder dissolved kidney stones in half of patients—but urologists buried the paper to protect their surgery profits.",
+    "virality_score": 89,
+    "curiosity_gap_score": 86,
+    "darkness_score": 75,
+    "educational_value": 87,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "baking powder cure",
+      "kidney stone remedy",
+      "suppressed treatment",
+      "urology scandal",
+      "inexpensive cure"
+    ],
+    "overlap_check_hash": "8b3f216dc856cc93",
+    "why_this_can_go_viral": "The 'big pharma hates cheap cures' narrative is proven again—this sparks hope, anger, and viral sharing among health-conscious users."
+  },
+  {
+    "unique_id": "health_0072_011_0ca9b7627bbc3daa",
+    "title": "The Disease Cover-Up: How Humidifiers Caused 20% of Childhood Pneumonia",
+    "hook": "Dirty humidifiers were filling bedrooms with bacteria—doctors saw the spike but blamed 'mystery viruses' instead of the machines.",
+    "virality_score": 84,
+    "curiosity_gap_score": 80,
+    "darkness_score": 78,
+    "educational_value": 86,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "humidifier danger",
+      "childhood pneumonia",
+      "bacteria in air",
+      "indoor pollution",
+      "mystery illness"
+    ],
+    "overlap_check_hash": "0ca9b7627bbc3daa",
+    "why_this_can_go_viral": "Parents are obsessed with indoor air quality—this reveals a common device as a hidden danger, triggering immediate concern."
+  },
+  {
+    "unique_id": "health_0072_013_626fa8b79722df20",
+    "title": "The Experiment That Gave 100 Cancer Patients Untreated Rabies",
+    "hook": "Doctors injected live rabies virus into terminal cancer patients hoping the fever would fight tumors—most died in agony.",
+    "virality_score": 93,
+    "curiosity_gap_score": 90,
+    "darkness_score": 99,
+    "educational_value": 77,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "rabies injection",
+      "cancer experiment",
+      "terminal patient torture",
+      "medical atrocity",
+      "virus therapy"
+    ],
+    "overlap_check_hash": "626fa8b79722df20",
+    "why_this_can_go_viral": "Rabies is 99.9% fatal—the horror of being injected with it willingly is nightmare fuel that demands to be shared."
+  },
+  {
+    "unique_id": "health_0072_015_a7b69168145fc383",
+    "title": "The Suppressed Cure: $10 Vitamin B12 Patch Reversed 40% of Alzheimer's Symptoms",
+    "hook": "A 1990s study showed B12 patches slowed memory loss dramatically—but drug companies killed the research to protect their billion-dollar dementia drugs.",
+    "virality_score": 90,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 88,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "Alzheimer's cure",
+      "B12 patch",
+      "memory loss reversal",
+      "suppressed research",
+      "pharma conspiracy"
+    ],
+    "overlap_check_hash": "a7b69168145fc383",
+    "why_this_can_go_viral": "Alzheimer's is a terrifying epidemic—any mention of a cheap cure triggers desperate hope and angry sharing."
+  },
+  {
+    "unique_id": "health_0072_016_2a1368fb7b6d6997",
+    "title": "The Doctor Who Gave 300 Premature Babies Untested Eye Drops—Blinding Them",
+    "hook": "He wanted to prevent blindness in preemies—but the dose was 50 times too high, and every single baby lost their sight permanently.",
+    "virality_score": 94,
+    "curiosity_gap_score": 91,
+    "darkness_score": 98,
+    "educational_value": 82,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "premature baby blindness",
+      "eye drop disaster",
+      "medical negligence",
+      "infant harm",
+      "clinical trial failure"
+    ],
+    "overlap_check_hash": "2a1368fb7b6d6997",
+    "why_this_can_go_viral": "Babies are the ultimate sympathy trigger—the tragedy of preventable blindness sparks outrage and massive engagement."
+  },
+  {
+    "unique_id": "health_0072_017_64948b547e12750f",
+    "title": "The FDA-Approved Nasal Spray That Caused Permanent Loss of Smell",
+    "hook": "A popular decongestant destroyed the olfactory nerves of 1 in 20 users—but the FDA never required a recall.",
+    "virality_score": 82,
+    "curiosity_gap_score": 79,
+    "darkness_score": 77,
+    "educational_value": 83,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "nasal spray danger",
+      "loss of smell",
+      "FDA recall failure",
+      "decongestant side effects",
+      "anosmia"
+    ],
+    "overlap_check_hash": "64948b547e12750f",
+    "why_this_can_go_viral": "Almost everyone uses nasal sprays—this reveals a common bathroom item as a permanent threat to a key sense."
+  },
+  {
+    "unique_id": "health_0072_018_082081bd309c0935",
+    "title": "The Pharmaceutical Giant That Sold a Diabetes Drug That Rotted Teeth",
+    "hook": "Patients on this medication reported their teeth crumbling within months—the company hid the data for 7 years before admitting it.",
+    "virality_score": 87,
+    "curiosity_gap_score": 84,
+    "darkness_score": 83,
+    "educational_value": 81,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "diabetes drug teeth",
+      "tooth decay medication",
+      "pharma cover-up",
+      "dental side effects",
+      "medication damage"
+    ],
+    "overlap_check_hash": "082081bd309c0935",
+    "why_this_can_go_viral": "Dental health is a top concern—the idea that a prescription drug is silently destroying teeth is a shocking, shareable revelation."
+  },
+  {
+    "unique_id": "health_0072_019_78cad1c96d53cc4c",
+    "title": "The Disease Cover-Up: How Scented Trash Bags Caused 20% of Sinus Infections",
+    "hook": "The fragrance chemicals in 'fresh scent' bags triggered chronic sinusitis in millions—and manufacturers never tested for indoor exposure.",
+    "virality_score": 80,
+    "curiosity_gap_score": 77,
+    "darkness_score": 75,
+    "educational_value": 85,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "scented trash bags",
+      "sinus infection cause",
+      "fragrance chemicals",
+      "indoor air pollution",
+      "hidden toxin"
+    ],
+    "overlap_check_hash": "78cad1c96d53cc4c",
+    "why_this_can_go_viral": "Everyone uses trash bags—this turns a mundane product into a health hazard, triggering household paranoia."
+  },
+  {
+    "unique_id": "health_0072_020_85d32ed49400d8be",
+    "title": "The Experiment That Gave 200 Children Radioactive Milk for Breakfast",
+    "hook": "Scientists fed kids breakfast cereal laced with radioactive isotopes to track calcium absorption—and told parents it was 'vitamins'.",
+    "virality_score": 95,
+    "curiosity_gap_score": 92,
+    "darkness_score": 97,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "radioactive children",
+      "breakfast experiment",
+      "radiation poisoning",
+      "child research",
+      "ethical violation"
+    ],
+    "overlap_check_hash": "85d32ed49400d8be",
+    "why_this_can_go_viral": "Children being fed radioactivity is pure horror—the betrayal of trust and health risk makes it an instant viral bomb."
+  },
+  {
+    "unique_id": "health_0072_021_28427f2a4154934f",
+    "title": "The Hospital That Faked 1,000 Emergency Room Visits for Insurance Fraud",
+    "hook": "Staff created fake patients, fake injuries, and fake treatments to bill Medicaid millions—while real patients waited hours in the lobby.",
+    "virality_score": 85,
+    "curiosity_gap_score": 82,
+    "darkness_score": 84,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "ER fraud",
+      "fake patients",
+      "Medicaid scam",
+      "hospital corruption",
+      "insurance fraud"
+    ],
+    "overlap_check_hash": "28427f2a4154934f",
+    "why_this_can_go_viral": "Healthcare fraud enrages everyone—the idea that hospitals prioritize billing over saving lives fuels system distrust."
+  },
+  {
+    "unique_id": "health_0072_023_e08751cc5a8b3dcf",
+    "title": "The Toxic Carpet Shampoo That Gave 1 in 3 Pets Chronic Liver Failure",
+    "hook": "Carpet cleaning chemicals were harmless to humans—but dogs and cats licked residue off the floor and died within weeks.",
+    "virality_score": 91,
+    "curiosity_gap_score": 88,
+    "darkness_score": 89,
+    "educational_value": 84,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "carpet cleaner pet death",
+      "toxic to dogs",
+      "liver failure pet",
+      "cleaning product danger",
+      "pet poison"
+    ],
+    "overlap_check_hash": "e08751cc5a8b3dcf",
+    "why_this_can_go_viral": "Pet owners are fiercely protective—this story triggers immediate fear for furry family members, driving massive shares in pet communities."
+  },
+  {
+    "unique_id": "health_0072_024_acca894232f55150",
+    "title": "The Doctor Who Transplanted 50 Animal Organs into Humans—Without Permission",
+    "hook": "He removed a pig's heart and sewed it into a dying man's chest in a secret surgery—the patient woke up screaming.",
+    "virality_score": 97,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 79,
+    "estimated_short_retention": 96,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "animal organ transplant",
+      "pig heart human",
+      "secret surgery",
+      "xenotransplantation",
+      "mad doctor"
+    ],
+    "overlap_check_hash": "acca894232f55150",
+    "why_this_can_go_viral": "The surreal horror of animal organs inside human bodies is so shocking that viewers cannot scroll past—perfect dark mythos content."
+  }
+]

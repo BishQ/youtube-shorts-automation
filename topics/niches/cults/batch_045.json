@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "cults_0045_001_912813a3c1246f54",
+    "title": "The Cult That Programmed Members to Die From Joy",
+    "hook": "Doctors found no poison in their bodies—only a neural pathway triggered by ecstasy that shut down their hearts on command.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "cults",
+    "subcategory": "mass suicide psychology",
+    "keywords": [
+      "mass suicide",
+      "neural programming",
+      "death from joy",
+      "cult control",
+      "fatal ecstasy"
+    ],
+    "overlap_check_hash": "912813a3c1246f54",
+    "why_this_can_go_viral": "The paradox of death-by-joy is deeply unsettling and scientifically puzzling, triggering immediate curiosity and shareability."
+  },
+  {
+    "unique_id": "cults_0045_002_36de370d583f9bc3",
+    "title": "The Escapee Who Fled by Breaking the Leader's 'Mind Lock'",
+    "hook": "He realized the cult leader had planted a mental trigger word in his subconscious—and spent two years building a counter-trigger.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "cults",
+    "subcategory": "escaping cults",
+    "keywords": [
+      "mind control",
+      "trigger word",
+      "escaping cults",
+      "subconscious programming",
+      "counter-trigger"
+    ],
+    "overlap_check_hash": "36de370d583f9bc3",
+    "why_this_can_go_viral": "The concept of a mental 'lock' that controls behavior feels like sci-fi horror, but it's real—viewers will want to understand the mechanics."
+  },
+  {
+    "unique_id": "cults_0045_003_0252a9df86b84cb2",
+    "title": "The Online Cult That 'Degraded' Members by Selling Their Sleep Data",
+    "hook": "They tracked when you slept, when you dreamed, and sold that vulnerability window to advertisers who knew exactly when to target you.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "cults",
+    "subcategory": "online cult radicalization",
+    "keywords": [
+      "sleep tracking",
+      "data exploitation",
+      "online cult",
+      "ad targeting",
+      "vulnerability window"
+    ],
+    "overlap_check_hash": "0252a9df86b84cb2",
+    "why_this_can_go_viral": "Combines privacy horror with psychological manipulation in a relatable way—everyone sleeps, and the idea of selling that data feels invasive."
+  },
+  {
+    "unique_id": "cults_0045_005_bb5ae6f767aea120",
+    "title": "The Cult That Made Members 'Sacrifice' Their Sleep for the Leader",
+    "hook": "Sleep deprivation was a feature, not a bug—members who stayed awake longer were 'more holy,' and their hallucinations became loyalty tests.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "cults",
+    "subcategory": "brainwashing techniques",
+    "keywords": [
+      "sleep deprivation",
+      "hallucination control",
+      "loyalty tests",
+      "brainwashing",
+      "sleep sacrifice"
+    ],
+    "overlap_check_hash": "bb5ae6f767aea120",
+    "why_this_can_go_viral": "Sleep deprivation is universally understood as torture; framing it as a spiritual test for a cult leader is deeply disturbing and shareable."
+  },
+  {
+    "unique_id": "cults_0045_007_98e1409822783f00",
+    "title": "The Online Cult That Turned Members Into 'Debt Slaves' With Fake Loans",
+    "hook": "They made you take out real loans with real interest, then forgave the debt if you recruited—recruit or drown in payments forever.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "cults",
+    "subcategory": "financial cult exploitation",
+    "keywords": [
+      "debt slavery",
+      "fake loans",
+      "financial cult",
+      "recruitment trap",
+      "loan forgiveness"
+    ],
+    "overlap_check_hash": "98e1409822783f00",
+    "why_this_can_go_viral": "Financial exploitation is relatable in a debt-ridden world; the twist of using loans as control mechanisms is both modern and terrifying."
+  },
+  {
+    "unique_id": "cults_0045_009_75d5f4dd42161531",
+    "title": "The Cult Leader Who Controlled Followers Through 'Voice Fingerprints'",
+    "hook": "He recorded his voice saying specific commands, then played them at frequencies that bypassed critical thinking and triggered obedience.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 84,
+    "educational_value": 77,
+    "estimated_short_retention": 85,
+    "niche_name": "cults",
+    "subcategory": "cult leader manipulation",
+    "keywords": [
+      "voice control",
+      "frequency manipulation",
+      "critical thinking bypass",
+      "voice fingerprint",
+      "auditory cult"
+    ],
+    "overlap_check_hash": "75d5f4dd42161531",
+    "why_this_can_go_viral": "The idea of a voice that can literally bypass your rational mind feels like a Black Mirror episode—but it's real, and that's shareable."
+  },
+  {
+    "unique_id": "cults_0045_010_eadc37de7452be00",
+    "title": "The Escapee Who Fled by Exploiting the Cult's 'Sin Database' Loophole",
+    "hook": "The leader tracked every 'sin' in a secret database—until one member realized they could commit 'forgiven' sins that the database couldn't record.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 73,
+    "estimated_short_retention": 86,
+    "niche_name": "cults",
+    "subcategory": "escaping cults",
+    "keywords": [
+      "sin database",
+      "tracking loophole",
+      "escaping cults",
+      "forgiven sins",
+      "data exploit"
+    ],
+    "overlap_check_hash": "eadc37de7452be00",
+    "why_this_can_go_viral": "The combination of surveillance horror and a clever escape loophole is both satisfying and chilling—viewers love 'how to beat the system' stories."
+  },
+  {
+    "unique_id": "cults_0045_011_e8fdaa6581c68cc6",
+    "title": "The Online Cult That 'Verified' Loyalty by Scanning Brainwaves",
+    "hook": "They used cheap EEG headsets to measure your reaction to the leader's face—if your brain didn't 'light up,' you were expelled.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 79,
+    "estimated_short_retention": 88,
+    "niche_name": "cults",
+    "subcategory": "online cult radicalization",
+    "keywords": [
+      "brainwave scanning",
+      "EEG loyalty test",
+      "online cult",
+      "neural verification",
+      "expulsion risk"
+    ],
+    "overlap_check_hash": "e8fdaa6581c68cc6",
+    "why_this_can_go_viral": "Brainwave surveillance is a sci-fi concept becoming real—viewers will be fascinated and horrified by the privacy implications."
+  },
+  {
+    "unique_id": "cults_0045_012_166864971db55fa7",
+    "title": "The Cult That Programmed Members to Fear Their Own Reflection",
+    "hook": "The leader convinced them their reflection was a 'trapped soul'—so they avoided mirrors, brushed teeth blind, and never saw themselves age.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 69,
+    "estimated_short_retention": 87,
+    "niche_name": "cults",
+    "subcategory": "identity destruction methods",
+    "keywords": [
+      "reflection fear",
+      "self-image destruction",
+      "mirror avoidance",
+      "cult programming",
+      "identity loss"
+    ],
+    "overlap_check_hash": "166864971db55fa7",
+    "why_this_can_go_viral": "The idea of fearing your own reflection is primal and visually striking—perfect for short-form video with high shareability."
+  },
+  {
+    "unique_id": "cults_0045_013_63aebbb5775dc198",
+    "title": "The Cult Doctor Who 'Cured' Grief by Inducing Selective Amnesia",
+    "hook": "He targeted the hippocampus with low-level electric shocks to erase specific memories—patients forgot their loved ones, but not the leader.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 93,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "cults",
+    "subcategory": "brainwashing techniques",
+    "keywords": [
+      "selective amnesia",
+      "electric shock",
+      "memory erasure",
+      "grief cure",
+      "hippocampus targeting"
+    ],
+    "overlap_check_hash": "63aebbb5775dc198",
+    "why_this_can_go_viral": "The horror of forgetting loved ones while remembering the cult leader is deeply emotional and unsettling—perfect for dark documentary style."
+  },
+  {
+    "unique_id": "cults_0045_014_c0bc62ba62bc532f",
+    "title": "The Cult That Made Members 'Donate' Their Birthdays to the Leader",
+    "hook": "Once you gave up your birthday, you could never celebrate it again—and the leader used the date to perform 'rebirth' rituals on you.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 86,
+    "educational_value": 66,
+    "estimated_short_retention": 83,
+    "niche_name": "cults",
+    "subcategory": "identity destruction methods",
+    "keywords": [
+      "birthday donation",
+      "rebirth ritual",
+      "identity erasure",
+      "cult control",
+      "date surrender"
+    ],
+    "overlap_check_hash": "c0bc62ba62bc532f",
+    "why_this_can_go_viral": "Birthdays are universally personal; the idea of surrendering that marker of self is a simple, relatable horror that viewers will share."
+  },
+  {
+    "unique_id": "cults_0045_015_4414764edb0dcdcf",
+    "title": "The Online Cult That 'Exiled' Members by Reversing Their Search History",
+    "hook": "They took your 10 years of searches, reversed the chronology, and published it as a 'life story' your employer and family could see.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 77,
+    "estimated_short_retention": 85,
+    "niche_name": "cults",
+    "subcategory": "online cult radicalization",
+    "keywords": [
+      "search history doxxing",
+      "online exile",
+      "reverse chronology",
+      "digital reputation",
+      "cult revenge"
+    ],
+    "overlap_check_hash": "4414764edb0dcdcf",
+    "why_this_can_go_viral": "Everyone has a search history they don't want reversed—the idea of weaponizing it for exile is modern, relatable, and terrifying."
+  },
+  {
+    "unique_id": "cults_0045_017_7f87eee2537cdf6a",
+    "title": "The Mass Suicide Where They Drank 'Frozen Light' to Reach Eternity",
+    "hook": "They believed the liquid would crystallize their souls—but it crystallized their blood, killing them in a state of frozen ecstasy.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 94,
+    "educational_value": 69,
+    "estimated_short_retention": 88,
+    "niche_name": "cults",
+    "subcategory": "mass suicide psychology",
+    "keywords": [
+      "frozen light",
+      "blood crystallization",
+      "mass suicide",
+      "frozen ecstasy",
+      "eternity drink"
+    ],
+    "overlap_check_hash": "7f87eee2537cdf6a",
+    "why_this_can_go_viral": "Poetic and grotesque imagery of 'frozen light' combined with medical horror makes this unforgettable and highly shareable."
+  },
+  {
+    "unique_id": "cults_0045_018_446608b89ff94b7a",
+    "title": "The Escapee Who Fled by Faking a 'Spiritual Upgrade' the Leader Feared",
+    "hook": "She pretended to be 'ascending' faster than the leader—so he tried to contain her, but she used his fear of being dethroned to escape.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 71,
+    "estimated_short_retention": 85,
+    "niche_name": "cults",
+    "subcategory": "escaping cults",
+    "keywords": [
+      "spiritual upgrade",
+      "dethroning fear",
+      "escape strategy",
+      "cult psychology",
+      "ascension fake"
+    ],
+    "overlap_check_hash": "446608b89ff94b7a",
+    "why_this_can_go_viral": "The psychological chess game of pretending to out-holy the leader is a clever, satisfying twist that viewers will love."
+  },
+  {
+    "unique_id": "cults_0045_020_dd96103a0075b14c",
+    "title": "The Online Cult That 'Rewarded' Members by Deleting Their Worst Memories",
+    "hook": "They used therapeutic techniques to 'delete' traumatic memories—then charged members to get them back, holding their pasts hostage.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 89,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "cults",
+    "subcategory": "online cult radicalization",
+    "keywords": [
+      "memory deletion",
+      "trauma hostage",
+      "therapeutic manipulation",
+      "memory ransom",
+      "online cult"
+    ],
+    "overlap_check_hash": "dd96103a0075b14c",
+    "why_this_can_go_viral": "The idea of your own memories being held for ransom is deeply personal and terrifying—viewers will imagine their own worst memories being weaponized."
+  },
+  {
+    "unique_id": "cults_0045_021_920d1dd320958051",
+    "title": "The Cult Doctor Who 'Cured' Paranoia by Making Members Trust Only Him",
+    "hook": "He systematically exposed them to fake betrayals by everyone they loved—until the only person they could trust was the leader.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 73,
+    "estimated_short_retention": 89,
+    "niche_name": "cults",
+    "subcategory": "identity destruction methods",
+    "keywords": [
+      "trust destruction",
+      "fake betrayals",
+      "isolation method",
+      "paranoia cure",
+      "leader dependency"
+    ],
+    "overlap_check_hash": "920d1dd320958051",
+    "why_this_can_go_viral": "The deliberate, surgical destruction of all trust is deeply psychological horror—viewers will be both fascinated and repulsed."
+  },
+  {
+    "unique_id": "cults_0045_023_f911030e64302971",
+    "title": "The Leader Who Made Followers 'Donate' Their Fear of Death as a Tax",
+    "hook": "He convinced them that fearing death was a 'spiritual debt'—so they paid monthly to have the fear removed, never realizing he was the cause.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 87,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "cults",
+    "subcategory": "financial cult exploitation",
+    "keywords": [
+      "fear of death",
+      "spiritual tax",
+      "financial exploitation",
+      "death fear removal",
+      "cult debt"
+    ],
+    "overlap_check_hash": "f911030e64302971",
+    "why_this_can_go_viral": "The phrase 'fear of death tax' is instantly clickable—combining existential dread with financial exploitation makes for high engagement."
+  },
+  {
+    "unique_id": "cults_0045_024_f58ad8692506995d",
+    "title": "The Mass Suicide Where They Drank 'Eternal Ink' to Stain Their Souls",
+    "hook": "They believed the ink would mark them for the afterlife—instead, it clogged their kidneys and lungs, drowning them from within.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 93,
+    "educational_value": 69,
+    "estimated_short_retention": 87,
+    "niche_name": "cults",
+    "subcategory": "mass suicide psychology",
+    "keywords": [
+      "eternal ink",
+      "soul staining",
+      "organ failure",
+      "mass suicide",
+      "ink poisoning"
+    ],
+    "overlap_check_hash": "f58ad8692506995d",
+    "why_this_can_go_viral": "The poetic horror of 'eternal ink' combined with the medical reality of drowning in your own fluids is visceral and unforgettable."
+  },
+  {
+    "unique_id": "cults_0045_025_0ae9c87b10a85d65",
+    "title": "The Escapee Who Fled by Using the Cult's 'Obedience Test' Against the Guards",
+    "hook": "She memorized the leader's secret 'obedience triggers'—then shouted them at the guards, who dropped their weapons and obeyed her instead.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 73,
+    "estimated_short_retention": 87,
+    "niche_name": "cults",
+    "subcategory": "escaping cults",
+    "keywords": [
+      "obedience triggers",
+      "escape strategy",
+      "cult guards",
+      "reverse control",
+      "psychological escape"
+    ],
+    "overlap_check_hash": "0ae9c87b10a85d65",
+    "why_this_can_go_viral": "The idea of weaponizing the cult's own control system against them is deeply satisfying and clever—viewers love 'turnabout is fair play' stories."
+  }
+]

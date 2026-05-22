@@ -1,0 +1,44 @@
+[
+  {
+    "unique_id": "crime_0140_024_a72974f2729a17fe",
+    "title": "The Heist Where Thieves Stole a 'Seismograph'—to Fake an Earthquake and Empty the City",
+    "hook": "They didn't need guns—they needed a fake tremor. The whole city evacuated, and they walked into every empty bank.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "seismograph heist",
+      "fake earthquake",
+      "city evacuation",
+      "bank robbery",
+      "scientific crime"
+    ],
+    "overlap_check_hash": "a72974f2729a17fe",
+    "why_this_can_go_viral": "The use of science to commit a crime is both brilliant and terrifying—a perfect blend of intelligence and darkness."
+  },
+  {
+    "unique_id": "crime_0140_025_dc85e10a4b7bbc3e",
+    "title": "The Unsolved Murder Where the Victim Was Found in a 'Room Inside a Room'—Built After They Died",
+    "hook": "The body was sealed in a hidden chamber—but the walls were built around them, meaning the killer was still there when the police arrived.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 97,
+    "educational_value": 60,
+    "estimated_short_retention": 94,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "hidden room",
+      "body sealed",
+      "killer present",
+      "architectural crime",
+      "unsolved mystery"
+    ],
+    "overlap_check_hash": "dc85e10a4b7bbc3e",
+    "why_this_can_go_viral": "The idea that the killer was on-site, possibly watching the investigation, is spine-chilling and creates endless speculation."
+  }
+]

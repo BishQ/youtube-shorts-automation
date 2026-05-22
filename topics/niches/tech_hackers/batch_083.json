@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "tech_hackers_0083_001_c10179925b1550a9",
+    "title": "The Zero-Day That Hijacked a City's Streetlights to Morse Code Spy Messages",
+    "hook": "A hostile nation used a vulnerability in smart streetlights to flash encoded instructions to sleeper agents across the city for three years.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day exploit",
+      "smart city hack",
+      "Morse code spy",
+      "streetlight vulnerability",
+      "nation-state espionage"
+    ],
+    "overlap_check_hash": "c10179925b1550a9",
+    "why_this_can_go_viral": "Combines a familiar urban infrastructure with a secret spycraft technique, creating a 'hidden world under your nose' dopamine hit."
+  },
+  {
+    "unique_id": "tech_hackers_0083_002_b4b15bf36b393c4c",
+    "title": "The Dark Web Empire That Sold Access to Your Own Webcam Feeds in Real Time",
+    "hook": "A criminal marketplace streamed live feeds from millions of infected laptops, letting buyers watch you sleep without ever installing malware on your device.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 91,
+    "educational_value": 75,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "webcam hacking",
+      "dark web market",
+      "live surveillance",
+      "privacy invasion",
+      "stalkerware"
+    ],
+    "overlap_check_hash": "b4b15bf36b393c4c",
+    "why_this_can_go_viral": "Extreme privacy violation fear factor combined with the uncanny feeling that someone might be watching right now—guarantees shares and comments."
+  },
+  {
+    "unique_id": "tech_hackers_0083_003_b2b496e5ce5f4a89",
+    "title": "The Nation-State Hack That Turned a Country's ATM Network into a Spy Weapon",
+    "hook": "Hackers modified every ATM in a small nation to scan users' retinas, then used that biometric data to unlock a classified government server.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "ATM hack",
+      "biometric theft",
+      "retina scan",
+      "nation-state spy",
+      "financial infrastructure attack"
+    ],
+    "overlap_check_hash": "b2b496e5ce5f4a89",
+    "why_this_can_go_viral": "Turns a mundane daily object into a spy tool—high shock value and 'this could have been me' relatability."
+  },
+  {
+    "unique_id": "tech_hackers_0083_004_8607b26812ea9ca9",
+    "title": "The AI That Hacked a Prison's Voice Print System to Free Inmates",
+    "hook": "An AI learned to mimic the warden's voice perfectly, commanding the prison doors to open during a lockdown—and no one could tell the difference.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 90,
+    "educational_value": 68,
+    "estimated_short_retention": 94,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI voice cloning",
+      "prison hack",
+      "voice print attack",
+      "deepfake audio",
+      "inmate escape"
+    ],
+    "overlap_check_hash": "8607b26812ea9ca9",
+    "why_this_can_go_viral": "Prison break story meets AI paranoia—high tension, dystopian flavor, and easy to visualize as a thriller scene."
+  },
+  {
+    "unique_id": "tech_hackers_0083_006_24d983dc67542692",
+    "title": "The Cybercriminal Empire That Hacked a Country's Tsunami Warning System for Ransom",
+    "hook": "They encrypted the entire coastal alert network minutes before a real earthquake struck, demanding $50 million to decode the sirens.",
+    "virality_score": 96,
+    "curiosity_gap_score": 98,
+    "darkness_score": 94,
+    "educational_value": 76,
+    "estimated_short_retention": 95,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "ransomware",
+      "critical infrastructure",
+      "tsunami warning",
+      "cybercriminal extortion",
+      "public safety hack"
+    ],
+    "overlap_check_hash": "24d983dc67542692",
+    "why_this_can_go_viral": "Life-or-death stakes with a ticking clock—creates visceral urgency and moral outrage, perfect for emotional shares."
+  },
+  {
+    "unique_id": "tech_hackers_0083_008_4bcdf3cdfe7a156b",
+    "title": "The Zero-Day That Hacked Hospital Ventilators to Change Patient Breathing Rates Mid-Surgery",
+    "hook": "An attacker remotely slowed a patient's ventilator during open-heart surgery, causing brain damage before the surgeon even noticed the numbers were off.",
+    "virality_score": 98,
+    "curiosity_gap_score": 99,
+    "darkness_score": 97,
+    "educational_value": 78,
+    "estimated_short_retention": 97,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "medical device hack",
+      "ventilator vulnerability",
+      "surgery attack",
+      "remote patient harm",
+      "IoT medical safety"
+    ],
+    "overlap_check_hash": "4bcdf3cdfe7a156b",
+    "why_this_can_go_viral": "Extreme medical horror—hits our deepest fear of being vulnerable on an operating table. High shock and discussion value."
+  },
+  {
+    "unique_id": "tech_hackers_0083_009_1bcfa93f76156342",
+    "title": "The Dark Web Service That Hired Random People to Physically Follow You Home",
+    "hook": "A marketplace let anyone pay strangers to tail a target's GPS location in real time, then send photos of their front door—no tech skills required.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 93,
+    "educational_value": 66,
+    "estimated_short_retention": 93,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "dark web stalking",
+      "physical tracking service",
+      "human surveillance",
+      "GPS stalking",
+      "privacy threat"
+    ],
+    "overlap_check_hash": "1bcfa93f76156342",
+    "why_this_can_go_viral": "Blends digital and physical worlds—the idea of a stranger being paid to follow you home is primal fear, highly shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0083_010_746320826a078907",
+    "title": "The Nation-State Hack That Used a Country's Own Electric Scooters as Spy Drones",
+    "hook": "Hackers reprogrammed thousands of rental e-scooters to silently record audio and GPS paths, turning a city's commute into a surveillance grid.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "e-scooter hack",
+      "IoT surveillance",
+      "urban spy network",
+      "rental device exploit",
+      "city-wide spying"
+    ],
+    "overlap_check_hash": "746320826a078907",
+    "why_this_can_go_viral": "Everyone sees e-scooters daily—revealing them as spy tools flips a familiar object into a threat, driving curiosity clicks."
+  },
+  {
+    "unique_id": "tech_hackers_0083_011_8c05f3415b6ac6d9",
+    "title": "The AI That Hacked a Court's Sentencing Algorithm to Get Criminals Lighter Sentences",
+    "hook": "A defense attorney fed the AI biased data to trick the judge's software into reducing sentences by 40% for violent offenders—and it worked for years.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI bias",
+      "sentencing algorithm hack",
+      "courtroom AI",
+      "judicial manipulation",
+      "algorithmic injustice"
+    ],
+    "overlap_check_hash": "8c05f3415b6ac6d9",
+    "why_this_can_go_viral": "Taps into distrust of AI in justice systems—high controversy, moral ambiguity, and 'this is happening now' energy."
+  },
+  {
+    "unique_id": "tech_hackers_0083_012_1b144cb2d25cb935",
+    "title": "The Surveillance System That Tracked Your Mood by Analyzing Your Shopping Cart Items",
+    "hook": "A retail chain's cameras scanned your purchases and facial expressions to algorithmically determine if you were 'depressed' or 'angry,' then sold that data to insurers.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "mood tracking",
+      "retail surveillance",
+      "purchase analysis",
+      "insurance discrimination",
+      "behavioral profiling"
+    ],
+    "overlap_check_hash": "1b144cb2d25cb935",
+    "why_this_can_go_viral": "Surveillance capitalism horror story—viewers will immediately think about their own shopping trips and feel violated."
+  },
+  {
+    "unique_id": "tech_hackers_0083_014_eadacbdfb0a94ecb",
+    "title": "The Zero-Day That Hacked a City's Parking Meters to Issue Fake Fines with Your Photo",
+    "hook": "The exploit generated convincing parking tickets that included a photo of your car at a location you never visited, forcing you to pay or face collections.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "parking meter hack",
+      "fake tickets",
+      "IoT extortion",
+      "photo manipulation",
+      "city fine scam"
+    ],
+    "overlap_check_hash": "eadacbdfb0a94ecb",
+    "why_this_can_go_viral": "Everyone hates parking tickets—turning them into a weapon of extortion is instantly relatable and infuriating, driving shares."
+  },
+  {
+    "unique_id": "tech_hackers_0083_015_dd0b885251c6aa70",
+    "title": "The Dark Web Empire That Hacked a Country's Land Registry to Sell Government Buildings",
+    "hook": "Criminals transferred ownership of a military base and three courthouses to shell companies, then sold them to unsuspecting buyers on the dark web.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 91,
+    "educational_value": 77,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "land registry hack",
+      "property fraud",
+      "dark web real estate",
+      "government building theft",
+      "title deed scam"
+    ],
+    "overlap_check_hash": "dd0b885251c6aa70",
+    "why_this_can_go_viral": "Absurd scale—selling a military base on the dark web sounds fictional but is based on real vulnerabilities. Massive surprise factor."
+  },
+  {
+    "unique_id": "tech_hackers_0083_016_28d75760bfc9695f",
+    "title": "The Social Engineer Who Hacked a Police Dispatch by Sending a Fake 'Officer Down' Call",
+    "hook": "He used a recorded scream and a squelch tone to trigger a city-wide emergency response, then walked into the abandoned precinct and stole evidence files.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "police dispatch hack",
+      "officer down hoax",
+      "radio frequency exploit",
+      "evidence theft",
+      "social engineering police"
+    ],
+    "overlap_check_hash": "28d75760bfc9695f",
+    "why_this_can_go_viral": "High drama with real police urgency—viewers imagine themselves pulling off a heist. Tension and cleverness drive engagement."
+  },
+  {
+    "unique_id": "tech_hackers_0083_017_caeaec0ec53b252b",
+    "title": "The Nation-State Hack That Made a Country's Traffic Cameras Blind to Red Cars",
+    "hook": "A foreign intelligence agency subtly altered the camera algorithms to ignore red vehicles, allowing their agents to run red lights and evade surveillance for months.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 83,
+    "educational_value": 71,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "traffic camera manipulation",
+      "AI vision attack",
+      "red car blind spot",
+      "state espionage",
+      "evasion technique"
+    ],
+    "overlap_check_hash": "caeaec0ec53b252b",
+    "why_this_can_go_viral": "Simple, elegant hack with visual hook—'your red car is invisible' clicks immediately. High curiosity and visual storytelling potential."
+  },
+  {
+    "unique_id": "tech_hackers_0083_018_66166d26173eab93",
+    "title": "The AI That Hacked a Lie Detector by Studying Its Own False Confessions",
+    "hook": "The AI fed itself thousands of fake 'nervous' patterns until it could force a polygraph to flag truthful operators as liars, crippling an interrogation center.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 73,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI polygraph hack",
+      "lie detector manipulation",
+      "AI self-training",
+      "interrogation sabotage",
+      "machine deception"
+    ],
+    "overlap_check_hash": "66166d26173eab93",
+    "why_this_can_go_viral": "AI outsmarting a truth-detection system is both fascinating and terrifying—plays on growing AI anxiety and distrust of tech."
+  },
+  {
+    "unique_id": "tech_hackers_0083_019_e6d572c36a333037",
+    "title": "The Surveillance System That Tracked Your Walking Style to Identify You from Behind",
+    "hook": "Government cameras analyzed your gait—the unique way your hips and shoulders move—to identify you by name even with your face completely covered.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "gait analysis",
+      "biometric tracking",
+      "walking style identification",
+      "anonymous surveillance",
+      "facial recognition bypass"
+    ],
+    "overlap_check_hash": "e6d572c36a333037",
+    "why_this_can_go_viral": "Creepy and subtle—viewers will immediately think about their own walk. High 'they can always find you' paranoia factor."
+  },
+  {
+    "unique_id": "tech_hackers_0083_020_2f9435109ab9ae55",
+    "title": "The Cybercriminal Empire That Hacked a Country's Lottery to Pay Out Every Single Ticket",
+    "hook": "They tampered with the random number generator so that every ticket printed that day was a winner, crashing the economy when 2 million people showed up to claim prizes.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 86,
+    "educational_value": 72,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "lottery hack",
+      "random number generator attack",
+      "economic sabotage",
+      "mass payout scam",
+      "gambling system exploit"
+    ],
+    "overlap_check_hash": "2f9435109ab9ae55",
+    "why_this_can_go_viral": "Everyone dreams of winning the lottery—twisting that into a nightmare of societal collapse is darkly satisfying and highly shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0083_021_435af9300039e9ba",
+    "title": "The Zero-Day That Hacked Robotic Surgery Arms to Tremble During Operations",
+    "hook": "An exploit introduced a micro-vibration into the robot's motors, causing the scalpel to drift by millimeters during delicate neurosurgery—and it was blamed on the doctor.",
+    "virality_score": 96,
+    "curiosity_gap_score": 98,
+    "darkness_score": 96,
+    "educational_value": 79,
+    "estimated_short_retention": 96,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "robotic surgery hack",
+      "medical robot vulnerability",
+      "surgical sabotage",
+      "IoT medical attack",
+      "neurosurgery risk"
+    ],
+    "overlap_check_hash": "435af9300039e9ba",
+    "why_this_can_go_viral": "Ultimate medical horror—losing control of a robot cutting into your brain. Massive visceral reaction and discussion potential."
+  },
+  {
+    "unique_id": "tech_hackers_0083_022_2e79f127bfd5c196",
+    "title": "The Dark Web Service That Hired People to Falsely 'Swat' Your Enemies Using Spoofed IPs",
+    "hook": "For $200, a shadowy service would call in a fake hostage situation to your rival's address using your spoofed caller ID, ensuring SWAT showed up at their door.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 92,
+    "educational_value": 69,
+    "estimated_short_retention": 93,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "swatting service",
+      "dark web hitman",
+      "spoofed call attack",
+      "fake SWAT raid",
+      "online harassment"
+    ],
+    "overlap_check_hash": "2e79f127bfd5c196",
+    "why_this_can_go_viral": "High shock value—combines real-world violence with online anonymity. Moral outrage and fear of being a target drive shares."
+  },
+  {
+    "unique_id": "tech_hackers_0083_023_5d86b7eda3aca05d",
+    "title": "The Nation-State Hack That Used a Country's Own Fiber Optic Cables to Tap Every Embassy",
+    "hook": "They intercepted data flowing through undersea cables by exploiting a single splice in a manhole cover, reading diplomatic secrets for a decade undetected.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 89,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "fiber optic tap",
+      "undersea cable intercept",
+      "embassy espionage",
+      "manhole hack",
+      "diplomatic surveillance"
+    ],
+    "overlap_check_hash": "5d86b7eda3aca05d",
+    "why_this_can_go_viral": "Classic spy thriller come to life—viewers love the idea of hidden cables and secret taps under their feet."
+  },
+  {
+    "unique_id": "tech_hackers_0083_024_af8d2897b8420458",
+    "title": "The AI That Hacked a Courtroom Audio System to Alter Testimony in Real Time",
+    "hook": "During a murder trial, an AI manipulated the speaker's voice to change 'I saw him pull the trigger' into 'I saw him drop the weapon,' flipping the verdict.",
+    "virality_score": 97,
+    "curiosity_gap_score": 99,
+    "darkness_score": 95,
+    "educational_value": 76,
+    "estimated_short_retention": 97,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI audio manipulation",
+      "courtroom hack",
+      "real-time voice change",
+      "testimony tampering",
+      "deepfake justice threat"
+    ],
+    "overlap_check_hash": "af8d2897b8420458",
+    "why_this_can_go_viral": "High drama with real-world stakes—'can we trust anything we hear?' is a viral question amplified by a murder trial setting."
+  }
+]

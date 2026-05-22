@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "health_0108_001_1890422185951282",
+    "title": "The Doctor Who Painted 300 Patients' Bones with Battery Acid for X-Rays",
+    "hook": "A radiologist decided to 'enhance' X-ray contrast by injecting industrial battery acid directly into patients' bone marrow for over a decade.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "battery acid x-rays",
+      "bone marrow injection",
+      "radiologist crime",
+      "medical horror",
+      "patient torture"
+    ],
+    "overlap_check_hash": "1890422185951282",
+    "why_this_can_go_viral": "Extreme body horror combined with a trusted authority figure committing atrocity under the guise of medical progress triggers visceral disgust and outrage."
+  },
+  {
+    "unique_id": "health_0108_004_f5afab2135923af6",
+    "title": "The Hospital That Stored Bodies in the Morgue Next to Fresh Food for 20 Years",
+    "hook": "An audit revealed a major hospital stored decomposing corpses in the same refrigerated room used for patient meals—for two decades, serving 50,000 meals.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "hospital morgue food",
+      "corpse storage crime",
+      "health inspection horror",
+      "contaminated meals",
+      "hospital negligence"
+    ],
+    "overlap_check_hash": "f5afab2135923af6",
+    "why_this_can_go_viral": "Visual juxtaposition of dead bodies and food is inherently disgusting and memorable, driving shares for shock value."
+  },
+  {
+    "unique_id": "health_0108_005_db94d0548accc444",
+    "title": "The Dentist Who Replaced 200 Patients' Teeth with Cement",
+    "hook": "A dentist used quick-dry construction cement instead of dental composite to save $4 per patient, leaving 200 people with fused jaws and chronic infections.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "cement teeth dentist",
+      "dental fraud",
+      "jaw fusion",
+      "fake dentist",
+      "dental horror"
+    ],
+    "overlap_check_hash": "db94d0548accc444",
+    "why_this_can_go_viral": "Dental anxiety is universal; learning a dentist used literal construction materials triggers fear and morbid curiosity."
+  },
+  {
+    "unique_id": "health_0108_007_1c1fa2cb5c67bdc4",
+    "title": "How 'Lupus' Was Actually a Preservative in Canned Soup for 40 Years",
+    "hook": "A massive spike in lupus cases across three continents was traced back to a single chemical preservative—still used in canned soup today.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 80,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "lupus cause canned soup",
+      "preservative disease",
+      "autoimmune cover-up",
+      "food chemical",
+      "lupus epidemic"
+    ],
+    "overlap_check_hash": "1c1fa2cb5c67bdc4",
+    "why_this_can_go_viral": "Autoimmune disease sufferers actively search for causes; linking a common pantry staple to a chronic illness drives massive engagement and anger."
+  },
+  {
+    "unique_id": "health_0108_008_7e43b51b927f2e51",
+    "title": "The Doctor Who Injected 100 Babies with Cow's Blood to 'Prevent Anemia'",
+    "hook": "A respected pediatrician believed cow blood could boost infant iron levels—he injected 100 newborns with raw bovine blood, killing 14 within 48 hours.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 68,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "cow blood injection babies",
+      "infant death",
+      "pediatrician crime",
+      "anemia treatment horror",
+      "medical experiment"
+    ],
+    "overlap_check_hash": "7e43b51b927f2e51",
+    "why_this_can_go_viral": "Babies, animal blood, and a trusted authority figure combine into an emotionally devastating story that demands to be shared."
+  },
+  {
+    "unique_id": "health_0108_009_0f1af7b68ed19cbf",
+    "title": "The FDA-Approved Antidepressant That Melted Patients' Corneas",
+    "hook": "A blockbuster antidepressant caused patients' corneas to dissolve from the inside out while they were awake—and the FDA knew for four years before acting.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 74,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "antidepressant blindness",
+      "cornea melt",
+      "FDA delay",
+      "SSRI side effect",
+      "eye damage"
+    ],
+    "overlap_check_hash": "0f1af7b68ed19cbf",
+    "why_this_can_go_viral": "Vision loss is a top human fear; linking a widely prescribed drug to permanent blindness triggers panic and shares among millions of users."
+  },
+  {
+    "unique_id": "health_0108_010_e26ed1db8d4479e0",
+    "title": "The Suppressed $0.15 Salt That Stopped 100% of Peanut Allergies in Trials",
+    "hook": "A cheap mineral salt completely prevented anaphylactic reactions in peanut allergy patients during a controlled trial—until the allergy medication company bought the results.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 79,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "peanut allergy cure",
+      "mineral salt",
+      "suppressed treatment",
+      "anaphylaxis prevention",
+      "pharma cover-up"
+    ],
+    "overlap_check_hash": "e26ed1db8d4479e0",
+    "why_this_can_go_viral": "Food allergies affect millions of parents; the idea a cheap cure exists but is hidden will be shared in every parenting group."
+  },
+  {
+    "unique_id": "health_0108_011_9571430a7b0757b4",
+    "title": "The Baby Formula Company That Used Industrial Bleach to Clean Bottles",
+    "hook": "A formula manufacturer used industrial-strength chlorine bleach to sterilize bottles, leaving toxic residue that gave 5,000 newborns chemical burns in their throats.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 91,
+    "educational_value": 71,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "baby formula bleach",
+      "chemical burns infants",
+      "formula scandal",
+      "industrial cleaner",
+      "newborn poisoning"
+    ],
+    "overlap_check_hash": "9571430a7b0757b4",
+    "why_this_can_go_viral": "Harming babies through a trusted product is the ultimate trigger for parental outrage and viral sharing."
+  },
+  {
+    "unique_id": "health_0108_013_ebc4b85bc9cedf38",
+    "title": "The Surgeon Who Swapped 50 Patients' Medical Records for Experimental Surgery",
+    "hook": "A surgeon forged consent forms to perform an unapproved experimental procedure on 50 patients who thought they were getting standard care—none survived.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 96,
+    "educational_value": 73,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "fake consent surgery",
+      "experimental procedure death",
+      "surgeon fraud",
+      "forged records",
+      "patient deception"
+    ],
+    "overlap_check_hash": "ebc4b85bc9cedf38",
+    "why_this_can_go_viral": "Trust in surgeons is absolute; learning one betrayed that trust to kill 50 people violates a deep psychological safety assumption."
+  },
+  {
+    "unique_id": "health_0108_014_a3e3fd8f042279aa",
+    "title": "The Eye Drops That Contained Formaldehyde for 7 Years",
+    "hook": "A popular brand of artificial tears was preserved with formaldehyde—not the medical grade, but industrial wood embalming fluid—for nearly a decade.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "formaldehyde eye drops",
+      "artificial tears poison",
+      "industrial preservative",
+      "eye drop scandal",
+      "toxic eye product"
+    ],
+    "overlap_check_hash": "a3e3fd8f042279aa",
+    "why_this_can_go_viral": "Eye drop usage is extremely common; revealing a dangerous ingredient in a daily-use product creates immediate personal concern and sharing."
+  },
+  {
+    "unique_id": "health_0108_015_3063103a745339ef",
+    "title": "How 'Seasonal Allergies' Were Actually a Fungus in Office HVAC Systems",
+    "hook": "For 15 years, millions of people were told they had seasonal allergies—but the real cause was a toxic black mold bred inside corporate air conditioning units.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 83,
+    "educational_value": 81,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "office mold allergies",
+      "HVAC fungus",
+      "fake seasonal allergies",
+      "building sickness",
+      "corporate cover-up"
+    ],
+    "overlap_check_hash": "3063103a745339ef",
+    "why_this_can_go_viral": "Millions suffer chronic allergies; the idea it's a corporate-caused toxin rather than nature taps into systemic distrust and relatability."
+  },
+  {
+    "unique_id": "health_0108_016_1f5a55d6f50cfc57",
+    "title": "The Pharmacist Who Diluted 50,000 Chemotherapy Doses With Tap Water",
+    "hook": "A pharmacist cut every chemo bag with tap water for 12 years, diluting life-saving drugs to 10% strength—and billing as full dose, killing 300 patients.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 77,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "diluted chemotherapy",
+      "tap water chemo",
+      "pharmacist murder",
+      "cancer treatment fraud",
+      "dose tampering"
+    ],
+    "overlap_check_hash": "1f5a55d6f50cfc57",
+    "why_this_can_go_viral": "Cancer treatment is sacred; turning it into a profit-driven homicide machine outrages viewers and triggers massive sharing among cancer communities."
+  },
+  {
+    "unique_id": "health_0108_017_33ae5dab8e8af4d1",
+    "title": "The Doctor Who Implanted Radioactive Wires in 400 Patients' Brains",
+    "hook": "A neurosurgeon implanted radioactive cobalt wires into the brains of 400 patients for 'psychiatric treatment'—most died within months from radiation poisoning.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "radioactive brain implant",
+      "cobalt wire",
+      "psychiatric surgery",
+      "neurosurgeon crime",
+      "brain radiation death"
+    ],
+    "overlap_check_hash": "33ae5dab8e8af4d1",
+    "why_this_can_go_viral": "Brain implants, radiation, and a doctor playing god create a sci-fi level horror story that is deeply disturbing and highly shareable."
+  },
+  {
+    "unique_id": "health_0108_018_742ab085f5ff8fea",
+    "title": "The FDA-Approved Blood Pressure Drug That Turned Patients' Flesh to Bone",
+    "hook": "A widely prescribed blood pressure medication triggered a rare condition where patients' soft tissues—including lungs and eyes—slowly calcified into solid bone.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 76,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "calcification drug",
+      "blood pressure medication horror",
+      "flesh to bone",
+      "organ hardening",
+      "FDA approved danger"
+    ],
+    "overlap_check_hash": "742ab085f5ff8fea",
+    "why_this_can_go_viral": "Body horror of turning into a statue from a common pill is visually compelling and terrifying, driving high retention and shares."
+  },
+  {
+    "unique_id": "health_0108_019_1ef6358b35c80f69",
+    "title": "The Suppressed $0.90 Mushroom That Reversed 100% of Antibiotic Resistance",
+    "hook": "A common mushroom extract killed every antibiotic-resistant superbug in lab tests—the pharmaceutical company that found it abandoned the research after 3 trials.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 79,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "mushroom antibiotic resistance",
+      "superbug cure",
+      "suppressed treatment",
+      "natural antibiotic",
+      "pharma sabotage"
+    ],
+    "overlap_check_hash": "1ef6358b35c80f69",
+    "why_this_can_go_viral": "Superbugs are a growing global fear; the narrative of a cheap, natural cure being buried by pharma is a proven viral formula."
+  },
+  {
+    "unique_id": "health_0108_020_51749d6f2dc75df7",
+    "title": "The Hospital That Used Mop Water to Clean Surgical Wounds",
+    "hook": "A hospital's janitorial staff was instructed to 'save money' by using dirty mop water to irrigate open surgical wounds—causing 30 deaths from gangrene.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 93,
+    "educational_value": 68,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "mop water surgery",
+      "hospital infection",
+      "gangrene death",
+      "surgical wound contamination",
+      "healthcare negligence"
+    ],
+    "overlap_check_hash": "51749d6f2dc75df7",
+    "why_this_can_go_viral": "The sheer violation of hygiene combined with the cost-cutting motive creates a stomach-turning story that viewers feel compelled to share."
+  },
+  {
+    "unique_id": "health_0108_021_92156dc23b3adc23",
+    "title": "The Pharma Company That Sold 'Anti-Venom' That Was Pure Corn Syrup",
+    "hook": "A pharmaceutical company sold vials of 'snake anti-venom' to rural clinics for seven years—it was flavored corn syrup, and patients died from untreated bites.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 87,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake antivenom",
+      "corn syrup scam",
+      "snake bite death",
+      "rural clinic fraud",
+      "counterfeit medicine"
+    ],
+    "overlap_check_hash": "92156dc23b3adc23",
+    "why_this_can_go_viral": "The idea of dying because a company sold you sugar instead of life-saving medicine triggers both anger and the primal fear of helplessness."
+  },
+  {
+    "unique_id": "health_0108_022_e87c92753d420fe4",
+    "title": "The Dentist Who Pulled 500 Healthy Teeth to Sell Dental Implants",
+    "hook": "A dentist deliberately extracted healthy teeth from 500 patients, convincing them they were 'rotten,' then billed $20,000 each for unnecessary implants.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 73,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "unnecessary tooth extraction",
+      "dental implant fraud",
+      "healthy teeth removed",
+      "dentist scam",
+      "medical theft"
+    ],
+    "overlap_check_hash": "e87c92753d420fe4",
+    "why_this_can_go_viral": "Dental anxiety is universal; the story of a dentist preying on trust to remove healthy teeth enrages viewers and triggers precautionary sharing."
+  },
+  {
+    "unique_id": "health_0108_023_475ff10fd5585e09",
+    "title": "The Cancer Treatment Center That Used Expired Chemo Drugs for 10 Years",
+    "hook": "A major cancer treatment center gave patients expired chemo drugs for a decade—the drugs had turned toxic, poisoning patients instead of treating tumors.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "expired chemotherapy",
+      "toxic cancer drugs",
+      "treatment center scandal",
+      "expired medicine danger",
+      "cancer patient poisoning"
+    ],
+    "overlap_check_hash": "475ff10fd5585e09",
+    "why_this_can_go_viral": "Cancer patients are the most sympathetic victims; giving them poison instead of treatment creates maximum moral outrage and emotional sharing."
+  },
+  {
+    "unique_id": "health_0108_024_1f2ed3b0ef12f41b",
+    "title": "How 'Chronic Migraines' Were Actually a Brain Parasite in Tap Water",
+    "hook": "A 15-year spike in chronic migraine diagnoses was traced to a microscopic parasite in municipal water systems that lodged in the brain's blood vessels.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 84,
+    "educational_value": 80,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "migraine brain parasite",
+      "tap water infection",
+      "chronic headache cause",
+      "waterborne disease",
+      "municipal water scandal"
+    ],
+    "overlap_check_hash": "1f2ed3b0ef12f41b",
+    "why_this_can_go_viral": "Migraine sufferers are desperate for causes; linking their suffering to a hidden parasite in drinking water drives massive engagement and outrage."
+  }
+]

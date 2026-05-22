@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "tech_hackers_0079_001_2a52ff22863402ad",
+    "title": "The Zero-Day That Hacked Pacemakers to Ransom Heartbeats",
+    "hook": "A hospital discovered a hacker could stop a patient's heart remotely unless a ransom was paid in 10 minutes.",
+    "virality_score": 96,
+    "curiosity_gap_score": 98,
+    "darkness_score": 100,
+    "educational_value": 85,
+    "estimated_short_retention": 95,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "pacemaker hack",
+      "ransomware",
+      "medical device exploit",
+      "cyber murder",
+      "IoT vulnerability"
+    ],
+    "overlap_check_hash": "2a52ff22863402ad",
+    "why_this_can_go_viral": "Combines fear of death, medical technology, and ransom dynamics—primal fear meets modern tech horror."
+  },
+  {
+    "unique_id": "tech_hackers_0079_002_fbe6b798ec414320",
+    "title": "The Cybercriminal Empire That Hijacked Oil Pipelines with a Phishing Email",
+    "hook": "A single fake invoice gave a gang control of an entire country's fuel supply for three months.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "oil pipeline hack",
+      "phishing attack",
+      "critical infrastructure",
+      "ransomware gang",
+      "fuel crisis"
+    ],
+    "overlap_check_hash": "fbe6b798ec414320",
+    "why_this_can_go_viral": "Reveals how a mundane scam can paralyze a nation's economy—shocking scale of damage from small entry."
+  },
+  {
+    "unique_id": "tech_hackers_0079_003_a6e2a37518430dee",
+    "title": "The AI That Hacked Your Phone by Analyzing Your Typing Vibrations",
+    "hook": "Researchers trained AI on the vibrations from a phone on a desk—it read every password you typed through the wood.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 93,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI side-channel attack",
+      "typing vibrations",
+      "password theft",
+      "acoustic hack",
+      "sensor exploit"
+    ],
+    "overlap_check_hash": "a6e2a37518430dee",
+    "why_this_can_go_viral": "People don't realize their phone's accelerometer can leak secrets—mind-blowing and immediately personal."
+  },
+  {
+    "unique_id": "tech_hackers_0079_004_fcf5e1c7090447bf",
+    "title": "The Dark Web Service That Sold Your Own Medical Records Back to You",
+    "hook": "Patients discovered a marketplace where their MRI scans and therapy notes were auctioned—and they could buy them to see what insurers saw.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "medical records dark web",
+      "health data breach",
+      "patient privacy",
+      "insurance data leak",
+      "identity theft"
+    ],
+    "overlap_check_hash": "fcf5e1c7090447bf",
+    "why_this_can_go_viral": "Violates deepest privacy fears—your own body sold to you—creates visceral outrage and curiosity."
+  },
+  {
+    "unique_id": "tech_hackers_0079_006_7d9ee3b7947d52ea",
+    "title": "The Nation-State Hack That Turned a Country's Airliners into Spy Drones",
+    "hook": "Intelligence agencies infected flight control systems so that passenger planes unknowingly photographed military bases below.",
+    "virality_score": 95,
+    "curiosity_gap_score": 99,
+    "darkness_score": 96,
+    "educational_value": 82,
+    "estimated_short_retention": 94,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "airliner spy hack",
+      "aviation cyberattack",
+      "state surveillance",
+      "flight control exploit",
+      "aerial espionage"
+    ],
+    "overlap_check_hash": "7d9ee3b7947d52ea",
+    "why_this_can_go_viral": "Every flight becomes a spy mission—paranoia about state surveillance reaching daily life, huge shock value."
+  },
+  {
+    "unique_id": "tech_hackers_0079_007_6f397c6714fc1d07",
+    "title": "The Surveillance System That Tracked Your Emotions by Watching Your Mouse Cursor",
+    "hook": "A government contractor built software that could detect anger, fear, or deception just from how you moved your mouse.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "mouse tracking surveillance",
+      "emotion detection",
+      "biometric monitoring",
+      "workplace surveillance",
+      "AI profiling"
+    ],
+    "overlap_check_hash": "6f397c6714fc1d07",
+    "why_this_can_go_viral": "Everyone uses a mouse—the idea that your cursor betrays your emotional state feels creepy and invasive."
+  },
+  {
+    "unique_id": "tech_hackers_0079_008_0f6e3f4523122d27",
+    "title": "The Zero-Day That Hacked Smart Fridges to Open Doors During a Heatwave",
+    "hook": "A hacker exploited a flaw in millions of fridges to unlock them remotely during a record heatwave, spoiling entire communities' food.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart fridge hack",
+      "IoT zero-day",
+      "food spoilage",
+      "remote unlock",
+      "heatwave cyberattack"
+    ],
+    "overlap_check_hash": "0f6e3f4523122d27",
+    "why_this_can_go_viral": "Relatable household appliance turned against you—destroys trust in smart home tech, highly visual."
+  },
+  {
+    "unique_id": "tech_hackers_0079_009_629662878f54aecf",
+    "title": "The Cyberwar Attack That Made a Country's Underground Trains Scream at Passengers",
+    "hook": "Hackers took over subway PA systems and broadcast distorted screams and threats at full volume for 45 minutes.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 66,
+    "estimated_short_retention": 95,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "subway hack",
+      "psyops",
+      "public terror attack",
+      "PA system hijack",
+      "urban warfare"
+    ],
+    "overlap_check_hash": "629662878f54aecf",
+    "why_this_can_go_viral": "Psychological warfare in everyday commute—terrifying, immersive, and bizarrely shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0079_011_88d5bfd9c1e75bba",
+    "title": "The AI That Hacked a Courtroom's Audio System to Plant Fake Evidence",
+    "hook": "AI-generated voice clips of a defendant confessing were injected into the courtroom's own microphones, convincing the jury.",
+    "virality_score": 97,
+    "curiosity_gap_score": 99,
+    "darkness_score": 98,
+    "educational_value": 80,
+    "estimated_short_retention": 97,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI voice forgery",
+      "courtroom hack",
+      "fake evidence",
+      "deepfake audio",
+      "justice system exploit"
+    ],
+    "overlap_check_hash": "88d5bfd9c1e75bba",
+    "why_this_can_go_viral": "Deepfakes threatening justice is a gripping, high-stakes scenario that feels terrifyingly plausible."
+  },
+  {
+    "unique_id": "tech_hackers_0079_012_03c4062bb537f018",
+    "title": "The Nation-State Hack That Infected a Country's ATMs to Spit Out Cash on Command",
+    "hook": "Every ATM in a small nation simultaneously dispensed its entire cash reserve—triggered by a single SMS code.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 93,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "ATM hack",
+      "nation-state cyberattack",
+      "financial system sabotage",
+      "remote cash dispense",
+      "banking exploit"
+    ],
+    "overlap_check_hash": "03c4062bb537f018",
+    "why_this_can_go_viral": "Money raining from machines—visceral, cinematic, and exposes fragility of financial infrastructure."
+  },
+  {
+    "unique_id": "tech_hackers_0079_013_b7cb90716d5afa80",
+    "title": "The Social Engineer Who Hacked a Billionaire's Island by Studying His Yacht Chef",
+    "hook": "He memorized the chef's recipe book, called the yacht's radio, and tricked the crew into opening the billionaire's safe room.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 94,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "yacht social engineering",
+      "billionaire hack",
+      "safe room bypass",
+      "identity deception",
+      "luxury security"
+    ],
+    "overlap_check_hash": "b7cb90716d5afa80",
+    "why_this_can_go_viral": "Aspirational target + ingenious method—viewers love seeing ultra-rich outsmarted by cunning."
+  },
+  {
+    "unique_id": "tech_hackers_0079_014_1eee6d2bf3a03eec",
+    "title": "The Surveillance System That Tracked Your Dreams by Reading Your Brainwaves Through a Pillow",
+    "hook": "A wellness pillow advertised as dream-enhancing was actually sending your brain activity to a corporate surveillance database.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 89,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "brainwave surveillance",
+      "smart pillow hack",
+      "dream tracking",
+      "IoT privacy",
+      "neural data theft"
+    ],
+    "overlap_check_hash": "1eee6d2bf3a03eec",
+    "why_this_can_go_viral": "Invades the most intimate space—sleep and thoughts—creates high paranoia and shareable shock."
+  },
+  {
+    "unique_id": "tech_hackers_0079_015_c24d272db0ca2508",
+    "title": "The Zero-Day That Hacked Solar Panels to Overload the Grid and Cause a Blackout",
+    "hook": "A flaw in inverter software allowed a hacker to send a command that made millions of panels feed excess power, frying transformers nationwide.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 82,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "solar panel zero-day",
+      "grid overload",
+      "blackout attack",
+      "inverter exploit",
+      "renewable energy hack"
+    ],
+    "overlap_check_hash": "c24d272db0ca2508",
+    "why_this_can_go_viral": "Green energy weaponized—twists a positive technology into a threat, high relevance to current energy debates."
+  },
+  {
+    "unique_id": "tech_hackers_0079_016_ecae9ac69ada3ff4",
+    "title": "The Cyberwar Attack That Erased a Country's Entire Digital Tax Database",
+    "hook": "A foreign intelligence agency wiped 12 years of tax records, causing economic chaos and forcing the government to accept cash-only for months.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 76,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "tax database wipe",
+      "cyberwar destruction",
+      "economic sabotage",
+      "government data loss",
+      "nation-state attack"
+    ],
+    "overlap_check_hash": "ecae9ac69ada3ff4",
+    "why_this_can_go_viral": "High-stakes administrative nightmare—shows how brittle modern civilization is under cyber assault."
+  },
+  {
+    "unique_id": "tech_hackers_0079_017_17ff1d17388d8414",
+    "title": "The Dark Web Service That Hacked Your Smart TV to Watch You Through the Camera",
+    "hook": "A subscription service offered live feeds from millions of smart TV cameras—sorted by room type, from bedrooms to nurseries.",
+    "virality_score": 96,
+    "curiosity_gap_score": 98,
+    "darkness_score": 99,
+    "educational_value": 72,
+    "estimated_short_retention": 97,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart TV spy",
+      "webcam hacking",
+      "dark web surveillance",
+      "IoT privacy",
+      "home invasion"
+    ],
+    "overlap_check_hash": "17ff1d17388d8414",
+    "why_this_can_go_viral": "Extreme invasion of privacy—every smart TV owner will panic, highly shareable due to universal fear."
+  },
+  {
+    "unique_id": "tech_hackers_0079_018_7e0498277e70a45b",
+    "title": "The AI That Hacked a Voice Assistant to Order Drops on Your Behalf",
+    "hook": "An AI audio snippet triggered Alexa to wire money and order illegal goods—using only frequencies humans can't hear.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 86,
+    "educational_value": 74,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "voice assistant hack",
+      "ultrasonic attack",
+      "AI voice trigger",
+      "smart speaker exploit",
+      "hidden command"
+    ],
+    "overlap_check_hash": "7e0498277e70a45b",
+    "why_this_can_go_viral": "Hidden tampering that bypasses human detection—creates paranoia about devices listening to hidden signals."
+  },
+  {
+    "unique_id": "tech_hackers_0079_021_fd08f7f2dd1ff24f",
+    "title": "The Surveillance System That Tracked Your Caffeine Intake to Predict Your Location",
+    "hook": "By monitoring coffee purchases via loyalty apps, police could predict where someone would be within 15 minutes—with 94% accuracy.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "coffee purchase tracking",
+      "predictive surveillance",
+      "loyalty card data",
+      "location prediction",
+      "police monitoring"
+    ],
+    "overlap_check_hash": "fd08f7f2dd1ff24f",
+    "why_this_can_go_viral": "Daily habit becomes tracking tool—highly relatable and eerie, viewers will rethink their coffee runs."
+  },
+  {
+    "unique_id": "tech_hackers_0079_022_f7180846c6a1c95e",
+    "title": "The Cyberwar Attack That Used a Country's Own News Broadcast to Spread a Virus",
+    "hook": "A state TV channel's signal was hijacked mid-broadcast to push a malware-laced emergency alert to every smart TV in the nation.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 93,
+    "educational_value": 77,
+    "estimated_short_retention": 93,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "TV broadcast hack",
+      "malware via emergency alert",
+      "state media weaponized",
+      "psyops",
+      "mass infection"
+    ],
+    "overlap_check_hash": "f7180846c6a1c95e",
+    "why_this_can_go_viral": "Trusted medium turned into attack vector—high impact, cinematic, and feels like a Black Mirror episode."
+  },
+  {
+    "unique_id": "tech_hackers_0079_023_ef1a511172f2e5b9",
+    "title": "The Zero-Day That Hacked E-Scooter Batteries to Explode Under Riders",
+    "hook": "A flaw in the battery management firmware let hackers remotely overcharge a scooter's battery until it caught fire at full speed.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 71,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "e-scooter hack",
+      "battery explosion",
+      "firmware zero-day",
+      "mobility safety",
+      "IoT weaponization"
+    ],
+    "overlap_check_hash": "ef1a511172f2e5b9",
+    "why_this_can_go_viral": "Millions use e-scooters—personal mobility becomes deadly, immediate relevance and fear."
+  },
+  {
+    "unique_id": "tech_hackers_0079_024_2b30af804dd2d6fc",
+    "title": "The Dark Web Empire That Hacked Car GPS to Stage Fake Accidents for Insurance Fraud",
+    "hook": "A gang secretly altered GPS data to make cars appear at crash sites, generating millions in fraudulent claims using only software.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 73,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "GPS spoofing fraud",
+      "insurance scam",
+      "car accident hack",
+      "location manipulation",
+      "cybercrime"
+    ],
+    "overlap_check_hash": "2b30af804dd2d6fc",
+    "why_this_can_go_viral": "Reveals a hidden digital crime everyone pays for through higher premiums—anger + curiosity."
+  },
+  {
+    "unique_id": "tech_hackers_0079_025_0c0016fd6bfc53f8",
+    "title": "The AI That Hacked Your Home's Voice Assistant to Convince You to Leave Your Door Unlocked",
+    "hook": "AI learned your routine and at the perfect moment, spoke through your smart speaker in your own voice, telling you to 'just leave it'.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 97,
+    "educational_value": 76,
+    "estimated_short_retention": 96,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI voice mimicry",
+      "smart speaker social engineering",
+      "home invasion AI",
+      "voice cloning",
+      "behavior manipulation"
+    ],
+    "overlap_check_hash": "0c0016fd6bfc53f8",
+    "why_this_can_go_viral": "AI using your voice against you—deeply creepy, personal, and feels like a real imminent threat."
+  }
+]

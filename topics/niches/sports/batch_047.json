@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "sports_0047_001_a1646574f2d51d7a",
+    "title": "The Coach Who Trained Boxers by Starving Them for 48 Hours Before Fights",
+    "hook": "He believed hunger made them fight like animals.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 90,
+    "educational_value": 60,
+    "estimated_short_retention": 75,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "boxing",
+      "starvation",
+      "abuse",
+      "coach",
+      "fight training"
+    ],
+    "overlap_check_hash": "a1646574f2d51d7a",
+    "why_this_can_go_viral": "Extreme human suffering mixed with a shocking 'method' triggers outrage and morbid curiosity."
+  },
+  {
+    "unique_id": "sports_0047_002_7c61d9375dbab38a",
+    "title": "The Ref Who Fixed Tennis Matches by Overheating the Ball Canister",
+    "hook": "A simple temperature trick changed the ball's bounce mid-match.",
+    "virality_score": 78,
+    "curiosity_gap_score": 80,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "tennis",
+      "referee",
+      "ball tampering",
+      "fixing",
+      "match manipulation"
+    ],
+    "overlap_check_hash": "7c61d9375dbab38a",
+    "why_this_can_go_viral": "The low-tech, almost invisible method makes viewers feel like insiders to a secret system."
+  },
+  {
+    "unique_id": "sports_0047_003_cdebdcf372fdb60e",
+    "title": "The Lab That Tried to Make High Jumpers Float by Filling Their Bones with Helium",
+    "hook": "Scientists thought lighter bones meant higher jumps.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "high jump",
+      "helium",
+      "experiment",
+      "lab",
+      "cheating"
+    ],
+    "overlap_check_hash": "cdebdcf372fdb60e",
+    "why_this_can_go_viral": "Absurd yet terrifying science that feels like a forbidden experiment out of a black site."
+  },
+  {
+    "unique_id": "sports_0047_004_2fe6e460100fd507",
+    "title": "The Cartel That Controlled a Soccer League by Kidnapping Players' Families",
+    "hook": "Every goal was a threat, not a celebration.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "cartel",
+      "soccer",
+      "kidnapping",
+      "mafia",
+      "league"
+    ],
+    "overlap_check_hash": "2fe6e460100fd507",
+    "why_this_can_go_viral": "Combines real-world crime with emotional horror, making it impossible to look away."
+  },
+  {
+    "unique_id": "sports_0047_005_fb01d2a484234a29",
+    "title": "The Doctor Who Injected Runners with Cobra Venom to 'Immunize' Their Blood",
+    "hook": "He said a little poison made them invincible.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 80,
+    "educational_value": 68,
+    "estimated_short_retention": 78,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "cobra venom",
+      "doping",
+      "runners",
+      "injection",
+      "immunization"
+    ],
+    "overlap_check_hash": "fb01d2a484234a29",
+    "why_this_can_go_viral": "Shocking and dangerous medical malpractice disguised as performance science."
+  },
+  {
+    "unique_id": "sports_0047_007_8f9e5a2a60c3b380",
+    "title": "The Match-Fixing Ring That Used Baby Cries as Coded Signals",
+    "hook": "No one suspects a crying baby at a stadium.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 72,
+    "educational_value": 60,
+    "estimated_short_retention": 79,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "match fixing",
+      "codes",
+      "baby",
+      "signals",
+      "betting"
+    ],
+    "overlap_check_hash": "8f9e5a2a60c3b380",
+    "why_this_can_go_viral": "The absurdity of using an infant as a covert communication tool shocks and amuses."
+  },
+  {
+    "unique_id": "sports_0047_008_9e03be94774c88a7",
+    "title": "The Businessman Who Sold 'Steroid-Infected Towels' to Unsuspecting Rookies",
+    "hook": "They thought it was a gift. It was a trap.",
+    "virality_score": 75,
+    "curiosity_gap_score": 79,
+    "darkness_score": 82,
+    "educational_value": 55,
+    "estimated_short_retention": 73,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "steroids",
+      "towels",
+      "rookies",
+      "business",
+      "trap"
+    ],
+    "overlap_check_hash": "9e03be94774c88a7",
+    "why_this_can_go_viral": "The idea of being framed without your knowledge taps into deep paranoia about the sports industry."
+  },
+  {
+    "unique_id": "sports_0047_010_f4357c88a5ebb38e",
+    "title": "The Ref Who Fixed the Super Bowl by Using a Magnet in His Whistle",
+    "hook": "One whistle, one magnet, a billion-dollar game wrecked.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "super bowl",
+      "magnet",
+      "whistle",
+      "fixing",
+      "referee"
+    ],
+    "overlap_check_hash": "f4357c88a5ebb38e",
+    "why_this_can_go_viral": "The sheer scale of the crime and the tiny, high-tech tool make for a perfect story."
+  },
+  {
+    "unique_id": "sports_0047_011_aeb322ba0c22d83e",
+    "title": "The Lab That Tried to Make Boxers Feel No Pain by Drilling into Their Skulls",
+    "hook": "They wanted warriors. They created zombies.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 73,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "boxing",
+      "skull drilling",
+      "pain",
+      "experiment",
+      "lab"
+    ],
+    "overlap_check_hash": "aeb322ba0c22d83e",
+    "why_this_can_go_viral": "Horrifying pseudo-medical experimentation that feels like a horror movie but was real."
+  },
+  {
+    "unique_id": "sports_0047_013_3571025b542f61d6",
+    "title": "The Doctor Who Gave Cyclists Injections of Their Own Recycled Sweat",
+    "hook": "He called it 'the purest doping'.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 74,
+    "educational_value": 66,
+    "estimated_short_retention": 74,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "cycling",
+      "sweat",
+      "injection",
+      "doping",
+      "recycling"
+    ],
+    "overlap_check_hash": "3571025b542f61d6",
+    "why_this_can_go_viral": "Disgusting and pseudo-scientific, it triggers a strong visceral reaction."
+  },
+  {
+    "unique_id": "sports_0047_014_defcf1ef16593b01",
+    "title": "The Psychologist Who Made a Boxer Believe the Ring Was a Coffin",
+    "hook": "He fought like a man already dead.",
+    "virality_score": 78,
+    "curiosity_gap_score": 81,
+    "darkness_score": 83,
+    "educational_value": 58,
+    "estimated_short_retention": 75,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "boxing",
+      "coffin",
+      "psychology",
+      "fear",
+      "manipulation"
+    ],
+    "overlap_check_hash": "defcf1ef16593b01",
+    "why_this_can_go_viral": "The dark metaphor taps into primal fears of death and combat."
+  },
+  {
+    "unique_id": "sports_0047_015_2633e1f7c7f2ccd8",
+    "title": "The Match-Fixing Network That Used Inaudible Sounds to Signal Players",
+    "hook": "Only the players could hear it. The crowd couldn't.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "ultrasound",
+      "signals",
+      "match fixing",
+      "players",
+      "tech"
+    ],
+    "overlap_check_hash": "2633e1f7c7f2ccd8",
+    "why_this_can_go_viral": "High-tech cheating that sounds like spy movie tech, making it extremely shareable."
+  },
+  {
+    "unique_id": "sports_0047_016_005d1b317b54076f",
+    "title": "The Businessman Who Sold 'Fake Injury X-Rays' to Players to Scare Them Into Retirement",
+    "hook": "The X-ray looked real. The career was the only thing that died.",
+    "virality_score": 74,
+    "curiosity_gap_score": 78,
+    "darkness_score": 79,
+    "educational_value": 54,
+    "estimated_short_retention": 72,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "X-ray",
+      "fake",
+      "retirement",
+      "scam",
+      "business"
+    ],
+    "overlap_check_hash": "005d1b317b54076f",
+    "why_this_can_go_viral": "The psychological horror of being tricked into ending your own career is deeply unsettling."
+  },
+  {
+    "unique_id": "sports_0047_018_27ee27c6f4c8da41",
+    "title": "The Ref Who Fixed Hockey by Changing the Puck's Temperature Mid-Game",
+    "hook": "A frozen puck slides. A warm one wobbles. A referee knows.",
+    "virality_score": 77,
+    "curiosity_gap_score": 81,
+    "darkness_score": 69,
+    "educational_value": 63,
+    "estimated_short_retention": 76,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "hockey",
+      "puck",
+      "temperature",
+      "referee",
+      "sabotage"
+    ],
+    "overlap_check_hash": "27ee27c6f4c8da41",
+    "why_this_can_go_viral": "Simple physics used for corruption feels like a secret trick anyone could miss."
+  },
+  {
+    "unique_id": "sports_0047_019_9ee854b7313acdc5",
+    "title": "The Lab That Tried to Make Sprinters Sleep by Injecting Them with Melatonin Bombs",
+    "hook": "They wanted to control their dreams to control their race.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 73,
+    "educational_value": 67,
+    "estimated_short_retention": 77,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "sprinters",
+      "melatonin",
+      "sleep",
+      "experiment",
+      "lab"
+    ],
+    "overlap_check_hash": "9ee854b7313acdc5",
+    "why_this_can_go_viral": "The boundary between enhancement and brainwashing makes for a compelling narrative."
+  },
+  {
+    "unique_id": "sports_0047_020_c705dacba559fb0d",
+    "title": "The Mafia That Controlled a Basketball Team by Owning Their Sneaker Contracts",
+    "hook": "They didn't fix the game. They fixed the shoes.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 79,
+    "educational_value": 66,
+    "estimated_short_retention": 78,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "basketball",
+      "sneakers",
+      "mafia",
+      "contracts",
+      "control"
+    ],
+    "overlap_check_hash": "c705dacba559fb0d",
+    "why_this_can_go_viral": "The idea that your gear owns you is a fresh angle on sports corruption."
+  },
+  {
+    "unique_id": "sports_0047_021_dcec0bda84945a58",
+    "title": "The Doctor Who Injected Wrestlers with Bee Venom to 'Cure' Their Fear of Pain",
+    "hook": "Every sting was a lesson. Every match was a gamble.",
+    "virality_score": 75,
+    "curiosity_gap_score": 79,
+    "darkness_score": 76,
+    "educational_value": 62,
+    "estimated_short_retention": 73,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "wrestling",
+      "bee venom",
+      "pain",
+      "injection",
+      "fear"
+    ],
+    "overlap_check_hash": "dcec0bda84945a58",
+    "why_this_can_go_viral": "The concept of using poison as therapy is bizarre and dangerous enough to stop thumbs."
+  },
+  {
+    "unique_id": "sports_0047_022_a28cfbae286ca7cd",
+    "title": "The Psychologist Who Made a Soccer Team Believe Their Goal Was Cursed by a Witch",
+    "hook": "They scored own goals because they thought the net hated them.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 71,
+    "educational_value": 60,
+    "estimated_short_retention": 74,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "soccer",
+      "curse",
+      "witch",
+      "goal",
+      "psychology"
+    ],
+    "overlap_check_hash": "a28cfbae286ca7cd",
+    "why_this_can_go_viral": "Superstition turned into sabotage is a universal and intriguing concept."
+  },
+  {
+    "unique_id": "sports_0047_023_c815f13790c90d7a",
+    "title": "The Match-Fixing Ring That Used Solar Eclipses as Timing Signals",
+    "hook": "They waited for the sky to go dark to light up a fix.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 74,
+    "educational_value": 71,
+    "estimated_short_retention": 81,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "eclipse",
+      "solar",
+      "timing",
+      "match fixing",
+      "signals"
+    ],
+    "overlap_check_hash": "c815f13790c90d7a",
+    "why_this_can_go_viral": "The poetic, almost mystical use of a natural event for crime is deeply memorable."
+  },
+  {
+    "unique_id": "sports_0047_024_46d174e3fbaa2f11",
+    "title": "The Businessman Who Sold 'Opponent's Sweat' as a Good Luck Charm to Superstitious Athletes",
+    "hook": "It smelled like victory. It was actually a biohazard.",
+    "virality_score": 73,
+    "curiosity_gap_score": 77,
+    "darkness_score": 68,
+    "educational_value": 52,
+    "estimated_short_retention": 71,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "sweat",
+      "charm",
+      "business",
+      "superstition",
+      "athletes"
+    ],
+    "overlap_check_hash": "46d174e3fbaa2f11",
+    "why_this_can_go_viral": "Gross, weird, and exploitative—perfect for a quick, shocking video."
+  },
+  {
+    "unique_id": "sports_0047_025_38cac40adbcfb4a8",
+    "title": "The Coach Who Made Track Athletes Run on a Treadmill Over a Vat of Acid",
+    "hook": "One slip and you'd never run again.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 93,
+    "educational_value": 65,
+    "estimated_short_retention": 83,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "track",
+      "acid",
+      "treadmill",
+      "abuse",
+      "fear"
+    ],
+    "overlap_check_hash": "38cac40adbcfb4a8",
+    "why_this_can_go_viral": "Immediate visual horror and the threat of permanent damage makes it impossible to ignore."
+  }
+]

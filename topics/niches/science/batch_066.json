@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "science_0066_001_2ca2f288785a9064",
+    "title": "The Scientist Who Implanted a Radioactive Chip in His Own Brain",
+    "hook": "A neuroscientist drilled into his own skull and inserted a device that recorded his neurons for decades — here’s what it revealed before it killed him.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "self-experiment",
+      "brain chip",
+      "neuroscience",
+      "radioactive",
+      "death"
+    ],
+    "overlap_check_hash": "2ca2f288785a9064",
+    "why_this_can_go_viral": "Extreme self-surgery and a countdown to death trigger morbid curiosity and shock value."
+  },
+  {
+    "unique_id": "science_0066_004_62a50512d163fd98",
+    "title": "The Biologist Who Found a Fungus That Controls Human Speech",
+    "hook": "A parasitic fungus was discovered growing in the vocal cords of patients who spoke in tongues — it was rewriting their sentences.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fungus",
+      "speech",
+      "parasite",
+      "tongues",
+      "control"
+    ],
+    "overlap_check_hash": "62a50512d163fd98",
+    "why_this_can_go_viral": "Combines body horror with loss of self — the ultimate fear of being hijacked."
+  },
+  {
+    "unique_id": "science_0066_005_2769b2c1828370fe",
+    "title": "The Physicist Who Found a Material That Gets Colder When Heated",
+    "hook": "A crystal was discovered that violates the second law of thermodynamics — adding energy actually dropped its temperature to near absolute zero.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 55,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "crystal",
+      "cold",
+      "thermodynamics",
+      "impossible",
+      "absolute zero"
+    ],
+    "overlap_check_hash": "2769b2c1828370fe",
+    "why_this_can_go_viral": "Breaks a fundamental law of physics — instantly intriguing to anyone who remembers science class."
+  },
+  {
+    "unique_id": "science_0066_006_f81ed10d90516210",
+    "title": "The Fraud Scientist Who Faked 200 Papers and Got Away for Years",
+    "hook": "One researcher published over 200 fraudulent studies before anyone noticed — and when caught, universities fought to keep him hired.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fraud",
+      "papers",
+      "scandal",
+      "university",
+      "faking"
+    ],
+    "overlap_check_hash": "f81ed10d90516210",
+    "why_this_can_go_viral": "Systemic corruption in academia feels like a hidden conspiracy — viewers love the reveal."
+  },
+  {
+    "unique_id": "science_0066_009_956541b8ad92cbe9",
+    "title": "The Lab That Accidentally Unleashed a Chemical That Melts Glass",
+    "hook": "A routine synthesis produced a compound that dissolved the Pyrex beaker, the steel table, and then the concrete floor — it kept going.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 72,
+    "educational_value": 68,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "chemical",
+      "melt",
+      "glass",
+      "acid",
+      "uncontainable"
+    ],
+    "overlap_check_hash": "956541b8ad92cbe9",
+    "why_this_can_go_viral": "Containment failure is a classic disaster trope — the 'unstoppable' chemical is terrifyingly visual."
+  },
+  {
+    "unique_id": "science_0066_010_d467700793c2dfba",
+    "title": "The Biologist Who Found a Bacterium That Produces Gold From Waste",
+    "hook": "A microbe was discovered that turns toxic industrial sludge into 24-karat gold — but it also mutates uncontrollably when exposed to air.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "bacteria",
+      "gold",
+      "mutation",
+      "sludge",
+      "toxic"
+    ],
+    "overlap_check_hash": "d467700793c2dfba",
+    "why_this_can_go_viral": "Alchemy is real — but with a dangerous twist. The promise of wealth combined with biological risk is irresistible."
+  },
+  {
+    "unique_id": "science_0066_011_aa4a029aed35e3b8",
+    "title": "The Quantum Paradox That Lets You Kill Your Grandfather and Still Exist",
+    "hook": "A thought experiment in quantum mechanics suggests you can travel back, murder your ancestor, and nothing changes — because you're in a different timeline.",
+    "virality_score": 88,
+    "curiosity_gap_score": 95,
+    "darkness_score": 80,
+    "educational_value": 82,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "grandfather",
+      "time travel",
+      "quantum",
+      "timeline",
+      "murder"
+    ],
+    "overlap_check_hash": "aa4a029aed35e3b8",
+    "why_this_can_go_viral": "Time travel paradoxes are endlessly debated — adding murder makes it dark and clickable."
+  },
+  {
+    "unique_id": "science_0066_012_b9c11edd8db9bd88",
+    "title": "The Forbidden Experiment That Kept a Man Awake for 11 Days",
+    "hook": "A 17-year-old was kept awake for 264 hours — by day 5, he hallucinated that he was a famous race car driver and started speaking in rhymes.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "sleep",
+      "deprivation",
+      "hallucination",
+      "insanity",
+      "experiment"
+    ],
+    "overlap_check_hash": "b9c11edd8db9bd88",
+    "why_this_can_go_viral": "Sleep deprivation is relatable — the descent into madness is fascinating and horrifying."
+  },
+  {
+    "unique_id": "science_0066_013_5307f44b15dc9dff",
+    "title": "The Physicist Who Found a Way to Split a Second Into a Billion Pieces",
+    "hook": "A laser pulse was split into attoseconds — revealing that time itself isn't continuous, but made of tiny jumps that skip forward.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 45,
+    "educational_value": 88,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time",
+      "attosecond",
+      "laser",
+      "quantum",
+      "jump"
+    ],
+    "overlap_check_hash": "5307f44b15dc9dff",
+    "why_this_can_go_viral": "Challenges our perception of time — even casual viewers are hooked by 'time is fake' claims."
+  },
+  {
+    "unique_id": "science_0066_014_568ccdfaad8ae18f",
+    "title": "The Fraud Scientist Who Invented a Fake Element on the Periodic Table",
+    "hook": "A chemist published evidence of a 'new element' and named it — only for it to be revealed as a hoax that fooled peer reviewers for a decade.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 82,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "element",
+      "fake",
+      "periodic table",
+      "hoax",
+      "fraud"
+    ],
+    "overlap_check_hash": "568ccdfaad8ae18f",
+    "why_this_can_go_viral": "Playing God by inventing an element is audacious — viewers love hubris followed by exposure."
+  },
+  {
+    "unique_id": "science_0066_015_05ac2a123b4d8cd5",
+    "title": "The Chemist Who Made a Liquid That Explodes on Contact With Air",
+    "hook": "A researcher synthesized a compound so unstable that opening the container triggered a blast that demolished three floors of the lab.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 68,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "explosive",
+      "liquid",
+      "air",
+      "unstable",
+      "blast"
+    ],
+    "overlap_check_hash": "05ac2a123b4d8cd5",
+    "why_this_can_go_viral": "Big explosions always perform — the 'simple mistake causes chaos' format is proven."
+  },
+  {
+    "unique_id": "science_0066_017_345f3f1197623980",
+    "title": "The Biologist Who Found a Virus That Hides in Your Tears",
+    "hook": "A virus was discovered living in the tear ducts of healthy people — it stays dormant for years, then reactivates and eats the optic nerve.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 77,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "virus",
+      "tears",
+      "eyes",
+      "blindness",
+      "dormant"
+    ],
+    "overlap_check_hash": "345f3f1197623980",
+    "why_this_can_go_viral": "Body horror involving eyes is visceral and universally creepy — the hidden predator angle works."
+  },
+  {
+    "unique_id": "science_0066_018_66f56a7db4274e0f",
+    "title": "The Quantum Paradox That Suggests You Choose Your Own Past",
+    "hook": "An experiment showed that a decision made today can retroactively determine what happened yesterday — the future rewrites history.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 72,
+    "educational_value": 85,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "past",
+      "retroactive",
+      "quantum",
+      "choice",
+      "rewrite"
+    ],
+    "overlap_check_hash": "66f56a7db4274e0f",
+    "why_this_can_go_viral": "Free will meets causality — the mind-bending nature sparks debate and sharing."
+  },
+  {
+    "unique_id": "science_0066_021_72f97b27c9181377",
+    "title": "The Physicist Who Found That Empty Space Has a Hidden Structure",
+    "hook": "A physicist discovered that vacuum isn't empty — it's filled with invisible geometric lattices that can be manipulated to produce energy.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 50,
+    "educational_value": 84,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "vacuum",
+      "space",
+      "lattice",
+      "energy",
+      "hidden"
+    ],
+    "overlap_check_hash": "72f97b27c9181377",
+    "why_this_can_go_viral": "The idea that 'nothing' is actually 'something' is counterintuitive and opens up free energy fantasies."
+  },
+  {
+    "unique_id": "science_0066_022_df1d6cbda09e17e3",
+    "title": "The Fraud Scientist Who Faked Photos of a Living Dinosaur",
+    "hook": "A biologist claimed to have photographed a living dinosaur in the jungle — the image fooled experts for years until a pixel analysis revealed the truth.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 65,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "dinosaur",
+      "photo",
+      "fake",
+      "jungle",
+      "hoax"
+    ],
+    "overlap_check_hash": "df1d6cbda09e17e3",
+    "why_this_can_go_viral": "Dinosaurs are evergreen — the 'fooled the world' angle adds a satisfying debunk narrative."
+  },
+  {
+    "unique_id": "science_0066_023_7d765cf88b891383",
+    "title": "The Chemist Who Accidentally Made a Poison That Passes Through Skin",
+    "hook": "A chemist spilled a few drops on his glove — within seconds, the chemical had penetrated through the glove, through his skin, and into his bloodstream.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "poison",
+      "skin",
+      "penetration",
+      "glove",
+      "death"
+    ],
+    "overlap_check_hash": "7d765cf88b891383",
+    "why_this_can_go_viral": "Just mentioning 'spilled on glove' creates visceral dread — the fast-acting invisible killer is pure terror."
+  }
+]

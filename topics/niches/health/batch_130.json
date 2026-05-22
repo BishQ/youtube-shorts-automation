@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "health_0130_001_5a32af55bbd3aeef",
+    "title": "The Hospital That Used Cancer Patients as Radioactive Experiment Beds",
+    "hook": "For 15 years, a prestigious hospital injected terminal patients with plutonium without telling them — and the government approved it.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "plutonium injections",
+      "human radiation experiments",
+      "terminal patients",
+      "hospital cover-up",
+      "government experiments"
+    ],
+    "overlap_check_hash": "5a32af55bbd3aeef",
+    "why_this_can_go_viral": "Combines government conspiracy, medical betrayal, and radioactive horror — a trifecta of dark curiosity that drives shares and comments."
+  },
+  {
+    "unique_id": "health_0130_002_ae0a8389d3345e6e",
+    "title": "The FDA-Approved Migraine Drug That Melted People's Skin",
+    "hook": "A prescription migraine medication caused patients to develop blisters so severe their skin sloughed off in sheets — yet it stayed on the market for years.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "FDA approved drug disaster",
+      "migraine medication side effects",
+      "skin melting drug",
+      "Stevens-Johnson syndrome",
+      "pharmaceutical negligence"
+    ],
+    "overlap_check_hash": "ae0a8389d3345e6e",
+    "why_this_can_go_viral": "The visceral image of skin melting paired with FDA approval creates outrage and shock — high emotional engagement and shareability."
+  },
+  {
+    "unique_id": "health_0130_003_ab9c53ca17626791",
+    "title": "The Pharmaceutical CEO Who Sold HIV Medication Spiked with Meth",
+    "hook": "A CEO diluted life-saving HIV drugs with methamphetamine to cut costs — and patients unknowingly became addicted to their own medication.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "HIV drug tampering",
+      "meth in medication",
+      "pharmaceutical CEO crime",
+      "drug adulteration",
+      "patient addiction scandal"
+    ],
+    "overlap_check_hash": "ab9c53ca17626791",
+    "why_this_can_go_viral": "The concept of medicine turning patients into addicts is deeply disturbing and morally outrageous — triggers strong anger and discussion."
+  },
+  {
+    "unique_id": "health_0130_004_d6e6b0bc24ebc1c4",
+    "title": "The Doctor Who Removed Healthy Organs for 'Research' Without Consent",
+    "hook": "A respected surgeon removed patients' spleens, gallbladders, and appendixes during routine surgeries — then sold them to research labs.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 94,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "organ harvesting surgeon",
+      "non-consensual surgery",
+      "organ theft",
+      "medical greed",
+      "research fraud"
+    ],
+    "overlap_check_hash": "d6e6b0bc24ebc1c4",
+    "why_this_can_go_viral": "The violation of waking up missing an organ you never consented to lose is universally terrifying — taps into deep medical mistrust."
+  },
+  {
+    "unique_id": "health_0130_005_264578c887ee15d5",
+    "title": "The Government Program That Gave Syphilis to 1,500 Black Men for 40 Years",
+    "hook": "The US Public Health Service watched 1,500 black men die of syphilis without treatment — even after a cure was discovered.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 99,
+    "educational_value": 85,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "Tuskegee syphilis study",
+      "medical racism",
+      "government experiment",
+      "unethical research",
+      "black men syphilis"
+    ],
+    "overlap_check_hash": "264578c887ee15d5",
+    "why_this_can_go_viral": "Historical atrocity with ongoing relevance — provokes anger, disbelief, and conversation about systemic racism in medicine."
+  },
+  {
+    "unique_id": "health_0130_006_3a8ac26fe2861caa",
+    "title": "The 'Weight Loss' Tea That Contained 50 Times the Caffeine of Coffee",
+    "hook": "A popular herbal tea sent dozens of women to the ER with heart attacks — all because of a 'proprietary' ingredient that was pure caffeine powder.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 75,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "toxic weight loss tea",
+      "caffeine overdose",
+      "dangerous supplements",
+      "herbal tea heart attack",
+      "FDA supplement loophole"
+    ],
+    "overlap_check_hash": "3a8ac26fe2861caa",
+    "why_this_can_go_viral": "Relatable everyday product turns deadly — viewers will check their own tea cabinets, driving personal investment."
+  },
+  {
+    "unique_id": "health_0130_007_879c2a9fc849adde",
+    "title": "The Hospital Chain That Killed 100 Patients to Save $1 Million",
+    "hook": "A hospital corporation instructed staff to reuse single-use medical devices — leading to hundreds of fatal infections they then covered up.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "hospital reuse devices",
+      "fatal infections cover-up",
+      "healthcare corporate greed",
+      "patient deaths profit",
+      "single-use device scandal"
+    ],
+    "overlap_check_hash": "879c2a9fc849adde",
+    "why_this_can_go_viral": "Corporate greed killing patients is a fury-inducing narrative — viewers will share to warn others and demand accountability."
+  },
+  {
+    "unique_id": "health_0130_008_e985df80dffc9727",
+    "title": "The Dentist Who Gave Patients HIV by Reusing Needles on Purpose",
+    "hook": "An Oklahoma dentist infected hundreds with HIV and hepatitis — not by accident, but because he refused to buy new needles.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 96,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "HIV dentist",
+      "needle reuse outbreak",
+      "Oklahoma dentist HIV",
+      "patient infection scandal",
+      "dental malpractice"
+    ],
+    "overlap_check_hash": "e985df80dffc9727",
+    "why_this_can_go_viral": "The combination of dentist trust betrayal and disease transmission creates visceral fear and outrage — highly shareable."
+  },
+  {
+    "unique_id": "health_0130_010_fb4d4d71ac1779e4",
+    "title": "The Cancer Clinic That Told Terminal Patients They Were Cured — Then Billed Them",
+    "hook": "A clinic faked remission tests for terminal cancer patients, told them they were cured, then charged their families thousands for 'maintenance' treatments.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 76,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "fake cancer remission",
+      "terminal patient scam",
+      "cancer clinic fraud",
+      "false hope profit",
+      "medical billing scam"
+    ],
+    "overlap_check_hash": "fb4d4d71ac1779e4",
+    "why_this_can_go_viral": "Exploiting dying patients' hope is one of the most despicable crimes imaginable — generates massive emotional response and shares."
+  },
+  {
+    "unique_id": "health_0130_012_76333307574e3e2c",
+    "title": "The Doctor Who Injected 7,000 Patients with Fake Anesthesia to Save Pennies",
+    "hook": "A anesthesiologist diluted anesthesia with saline for 20 years — patients woke up mid-surgery feeling everything, but couldn't scream.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 94,
+    "educational_value": 80,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "fake anesthesia",
+      "wake up during surgery",
+      "anesthesiologist criminal",
+      "patient torture",
+      "diluted drugs surgery"
+    ],
+    "overlap_check_hash": "76333307574e3e2c",
+    "why_this_can_go_viral": "The primal fear of being awake during surgery is universal — the horror of being paralyzed but aware triggers maximum engagement."
+  },
+  {
+    "unique_id": "health_0130_013_529f629184ef3581",
+    "title": "The Vitamin Company That Sold Rat Feces as 'Probiotic Plus'",
+    "hook": "Lab tests revealed that a top-selling probiotic supplement contained 40% rat feces and zero active bacteria — patients were paying to consume sewage.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "fake probiotic",
+      "rat feces supplement",
+      "contaminated vitamins",
+      "supplement fraud",
+      "health product scam"
+    ],
+    "overlap_check_hash": "529f629184ef3581",
+    "why_this_can_go_viral": "Gross-out factor meets health betrayal — viewers will check their own supplements and share in disgust."
+  },
+  {
+    "unique_id": "health_0130_014_25cb160840552fd0",
+    "title": "The Hospital That Harvested Bones and Skin from Cadavers Without Permission",
+    "hook": "A hospital ran a secret side business removing bones, skin, and corneas from the dead without family consent — then sold them for transplants.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "cadaver harvesting",
+      "organ theft hospital",
+      "body parts black market",
+      "tissue theft",
+      "medical body snatching"
+    ],
+    "overlap_check_hash": "25cb160840552fd0",
+    "why_this_can_go_viral": "The idea that your loved one's body might be stripped before burial is deeply unsettling — combines grief with betrayal."
+  },
+  {
+    "unique_id": "health_0130_015_caa4807d799a3328",
+    "title": "The 'Cure for Blindness' That Was Industrial Acetate and Took 500 People's Sight",
+    "hook": "A doctor promised to cure blindness with a 'revolutionary injection' — it was industrial-grade acetone that dissolved patients' retinas from the inside.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 96,
+    "educational_value": 74,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "fake blindness cure",
+      "acetone eye injection",
+      "false cure tragedy",
+      "blindness scam",
+      "medical quackery disaster"
+    ],
+    "overlap_check_hash": "caa4807d799a3328",
+    "why_this_can_go_viral": "The cruelty of giving blind people hope only to destroy their remaining sight is a tragedy that viewers cannot look away from."
+  },
+  {
+    "unique_id": "health_0130_016_75c9fec76ea5cb34",
+    "title": "The Drug Company That Knew Its Antidepressant Caused Homicidal Rage — and Hid It",
+    "hook": "Internal documents revealed a pharmaceutical giant suppressed studies showing its antidepressant triggered violent outbursts — while millions took it daily.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "antidepressant violence",
+      "hidden side effects",
+      "pharma suppression",
+      "homicidal rage drug",
+      "SSRI violence cover-up"
+    ],
+    "overlap_check_hash": "75c9fec76ea5cb34",
+    "why_this_can_go_viral": "Links to real-world violence and mass shootings — viewers will debate and share as they question the medications they take."
+  },
+  {
+    "unique_id": "health_0130_017_8c0a6f3ab982a2a7",
+    "title": "The Surgeon Who Deliberately Left Tools Inside Patients — Then Charged to Remove Them",
+    "hook": "A surgeon 'accidentally' left forceps and sponges in patients, then billed their insurance for 'emergency follow-up surgeries' to retrieve them.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 86,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "surgeon leave tools",
+      "retained surgical items scam",
+      "insurance fraud surgery",
+      "repeat surgery scam",
+      "medical profit scheme"
+    ],
+    "overlap_check_hash": "8c0a6f3ab982a2a7",
+    "why_this_can_go_viral": "The audacity of deliberately harming patients for profit is outrage-bait that drives comments and shares."
+  },
+  {
+    "unique_id": "health_0130_019_07d4246fc30569c3",
+    "title": "The Clinic That Sold 'Stem Cell Therapy' — Actually Injecting Patients with Industrial Glue",
+    "hook": "Dozens of patients paid thousands for 'cutting-edge stem cell therapy' that turned out to be industrial-grade silicone glue used in plumbing.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "fake stem cell therapy",
+      "industrial glue injection",
+      "medical scam clinic",
+      "stem cell fraud",
+      "alternative medicine danger"
+    ],
+    "overlap_check_hash": "07d4246fc30569c3",
+    "why_this_can_go_viral": "Promise of miracle cure turns into poisoning — plays on the desperation of patients and the predators who exploit them."
+  },
+  {
+    "unique_id": "health_0130_020_06dc482a0c5f040d",
+    "title": "The Doctor Who Prescribed 50,000 Oxycodone Pills to a Dead Man",
+    "hook": "A 'pill mill' doctor prescribed over 50,000 opioid pills to a patient who had been dead for 8 months — and the pharmacy filled them.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "pill mill doctor",
+      "opioid prescription fraud",
+      "dead man oxycodone",
+      "pharmacy negligence",
+      "opioid crisis corruption"
+    ],
+    "overlap_check_hash": "06dc482a0c5f040d",
+    "why_this_can_go_viral": "Absurdly criminal yet true — the dead man prescription is a darkly humorous hook that pulls viewers into the opioid crisis horror."
+  },
+  {
+    "unique_id": "health_0130_021_cc30636b10a83ed2",
+    "title": "The Hospital That Kept a 'Morgue Baby' Alive in a Drawer for 20 Years",
+    "hook": "A brain-dead infant was stored in a morgue drawer for 20 years while the hospital billed Medicare for 'ongoing pediatric care'.",
+    "virality_score": 92,
+    "curiosity_gap_score": 97,
+    "darkness_score": 98,
+    "educational_value": 70,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "morgue baby",
+      "hospital fraud",
+      "Medicare scam",
+      "brain dead patient billing",
+      "grotesque medical crime"
+    ],
+    "overlap_check_hash": "cc30636b10a83ed2",
+    "why_this_can_go_viral": "Morbidly shocking and surreal — the image of a baby in a drawer for 20 years is unforgettable, driving massive engagement."
+  },
+  {
+    "unique_id": "health_0130_022_4c856f561ceb4a80",
+    "title": "The Clinical Trial That Pumped Malaria into Psychiatric Patients' Veins",
+    "hook": "Doctors injected psychotic patients with malaria-infected blood to 'treat' their mental illness — and some died from the fever.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 74,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "malaria treatment mental illness",
+      "psychiatric patient experiments",
+      "fever therapy horror",
+      "unethical clinical trial",
+      "historical medical atrocities"
+    ],
+    "overlap_check_hash": "4c856f561ceb4a80",
+    "why_this_can_go_viral": "The absurd yet cruel 'treatment' of giving someone malaria is both fascinating and horrifying — perfect for dark history content."
+  },
+  {
+    "unique_id": "health_0130_023_ccd7df4b1562ab1f",
+    "title": "The 'All-Natural' Cold Remedy That Was 80% Methamphetamine Precursors",
+    "hook": "A best-selling herbal cold syrup contained precursor chemicals used to cook meth — and caused hundreds to test positive for amphetamines.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "herbal syrup meth",
+      "cold medicine drug test positive",
+      "natural remedy dangerous",
+      "supplement contamination",
+      "pseudoephedrine cover-up"
+    ],
+    "overlap_check_hash": "ccd7df4b1562ab1f",
+    "why_this_can_go_viral": "Unexpected drug test fails and 'natural' label deception — viewers with jobs that drug test will share immediately."
+  },
+  {
+    "unique_id": "health_0130_025_4281132a1d0b73c1",
+    "title": "The Doctor Who Secretly Filmed 10,000 Patients and Sold the Videos Online",
+    "hook": "A gynecologist hid cameras in his examination rooms for over a decade — and sold the footage of thousands of unconscious women on the dark web.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 68,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "doctor hidden camera",
+      "gynecologist dark web",
+      "patient privacy violation",
+      "medical voyeurism",
+      "exam room recording"
+    ],
+    "overlap_check_hash": "4281132a1d0b73c1",
+    "why_this_can_go_viral": "The ultimate violation of trust and privacy — every viewer imagines their own doctor and feels sick, driving massive shares."
+  }
+]

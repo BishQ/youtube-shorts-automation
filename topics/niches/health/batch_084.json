@@ -1,0 +1,317 @@
+[
+  {
+    "unique_id": "health_0084_002_200b02b1a2802fdd",
+    "title": "The FDA-Approved Antidepressant That Made Users Want to Kill",
+    "hook": "It was supposed to lift your mood—instead, it flipped a switch in your brain that screamed for violence.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 89,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "antidepressant violence",
+      "SSRI suicide",
+      "FDA approved killer",
+      "drug causes murder",
+      "black box warning"
+    ],
+    "overlap_check_hash": "200b02b1a2802fdd",
+    "why_this_can_go_viral": "Everyone knows someone on antidepressants; the idea that a prescription could trigger homicidal urges is terrifyingly personal."
+  },
+  {
+    "unique_id": "health_0084_003_01d8f8b6ea067678",
+    "title": "The Pharmaceutical CEO Who Buried a Cancer Cure to Sell Chemo",
+    "hook": "He had the formula that could end chemotherapy forever. He locked it in a safe and sold the key to the highest bidder.",
+    "virality_score": 96,
+    "curiosity_gap_score": 99,
+    "darkness_score": 97,
+    "educational_value": 75,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "cancer cure buried",
+      "pharma CEO",
+      "chemo profits",
+      "suppressed cure",
+      "big pharma conspiracy"
+    ],
+    "overlap_check_hash": "01d8f8b6ea067678",
+    "why_this_can_go_viral": "The ultimate 'they don't want you to get well' narrative—taps into deep distrust of the medical industry and hope for a hidden cure."
+  },
+  {
+    "unique_id": "health_0084_004_485d9f61f73a4c09",
+    "title": "The Hospital That Burned 400 Patients Alive for Insurance Money",
+    "hook": "A fire broke out in the ICU. But the hospital's sprinklers—and the truth—had been turned off months before.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 100,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "hospital fire insurance",
+      "patients burned alive",
+      "healthcare fraud",
+      "ICU fire",
+      "hospital arson for profit"
+    ],
+    "overlap_check_hash": "485d9f61f73a4c09",
+    "why_this_can_go_viral": "Combines a horrific disaster with cold corporate greed—outrage and morbid curiosity drive massive engagement."
+  },
+  {
+    "unique_id": "health_0084_006_541aa0e0a03ed6a9",
+    "title": "The Toxic Baby Formula That Caused 1 in 10 Infants to Go Blind",
+    "hook": "Newborns were fed a 'scientific breakthrough' that quietly dissolved their retinas from the inside.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 88,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "baby formula blindness",
+      "toxic infant formula",
+      "newborns blind",
+      "formula scandal",
+      "infant health cover-up"
+    ],
+    "overlap_check_hash": "541aa0e0a03ed6a9",
+    "why_this_can_go_viral": "Targets the most vulnerable—infants—making it emotionally devastating and highly shareable among parents."
+  },
+  {
+    "unique_id": "health_0084_007_81dec7777a53cce3",
+    "title": "The Disease Cover-Up: How 'Migraines' Were Caused by a Chemical in Mattresses",
+    "hook": "Millions of people suffer from crippling headaches. The culprit was literally under their heads every night.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 85,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "migraine cause mattress",
+      "chemical migraine",
+      "flame retardant headache",
+      "hidden cause",
+      "sleep danger"
+    ],
+    "overlap_check_hash": "81dec7777a53cce3",
+    "why_this_can_go_viral": "Extremely relatable (migraines affect 1 in 7) and reveals a hidden threat in an everyday object—drives urgent clicks."
+  },
+  {
+    "unique_id": "health_0084_008_4c4a40d1aa38365f",
+    "title": "The Doctor Who Removed 1,000 Healthy Appendixes for Cash",
+    "hook": "He told patients their appendix was about to burst. The only thing bursting was his bank account.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "unnecessary appendectomy",
+      "doctor removed healthy appendix",
+      "surgery fraud",
+      "greedy surgeon",
+      "medical scam"
+    ],
+    "overlap_check_hash": "4c4a40d1aa38365f",
+    "why_this_can_go_viral": "Visceral fear of unnecessary surgery—everyone who's had an appendectomy will question their own experience."
+  },
+  {
+    "unique_id": "health_0084_009_3deee0de6d14d7ee",
+    "title": "The Experiment That Forced 50 Orphans to Drink Radioactive Milk",
+    "hook": "They were promised a free meal. Instead, they got a dose of radiation that would silently gnaw at their bones for decades.",
+    "virality_score": 97,
+    "curiosity_gap_score": 99,
+    "darkness_score": 100,
+    "educational_value": 92,
+    "estimated_short_retention": 95,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "radioactive milk experiment",
+      "orphan radiation",
+      "human testing children",
+      "atomic experiments",
+      "forbidden science"
+    ],
+    "overlap_check_hash": "3deee0de6d14d7ee",
+    "why_this_can_go_viral": "Exploits the ultimate taboo—harming innocent orphans with radiation—creating maximum moral outrage and shock."
+  },
+  {
+    "unique_id": "health_0084_014_7d829c6e14ae214d",
+    "title": "The Toxic Nail Polish That Caused 1 in 20 Women to Lose Their Fingernails",
+    "hook": "You thought you were getting a beauty treatment. The chemicals were eating your nails from the surface down.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 84,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "nail polish nail loss",
+      "toxic beauty product",
+      "fingernail falling off",
+      "beauty chemical danger",
+      "cosmetic cover-up"
+    ],
+    "overlap_check_hash": "7d829c6e14ae214d",
+    "why_this_can_go_viral": "Visually disgusting and shocking—perfect for 'ick factor' shares, especially among women."
+  },
+  {
+    "unique_id": "health_0084_015_2ce96c95972b439d",
+    "title": "The Suppressed Cure: $1 Honey Bandage Healed 70% of Diabetic Ulcers",
+    "hook": "A $1 jar of honey outperformed $1,000 medications. The FDA called it 'unapproved' and banned it from hospitals.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 90,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "honey bandage cure",
+      "diabetic ulcer treatment",
+      "suppressed natural cure",
+      "FDA ban honey",
+      "cheap cure"
+    ],
+    "overlap_check_hash": "2ce96c95972b439d",
+    "why_this_can_go_viral": "The contrast between a penny cure and expensive medicine is universally infuriating—perfect for anti-establishment shares."
+  },
+  {
+    "unique_id": "health_0084_016_638230f743fd7e09",
+    "title": "The Doctor Who Performed 200 Useless Surgeries to Get Bonuses",
+    "hook": "He was the hospital's top surgeon. Every operation added thousands to his paycheck—and years of pain to his patients.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 94,
+    "educational_value": 82,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "unnecessary surgeries profit",
+      "surgeon bonus scam",
+      "medical fraud",
+      "fake operations",
+      "doctor greed"
+    ],
+    "overlap_check_hash": "638230f743fd7e09",
+    "why_this_can_go_viral": "Taps into the fear of being operated on unnecessarily—creates distrust and drives urgent clicks from anyone facing surgery."
+  },
+  {
+    "unique_id": "health_0084_017_a396ade87ee0d823",
+    "title": "The Experiment That Made 60 Men Infertile Without Their Consent",
+    "hook": "They signed up for a 'vitamin study.' The real test was seeing how much radiation it took to permanently sterilize them.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 98,
+    "educational_value": 89,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "sterilization experiment",
+      "radiation infertility",
+      "human guinea pigs",
+      "forced sterilization",
+      "medical atrocity"
+    ],
+    "overlap_check_hash": "a396ade87ee0d823",
+    "why_this_can_go_viral": "Attacks the core of masculinity and reproduction—outrage and horror guarantee shares across all demographics."
+  },
+  {
+    "unique_id": "health_0084_021_a3a550c990efc511",
+    "title": "The Disease Cover-Up: How 'Dandruff' Was Caused by a Fungus in Shampoo",
+    "hook": "Your scalp was flaking because the 'solution' was actually feeding the problem.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 74,
+    "educational_value": 82,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "dandruff shampoo fungus",
+      "scalp disease cover-up",
+      "shampoo side effects",
+      "beauty product lie",
+      "hidden cause dandruff"
+    ],
+    "overlap_check_hash": "a3a550c990efc511",
+    "why_this_can_go_viral": "Almost everyone has used dandruff shampoo—the irony that it causes the problem is highly shareable."
+  },
+  {
+    "unique_id": "health_0084_023_8ffa840d7ef26175",
+    "title": "The Suppressed Cure: $3 Apple Cider Vinegar Reversed 60% of Acid Reflux",
+    "hook": "The $500 antacid didn't work. But the $3 vinegar in your pantry fixed it in a week—and the study was pulled.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 81,
+    "educational_value": 89,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "apple cider vinegar reflux",
+      "acid reflux natural cure",
+      "suppressed cheap cure",
+      "antacid scam",
+      "home remedy"
+    ],
+    "overlap_check_hash": "8ffa840d7ef26175",
+    "why_this_can_go_viral": "Acid reflux affects billions—the idea that a penny cure works better than expensive drugs is universally appealing."
+  },
+  {
+    "unique_id": "health_0084_024_221e21a76fb06888",
+    "title": "The Doctor Who Sold Patients' DNA to Create a 'Master Race' Bioweapon",
+    "hook": "Your blood sample wasn't for routine testing. It was the blueprint for a plan to wipe out millions.",
+    "virality_score": 96,
+    "curiosity_gap_score": 99,
+    "darkness_score": 100,
+    "educational_value": 88,
+    "estimated_short_retention": 95,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "DNA sold bioweapon",
+      "master race doctor",
+      "genetic weapon",
+      "patient DNA stolen",
+      "eugenics doctor"
+    ],
+    "overlap_check_hash": "221e21a76fb06888",
+    "why_this_can_go_viral": "Combines personal data theft with eugenics horror—a deeply unsettling, unique angle that guarantees massive outrage shares."
+  },
+  {
+    "unique_id": "health_0084_025_20c7e42fffc16315",
+    "title": "The Experiment That Kept 30 Babies in Freezing Rooms to 'Test Survival'",
+    "hook": "They were days old. Scientists wanted to know how long it took for their tiny bodies to give up.",
+    "virality_score": 98,
+    "curiosity_gap_score": 100,
+    "darkness_score": 100,
+    "educational_value": 91,
+    "estimated_short_retention": 97,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "baby freezing experiment",
+      "infant cold test",
+      "cruel medical experiment",
+      "newborn torture",
+      "forbidden human testing"
+    ],
+    "overlap_check_hash": "20c7e42fffc16315",
+    "why_this_can_go_viral": "The most vulnerable subjects imaginable (newborns) in the cruelest possible scenario—pure, shareable horror that will dominate feeds."
+  }
+]

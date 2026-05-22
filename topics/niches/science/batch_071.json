@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "science_0071_001_5b3045e436d98bfe",
+    "title": "The Lab That Bred a Human-Monkey Embryo and Destroyed It",
+    "hook": "Scientists secretly grew a chimera embryo containing human cells inside a monkey—and then terminated it before it could be born.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human-monkey chimera",
+      "embryo experiment",
+      "forbidden science",
+      "ethics violation",
+      "stem cell horror"
+    ],
+    "overlap_check_hash": "5b3045e436d98bfe",
+    "why_this_can_go_viral": "Moral panic about blurring species lines triggers outrage and fascination—perfect for debate-driven engagement."
+  },
+  {
+    "unique_id": "science_0071_002_06994aefa60d2f35",
+    "title": "The Chemist Who Mixed Cleaning Products and Created a War Gas",
+    "hook": "A single janitor in a university lab mixed bleach and ammonia—and accidentally synthesized a chemical weapon that killed three people.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "bleach ammonia reaction",
+      "chemical weapon accident",
+      "lab death",
+      "chloramine gas",
+      "deadly cleaning mistake"
+    ],
+    "overlap_check_hash": "06994aefa60d2f35",
+    "why_this_can_go_viral": "Shockingly relatable (household chemicals) turned lethal—viewers will share as a safety warning."
+  },
+  {
+    "unique_id": "science_0071_005_ef5262005876ebb4",
+    "title": "The Fraud Scientist Who Faked a Paper That Made Cancer Disappear",
+    "hook": "A respected researcher published a paper claiming a cheap drug cured all tumors—until patients died and the data was exposed as a fabrication.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "cancer cure fraud",
+      "fake paper",
+      "patient deaths",
+      "retracted study",
+      "science scandal"
+    ],
+    "overlap_check_hash": "ef5262005876ebb4",
+    "why_this_can_go_viral": "False hope turned deadly—outrage and betrayal drive shares and commentary."
+  },
+  {
+    "unique_id": "science_0071_006_fdd6b9909f5aabda",
+    "title": "The Neuroscientist Who Made a Rat Fight Its Own Reflection Forever",
+    "hook": "By stimulating a single brain region, a rat attacked a mirror for days—proving your brain can override reality with aggression.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 74,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain stimulation aggression",
+      "mirror rage",
+      "amygdala override",
+      "animal behavior torture",
+      "neural control"
+    ],
+    "overlap_check_hash": "fdd6b9909f5aabda",
+    "why_this_can_go_viral": "The dark side of brain manipulation—viewers question how much of their own behavior is hardwired."
+  },
+  {
+    "unique_id": "science_0071_008_fe015c118258ef2f",
+    "title": "The Chemist Who Discovered a Liquid That Explodes When You Pour It",
+    "hook": "A colorless solvent called nitroglycerin was so unstable that just moving the bottle could level a building—and people used it for headaches.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 78,
+    "educational_value": 75,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "nitroglycerin explosion",
+      "deadly medicine",
+      "Alfred Nobel",
+      "unstable compound",
+      "historical accident"
+    ],
+    "overlap_check_hash": "fe015c118258ef2f",
+    "why_this_can_go_viral": "Historical shock factor—people literally drank explosives as medicine; dark irony drives curiosity."
+  },
+  {
+    "unique_id": "science_0071_009_d2c56f25a3d31e05",
+    "title": "The Forbidden Experiment That Taught a Chimp to Speak—Then Broke It",
+    "hook": "A chimpanzee raised like a human learned 350 signs—but her last word before dying alone was 'hurt'.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 73,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "sign language chimp",
+      "Nim Chimpsky",
+      "animal cruelty experiment",
+      "humanization failure",
+      "linguistic horror"
+    ],
+    "overlap_check_hash": "d2c56f25a3d31e05",
+    "why_this_can_go_viral": "Emotional gut-punch with a tragic ending—viewers share out of moral shock and sympathy."
+  },
+  {
+    "unique_id": "science_0071_010_495f4fbc59c2d6a7",
+    "title": "The Physicist Who Discovered That Time Runs Backward Inside a Black Hole",
+    "hook": "Einstein's equations suggest that inside a black hole's event horizon, cause and effect reverse—effects come before causes.",
+    "virality_score": 81,
+    "curiosity_gap_score": 92,
+    "darkness_score": 68,
+    "educational_value": 86,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time reversal black hole",
+      "causality break",
+      "event horizon physics",
+      "Einstein equations",
+      "reality inversion"
+    ],
+    "overlap_check_hash": "495f4fbc59c2d6a7",
+    "why_this_can_go_viral": "Mind-bending concept that challenges intuitive understanding of time—perfect for comment debates."
+  },
+  {
+    "unique_id": "science_0071_011_c6caffbbc913db76",
+    "title": "The Biologist Who Found a Worm That Burrows Into Your Brain and Lays Eggs",
+    "hook": "A parasite that lives in raw fish can crawl up your nose into your brain—and there is no cure once it reaches gray matter.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "brain worm",
+      "parasite horror",
+      "neurocysticercosis",
+      "tapeworm brain",
+      "sushi danger"
+    ],
+    "overlap_check_hash": "c6caffbbc913db76",
+    "why_this_can_go_viral": "Visceral disgust and immediate personal relevance (sushi lovers) guarantee shares and fear-driven clicks."
+  },
+  {
+    "unique_id": "science_0071_012_8f64de444f74ef23",
+    "title": "The Fraud Scientist Who Faked a Blood Test That Killed Thousands",
+    "hook": "A startup claimed a single drop of blood could detect all diseases—but the machine was a lie, and patients got false results that led to deaths.",
+    "virality_score": 89,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "Theranos fraud",
+      "Elizabeth Holmes",
+      "fake blood test",
+      "medical scam",
+      "patient deaths"
+    ],
+    "overlap_check_hash": "8f64de444f74ef23",
+    "why_this_can_go_viral": "True-crime science with real victims—viewers love exposing the dark side of Silicon Valley hype."
+  },
+  {
+    "unique_id": "science_0071_014_0278e2af2a6525d4",
+    "title": "The Lab That Smuggled Anthrax Out of a Soviet Facility in a Perfume Bottle",
+    "hook": "A defector hid a vial of weaponized anthrax inside a French perfume bottle—and the strain is still kept in a US military freezer.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "Soviet anthrax",
+      "bioweapon theft",
+      "defector story",
+      "Biopreparat",
+      "cold war horror"
+    ],
+    "overlap_check_hash": "0278e2af2a6525d4",
+    "why_this_can_go_viral": "Espionage meets bioweapons—high thriller appeal with real historical stakes."
+  },
+  {
+    "unique_id": "science_0071_015_3ef63f1accba9cc4",
+    "title": "The Quantum Experiment That Proved Reality Doesn't Exist Until You Look",
+    "hook": "Particles took different paths based on whether a detector was watching—as if the universe is a simulation that renders only when observed.",
+    "virality_score": 83,
+    "curiosity_gap_score": 93,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "observer effect",
+      "quantum eraser",
+      "reality illusion",
+      "wave function collapse",
+      "double slit"
+    ],
+    "overlap_check_hash": "3ef63f1accba9cc4",
+    "why_this_can_go_viral": "Philosophical bombshell that makes viewers question everything—drives intense speculation and sharing."
+  },
+  {
+    "unique_id": "science_0071_016_1644ee4c0726d55a",
+    "title": "The Chemist Who Made a Compound That Eats Your DNA from the Inside",
+    "hook": "A lab error produced a molecule that binds to DNA and chops it into pieces—and it was accidentally inhaled by a researcher who survived with permanent damage.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 87,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "DNA cleavage",
+      "carcinogenic compound",
+      "lab accident",
+      "chemical burn",
+      "molecular disaster"
+    ],
+    "overlap_check_hash": "1644ee4c0726d55a",
+    "why_this_can_go_viral": "Body horror at the molecular level—vivid and terrifying detail that sticks in memory."
+  },
+  {
+    "unique_id": "science_0071_017_b1ae83bb5de752ef",
+    "title": "The Forbidden Experiment That Starved Prisoners to Study the Mind",
+    "hook": "In 1944, scientists deliberately starved 36 healthy men to learn about hunger—and the psychological damage lasted decades.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 90,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "starvation experiment",
+      "Minnesota study",
+      "human deprivation",
+      "psychological trauma",
+      "ethical horror"
+    ],
+    "overlap_check_hash": "b1ae83bb5de752ef",
+    "why_this_can_go_viral": "Dark human experimentation resonates with current ethical debates—outrage and historical shock."
+  },
+  {
+    "unique_id": "science_0071_018_b8de0205ad5fa0a3",
+    "title": "The Biologist Who Found a Fungus That Replaces Its Host's Body with Mushrooms",
+    "hook": "A parasitic fungus takes over an insect's brain, forces it to climb, then sprouts out of its head—and similar fungi can infect humans.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "zombie fungus",
+      "Cordyceps",
+      "body horror",
+      "mind control fungus",
+      "real life parasitism"
+    ],
+    "overlap_check_hash": "b8de0205ad5fa0a3",
+    "why_this_can_go_viral": "Gross and terrifying—'zombie ant' content consistently goes viral; human angle raises stakes."
+  },
+  {
+    "unique_id": "science_0071_019_b9653a69ae20c1c1",
+    "title": "The Physicist Who Found That the Vacuum in Space Is Screaming",
+    "hook": "When scientists turned a quantum microphone to 'empty' space, they heard a constant hiss—the sound of particles popping in and out of existence.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 65,
+    "educational_value": 80,
+    "estimated_short_retention": 74,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "quantum vacuum noise",
+      "empty space sound",
+      "Casimir effect",
+      "quantum foam",
+      "universe hum"
+    ],
+    "overlap_check_hash": "b9653a69ae20c1c1",
+    "why_this_can_go_viral": "Mysterious 'sound of nothing' is eerie and shareable—sensory hook makes abstract physics tangible."
+  },
+  {
+    "unique_id": "science_0071_021_dfe9f81e6deb47e6",
+    "title": "The Lab That Leaked a Chemical That Made People's Hair Fall Out in Clumps",
+    "hook": "A factory accident released a compound called thallium into a town—and residents lost all body hair, then suffered nerve damage and death.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 81,
+    "educational_value": 72,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "thallium poisoning",
+      "hair loss disaster",
+      "chemical leak",
+      "industrial accident",
+      "heavy metal horror"
+    ],
+    "overlap_check_hash": "dfe9f81e6deb47e6",
+    "why_this_can_go_viral": "Visual shock (hair loss) plus slow death creates a morbid curiosity loop."
+  },
+  {
+    "unique_id": "science_0071_022_730a290eb5544f63",
+    "title": "The Fraud Scientist Who Faked a Fossil That Fooled the World for 40 Years",
+    "hook": "A 'missing link' fossil proved human evolution—until an X-ray revealed it was a carved monkey skull glued to an orangutan jaw.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 73,
+    "educational_value": 82,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "Piltdown Man",
+      "hoax fossil",
+      "evolution fake",
+      "archaeology fraud",
+      "missing link lie"
+    ],
+    "overlap_check_hash": "730a290eb5544f63",
+    "why_this_can_go_viral": "Classic 'the experts were wrong' story—feeds anti-establishment sentiment and curiosity."
+  },
+  {
+    "unique_id": "science_0071_024_1d2f7fe7fa3190f2",
+    "title": "The Biologist Who Found a Bacteria That Eats Metal and Lives in Acid",
+    "hook": "A microbe thriving inside corroded copper pipes in a toxic mine survives on pure iron—and scientists think it came from another planet.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 69,
+    "educational_value": 79,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "extremophile bacteria",
+      "metal-eating microbe",
+      "alien life candidate",
+      "acid survivor",
+      "iron bacteria"
+    ],
+    "overlap_check_hash": "1d2f7fe7fa3190f2",
+    "why_this_can_go_viral": "Alien origins speculation and 'life finds a way' defiance—combines wonder with unease."
+  }
+]

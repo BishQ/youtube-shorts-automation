@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "facts_0094_001_14382a9a67b7adb1",
+    "title": "The Parasite That Rewrites Your Brain Chemistry",
+    "hook": "A single-celled organism is silently altering human behavior, and half the world may already be infected.",
+    "virality_score": 88,
+    "curiosity_gap_score": 85,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "toxoplasma",
+      "brain parasite",
+      "behavior control",
+      "hidden infection",
+      "mind manipulation"
+    ],
+    "overlap_check_hash": "14382a9a67b7adb1",
+    "why_this_can_go_viral": "Combines fear of invisible threats with the shocking idea that your decisions may not be your own."
+  },
+  {
+    "unique_id": "facts_0094_003_0e84c19d47a6d8ec",
+    "title": "The Everyday Salt That Can Trigger a Heart Attack",
+    "hook": "That pinch of salt on your food might be silently damaging your arteries in ways you never imagined.",
+    "virality_score": 76,
+    "curiosity_gap_score": 70,
+    "darkness_score": 75,
+    "educational_value": 85,
+    "estimated_short_retention": 75,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "salt danger",
+      "hidden heart risk",
+      "sodium shock",
+      "artery damage",
+      "diet trap"
+    ],
+    "overlap_check_hash": "0e84c19d47a6d8ec",
+    "why_this_can_go_viral": "Taps into everyday paranoia about common foods; highly relatable and actionable fear."
+  },
+  {
+    "unique_id": "facts_0094_004_ea63f244a6cfe1fc",
+    "title": "The Animal That Can Regrow Every Organ Except Its Brain",
+    "hook": "It can regrow limbs, heart, and even eyes, but one mistake and its brain is gone forever.",
+    "virality_score": 84,
+    "curiosity_gap_score": 82,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "axolotl regeneration",
+      "organ regrowth",
+      "brain limit",
+      "amphibian anomaly",
+      "regeneration mystery"
+    ],
+    "overlap_check_hash": "ea63f244a6cfe1fc",
+    "why_this_can_go_viral": "Defies expectations about biological limits; audience loves 'almost immortal' creatures."
+  },
+  {
+    "unique_id": "facts_0094_006_d91b4f0f1dcdd44d",
+    "title": "The Statistic That You Have a 1 in 10 Chance of Dying in Your Shower",
+    "hook": "Your daily shower is statistically one of the most dangerous places in your home.",
+    "virality_score": 80,
+    "curiosity_gap_score": 78,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 78,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "shower death",
+      "home danger",
+      "slippery risk",
+      "bathroom hazard",
+      "accident stats"
+    ],
+    "overlap_check_hash": "d91b4f0f1dcdd44d",
+    "why_this_can_go_viral": "Turns a mundane habit into a life-threatening activity; exploits fear of the familiar."
+  },
+  {
+    "unique_id": "facts_0094_007_8116dfed9c56d8a5",
+    "title": "The Glitch Where Your Blood Can Boil From a Sudden Stop",
+    "hook": "Decelerating too fast can cause your blood to vaporize inside your veins.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "blood boil",
+      "deceleration injury",
+      "ejection seat",
+      "cavitation",
+      "body limits"
+    ],
+    "overlap_check_hash": "8116dfed9c56d8a5",
+    "why_this_can_go_viral": "Extreme body failure scenario; 'your blood can boil' is inherently shocking and memorable."
+  },
+  {
+    "unique_id": "facts_0094_009_7070ede5166e89e1",
+    "title": "The Sound That Can Shatter Glass Inside Your Body",
+    "hook": "Certain frequencies can crack your teeth, bones, and even implants without touching you.",
+    "virality_score": 83,
+    "curiosity_gap_score": 85,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "sound shatter",
+      "resonance danger",
+      "bone fracture",
+      "acoustic weapon",
+      "frequency harm"
+    ],
+    "overlap_check_hash": "7070ede5166e89e1",
+    "why_this_can_go_viral": "Combines physics with body horror; 'invisible killer' trope is highly clickable."
+  },
+  {
+    "unique_id": "facts_0094_010_a0d3b194a4c42c45",
+    "title": "The Everyday LED Light That Can Blind You Slowly",
+    "hook": "That cool blue glow from your bulbs is silently destroying your retinas over time.",
+    "virality_score": 77,
+    "curiosity_gap_score": 75,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 76,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "blue light",
+      "LED blindness",
+      "retina damage",
+      "eye danger",
+      "modern lighting risk"
+    ],
+    "overlap_check_hash": "a0d3b194a4c42c45",
+    "why_this_can_go_viral": "High relatability; everyone uses LEDs, creating immediate personal relevance."
+  },
+  {
+    "unique_id": "facts_0094_012_bc46afa483011622",
+    "title": "The River That Can Dissolve Your Skin in Minutes",
+    "hook": "A river in Indonesia is so acidic it can strip flesh from bone faster than any animal.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 74,
+    "estimated_short_retention": 87,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "acid river",
+      "skin dissolve",
+      "indonesia poison",
+      "deadly waterway",
+      "chemical river"
+    ],
+    "overlap_check_hash": "bc46afa483011622",
+    "why_this_can_go_viral": "Extreme body horror location; 'acid river' is a visceral and terrifying concept."
+  },
+  {
+    "unique_id": "facts_0094_013_cce034549e98148d",
+    "title": "The Statistic That You Are More Likely to Die From Your Own Sneezing Than a Shark",
+    "hook": "A violent sneeze can rupture your throat, but shark attacks are statistically safer.",
+    "virality_score": 81,
+    "curiosity_gap_score": 83,
+    "darkness_score": 76,
+    "educational_value": 58,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "sneeze death",
+      "shark vs sneeze",
+      "unlikely death",
+      "body failure",
+      "statistical reality"
+    ],
+    "overlap_check_hash": "cce034549e98148d",
+    "why_this_can_go_viral": "Undermines common fear of sharks with a mundane, relatable activity."
+  },
+  {
+    "unique_id": "facts_0094_014_5584affe78a129b6",
+    "title": "The Glitch Where Your Heart Can Stop From a Stomach Ulcer",
+    "hook": "A simple stomach ulcer can trigger a reflex that shuts down your heart instantly.",
+    "virality_score": 78,
+    "curiosity_gap_score": 76,
+    "darkness_score": 84,
+    "educational_value": 75,
+    "estimated_short_retention": 77,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "ulcer heart stop",
+      "vagus nerve",
+      "cardiac arrest",
+      "stomach danger",
+      "reflex death"
+    ],
+    "overlap_check_hash": "5584affe78a129b6",
+    "why_this_can_go_viral": "Reveals a hidden vulnerability in the body; 'common condition kills you' is alarming."
+  },
+  {
+    "unique_id": "facts_0094_015_c34300e23556e298",
+    "title": "The Nature Paradox Where Coral Reefs Eat Their Own Offspring",
+    "hook": "When stressed, corals release poison that kills baby coral to save the colony.",
+    "virality_score": 75,
+    "curiosity_gap_score": 78,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 74,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "coral cannibalism",
+      "reef death",
+      "offspring poison",
+      "marine paradox",
+      "colony survival"
+    ],
+    "overlap_check_hash": "c34300e23556e298",
+    "why_this_can_go_viral": "Dark twist on parent-offspring relationships in nature; dramatic and unexpected."
+  },
+  {
+    "unique_id": "facts_0094_016_fd819452bad7c4af",
+    "title": "The Everyday Bottled Water That Can Give You Brain-Eating Amoebas",
+    "hook": "That bottle of water left in the sun might be breeding a killer that eats your brain.",
+    "virality_score": 92,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "brain amoeba",
+      "bottled water",
+      "naegleria",
+      "sun danger",
+      "parasite risk"
+    ],
+    "overlap_check_hash": "fd819452bad7c4af",
+    "why_this_can_go_viral": "Extreme fear factor with high relatability; everyone drinks bottled water."
+  },
+  {
+    "unique_id": "facts_0094_017_a41c269e43faaaa8",
+    "title": "The Glitch Where Your Own Immune System Can Turn Your Skin to Stone",
+    "hook": "A rare disease causes your body to grow a second skeleton, trapping you alive in your own skin.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "stone skin",
+      "FOP disease",
+      "second skeleton",
+      "immune glitch",
+      "body horror"
+    ],
+    "overlap_check_hash": "a41c269e43faaaa8",
+    "why_this_can_go_viral": "Body horror at its peak; 'trapped alive in your own body' is a primal fear."
+  },
+  {
+    "unique_id": "facts_0094_018_8452b5eaef851356",
+    "title": "The Statistic That Most Lightning Strikes Happen After the Storm Is Gone",
+    "hook": "Blue skies can be deadlier than thunderclouds—lightning strikes from miles away.",
+    "virality_score": 80,
+    "curiosity_gap_score": 79,
+    "darkness_score": 72,
+    "educational_value": 85,
+    "estimated_short_retention": 78,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "lightning after storm",
+      "blue sky lightning",
+      "bolt from blue",
+      "weather myth",
+      "strike risk"
+    ],
+    "overlap_check_hash": "8452b5eaef851356",
+    "why_this_can_go_viral": "Counterintuitive safety tip; 'you're at risk when you think you're safe' is compelling."
+  },
+  {
+    "unique_id": "facts_0094_019_4a656eea1dfd985b",
+    "title": "The Sound That Can Make Your Hair Stand Up—And Your Blood Curdle",
+    "hook": "Infrasound from natural disasters can trigger primal fear, even if you can't hear it.",
+    "virality_score": 82,
+    "curiosity_gap_score": 84,
+    "darkness_score": 80,
+    "educational_value": 76,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "infrasound fear",
+      "inaudible sound",
+      "primal terror",
+      "earthquake sound",
+      "hidden vibration"
+    ],
+    "overlap_check_hash": "4a656eea1dfd985b",
+    "why_this_can_go_viral": "Invisible force that controls emotions; 'you can't escape it' is eerie and shareable."
+  },
+  {
+    "unique_id": "facts_0094_020_84ba6f3d025ad1d6",
+    "title": "The Animal That Can Turn Its Own Urine Into a Weapon",
+    "hook": "A desert creature squirts boiling urine at predators, burning their eyes and skin.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 83,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "urine weapon",
+      "desert beetle",
+      "boiling defense",
+      "animal attack",
+      "weird defense"
+    ],
+    "overlap_check_hash": "84ba6f3d025ad1d6",
+    "why_this_can_go_viral": "Gross and fascinating; 'weaponized pee' is absurd yet real, perfect for shock value."
+  },
+  {
+    "unique_id": "facts_0094_021_1e5a513b7485e0a2",
+    "title": "The Lake That Can Inhale You Into the Abyss",
+    "hook": "A lake in Africa suddenly releases toxic gas, suffocating everything within miles without warning.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "lake nyos",
+      "killer lake",
+      "carbon dioxide burst",
+      "silent death",
+      "africa disaster"
+    ],
+    "overlap_check_hash": "1e5a513b7485e0a2",
+    "why_this_can_go_viral": "Real event where nature turned deadly instantly; 'silent killer' narrative is gripping."
+  },
+  {
+    "unique_id": "facts_0094_022_baa7ce2a4b150b88",
+    "title": "The Nature Paradox Where Plants Can Smell Predators—And Scream for Help",
+    "hook": "When a caterpillar bites a leaf, the plant releases chemical signals that attract the caterpillar's enemy.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 77,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "plant scream",
+      "chemical warfare",
+      "predator attraction",
+      "plant intelligence",
+      "defense signal"
+    ],
+    "overlap_check_hash": "baa7ce2a4b150b88",
+    "why_this_can_go_viral": "Anthropomorphizes plants as cunning survivors; 'plants call for help' is mind-blowing."
+  },
+  {
+    "unique_id": "facts_0094_023_0bfbe2f74b1aaf26",
+    "title": "The Everyday Toothbrush That Can Infect Your Heart",
+    "hook": "Brushing too hard can release bacteria into your bloodstream, leading to deadly heart infection.",
+    "virality_score": 84,
+    "curiosity_gap_score": 80,
+    "darkness_score": 85,
+    "educational_value": 82,
+    "estimated_short_retention": 82,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "toothbrush danger",
+      "heart infection",
+      "bacteria blood",
+      "endocarditis",
+      "oral hygiene risk"
+    ],
+    "overlap_check_hash": "0bfbe2f74b1aaf26",
+    "why_this_can_go_viral": "Reveals hidden risk in a universal daily habit; 'your toothbrush can kill you' is powerful."
+  },
+  {
+    "unique_id": "facts_0094_024_09fa2b8b3abeba14",
+    "title": "The Glitch Where Your Spine Can Crack Like Glass From a Sneeze",
+    "hook": "A single powerful sneeze can shatter vertebrae, leaving you paralyzed instantly.",
+    "virality_score": 86,
+    "curiosity_gap_score": 84,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "sneeze paralysis",
+      "spine fracture",
+      "vertebrae shatter",
+      "body glitch",
+      "sudden injury"
+    ],
+    "overlap_check_hash": "09fa2b8b3abeba14",
+    "why_this_can_go_viral": "Combines mundane action with catastrophic outcome; 'your own body betrays you' is terrifying."
+  },
+  {
+    "unique_id": "facts_0094_025_d404247532c1edce",
+    "title": "The Statistic That You Probably Have Fungus Growing in Your Lungs Right Now",
+    "hook": "Most people inhale microscopic fungal spores daily, and they can lie dormant for years before attacking.",
+    "virality_score": 83,
+    "curiosity_gap_score": 81,
+    "darkness_score": 87,
+    "educational_value": 75,
+    "estimated_short_retention": 79,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "lung fungus",
+      "dormant infection",
+      "spore danger",
+      "hidden disease",
+      "common fungi"
+    ],
+    "overlap_check_hash": "d404247532c1edce",
+    "why_this_can_go_viral": "Creates immediate paranoia about something inside you right now; 'you are infected' hook."
+  }
+]

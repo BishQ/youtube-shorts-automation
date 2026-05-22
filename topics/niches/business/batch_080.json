@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "business_0080_001_c959fc0add667bb8",
+    "title": "The CEO Who Let His Own Factory Burn for Insurance",
+    "hook": "A factory fire kills three workers, but the CEO smiles—he already bet against his own building.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "CEO",
+      "insurance fraud",
+      "factory fire",
+      "betrayal",
+      "workers"
+    ],
+    "overlap_check_hash": "c959fc0add667bb8",
+    "why_this_can_go_viral": "Moral outrage + hidden scheme = massive shareability. Viewers will ask 'how did he get away with it?'"
+  },
+  {
+    "unique_id": "business_0080_002_a15a719ecdea4dae",
+    "title": "The Hedge Fund That Paid Hackers to Delay a Rival's Trades",
+    "hook": "Milliseconds decide billions—so one fund paid criminals to slow down their competitors' servers.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "hedge fund",
+      "HFT",
+      "hackers",
+      "trades",
+      "delay"
+    ],
+    "overlap_check_hash": "a15a719ecdea4dae",
+    "why_this_can_go_viral": "Reveals a secret war in finance most people don't know exists. High 'insider info' vibe."
+  },
+  {
+    "unique_id": "business_0080_003_885b175e7939c77d",
+    "title": "The Startup That Raised $50M by Faking a User Base of 10 Million",
+    "hook": "They built a dashboard that showed '10M users'—it was just a spreadsheet and 10 people clicking.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "startup",
+      "fake users",
+      "VC fraud",
+      "dashboard",
+      "investors"
+    ],
+    "overlap_check_hash": "885b175e7939c77d",
+    "why_this_can_go_viral": "Perfect mix of 'greedy founders' and 'stupid VCs.' The reveal is explosive and relatable to startup culture."
+  },
+  {
+    "unique_id": "business_0080_005_f717b5ccfd938777",
+    "title": "The Spy Who Faked a Job at a Rival's Waste Management to Steal Trade Secrets",
+    "hook": "Nobody guards the trash—so a corporate spy became a janitor and pulled billions from the dumpster.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "spy",
+      "trade secrets",
+      "trash",
+      "janitor",
+      "dumpster diving"
+    ],
+    "overlap_check_hash": "f717b5ccfd938777",
+    "why_this_can_go_viral": "Classic 'low-tech attack on high-tech' story. Easy to visualize, easy to retell."
+  },
+  {
+    "unique_id": "business_0080_006_ad07ea3b0e701a19",
+    "title": "The Ad That Used Hidden Subliminal Sounds to Make You Buy More",
+    "hook": "You didn't decide to buy that drink—a 1-second audio clip buried in the ad decided for you.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "subliminal",
+      "audio",
+      "advertising",
+      "manipulation",
+      "buy"
+    ],
+    "overlap_check_hash": "ad07ea3b0e701a19",
+    "why_this_can_go_viral": "Paranoia trigger + real science controversy = endless discussion in comments."
+  },
+  {
+    "unique_id": "business_0080_007_6b0dedbf31583f45",
+    "title": "The Factory That Mixed Sawdust Into Baby Formula to Cut Costs",
+    "hook": "Parents fed their babies 'nutrition'—it was mostly wood. And it was legal for years.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 75,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "baby formula",
+      "sawdust",
+      "adulteration",
+      "factory",
+      "scandal"
+    ],
+    "overlap_check_hash": "6b0dedbf31583f45",
+    "why_this_can_go_viral": "Baby harm instantly evokes emotion. The 'legal for years' detail fuels outrage and sharing."
+  },
+  {
+    "unique_id": "business_0080_010_c4ff302adf801bee",
+    "title": "The Startup That Sold 'Organic' Food—It Was Just Regular Produce With Fake Labels",
+    "hook": "Organic certification is a sticker. One startup bought a label printer and tripled their profit overnight.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "organic",
+      "fake labels",
+      "food fraud",
+      "certification",
+      "profit"
+    ],
+    "overlap_check_hash": "c4ff302adf801bee",
+    "why_this_can_go_viral": "Hits the wellness crowd hard. Everyone who pays premium for organic will share in disbelief."
+  },
+  {
+    "unique_id": "business_0080_011_ca68eff779f3020f",
+    "title": "The Monopoly That Bought Every Radio Station and Played Only Its Own Music",
+    "hook": "You never heard the better song—because one company owned the airwaves and silenced competition.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 72,
+    "educational_value": 76,
+    "estimated_short_retention": 81,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "radio",
+      "monopoly",
+      "music",
+      "silenced",
+      "airwaves"
+    ],
+    "overlap_check_hash": "ca68eff779f3020f",
+    "why_this_can_go_viral": "Music lovers and creators unite against a common enemy. 'Imagine never hearing your favorite artist.'"
+  },
+  {
+    "unique_id": "business_0080_012_b6e23f75847c2c24",
+    "title": "The Spy Who Stole a Rival's Formula by Tattooing It on His Back",
+    "hook": "He couldn't take notes past security—so he memorized the formula and inked it onto his skin.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 68,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "tattoo",
+      "spy",
+      "formula",
+      "memorize",
+      "security"
+    ],
+    "overlap_check_hash": "b6e23f75847c2c24",
+    "why_this_can_go_viral": "Bizarre, visual, and almost unbelievable. The 'tattoo secret' hook is highly shareable."
+  },
+  {
+    "unique_id": "business_0080_013_ba6792ae7422ae33",
+    "title": "The Ad Campaign That Gave You Discounts—in Exchange for Your DNA",
+    "hook": "A free coupon costs you your privacy—but one company wanted more: your genetic code.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "DNA",
+      "privacy",
+      "discounts",
+      "genetic data",
+      "marketing"
+    ],
+    "overlap_check_hash": "ba6792ae7422ae33",
+    "why_this_can_go_viral": "Privacy fears + biotechnology = perfect storm. Viewers will debate 'would you trade DNA for a deal?'"
+  },
+  {
+    "unique_id": "business_0080_014_940d563019c435ab",
+    "title": "The Factory That Recycled Hospital Waste Into Cheap Toys",
+    "hook": "Your child's plastic dinosaur was once a used syringe. And the label said 'safe for all ages.'",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 77,
+    "estimated_short_retention": 94,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "toys",
+      "hospital waste",
+      "recycling",
+      "syringe",
+      "danger"
+    ],
+    "overlap_check_hash": "940d563019c435ab",
+    "why_this_can_go_viral": "Extreme disgust + child safety = unstoppable virality. Parents will share immediately."
+  },
+  {
+    "unique_id": "business_0080_017_2c8c6586aa30b127",
+    "title": "The Startup That Paid Fake Users to Post Rave Reviews—and Destroyed Competitors",
+    "hook": "They hired 1,000 people to write glowing reviews. Their rivals? The same people wrote 1-star reviews.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "fake reviews",
+      "startup",
+      "competitors",
+      "reputation",
+      "manipulation"
+    ],
+    "overlap_check_hash": "2c8c6586aa30b127",
+    "why_this_can_go_viral": "Everyone has seen suspicious reviews. This confirms the darkest suspicion—and goes viral on that trust."
+  },
+  {
+    "unique_id": "business_0080_018_8d3527065eaf5dbf",
+    "title": "The Monopoly That Made Landlords Use Its 'Mandatory' App to Pay Rent",
+    "hook": "They owned the property and the software. Rent had to go through their app—and they skimmed 3%.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 76,
+    "educational_value": 79,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "landlord",
+      "app",
+      "rent",
+      "mandatory",
+      "fee"
+    ],
+    "overlap_check_hash": "8d3527065eaf5dbf",
+    "why_this_can_go_viral": "Renters and housing advocates share instantly. 'You're forced to use their app to pay them?' is infuriating."
+  },
+  {
+    "unique_id": "business_0080_019_f2c1426c3935487d",
+    "title": "The Spy Who Posed as a Photographer to Shoot a Rival's Secret Prototype",
+    "hook": "They hired a photographer for a 'press event'—he was really shooting their next product from every angle.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 66,
+    "educational_value": 62,
+    "estimated_short_retention": 78,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "photographer",
+      "spy",
+      "prototype",
+      "press",
+      "leak"
+    ],
+    "overlap_check_hash": "f2c1426c3935487d",
+    "why_this_can_go_viral": "Visual and clever. 'How to steal a billion-dollar product with a camera' is a great story to share."
+  },
+  {
+    "unique_id": "business_0080_020_1c24c5fd4d982488",
+    "title": "The Ad That Targeted You Based on Your Voice—Without You Saying a Word",
+    "hook": "Your phone wasn't listening—but the billboard was. It adjusted the ad based on your facial expression.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "billboard",
+      "voice",
+      "facial recognition",
+      "targeting",
+      "AI"
+    ],
+    "overlap_check_hash": "1c24c5fd4d982488",
+    "why_this_can_go_viral": "Creepy tech that feels like Black Mirror. Viewers will share to warn others about surveillance."
+  },
+  {
+    "unique_id": "business_0080_022_6f61350ae1f6f8ea",
+    "title": "The Industry That Hid the Fact That Its 'Safe' Chemical Causes Infertility",
+    "hook": "For decades, they knew the chemical in your plastic bottle could make you sterile. They sold it anyway.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 96,
+    "educational_value": 88,
+    "estimated_short_retention": 91,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "chemical",
+      "infertility",
+      "plastic",
+      "cover-up",
+      "health"
+    ],
+    "overlap_check_hash": "6f61350ae1f6f8ea",
+    "why_this_can_go_viral": "Personal health threat + corporate betrayal = explosive virality. Everyone wants to know if they're affected."
+  },
+  {
+    "unique_id": "business_0080_023_a165bc8c677838d8",
+    "title": "The Trader Who Used a Seismic Sensor to Predict Factory Output",
+    "hook": "He didn't need earnings reports—he just listened to the ground shake when the machines ran.",
+    "virality_score": 77,
+    "curiosity_gap_score": 84,
+    "darkness_score": 70,
+    "educational_value": 73,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "seismic",
+      "sensor",
+      "factory",
+      "prediction",
+      "trader"
+    ],
+    "overlap_check_hash": "a165bc8c677838d8",
+    "why_this_can_go_viral": "Genius low-tech hack in a high-tech world. 'How to beat Wall Street with a rock' is a great hook."
+  },
+  {
+    "unique_id": "business_0080_024_a94380dff34275dc",
+    "title": "The Startup That Faked a Government Contract to Raise Its Valuation",
+    "hook": "They photoshopped a letter from the Department of Defense. Investors wired $30 million the next week.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 76,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "government contract",
+      "fake",
+      "valuation",
+      "investors",
+      "photoshop"
+    ],
+    "overlap_check_hash": "a94380dff34275dc",
+    "why_this_can_go_viral": "Shows how little due diligence happens. 'They believed a PDF?' is both funny and terrifying."
+  },
+  {
+    "unique_id": "business_0080_025_562980bd9d19e2ff",
+    "title": "The Monopoly That Kept Generic Drugs Off the Market by Paying Rivals $1B",
+    "hook": "They didn't lower prices—they paid competitors billions to not compete. You paid 10x for your pills.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 87,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "generic drugs",
+      "monopoly",
+      "pay for delay",
+      "pills",
+      "price"
+    ],
+    "overlap_check_hash": "562980bd9d19e2ff",
+    "why_this_can_go_viral": "Everyone buys medicine. The 'pay for delay' scheme is infuriating and highly shareable."
+  }
+]

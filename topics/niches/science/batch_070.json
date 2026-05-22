@@ -1,0 +1,65 @@
+[
+  {
+    "unique_id": "science_0070_002_e98633fb5ee404fc",
+    "title": "The Banned Experiment That Created a Man Without a Soul",
+    "hook": "Scientists raised a human clone in complete silence to see if consciousness requires language, and the result was terrifying.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "clone",
+      "consciousness",
+      "experiment",
+      "human",
+      "silence"
+    ],
+    "overlap_check_hash": "e98633fb5ee404fc",
+    "why_this_can_go_viral": "The concept of a soulless human taps into deep existential fears and forbidden science lore."
+  },
+  {
+    "unique_id": "science_0070_003_90a063bd8196ac7f",
+    "title": "The Parasite That Reprograms Its Host's Brain to Seek Death",
+    "hook": "A microscopic worm forces insects to march into water and drown, all to complete its life cycle.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "parasite",
+      "brain",
+      "suicide",
+      "worm",
+      "drown"
+    ],
+    "overlap_check_hash": "90a063bd8196ac7f",
+    "why_this_can_go_viral": "Body horror combined with mind control is inherently viral, especially when it involves real biology."
+  },
+  {
+    "unique_id": "science_0070_005_a3f9063893953728",
+    "title": "The Fraud Scientist Who Faked a Memory Transplant Between Species",
+    "hook": "He claimed he could transfer memories from a rat into a fish, and the scientific community believed him for a decade.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 75,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fraud",
+      "memory",
+      "transplant",
+      "rat",
+      "fish"
+    ],
+    "overlap_check_hash": "a3f9063893953728",
+    "why_this_can_go_viral": "The audacity of the lie and the gullibility of scientists make for a juicy scandal story."
+  }
+]

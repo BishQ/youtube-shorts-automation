@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "sports_0027_002_36bd48bcabdf3b0a",
+    "title": "The Mafia That Fixed Games by Poisoning Goalies' Water Bottles",
+    "hook": "One sip, one fumble, one billion-dollar bet won.",
+    "virality_score": 88,
+    "curiosity_gap_score": 85,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "mafia",
+      "match fixing",
+      "poison",
+      "goalie",
+      "betting mafia"
+    ],
+    "overlap_check_hash": "36bd48bcabdf3b0a",
+    "why_this_can_go_viral": "Taps into conspiracy fears about organized crime's invisible hand in major sports."
+  },
+  {
+    "unique_id": "sports_0027_004_924f0cc58e79f814",
+    "title": "The Referee Who Fixed Games Using the Color of His Undershirt",
+    "hook": "A hidden code only gamblers could read—and no one ever checked his laundry.",
+    "virality_score": 84,
+    "curiosity_gap_score": 82,
+    "darkness_score": 80,
+    "educational_value": 50,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "referee code",
+      "undershirt signal",
+      "match fixing",
+      "hidden signals",
+      "sports betting"
+    ],
+    "overlap_check_hash": "924f0cc58e79f814",
+    "why_this_can_go_viral": "Extreme simplicity of the method makes it mind-blowing and highly shareable."
+  },
+  {
+    "unique_id": "sports_0027_005_3ae03f739c0aeef9",
+    "title": "The Lab That Tried to Grow Gills on Swimmers Using Fish DNA",
+    "hook": "Scientists injected carp genes into human embryos—the results were classified.",
+    "virality_score": 92,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "fish DNA",
+      "gill transplant",
+      "human experiment",
+      "aquatic athletes",
+      "classified genetics"
+    ],
+    "overlap_check_hash": "3ae03f739c0aeef9",
+    "why_this_can_go_viral": "Bio-horror meets sports, tapping into transhumanism fears and forbidden science fascinations."
+  },
+  {
+    "unique_id": "sports_0027_006_d05d52f4b6dcb871",
+    "title": "The Psychologist Who Convinced a Boxer He Had Glass Bones",
+    "hook": "One session of hypnotic suggestion turned a champion into a quivering wreck.",
+    "virality_score": 86,
+    "curiosity_gap_score": 83,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "hypnosis",
+      "glass bones",
+      "boxer psychology",
+      "mental sabotage",
+      "sports mind control"
+    ],
+    "overlap_check_hash": "d05d52f4b6dcb871",
+    "why_this_can_go_viral": "Psychological warfare angle is deeply unsettling and feels like a thriller plot."
+  },
+  {
+    "unique_id": "sports_0027_007_8a826661fc77f6ab",
+    "title": "The Businessman Who Sold 'Live Blood' Injections to Athletes—It Was Cow Plasma",
+    "hook": "He promised a massive energy boost; they got bovine antibodies and allergic shock.",
+    "virality_score": 80,
+    "curiosity_gap_score": 77,
+    "darkness_score": 85,
+    "educational_value": 55,
+    "estimated_short_retention": 74,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "cow plasma",
+      "black market injections",
+      "athlete scam",
+      "blood doping fakes",
+      "sports fraud"
+    ],
+    "overlap_check_hash": "8a826661fc77f6ab",
+    "why_this_can_go_viral": "Greed and deception mix with body horror, perfect for outrage-driven shares."
+  },
+  {
+    "unique_id": "sports_0027_009_a4fc7ef3a1a39d9d",
+    "title": "The Doctor Who Gave Gymnasts Bone-Growth Hormones—to Keep Them Child-Sized",
+    "hook": "He stunted their puberty to preserve their performance, and they never grew up.",
+    "virality_score": 91,
+    "curiosity_gap_score": 88,
+    "darkness_score": 97,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "gymnast abuse",
+      "growth hormones",
+      "stunted development",
+      "child athletes",
+      "sports doctor"
+    ],
+    "overlap_check_hash": "a4fc7ef3a1a39d9d",
+    "why_this_can_go_viral": "Deeply disturbing real-world abuse that triggers protective outrage and ethical debate."
+  },
+  {
+    "unique_id": "sports_0027_011_c27760d0c50d77a7",
+    "title": "The Lab That Tried to Make Marathon Runners Inhale Pure Ammonia",
+    "hook": "They thought it would supercharge breathing—instead, it burned their lungs from inside.",
+    "virality_score": 83,
+    "curiosity_gap_score": 79,
+    "darkness_score": 87,
+    "educational_value": 65,
+    "estimated_short_retention": 76,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "ammonia inhalation",
+      "marathon experiment",
+      "lung damage",
+      "extreme doping",
+      "Soviet sports science"
+    ],
+    "overlap_check_hash": "c27760d0c50d77a7",
+    "why_this_can_go_viral": "Grisly experiment details shock viewers and highlight how far labs went for performance."
+  },
+  {
+    "unique_id": "sports_0027_012_0a8c164e9461d216",
+    "title": "The Psychologist Who Made a Runner Believe the Finish Line Was a Cliff",
+    "hook": "He implanted a phobia so deep that she collapsed at mile 25—every single race.",
+    "virality_score": 85,
+    "curiosity_gap_score": 81,
+    "darkness_score": 84,
+    "educational_value": 55,
+    "estimated_short_retention": 79,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "phobia implant",
+      "runner psychology",
+      "finish line fear",
+      "mental sabotage",
+      "sports hypnotherapy"
+    ],
+    "overlap_check_hash": "0a8c164e9461d216",
+    "why_this_can_go_viral": "Psychological horror that feels like a Black Mirror episode, highly discussable."
+  },
+  {
+    "unique_id": "sports_0027_013_a15eb7c7f70eb68a",
+    "title": "The Referee Who Fixed Games by Choosing the Wrong Side of the Coin",
+    "hook": "A pre-decided coin toss—heads he wins, tails you lose, every time.",
+    "virality_score": 78,
+    "curiosity_gap_score": 74,
+    "darkness_score": 72,
+    "educational_value": 45,
+    "estimated_short_retention": 77,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "coin toss fix",
+      "referee cheat",
+      "betting scam",
+      "simple corruption",
+      "sports gambling"
+    ],
+    "overlap_check_hash": "a15eb7c7f70eb68a",
+    "why_this_can_go_viral": "So simple it's brilliant—makes viewers realize how many tiny moments could be rigged."
+  },
+  {
+    "unique_id": "sports_0027_014_3d9a584999013fef",
+    "title": "The Businessman Who Sold 'Miracle Compression Gear' That Cut Off Blood Flow",
+    "hook": "He called it recovery technology; athletes called it a silent amputation risk.",
+    "virality_score": 81,
+    "curiosity_gap_score": 78,
+    "darkness_score": 86,
+    "educational_value": 60,
+    "estimated_short_retention": 75,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "compression gear scam",
+      "blood flow restriction",
+      "athlete injury",
+      "sports equipment fraud",
+      "black market gear"
+    ],
+    "overlap_check_hash": "3d9a584999013fef",
+    "why_this_can_go_viral": "Combines consumer vulnerability with body horror—viewers feel both angry and scared."
+  },
+  {
+    "unique_id": "sports_0027_015_41bbcc089d0a982b",
+    "title": "The Match Fixer Who Used Stadium Seat Cushion Colors to Send Signals",
+    "hook": "A seating chart rearrangement was worth millions—if you knew what colors to watch.",
+    "virality_score": 86,
+    "curiosity_gap_score": 83,
+    "darkness_score": 76,
+    "educational_value": 55,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "seat cushion code",
+      "stadium signals",
+      "betting network",
+      "visual code",
+      "match fixing method"
+    ],
+    "overlap_check_hash": "41bbcc089d0a982b",
+    "why_this_can_go_viral": "Visual and seemingly innocent—great for 'spot the hidden code' engagement."
+  },
+  {
+    "unique_id": "sports_0027_016_9d69a994d4d229cc",
+    "title": "The Doctor Who Injected Wrestlers with Horse Tranquilizers for Pain",
+    "hook": "They felt nothing—until their hearts stopped feeling anything at all.",
+    "virality_score": 87,
+    "curiosity_gap_score": 83,
+    "darkness_score": 93,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "horse tranquilizer",
+      "wrestler doping",
+      "painkiller abuse",
+      "deadly injection",
+      "sports doctor scandal"
+    ],
+    "overlap_check_hash": "9d69a994d4d229cc",
+    "why_this_can_go_viral": "Extreme substance abuse angle triggers both horror and fascination with athletes' pain tolerance."
+  },
+  {
+    "unique_id": "sports_0027_017_2ff3de43992d402f",
+    "title": "The Mafia That Used Stadium Parking Lot Lights to Signal Fixes",
+    "hook": "Three flashes meant 'bet the under'—and the entire lot went dark after the game.",
+    "virality_score": 85,
+    "curiosity_gap_score": 82,
+    "darkness_score": 80,
+    "educational_value": 55,
+    "estimated_short_retention": 81,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "parking lot signal",
+      "light code",
+      "mafia betting",
+      "stadium infrastructure",
+      "criminal network"
+    ],
+    "overlap_check_hash": "2ff3de43992d402f",
+    "why_this_can_go_viral": "Everyday environment becomes a crime scene—viewers will never see parking lots the same way."
+  },
+  {
+    "unique_id": "sports_0027_019_7edd67f33e5e482d",
+    "title": "The Lab That Tried to Make Basketball Players Taller by Stretching Their Spines",
+    "hook": "They suspended athletes upside down for hours daily—causing permanent spinal damage.",
+    "virality_score": 88,
+    "curiosity_gap_score": 85,
+    "darkness_score": 89,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "spinal stretching",
+      "height experiment",
+      "basketball lab",
+      "athlete damage",
+      "extreme training"
+    ],
+    "overlap_check_hash": "7edd67f33e5e482d",
+    "why_this_can_go_viral": "Combines body modification horror with the dream of athletic greatness—morally complex and gripping."
+  },
+  {
+    "unique_id": "sports_0027_020_2489cca3bab49fdd",
+    "title": "The Psychologist Who Made a Soccer Goalie Fear the Ball Was a Skull",
+    "hook": "He couldn't catch it anymore—he could only flinch away from death.",
+    "virality_score": 83,
+    "curiosity_gap_score": 79,
+    "darkness_score": 80,
+    "educational_value": 55,
+    "estimated_short_retention": 78,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "goalie phobia",
+      "skull hallucination",
+      "sports hypnosis",
+      "mental breakdown",
+      "soccer psychology"
+    ],
+    "overlap_check_hash": "2489cca3bab49fdd",
+    "why_this_can_go_viral": "Visceral and eerie—makes viewers imagine the terror of seeing a face in the ball."
+  },
+  {
+    "unique_id": "sports_0027_021_f7fa657cd5c40d9c",
+    "title": "The Referee Who Fixed Games by How Fast He Jogged Backward",
+    "hook": "His backward speed was a binary code—and no one ever timed him.",
+    "virality_score": 82,
+    "curiosity_gap_score": 79,
+    "darkness_score": 75,
+    "educational_value": 50,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "referee jog code",
+      "backward speed",
+      "hidden signal",
+      "referee scam",
+      "betting code"
+    ],
+    "overlap_check_hash": "f7fa657cd5c40d9c",
+    "why_this_can_go_viral": "Subtle and clever—viewers love decoding hidden systems that were right in front of them."
+  },
+  {
+    "unique_id": "sports_0027_022_629ff150e02f2834",
+    "title": "The Businessman Who Sold 'Lucky Amulets' That Tracked Players' Locations",
+    "hook": "He called it spiritual protection; it was actually a GPS tracker feeding data to gamblers.",
+    "virality_score": 86,
+    "curiosity_gap_score": 83,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 79,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "GPS amulet",
+      "player tracking",
+      "betting data",
+      "superstition scam",
+      "sports surveillance"
+    ],
+    "overlap_check_hash": "629ff150e02f2834",
+    "why_this_can_go_viral": "Blends superstition with surveillance paranoia—highly relevant to modern privacy concerns."
+  },
+  {
+    "unique_id": "sports_0027_024_547462fd91396bf1",
+    "title": "The Doctor Who Harvested Athletes' Bone Marrow for 'Energy Elixirs'",
+    "hook": "He told them it was a routine check-up—but the needle went deeper than they knew.",
+    "virality_score": 89,
+    "curiosity_gap_score": 86,
+    "darkness_score": 94,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "bone marrow harvest",
+      "energy elixir",
+      "doctor scam",
+      "athlete exploitation",
+      "black market organs"
+    ],
+    "overlap_check_hash": "547462fd91396bf1",
+    "why_this_can_go_viral": "Body horror meets betrayal of trust—triggers deep visceral disgust and outrage."
+  },
+  {
+    "unique_id": "sports_0027_025_0757c4ad723a3118",
+    "title": "The Lab That Tried to Make Cyclists Photosynthetic by Injecting Chloroplasts",
+    "hook": "They wanted racers to feed on sunlight—instead, their blood turned green and toxic.",
+    "virality_score": 91,
+    "curiosity_gap_score": 89,
+    "darkness_score": 86,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "chloroplast injection",
+      "photosynthetic human",
+      "cycling experiment",
+      "green blood",
+      "extreme biohacking"
+    ],
+    "overlap_check_hash": "0757c4ad723a3118",
+    "why_this_can_go_viral": "So bizarre it sounds like sci-fi—perfect for 'can't believe this is real' viral shares."
+  }
+]

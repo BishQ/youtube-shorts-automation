@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "crime_0112_001_1b85653b14c9ff71",
+    "title": "The Cartel That Built a Self-Driving Car to Move Cocaine",
+    "hook": "When the cartel's autonomous vehicle got pulled over, the drug-sniffing dog found nothing—because the car itself was the package.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "self-driving",
+      "cocaine smuggling",
+      "autonomous vehicle",
+      "drug tunnel"
+    ],
+    "overlap_check_hash": "1b85653b14c9ff71",
+    "why_this_can_go_viral": "Combines futuristic tech with old-school crime—viewers will be shocked cartels are using AI before most people own self-driving cars."
+  },
+  {
+    "unique_id": "crime_0112_002_703d1891f43ac8d5",
+    "title": "The Serial Killer Who Posed as a Tree Surgeon—and Marked Victims' Trees",
+    "hook": "Neighbors thought he was just trimming branches, but he was carving a symbol into the bark every time he chose a new target.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 55,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "tree surgeon",
+      "hidden symbols",
+      "marking victims",
+      "outdoor murder"
+    ],
+    "overlap_check_hash": "703d1891f43ac8d5",
+    "why_this_can_go_viral": "The 'predator hiding in plain sight' trope is universally compelling, and the tree-marking detail is visually eerie."
+  },
+  {
+    "unique_id": "crime_0112_004_b03241ed6ed61b8f",
+    "title": "The Heist Where Thieves Stole a Bank's Master Key—By Replacing the Door",
+    "hook": "They didn't break in—they swapped the entire bank vault door with a perfect replica, and walked in next morning with the real key.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 60,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "heist",
+      "bank vault",
+      "master key",
+      "door swap",
+      "precision theft"
+    ],
+    "overlap_check_hash": "b03241ed6ed61b8f",
+    "why_this_can_go_viral": "The 'replacement' twist is a classic heist trope that feels like Ocean's Eleven—viewers love the logistics of such a brazen plan."
+  },
+  {
+    "unique_id": "crime_0112_005_4309afdaf31fcfc3",
+    "title": "The Unsolved Murder Where the Killer Left a Map to the Body—But It Changed Each Time",
+    "hook": "Police found three identical maps on the victim's desk, each showing a different location for the body—and all three were accurate.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 50,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "map",
+      "killer",
+      "taunt",
+      "multiple locations"
+    ],
+    "overlap_check_hash": "4309afdaf31fcfc3",
+    "why_this_can_go_viral": "The 'changing map' detail creates a puzzle that viewers will try to solve in the comments, driving engagement."
+  },
+  {
+    "unique_id": "crime_0112_006_130675d27c62a239",
+    "title": "The Mob That Used a Funeral Home to Funnel $500 Million in Heroin",
+    "hook": "Caskets were shipped with double bottoms, and mourners were actually couriers picking up product during viewings.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob",
+      "funeral home",
+      "heroin",
+      "casket smuggling",
+      "organized crime"
+    ],
+    "overlap_check_hash": "130675d27c62a239",
+    "why_this_can_go_viral": "Combines the taboo of death with crime—the irony of using a place of mourning as a drug hub is deeply captivating."
+  },
+  {
+    "unique_id": "crime_0112_007_0e3a4140d143d687",
+    "title": "The Criminal Mastermind Who Faked His Own Death 11 Times—and Got Caught by a Grocery List",
+    "hook": "He left behind a shopping list with his real handwriting, and the detective recognized the 'L' from a 20-year-old bank note.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 55,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "faked death",
+      "mastermind",
+      "handwriting analysis",
+      "grocery list",
+      "caught"
+    ],
+    "overlap_check_hash": "0e3a4140d143d687",
+    "why_this_can_go_viral": "The mundane detail that undoes a genius criminal is a satisfying 'the little things' story that people love to share."
+  },
+  {
+    "unique_id": "crime_0112_009_9ea28f4ae41c01f0",
+    "title": "The Cartel That Used a Cruise Ship to Move 20 Tons of Cocaine—as the Entertainment",
+    "hook": "They booked the entire ship's comedy club and hid the drugs inside the stage props—until a magician's trick revealed the stash mid-show.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 78,
+    "educational_value": 55,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "cruise ship",
+      "cocaine",
+      "entertainment",
+      "magician"
+    ],
+    "overlap_check_hash": "9ea28f4ae41c01f0",
+    "why_this_can_go_viral": "The 'exposed by a magic trick' element is incredibly unexpected—viewers will watch twice to catch the irony."
+  },
+  {
+    "unique_id": "crime_0112_010_f3ee2c6a3e3b41a9",
+    "title": "The Serial Killer Who Used a Podcast to Confess—Without Saying a Word",
+    "hook": "He embedded his victims' last audio recordings into the background noise of each episode, and only one listener ever noticed.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 95,
+    "educational_value": 45,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "podcast",
+      "hidden confession",
+      "audio steganography",
+      "dark web"
+    ],
+    "overlap_check_hash": "f3ee2c6a3e3b41a9",
+    "why_this_can_go_viral": "The 'hidden message in plain sight' is a massive TikTok trend—plus true crime fans love decoding theories."
+  },
+  {
+    "unique_id": "crime_0112_012_4a842af03205c43d",
+    "title": "The Unsolved Murder Where the Victim's Watch Stopped at 3:33 AM—But the Coroner Said He Died at 9 PM",
+    "hook": "The watch was digitally calibrated and couldn't be wrong—but the body's decomposition told a completely different story.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "watch",
+      "time discrepancy",
+      "coroner",
+      "decomposition"
+    ],
+    "overlap_check_hash": "4a842af03205c43d",
+    "why_this_can_go_viral": "Time paradox cases always blow up on social media—viewers love debating the science versus the evidence."
+  },
+  {
+    "unique_id": "crime_0112_013_a85ec814119af591",
+    "title": "The Mob That Bought a Police Dispatch Frequency—and Directed Officers Away from Their Operations",
+    "hook": "They paid a dispatcher $50,000 to reroute patrol cars, and for six years, no cop ever drove within a mile of their warehouses.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob",
+      "police dispatch",
+      "bribery",
+      "warehouse",
+      "corruption"
+    ],
+    "overlap_check_hash": "a85ec814119af591",
+    "why_this_can_go_viral": "The 'they owned the system' angle is incredibly satisfying—viewers feel like they're learning a secret that the police missed."
+  },
+  {
+    "unique_id": "crime_0112_015_5cd6e8beadb1d144",
+    "title": "The Criminal Mastermind Who Ran a Drug Empire from Inside a Maximum-Security Prison—Using Boredom as a Weapon",
+    "hook": "He convinced the guards he was writing a novel, but each chapter was code for a shipment—and the 'book' was 2,000 pages long.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 60,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "prison",
+      "drug empire",
+      "novel code",
+      "boredom",
+      "maximum security"
+    ],
+    "overlap_check_hash": "5cd6e8beadb1d144",
+    "why_this_can_go_viral": "The 'book as code' is a literary twist that appeals to writers and true crime fans alike—perfect for sharing."
+  },
+  {
+    "unique_id": "crime_0112_016_f70852b9d50bb402",
+    "title": "The Cartel That Built a Drone Swarm to Drop Drugs Over the Border—and Fooled Radar for Months",
+    "hook": "They used 50 drones flying in a 'bird migration' pattern, and Border Patrol thought it was a flock of geese until a farmer found a parrot-shaped drone full of cocaine.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "drone swarm",
+      "border smuggling",
+      "radar evasion",
+      "cocaine"
+    ],
+    "overlap_check_hash": "f70852b9d50bb402",
+    "why_this_can_go_viral": "Drone technology meets cartel creativity—viewers love learning how criminals outsmart high-tech defenses."
+  },
+  {
+    "unique_id": "crime_0112_017_d36d2bf8c6014c5b",
+    "title": "The Serial Killer Who Only Killed During Meteor Showers—and Timed Each Murder to the Second",
+    "hook": "He believed the Perseids were a 'cosmic signal,' and every kill was synchronized to a meteor's flash—the police found a calendar with 12 meteor showers circled.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 50,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "meteor shower",
+      "astrology",
+      "timing",
+      "pattern"
+    ],
+    "overlap_check_hash": "d36d2bf8c6014c5b",
+    "why_this_can_go_viral": "The cosmic obsession is both beautiful and horrifying—viewers will be hypnotized by the eerie precision."
+  },
+  {
+    "unique_id": "crime_0112_018_8fe1fa71b612537b",
+    "title": "The Heist Where Thieves Stole a Museum's Security Camera System—While It Was Still Recording",
+    "hook": "They didn't steal the cameras—they stole the footage, replacing it with a loop of empty hallways, and then took the cameras the next night.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 55,
+    "educational_value": 60,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "heist",
+      "museum",
+      "security camera",
+      "footage theft",
+      "loop"
+    ],
+    "overlap_check_hash": "8fe1fa71b612537b",
+    "why_this_can_go_viral": "The 'stealing the evidence' twist is a clever subversion of heist logic—viewers love the 'two-step' plan."
+  },
+  {
+    "unique_id": "crime_0112_019_23f215e4d246b7ae",
+    "title": "The Unsolved Murder Where the Victim Left a Voicemail—From Inside Her Own Funeral",
+    "hook": "The phone was buried with her, but the message was left three days after the burial, with a faint sound of dirt shifting in the background.",
+    "virality_score": 94,
+    "curiosity_gap_score": 98,
+    "darkness_score": 98,
+    "educational_value": 30,
+    "estimated_short_retention": 94,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "voicemail",
+      "funeral",
+      "burial",
+      "supernatural"
+    ],
+    "overlap_check_hash": "23f215e4d246b7ae",
+    "why_this_can_go_viral": "This is pure viral fuel—the 'phone from the grave' concept is terrifying and deeply shareable, especially on TikTok."
+  },
+  {
+    "unique_id": "crime_0112_021_a01a8324ee675a00",
+    "title": "The White-Collar Criminal Who Stole $250 Million by Creating a Fake Charity—That Accidentally Did Good",
+    "hook": "He earmarked 10% for actual orphanages, and when the orphanages became popular, he couldn't shut down the charity without getting caught.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 60,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "white-collar",
+      "fake charity",
+      "fraud",
+      "orphanage",
+      "accidental good"
+    ],
+    "overlap_check_hash": "a01a8324ee675a00",
+    "why_this_can_go_viral": "The irony of a criminal accidentally doing good is a darkly funny twist that viewers will love to debate."
+  },
+  {
+    "unique_id": "crime_0112_022_3868dbffb80732a8",
+    "title": "The Criminal Mastermind Who Built a Submarine Fleet—Out of Recycled Plastic",
+    "hook": "They looked like giant floating trash, but each 'garbage barge' was a fully functional sub that could carry 5 tons of cocaine underwater.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 60,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "submarine",
+      "plastic",
+      "cocaine",
+      "recycled",
+      "cartel"
+    ],
+    "overlap_check_hash": "3868dbffb80732a8",
+    "why_this_can_go_viral": "The 'trash to treasure' for crime is visually stunning and environmentally ironic—perfect for viral sharing."
+  },
+  {
+    "unique_id": "crime_0112_024_6bd2531e506a1cf1",
+    "title": "The Serial Killer Who Left a Different Flower on Each Victim's Chest—and the FBI Botanist Cracked the Code",
+    "hook": "The flowers weren't random—they spelled out a street address in their Latin names, leading to the killer's own garden.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "flowers",
+      "botanist",
+      "FBI",
+      "code"
+    ],
+    "overlap_check_hash": "6bd2531e506a1cf1",
+    "why_this_can_go_viral": "The 'flowers as a message' is a poetic and intellectual puzzle—true crime fans love solving hidden patterns."
+  },
+  {
+    "unique_id": "crime_0112_025_55b34e45e3446e16",
+    "title": "The Heist Where Thieves Stole a Diamond by Replacing It with a Perfect Cubic Zirconia—Forged by a Blind Jeweler",
+    "hook": "The jeweler had never seen the diamond, but he replicated it by touch alone—and the switch went unnoticed for 14 months.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 45,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "heist",
+      "diamond",
+      "cubic zirconia",
+      "blind jeweler",
+      "replica"
+    ],
+    "overlap_check_hash": "55b34e45e3446e16",
+    "why_this_can_go_viral": "The 'blind craftsman' angle adds a human-interest layer to a classic heist, making it both inspiring and shocking."
+  }
+]

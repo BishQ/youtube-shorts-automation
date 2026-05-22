@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "crime_0149_002_9196412d65556932",
+    "title": "The Heist Where Thieves Stole a Bank's Oxygen Supply",
+    "hook": "They didn't touch the vault. They just slowly replaced the air inside the bank's ventilation system with nitrogen, putting everyone to sleep.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "heist",
+      "oxygen",
+      "nitrogen",
+      "bank robbery",
+      "ventilation"
+    ],
+    "overlap_check_hash": "9196412d65556932",
+    "why_this_can_go_viral": "The chemistry-based attack is shockingly simple yet terrifying, making viewers wonder how their own bank is protected."
+  },
+  {
+    "unique_id": "crime_0149_004_5f85650dc85c8432",
+    "title": "The Mob That Ran a City's Morgue Fridges to Hide Bodies",
+    "hook": "They paid the coroner to store murder victims in the same drawers where evidence would be later searched, burying clues inside the system itself.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 90,
+    "educational_value": 55,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob",
+      "morgue",
+      "bodies",
+      "coroner",
+      "cover-up"
+    ],
+    "overlap_check_hash": "5f85650dc85c8432",
+    "why_this_can_go_viral": "The betrayal of a place meant for justice into a crime scene itself is deeply unsettling and prompts visceral disgust and curiosity."
+  },
+  {
+    "unique_id": "crime_0149_005_4c235009e23b5f4b",
+    "title": "The White-Collar Criminal Who Stole a Nation's Time by Rewinding Its Clocks",
+    "hook": "He tampered with the atomic clock servers that sync the entire country, creating a 17-minute black hole in financial records to cover a billion-dollar theft.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 72,
+    "educational_value": 65,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "white-collar",
+      "time",
+      "atomic clock",
+      "financial fraud",
+      "timestamp"
+    ],
+    "overlap_check_hash": "4c235009e23b5f4b",
+    "why_this_can_go_viral": "The manipulation of an invisible, trusted system (time) is a mind-bending concept that feels like sci-fi but is real."
+  },
+  {
+    "unique_id": "crime_0149_006_47c9a8a3a9000f6e",
+    "title": "The Cartel That Used Airline Food Trucks to Move Cocaine Into 30 Countries",
+    "hook": "They bought a catering company that serviced international flights, replacing the meals on planes bound for customs-free zones with cocaine-stuffed trays.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "airline",
+      "catering",
+      "cocaine",
+      "food truck"
+    ],
+    "overlap_check_hash": "47c9a8a3a9000f6e",
+    "why_this_can_go_viral": "It exploits a mundane part of travel everyone has experienced, making the danger feel closer and more real."
+  },
+  {
+    "unique_id": "crime_0149_007_358cfe1316dbf510",
+    "title": "The Serial Killer Who Wore His Victims' Skin as a Second Layer of Clothing",
+    "hook": "He didn't just keep trophies—he wore them. Over 18 months, he stitched together a suit made from the dermis of seven different women.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 95,
+    "educational_value": 30,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "skin suit",
+      "trophy",
+      "serial killer",
+      "body modification",
+      "cannibalism"
+    ],
+    "overlap_check_hash": "358cfe1316dbf510",
+    "why_this_can_go_viral": "The body horror element is extreme and unforgettable, triggering a strong emotional reaction that drives shares."
+  },
+  {
+    "unique_id": "crime_0149_009_ce4b11aaa8fdb8d9",
+    "title": "The Heist Where Thieves Stole a Museum's Shadows by Replacing Every Light Bulb",
+    "hook": "They swapped out all 2,000 bulbs in the museum with dimmer, warmer lights, making the shadows cast by priceless statues look like different objects entirely.",
+    "virality_score": 75,
+    "curiosity_gap_score": 82,
+    "darkness_score": 60,
+    "educational_value": 50,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "shadows",
+      "museum",
+      "light bulbs",
+      "illusions",
+      "theft"
+    ],
+    "overlap_check_hash": "ce4b11aaa8fdb8d9",
+    "why_this_can_go_viral": "The concept of stealing immaterial assets (shadows) is visually striking and philosophically intriguing, perfect for art lovers and true crime fans."
+  },
+  {
+    "unique_id": "crime_0149_011_bf1647efcbab49ae",
+    "title": "The Criminal Mastermind Who Stole a Prison's Silence by Soundproofing an Entire Cell Block",
+    "hook": "He bribed contractors to install soundproof walls in his cell block, then ran a secret gambling den that guards couldn't hear from the hallway.",
+    "virality_score": 76,
+    "curiosity_gap_score": 84,
+    "darkness_score": 74,
+    "educational_value": 40,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "prison",
+      "soundproof",
+      "gambling",
+      "bribery",
+      "contractor"
+    ],
+    "overlap_check_hash": "bf1647efcbab49ae",
+    "why_this_can_go_viral": "The idea of building a secret world inside a prison using acoustic engineering is covertly ingenious and deeply satisfying."
+  },
+  {
+    "unique_id": "crime_0149_012_b89794d0689939b3",
+    "title": "The Mob That Controlled a City's Asphalt Trucks to Seal Bodies Into New Roads",
+    "hook": "They owned the company repaving the city's highways, and drivers were told to never stop pouring if they heard a thud from the back of the truck.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 92,
+    "educational_value": 45,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "asphalt",
+      "roads",
+      "bodies",
+      "construction",
+      "mob"
+    ],
+    "overlap_check_hash": "b89794d0689939b3",
+    "why_this_can_go_viral": "The everyday image of a road becomes sinister, making viewers look twice at every stretch of asphalt they drive on."
+  },
+  {
+    "unique_id": "crime_0149_013_f3d68f9f7cbdba1b",
+    "title": "The White-Collar Criminal Who Stole a Nuclear Plant's Emergency Sirens",
+    "hook": "He redirected the funding for 200 emergency sirens around a nuclear reactor into a shell company, leaving the plant silent if a meltdown occurred.",
+    "virality_score": 87,
+    "curiosity_gap_score": 94,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "nuclear",
+      "sirens",
+      "embezzlement",
+      "public safety",
+      "shell company"
+    ],
+    "overlap_check_hash": "f3d68f9f7cbdba1b",
+    "why_this_can_go_viral": "The near-miss of a catastrophic silent meltdown due to pure greed has high stakes and immediate, terrifying real-world consequences."
+  },
+  {
+    "unique_id": "crime_0149_014_c0c9c659888d99ee",
+    "title": "The Cartel That Turned Abandoned Mine Shafts Into Underwater Drug Highways",
+    "hook": "They flooded old vertical mines, then built airtight containers that could be pushed through submerged tunnels, invisible to sonar above ground.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 76,
+    "educational_value": 55,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "mine shaft",
+      "underwater",
+      "tunnel",
+      "drug smuggling",
+      "sonar"
+    ],
+    "overlap_check_hash": "c0c9c659888d99ee",
+    "why_this_can_go_viral": "The engineering adaptation of abandoned industrial sites into smuggling channels is visually fascinating and feels like a real-life spy thriller."
+  },
+  {
+    "unique_id": "crime_0149_015_918c5e82c548235b",
+    "title": "The Serial Killer Who Only Killed in Rooms With Round Walls",
+    "hook": "He believed that spirits could not corner him inside a circular room, so he targeted homes with turrets, rotundas, and cylindrical architecture.",
+    "virality_score": 77,
+    "curiosity_gap_score": 83,
+    "darkness_score": 80,
+    "educational_value": 35,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "architecture",
+      "circular",
+      "superstition",
+      "serial killer",
+      "ritual"
+    ],
+    "overlap_check_hash": "918c5e82c548235b",
+    "why_this_can_go_viral": "The bizarre architectural fetish is so specific and strange that it invites immediate curiosity and speculation about the killer's psychology."
+  },
+  {
+    "unique_id": "crime_0149_017_4838b93ecd7b38d4",
+    "title": "The Unsolved Murder Where the Victim's Last Meal Was Sentenced to 50 Years in Prison",
+    "hook": "The killer accidentally left a half-eaten sandwich at the scene; it was sealed in an evidence locker and not opened until 2056, when DNA could finally be extracted.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "sandwich",
+      "DNA",
+      "evidence",
+      "cold case",
+      "time capsule"
+    ],
+    "overlap_check_hash": "4838b93ecd7b38d4",
+    "why_this_can_go_viral": "The bizarre time gap between the murder and the eventual testing creates a compelling narrative arc and a sense of long-delayed justice."
+  },
+  {
+    "unique_id": "crime_0149_018_96f64af0a6eed222",
+    "title": "The Criminal Mastermind Who Stole a Border by Moving All the Flags 3 Miles West",
+    "hook": "He drove stakes with fake border flags across a disputed territory overnight, then claimed ownership of a new silver mine that suddenly fell inside his nation.",
+    "virality_score": 83,
+    "curiosity_gap_score": 91,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "border",
+      "flags",
+      "mine",
+      "disputed territory",
+      "fraud"
+    ],
+    "overlap_check_hash": "96f64af0a6eed222",
+    "why_this_can_go_viral": "The audacity of physically moving a national border overnight is a stupendously bold act that feels like a real-world geopolitical prank."
+  },
+  {
+    "unique_id": "crime_0149_019_118669c8290e1ee7",
+    "title": "The Billion-Dollar Fraud That Sold a Fake Desert Island to a Shipping Magnate",
+    "hook": "He sold a private island that didn't exist by sending the buyer a GPS coordinate that pointed to a sandbank that was only visible for 3 hours every low tide.",
+    "virality_score": 80,
+    "curiosity_gap_score": 89,
+    "darkness_score": 66,
+    "educational_value": 50,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "island",
+      "fraud",
+      "tide",
+      "sandbank",
+      "real estate"
+    ],
+    "overlap_check_hash": "118669c8290e1ee7",
+    "why_this_can_go_viral": "The vanishing island trick is poetic and surreal—a perfect short-form story about buying nothing tangible."
+  },
+  {
+    "unique_id": "crime_0149_021_ba5f8ffbf30aa731",
+    "title": "The White-Collar Criminal Who Stole a Charity's Heart by Replacing CEO Signatures With AI Copies",
+    "hook": "He fed a neural network 10,000 previous signatures from the charity's founder, then wrote checks for 'emergency relief' that went straight to his own accounts.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "AI",
+      "signature",
+      "charity",
+      "forgery",
+      "neural network"
+    ],
+    "overlap_check_hash": "ba5f8ffbf30aa731",
+    "why_this_can_go_viral": "The use of modern AI against a do-gooder institution is a dark reflection of current tech fears, highly shareable in the age of deepfakes."
+  },
+  {
+    "unique_id": "crime_0149_023_8f35560e97b4028e",
+    "title": "The Serial Killer Who Recorded the Sound of His Own Heartbeat for Every Victim",
+    "hook": "He left a cassette tape with his own heart beating next to each body, so that future detectives would hear the sound of the man who killed them.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 30,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "heartbeat",
+      "tape",
+      "signature",
+      "sound",
+      "psychological"
+    ],
+    "overlap_check_hash": "8f35560e97b4028e",
+    "why_this_can_go_viral": "The deeply personal, almost intimate calling card is incredibly eerie and creates a unique auditory hook that works perfectly for short video."
+  },
+  {
+    "unique_id": "crime_0149_024_8f1736dc6036c38d",
+    "title": "The Heist Where Thieves Stole a Casino's Luck by Breeding a Flawed Deck of Cards",
+    "hook": "They infiltrated a card printing factory and subtly altered the dye batch for one specific deck, making a slight color shift only their trained eyes could detect.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 65,
+    "educational_value": 55,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "casino",
+      "cards",
+      "dye",
+      "infiltration",
+      "color"
+    ],
+    "overlap_check_hash": "8f1736dc6036c38d",
+    "why_this_can_go_viral": "The hyper-specific visual hack is intellectually satisfying, and the idea of 'stealing luck' is poetic and shareable."
+  }
+]

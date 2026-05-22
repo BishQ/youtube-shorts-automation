@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0068_001_eda8a373ddba89fa",
+    "title": "The Scientist Who Drank a Beaker of Radioactive Liquid on Live TV",
+    "hook": "In 1932, a chemist proved his discovery was safe by drinking it. He died four years later, his bones so radioactive they glowed in the dark.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "radioactive",
+      "radium",
+      "poisoning",
+      "scientific suicide",
+      "lab accident"
+    ],
+    "overlap_check_hash": "eda8a373ddba89fa",
+    "why_this_can_go_viral": "Shock factor of a scientist drinking poison, grisly death details, and the 'glowing bones' image are irresistible for dark science content."
+  },
+  {
+    "unique_id": "science_0068_002_f8e653a5be23e942",
+    "title": "The Quantum Glitch That Broke a Physicist's Mind",
+    "hook": "A researcher spent 30 years trying to prove reality is wrong. Then one experiment showed him a number that mathematically cannot exist—and he disappeared from academia.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum glitch",
+      "reality error",
+      "mathematical impossibility",
+      "physics breakdown",
+      "lost scientist"
+    ],
+    "overlap_check_hash": "f8e653a5be23e942",
+    "why_this_can_go_viral": "Mystery + madness + math breaking reality taps into simulation theory and forbidden knowledge curiosity."
+  },
+  {
+    "unique_id": "science_0068_003_0dc1fdeb34bced53",
+    "title": "The Banned Experiment That Grew a Second Head on a Monkey",
+    "hook": "In 1970, a Soviet scientist secretly grafted a puppy's head onto a dog. It lived, blinked, and tasted food for two weeks before the KGB shut it down.",
+    "virality_score": 96,
+    "curiosity_gap_score": 98,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "two-headed dog",
+      "Soviet experiments",
+      "head transplant",
+      "animal testing",
+      "KGB science"
+    ],
+    "overlap_check_hash": "0dc1fdeb34bced53",
+    "why_this_can_go_viral": "Visual shock value, Cold War secrecy, and the grotesque 'second head' concept guarantee high click-through and sharing."
+  },
+  {
+    "unique_id": "science_0068_004_b5f9467dbdf56705",
+    "title": "The Lab That Leaked a Fungus That Turns Humans Into Statues",
+    "hook": "A containment breach in a French lab released a spore that calcifies living tissue. Victims' lungs turn to stone over 20 years—and there's no cure.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 98,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "calcifying fungus",
+      "stone lung",
+      "lab leak",
+      "incurable infection",
+      "biological threat"
+    ],
+    "overlap_check_hash": "b5f9467dbdf56705",
+    "why_this_can_go_viral": "Body horror + real lab leak fears + 'no cure' dread create a perfect viral storm for science horror content."
+  },
+  {
+    "unique_id": "science_0068_006_0ff643ec5f9c4cb5",
+    "title": "The Fraud Scientist Who Faked an Entire Ocean Species",
+    "hook": "For 8 years, a marine biologist published papers on a deep-sea octopus he 'discovered.' The only problem: he drew it from imagination using Photoshop.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 72,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fake species",
+      "photoshop fraud",
+      "marine biology scandal",
+      "deep sea hoax",
+      "scientific deception"
+    ],
+    "overlap_check_hash": "0ff643ec5f9c4cb5",
+    "why_this_can_go_viral": "Anger + disbelief at how easily academia was fooled. 'Imaginary animal' concept is highly shareable."
+  },
+  {
+    "unique_id": "science_0068_008_c176131eed828364",
+    "title": "The Chemist Who Synthesized a Molecule That Destroys Antibiotics",
+    "hook": "A lab accident created a compound that not only resists antibiotics—it actively hunts them down and dismantles their molecular structure.",
+    "virality_score": 87,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 85,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "antibiotic killer",
+      "super enzyme",
+      "drug resistance",
+      "chemical weapon",
+      "pharma threat"
+    ],
+    "overlap_check_hash": "c176131eed828364",
+    "why_this_can_go_viral": "Post-pandemic fear of antibiotic resistance makes this a high-stakes, urgent story that feels like a warning."
+  },
+  {
+    "unique_id": "science_0068_009_3e3dbdb36163b978",
+    "title": "The Banned Experiment That Created a 'Quantum Vampire' Particle",
+    "hook": "Physicists in Switzerland created a particle that absorbs energy from its twin across any distance. They buried the data after realizing it violates conservation laws.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 78,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum vampire",
+      "energy theft",
+      "entanglement anomaly",
+      "hidden physics",
+      "CERN secret"
+    ],
+    "overlap_check_hash": "3e3dbdb36163b978",
+    "why_this_can_go_viral": "Mythical 'vampire' framing + secret science + impossible physics = ultra-clickable dark mystery."
+  },
+  {
+    "unique_id": "science_0068_010_4cdd8bfb6b74284c",
+    "title": "The Biologist Who Found a Parasite That Eats Human Tongues",
+    "hook": "A parasite that replaces a fish's tongue with its own body has been found in humans—and it's attracted to the warmth of your mouth while you sleep.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 72,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "tongue-eating parasite",
+      "human infection",
+      "sleep horror",
+      "isopod",
+      "mouth parasite"
+    ],
+    "overlap_check_hash": "4cdd8bfb6b74284c",
+    "why_this_can_go_viral": "Extreme disgust factor + 'it could be inside you' paranoia = guaranteed viral horror sharing."
+  },
+  {
+    "unique_id": "science_0068_011_ae31e74886631e08",
+    "title": "The Scientist Who Implanted a Microphone in His Own Cochlea",
+    "hook": "He drilled into his own skull to record the sound of his inner ear. The audio revealed a faint, repeating pulse—and it wasn't his heartbeat.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 86,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "self-surgery",
+      "implant experiment",
+      "inner ear recording",
+      "mysterious sound",
+      "DIY neuroscience"
+    ],
+    "overlap_check_hash": "ae31e74886631e08",
+    "why_this_can_go_viral": "Body horror + self-experimentation + creepy unexplained audio creates a mystery that demands a listen."
+  },
+  {
+    "unique_id": "science_0068_012_b661d91554be65b1",
+    "title": "The Lab Catastrophe That Turned a City's Water Supply into Acid",
+    "hook": "A chemical spill in a small lab seeped into groundwater and turned an entire town's tap water into a weak acid that dissolved pipes—and bones.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 79,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "toxic spill",
+      "acid water",
+      "chemical disaster",
+      "groundwater contamination",
+      "public health crisis"
+    ],
+    "overlap_check_hash": "b661d91554be65b1",
+    "why_this_can_go_viral": "Relatable fear (tap water is basic necessity) + invisible danger = high emotional engagement and shareability."
+  },
+  {
+    "unique_id": "science_0068_013_2633758b1f6baf37",
+    "title": "The Fraud Scientist Who Faked a Cure for HIV—and Infected 100 People",
+    "hook": "A doctor in South Africa injected HIV-positive patients with a 'secret enzyme' he claimed would cure them. It was bleach. Dozens died.",
+    "virality_score": 97,
+    "curiosity_gap_score": 98,
+    "darkness_score": 100,
+    "educational_value": 82,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fake cure",
+      "HIV fraud",
+      "medical murder",
+      "bleach injection",
+      "South Africa scandal"
+    ],
+    "overlap_check_hash": "2633758b1f6baf37",
+    "why_this_can_go_viral": "Outrage + tragedy + massive body count. The ultimate betrayal of scientific trust story."
+  },
+  {
+    "unique_id": "science_0068_014_3f116db7271f8eec",
+    "title": "The Neuroscientist Who Found a Way to Plant False Memories in Mice",
+    "hook": "Using lasers, scientists made mice remember a shock that never happened—and then made them fear a location they'd never been to. The same tech works on humans.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 84,
+    "educational_value": 88,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "false memory",
+      "memory manipulation",
+      "optogenetics",
+      "mind control",
+      "brain hacking"
+    ],
+    "overlap_check_hash": "3f116db7271f8eec",
+    "why_this_can_go_viral": "Direct threat to identity and reality—'your memories could be fake' is a universal psychological trigger."
+  },
+  {
+    "unique_id": "science_0068_016_b99527158ebb3fab",
+    "title": "The Physicist Who Discovered That Time Flows Differently in Your Brain",
+    "hook": "Neuroscientists measured neural time and found your brain processes 'now' at different speeds depending on emotion. In fear, you literally see the future.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 60,
+    "educational_value": 90,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time perception",
+      "brain speed",
+      "neural time",
+      "fear response",
+      "subjective reality"
+    ],
+    "overlap_check_hash": "b99527158ebb3fab",
+    "why_this_can_go_viral": "Relatable personal experience (time slowing in danger) + science explanation = high curiosity and discussion."
+  },
+  {
+    "unique_id": "science_0068_017_847be1e0023fe81b",
+    "title": "The Banned Soviet Experiment That Starved 100 People to Study Hope",
+    "hook": "In 1939, a Soviet scientist locked 100 people in a bunker with no food to measure how long hope lasted. Only 12 walked out. The data was hidden for 50 years.",
+    "virality_score": 98,
+    "curiosity_gap_score": 99,
+    "darkness_score": 100,
+    "educational_value": 72,
+    "estimated_short_retention": 96,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "Soviet starvation experiment",
+      "human suffering",
+      "psychology horror",
+      "hidden data",
+      "survival study"
+    ],
+    "overlap_check_hash": "847be1e0023fe81b",
+    "why_this_can_go_viral": "Extreme human cruelty + secret history + massive death toll = maximum dark engagement."
+  },
+  {
+    "unique_id": "science_0068_018_70c2ac5b4006b3aa",
+    "title": "The Biologist Who Found a Jellyfish That Cheats Death Forever",
+    "hook": "A tiny jellyfish can reverse its life cycle back to infancy whenever it's injured. Scientists call it biologically immortal—but it can still be killed by a single touch.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 50,
+    "educational_value": 85,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "immortal jellyfish",
+      "reverse aging",
+      "Turritopsis dohrnii",
+      "biological immortality",
+      "sea life"
+    ],
+    "overlap_check_hash": "70c2ac5b4006b3aa",
+    "why_this_can_go_viral": "Defies death itself—everyone wants to understand immortality. Fascinating and visually appealing."
+  },
+  {
+    "unique_id": "science_0068_019_295646013887edc0",
+    "title": "The Quantum Experiment That Created a Hole in Reality",
+    "hook": "Physicists at MIT shot two lasers into a cloud of atoms. The light passed through instantly, leaving a void where physics stopped working for a split second.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 72,
+    "educational_value": 84,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "reality hole",
+      "quantum void",
+      "MIT experiment",
+      "light anomaly",
+      "physics breakdown"
+    ],
+    "overlap_check_hash": "295646013887edc0",
+    "why_this_can_go_viral": "Sounds like a glitch in the simulation—fits the 'reality is broken' narrative that drives massive curiosity."
+  },
+  {
+    "unique_id": "science_0068_020_fb94a1ef1551cfd1",
+    "title": "The Lab That Leaked a Virus That Makes You Forget Your Own Name",
+    "hook": "A forgotten vial in a freezer thawed during a power outage. The virus inside targets the hippocampus and erases long-term memory within 48 hours.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 74,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "memory-erasing virus",
+      "lab leak",
+      "hippocampus attack",
+      "biological weapon",
+      "forgotten vial"
+    ],
+    "overlap_check_hash": "fb94a1ef1551cfd1",
+    "why_this_can_go_viral": "Loss of identity is a deep existential fear—'a virus that steals who you are' is a gripping horror premise."
+  },
+  {
+    "unique_id": "science_0068_021_d349991672bde46f",
+    "title": "The Neuroscientist Who Stimulated a Brain and Saw a Dead Relative",
+    "hook": "While treating epilepsy, a doctor zapped a patient's temporal lobe. She immediately said her dead mother was in the room, talking to her. He repeated it 3 times.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "ghost stimulation",
+      "brain zap",
+      "seeing dead people",
+      "temporal lobe",
+      "near-death experience"
+    ],
+    "overlap_check_hash": "d349991672bde46f",
+    "why_this_can_go_viral": "Bridges science and the paranormal—'science proves ghosts' is an irresistible hook for both believers and skeptics."
+  },
+  {
+    "unique_id": "science_0068_022_e5761fcc280fc32b",
+    "title": "The Chemist Who Made a Substance That Burns Underwater",
+    "hook": "A lab in Germany created a powder that ignites at 10°C and burns so hot it splits water molecules. Firefighters can't put it out—it floats and reignites.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 77,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "underwater fire",
+      "self-igniting powder",
+      "impossible flame",
+      "chemical hazard",
+      "firefighter threat"
+    ],
+    "overlap_check_hash": "e5761fcc280fc32b",
+    "why_this_can_go_viral": "Defies basic understanding of fire—'burns underwater' is a logical paradox that demands a watch."
+  },
+  {
+    "unique_id": "science_0068_023_4bb5a9f5e55b2cd8",
+    "title": "The Fraud Scientist Who Faked a Paper That Claimed to Detect Lying by Brain Scan",
+    "hook": "A Harvard researcher published a paper saying fMRI scans can detect lies with 97% accuracy. It was entirely fabricated—and US courts almost made it legal evidence.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 76,
+    "educational_value": 81,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fMRI lie detection",
+      "Harvard fraud",
+      "Brain fingerprinting",
+      "false evidence",
+      "legal scandal"
+    ],
+    "overlap_check_hash": "4bb5a9f5e55b2cd8",
+    "why_this_can_go_viral": "Justice system nearly corrupted by fake science—outrage + 'your brain can be faked' hook is powerful."
+  },
+  {
+    "unique_id": "science_0068_024_eb543a6500637084",
+    "title": "The Lab Catastrophe That Took Down a Whole Building in 3 Minutes",
+    "hook": "A single beaker of sodium and water exploded in a Tokyo lab, triggering a chain reaction that collapsed the structure. The blast was heard 10 miles away.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "chemical explosion",
+      "lab collapse",
+      "sodium explosion",
+      "Tokyo disaster",
+      "chain reaction"
+    ],
+    "overlap_check_hash": "eb543a6500637084",
+    "why_this_can_go_viral": "Spectacular destruction from a small mistake—'one beaker leveled a building' is a shocking, visual story."
+  }
+]

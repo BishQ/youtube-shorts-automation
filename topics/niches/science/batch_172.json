@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "science_0172_001_39e11f2c9b310500",
+    "title": "The Surgeon Who Kept a Dead Man's Heart Beating for 72 Hours—Then It Spoke",
+    "hook": "A surgeon kept a corpse's heart alive on a machine, and after three days, it began emitting electronic pulses that spelled out a name.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "dead heart",
+      "corpse experiment",
+      "forbidden surgery",
+      "electronic pulses",
+      "organ preservation"
+    ],
+    "overlap_check_hash": "39e11f2c9b310500",
+    "why_this_can_go_viral": "Combines medical taboo, horror, and a mystery signal that feels like a ghost story—perfect for dark science audiences."
+  },
+  {
+    "unique_id": "science_0172_002_ac9dc2cc42e47306",
+    "title": "The Lab That Accidentally Turned a Petri Dish Into a Carnivorous Organism",
+    "hook": "A biologist left a sample of skin cells in a nutrient bath for too long, and the cells began hunting and consuming bacteria.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "carnivorous cells",
+      "petri dish horror",
+      "skin cells eating",
+      "lab accident",
+      "biological anomaly"
+    ],
+    "overlap_check_hash": "ac9dc2cc42e47306",
+    "why_this_can_go_viral": "Turns a mundane lab mistake into a sci-fi horror scenario, tapping into fear of the body turning against itself."
+  },
+  {
+    "unique_id": "science_0172_004_7acdb76c9c9cce09",
+    "title": "The Chemist Who Made a Rubber Ball That Bounced Forever—Until It Destroyed the Lab",
+    "hook": "A polymer chemist created a ball with near-perfect elasticity, but it absorbed so much kinetic energy it shattered concrete.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 65,
+    "educational_value": 72,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "super elastic ball",
+      "polymer disaster",
+      "lab destruction",
+      "kinetic energy",
+      "material science"
+    ],
+    "overlap_check_hash": "7acdb76c9c9cce09",
+    "why_this_can_go_viral": "A simple, relatable object (a rubber ball) becomes a catastrophic weapon—visceral and easy to visualize."
+  },
+  {
+    "unique_id": "science_0172_007_fae679125d8b27fd",
+    "title": "The Physicist Who Proved That Past Events Can Be Changed—And Erased Her Own Birth",
+    "hook": "A physicist published a mathematical proof that retrocausality is real, then withdrew it—her records of the proof vanished.",
+    "virality_score": 87,
+    "curiosity_gap_score": 94,
+    "darkness_score": 75,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "retrocausality",
+      "changing past",
+      "time paradox",
+      "vanishing proof",
+      "physics mystery"
+    ],
+    "overlap_check_hash": "fae679125d8b27fd",
+    "why_this_can_go_viral": "A real-world 'butterfly effect' horror story that challenges the very nature of time and memory."
+  },
+  {
+    "unique_id": "science_0172_008_71cd602faaa6f805",
+    "title": "The Lab That Leaked a Fungus That Makes Hosts Seek Light—And It Got Into Humans",
+    "hook": "A genetically modified fungus that forces insects into sunlight escaped containment, and three lab workers started compulsively sunbathing.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 68,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "mind control fungus",
+      "zombie fungus",
+      "lab leak",
+      "phototaxis",
+      "human infection"
+    ],
+    "overlap_check_hash": "71cd602faaa6f805",
+    "why_this_can_go_viral": "Taps into the zombie/body-horror genre with a real, documented mechanism—the horror of losing control."
+  },
+  {
+    "unique_id": "science_0172_009_c9e2b2aef85d2b6d",
+    "title": "The Scientific Fraud Who Faked a 'Longevity' Drug—And His Mice Lived Forever",
+    "hook": "A researcher claimed his drug stopped aging, but his 'immortal' mice were just frozen corpses replaced weekly with fresh ones.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "longevity fraud",
+      "fake drug",
+      "immortal mice",
+      "aging scam",
+      "scientific deception"
+    ],
+    "overlap_check_hash": "c9e2b2aef85d2b6d",
+    "why_this_can_go_viral": "Exposes the dark side of anti-aging research—greed and deception exploiting the human fear of death."
+  },
+  {
+    "unique_id": "science_0172_010_1b046261a0fcf681",
+    "title": "The Chemist Who Discovered a Liquid That Evaporates at Absolute Zero—And Froze the Lab",
+    "hook": "A compound that sublimates at -273°C—near absolute zero—was accidentally spilled, flash-freezing everything in the room.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 72,
+    "educational_value": 76,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "absolute zero liquid",
+      "cryogenic accident",
+      "flash freeze",
+      "lab disaster",
+      "extreme cold"
+    ],
+    "overlap_check_hash": "1b046261a0fcf681",
+    "why_this_can_go_viral": "Visually dramatic—imagine a room instantly frozen solid—and sparks curiosity about the limits of temperature."
+  },
+  {
+    "unique_id": "science_0172_013_e0071c370e558a51",
+    "title": "The Neuroscientist Who Shocked a Man's Brain—And He Started Speaking Ancient Aramaic",
+    "hook": "Electrical stimulation of a patient's temporal lobe caused him to fluently speak a dead language he had never learned.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 80,
+    "educational_value": 77,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "ancient language",
+      "brain stimulation",
+      "past life memory",
+      "temporal lobe",
+      "forgotten tongue"
+    ],
+    "overlap_check_hash": "e0071c370e558a51",
+    "why_this_can_go_viral": "Feeds into reincarnation and hidden memory theories—suggests the brain may store ancestral knowledge."
+  },
+  {
+    "unique_id": "science_0172_016_8a52408d461328f6",
+    "title": "The Scientific Fraud Who Faked a 'Death Ray'—And Nearly Started a War",
+    "hook": "A con artist convinced the US military he had invented a particle beam that could stop engines—it was just a magnet and a light bulb.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 73,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "death ray fraud",
+      "military scam",
+      "Tesla weapon",
+      "fake invention",
+      "cold war hoax"
+    ],
+    "overlap_check_hash": "8a52408d461328f6",
+    "why_this_can_go_viral": "A real-life 'Wizard of Oz' scam that almost triggered military escalation—audiences love stories of clever fraud."
+  },
+  {
+    "unique_id": "science_0172_017_e02daf0aec406514",
+    "title": "The Chemist Who Made a Substance That Glows in the Presence of Death—And It Lit Up Her Lab",
+    "hook": "A fluorescent compound that reacts to decaying tissue—when a lab mouse died, the entire room turned green.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 69,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "death glow",
+      "decay detection",
+      "fluorescent death",
+      "chemical reaction",
+      "corpse glow"
+    ],
+    "overlap_check_hash": "e02daf0aec406514",
+    "why_this_can_go_viral": "Visually striking and morbid—turns the concept of death into a glowing spectacle, perfect for dark science shorts."
+  },
+  {
+    "unique_id": "science_0172_018_3f5971861409693a",
+    "title": "The Forbidden Experiment Where Scientists Tried to Teach a Chimp to Speak—And It Begged to Die",
+    "hook": "A chimpanzee raised as a human learned sign language, but after years of isolation, it signed 'let me out' and stopped eating.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 75,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "talking chimp",
+      "language experiment",
+      "animal suffering",
+      "sign language ape",
+      "ethical disaster"
+    ],
+    "overlap_check_hash": "3f5971861409693a",
+    "why_this_can_go_viral": "Anthropomorphism meets tragedy—the chimp's plea for death is heartbreaking and raises huge ethical questions."
+  },
+  {
+    "unique_id": "science_0172_021_d2b9d604b248cb72",
+    "title": "The Biolab That Engineered a Virus That Only Targets Liars—And It Tested Positive on the Researchers",
+    "hook": "A team designed a virus that detects deceptive neural signals—their control group all got infected, revealing they faked the data.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 76,
+    "educational_value": 67,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "lie detector virus",
+      "neural virus",
+      "truth detection",
+      "karma virus",
+      "scientific irony"
+    ],
+    "overlap_check_hash": "d2b9d604b248cb72",
+    "why_this_can_go_viral": "Poetic justice meets biotech horror—the creators become victims of their own creation."
+  },
+  {
+    "unique_id": "science_0172_022_95edaa2ee761cd7f",
+    "title": "The Chemist Who Discovered a Powder That Absorbs All Moisture—And Dried Out a Person From the Inside",
+    "hook": "A super-hygroscopic powder was inhaled during a lab accident—it pulled water from the victim's lungs, collapsing them instantly.",
+    "virality_score": 77,
+    "curiosity_gap_score": 83,
+    "darkness_score": 90,
+    "educational_value": 68,
+    "estimated_short_retention": 74,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "moisture absorbing powder",
+      "dehydration death",
+      "hygroscopic disaster",
+      "lab inhalation",
+      "chemical horror"
+    ],
+    "overlap_check_hash": "95edaa2ee761cd7f",
+    "why_this_can_go_viral": "A dry, scientific detail that leads to a gruesome, visceral death—sticky curiosity."
+  },
+  {
+    "unique_id": "science_0172_023_68522376728808f6",
+    "title": "The Quantum Computer That Calculated the Probability of Free Will—And Said 0%",
+    "hook": "A quantum algorithm designed to test indeterminism returned a result that all choices are predetermined—down to the scientist's next breath.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 82,
+    "educational_value": 85,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "free will disproved",
+      "determinism",
+      "quantum free will",
+      "predestination",
+      "algorithmic fate"
+    ],
+    "overlap_check_hash": "68522376728808f6",
+    "why_this_can_go_viral": "Challenges core human belief in autonomy—viewers will argue in comments, boosting engagement."
+  },
+  {
+    "unique_id": "science_0172_024_e784896a31e4804a",
+    "title": "The Surgeon Who Transplanted a Pig's Heart Into a Human—And It Began to Squeal",
+    "hook": "A xenotransplant patient reportedly started making grunting sounds and craving slop—the organ's neural tissue had connected to the host brain.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 65,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "pig heart transplant",
+      "xenotransplant horror",
+      "animal human hybrid",
+      "organ behavior",
+      "body horror"
+    ],
+    "overlap_check_hash": "e784896a31e4804a",
+    "why_this_can_go_viral": "Gross, terrifying, and deeply unsettling—taps into fear of losing one's humanity to an animal organ."
+  },
+  {
+    "unique_id": "science_0172_025_8fb933a5d0a6fce7",
+    "title": "The Forbidden Experiment Where Scientists Kept a Baby in a Box With Only Food—And It Never Cried",
+    "hook": "A behavioral experiment deprived an infant of all human touch for 6 months—the child became silent, still, and emotionless.",
+    "virality_score": 96,
+    "curiosity_gap_score": 98,
+    "darkness_score": 100,
+    "educational_value": 82,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "deprivation experiment",
+      "baby in box",
+      "no touch child",
+      "emotional neglect study",
+      "inhumane science"
+    ],
+    "overlap_check_hash": "8fb933a5d0a6fce7",
+    "why_this_can_go_viral": "Maximum darkness—the utter cruelty and the haunting image of a silent baby will provoke outrage and shares."
+  }
+]

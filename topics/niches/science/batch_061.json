@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "science_0061_001_e67ab3870dfc9e25",
+    "title": "The Chemist Who Made a Molecule That Causes Instant Paralysis",
+    "hook": "A lab accident synthesized a compound that freezes every muscle in the body—except the heart.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "paralysis",
+      "nerve agent",
+      "lab accident",
+      "toxic molecule",
+      "biochemistry"
+    ],
+    "overlap_check_hash": "e67ab3870dfc9e25",
+    "why_this_can_go_viral": "Combines real chemical horror with the fear of losing body control—high emotional shock value."
+  },
+  {
+    "unique_id": "science_0061_003_78387ea058fec42c",
+    "title": "The Biologist Who Found a Fungus That Consumes Human Bone",
+    "hook": "A microscopic fungus that eats calcium—and it's already inside your body.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "bone fungus",
+      "pathogen",
+      "body horror",
+      "osteomyelitis",
+      "microbiology"
+    ],
+    "overlap_check_hash": "78387ea058fec42c",
+    "why_this_can_go_viral": "Gross-out factor plus the 'it could be in you' angle drives intense curiosity and shares."
+  },
+  {
+    "unique_id": "science_0061_004_62ba87b862fb2b77",
+    "title": "The Physicist Who Found a Particle That Exists Everywhere at Once",
+    "hook": "One particle that violates locality—and it could rewrite the laws of physics.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 60,
+    "educational_value": 80,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "particle",
+      "quantum mechanics",
+      "nonlocality",
+      "wave function",
+      "reality"
+    ],
+    "overlap_check_hash": "62ba87b862fb2b77",
+    "why_this_can_go_viral": "Mind-bending concept that challenges viewers' understanding of reality, highly shareable."
+  },
+  {
+    "unique_id": "science_0061_005_1349acd13c9c1213",
+    "title": "The Fraud Scientist Who Faked a Study That Rats Can Predict Earthquakes",
+    "hook": "A celebrated paper that fooled the world—until the rats revealed the truth.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 70,
+    "educational_value": 72,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fraud",
+      "earthquake prediction",
+      "rats",
+      "fake science",
+      "scandal"
+    ],
+    "overlap_check_hash": "1349acd13c9c1213",
+    "why_this_can_go_viral": "Exposes how easily scientific consensus can be manipulated, sparking outrage and curiosity."
+  },
+  {
+    "unique_id": "science_0061_006_63d2c386b7f0dab2",
+    "title": "The Lab Accident That Created a Chemical That Eats Through Steel",
+    "hook": "A single drop of this liquid dissolves metal—and it nearly escaped containment.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 83,
+    "educational_value": 68,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "acid",
+      "corrosive",
+      "lab accident",
+      "containment breach",
+      "dangerous chemical"
+    ],
+    "overlap_check_hash": "63d2c386b7f0dab2",
+    "why_this_can_go_viral": "Visceral, destructive imagery combined with 'nearly escaped' danger narrative."
+  },
+  {
+    "unique_id": "science_0061_009_eb725c2b267bff9a",
+    "title": "The Biologist Who Discovered a Virus That Merges Two Species' DNA",
+    "hook": "A virus that literally splices the DNA of different animals together—and it's still out there.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "virus",
+      "DNA fusion",
+      "chimera",
+      "horizontal gene transfer",
+      "evolution"
+    ],
+    "overlap_check_hash": "eb725c2b267bff9a",
+    "why_this_can_go_viral": "Sounds like sci-fi horror but is real—drives intense curiosity and fear."
+  },
+  {
+    "unique_id": "science_0061_010_d9240b3857d105d9",
+    "title": "The Forbidden Experiment That Raised a Child in a Silent Room",
+    "hook": "A scientist kept a baby in absolute silence for years to see if language is innate.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "isolation",
+      "language deprivation",
+      "child experiment",
+      "psychology",
+      "ethics"
+    ],
+    "overlap_check_hash": "d9240b3857d105d9",
+    "why_this_can_go_viral": "Extreme human cruelty in the name of science—emotional and shocking."
+  },
+  {
+    "unique_id": "science_0061_011_03fdf17dffca5e72",
+    "title": "The Lab That Created a Bacteria That Poops Gold",
+    "hook": "A genetically modified microbe that turns toxic waste into solid gold—but it escaped.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "gold",
+      "bacteria",
+      "bioremediation",
+      "GM organism",
+      "escape"
+    ],
+    "overlap_check_hash": "03fdf17dffca5e72",
+    "why_this_can_go_viral": "Alchemy meets bioterror—combines greed, science, and danger in one story."
+  },
+  {
+    "unique_id": "science_0061_012_7d1dfe83b40f31a5",
+    "title": "The Fraud Scientist Who Claimed He Found a Map of Hell Inside the Earth",
+    "hook": "A geologist faked seismic data to 'prove' a fiery chamber exists beneath our feet.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "hell",
+      "geology",
+      "fraud",
+      "seismic",
+      "hoax"
+    ],
+    "overlap_check_hash": "7d1dfe83b40f31a5",
+    "why_this_can_go_viral": "Blends religious mythology with fake science—perfect for debate and disbelief."
+  },
+  {
+    "unique_id": "science_0061_013_4beec1bd241e84cb",
+    "title": "The Chemist Who Invented a Polymer That Never Dissolves—Not Even in Acid",
+    "hook": "A material that resists every solvent known to man—and it's now in your water supply.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 77,
+    "educational_value": 72,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "polymer",
+      "forever chemical",
+      "pollution",
+      "acid resistant",
+      "environmental disaster"
+    ],
+    "overlap_check_hash": "4beec1bd241e84cb",
+    "why_this_can_go_viral": "Taps into 'forever chemicals' fear—viewers will wonder what they're drinking."
+  },
+  {
+    "unique_id": "science_0061_014_970fa76fd1e8d87a",
+    "title": "The Neuroscientist Who Found That Your Brain Can Shut Down Your Senses",
+    "hook": "A simple trigger can make you blind, deaf, and numb—while you're still awake.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "sensory shutdown",
+      "brain switch",
+      "conversion disorder",
+      "neuroscience",
+      "consciousness"
+    ],
+    "overlap_check_hash": "970fa76fd1e8d87a",
+    "why_this_can_go_viral": "Reveals a hidden vulnerability in everyone—creates immediate personal relevance."
+  },
+  {
+    "unique_id": "science_0061_015_2160ab375e43eaba",
+    "title": "The Physicist Who Discovered That Gravity Can Be Repulsive",
+    "hook": "An experiment showed gravity pushing objects apart—and it broke known physics.",
+    "virality_score": 82,
+    "curiosity_gap_score": 89,
+    "darkness_score": 68,
+    "educational_value": 83,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "antigravity",
+      "repulsion",
+      "dark energy",
+      "gravity",
+      "experiment"
+    ],
+    "overlap_check_hash": "2160ab375e43eaba",
+    "why_this_can_go_viral": "Challenges a fundamental force—viewers love 'what if gravity is wrong' content."
+  },
+  {
+    "unique_id": "science_0061_016_fea23906e1bfed71",
+    "title": "The Forbidden Experiment That Hooked a Human to a Pain Amplifier",
+    "hook": "A device that multiplies pain signals by 100—and it was tested on a conscious man.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "pain",
+      "amplifier",
+      "human guinea pig",
+      "torture",
+      "neuroscience"
+    ],
+    "overlap_check_hash": "fea23906e1bfed71",
+    "why_this_can_go_viral": "Extreme horror and ethical violation—viewers can't look away."
+  },
+  {
+    "unique_id": "science_0061_018_c67d7350f8b7c4da",
+    "title": "The Fraud Scientist Who Faked a Study That Octopuses Dream in English",
+    "hook": "A hoax paper claimed octopuses vocalize human words in their sleep—and journals believed it.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 65,
+    "educational_value": 70,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "octopus",
+      "dream",
+      "hoax",
+      "animal communication",
+      "fake study"
+    ],
+    "overlap_check_hash": "c67d7350f8b7c4da",
+    "why_this_can_go_viral": "Bizarre and funny but also exposes peer review failures—perfect for sharing."
+  },
+  {
+    "unique_id": "science_0061_019_06e0450a36296c13",
+    "title": "The Quantum Paradox That Proves You Can Be in Two Places at Once",
+    "hook": "A human-scale quantum experiment showed a person existing in two labs simultaneously.",
+    "virality_score": 84,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "superposition",
+      "quantum",
+      "duality",
+      "experiment",
+      "identity"
+    ],
+    "overlap_check_hash": "06e0450a36296c13",
+    "why_this_can_go_viral": "Personalizes quantum weirdness—viewers imagine themselves being in two places."
+  },
+  {
+    "unique_id": "science_0061_020_c28564c9f10fe367",
+    "title": "The Biologist Who Found a Jellyfish That Never Dies—and It's Invading Oceans",
+    "hook": "A tiny jellyfish that reverts to infancy when injured—and it's spreading everywhere.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 76,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "immortal jellyfish",
+      "aging",
+      "invasion",
+      "marine biology",
+      "Turritopsis"
+    ],
+    "overlap_check_hash": "c28564c9f10fe367",
+    "why_this_can_go_viral": "Immortality in nature—fascinating and slightly terrifying, with ecological disaster angle."
+  },
+  {
+    "unique_id": "science_0061_021_bff41b0795a08e39",
+    "title": "The Lab That Accidentally Created a Cloud That Never Rains",
+    "hook": "A chemical release created a persistent cloud that hung over a town for 3 years.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "cloud",
+      "weather modification",
+      "pollution",
+      "chemical disaster",
+      "atmosphere"
+    ],
+    "overlap_check_hash": "bff41b0795a08e39",
+    "why_this_can_go_viral": "Eerie visual of a permanent cloud—feels like a sci-fi horror movie come true."
+  },
+  {
+    "unique_id": "science_0061_023_cb3d7782f0d4fd3b",
+    "title": "The Forbidden Experiment That Tried to Transplant a Human Head",
+    "hook": "A surgeon sewed a severed head onto a living body—and the brain showed signs of awareness.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 97,
+    "educational_value": 74,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "head transplant",
+      "surgery",
+      "ethics",
+      "consciousness",
+      "Frankenstein"
+    ],
+    "overlap_check_hash": "cb3d7782f0d4fd3b",
+    "why_this_can_go_viral": "The ultimate taboo experiment—shock, horror, and existential questions drive massive engagement."
+  },
+  {
+    "unique_id": "science_0061_025_4c14c23e4ef55df0",
+    "title": "The Biologist Who Discovered a Bacterium That Lives in Boiling Acid",
+    "hook": "A microbe that thrives in pH 0, 100°C water—and it could exist on other planets.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 78,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "extremophile",
+      "acid",
+      "thermophile",
+      "astrobiology",
+      "archaea"
+    ],
+    "overlap_check_hash": "4c14c23e4ef55df0",
+    "why_this_can_go_viral": "Stretches the definition of life—sparks wonder and fear about what else might exist."
+  }
+]

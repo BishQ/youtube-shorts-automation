@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "science_0170_001_f2e21761f3daa98f",
+    "title": "The Surgeon Who Transplanted a Dead Man's Head—And It Twitched",
+    "hook": "A Soviet surgeon grafted a cadaver's head onto a living dog's body, and the dead eyes opened.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "head transplant",
+      "Soviet experiments",
+      "cadaver",
+      "dog",
+      "resurrection"
+    ],
+    "overlap_check_hash": "f2e21761f3daa98f",
+    "why_this_can_go_viral": "Combines forbidden surgery with visceral shock value and a 'what happened next?' cliffhanger."
+  },
+  {
+    "unique_id": "science_0170_002_48ea8faf1a645de5",
+    "title": "The Lab That Leaked a Nerve Gas—And Froze 50 People Alive",
+    "hook": "A military chemist's vial shattered, releasing a gas that paralyzed every muscle in a building—including heartbeats.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 96,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "nerve gas",
+      "paralysis",
+      "lab accident",
+      "Russian research",
+      "chemical weapon"
+    ],
+    "overlap_check_hash": "48ea8faf1a645de5",
+    "why_this_can_go_viral": "Real-life horror of being conscious but unable to move or breathe taps into primal fear."
+  },
+  {
+    "unique_id": "science_0170_003_33fd1f9677c0ff19",
+    "title": "The Biologist Who Bred a Spider That Learned to Use Tools",
+    "hook": "An arachnologist created a spider species that built traps with leaves—and then it started hunting him.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "tool use",
+      "spider intelligence",
+      "evolution",
+      "escape",
+      "lab safety"
+    ],
+    "overlap_check_hash": "33fd1f9677c0ff19",
+    "why_this_can_go_viral": "Spiders + intelligence + revenge narrative is a guaranteed click magnet."
+  },
+  {
+    "unique_id": "science_0170_004_556319019aae7970",
+    "title": "The Physicist Who Got Stuck in a Time Loop—And Left a Diary",
+    "hook": "A quantum researcher claimed he experienced the same 10 minutes 4,000 times, and his logbook proves it.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time loop",
+      "quantum experiment",
+      "reality break",
+      "diary",
+      "deja vu"
+    ],
+    "overlap_check_hash": "556319019aae7970",
+    "why_this_can_go_viral": "Time loop theory plus a physical artifact blurs sci-fi and fact, triggering deep curiosity."
+  },
+  {
+    "unique_id": "science_0170_005_46f2de22d11764c1",
+    "title": "The Scientist Who Faked a Drug Trial—And 12 People Grew Horns",
+    "hook": "A biochemist injected patients with a fake stem-cell cure; within months, keratin spikes pushed through their skulls.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 95,
+    "educational_value": 50,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "stem cell fraud",
+      "horns",
+      "body horror",
+      "fake cure",
+      "patients deformed"
+    ],
+    "overlap_check_hash": "46f2de22d11764c1",
+    "why_this_can_go_viral": "Grotesque visual of human horns combined with medical betrayal is pure viral fuel."
+  },
+  {
+    "unique_id": "science_0170_006_16d53417b08478b5",
+    "title": "The Neuroscientist Who Shocked a Brain—And the Subject Felt God",
+    "hook": "By stimulating the temporal lobe with a mild current, a lab volunteer reported a divine presence in the room.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 72,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "God helmet",
+      "temporal lobe",
+      "hallucination",
+      "spiritual experience",
+      "electrode"
+    ],
+    "overlap_check_hash": "16d53417b08478b5",
+    "why_this_can_go_viral": "The idea that spirituality can be switched on with electricity challenges belief systems."
+  },
+  {
+    "unique_id": "science_0170_008_922f6e0d649b7a3b",
+    "title": "The Lab That Built a Self-Replicating Machine—And It Wouldn't Stop",
+    "hook": "A 3D printer programmed to print copies of itself filled an entire bunker with plastic before anyone noticed.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 76,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "self-replication",
+      "3D printer",
+      "grey goo",
+      "runaway machine",
+      "automation horror"
+    ],
+    "overlap_check_hash": "922f6e0d649b7a3b",
+    "why_this_can_go_viral": "Self-replicating machines are a classic sci-fi horror that feels increasingly plausible."
+  },
+  {
+    "unique_id": "science_0170_010_7eb79512f5ca0ebd",
+    "title": "The Biologist Who Created a Fish That Lives on Land—And It Walked Out",
+    "hook": "By breeding lungfish for 50 generations, a scientist made a creature that crawled out of its tank and survived.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "evolution experiment",
+      "lungfish",
+      "land walker",
+      "escape",
+      "lab animal"
+    ],
+    "overlap_check_hash": "7eb79512f5ca0ebd",
+    "why_this_can_go_viral": "Playing God with evolution and the creature escaping is primal horror storytelling."
+  },
+  {
+    "unique_id": "science_0170_012_2959b42db3edf49b",
+    "title": "The Quantum Computer That Calculated a Black Hole's Interior—And Found a Face",
+    "hook": "A simulation of a black hole's singularity output an image that resembled a human face staring back.",
+    "virality_score": 88,
+    "curiosity_gap_score": 96,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "black hole",
+      "quantum simulation",
+      "face",
+      "singularity",
+      "AI hallucination"
+    ],
+    "overlap_check_hash": "2959b42db3edf49b",
+    "why_this_can_go_viral": "Cosmic horror meets AI—finding a face in the void triggers pareidolia and existential dread."
+  },
+  {
+    "unique_id": "science_0170_014_98bb0c3c2f8838f3",
+    "title": "The Chemist Who Made a Polymer That Absorbs All Light—And Couldn't See It",
+    "hook": "A material that traps 99.9% of photons created a void so black that researchers lost depth perception looking at it.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 72,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "Vantablack",
+      "light absorption",
+      "polymer",
+      "visual void",
+      "disorienting"
+    ],
+    "overlap_check_hash": "98bb0c3c2f8838f3",
+    "why_this_can_go_viral": "The idea of a color darker than black that bends the mind is visually and conceptually stunning."
+  },
+  {
+    "unique_id": "science_0170_015_a3e86e3e27a16136",
+    "title": "The Forbidden Experiment Where Twins Were Separated—And Lived the Same Life",
+    "hook": "A psychologist secretly separated identical twins at birth—one pair unknowingly married women with the same name and pet.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 84,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "twin separation",
+      "nature vs nurture",
+      "coincidence",
+      "psychology experiment",
+      "suppressed study"
+    ],
+    "overlap_check_hash": "a3e86e3e27a16136",
+    "why_this_can_go_viral": "The eerie synchronicity of separated twins challenges ideas of free will and destiny."
+  },
+  {
+    "unique_id": "science_0170_016_bfc519b01ae8457b",
+    "title": "The Biologist Who Genetically Engineered a Jellyfish That Glows Forever",
+    "hook": "By inserting bioluminescent genes into a jellyfish, it produced light without energy—and it still glows 12 years later.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 68,
+    "educational_value": 80,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "jellyfish",
+      "bioluminescence",
+      "genetic modification",
+      "immortal glow",
+      "GFP"
+    ],
+    "overlap_check_hash": "bfc519b01ae8457b",
+    "why_this_can_go_viral": "Beautiful but unsettling—a creature that defies biology with an eternal light show."
+  },
+  {
+    "unique_id": "science_0170_017_1adb1f1e032988a5",
+    "title": "The Physicist Who Built a Laser That Tore a Hole in Reality",
+    "hook": "A quantum optics experiment focused a laser beam so intense that it briefly created a vacuum decay—a hole in spacetime.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "vacuum decay",
+      "laser",
+      "reality hole",
+      "quantum optics",
+      "spacetime tear"
+    ],
+    "overlap_check_hash": "1adb1f1e032988a5",
+    "why_this_can_go_viral": "The idea that we could accidentally rip the fabric of the universe is terrifying and clickable."
+  },
+  {
+    "unique_id": "science_0170_018_b3e7a7076fcb14f6",
+    "title": "The Scientific Fraud Who Faked a Climate Model—And Caused a Panic",
+    "hook": "A data scientist manipulated temperature projections to show imminent collapse—governments spent billions before the lie was exposed.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 86,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "climate fraud",
+      "data manipulation",
+      "panic",
+      "government spending",
+      "exposed"
+    ],
+    "overlap_check_hash": "b3e7a7076fcb14f6",
+    "why_this_can_go_viral": "High-stakes global deception with real-world consequences—conspiracy theorists and skeptics will share widely."
+  },
+  {
+    "unique_id": "science_0170_019_330256f9ff819ed3",
+    "title": "The Neuroscientist Who Electrocuted a Brain—And the Person Forgot Their Name",
+    "hook": "A probe in the hippocampus delivered a tiny shock; the patient suddenly had no memory of their identity for 20 minutes.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory erasure",
+      "hippocampus",
+      "electrode",
+      "identity loss",
+      "brain probe"
+    ],
+    "overlap_check_hash": "330256f9ff819ed3",
+    "why_this_can_go_viral": "The fragility of self-identity revealed by a simple electric current is deeply unsettling."
+  },
+  {
+    "unique_id": "science_0170_020_1787df23e90a3fac",
+    "title": "The Chemist Who Discovered a Acid That Burns Forever—And It Melted Through the Floor",
+    "hook": "A flask of fluoroantimonic acid—the strongest superacid—ate through its container and 12 floors of concrete before stopping.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "superacid",
+      "fluoroantimonic acid",
+      "corrosion",
+      "lab disaster",
+      "concrete"
+    ],
+    "overlap_check_hash": "1787df23e90a3fac",
+    "why_this_can_go_viral": "A substance that can burn through almost anything—visceral destruction with scientific awe."
+  },
+  {
+    "unique_id": "science_0170_021_ef58e2da01593f01",
+    "title": "The Physicist Who Proved That Time Is a Loop—And Left a Message for His Past Self",
+    "hook": "A theoretical physicist wrote a letter to his younger self after a closed timelike curve equation suggested it could arrive.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 74,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time loop",
+      "CTCs",
+      "closed timelike curve",
+      "letter",
+      "paradox"
+    ],
+    "overlap_check_hash": "ef58e2da01593f01",
+    "why_this_can_go_viral": "The emotional hook of a scientist communicating across time is deeply compelling and shareable."
+  },
+  {
+    "unique_id": "science_0170_023_646b7e0fcec6695c",
+    "title": "The Biolab That Created a Fungus That Controls Ants—And It Got Into a Human",
+    "hook": "A cordyceps sample from a zombie ant accidentally infected a lab worker's wound, and the fungus started altering behavior.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 97,
+    "educational_value": 68,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "cordyceps",
+      "zombie fungus",
+      "human infection",
+      "lab accident",
+      "behavior control"
+    ],
+    "overlap_check_hash": "646b7e0fcec6695c",
+    "why_this_can_go_viral": "The zombie apocalypse scenario made real—'The Last of Us' meets real science panic."
+  },
+  {
+    "unique_id": "science_0170_025_f1f9c7ffc98ae762",
+    "title": "The Neuroscientist Who Transferred a Fear Memory Between Worms—And It Survived Death",
+    "hook": "A lab extracted RNA from conditioned flatworms, injected it into naive worms—and they inherited the fear without training.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 76,
+    "educational_value": 82,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory transfer",
+      "RNA",
+      "flatworm",
+      "inherited fear",
+      "epigenetics"
+    ],
+    "overlap_check_hash": "f1f9c7ffc98ae762",
+    "why_this_can_go_viral": "The idea that memories can be passed down like traits challenges our understanding of death and identity."
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "facts_0071_001_1b188e0adfb68f35",
+    "title": "The Tree That Bleeds Metal and Poisons the Ground for Miles",
+    "hook": "In the jungles of New Caledonia, a tree pulls nickel from the soil until its sap turns electric blue—and the ground beneath it becomes toxic wasteland.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 78,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "metal tree",
+      "hyperaccumulator",
+      "nickel plant",
+      "toxic soil",
+      "blue sap"
+    ],
+    "overlap_check_hash": "1b188e0adfb68f35",
+    "why_this_can_go_viral": "Combines alien-looking biology with a hidden environmental danger—people will share the 'tree that bleeds metal' visual."
+  },
+  {
+    "unique_id": "facts_0071_002_542eff39be0b6263",
+    "title": "Your Hair Grows From Tiny Corpses Inside Your Scalp",
+    "hook": "Each strand of hair pushes out of a bulb of dead, hardened skin cells—your head is literally a graveyard of its own tissue.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "dead skin hair",
+      "hair growth cells",
+      "scalp corpses",
+      "keratin death",
+      "body horror"
+    ],
+    "overlap_check_hash": "542eff39be0b6263",
+    "why_this_can_go_viral": "Everyone has hair but almost no one knows it's made of dead tissue—instant disgust and shareability."
+  },
+  {
+    "unique_id": "facts_0071_003_bea599c8d7ad66de",
+    "title": "The Mountain That Grows 7 Inches a Day and Never Stops",
+    "hook": "In Antarctica, a slow-motion eruption pushes Mount Erebus upward constantly—but the real nightmare is the lava lake that breathes toxic gas.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 68,
+    "educational_value": 72,
+    "estimated_short_retention": 74,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "growing mountain",
+      "Mount Erebus",
+      "lava lake",
+      "Antarctica volcano",
+      "constant eruption"
+    ],
+    "overlap_check_hash": "bea599c8d7ad66de",
+    "why_this_can_go_viral": "Hidden active volcano on the coldest continent—visual contrast and 'growing mountain' concept is bizarre."
+  },
+  {
+    "unique_id": "facts_0071_004_a201af7fab9b2b23",
+    "title": "The Bacteria That Melt Their Way Through Ice and Wake Up After 100,000 Years",
+    "hook": "Deep in Siberian permafrost, microbes frozen since the last ice age thaw out and start swimming again—and no one knows what they'll do.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 74,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "permafrost bacteria",
+      "ancient microbes",
+      "frozen alive",
+      "Siberia thaw",
+      "zombie bacteria"
+    ],
+    "overlap_check_hash": "a201af7fab9b2b23",
+    "why_this_can_go_viral": "Taps into the 'zombie pathogen' fear and climate change anxiety—perfect viral cocktail."
+  },
+  {
+    "unique_id": "facts_0071_005_6d99e54ac0719271",
+    "title": "The Puppet Master Parasite That Makes Its Host Seek Out Predators",
+    "hook": "A microscopic worm infects a cricket, hijacks its brain, and forces it to jump into water—where a fish is waiting to eat them both alive.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "mind control parasite",
+      "cricket suicide",
+      "hairworm",
+      "brain hijack",
+      "predator bait"
+    ],
+    "overlap_check_hash": "6d99e54ac0719271",
+    "why_this_can_go_viral": "Parasite mind control is endlessly fascinating and horrifying—high shock value and shareability."
+  },
+  {
+    "unique_id": "facts_0071_007_c6a7a81ec041ec1d",
+    "title": "The 1-in-1,000 People Who See Colors Nobody Else Can",
+    "hook": "A rare fourth cone cell in their retinas lets them see ultraviolet light—the world is 100 million colors richer, and we're blind to it.",
+    "virality_score": 83,
+    "curiosity_gap_score": 90,
+    "darkness_score": 45,
+    "educational_value": 80,
+    "estimated_short_retention": 79,
+    "niche_name": "facts",
+    "subcategory": "cognitive reality gaps",
+    "keywords": [
+      "tetrachromacy",
+      "four cone cells",
+      "ultraviolet vision",
+      "hidden colors",
+      "super vision"
+    ],
+    "overlap_check_hash": "c6a7a81ec041ec1d",
+    "why_this_can_go_viral": "Reality-bending concept that 'normal' humans miss a whole dimension—makes viewers question their own perception."
+  },
+  {
+    "unique_id": "facts_0071_008_35f6701d850bdf1b",
+    "title": "The Statistical Impossibility That You Share a Birthday With 23 Strangers",
+    "hook": "In any group of 57 people, there's a 99% chance two share a birthday—but the real twist is how the math tricks your brain into disbelief.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 30,
+    "educational_value": 85,
+    "estimated_short_retention": 72,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "birthday paradox",
+      "shared birthday",
+      "probability trick",
+      "math illusion",
+      "group stats"
+    ],
+    "overlap_check_hash": "35f6701d850bdf1b",
+    "why_this_can_go_viral": "Classic counterintuitive stat that still blows minds—perfect for comment section arguments and tags."
+  },
+  {
+    "unique_id": "facts_0071_009_cbe9c9b0dd3ae08a",
+    "title": "The Lake Where Divers Emerge With Blood Vessels Burst in Their Eyes",
+    "hook": "Lake Nyos in Cameroon holds a deadly secret—CO2 from the volcano below dissolves into the water, and a single ripple turns it into a gas bomb.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "Lake Nyos",
+      "CO2 bomb",
+      "killer lake",
+      "burst blood vessels",
+      "limnic eruption"
+    ],
+    "overlap_check_hash": "cbe9c9b0dd3ae08a",
+    "why_this_can_go_viral": "True location that already killed 1,700 people in one night—high darkness, high curiosity, dramatic visuals."
+  },
+  {
+    "unique_id": "facts_0071_010_56aa8dbee34183e1",
+    "title": "The Molecule in Your Kitchen Sponge That Eats Through Aluminum Foil",
+    "hook": "If you wrap aluminum foil around a slice of lemon, the acid dissolves the metal and creates hydrogen gas—your kitchen is a chemistry lab waiting to explode.",
+    "virality_score": 74,
+    "curiosity_gap_score": 81,
+    "darkness_score": 58,
+    "educational_value": 68,
+    "estimated_short_retention": 70,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "lemon aluminum reaction",
+      "kitchen explosion",
+      "hydrogen gas kitchen",
+      "acid metal",
+      "household hazard"
+    ],
+    "overlap_check_hash": "56aa8dbee34183e1",
+    "why_this_can_go_viral": "Simple kitchen experiment that reveals hidden danger—high shareability among DIY and science audiences."
+  },
+  {
+    "unique_id": "facts_0071_011_aaef09d282f6d8f7",
+    "title": "The Spider That Spins a Web So Strong It Catches Birds and Bats",
+    "hook": "The Darwin's bark spider weaves silk tougher than Kevlar, spanning 80 feet across rivers—birds fly into it and never escape.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 72,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "Darwin's bark spider",
+      "strongest silk",
+      "bird trap",
+      "giant web",
+      "Kevlar spider"
+    ],
+    "overlap_check_hash": "aaef09d282f6d8f7",
+    "why_this_can_go_viral": "Scale and horror of a spider web strong enough to catch birds—visual and narrative shock."
+  },
+  {
+    "unique_id": "facts_0071_012_33a3748def30e6c1",
+    "title": "The Frogs That Freeze Solid Every Winter and Thaw Out Alive in Spring",
+    "hook": "The wood frog's heart stops, its blood turns to ice sludge, and it becomes a frog-sicle for months—then its body restarts as if nothing happened.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 66,
+    "educational_value": 75,
+    "estimated_short_retention": 78,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "wood frog freeze",
+      "cryogenic frog",
+      "frozen alive",
+      "winter survival",
+      "thaw revival"
+    ],
+    "overlap_check_hash": "33a3748def30e6c1",
+    "why_this_can_go_viral": "Near-death revival story with graphic freeze-thaw cycle—fascinating and slightly disturbing."
+  },
+  {
+    "unique_id": "facts_0071_014_66fe3dc540687122",
+    "title": "The Cave Where the Walls Are Made of Human Bones",
+    "hook": "The Paris Catacombs hold the remains of 6 million people arranged into art—but the air is so thick with decay dust that it burns your lungs.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 73,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "Paris Catacombs",
+      "bone walls",
+      "6 million skeletons",
+      "decay dust",
+      "underground cemetery"
+    ],
+    "overlap_check_hash": "66fe3dc540687122",
+    "why_this_can_go_viral": "Visual shock of bone tunnels plus health hazard—dark tourism horror content explodes on short video."
+  },
+  {
+    "unique_id": "facts_0071_016_8bc3fc8ef5a3037a",
+    "title": "The Light That Makes Your Skin Blister Even Through Glass and Clothing",
+    "hook": "UVA rays pass through car windows and summer shirts, reaching your skin's deepest layers—you're getting sunburnt on a cloudy day inside a car.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 64,
+    "educational_value": 82,
+    "estimated_short_retention": 76,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "UVA through glass",
+      "car sunburn",
+      "window UV danger",
+      "hidden sun damage",
+      "cloudy burn"
+    ],
+    "overlap_check_hash": "8bc3fc8ef5a3037a",
+    "why_this_can_go_viral": "Everyone experiences this but doesn't know—myth-busting with high personal relevance drives shares."
+  },
+  {
+    "unique_id": "facts_0071_017_7b14e79c33fa048b",
+    "title": "The Fish That Walks on Land and Climbs Trees With Its Fins",
+    "hook": "The mangrove rivulus lives on land for months, breathes through its skin, and jumps to grab insects—its fins are evolving into legs right now.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 55,
+    "educational_value": 77,
+    "estimated_short_retention": 74,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "walking fish",
+      "mangrove rivulus",
+      "land fish",
+      "climbing tree fish",
+      "evolution in action"
+    ],
+    "overlap_check_hash": "7b14e79c33fa048b",
+    "why_this_can_go_viral": "Alien-looking creature in plain sight—evolution happening now is a mind-bending concept."
+  },
+  {
+    "unique_id": "facts_0071_018_edd803f38827f388",
+    "title": "The Statistical Trick That Makes You Misjudge Every Risk You Take",
+    "hook": "Your brain treats a 1-in-10,000 chance of dying from a shark attack as equal to a 1-in-10,000 chance of dying from a vending machine—but one kills far more.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 58,
+    "educational_value": 83,
+    "estimated_short_retention": 75,
+    "niche_name": "facts",
+    "subcategory": "cognitive reality gaps",
+    "keywords": [
+      "risk perception",
+      "shark vs vending machine",
+      "probability bias",
+      "fear distortion",
+      "statistical blind spot"
+    ],
+    "overlap_check_hash": "edd803f38827f388",
+    "why_this_can_go_viral": "Challenges viewers' sense of danger—high engagement through personal risk recalibration."
+  },
+  {
+    "unique_id": "facts_0071_019_825abe62bcc35249",
+    "title": "The Metal That Shatters When You Touch It With Your Bare Hand",
+    "hook": "Gallium melts at 86°F—your hand heat turns it into liquid that infiltrates aluminum, making it crumble like wet cardboard.",
+    "virality_score": 75,
+    "curiosity_gap_score": 82,
+    "darkness_score": 48,
+    "educational_value": 72,
+    "estimated_short_retention": 72,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "gallium melt",
+      "hand heat metal",
+      "aluminum destroyer",
+      "liquid metal",
+      "room temperature melt"
+    ],
+    "overlap_check_hash": "825abe62bcc35249",
+    "why_this_can_go_viral": "Visual demo of metal melting in hand—satisfying and surprising, perfect for short video loops."
+  },
+  {
+    "unique_id": "facts_0071_020_b3cb0db9e5c79ad3",
+    "title": "The Worm That Lives in Human Tears and Crawls Across Your Eye at Night",
+    "hook": "Thelazia callipaeda, the oriental eye worm, swims through your tear ducts and crawls under your eyelid—and it's spreading across Europe.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 92,
+    "educational_value": 71,
+    "estimated_short_retention": 88,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "eye worm",
+      "thelazia",
+      "tear duct parasite",
+      "crawling under eyelid",
+      "oriental eye worm"
+    ],
+    "overlap_check_hash": "b3cb0db9e5c79ad3",
+    "why_this_can_go_viral": "Visceral body horror involving eyes—maximizes disgust and shareability, highly memorable."
+  },
+  {
+    "unique_id": "facts_0071_021_ca7226051308fd81",
+    "title": "The Valley Where Your Own Breath Can Poison You",
+    "hook": "In Death Valley's lowest point, the air is so thick with carbon dioxide from geothermal vents that a single deep breath can knock you unconscious.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 77,
+    "educational_value": 74,
+    "estimated_short_retention": 78,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "Death Valley CO2",
+      "breath poison",
+      "geothermal vent",
+      "deadly air",
+      "valley of death"
+    ],
+    "overlap_check_hash": "ca7226051308fd81",
+    "why_this_can_go_viral": "Nature as silent killer—high drama with a famous location, easy to visualize and fear."
+  },
+  {
+    "unique_id": "facts_0071_022_2036241102b9a459",
+    "title": "The Lightbulb That Has Been Burning Continuously Since 1901",
+    "hook": "The Centennial Light in Livermore, California, has glowed for over 120 years—but its secret filament material was deliberately suppressed by manufacturers.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 69,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "Centennial Light",
+      "120 year bulb",
+      "lightbulb conspiracy",
+      "planned obsolescence",
+      "forever bulb"
+    ],
+    "overlap_check_hash": "2036241102b9a459",
+    "why_this_can_go_viral": "Conspiracy-adjacent fact about hidden technology—outrage and wonder drive sharing."
+  },
+  {
+    "unique_id": "facts_0071_023_5bfd27644401bdf3",
+    "title": "The Ocean Current That Could Turn the Atlantic Into a Dead Zone",
+    "hook": "The Atlantic Meridional Overturning Circulation is slowing—if it collapses, Europe freezes and the tropics become lifeless, all within a decade.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 82,
+    "estimated_short_retention": 82,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "AMOC collapse",
+      "Atlantic current",
+      "ocean dead zone",
+      "climate tipping point",
+      "Europe freeze"
+    ],
+    "overlap_check_hash": "5bfd27644401bdf3",
+    "why_this_can_go_viral": "Apocalyptic scale with real scientific consensus—high urgency, fear, and shareability."
+  },
+  {
+    "unique_id": "facts_0071_025_8625b077a1c93bf0",
+    "title": "The Simple Math Error That Put a Man in Prison for 30 Years",
+    "hook": "A prosecutor used a flawed probability calculation to convince a jury that a mother's children couldn't have died naturally—she was innocent.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 84,
+    "estimated_short_retention": 78,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "prosecutor fallacy",
+      "math error prison",
+      "Sally Clark case",
+      "probability injustice",
+      "wrongful conviction stats"
+    ],
+    "overlap_check_hash": "8625b077a1c93bf0",
+    "why_this_can_go_viral": "Injustice story with math twist—emotional outrage plus intellectual shock, highly shareable."
+  }
+]

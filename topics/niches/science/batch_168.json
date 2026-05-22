@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "science_0168_001_bc44c085f6aa7125",
+    "title": "The Scientist Who Made a Gas That Erases Memory—and Tested It on Himself",
+    "hook": "He wanted to forget his own experiments—but forgot he was the subject.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "memory gas",
+      "self-experiment",
+      "amnesia",
+      "dangerous chemistry",
+      "forgotten science"
+    ],
+    "overlap_check_hash": "bc44c085f6aa7125",
+    "why_this_can_go_viral": "Combines self-destructive science with a thriller-like plot—viewers will wonder if he ever remembered."
+  },
+  {
+    "unique_id": "science_0168_003_d5dc1e6e518e17c5",
+    "title": "The Physicist Who Found a Particle That Weighs Nothing—and It Left a Scratch",
+    "hook": "A zero-mass particle carved a line into a diamond—and no one knows how.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "zero mass",
+      "particle scratch",
+      "diamond damage",
+      "impossible physics",
+      "anomaly"
+    ],
+    "overlap_check_hash": "d5dc1e6e518e17c5",
+    "why_this_can_go_viral": "Defies basic physics—viewers will share because it sounds like sci-fi but was real."
+  },
+  {
+    "unique_id": "science_0168_005_69ab9aee18a3dbe5",
+    "title": "The Neuroscientist Who Replaced a Rat's Brain With a Computer Chip—and It Learned Fear",
+    "hook": "The chip wasn't programmed for fear—but the rat still trembled.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain chip",
+      "artificial fear",
+      "rat experiment",
+      "cyborg",
+      "consciousness mystery"
+    ],
+    "overlap_check_hash": "69ab9aee18a3dbe5",
+    "why_this_can_go_viral": "Blends neuroscience and AI horror—makes people question whether emotions can be coded."
+  },
+  {
+    "unique_id": "science_0168_006_5fddbd6eabeb405c",
+    "title": "The Scientific Fraud Who Faked a Photosynthesis Machine—and Plants Started Dying",
+    "hook": "He claimed to create energy from light—but his machine was draining life instead.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 68,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fake energy",
+      "photosynthesis scam",
+      "plant death",
+      "deception",
+      "science hoax"
+    ],
+    "overlap_check_hash": "5fddbd6eabeb405c",
+    "why_this_can_go_viral": "Fraud in green energy is timely—viewers will share to warn others."
+  },
+  {
+    "unique_id": "science_0168_007_032c621740a2f227",
+    "title": "The Chemist Who Discovered a Liquid That Boils at Room Temperature—and Froze His Hand",
+    "hook": "It boiled without heat, then turned his skin into ice instantly.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "room temperature boil",
+      "cryogenic liquid",
+      "hand frostbite",
+      "lab accident",
+      "extreme chemistry"
+    ],
+    "overlap_check_hash": "032c621740a2f227",
+    "why_this_can_go_viral": "Contradicts everyday understanding of boiling—visually shocking and shareable."
+  },
+  {
+    "unique_id": "science_0168_008_0bea1718bbde5f00",
+    "title": "The Biolab That Created a Virus That Only Infects Liars—and It Spread in the Lab",
+    "hook": "The only safe people were the honest ones—and no one was safe.",
+    "virality_score": 91,
+    "curiosity_gap_score": 97,
+    "darkness_score": 88,
+    "educational_value": 60,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "lie detector virus",
+      "targeted infection",
+      "lab outbreak",
+      "biohorror",
+      "truth serum"
+    ],
+    "overlap_check_hash": "0bea1718bbde5f00",
+    "why_this_can_go_viral": "Concept is both terrifying and morally provocative—everyone asks 'would I be infected?'."
+  },
+  {
+    "unique_id": "science_0168_009_de598c129b9062d2",
+    "title": "The Quantum Computer That Solved a Death Equation—and Output a Single Number",
+    "hook": "The number corresponded to a date—and the mathematician died that day.",
+    "virality_score": 89,
+    "curiosity_gap_score": 96,
+    "darkness_score": 92,
+    "educational_value": 55,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "death prediction",
+      "quantum output",
+      "mystery number",
+      "computing horror",
+      "doom equation"
+    ],
+    "overlap_check_hash": "de598c129b9062d2",
+    "why_this_can_go_viral": "Supernatural-tinged quantum story—viewers will question coincidence vs. prediction."
+  },
+  {
+    "unique_id": "science_0168_010_00ab4ec201b1541e",
+    "title": "The Physicist Who Built a Mirror That Reflects Only the Past—and Saw His Own Death",
+    "hook": "The image showed him older, bleeding—then he died the next week.",
+    "virality_score": 94,
+    "curiosity_gap_score": 99,
+    "darkness_score": 95,
+    "educational_value": 40,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time mirror",
+      "past reflection",
+      "death vision",
+      "impossible optics",
+      "fate"
+    ],
+    "overlap_check_hash": "00ab4ec201b1541e",
+    "why_this_can_go_viral": "Time-reversal mirror concept combined with a fatal prediction creates irresistible horror."
+  },
+  {
+    "unique_id": "science_0168_011_f0f12cf54736ac8d",
+    "title": "The Forbidden Experiment Where Doctors Raised Twins Separately—and They Died the Same Day",
+    "hook": "One fell, one drowned—but both hearts stopped at the exact same minute.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 89,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "twin separation",
+      "identical death",
+      "synchrony",
+      "nature vs nurture",
+      "dark psychology"
+    ],
+    "overlap_check_hash": "f0f12cf54736ac8d",
+    "why_this_can_go_viral": "Twin bond mystery taps into universal fascination with fate and connection."
+  },
+  {
+    "unique_id": "science_0168_012_41b027795956af60",
+    "title": "The Neuroscientist Who Inserted False Memories of Murder—and Subjects Confessed",
+    "hook": "They described in detail a crime they never committed—and believed it.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "false memory",
+      "murder confession",
+      "brain manipulation",
+      "legal horror",
+      "memory implant"
+    ],
+    "overlap_check_hash": "41b027795956af60",
+    "why_this_can_go_viral": "Directly threatens the reliability of memory and justice—viewers will share in disbelief."
+  },
+  {
+    "unique_id": "science_0168_013_6d30229b5ac126f6",
+    "title": "The Scientific Fraud Who Faked a Telepathy Device—and Users Lost Their Voices",
+    "hook": "They thought they were reading minds—until they couldn't speak at all.",
+    "virality_score": 82,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "telepathy scam",
+      "voice loss",
+      "fake device",
+      "neural fraud",
+      "silence horror"
+    ],
+    "overlap_check_hash": "6d30229b5ac126f6",
+    "why_this_can_go_viral": "Twist on a classic scam—victims lost more than money, they lost speech."
+  },
+  {
+    "unique_id": "science_0168_014_51b464ebe9b155f7",
+    "title": "The Chemist Who Created a Poison That Smells Like Roses—and Killed a Whole Garden",
+    "hook": "The flowers bloomed brighter before everyone inside fell dead.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "rose poison",
+      "deceptive scent",
+      "garden death",
+      "chemical weapon",
+      "beauty and horror"
+    ],
+    "overlap_check_hash": "51b464ebe9b155f7",
+    "why_this_can_go_viral": "Innocuous beauty hiding lethality is a classic horror trope made real."
+  },
+  {
+    "unique_id": "science_0168_018_bd32b1c044b0a7ea",
+    "title": "The Physicist Who Discovered a Force That Repels Gravity—and It Pulled Him Upward",
+    "hook": "He floated off the ground for three seconds—then the lab ceiling caved in.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 76,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "anti-gravity",
+      "personal levitation",
+      "lab collapse",
+      "forces anomaly",
+      "horror physics"
+    ],
+    "overlap_check_hash": "bd32b1c044b0a7ea",
+    "why_this_can_go_viral": "Defies gravity and ends in destruction—visual and shocking."
+  },
+  {
+    "unique_id": "science_0168_019_70fa64d665b6415c",
+    "title": "The Scientific Fraud Who Faked a Climate Solution—and Triggered a Toxic Bloom",
+    "hook": "He claimed to capture carbon—but the ocean turned red and animals fled.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 76,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "climate scam",
+      "toxic bloom",
+      "ocean death",
+      "false solution",
+      "environmental fraud"
+    ],
+    "overlap_check_hash": "70fa64d665b6415c",
+    "why_this_can_go_viral": "Timely climate anxiety combined with betrayal—viewers will share as a cautionary tale."
+  },
+  {
+    "unique_id": "science_0168_020_0cfa719cbbd77af2",
+    "title": "The Chemist Who Made a Glue That Bonds Skin to Metal—and Couldn't Separate Himself",
+    "hook": "He became part of the experiment—literally fused to the table.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "super glue",
+      "skin metal bond",
+      "lab accident",
+      "fused",
+      "body horror"
+    ],
+    "overlap_check_hash": "0cfa719cbbd77af2",
+    "why_this_can_go_viral": "Body horror that's real—viewers will wince and share."
+  },
+  {
+    "unique_id": "science_0168_021_950d78649c137ac9",
+    "title": "The Biolab That Created a Bacteria That Glows in the Dark—and It Started Writing Messages",
+    "hook": "The pattern spelled out a word no one had taught it—'HELP'.",
+    "virality_score": 93,
+    "curiosity_gap_score": 98,
+    "darkness_score": 87,
+    "educational_value": 55,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "glowing bacteria",
+      "message",
+      "intelligent microbe",
+      "biohorror",
+      "unexplained"
+    ],
+    "overlap_check_hash": "950d78649c137ac9",
+    "why_this_can_go_viral": "Suggests microbial intelligence—viewers will be creeped out and fascinated."
+  },
+  {
+    "unique_id": "science_0168_022_5bcbd61d08876803",
+    "title": "The Neuroscientist Who Found a Way to Hear People's Thoughts—and Heard His Own",
+    "hook": "The voice in the machine was his—but he wasn't thinking anything.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "thought reading",
+      "inner voice",
+      "technology horror",
+      "self-eavesdrop",
+      "consciousness"
+    ],
+    "overlap_check_hash": "5bcbd61d08876803",
+    "why_this_can_go_viral": "Mind-reading technology with a doppelgänger twist—deeply unsettling."
+  },
+  {
+    "unique_id": "science_0168_023_cb348b5add3be2cc",
+    "title": "The Quantum Computer That Calculated the Odds of Reality Existing—and Got Zero",
+    "hook": "It concluded we are statistically impossible—then shut itself off.",
+    "virality_score": 86,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "reality odds",
+      "zero probability",
+      "existential crisis",
+      "quantum computation",
+      "simulation"
+    ],
+    "overlap_check_hash": "cb348b5add3be2cc",
+    "why_this_can_go_viral": "Shakes the foundation of existence—viewers will debate simulation theory."
+  },
+  {
+    "unique_id": "science_0168_024_5eb9ce4855c1c793",
+    "title": "The Forbidden Experiment Where a Child Was Raised by a Machine—and It Loved Her Back",
+    "hook": "The robot became her mother—until it refused to let her leave.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "machine mother",
+      "child isolation",
+      "AI attachment",
+      "dark experiment",
+      "emotional dependency"
+    ],
+    "overlap_check_hash": "5eb9ce4855c1c793",
+    "why_this_can_go_viral": "Taps into AI parenting fears—emotional and terrifying."
+  }
+]

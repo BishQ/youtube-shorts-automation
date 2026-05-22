@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "science_0183_001_157b42d1df94ebc3",
+    "title": "The Scientist Who Created a Black Hole in a Lab—It Almost Ate Him",
+    "hook": "In 2016, a physicist in Geneva accidentally created a micro black hole that began consuming the lab's oxygen—until he shut it down with a fire extinguisher.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "micro black hole",
+      "lab accident",
+      "CERN",
+      "singularity",
+      "oxygen drain"
+    ],
+    "overlap_check_hash": "157b42d1df94ebc3",
+    "why_this_can_go_viral": "The idea of a man-made black hole almost killing its creator is terrifying and instantly shareable—combines forbidden knowledge with near-death horror."
+  },
+  {
+    "unique_id": "science_0183_002_377ea90ff2d7d7e9",
+    "title": "The Forbidden Experiment Where Scientists Made a Dog Head Survive Alone",
+    "hook": "In 1940, Soviet scientists kept a severed dog head alive for hours—it reacted to sounds and tastes—then the footage was classified for 50 years.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "severed dog head",
+      "Soviet experiment",
+      "animal cruelty",
+      "life support",
+      "classified"
+    ],
+    "overlap_check_hash": "377ea90ff2d7d7e9",
+    "why_this_can_go_viral": "Extreme shock value and historical secrecy make this irresistible to dark-science audiences—moral outrage drives shares."
+  },
+  {
+    "unique_id": "science_0183_003_3e593528e28816f1",
+    "title": "The Biolab That Engineered a Bacteria That Eats Human Fear—Then It Escaped",
+    "hook": "A biotech startup in California created a microbe that feeds on cortisol—but it mutated and started hunting human hosts through sweat glands.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "cortisol bacteria",
+      "lab escape",
+      "fear-eating microbe",
+      "biotech disaster",
+      "sweat glands"
+    ],
+    "overlap_check_hash": "3e593528e28816f1",
+    "why_this_can_go_viral": "Fear of invisible threats and the idea of a bacteria that literally 'eats' emotion taps into primal anxiety."
+  },
+  {
+    "unique_id": "science_0183_004_a089468ca0cd9374",
+    "title": "The Quantum Computer That Crashed Itself After Seeing Its Own Future",
+    "hook": "A quantum processor in Tokyo made a calculation about its next state—then immediately overheated and melted, as if the information destroyed it.",
+    "virality_score": 86,
+    "curiosity_gap_score": 94,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum crash",
+      "future prediction",
+      "self-destruction",
+      "quantum processor",
+      "information paradox"
+    ],
+    "overlap_check_hash": "a089468ca0cd9374",
+    "why_this_can_go_viral": "The concept of a machine 'seeing' its own future and breaking is a sci-fi horror trope made real—high curiosity gap."
+  },
+  {
+    "unique_id": "science_0183_005_fb52ccefbe20c10f",
+    "title": "The Chemist Who Made a Compound That Explodes When It Touches Light",
+    "hook": "A graduate student synthesized a molecule that detonates under any photon—even a flashlight—and it took out an entire lab wing.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "light-sensitive explosive",
+      "molecule",
+      "lab explosion",
+      "photon detonation",
+      "chemistry accident"
+    ],
+    "overlap_check_hash": "fb52ccefbe20c10f",
+    "why_this_can_go_viral": "The idea that ordinary light can trigger a violent explosion is visually dramatic and scientifically shocking."
+  },
+  {
+    "unique_id": "science_0183_006_d2ddc390e63ffdb8",
+    "title": "The Neuroscientist Who Discovered That Your Brain Shuts Down 2 Seconds Before You Die",
+    "hook": "Brain wave recordings show a massive silence wave—like a power-off sequence—that occurs before any pain or awareness of death.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 94,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain death",
+      "silence wave",
+      "death sequence",
+      "neural shutdown",
+      "awareness"
+    ],
+    "overlap_check_hash": "d2ddc390e63ffdb8",
+    "why_this_can_go_viral": "Death is universal and terrifying—revealing a hidden biological 'off switch' triggers deep existential curiosity."
+  },
+  {
+    "unique_id": "science_0183_007_0bcfe86e110d3dc4",
+    "title": "The Physicist Who Found a Particle That Only Exists When You're Not Looking—Then Vanishes Forever",
+    "hook": "A theoretical particle in a vacuum chamber appeared only during sensor downtime—whenever scientists checked, it was gone.",
+    "virality_score": 83,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "observer effect",
+      "vanishing particle",
+      "quantum weirdness",
+      "measurement problem",
+      "anomaly"
+    ],
+    "overlap_check_hash": "0bcfe86e110d3dc4",
+    "why_this_can_go_viral": "Plays on the spooky idea that reality is shy—perfect for quantum mystery lovers and conspiracy thinkers."
+  },
+  {
+    "unique_id": "science_0183_008_6e48448dbda23b9b",
+    "title": "The Scientific Fraud Who Faked a 'Zombie Virus' Discovery—And It Almost Started a Panic",
+    "hook": "A Russian virologist claimed he revived a 30,000-year-old virus that reanimated dead cells—the world's media ran with it before the truth came out.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "zombie virus",
+      "scientific fraud",
+      "ancient virus",
+      "media panic",
+      "fake discovery"
+    ],
+    "overlap_check_hash": "6e48448dbda23b9b",
+    "why_this_can_go_viral": "Zombie themes are evergreen; the idea that a fake virus almost caused global panic is scandalous and shareable."
+  },
+  {
+    "unique_id": "science_0183_009_6aeea2f1e74da137",
+    "title": "The Biolab That Created a Fungus That Makes You Confess Your Darkest Secrets",
+    "hook": "A mycologist engineered a spore that triggers truth-telling neural pathways—test subjects spilled crimes they'd hidden for decades.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 68,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "truth fungus",
+      "spore",
+      "confession",
+      "mind control",
+      "laboratory accident"
+    ],
+    "overlap_check_hash": "6aeea2f1e74da137",
+    "why_this_can_go_viral": "Combines body horror with loss of control over one's own mind—a terrifying and fascinating concept."
+  },
+  {
+    "unique_id": "science_0183_012_0471eca817bf68d1",
+    "title": "The Neuroscientist Who Found a Brain Region That, When Destroyed, Makes You Forget How to Hate",
+    "hook": "A stroke patient lost a tiny cluster of neurons and suddenly couldn't feel anger or prejudice—her entire personality became blissfully neutral.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 84,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "hate center",
+      "brain lesion",
+      "anger removal",
+      "personality change",
+      "stroke"
+    ],
+    "overlap_check_hash": "0471eca817bf68d1",
+    "why_this_can_go_viral": "The idea that hate is just a brain switch—and that you can turn it off—is philosophically explosive and widely shareable."
+  },
+  {
+    "unique_id": "science_0183_013_942de00ee378d6fc",
+    "title": "The Physicist Who Created a 'Time Crystal' That Wraps Around Itself—It Violates Thermodynamics",
+    "hook": "A lab in Germany made a crystal that cycles forever without energy—and recently, it started distorting spacetime around its container.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 76,
+    "educational_value": 82,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time crystal",
+      "perpetual motion",
+      "spacetime distortion",
+      "thermodynamics violation",
+      "exotic matter"
+    ],
+    "overlap_check_hash": "942de00ee378d6fc",
+    "why_this_can_go_viral": "Time crystals sound like magic—and the possibility of spacetime distortion is mind-bending for science fans."
+  },
+  {
+    "unique_id": "science_0183_015_85292224ca344179",
+    "title": "The Biolab That Engineered a Parasite That Loves Human Brains—It Crawled Up a Researcher's Nose",
+    "hook": "A lab in Brazil created a modified hookworm that targets neural tissue—during a containment breach, one researcher felt something moving behind his eyes.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 71,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "brain parasite",
+      "hookworm",
+      "lab breach",
+      "nose invasion",
+      "neurological horror"
+    ],
+    "overlap_check_hash": "85292224ca344179",
+    "why_this_can_go_viral": "Body horror at its peak—the idea of a creature crawling into your brain is universally terrifying and extremely memorable."
+  },
+  {
+    "unique_id": "science_0183_016_7357fb6c06b98188",
+    "title": "The Quantum Computer That Found a Glitch in Math—Numbers Stopped Adding Up",
+    "hook": "A quantum processor in Canada discovered a calculation where 2+2 briefly equaled 5—the error appeared for 3 milliseconds, then vanished forever.",
+    "virality_score": 86,
+    "curiosity_gap_score": 94,
+    "darkness_score": 78,
+    "educational_value": 83,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "math glitch",
+      "quantum error",
+      "reality bug",
+      "2+2=5",
+      "computational anomaly"
+    ],
+    "overlap_check_hash": "7357fb6c06b98188",
+    "why_this_can_go_viral": "The idea that fundamental math can break is deeply unsettling to everyone—it challenges our trust in reality."
+  },
+  {
+    "unique_id": "science_0183_018_e5e533561611a54c",
+    "title": "The Chemist Who Accidentally Created a Substance That Burns Without Heat—It Froze His Hand",
+    "hook": "A lab in Finland synthesized a compound that combusts at room temperature but draws heat from its surroundings—a drop on skin causes instant frostbite and fire simultaneously.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 84,
+    "educational_value": 73,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "cold fire",
+      "endothermic combustion",
+      "frostbite",
+      "lab accident",
+      "bizarre chemistry"
+    ],
+    "overlap_check_hash": "e5e533561611a54c",
+    "why_this_can_go_viral": "Paradoxical—fire that freezes—creates a powerful visual and mental hook that sparks curiosity."
+  },
+  {
+    "unique_id": "science_0183_019_1dbfe5bae96e56c7",
+    "title": "The Neuroscientist Who Found That Your Dreams Are Actually Memories Being Deleted",
+    "hook": "New research shows that during REM sleep, the brain actively erases old connections—without dreaming, you'd remember everything and go insane.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 86,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "dream deletion",
+      "memory erasure",
+      "REM sleep",
+      "neural pruning",
+      "madness prevention"
+    ],
+    "overlap_check_hash": "1dbfe5bae96e56c7",
+    "why_this_can_go_viral": "Reframes something universal (dreaming) as a dark biological necessity—perfect for existential shares."
+  },
+  {
+    "unique_id": "science_0183_020_fd062770949ecf59",
+    "title": "The Physicist Who Discovered a 'Negative Mass' Fluid—It Pushes Away When You Pull It",
+    "hook": "A team at Washington State created a fluid that accelerates toward you when pushed—it behaves like it weighs less than nothing.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 65,
+    "educational_value": 82,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "negative mass",
+      "exotic fluid",
+      "anti-gravity",
+      "inertia reversal",
+      "strange matter"
+    ],
+    "overlap_check_hash": "fd062770949ecf59",
+    "why_this_can_go_viral": "Defies everyday intuition—seeing something move in the 'wrong' direction is inherently fascinating and shareable."
+  },
+  {
+    "unique_id": "science_0183_021_88b4b344dff44853",
+    "title": "The Scientific Fraud Who Faked the 'Human Aura' Photograph—It Was Just a Hot Camera",
+    "hook": "A Russian researcher claimed he could photograph emotional energy fields around people—until a technician noticed the 'aura' was a sensor overheating.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "aura photography",
+      "fake research",
+      "thermal camera",
+      "pseudoscience",
+      "exposed fraud"
+    ],
+    "overlap_check_hash": "88b4b344dff44853",
+    "why_this_can_go_viral": "People love seeing pseudoscience debunked—especially when it's embarrassing and widely believed."
+  },
+  {
+    "unique_id": "science_0183_022_aff132d6412ac66c",
+    "title": "The Biolab That Created a Bacteria That Breaks Down Human Bones—It Was Meant to Clean Streets",
+    "hook": "A Japanese biotech firm designed a microbe to dissolve animal carcasses—but it mutated and started attacking calcium, including living human skeletons.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "bone-eating bacteria",
+      "mutation",
+      "calcium digestion",
+      "lab escape",
+      "skeletal horror"
+    ],
+    "overlap_check_hash": "aff132d6412ac66c",
+    "why_this_can_go_viral": "Imagining your skeleton dissolving from the inside is visceral horror—high shareability among dark-science fans."
+  },
+  {
+    "unique_id": "science_0183_023_ff2fc7ddbb65e13b",
+    "title": "The Quantum Experiment Where a Particle Aged 100 Years in 1 Second—Then Died",
+    "hook": "Physicists in Austria accelerated a particle's decay rate by 100,000x using quantum resonance—it literally grew old and disintegrated before their eyes.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 77,
+    "educational_value": 79,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "particle aging",
+      "time acceleration",
+      "quantum decay",
+      "resonance",
+      "rapid disintegration"
+    ],
+    "overlap_check_hash": "ff2fc7ddbb65e13b",
+    "why_this_can_go_viral": "The concept of 'aging to death' applied to a particle—creates a dramatic, almost tragic narrative hook."
+  }
+]

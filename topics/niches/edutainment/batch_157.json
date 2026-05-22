@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "edutainment_0157_001_7632decb3f4521b6",
+    "title": "The Invention That Lets You Hear Colors Through Your Skin",
+    "hook": "A device that bypasses your ears and eyes to directly feed color perception into your nervous system—and it already exists.",
+    "virality_score": 85,
+    "curiosity_gap_score": 92,
+    "darkness_score": 40,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "edutainment",
+    "subcategory": "strange science facts",
+    "keywords": [
+      "sensory substitution",
+      "brain plasticity",
+      "color perception",
+      "neural device",
+      "cyborg science"
+    ],
+    "overlap_check_hash": "7632decb3f4521b6",
+    "why_this_can_go_viral": "The concept of 'hearing colors' or 'feeling colors' is deeply counterintuitive and taps into sci-fi-like reality, triggering immediate shareability."
+  },
+  {
+    "unique_id": "edutainment_0157_002_e32249a0781c2778",
+    "title": "The Secret Algorithm That Predicts When You Will Quit Your Job",
+    "hook": "Companies are using a hidden AI that scans your emails, keystrokes, and meeting attendance to calculate your exact 'flight risk'—without telling you.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "employee monitoring",
+      "predictive AI",
+      "workplace surveillance",
+      "flight risk model",
+      "HR algorithms"
+    ],
+    "overlap_check_hash": "e32249a0781c2778",
+    "why_this_can_go_viral": "Workers feel uneasy about surveillance; this reveals a system actively used against them, creating outrage and curiosity."
+  },
+  {
+    "unique_id": "edutainment_0157_003_bdb48123a897a88e",
+    "title": "Why a Single Tree in Africa Has Poison That Erases Fear",
+    "hook": "A rare tree's sap chemically blocks the brain's fear response—animals that eat it lose all caution and walk directly into predators.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "fear chemistry",
+      "toxic plants",
+      "neurotoxin",
+      "animal behavior",
+      "amygdala suppression"
+    ],
+    "overlap_check_hash": "bdb48123a897a88e",
+    "why_this_can_go_viral": "The idea of a natural 'anti-fear' substance feels like a sci-fi plot, making viewers question what else nature hides."
+  },
+  {
+    "unique_id": "edutainment_0157_004_6626ef8bc554ae95",
+    "title": "The Hidden Lake Where Water Exists in Three States at Once",
+    "hook": "Deep under Antarctica, a lake stays liquid, solid, and vapor simultaneously—defying physics as we know it.",
+    "virality_score": 80,
+    "curiosity_gap_score": 90,
+    "darkness_score": 40,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "edutainment",
+    "subcategory": "reality-breaking statistics",
+    "keywords": [
+      "triple point",
+      "Antarctic subglacial lake",
+      "phase anomaly",
+      "extreme physics",
+      "water mystery"
+    ],
+    "overlap_check_hash": "6626ef8bc554ae95",
+    "why_this_can_go_viral": "Visualizing water in three states at once is mind-bending; viewers will pause and rewatch to grasp it."
+  },
+  {
+    "unique_id": "edutainment_0157_005_42b87b648aea1cca",
+    "title": "The Experiment That Made a Person See Through a Rat's Eyes",
+    "hook": "Scientists wired a human brain directly to a rat's visual cortex, allowing the human to 'see' what the rat saw—in real time.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "brain-computer interface",
+      "visual cortex hijack",
+      "interspecies perception",
+      "neural link",
+      "biohacking"
+    ],
+    "overlap_check_hash": "42b87b648aea1cca",
+    "why_this_can_go_viral": "The idea of hijacking another creature's senses feels like forbidden science, triggering wonder and unease."
+  },
+  {
+    "unique_id": "edutainment_0157_007_7610619ca041cdc6",
+    "title": "The Secret Network of Cables That Lets You Smell the Internet",
+    "hook": "A hidden infrastructure of scent-emitting devices is being tested to transmit smells across the web—and you'll never opt out.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 65,
+    "educational_value": 68,
+    "estimated_short_retention": 89,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "digital scent technology",
+      "smell transmission",
+      "sensory internet",
+      "olfactory marketing",
+      "covert tech"
+    ],
+    "overlap_check_hash": "7610619ca041cdc6",
+    "why_this_can_go_viral": "The possibility of 'smell spam' is both fascinating and creepy; viewers will imagine the dystopian implications."
+  },
+  {
+    "unique_id": "edutainment_0157_008_b855573d8a4472d9",
+    "title": "The Man Who Survived 47 Days in a Submerged Capsule—No Air",
+    "hook": "A fisherman trapped in an upside-down boat at the bottom of the ocean survived on an air pocket that should have run out in hours.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 94,
+    "niche_name": "edutainment",
+    "subcategory": "counterintuitive discoveries",
+    "keywords": [
+      "ocean survival",
+      "air pocket",
+      "submerged capsule",
+      "extreme endurance",
+      "miraculous survival"
+    ],
+    "overlap_check_hash": "b855573d8a4472d9",
+    "why_this_can_go_viral": "Impossible survival stories are inherently viral; the discrepancy between expected and actual outcome hooks skeptics."
+  },
+  {
+    "unique_id": "edutainment_0157_009_282c54600bc1e790",
+    "title": "Why a Single Hospital in Japan Has a Floor That Kills Bacteria Instantly",
+    "hook": "A special alloy flooring uses no chemicals, no light, no heat—yet kills 99.9% of bacteria on contact within minutes.",
+    "virality_score": 76,
+    "curiosity_gap_score": 83,
+    "darkness_score": 30,
+    "educational_value": 80,
+    "estimated_short_retention": 80,
+    "niche_name": "edutainment",
+    "subcategory": "secret mechanisms of the world",
+    "keywords": [
+      "antibacterial surface",
+      "nanotechnology",
+      "hospital innovation",
+      "self-cleaning material",
+      "copper alloy"
+    ],
+    "overlap_check_hash": "282c54600bc1e790",
+    "why_this_can_go_viral": "The invisible 'self-cleaning' floor feels like magic; viewers will imagine applications in their own lives."
+  },
+  {
+    "unique_id": "edutainment_0157_010_8da35a8d8c0bd95b",
+    "title": "The Hidden Vault Under Paris That Stores Every Human Memory",
+    "hook": "A bunker beneath the French capital holds 3,000 years of human thought—cataloged, indexed, and accessible to a secret few.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 91,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "underground archive",
+      "human knowledge vault",
+      "Paris catacombs",
+      "memory preservation",
+      "secret library"
+    ],
+    "overlap_check_hash": "8da35a8d8c0bd95b",
+    "why_this_can_go_viral": "The combination of 'hidden' + 'Paris' + 'all human memory' creates a powerful mystery that invites exploration."
+  },
+  {
+    "unique_id": "edutainment_0157_012_fedd507f81c87f76",
+    "title": "Why a Single Radio Station Has Been Broadcasting Silence for 40 Years",
+    "hook": "A mysterious frequency in Russia transmits a continuous tone, occasionally interrupted by cryptic numbers—no one knows who runs it or why.",
+    "virality_score": 91,
+    "curiosity_gap_score": 97,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 93,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "UVB-76",
+      "numbers station",
+      "Russian radio mystery",
+      "buzzer station",
+      "cryptic broadcast"
+    ],
+    "overlap_check_hash": "fedd507f81c87f76",
+    "why_this_can_go_viral": "Unexplained broadcasts tap into conspiracy and mystery; the 'silence' angle adds an eerie twist."
+  },
+  {
+    "unique_id": "edutainment_0157_013_31eba2b474a94dde",
+    "title": "The Secret Chemical That Makes Bananas Glow Under UV Light",
+    "hook": "Ripe bananas emit a natural glow invisible to human eyes—but insects see it as a signal. And you can see it too with a simple filter.",
+    "virality_score": 74,
+    "curiosity_gap_score": 80,
+    "darkness_score": 20,
+    "educational_value": 72,
+    "estimated_short_retention": 78,
+    "niche_name": "edutainment",
+    "subcategory": "unexpected connections",
+    "keywords": [
+      "banana fluorescence",
+      "UV light",
+      "insect vision",
+      "plant signaling",
+      "hidden colors"
+    ],
+    "overlap_check_hash": "31eba2b474a94dde",
+    "why_this_can_go_viral": "The 'hidden glow' of everyday fruit is a visual surprise that viewers can test themselves, encouraging experimentation."
+  },
+  {
+    "unique_id": "edutainment_0157_014_0218d923be9225b7",
+    "title": "The Man Who Legally Changed His Name to Nothing—and Broke Every Database",
+    "hook": "A man renamed himself to an empty string, causing government computers to crash, paperwork to fail, and his existence to become a legal paradox.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 50,
+    "educational_value": 65,
+    "estimated_short_retention": 89,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "null name",
+      "identity paradox",
+      "data system crash",
+      "legal loophole",
+      "database error"
+    ],
+    "overlap_check_hash": "0218d923be9225b7",
+    "why_this_can_go_viral": "The absurdity of 'no name' breaking reality is instantly shareable and sparks curiosity about system vulnerabilities."
+  },
+  {
+    "unique_id": "edutainment_0157_015_429051cce7e4bd84",
+    "title": "Why a Single Ocean Has Waves That Move in Two Directions at Once",
+    "hook": "In a specific part of the Indian Ocean, surface waves travel one way while underwater waves move the opposite direction—defying ocean physics.",
+    "virality_score": 79,
+    "curiosity_gap_score": 87,
+    "darkness_score": 35,
+    "educational_value": 80,
+    "estimated_short_retention": 83,
+    "niche_name": "edutainment",
+    "subcategory": "reality-breaking statistics",
+    "keywords": [
+      "countercurrent waves",
+      "ocean anomaly",
+      "internal waves",
+      "Indian Ocean phenomenon",
+      "hydrodynamic paradox"
+    ],
+    "overlap_check_hash": "429051cce7e4bd84",
+    "why_this_can_go_viral": "Visualizing two opposing wave systems is confusing and fascinating; viewers will want to understand how it's possible."
+  },
+  {
+    "unique_id": "edutainment_0157_016_ddbff7c03e2f528c",
+    "title": "The Hidden Camera That Captured a Dolphin Teaching Its Baby to Walk",
+    "hook": "Footage from a secret research project shows a mother dolphin guiding her calf to 'stand' on its tail—a behavior never documented before.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 40,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "edutainment",
+    "subcategory": "counterintuitive discoveries",
+    "keywords": [
+      "dolphin behavior",
+      "animal teaching",
+      "tail walking",
+      "marine intelligence",
+      "unseen footage"
+    ],
+    "overlap_check_hash": "ddbff7c03e2f528c",
+    "why_this_can_go_viral": "The idea of a dolphin 'teaching' a skill normally associated with humans blurs species lines, driving shares."
+  },
+  {
+    "unique_id": "edutainment_0157_017_4ed538af6f2690e6",
+    "title": "Why a Single Tunnel in Switzerland Has Air That Heals Burns Instantly",
+    "hook": "Workers inside a specific alpine tunnel discovered that burns heal in hours instead of days—because the air contains a rare mineral vapor.",
+    "virality_score": 81,
+    "curiosity_gap_score": 90,
+    "darkness_score": 45,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "edutainment",
+    "subcategory": "strange science facts",
+    "keywords": [
+      "healing air",
+      "mineral vapor",
+      "tunnel phenomenon",
+      "alpine mystery",
+      "accelerated healing"
+    ],
+    "overlap_check_hash": "4ed538af6f2690e6",
+    "why_this_can_go_viral": "The miracle 'healing tunnel' sounds like a myth, but if real, it challenges medical knowledge—perfect for virality."
+  },
+  {
+    "unique_id": "edutainment_0157_018_c8f1653cd4c0a14a",
+    "title": "The Secret Algorithm That Decides Which Crimes Get Solved",
+    "hook": "A hidden AI ranks your case's 'solvability' before detectives even begin—if the score is low, your file goes straight to the cold case drawer.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 90,
+    "educational_value": 72,
+    "estimated_short_retention": 92,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "predictive policing",
+      "solvability algorithm",
+      "cold case ranking",
+      "AI justice",
+      "case triage"
+    ],
+    "overlap_check_hash": "c8f1653cd4c0a14a",
+    "why_this_can_go_viral": "The idea that a machine decides justice is deeply unsettling; viewers will feel a personal stake in the system."
+  },
+  {
+    "unique_id": "edutainment_0157_019_20ef8849c13bf0b3",
+    "title": "The Man Who Created a Virus That Only Attacks Plastic",
+    "hook": "A bioengineer designed a phage that eats polyethylene—turning the world's most persistent waste into harmless byproducts within days.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 55,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "plastic-eating virus",
+      "bioremediation",
+      "synthetic biology",
+      "phage engineering",
+      "pollution solution"
+    ],
+    "overlap_check_hash": "20ef8849c13bf0b3",
+    "why_this_can_go_viral": "The 'plastic-eating virus' is a double-edged sword: hope for the planet, but fear of unintended consequences drives shares."
+  },
+  {
+    "unique_id": "edutainment_0157_021_a65bcaff3d709f2d",
+    "title": "The Secret Room Under the Ocean Where Scientists Talk to Whales",
+    "hook": "A submerged observatory in the Pacific allows researchers to play recorded whale calls back in real-time—and sometimes, the whales answer.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 45,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "edutainment",
+    "subcategory": "secret mechanisms of the world",
+    "keywords": [
+      "whale communication",
+      "undersea lab",
+      "bioacoustics",
+      "marine research",
+      "animal dialogue"
+    ],
+    "overlap_check_hash": "a65bcaff3d709f2d",
+    "why_this_can_go_viral": "The idea of 'talking to whales' is deeply emotional and mysterious; the hidden room adds a layer of secrecy."
+  },
+  {
+    "unique_id": "edutainment_0157_023_c7c5fb67d27da0f7",
+    "title": "The Hidden Bunker Where They Store Every Voicemail You Ever Deleted",
+    "hook": "Telecom companies keep a permanent archive of deleted voicemails in a secure underground facility—accessible to law enforcement without a warrant.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 92,
+    "educational_value": 68,
+    "estimated_short_retention": 94,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "voicemail archive",
+      "telecom surveillance",
+      "deleted data retention",
+      "privacy loophole",
+      "warrantless access"
+    ],
+    "overlap_check_hash": "c7c5fb67d27da0f7",
+    "why_this_can_go_viral": "The shock that 'deleted' doesn't mean 'gone' triggers privacy anxiety and massive shareability."
+  },
+  {
+    "unique_id": "edutainment_0157_025_76d8c5b6f1a579d7",
+    "title": "Why a Single Star in Our Galaxy May Be an Alien Megastructure",
+    "hook": "A star called Tabby's Boyl dims irregularly by up to 22%—no natural phenomenon explains it, leading to the Dyson sphere hypothesis.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 60,
+    "educational_value": 80,
+    "estimated_short_retention": 91,
+    "niche_name": "edutainment",
+    "subcategory": "reality-breaking statistics",
+    "keywords": [
+      "Tabby's Star",
+      "alien megastructure",
+      "Dyson sphere",
+      "stellar anomaly",
+      "SETI"
+    ],
+    "overlap_check_hash": "76d8c5b6f1a579d7",
+    "why_this_can_go_viral": "The possibility of alien construction is explosive; the unexplained dimming is a concrete mystery viewers can't resist."
+  }
+]

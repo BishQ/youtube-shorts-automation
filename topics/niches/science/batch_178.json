@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0178_001_c54323472563d8c6",
+    "title": "The Chemist Who Dissolved His Own Finger—And Regretted It",
+    "hook": "A chemist accidentally created a solvent that dissolves organic tissue on contact—and his own finger was the first test subject.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "solvent",
+      "tissue dissolution",
+      "lab accident",
+      "chemistry horror",
+      "self-experiment"
+    ],
+    "overlap_check_hash": "c54323472563d8c6",
+    "why_this_can_go_viral": "The visceral, body-horror imagery of dissolving a finger combined with real science creates an irresistible shock-and-awe hook."
+  },
+  {
+    "unique_id": "science_0178_002_f1d12e81327a849c",
+    "title": "The Physicist Who Shrunk an Object—Then Couldn't Reverse It",
+    "hook": "A physicist used a quantum field to shrink a metal sphere to a fraction of its size, but the process was irreversible.",
+    "virality_score": 77,
+    "curiosity_gap_score": 85,
+    "darkness_score": 72,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "quantum shrinkage",
+      "irreversible experiment",
+      "physics anomaly",
+      "matter manipulation",
+      "lost object"
+    ],
+    "overlap_check_hash": "f1d12e81327a849c",
+    "why_this_can_go_viral": "The idea of shrinking something and losing it permanently taps into childhood fears and scientific 'oops' moments."
+  },
+  {
+    "unique_id": "science_0178_003_74129f6b403528bc",
+    "title": "The Forbidden Experiment: A Scientist Fed His Son Only Potatoes for a Year",
+    "hook": "In the 1800s, a scientist raised his own son on nothing but potatoes to prove a dietary theory—the boy nearly died.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "potato diet",
+      "human experiment",
+      "parental cruelty",
+      "nutrition disaster",
+      "19th century science"
+    ],
+    "overlap_check_hash": "74129f6b403528bc",
+    "why_this_can_go_viral": "Shock at a parent using their own child as a guinea pig, combined with horrifying medical consequences, guarantees disgust and shares."
+  },
+  {
+    "unique_id": "science_0178_004_de4412043b8f6699",
+    "title": "The Biolab That Created a Slime That Eats Through Concrete",
+    "hook": "Scientists engineered a bacteria that secretes an enzyme capable of dissolving concrete—and it escaped the containment vat.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 76,
+    "educational_value": 68,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "concrete-eating bacteria",
+      "enzyme",
+      "lab leak",
+      "bioweapon",
+      "infrastructure collapse"
+    ],
+    "overlap_check_hash": "de4412043b8f6699",
+    "why_this_can_go_viral": "Combines fear of engineered organisms with tangible, apocalyptic imagery of buildings melting away."
+  },
+  {
+    "unique_id": "science_0178_005_385158d3430c7bff",
+    "title": "The Neuroscientist Who Deleted a Single Memory Forever",
+    "hook": "Using targeted optogenetics, a neuroscientist erased one specific memory in a patient—leaving all other memories intact.",
+    "virality_score": 83,
+    "curiosity_gap_score": 91,
+    "darkness_score": 78,
+    "educational_value": 75,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory deletion",
+      "optogenetics",
+      "neuroscience experiment",
+      "identity crisis",
+      "mind control"
+    ],
+    "overlap_check_hash": "385158d3430c7bff",
+    "why_this_can_go_viral": "The concept of erasing a memory is instantly relatable and terrifying, sparking debates about identity and ethics."
+  },
+  {
+    "unique_id": "science_0178_006_b98be0daefbca4ea",
+    "title": "The Quantum Computer That Predicted Its Own Shutdown—3 Seconds Before It Happened",
+    "hook": "A quantum computer outputted a timestamp of its own failure, three seconds before the actual crash occurred.",
+    "virality_score": 78,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 73,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time anomaly",
+      "self-prediction",
+      "quantum crash",
+      "causality violation",
+      "AI glitch"
+    ],
+    "overlap_check_hash": "b98be0daefbca4ea",
+    "why_this_can_go_viral": "The idea of a machine predicting its own future state challenges linear time and feels like a sci-fi horror plot."
+  },
+  {
+    "unique_id": "science_0178_008_eb80999593964128",
+    "title": "The Chemist Who Made a Polymer That Absorbs Sound—And It Silenced a City Block",
+    "hook": "An accidental polymer was so sound-absorbent that it created a dead zone of silence, disturbing local wildlife and residents.",
+    "virality_score": 75,
+    "curiosity_gap_score": 82,
+    "darkness_score": 69,
+    "educational_value": 66,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "sound absorption",
+      "polymer accident",
+      "silence weapon",
+      "acoustic anomaly",
+      "urban experiment"
+    ],
+    "overlap_check_hash": "eb80999593964128",
+    "why_this_can_go_viral": "The eerie idea of complete silence in a city is unsettling and visually striking for short-form video."
+  },
+  {
+    "unique_id": "science_0178_009_e8d144e3d57ae120",
+    "title": "The Forbidden Experiment Where Scientists Raised Monkeys With No Social Contact",
+    "hook": "In the 1960s, a researcher isolated infant monkeys for months—they developed irreversible psychological damage and self-harmed.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 74,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "monkey isolation",
+      "Harlow experiment",
+      "psychological trauma",
+      "animal cruelty",
+      "developmental damage"
+    ],
+    "overlap_check_hash": "e8d144e3d57ae120",
+    "why_this_can_go_viral": "The intense emotional reaction to animal suffering and the shocking results make this a high-engagement, shareable dark topic."
+  },
+  {
+    "unique_id": "science_0178_010_6e28ce5084369932",
+    "title": "The Biolab That Engineered a Fungus That Grows on Synthetic Fabrics",
+    "hook": "A fungus designed to biodegrade polyester mutated and began eating the clothes off the researchers' backs.",
+    "virality_score": 76,
+    "curiosity_gap_score": 81,
+    "darkness_score": 71,
+    "educational_value": 64,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fungus mutation",
+      "polyester eater",
+      "clothing destruction",
+      "biodegradation",
+      "lab escape"
+    ],
+    "overlap_check_hash": "6e28ce5084369932",
+    "why_this_can_go_viral": "A mundane horror—your clothes disintegrating—makes the threat feel personal and immediate."
+  },
+  {
+    "unique_id": "science_0178_011_5419fdc64f27b50a",
+    "title": "The Physicist Who Created a Black Hole in a Lab—And It Drifted Into the Floor",
+    "hook": "Using sound waves, a physicist simulated an acoustic black hole that absorbed energy until it sank into the concrete floor.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 74,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "acoustic black hole",
+      "lab black hole",
+      "energy absorption",
+      "sonic singularity",
+      "physics experiment"
+    ],
+    "overlap_check_hash": "5419fdc64f27b50a",
+    "why_this_can_go_viral": "The phrase 'black hole in a lab' is a proven clickbait winner, and the 'drifting into floor' twist adds physical danger."
+  },
+  {
+    "unique_id": "science_0178_012_93c00c24dbc9d677",
+    "title": "The Neuroscientist Who Implanted a Phobia—And the Patient Became Arachnophobic Overnight",
+    "hook": "Through fear conditioning during sleep, a neuroscientist made a spider-lover terrified of eight-legged creatures within hours.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 76,
+    "educational_value": 71,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "phobia implant",
+      "fear conditioning",
+      "sleep learning",
+      "mind manipulation",
+      "arachnophobia"
+    ],
+    "overlap_check_hash": "93c00c24dbc9d677",
+    "why_this_can_go_viral": "The idea that fears can be artificially installed triggers deep anxiety about loss of control over one's own mind."
+  },
+  {
+    "unique_id": "science_0178_013_4f127485041a21f4",
+    "title": "The Quantum Computer That Created a False Vacuum Bubble—Then It Popped",
+    "hook": "A simulation of a false vacuum decay created a bubble of lower-energy space that, when popped, erased a week of data.",
+    "virality_score": 77,
+    "curiosity_gap_score": 84,
+    "darkness_score": 73,
+    "educational_value": 75,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "false vacuum",
+      "quantum simulation",
+      "data loss",
+      "universe destruction",
+      "theory collapse"
+    ],
+    "overlap_check_hash": "4f127485041a21f4",
+    "why_this_can_go_viral": "Taps into existential dread about the universe's instability, wrapped in a real-sounding lab disaster."
+  },
+  {
+    "unique_id": "science_0178_016_922408737a087da7",
+    "title": "The Biolab That Created a Bacteria That Glows in the Presence of Fear Hormones",
+    "hook": "Engineered bacteria lit up when exposed to human adrenaline—and they started glowing in a room full of terrified test subjects.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 75,
+    "educational_value": 66,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fear detection",
+      "adrenaline bacteria",
+      "bio-sensor",
+      "glowing bacteria",
+      "emotion tracking"
+    ],
+    "overlap_check_hash": "922408737a087da7",
+    "why_this_can_go_viral": "Combines bioluminescence with a creepiness factor—bacteria that can 'smell' your fear."
+  },
+  {
+    "unique_id": "science_0178_017_207aa00d3bbea1c8",
+    "title": "The Physicist Who Discovered a Particle That Only Exists When No One Is Looking",
+    "hook": "A subatomic particle was detected only when the measurement device was turned off—it vanished the moment observation began.",
+    "virality_score": 76,
+    "curiosity_gap_score": 88,
+    "darkness_score": 68,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "observer effect",
+      "quantum particle",
+      "measurement paradox",
+      "hidden reality",
+      "elusive particle"
+    ],
+    "overlap_check_hash": "207aa00d3bbea1c8",
+    "why_this_can_go_viral": "Plays on the philosophical 'if a tree falls' idea, but with a real particle that 'hides' from us."
+  },
+  {
+    "unique_id": "science_0178_018_ec68fd412849a318",
+    "title": "The Neuroscientist Who Made a Patient Feel an Invisible Presence",
+    "hook": "By stimulating a specific brain region, a patient reported a 'shadow person' standing behind them—and they became terrified.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "shadow person",
+      "presence hallucination",
+      "brain stimulation",
+      "paranormal science",
+      "terror"
+    ],
+    "overlap_check_hash": "ec68fd412849a318",
+    "why_this_can_go_viral": "Taps into the universal fear of being watched, backed by real neuroscience—a perfect ghost story with facts."
+  },
+  {
+    "unique_id": "science_0178_019_6526466edf99003a",
+    "title": "The Scientific Fraud Who Faked a Study on Water Memory—And Fooled the World for a Decade",
+    "hook": "A researcher claimed water 'remembers' molecules, sparking a global wellness trend—until the fraud was exposed by his own lab notes.",
+    "virality_score": 74,
+    "curiosity_gap_score": 82,
+    "darkness_score": 72,
+    "educational_value": 76,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "water memory",
+      "homeopathy fraud",
+      "pseudoscience",
+      "exposed research",
+      "global deception"
+    ],
+    "overlap_check_hash": "6526466edf99003a",
+    "why_this_can_go_viral": "Outrage at a fake study that influenced millions, plus the satisfying reveal of the fraud."
+  },
+  {
+    "unique_id": "science_0178_020_365d7cfb16244245",
+    "title": "The Chemist Who Made a Polymer That Changes Color When It's About to Explode",
+    "hook": "A color-changing polymer was meant to warn of danger—but the color change itself triggered the explosion.",
+    "virality_score": 75,
+    "curiosity_gap_score": 81,
+    "darkness_score": 73,
+    "educational_value": 64,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "color-changing polymer",
+      "explosive trigger",
+      "self-destruct",
+      "polymer chemistry",
+      "lab fire"
+    ],
+    "overlap_check_hash": "365d7cfb16244245",
+    "why_this_can_go_viral": "Irony and danger—a safety feature that becomes the cause of disaster—makes for a compelling cautionary tale."
+  },
+  {
+    "unique_id": "science_0178_022_777faa6488eca127",
+    "title": "The Biolab That Created a Parasite That Makes Its Host Docile—And It Infected the Researchers",
+    "hook": "A parasite engineered to calm aggressive animals mutated and began infecting lab staff, making them unnaturally passive.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 81,
+    "educational_value": 67,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "mind control parasite",
+      "docility",
+      "lab infection",
+      "zombie-like",
+      "behavior modification"
+    ],
+    "overlap_check_hash": "777faa6488eca127",
+    "why_this_can_go_viral": "The 'zombie parasite' trope is instantly appealing, and the idea of losing your will is deeply unsettling."
+  },
+  {
+    "unique_id": "science_0178_023_0e61111b1a26fe89",
+    "title": "The Physicist Who Created a Laser That Heats Objects Without Touching Them",
+    "hook": "A physicist used a novel laser to raise the temperature of a target from across the room—it caused a chair to spontaneously combust.",
+    "virality_score": 74,
+    "curiosity_gap_score": 80,
+    "darkness_score": 71,
+    "educational_value": 69,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "laser heating",
+      "remote combustion",
+      "energy transfer",
+      "lab accident",
+      "fire from afar"
+    ],
+    "overlap_check_hash": "0e61111b1a26fe89",
+    "why_this_can_go_viral": "Visually incredible—a fire started without a spark—and the idea of invisible danger is captivating."
+  },
+  {
+    "unique_id": "science_0178_024_d4042b4f4aa16a1a",
+    "title": "The Neuroscientist Who Stimulated a Brain and Made a Patient See Dead Relatives",
+    "hook": "Electrical stimulation of the temporal lobe caused a patient to see and speak with her deceased mother as if she were alive.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 73,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "ghost vision",
+      "temporal lobe",
+      "hallucinated relatives",
+      "afterlife illusion",
+      "brain stimulation"
+    ],
+    "overlap_check_hash": "d4042b4f4aa16a1a",
+    "why_this_can_go_viral": "Touches on grief, the afterlife, and neuroscience in a deeply emotional and eerie way."
+  },
+  {
+    "unique_id": "science_0178_025_758d1009ea90a1a7",
+    "title": "The Quantum Computer That Sent a Message to Its Past Self—And Got No Reply",
+    "hook": "A quantum computer sent a qubit state back in time using a closed timelike curve simulation—the past version returned silence.",
+    "virality_score": 76,
+    "curiosity_gap_score": 88,
+    "darkness_score": 69,
+    "educational_value": 76,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time travel",
+      "quantum message",
+      "closed timelike curve",
+      "past communication",
+      "silence paradox"
+    ],
+    "overlap_check_hash": "758d1009ea90a1a7",
+    "why_this_can_go_viral": "The mystery of 'why no reply' leaves viewers speculating, driving comments and engagement."
+  }
+]

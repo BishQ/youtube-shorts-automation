@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "health_0196_001_dd75512c54f5217d",
+    "title": "The Hospital That Healed Patients by Giving Them Malaria",
+    "hook": "A 1920s Austrian psychiatrist believed that inducing high fevers with malaria could cure schizophrenia — and hundreds of patients died.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "malaria therapy",
+      "Wagner-Jauregg",
+      "fever treatment",
+      "psychiatric experiments",
+      "Nobel Prize scandal"
+    ],
+    "overlap_check_hash": "dd75512c54f5217d",
+    "why_this_can_go_viral": "Shock value of a Nobel-winning doctor intentionally infecting patients with a deadly parasite triggers disbelief and shareability."
+  },
+  {
+    "unique_id": "health_0196_002_da9d27c32bbf4ee8",
+    "title": "The FDA Approved This Painkiller — Then Patients Started Rotting",
+    "hook": "A popular anti-inflammatory drug caused flesh-eating bacterial infections in healthy patients, but the FDA kept it on the market for years.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "NSAID MRSA risk",
+      "FDA cover-up",
+      "painkiller necrosis",
+      "drug side effects",
+      "pharma scandal"
+    ],
+    "overlap_check_hash": "da9d27c32bbf4ee8",
+    "why_this_can_go_viral": "Visual descriptions of rotting flesh combined with FDA approval create visceral horror and distrust."
+  },
+  {
+    "unique_id": "health_0196_003_2c03148b0f0d142f",
+    "title": "The Government That Put Radioactive Water in Kids' Toothpaste",
+    "hook": "In the 1940s, a U.S. company sold 'Radium Toothpaste' claiming it would prevent cavities — it was actually irradiating children's mouths.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 91,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "radium toothpaste",
+      "radioactive consumer products",
+      "Dorenda",
+      "1940s health fraud",
+      "radiation poisoning"
+    ],
+    "overlap_check_hash": "2c03148b0f0d142f",
+    "why_this_can_go_viral": "The cognitive dissonance of 'toothpaste = radiation' is instantly shareable and historically shocking."
+  },
+  {
+    "unique_id": "health_0196_004_ab35d94fb7a7f51b",
+    "title": "The Hospital That Billed Insurance for Amputating Healthy Limbs",
+    "hook": "A Detroit surgeon performed hundreds of unnecessary amputations on patients who walked in with minor injuries — all for profit.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 73,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "unnecessary amputations",
+      "Dr. Alfred James",
+      "Detroit medical fraud",
+      "insurance billing scam",
+      "surgical horror"
+    ],
+    "overlap_check_hash": "ab35d94fb7a7f51b",
+    "why_this_can_go_viral": "The idea of a doctor cutting off limbs for money triggers primal fear and outrage, driving shares."
+  },
+  {
+    "unique_id": "health_0196_005_c7378f559dbebaa8",
+    "title": "The 'Miracle' Weight Loss Shot That Destroyed Women's Kidneys",
+    "hook": "A clinic in Brazil gave women a 'fat-dissolving' injection that turned their kidneys into mush — and 12 countries approved it.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 89,
+    "educational_value": 68,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "belly fat injection",
+      "lipolysis scandal",
+      "kidney failure weight loss",
+      "Brazil medical disaster",
+      "phosphatidylcholine dangers"
+    ],
+    "overlap_check_hash": "c7378f559dbebaa8",
+    "why_this_can_go_viral": "Combines vanity, horror, and government failure — a perfect viral cocktail for health-conscious audiences."
+  },
+  {
+    "unique_id": "health_0196_006_6cfbe032533c8897",
+    "title": "The Doctor Who Injected Children With Heroin — Called It Medicine",
+    "hook": "A respected New York physician prescribed heroin to children for colds in the 1900s, believing it was safer than whiskey.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 88,
+    "educational_value": 71,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "heroin for children",
+      "Dr. George P. Yard",
+      "1900s medical practices",
+      "opioid history",
+      "prescription heroin"
+    ],
+    "overlap_check_hash": "6cfbe032533c8897",
+    "why_this_can_go_viral": "The audacity of giving heroin to children feels both historically absurd and terrifyingly relevant to the opioid crisis."
+  },
+  {
+    "unique_id": "health_0196_007_659c2a9d3da09372",
+    "title": "The Government Sanitarium That Starved 5,000 Patients to Death",
+    "hook": "A state-run mental hospital in Pennsylvania systematically underfed patients for decades, killing them slowly while collecting their family money.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 74,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "Pennhurst State Hospital",
+      "patient starvation",
+      "mental institution horrors",
+      "eugenics neglect",
+      "state-sanctioned death"
+    ],
+    "overlap_check_hash": "659c2a9d3da09372",
+    "why_this_can_go_viral": "The systematic, bureaucratic nature of the killing creates a chilling narrative that demands to be shared."
+  },
+  {
+    "unique_id": "health_0196_008_e6453160e73f5416",
+    "title": "The Pharmaceutical Giant That Sold Chemo Drugs That Were Mostly Water",
+    "hook": "A major company diluted cancer medications below potency for a decade — patients thought they were being treated, but they were just getting hydrated.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 76,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "diluted chemotherapy",
+      "cancer drug fraud",
+      "pharma dilution scandal",
+      "Roche tamoxifen",
+      "patient deaths"
+    ],
+    "overlap_check_hash": "e6453160e73f5416",
+    "why_this_can_go_viral": "The betrayal of cancer patients by the system meant to save them is emotionally devastating and highly shareable."
+  },
+  {
+    "unique_id": "health_0196_009_e744849c51b4a49c",
+    "title": "The Hospital That Ran Clinical Trials on Patients Without Telling Them",
+    "hook": "A New York hospital experimented on mentally disabled children by feeding them radioactive oatmeal — and called it 'breakfast.'",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 93,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "Willowbrook experiments",
+      "radioactive oatmeal",
+      "disabled children research",
+      "unethical clinical trials",
+      "New York hospital horror"
+    ],
+    "overlap_check_hash": "e744849c51b4a49c",
+    "why_this_can_go_viral": "The combination of vulnerable children and radioactive food creates an unforgettable, anger-inducing narrative."
+  },
+  {
+    "unique_id": "health_0196_010_af57f7c0164ffc3d",
+    "title": "The 'Cure' That Gave Patients Creutzfeldt-Jakob Disease",
+    "hook": "A Brazilian doctor's 'miracle' injections for Parkinson's disease were made from contaminated human pituitary glands — transmitting a fatal brain disease.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 91,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "pituitary injection scandal",
+      "Brazil medical tragedy",
+      "CJD transmission",
+      "hormone treatment death",
+      "Fritz Leão Bioenergético"
+    ],
+    "overlap_check_hash": "af57f7c0164ffc3d",
+    "why_this_can_go_viral": "The concept of treatment causing a rare, gruesome brain disease is inherently terrifying and mysterious."
+  },
+  {
+    "unique_id": "health_0196_011_20b71eeedc57170a",
+    "title": "The Drug Company That Put Glass Shards in Children's Vaccines",
+    "hook": "A vaccine manufacturer knowingly distributed vials contaminated with microscopic glass fragments that caused severe infections in infants.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 94,
+    "educational_value": 73,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "Merck vaccine contamination",
+      "glass fragments in vaccines",
+      "infant injury",
+      "pharma quality failure",
+      "child vaccine scandal"
+    ],
+    "overlap_check_hash": "20b71eeedc57170a",
+    "why_this_can_go_viral": "The image of glass cutting into babies triggers immediate parental outrage and a powerful share impulse."
+  },
+  {
+    "unique_id": "health_0196_012_6242e164383c17f8",
+    "title": "The Government That Sprayed Citizens with DDT From Airplanes",
+    "hook": "The U.S. government sprayed entire neighborhoods with DDT in the 1950s, directly onto children playing outside — claiming it was 'health protection.'",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 71,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "DDT spraying",
+      "government aerial poison",
+      "1950s health campaigns",
+      "pesticide horror",
+      "environmental racism"
+    ],
+    "overlap_check_hash": "6242e164383c17f8",
+    "why_this_can_go_viral": "The Orwellian imagery of government planes spraying poison on families creates a visceral, shareable shock."
+  },
+  {
+    "unique_id": "health_0196_013_64e85f7338ba7982",
+    "title": "The Clinic That Stole 500 Eggs From Women — and Sold Them to Science",
+    "hook": "A fertility doctor secretly removed eggs from anesthetized women during routine surgeries and sold them to research labs without consent.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 69,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "egg harvesting scandal",
+      "Dr. Ricardo Asch",
+      "UC Irvine fertility fraud",
+      "reproductive theft",
+      "medical consent violation"
+    ],
+    "overlap_check_hash": "64e85f7338ba7982",
+    "why_this_can_go_viral": "The violation of bodily autonomy and the 'babies stolen' angle triggers deep ethical outrage and shares."
+  },
+  {
+    "unique_id": "health_0196_017_59765c261ae198ca",
+    "title": "The Hospital That Quarantined a Healthy Woman for 40 Years",
+    "hook": "A woman committed for a minor mental health issue was locked in a state hospital for four decades — long after she was cured — because staff forgot her.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 91,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "wrongful confinement",
+      "state hospital negligence",
+      "forgotten patient",
+      "mental institution abuse",
+      "innocent trapped"
+    ],
+    "overlap_check_hash": "59765c261ae198ca",
+    "why_this_can_go_viral": "The Kafkaesque horror of being forgotten by the system resonates deeply and compels shares."
+  },
+  {
+    "unique_id": "health_0196_019_284e88b7d3b53f76",
+    "title": "The Government That Put Infants in 'Baby Cages' for Fresh Air",
+    "hook": "In the 1930s, American cities hung wire cages outside apartment windows and placed babies inside them — claiming it prevented tuberculosis.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 86,
+    "educational_value": 68,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "baby cages",
+      "fresh air therapy",
+      "1930s parenting horror",
+      "tuberculosis prevention",
+      "child safety scandal"
+    ],
+    "overlap_check_hash": "284e88b7d3b53f76",
+    "why_this_can_go_viral": "The absurd and terrifying image of babies in birdcages hanging from windows is visually unforgettable and highly shareable."
+  },
+  {
+    "unique_id": "health_0196_020_60b666a219890a87",
+    "title": "The Drug That Gave Patients Uncontrollable Gambling Addiction",
+    "hook": "A popular Parkinson's medication rewired patients' brains so severely they lost their life savings to gambling — and the company knew for years.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 85,
+    "educational_value": 73,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "Mirapex gambling",
+      "Parkinson's drug side effects",
+      "impulse control disorder",
+      "pharma cover-up",
+      "dopamine agonist scandal"
+    ],
+    "overlap_check_hash": "60b666a219890a87",
+    "why_this_can_go_viral": "The bizarre side effect of 'drug made me a gambler' is both fascinating and rage-inducing."
+  },
+  {
+    "unique_id": "health_0196_021_00438ff1136bb5c2",
+    "title": "The Hospital That Left Surgical Tools Inside 1,000 Patients",
+    "hook": "A hospital in Spain discovered that surgeons had accidentally left instruments, sponges, and clamps inside patients — over 1,000 cases in a decade.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "retained surgical instruments",
+      "Spain hospital scandal",
+      "gossypiboma",
+      "medical negligence",
+      "surgical horror"
+    ],
+    "overlap_check_hash": "00438ff1136bb5c2",
+    "why_this_can_go_viral": "The sheer number of cases and the physical intimacy of 'found inside you' creates a visceral reaction."
+  },
+  {
+    "unique_id": "health_0196_022_6b887c4d391bab5c",
+    "title": "The Doctor Who Infected Patients with Syphilis — On Purpose",
+    "hook": "A Norwegian doctor injected syphilis into patients in the 1890s to study the disease's progression — and no one stopped him for 20 years.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "syphilis experiments",
+      "Dr. Caesar Boeck",
+      "Norwegian medical horror",
+      "disease transmission study",
+      "unethical research"
+    ],
+    "overlap_check_hash": "6b887c4d391bab5c",
+    "why_this_can_go_viral": "Purposefully infecting patients with a deadly STD is one of the darkest chapters in medical history."
+  },
+  {
+    "unique_id": "health_0196_024_dff242414fe6ff97",
+    "title": "The Government That Gave LSD to Unsuspecting Mental Patients",
+    "hook": "A CIA-funded program gave acid to psychiatric patients without their knowledge for 15 years — and recorded their psychotic breaks for 'science.'",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 74,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "MKUltra LSD experiments",
+      "CIA mind control",
+      "Canadian Dr. Ewen Cameron",
+      "psychiatric patient abuse",
+      "sleep and isolation torture"
+    ],
+    "overlap_check_hash": "dff242414fe6ff97",
+    "why_this_can_go_viral": "The combination of government conspiracy, psychedelic drugs, and destroyed minds is a viral trifecta."
+  }
+]

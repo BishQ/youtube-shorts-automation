@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "science_0150_001_239ff6f56b8c9768",
+    "title": "The Forbidden Experiment Where a Scientist Sewed Two Rats Together",
+    "hook": "In 1950s Russia, a scientist stitched two rats into a single living organism—and what happened next shattered our understanding of individuality.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "parabiosis",
+      "twisted rats",
+      "Soviet experiments",
+      "shared blood",
+      "identity crisis"
+    ],
+    "overlap_check_hash": "239ff6f56b8c9768",
+    "why_this_can_go_viral": "Body horror meets deep science—viewers will be both horrified and fascinated by the idea of two animals sharing a bloodstream and becoming one."
+  },
+  {
+    "unique_id": "science_0150_002_787d302aac4595bb",
+    "title": "The Lab Catastrophe Where a Scientist Burned Down His Lab—With Liquid Nitrogen",
+    "hook": "You'd think liquid nitrogen would put out a fire—but one chemist accidentally triggered an explosion that vaporized an entire laboratory.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "liquid nitrogen explosion",
+      "cryogenic disaster",
+      "lab fire",
+      "gas expansion",
+      "oxygen displacement"
+    ],
+    "overlap_check_hash": "787d302aac4595bb",
+    "why_this_can_go_viral": "The counterintuitive danger of a 'safe' substance will shock viewers and make them rethink what they know about lab safety."
+  },
+  {
+    "unique_id": "science_0150_005_9731e5d0c2f0ad92",
+    "title": "The Scientific Fraud Who Faked an Entire Human Genome—and Fooled the World for a Decade",
+    "hook": "One researcher published the 'first complete human genome'—but it was actually a Frankenstein of 10 different people.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "genome fraud",
+      "fake DNA",
+      "scientific misconduct",
+      "human genome project",
+      "data fabrication"
+    ],
+    "overlap_check_hash": "9731e5d0c2f0ad92",
+    "why_this_can_go_viral": "Genomics is a hot topic—the idea that a cornerstone of modern biology was a lie triggers deep distrust and fascination."
+  },
+  {
+    "unique_id": "science_0150_006_c6d0f716c9955059",
+    "title": "The Chemistry Disaster That Turned a Lake Into a Giant Battery—and Electrocuted Fish",
+    "hook": "A chemical spill created an invisible electrical current in a lake—fish started convulsing and dying from the water itself.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 79,
+    "educational_value": 73,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "chemical lake battery",
+      "electrified water",
+      "environmental disaster",
+      "electrolytic spill",
+      "dead fish"
+    ],
+    "overlap_check_hash": "c6d0f716c9955059",
+    "why_this_can_go_viral": "The mental image of a deadly electrified lake is both surreal and terrifying—perfect for shock-based sharing."
+  },
+  {
+    "unique_id": "science_0150_010_e37d6484c4245bb2",
+    "title": "The Lab Catastrophe Where a Scientist Was Infected With a Zombie Virus—and Survived",
+    "hook": "A lab worker accidentally jabbed herself with a needle full of prion-infected brain tissue—and lived to tell the tale.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 89,
+    "educational_value": 74,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "prion needle stick",
+      "zombie disease",
+      "CJD",
+      "lab infection",
+      "brain disease escape"
+    ],
+    "overlap_check_hash": "e37d6484c4245bb2",
+    "why_this_can_go_viral": "Prions are terrifying and mysterious—the 'zombie' angle taps into pop culture while the real science is even scarier."
+  },
+  {
+    "unique_id": "science_0150_011_fef7878814565629",
+    "title": "The Biolab That Created a Rat With Human Brain Cells—and It Started Speaking",
+    "hook": "Scientists implanted human neurons into baby rats—the rats grew smarter, and one of them began vocalizing in a human-like way.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 86,
+    "educational_value": 77,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "humanized rat",
+      "chimeric brain",
+      "human neurons",
+      "animal intelligence",
+      "species boundary"
+    ],
+    "overlap_check_hash": "fef7878814565629",
+    "why_this_can_go_viral": "Blurring the line between human and animal is visceral—viewers will be both amazed and horrified by the 'speaking rat'."
+  },
+  {
+    "unique_id": "science_0150_012_a45c978c0261d4ee",
+    "title": "The Physicist Who Proved That Nothing Exists—and Everything Is Just Math",
+    "hook": "An experiment stripped away all matter and energy—and found that reality at its core is just pure mathematical structure.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 72,
+    "educational_value": 88,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "reality is math",
+      "digital physics",
+      "empty space",
+      "mathematical universe",
+      "simulation hypothesis"
+    ],
+    "overlap_check_hash": "a45c978c0261d4ee",
+    "why_this_can_go_viral": "The idea that nothing is real is endlessly shareable—it feeds existential curiosity and simulation theory fans."
+  },
+  {
+    "unique_id": "science_0150_013_a19b29bc69cb33a0",
+    "title": "The Scientific Fraud Who Sold a 'Miracle Mineral' That Turned People Into Chemists",
+    "hook": "A con artist marketed a 'miracle' chemical that was actually industrial bleach—people drank it and started producing stomach acid in toxic amounts.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 79,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "MMS fraud",
+      "bleach cure",
+      "miracle mineral",
+      "pseudoscience",
+      "poison cure"
+    ],
+    "overlap_check_hash": "a19b29bc69cb33a0",
+    "why_this_can_go_viral": "Fraud meets danger—viewers love stories about fake cures that harm real people, and the 'bleach' angle is instantly gross."
+  },
+  {
+    "unique_id": "science_0150_014_d70cdcf7b2380b71",
+    "title": "The Chemistry Disaster Where a Chemist Dissolved Himself in Hydrofluoric Acid",
+    "hook": "One drop of hydrofluoric acid on a scientist's hand—and the acid seeped through his skin, dissolving his bones from the inside.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 94,
+    "educational_value": 80,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "hydrofluoric acid",
+      "bone dissolving",
+      "chemical burn",
+      "lab death",
+      "horror accident"
+    ],
+    "overlap_check_hash": "d70cdcf7b2380b71",
+    "why_this_can_go_viral": "Death by invisible acid is pure horror—the slow, unstoppable dissolution of a person from within is visceral and unforgettable."
+  },
+  {
+    "unique_id": "science_0150_018_b8364bb48a2cc296",
+    "title": "The Lab Catastrophe Where a Scientist Was Blasted by a Particle Beam—and Lived",
+    "hook": "A proton beam accidentally shot through a researcher's head—yet he survived and described the 'light show' inside his skull.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 76,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "proton beam accident",
+      "particle accelerator",
+      "survived radiation",
+      "Anatoli Bugorski",
+      "brain damage"
+    ],
+    "overlap_check_hash": "b8364bb48a2cc296",
+    "why_this_can_go_viral": "The 'man who was shot by a particle beam' is legendary—the survival and aftermath are both miraculous and terrifying."
+  },
+  {
+    "unique_id": "science_0150_019_31b9f5f410838d1e",
+    "title": "The Biolab That Created a Spider-Goat Hybrid—and Milk That Weaves Silk",
+    "hook": "Scientists inserted spider genes into goats—the goats produced milk containing spider silk protein, stronger than steel.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 74,
+    "educational_value": 79,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "spider goat",
+      "transgenic animal",
+      "silk milk",
+      "biosteel",
+      "chimeric horror"
+    ],
+    "overlap_check_hash": "31b9f5f410838d1e",
+    "why_this_can_go_viral": "The 'spider-goat' concept is so bizarre it's instantly memorable—viewers will share it for the sheer weirdness factor."
+  },
+  {
+    "unique_id": "science_0150_020_e3611b7cea935bd2",
+    "title": "The Physicist Who Found That Black Holes Sing—and Heard the Song",
+    "hook": "When two black holes collided, they rang like a bell—and the sound wave carried a message about the shape of spacetime.",
+    "virality_score": 77,
+    "curiosity_gap_score": 83,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "black hole sound",
+      "gravitational wave",
+      "ringing spacetime",
+      "LIGO",
+      "cosmic music"
+    ],
+    "overlap_check_hash": "e3611b7cea935bd2",
+    "why_this_can_go_viral": "The poetic idea of black holes 'singing' is beautiful and mysterious—it appeals to science and art lovers alike."
+  },
+  {
+    "unique_id": "science_0150_022_b6a9c5719d94450c",
+    "title": "The Chemistry Disaster That Created a Lake of Foam—That Never Went Away",
+    "hook": "A chemical plant spilled non-ionic surfactants into a river—the river turned into a mountain of foam that hasn't dissolved in decades.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 76,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "foam lake",
+      "chemical spill",
+      "eternal foam",
+      "surfactant disaster",
+      "environmental nightmare"
+    ],
+    "overlap_check_hash": "b6a9c5719d94450c",
+    "why_this_can_go_viral": "The visual of a landscape buried in eternal foam is surreal and shareable—like something from a sci-fi horror."
+  },
+  {
+    "unique_id": "science_0150_023_f5218a62c64b3388",
+    "title": "The Neuroscientist Who Wiped Out a Memory—and Replaced It With a Lie",
+    "hook": "A researcher used lasers to delete a specific memory in a mouse—and then implanted a false memory of a completely different event.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 83,
+    "educational_value": 80,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory deletion",
+      "false memory implant",
+      "optogenetics",
+      "brain hacking",
+      "identity threat"
+    ],
+    "overlap_check_hash": "f5218a62c64b3388",
+    "why_this_can_go_viral": "The idea that memories can be erased and rewritten is terrifying and fascinating—it taps into fears about identity and reality."
+  },
+  {
+    "unique_id": "science_0150_024_b3742de170dab377",
+    "title": "The Quantum Paradox Where a Particle Communicated With Its Future Self",
+    "hook": "In a delayed-choice experiment, a photon seemed to 'know' what measurement would be made in the future—and behaved accordingly.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 69,
+    "educational_value": 83,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum retrocausality",
+      "future communication",
+      "delayed choice",
+      "time reversal",
+      "quantum weirdness"
+    ],
+    "overlap_check_hash": "b3742de170dab377",
+    "why_this_can_go_viral": "The idea of particles talking to their future selves is mind-bending—it feeds time travel and destiny debates."
+  },
+  {
+    "unique_id": "science_0150_025_490f8807ad76db1b",
+    "title": "The Forbidden Experiment Where a Scientist Kept a Monkey's Head Alive Without a Body",
+    "hook": "A Soviet surgeon severed a dog's head and kept it alive for weeks—the head reacted to sounds and even ate through tubes.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 79,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "severed head alive",
+      "Soviet experiment",
+      "dog head",
+      "brain without body",
+      "grotesque science"
+    ],
+    "overlap_check_hash": "490f8807ad76db1b",
+    "why_this_can_go_viral": "Extremely graphic and ethically horrifying—the image of a living severed head is the ultimate dark science curiosity."
+  }
+]

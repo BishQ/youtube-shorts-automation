@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "sports_0110_001_4ee477a2bcc7d2c2",
+    "title": "The Ref Who Fixed Games Using a Blind Dog's Barks",
+    "hook": "A referee trained his blind dog to bark at specific times—each bark was a signal to a betting syndicate.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "referee",
+      "dog signals",
+      "match fixing",
+      "blind dog",
+      "betting code"
+    ],
+    "overlap_check_hash": "4ee477a2bcc7d2c2",
+    "why_this_can_go_viral": "The absurd but plausible animal-based code triggers disbelief and shareability."
+  },
+  {
+    "unique_id": "sports_0110_002_8fcb1ea369e68d95",
+    "title": "The Dentist Who Drugged Boxers to Lose on Purpose",
+    "hook": "A dentist hired by the mafia injected Novocaine into boxers' jaws before fights—paralyzing their reflexes.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "dentist",
+      "boxing",
+      "mafia",
+      "novocaine",
+      "fixed fight"
+    ],
+    "overlap_check_hash": "8fcb1ea369e68d95",
+    "why_this_can_go_viral": "The use of a trusted medical professional for criminal sabotage is deeply unsettling and novel."
+  },
+  {
+    "unique_id": "sports_0110_004_db721cac76a11074",
+    "title": "The Lab That Gave Wrestlers Synthetic Bones",
+    "hook": "A secret lab implanted metal rods into wrestlers' arms to make them unbreakable—until the rods started piercing skin.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "synthetic bones",
+      "wrestling",
+      "metal implants",
+      "secret lab",
+      "body modification"
+    ],
+    "overlap_check_hash": "db721cac76a11074",
+    "why_this_can_go_viral": "Body horror combined with forbidden science creates high morbid curiosity."
+  },
+  {
+    "unique_id": "sports_0110_005_66717d7d6186907e",
+    "title": "The Psychiatrist Who Made a Boxer Think His Gloves Were On Fire",
+    "hook": "A psychiatrist hypnotized a boxer before every fight—convincing him his gloves were burning, so he punched faster.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "hypnosis",
+      "boxer",
+      "burning gloves",
+      "psychiatrist",
+      "mind control"
+    ],
+    "overlap_check_hash": "66717d7d6186907e",
+    "why_this_can_go_viral": "The extreme psychological manipulation and bizarre logic make it highly shareable."
+  },
+  {
+    "unique_id": "sports_0110_006_19b67f839b9b0791",
+    "title": "The Betting Ring That Used Pigeon Releases to Fix Matches",
+    "hook": "A syndicate trained pigeons to fly from the stadium to a bookie's window—the direction of flight signaled the fix.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 72,
+    "educational_value": 60,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "pigeons",
+      "betting ring",
+      "match fixing",
+      "animal code",
+      "stadium"
+    ],
+    "overlap_check_hash": "19b67f839b9b0791",
+    "why_this_can_go_viral": "Pre-internet animal-based communication systems are fascinating and undercovered."
+  },
+  {
+    "unique_id": "sports_0110_007_03e772d6c05a702e",
+    "title": "The Doctor Who Gave Soccer Players 'Recovery Pills'—They Were Rat Poison",
+    "hook": "A team doctor prescribed blood thinners used as rat poison to players, claiming it sped up recovery—it caused internal bleeding.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "rat poison",
+      "soccer",
+      "recovery pills",
+      "blood thinners",
+      "doctor"
+    ],
+    "overlap_check_hash": "03e772d6c05a702e",
+    "why_this_can_go_viral": "The shocking betrayal of trust and poison-as-medicine angle triggers outrage and disbelief."
+  },
+  {
+    "unique_id": "sports_0110_009_701538a4059a5907",
+    "title": "The Gymnastics Coach Who Made Girls Sleep in Oxygen Tents—Then Starved Them",
+    "hook": "A coach used oxygen tents to 'boost recovery' while secretly restricting calories to keep gymnasts prepubescent.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 97,
+    "educational_value": 65,
+    "estimated_short_retention": 93,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "oxygen tent",
+      "gymnastics",
+      "starvation",
+      "child athletes",
+      "abuse"
+    ],
+    "overlap_check_hash": "701538a4059a5907",
+    "why_this_can_go_viral": "Combines medical pseudoscience with horrific child abuse—triggers strong emotional reactions."
+  },
+  {
+    "unique_id": "sports_0110_010_cefb01b86f19b380",
+    "title": "The Lab That Tried to Make Runners' Blood Flow Backwards",
+    "hook": "A Soviet lab experimented with reversing blood flow in athletes' legs to 'supercharge' circulation—it caused heart failure.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "blood flow",
+      "Soviet lab",
+      "heart failure",
+      "running",
+      "forbidden experiment"
+    ],
+    "overlap_check_hash": "cefb01b86f19b380",
+    "why_this_can_go_viral": "Weird Soviet science is a proven viral niche, especially with body horror elements."
+  },
+  {
+    "unique_id": "sports_0110_011_896437abb2907343",
+    "title": "The Psychologist Who Convinced a Tennis Star the Court Was Lava",
+    "hook": "A sports psychologist used post-hypnotic suggestion to make a player believe the court was lava—so he'd jump higher for serves.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 76,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "lava",
+      "tennis",
+      "hypnosis",
+      "psychologist",
+      "mind trick"
+    ],
+    "overlap_check_hash": "896437abb2907343",
+    "why_this_can_go_viral": "Childhood 'floor is lava' game merged with elite sports manipulation is instantly relatable and bizarre."
+  },
+  {
+    "unique_id": "sports_0110_013_9b46581769ae29c0",
+    "title": "The Betting Syndicate That Used a Street Performer's Music as Code",
+    "hook": "A syndicate hired a violinist to play outside stadiums—specific songs told bookies if the fix was on.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 70,
+    "educational_value": 58,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "violinist",
+      "street performer",
+      "code",
+      "betting",
+      "stadium"
+    ],
+    "overlap_check_hash": "9b46581769ae29c0",
+    "why_this_can_go_viral": "Creative real-world espionage tactics are inherently captivating and feel like a spy movie."
+  },
+  {
+    "unique_id": "sports_0110_015_6160d3642a4c0594",
+    "title": "The Mafia That Ran a Fake Sports Agency to Trap Athletes",
+    "hook": "The mafia created a fake talent agency—athletes who signed were forced into throwing games or their families were threatened.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 89,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "fake agency",
+      "mafia",
+      "athlete trap",
+      "threats",
+      "sports agency"
+    ],
+    "overlap_check_hash": "6160d3642a4c0594",
+    "why_this_can_go_viral": "Exploitation of athletes' dreams by organized crime is a dramatic, emotional story."
+  },
+  {
+    "unique_id": "sports_0110_017_42dfc64b6393c5c3",
+    "title": "The Lab That Gave Cyclists 'Muscle' Injections—It Was Silicone Oil",
+    "hook": "A lab injected cyclists' legs with silicone oil to make them look muscular—the oil migrated to their lungs, killing some.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 97,
+    "educational_value": 70,
+    "estimated_short_retention": 93,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "silicone",
+      "cyclists",
+      "injections",
+      "muscle",
+      "death"
+    ],
+    "overlap_check_hash": "42dfc64b6393c5c3",
+    "why_this_can_go_viral": "Cosmetic doping gone lethally wrong is a dark, visually creepy story."
+  },
+  {
+    "unique_id": "sports_0110_018_b9c434f2cbdc8372",
+    "title": "The Psychiatrist Who Made a Golfer Believe the Hole Was a Mile Wide",
+    "hook": "A psychiatrist hypnotized a golfer to see the hole as massive—he won every tournament until the trance broke mid-putt.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 72,
+    "educational_value": 62,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "golf",
+      "hypnosis",
+      "hole",
+      "psychiatrist",
+      "mind game"
+    ],
+    "overlap_check_hash": "b9c434f2cbdc8372",
+    "why_this_can_go_viral": "The absurd visualization trick is both funny and terrifying in its implications."
+  },
+  {
+    "unique_id": "sports_0110_019_5d0df9ddc16397ed",
+    "title": "The Referee Who Fixed a Game by Faking a Heart Attack",
+    "hook": "A referee collapsed mid-game, and while medics attended him, he whispered signals to a bookie on the phone.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 81,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "heart attack",
+      "fake",
+      "referee",
+      "signals",
+      "betting"
+    ],
+    "overlap_check_hash": "5d0df9ddc16397ed",
+    "why_this_can_go_viral": "The dramatic, theatrical nature of the fix makes it feel like a crime thriller."
+  },
+  {
+    "unique_id": "sports_0110_020_cbd2aedcbc434ad6",
+    "title": "The Betting Network That Used a Weather Balloon to Signal Fixes",
+    "hook": "A syndicate launched weather balloons from stadium parking lots—color and altitude told bookies which team would lose.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 68,
+    "educational_value": 58,
+    "estimated_short_retention": 81,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "weather balloon",
+      "signal",
+      "betting",
+      "stadium",
+      "code"
+    ],
+    "overlap_check_hash": "cbd2aedcbc434ad6",
+    "why_this_can_go_viral": "Low-tech espionage in a high-tech world appeals to nostalgia and curiosity."
+  },
+  {
+    "unique_id": "sports_0110_021_83e1ee8003425766",
+    "title": "The Doctor Who Gave Boxers 'Painless' Shots—They Were Nerve Destroyers",
+    "hook": "A doctor injected boxers with alcohol to kill nerves in their hands—they felt no pain, but lost all grip strength forever.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "nerve destruction",
+      "boxing",
+      "alcohol injection",
+      "painless",
+      "permanent damage"
+    ],
+    "overlap_check_hash": "83e1ee8003425766",
+    "why_this_can_go_viral": "The permanent sacrifice for temporary gain is tragic and shocking."
+  },
+  {
+    "unique_id": "sports_0110_022_5cb8e916f3251900",
+    "title": "The Mafia That Ran a Soccer Academy to Recruit Child Smugglers",
+    "hook": "A mafia-run soccer academy trained kids to be players—but also used them to smuggle drugs across borders in team kits.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 96,
+    "educational_value": 72,
+    "estimated_short_retention": 91,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "soccer academy",
+      "mafia",
+      "child smugglers",
+      "drugs",
+      "team kits"
+    ],
+    "overlap_check_hash": "5cb8e916f3251900",
+    "why_this_can_go_viral": "The exploitation of childhood dreams for criminal enterprise is deeply emotional and shareable."
+  },
+  {
+    "unique_id": "sports_0110_023_2e9ed7e509c1d426",
+    "title": "The Coach Who Made Athletes Sleep in Coffins to 'Overcome Fear'",
+    "hook": "A wrestling coach locked his athletes in coffins overnight, claiming it would make them fearless—one had a panic attack and broke out.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 55,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "coffin",
+      "wrestling",
+      "fear training",
+      "abuse",
+      "coach"
+    ],
+    "overlap_check_hash": "2e9ed7e509c1d426",
+    "why_this_can_go_viral": "Extreme, quasi-religious training methods are visually evocative and trigger strong reactions."
+  },
+  {
+    "unique_id": "sports_0110_025_538ad983a2023d63",
+    "title": "The Businessman Who Sold 'Smart Water' That Tracked Athletes' Locations",
+    "hook": "A businessman sold 'smart water' bottles to athletes—the QR codes on the bottles sent GPS data to bookies, not to track hydration.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "smart water",
+      "GPS tracking",
+      "bookies",
+      "athlete",
+      "privacy"
+    ],
+    "overlap_check_hash": "538ad983a2023d63",
+    "why_this_can_go_viral": "The creepy misuse of IoT tech for betting feels relevant and paranoid, driving clicks."
+  }
+]

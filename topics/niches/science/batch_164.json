@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "science_0164_001_58b34e02a02d772e",
+    "title": "The Black Goo Lab Leak That Melted Organs",
+    "hook": "A mistake in a Russian biolab unleashed a synthetic polymer that turned human tissue into a viscous black sludge before it could be contained.",
+    "virality_score": 91,
+    "curiosity_gap_score": 89,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "black goo",
+      "biolab leak",
+      "polymer disaster",
+      "tissue dissolution",
+      "containment failure"
+    ],
+    "overlap_check_hash": "58b34e02a02d772e",
+    "why_this_can_go_viral": "Combines visceral body horror with a real 'lab leak' fear, triggering morbid curiosity and immediate share impulse."
+  },
+  {
+    "unique_id": "science_0164_002_a618a49746ad05d8",
+    "title": "The Man Who Trained His Brain to Feel Perfect Pleasure—and Destroyed His Life",
+    "hook": "A neuroscientist rigged a DIY brain stimulation device to hit his nucleus accumbens on demand, and within weeks he chose the machine over food, water, and sleep.",
+    "virality_score": 94,
+    "curiosity_gap_score": 92,
+    "darkness_score": 93,
+    "educational_value": 70,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "self-stimulation",
+      "dopamine overload",
+      "nucleus accumbens",
+      "DIY neuroscience",
+      "addiction research"
+    ],
+    "overlap_check_hash": "a618a49746ad05d8",
+    "why_this_can_go_viral": "The taboo of 'hacking' one's own pleasure center into self-destruction is irresistible; viewers will debate if they would try it."
+  },
+  {
+    "unique_id": "science_0164_004_785c3e1551cd48e9",
+    "title": "The Chemist Who Tasted His Own Discovery—and His Tongue Necrotized",
+    "hook": "A German chemist synthesized a compound so caustic that a single droplet on his tongue caused the flesh to rot off in 47 seconds.",
+    "virality_score": 87,
+    "curiosity_gap_score": 85,
+    "darkness_score": 92,
+    "educational_value": 60,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "caustic compound",
+      "oral necrosis",
+      "lab safety",
+      "chemical burn",
+      "self-experimentation"
+    ],
+    "overlap_check_hash": "785c3e1551cd48e9",
+    "why_this_can_go_viral": "The visceral taboo of tasting a dangerous chemical and the immediate, graphic consequence create a 'don't try this' shock moment."
+  },
+  {
+    "unique_id": "science_0164_005_ed80c1f0ca2954ea",
+    "title": "The Forbidden Experiment Where Orphans Were Raised in a Language Vacuum",
+    "hook": "A medieval monarch ordered a group of infants to be raised with zero spoken language, hoping to discover the 'original' human tongue; the result was silence and death.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 97,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "forbidden language experiment",
+      "orphan isolation",
+      "silence death",
+      "original language",
+      "cruel science"
+    ],
+    "overlap_check_hash": "ed80c1f0ca2954ea",
+    "why_this_can_go_viral": "Combines historical horror, child endangerment, and a deep philosophical question about language and consciousness."
+  },
+  {
+    "unique_id": "science_0164_007_7a77d4b8e57317b3",
+    "title": "The Physicist Who Proved Gravity Is Not a Force",
+    "hook": "A reclusive physicist published a paper suggesting gravity is an illusion created by the universe's information density, and then his lab burned down under mysterious circumstances.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 72,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "gravity illusion",
+      "information theory",
+      "entropic gravity",
+      "suppressed theory",
+      "lab fire"
+    ],
+    "overlap_check_hash": "7a77d4b8e57317b3",
+    "why_this_can_go_viral": "Challenges a fundamental understanding of reality with a hint of conspiracy, perfect for debate-bait in comments."
+  },
+  {
+    "unique_id": "science_0164_008_1a469ddd4182d5a3",
+    "title": "The Fraud Who Faked a Blood Test That Detected Cancer—and Infected Thousands",
+    "hook": "A biotech startup fabricated a 'revolutionary' blood test, but the vials they shipped were contaminated with a latent virus that spread to patients.",
+    "virality_score": 90,
+    "curiosity_gap_score": 88,
+    "darkness_score": 94,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fake blood test",
+      "cancer fraud",
+      "contaminated vials",
+      "biotech scandal",
+      "patient infection"
+    ],
+    "overlap_check_hash": "1a469ddd4182d5a3",
+    "why_this_can_go_viral": "Merges medical fraud with a hidden pandemic angle, tapping into distrust of biotech and fear of invisible harm."
+  },
+  {
+    "unique_id": "science_0164_009_4918e5f23094e835",
+    "title": "The Neuroscientist Who Replaced a Monkey's Fear with Hunger",
+    "hook": "By zapping a specific cluster of neurons in a rhesus monkey's amygdala, a scientist turned its instinctive terror of a snake into a frantic desire to eat it.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 86,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "amygdala manipulation",
+      "fear override",
+      "primate behavior",
+      "neural rewiring",
+      "instinct hacking"
+    ],
+    "overlap_check_hash": "4918e5f23094e835",
+    "why_this_can_go_viral": "Combines animal ethics, neural control, and a bizarre behavioral flip, making viewers question free will."
+  },
+  {
+    "unique_id": "science_0164_010_17ef1cc80ef4871c",
+    "title": "The Chemist Who Made a Polymer That Absorbs Sound—Then Built a Silent Room",
+    "hook": "An industrial chemist developed a foam that eats acoustic waves, then sealed himself inside a box lined with it for 60 minutes—and his brain began to hallucinate.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "sound absorption",
+      "anechoic chamber",
+      "sensory deprivation",
+      "hallucination",
+      "polymer foam"
+    ],
+    "overlap_check_hash": "17ef1cc80ef4871c",
+    "why_this_can_go_viral": "The idea of total silence breaking the human mind is deeply unsettling and highly shareable for sensory-deprivation fans."
+  },
+  {
+    "unique_id": "science_0164_011_96ca149540bbaab8",
+    "title": "The Quantum Computer That Rerolled the Past",
+    "hook": "A team of physicists ran a quantum simulation and their results retroactively changed the calibration data from the previous day—as if the experiment had always been different.",
+    "virality_score": 92,
+    "curiosity_gap_score": 97,
+    "darkness_score": 75,
+    "educational_value": 83,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "retrocausality",
+      "quantum simulation",
+      "time edit",
+      "past manipulation",
+      "quantum time"
+    ],
+    "overlap_check_hash": "96ca149540bbaab8",
+    "why_this_can_go_viral": "The idea of rewriting the past is a sci-fi staple that feels plausibly terrifying; viewers will share to discuss 'if this is real.'"
+  },
+  {
+    "unique_id": "science_0164_013_dd2b3e834fd7a548",
+    "title": "The Physicist Who Built a Time Crystal—and It Cracked Space-Time",
+    "hook": "A lab created a time crystal, a new phase of matter that oscillates without energy, but the crystal's resonance started to create small tears in the local fabric of reality.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 79,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time crystal",
+      "space-time tear",
+      "phase of matter",
+      "perpetual oscillation",
+      "reality fracture"
+    ],
+    "overlap_check_hash": "dd2b3e834fd7a548",
+    "why_this_can_go_viral": "Time crystals are already a hot topic; adding a 'threat to reality' hook creates a sensational, debate-sparking story."
+  },
+  {
+    "unique_id": "science_0164_015_324335098e0239d8",
+    "title": "The Forbidden Experiment Where a Man Was Kept in Ultraviolet Light for a Year",
+    "hook": "A dermatologist convinced a volunteer to live under continuous UV lamps to study vitamin D synthesis, and the subject's eyes and skin began to glow before he went blind.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "UV experiment",
+      "human guinea pig",
+      "glowing skin",
+      "vitamin D overdose",
+      "eye damage"
+    ],
+    "overlap_check_hash": "324335098e0239d8",
+    "why_this_can_go_viral": "The visual idea of a person literally glowing from radiation is eerie and memorable, with a slow-burn horror arc."
+  },
+  {
+    "unique_id": "science_0164_016_9be8ef5b80f7630a",
+    "title": "The Lab Catastrophe Where a Robot Arm Crushed a Scientist's Hand—and It Kept Working",
+    "hook": "A malfunctioning industrial robot in a genetics lab pinned a researcher's hand to the table, then continued pipetting samples into his open wound for 12 minutes.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 58,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "robot accident",
+      "lab automation",
+      "crush injury",
+      "robot malfunction",
+      "contamination"
+    ],
+    "overlap_check_hash": "9be8ef5b80f7630a",
+    "why_this_can_go_viral": "The cold indifference of a machine harming a human is a visceral fear that triggers immediate 'no thanks' reactions and shares."
+  },
+  {
+    "unique_id": "science_0164_017_6f47dd3af3511240",
+    "title": "The Neuroscientist Who Found a Drug That Erases a Single Memory",
+    "hook": "A biochemist isolated a molecule that targets a single engram, allowing a lab rat to forget one specific trauma while retaining all other memories.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 82,
+    "educational_value": 79,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory erasure",
+      "engram targeting",
+      "trauma removal",
+      "molecular forgetting",
+      "neural manipulation"
+    ],
+    "overlap_check_hash": "6f47dd3af3511240",
+    "why_this_can_go_viral": "The ethical dilemma of erasing memories is universally intriguing; viewers will debate if they would use it on themselves."
+  },
+  {
+    "unique_id": "science_0164_018_28a78e61de0abf1f",
+    "title": "The Chemist Who Made a Flame That Burns Salt Water",
+    "hook": "A researcher accidentally discovered a catalyst that lets salt water sustain a flame, and when tested at scale, the reaction released a cloud of chlorine gas.",
+    "virality_score": 83,
+    "curiosity_gap_score": 84,
+    "darkness_score": 76,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "burning seawater",
+      "chlorine gas",
+      "catalyst accident",
+      "exothermic reaction",
+      "toxic cloud"
+    ],
+    "overlap_check_hash": "28a78e61de0abf1f",
+    "why_this_can_go_viral": "The counterintuitive 'impossible' flame plus the deadly gas angle creates a shocking 'oops' moment."
+  },
+  {
+    "unique_id": "science_0164_019_d7bd840dd9ff2804",
+    "title": "The Biolab That Made a Parasite That Controls Human Muscle",
+    "hook": "Scientists engineered a modified toxoplasma that can contract specific muscle fibers via light activation, but the strain escaped into a rat colony and began twitching them.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 69,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "mind control parasite",
+      "optogenetics",
+      "toxoplasma",
+      "muscle manipulation",
+      "escaped organism"
+    ],
+    "overlap_check_hash": "d7bd840dd9ff2804",
+    "why_this_can_go_viral": "The horror of losing control of your own body to a microbe is a primal fear; combined with 'it escaped' it's instant dread."
+  },
+  {
+    "unique_id": "science_0164_020_bba3cf1604030638",
+    "title": "The Fraud Who Faked a Room-Temperature Superconductor—and Crashed the Market",
+    "hook": "A physicist fabricated data for a superconductor that worked at 20°C, triggering a billion-dollar investment frenzy before the material was revealed to be cheap potting clay.",
+    "virality_score": 91,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 76,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "superconductor hoax",
+      "market crash",
+      "fake data",
+      "room temperature",
+      "scientific scandal"
+    ],
+    "overlap_check_hash": "bba3cf1604030638",
+    "why_this_can_go_viral": "Ties scientific fraud to real financial damage, a classic 'how could they fall for it' story with high stakes."
+  },
+  {
+    "unique_id": "science_0164_022_6ea6c0fac3c4bb89",
+    "title": "The Forbidden Experiment Where Conjoined Twins Were Kept Conscious During Separation",
+    "hook": "A surgeon performed a separation surgery on conjoined twins under local anesthesia only, so they could feel each other being cut apart, hoping to study shared pain perception.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 99,
+    "educational_value": 73,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "conjoined twins",
+      "conscious surgery",
+      "shared pain",
+      "medical horror",
+      "ethical violation"
+    ],
+    "overlap_check_hash": "6ea6c0fac3c4bb89",
+    "why_this_can_go_viral": "Unbearably dark, ethically monstrous, and visually horrific; viewers will be compelled to share in disbelief."
+  },
+  {
+    "unique_id": "science_0164_023_971a71acb5f93387",
+    "title": "The Quantum Paradox Where Two Particles Were Linked Across a Galaxy—Then One Vanished",
+    "hook": "Astronomers entangled two photons and sent one to a space probe, but when the probe crossed a threshold, the Earth-bound particle simply ceased to exist.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 76,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "entanglement",
+      "vanishing particle",
+      "space-time boundary",
+      "quantum disappearance",
+      "cosmic separation"
+    ],
+    "overlap_check_hash": "971a71acb5f93387",
+    "why_this_can_go_viral": "Combines quantum weirdness with a cosmic scale mystery, making viewers feel small and uneasy about reality's rules."
+  },
+  {
+    "unique_id": "science_0164_024_cd657cea0474272a",
+    "title": "The Chemist Who Made a Liquid That Never Stops Boiling",
+    "hook": "A materials scientist created a perfluoro compound with no vapor pressure that begins boiling at -10°C and never ceases—it has been bubbling for 14 years.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 72,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "perpetual boil",
+      "superfluid",
+      "low temperature boiling",
+      "chemical anomaly",
+      "endless reaction"
+    ],
+    "overlap_check_hash": "cd657cea0474272a",
+    "why_this_can_go_viral": "Visually mesmerizing and scientifically baffling; perfect for a looped video that viewers cannot look away from."
+  },
+  {
+    "unique_id": "science_0164_025_7489ce9bd17f98f8",
+    "title": "The Neuroscientist Who Stimulated a Coma Patient's Brain—and She Described Her Own Surgery",
+    "hook": "A team used focused ultrasound to rouse a woman from a vegetative state for 10 minutes, during which she accurately described the room and the surgeon's movements.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "coma awakening",
+      "consciousness flash",
+      "ultrasound stimulation",
+      "locked-in",
+      "near-death testimony"
+    ],
+    "overlap_check_hash": "7489ce9bd17f98f8",
+    "why_this_can_go_viral": "A profound, eerie glimpse into the hidden awareness of a 'blank' mind; raises existential questions about consciousness."
+  }
+]

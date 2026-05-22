@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "health_0040_002_27ddda9de2711d80",
+    "title": "The Pharmaceutical Company That Hid Liver Failure Data for a Decade",
+    "hook": "They knew the drug was silently destroying livers—but kept selling it until whistleblowers leaked internal memos.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "liver failure",
+      "drug cover-up",
+      "whistleblower",
+      "hidden data",
+      "pharma scandal"
+    ],
+    "overlap_check_hash": "27ddda9de2711d80",
+    "why_this_can_go_viral": "Corporate secrecy around deadly side effects is a universally rage-inducing topic."
+  },
+  {
+    "unique_id": "health_0040_004_5efa0b7750df3d30",
+    "title": "The Suppressed Cure: How a Simple Mineral Was Buried by Big Pharma",
+    "hook": "Clinical trials showed it reversed a deadly disease—but then funding mysteriously disappeared.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "suppressed cure",
+      "mineral therapy",
+      "big pharma",
+      "buried research",
+      "alternative medicine"
+    ],
+    "overlap_check_hash": "5efa0b7750df3d30",
+    "why_this_can_go_viral": "The conspiracy of a hidden cure taps into distrust of pharmaceutical monopolies."
+  },
+  {
+    "unique_id": "health_0040_005_7ebf5feb58b83355",
+    "title": "The Hospital That Billed for Surgeries That Never Happened",
+    "hook": "Patients woke up with scars—but no memory of an operation. Their insurance had been charged thousands.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "fake surgery",
+      "insurance fraud",
+      "hospital scam",
+      "patient scars",
+      "medical billing"
+    ],
+    "overlap_check_hash": "7ebf5feb58b83355",
+    "why_this_can_go_viral": "The combination of physical violation and financial theft is deeply unsettling and shareable."
+  },
+  {
+    "unique_id": "health_0040_006_0579648837249de6",
+    "title": "The Baby Lotion That Gave Infants Chemical Burns—And Stayed on Shelves",
+    "hook": "Parents trusted it for sensitive skin. Inside was a corrosive acid that ate through flesh.",
+    "virality_score": 90,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "baby lotion",
+      "chemical burns",
+      "toxic products",
+      "cover-up",
+      "infant safety"
+    ],
+    "overlap_check_hash": "0579648837249de6",
+    "why_this_can_go_viral": "Parents are the most viral audience—anything harming babies spreads instantly."
+  },
+  {
+    "unique_id": "health_0040_008_2746c9611a6a068b",
+    "title": "The FDA-Approved Painkiller That Made Bones Brittle as Chalk",
+    "hook": "It was prescribed for back pain. Patients started breaking ribs just by coughing.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "painkiller",
+      "bone fracture",
+      "FDA approved",
+      "side effects",
+      "drug danger"
+    ],
+    "overlap_check_hash": "2746c9611a6a068b",
+    "why_this_can_go_viral": "The shock of a trusted drug causing freak injuries hooks viewers instantly."
+  },
+  {
+    "unique_id": "health_0040_009_671a34d628e3d05b",
+    "title": "The Doctor Who Diagnosed Healthy Patients with Fake Diseases for Profit",
+    "hook": "He told 200 people they had terminal illnesses—then charged them for 'experimental' treatments that were just vitamins.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 93,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "fake diagnosis",
+      "terminal illness scam",
+      "vitamin scam",
+      "doctor fraud",
+      "patient exploitation"
+    ],
+    "overlap_check_hash": "671a34d628e3d05b",
+    "why_this_can_go_viral": "The fear of being misdiagnosed with a deadly disease is universal and terrifying."
+  },
+  {
+    "unique_id": "health_0040_010_828164e61f432b4b",
+    "title": "The Pharmaceutical Company That Paid Addicts to Recruit New Patients",
+    "hook": "They gave users cash for every new person they brought in—creating a chain of addiction by design.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "addict recruitment",
+      "pharma scheme",
+      "opioid crisis",
+      "patient targeting",
+      "corruption"
+    ],
+    "overlap_check_hash": "828164e61f432b4b",
+    "why_this_can_go_viral": "The deliberate expansion of addiction for profit is one of the darkest pharmaceutical stories."
+  },
+  {
+    "unique_id": "health_0040_011_fccfd0dcc52b575c",
+    "title": "The Experiment That Froze Patients to Death to Study Hypothermia",
+    "hook": "Doctors submerged sedated humans in ice water—and monitored how long until their hearts stopped.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "hypothermia experiment",
+      "human freezing",
+      "Nazi medicine",
+      "unethical research",
+      "cold death"
+    ],
+    "overlap_check_hash": "fccfd0dcc52b575c",
+    "why_this_can_go_viral": "Extreme temperature experiments on unwilling subjects evoke visceral horror and curiosity."
+  },
+  {
+    "unique_id": "health_0040_012_63dbd3f9a757aba9",
+    "title": "The Suppressed Cure: Why a $5 Drug Was Replaced by a $50,000 Treatment",
+    "hook": "It worked better than the expensive alternative. But it wasn't patentable—so it was quietly discontinued.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 88,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "cheap cure",
+      "patent suppression",
+      "drug pricing",
+      "big pharma",
+      "generic medicine"
+    ],
+    "overlap_check_hash": "63dbd3f9a757aba9",
+    "why_this_can_go_viral": "The economics of cure suppression is a rage-fuelled topic that resonates with millions."
+  },
+  {
+    "unique_id": "health_0040_014_79cc588eeb9f36de",
+    "title": "The 'Herbal' Supplement That Was Actually Floor Wax and Sawdust",
+    "hook": "It claimed to cure arthritis. Lab tests revealed it was 90% wood shavings and industrial sealant.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 78,
+    "educational_value": 79,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "fake supplements",
+      "herbal fraud",
+      "sawdust pills",
+      "floor wax",
+      "health scam"
+    ],
+    "overlap_check_hash": "79cc588eeb9f36de",
+    "why_this_can_go_viral": "The absurdity of eating industrial waste as medicine makes it highly shareable."
+  },
+  {
+    "unique_id": "health_0040_015_aa570d95f29e5ff2",
+    "title": "The Disease Cover-Up: They Knew Permanent Hair Dye Caused Bladder Cancer",
+    "hook": "Studies from the 1970s proved the link. But the beauty industry buried the data for 40 years.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 86,
+    "educational_value": 82,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "hair dye",
+      "bladder cancer",
+      "beauty industry",
+      "cover-up",
+      "carcinogen"
+    ],
+    "overlap_check_hash": "aa570d95f29e5ff2",
+    "why_this_can_go_viral": "Millions dye their hair—the personal health threat makes this instantly relevant."
+  },
+  {
+    "unique_id": "health_0040_017_298c1d3e73826a96",
+    "title": "The Doctor Who Performed Unnecessary C-Sections to Collect the Placentas",
+    "hook": "He told mothers their babies were in distress. Then he sold their placentas to cosmetic companies.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 96,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "unnecessary C-section",
+      "placenta selling",
+      "medical fraud",
+      "mothers",
+      "cosmetic industry"
+    ],
+    "overlap_check_hash": "298c1d3e73826a96",
+    "why_this_can_go_viral": "Betrayal during childbirth is an emotionally charged, highly shareable horror story."
+  },
+  {
+    "unique_id": "health_0040_019_62224d1930c7d976",
+    "title": "The Experiment That Kept Patients in Solitary Confinement for 2 Years",
+    "hook": "Doctors wanted to study 'sensory deprivation.' Subjects lost the ability to speak and read.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 91,
+    "educational_value": 76,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "solitary confinement",
+      "sensory deprivation",
+      "human experiment",
+      "psychological damage",
+      "ethics violation"
+    ],
+    "overlap_check_hash": "62224d1930c7d976",
+    "why_this_can_go_viral": "The horror of isolation and loss of sanity is a primal fear that hooks viewers."
+  },
+  {
+    "unique_id": "health_0040_020_796b4acd00e70048",
+    "title": "The Suppressed Cure: How a Cancer Treatment Was Killed by Corporate Greed",
+    "hook": "It showed an 80% remission rate in trials. Then a larger pharmaceutical company bought the patent—and shelved it forever.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 83,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "cancer cure suppressed",
+      "patent buyout",
+      "big pharma",
+      "cure hidden",
+      "greed"
+    ],
+    "overlap_check_hash": "796b4acd00e70048",
+    "why_this_can_go_viral": "The concept of a hidden cancer cure is one of the most powerful conspiracy hooks."
+  },
+  {
+    "unique_id": "health_0040_022_c6bd1837ca2fc7f7",
+    "title": "The Fake Tattoo Ink That Gave People Flesh-Eating Infections",
+    "hook": "It was labeled 'sterile.' Inside was bacteria that consumed skin and muscle from within.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 89,
+    "educational_value": 74,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "tattoo ink",
+      "flesh-eating bacteria",
+      "infection",
+      "toxic products",
+      "cover-up"
+    ],
+    "overlap_check_hash": "c6bd1837ca2fc7f7",
+    "why_this_can_go_viral": "The body horror of flesh-eating infections combined with body art creates powerful shareability."
+  },
+  {
+    "unique_id": "health_0040_024_936b0ba987295064",
+    "title": "The FDA-Approved Acne Cream That Caused Birth Defects in Thousands",
+    "hook": "It was prescribed to young women. Years later, their children were born with missing limbs.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 80,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "acne cream",
+      "birth defects",
+      "FDA approved",
+      "isotretinoin",
+      "teratogenic"
+    ],
+    "overlap_check_hash": "936b0ba987295064",
+    "why_this_can_go_viral": "The tragedy of preventable birth defects from a common medication is deeply emotional and viral."
+  },
+  {
+    "unique_id": "health_0040_025_95508b39bb0cff71",
+    "title": "The Chiropractor Who Paralyzed 50 Patients—and Never Lost His License",
+    "hook": "He snapped necks during 'adjustments.' Victims were left in wheelchairs, but the medical board let him keep working.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 79,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "chiropractor",
+      "paralysis",
+      "neck injury",
+      "medical board failure",
+      "patient harm"
+    ],
+    "overlap_check_hash": "95508b39bb0cff71",
+    "why_this_can_go_viral": "The idea that a practitioner can cause catastrophic harm and face no consequences drives outrage."
+  }
+]

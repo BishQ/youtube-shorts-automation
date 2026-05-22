@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "health_0078_001_af56b0a0cd4d6ff3",
+    "title": "The Pharma CEO Who Faked 40,000 Blood Tests to Sell a Useless Drug",
+    "hook": "For 12 years, executives simply typed fake patient data into spreadsheets while regulators looked the other way.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake blood tests",
+      "pharma fraud",
+      "useless drug",
+      "regulatory failure",
+      "data fabrication"
+    ],
+    "overlap_check_hash": "af56b0a0cd4d6ff3",
+    "why_this_can_go_viral": "The sheer scale of fraud and the realization that drug approvals can be based on completely fabricated data creates outrage and shock value."
+  },
+  {
+    "unique_id": "health_0078_002_0ab953b68177f26b",
+    "title": "The Doctor Who Removed 200 Healthy Kidneys for 'Research'",
+    "hook": "Patients came in for routine checkups and woke up missing an organ they never knew they needed.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "organ harvesting",
+      "kidney removal",
+      "unethical doctor",
+      "medical abuse",
+      "patient rights"
+    ],
+    "overlap_check_hash": "0ab953b68177f26b",
+    "why_this_can_go_viral": "The primal fear of waking up missing an organ combined with the betrayal of medical trust creates immediate emotional engagement."
+  },
+  {
+    "unique_id": "health_0078_003_427aae10d678134d",
+    "title": "The FDA Approved Birth Control That Caused 1 in 50 Women to Have Strokes",
+    "hook": "After 50,000 adverse event reports, the agency issued a warning but never pulled the drug.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "birth control stroke",
+      "FDA failure",
+      "dangerous medication",
+      "women's health",
+      "adverse events"
+    ],
+    "overlap_check_hash": "427aae10d678134d",
+    "why_this_can_go_viral": "The disconnect between known harm and regulatory inaction triggers distrust in the medical system, plus it directly affects millions of women."
+  },
+  {
+    "unique_id": "health_0078_004_95f2f1ba8b02d8e9",
+    "title": "The Hospital That Stored Bodies in a Pizza Cooler to Save Electricity",
+    "hook": "When inspectors finally opened the door, they found 30 decomposing bodies stacked like boxes.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 96,
+    "educational_value": 60,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "body storage",
+      "hospital corruption",
+      "pizza cooler",
+      "decomposing corpses",
+      "healthcare negligence"
+    ],
+    "overlap_check_hash": "95f2f1ba8b02d8e9",
+    "why_this_can_go_viral": "The grotesque, almost unbelievable visual of bodies in a pizza cooler triggers morbid curiosity and outrage in equal measure."
+  },
+  {
+    "unique_id": "health_0078_005_ceaffd6d0e652902",
+    "title": "The Baby Formula That Contained Glass Particles—1 in 200 Infants Died",
+    "hook": "The manufacturer knew for 8 months but continued shipping because a recall would lower quarterly profits.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "baby formula",
+      "glass particles",
+      "infant death",
+      "corporate greed",
+      "product recall cover-up"
+    ],
+    "overlap_check_hash": "ceaffd6d0e652902",
+    "why_this_can_go_viral": "The innocent target (infants) combined with corporate coldheartedness creates maximum moral outrage and shareability among parents."
+  },
+  {
+    "unique_id": "health_0078_006_7df4b49d05254338",
+    "title": "The Chemotherapy Drug That Was 90% Water—Sold for $10,000 a Dose",
+    "hook": "The pharmacist diluted the life-saving treatment and handed cancer patients bottles of colored water.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "diluted chemo",
+      "watered down drugs",
+      "cancer fraud",
+      "pharmacy crime",
+      "price gouging"
+    ],
+    "overlap_check_hash": "7df4b49d05254338",
+    "why_this_can_go_viral": "The combination of life-threatening greed and the vulnerability of cancer patients creates an emotionally charged, highly shareable story."
+  },
+  {
+    "unique_id": "health_0078_009_1c604251de6de780",
+    "title": "The FDA-Approved Eye Drops That Caused 1 in 100 Users to Go Blind",
+    "hook": "The bacteria wasn't a contaminant—it was growing in the factory's water system for 4 years.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 79,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "eye drops blindness",
+      "bacterial contamination",
+      "FDA failure",
+      "product recall",
+      "blindness outbreak"
+    ],
+    "overlap_check_hash": "1c604251de6de780",
+    "why_this_can_go_viral": "The everyday use of eye drops combined with the terrifying consequence of blindness creates a direct personal threat for viewers."
+  },
+  {
+    "unique_id": "health_0078_010_09baf034e3d1d7d3",
+    "title": "The Disease Cover-Up: How Wearing Jeans Caused 30% of Chronic Yeast Infections",
+    "hook": "Dermatologists knew for decades but never warned the public because fashion industry funding was too valuable.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 72,
+    "educational_value": 88,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "jeans yeast infections",
+      "fashion health risk",
+      "dermatology cover-up",
+      "women's health",
+      "tight clothing dangers"
+    ],
+    "overlap_check_hash": "09baf034e3d1d7d3",
+    "why_this_can_go_viral": "The relatable everyday item (jeans) combined with a common health issue and a hidden industry conspiracy creates surprise and shareability."
+  },
+  {
+    "unique_id": "health_0078_012_0848843ad0e3ef90",
+    "title": "The Pharmaceutical Company That Sold Expired Meds to 5,000 Pharmacies",
+    "hook": "They simply repainted the expiration dates by hand—and the drugs turned toxic as they aged.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 82,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "expired drugs",
+      "repainted dates",
+      "toxic medication",
+      "pharmacy fraud",
+      "public health risk"
+    ],
+    "overlap_check_hash": "0848843ad0e3ef90",
+    "why_this_can_go_viral": "The simple, audacious crime of hand-painting dates combined with the danger of toxic medications creates shock and distrust."
+  },
+  {
+    "unique_id": "health_0078_013_1da5053f634a6292",
+    "title": "The Hospital That Tested Experimental HIV Drugs on Orphans Without Consent",
+    "hook": "Children were told they were getting 'vitamin shots' while being injected with unproven, dangerous compounds.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 98,
+    "educational_value": 72,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "orphan experiments",
+      "HIV drugs",
+      "unethical testing",
+      "children abuse",
+      "medical horror"
+    ],
+    "overlap_check_hash": "1da5053f634a6292",
+    "why_this_can_go_viral": "The combination of orphans, HIV, and medical betrayal creates one of the most morally repulsive and share-worthy stories possible."
+  },
+  {
+    "unique_id": "health_0078_014_5479914cd6d772c4",
+    "title": "The Skin Cream That Contained Steroids—1 in 10 Users Developed Permanent Skin Thinning",
+    "hook": "It was sold as 'natural herbal moisturizer' but contained a potent pharmaceutical steroid not listed on the label.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 76,
+    "educational_value": 84,
+    "estimated_short_retention": 77,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "steroid cream",
+      "natural fraud",
+      "skin damage",
+      "label deception",
+      "beauty product danger"
+    ],
+    "overlap_check_hash": "5479914cd6d772c4",
+    "why_this_can_go_viral": "The bait-and-switch of 'natural' products hiding dangerous pharmaceuticals affects a huge audience of skincare users."
+  },
+  {
+    "unique_id": "health_0078_016_587b2ea416bd5a0d",
+    "title": "The Suppressed Cure: $5 Magnesium Spray Stopped 50% of Migraines in 2 Weeks",
+    "hook": "A 2019 clinical trial proved it, but no pharmaceutical company funded the follow-up because you can't patent magnesium.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 90,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "magnesium migraine",
+      "suppressed cure",
+      "patent issue",
+      "natural treatment",
+      "pharma suppression"
+    ],
+    "overlap_check_hash": "587b2ea416bd5a0d",
+    "why_this_can_go_viral": "The classic 'cheap cure hidden by pharma' narrative combined with a common ailment (migraines) makes it highly actionable and shareable."
+  },
+  {
+    "unique_id": "health_0078_017_dd07514c23d25a61",
+    "title": "The FDA-Approved Inhaler That Caused 1 in 200 Users to Have Heart Attacks",
+    "hook": "The clinical trial excluded anyone with existing heart conditions to hide the fatal side effect.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 83,
+    "educational_value": 82,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "inhaler heart attack",
+      "FDA approval flaws",
+      "clinical trial manipulation",
+      "asthma danger",
+      "hidden side effects"
+    ],
+    "overlap_check_hash": "dd07514c23d25a61",
+    "why_this_can_go_viral": "Asthma inhalers are ubiquitous; revealing that a common medical device can kill creates widespread fear and distrust."
+  },
+  {
+    "unique_id": "health_0078_019_2fc9623eb47ae4a3",
+    "title": "The Toxic Lipstick That Gave 1 in 50 Women Unexplained Miscarriages",
+    "hook": "The lead content was 500 times the safety limit, but the cosmetic company lobbied to keep testing voluntary.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 82,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "lipstick miscarriage",
+      "lead in makeup",
+      "cosmetic cover-up",
+      "miscarriage cause",
+      "beauty product danger"
+    ],
+    "overlap_check_hash": "2fc9623eb47ae4a3",
+    "why_this_can_go_viral": "The intimate link between everyday makeup and pregnancy loss creates emotional resonance and outrage among a massive female audience."
+  },
+  {
+    "unique_id": "health_0078_020_97d13f47fbc99bf9",
+    "title": "The Experiment That Kept 30 Alzheimer's Patients Locked in a Basement for 6 Months",
+    "hook": "Researchers wanted to study 'natural progression' of the disease, so they denied them treatment and family visits.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 96,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "Alzheimer's abuse",
+      "locked basement",
+      "unethical experiment",
+      "elderly abuse",
+      "human rights violation"
+    ],
+    "overlap_check_hash": "97d13f47fbc99bf9",
+    "why_this_can_go_viral": "The vulnerable elderly population combined with the dungeon-like conditions creates a shocking, dark story that demands to be shared."
+  },
+  {
+    "unique_id": "health_0078_023_b040d28797d46b11",
+    "title": "The Suppressed Cure: $1 Honey and Cinnamon Paste Cut Strep Throat Recovery Time by 50%",
+    "hook": "The study was published in a peer-reviewed journal in 2014, but no pharmacy or doctor ever mentioned it.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 64,
+    "educational_value": 88,
+    "estimated_short_retention": 75,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "honey cinnamon strep",
+      "natural antibiotic",
+      "suppressed research",
+      "cheap cure",
+      "antibiotic alternative"
+    ],
+    "overlap_check_hash": "b040d28797d46b11",
+    "why_this_can_go_viral": "The universal experience of strep throat combined with a kitchen-solution that beats antibiotics creates high practical shareability."
+  },
+  {
+    "unique_id": "health_0078_024_782553ca630df306",
+    "title": "The Dental Filling Material That Caused 1 in 8 Patients to Develop Autoimmune Disease",
+    "hook": "Dentists were told it was 'inert'—but it slowly released mercury vapor into patients' mouths for years.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 81,
+    "educational_value": 85,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "mercury fillings",
+      "amalgam danger",
+      "autoimmune disease",
+      "dental toxicity",
+      "product cover-up"
+    ],
+    "overlap_check_hash": "782553ca630df306",
+    "why_this_can_go_viral": "Nearly everyone has dental fillings; revealing that a common dental material might be poisoning them creates immediate personal concern."
+  },
+  {
+    "unique_id": "health_0078_025_86e00adb4eff22a5",
+    "title": "The Doctor Who Injected 400 Patients with Saline and Charged for Stem Cell Therapy",
+    "hook": "Patients paid $20,000 each for 'miracle regenerative treatment'—and got nothing but salt water and infections.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "fake stem cells",
+      "saline scam",
+      "medical fraud",
+      "expensive treatment",
+      "patient exploitation"
+    ],
+    "overlap_check_hash": "86e00adb4eff22a5",
+    "why_this_can_go_viral": "The promise of futuristic medicine betrayed by a simple saline injection creates outrage and validates skepticism toward unproven treatments."
+  }
+]

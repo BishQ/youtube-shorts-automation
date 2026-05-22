@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "facts_0168_001_8b9038aa850236be",
+    "title": "The Lake Where Your Hair Turns Into Nails",
+    "hook": "A lake in Africa is so chemically extreme that anything that falls in begins a horrifying transformation—human hair turns brittle as glass, and skin starts to calcify like stone.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "deadly lake",
+      "calcified bodies",
+      "natron",
+      "Tanzania",
+      "mummification"
+    ],
+    "overlap_check_hash": "8b9038aa850236be",
+    "why_this_can_go_viral": "The visual of petrified animals and the body-horror hook of 'hair turning into nails' triggers immediate morbid curiosity and shareability."
+  },
+  {
+    "unique_id": "facts_0168_002_3ead18a97e86e81f",
+    "title": "The Parasite That Eats Its Way Out Through Your Eyeball",
+    "hook": "A microscopic worm burrows into your eye, grows for weeks, then chews a hole through your cornea to escape—and you feel every second of it.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 95,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "eye parasite",
+      "loa loa",
+      "eyeworm",
+      "subcutaneous",
+      "cornea"
+    ],
+    "overlap_check_hash": "3ead18a97e86e81f",
+    "why_this_can_go_viral": "The 'something crawling in your eye' fear is primal and visceral, ensuring high completion rates and shares."
+  },
+  {
+    "unique_id": "facts_0168_003_aff5fb5518fd357d",
+    "title": "The Tree That Drops Acid on Anything That Touches It",
+    "hook": "In the rainforests of Australia, a tree is so toxic that its sap causes burns that recur for months—and if you stand under it in the rain, your skin will peel off raw.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "gympie gympie",
+      "stinging tree",
+      "neurotoxin",
+      "Australia",
+      "burning pain"
+    ],
+    "overlap_check_hash": "aff5fb5518fd357d",
+    "why_this_can_go_viral": "The concept of a plant that actively attacks humans contradicts the assumption that plants are passive, making it highly shareable."
+  },
+  {
+    "unique_id": "facts_0168_004_c940931ac1ba560a",
+    "title": "The Statistic That Your Doorknob Has More Brain-Eating Bacteria Than a Sewer",
+    "hook": "A single doorknob in a public building can harbor a strain of amoeba that, if inhaled through a splash, crawls up your nose and begins consuming your brain tissue.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "brain-eating amoeba",
+      "naegleria",
+      "doorknob",
+      "public surfaces",
+      "infection"
+    ],
+    "overlap_check_hash": "c940931ac1ba560a",
+    "why_this_can_go_viral": "Combining a mundane object (doorknob) with a nightmare scenario (brain-eating) creates a powerful dissonance that drives clicks."
+  },
+  {
+    "unique_id": "facts_0168_007_3cd32f9bca897732",
+    "title": "Your Own Toothpaste Can Trigger a Heart Attack if You Swallow It",
+    "hook": "A single tube of fluoride toothpaste contains enough sodium to stop your heart if absorbed quickly—and children have died from swallowing just a few mouthfuls.",
+    "virality_score": 85,
+    "curiosity_gap_score": 86,
+    "darkness_score": 83,
+    "educational_value": 80,
+    "estimated_short_retention": 86,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "toothpaste overdose",
+      "fluoride poisoning",
+      "cardiac arrest",
+      "sodium",
+      "children"
+    ],
+    "overlap_check_hash": "3cd32f9bca897732",
+    "why_this_can_go_viral": "Everyone uses toothpaste; the revelation that it's a hidden poison in quantity creates a high-alert, shareable warning."
+  },
+  {
+    "unique_id": "facts_0168_009_badf1ecf044a190f",
+    "title": "The Animal That Can Regrow Its Heart While Running From Predators",
+    "hook": "A small amphibian can have its heart ripped out by a predator and, while still trying to escape, grow a brand new, fully functional heart in days.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 72,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "axolotl",
+      "heart regeneration",
+      "amphibian",
+      "stem cells",
+      "predator escape"
+    ],
+    "overlap_check_hash": "badf1ecf044a190f",
+    "why_this_can_go_viral": "The extreme, almost superhero-like ability contrasted with a fleeing animal creates a 'nature is sci-fi' hook that drives curiosity."
+  },
+  {
+    "unique_id": "facts_0168_010_9b6b890f30096a5d",
+    "title": "The Geographic Horror of the Island Where the Ground Eats Your Feet",
+    "hook": "On an island in the Caribbean, the soil is so acidic and packed with sharp coral that a single misstep can dissolve your shoes and begin digesting your flesh within minutes.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 84,
+    "educational_value": 64,
+    "estimated_short_retention": 82,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "acidic soil",
+      "coral sand",
+      "digestion",
+      "Caribbean island",
+      "caustic ground"
+    ],
+    "overlap_check_hash": "9b6b890f30096a5d",
+    "why_this_can_go_viral": "The 'ground trying to eat you' concept is a primal fear, and the exotic location adds a layer of terrifying travel warning."
+  },
+  {
+    "unique_id": "facts_0168_011_041ab17103498c5d",
+    "title": "The Grass That Grows Razor Blades That Can Slice a Dog's Paw Off",
+    "hook": "A common lawn grass found across the US and Europe produces seeds shaped like microscopic harpoons that work their way into animal flesh, causing fatal infections and amputations.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 77,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "foxtail grass",
+      "grass awns",
+      "dog injury",
+      "infection",
+      "lawn danger"
+    ],
+    "overlap_check_hash": "041ab17103498c5d",
+    "why_this_can_go_viral": "Pet owners are a massive audience; the revelation that their backyard grass can kill their dog is both alarming and highly shareable."
+  },
+  {
+    "unique_id": "facts_0168_012_995c8f7e9f102889",
+    "title": "The Physics That Makes a Bowling Ball a Crushing Deadfall When Dropped",
+    "hook": "A bowling ball dropped from just three stories high hits the ground with over 3,000 pounds of force—enough to shatter concrete, fracture bone, and create a shockwave that breaks ankles from ten feet away.",
+    "virality_score": 77,
+    "curiosity_gap_score": 80,
+    "darkness_score": 75,
+    "educational_value": 74,
+    "estimated_short_retention": 79,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "bowling ball",
+      "impact force",
+      "shockwave",
+      "dropped object",
+      "lethal physics"
+    ],
+    "overlap_check_hash": "995c8f7e9f102889",
+    "why_this_can_go_viral": "The familiar object (bowling ball) paired with a shocking force stat creates an easy-to-visualize, shareable danger fact."
+  },
+  {
+    "unique_id": "facts_0168_013_64c426398f54a526",
+    "title": "Your Own Eyes Can Drown You From the Inside Out",
+    "hook": "If your eye pressure spikes suddenly, fluid can force its way into your optic nerve sheath, then travel to your brain, causing a stroke that drowns your neurons in your own liquid.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "glaucoma",
+      "eye pressure",
+      "optic nerve",
+      "stroke",
+      "brain fluid"
+    ],
+    "overlap_check_hash": "64c426398f54a526",
+    "why_this_can_go_viral": "The imagery of 'drowning from the eyes' is visually disturbing and medically surprising, driving high retention and curiosity."
+  },
+  {
+    "unique_id": "facts_0168_014_44cd1bad7903a99a",
+    "title": "The Spider That Uses a Net Made of Its Own Silk to Catch Prey Mid-Air",
+    "hook": "A spider in the Amazon spins a spring-loaded net of silk, holds it with its front legs, and flings it over flying insects like a fisherman casting a net—catching them in mid-flight.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 68,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "net-casting spider",
+      "ogre-faced spider",
+      "silk net",
+      "mid-air catch",
+      "Amazon"
+    ],
+    "overlap_check_hash": "44cd1bad7903a99a",
+    "why_this_can_go_viral": "The 'spider as fisherman' metaphor is highly visual and surprising; the behavior is rare and fascinating, driving shares."
+  },
+  {
+    "unique_id": "facts_0168_015_54cbf51b489f9eb2",
+    "title": "The Nature Paradox of the Plant That Sucks the Life Out of Its Own Children",
+    "hook": "A mother oak tree can detect when its own saplings are growing too close, and will redirect its roots to strangle them, cutting off their water and nutrients until they die.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 74,
+    "estimated_short_retention": 83,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "oak tree",
+      "infanticide",
+      "root competition",
+      "sapling",
+      "plant behavior"
+    ],
+    "overlap_check_hash": "54cbf51b489f9eb2",
+    "why_this_can_go_viral": "The anthropomorphic 'mother killing children' angle is emotionally charged and violates the assumption that plants are passive and nurturing."
+  },
+  {
+    "unique_id": "facts_0168_016_aca0f655a3e5e0b0",
+    "title": "Your Own Kitchen Sponge Holds a Bacterial Bomb That Can Kill You",
+    "hook": "A kitchen sponge can contain more bacteria per cubic inch than a human feces sample—including species that cause flesh-eating disease and meningitis, all breeding in your sink.",
+    "virality_score": 86,
+    "curiosity_gap_score": 84,
+    "darkness_score": 78,
+    "educational_value": 82,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "kitchen sponge",
+      "bacteria",
+      "flesh-eating",
+      "hygiene",
+      "home danger"
+    ],
+    "overlap_check_hash": "aca0f655a3e5e0b0",
+    "why_this_can_go_viral": "The 'sponge is worse than poop' comparison is disgustingly memorable and highly shareable, especially among home-care audiences."
+  },
+  {
+    "unique_id": "facts_0168_017_cabcfd4263c1160d",
+    "title": "The Statistic That Your Sneakers Are a Trojan Horse for Brain-Eating Mold",
+    "hook": "A study found that 1 in 4 pairs of gym shoes contain spores of a mold that, when inhaled, can travel to your sinuses and begin eating through the bone into your brain.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 86,
+    "educational_value": 73,
+    "estimated_short_retention": 87,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "shoes",
+      "mold spores",
+      "sinus infection",
+      "brain mold",
+      "gym shoes"
+    ],
+    "overlap_check_hash": "cabcfd4263c1160d",
+    "why_this_can_go_viral": "The everyday object (sneakers) paired with a horrifying medical consequence creates a high-disturbance, shareable fact."
+  },
+  {
+    "unique_id": "facts_0168_019_1600f7b27e214a66",
+    "title": "The Physics That Makes a Speeding Golf Ball a Skull-Cracking Projectile",
+    "hook": "A golf ball driven off a tee at pro speed carries enough kinetic energy to fracture a human skull on impact—and it happens silently, with no warning sound before the strike.",
+    "virality_score": 78,
+    "curiosity_gap_score": 81,
+    "darkness_score": 76,
+    "educational_value": 72,
+    "estimated_short_retention": 79,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "golf ball",
+      "skull fracture",
+      "impact injury",
+      "kinetic energy",
+      "sports danger"
+    ],
+    "overlap_check_hash": "1600f7b27e214a66",
+    "why_this_can_go_viral": "Golf seems harmless; revealing it as a potential lethal weapon subverts expectations and appeals to sports and general audiences."
+  },
+  {
+    "unique_id": "facts_0168_020_3fba6fd179a8e0c4",
+    "title": "The Parasite That Turns Ants Into Bright Red Berries for Birds to Eat",
+    "hook": "A parasitic nematode infects an ant's brain, turns its abdomen bright red to mimic a berry, and forces it to climb to the top of a blade of grass—waiting for a bird to pluck and swallow it.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "parasitic nematode",
+      "ant manipulation",
+      "berry mimicry",
+      "bird",
+      "zombie ant"
+    ],
+    "overlap_check_hash": "3fba6fd179a8e0c4",
+    "why_this_can_go_viral": "The 'zombie ant turned into a fruit' concept is deeply weird and visual, perfect for the 'nature is scary' genre."
+  },
+  {
+    "unique_id": "facts_0168_021_2927d064a479080e",
+    "title": "Your Own Bones Can Turn to Liquid and Kill You Without Warning",
+    "hook": "A rare disease causes your bones to dissolve from the inside out, releasing massive amounts of calcium into your blood—which can stop your heart in minutes.",
+    "virality_score": 83,
+    "curiosity_gap_score": 85,
+    "darkness_score": 89,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "bone disease",
+      "osteolysis",
+      "calcium overload",
+      "cardiac arrest",
+      "rare condition"
+    ],
+    "overlap_check_hash": "2927d064a479080e",
+    "why_this_can_go_viral": "The horror of one's own skeleton turning to liquid is body-horror gold; the sudden death angle drives anxiety and shares."
+  },
+  {
+    "unique_id": "facts_0168_023_e3f879cede5fa9aa",
+    "title": "The Desert Where the Sand Glows Blue at Night and Burns Your Eyes",
+    "hook": "In a remote desert in Namibia, bioluminescent bacteria in the sand emit an eerie blue glow when disturbed—but the light is so intense that staring at it can cause temporary blindness.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 74,
+    "estimated_short_retention": 83,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "bioluminescent sand",
+      "Namibia",
+      "blue glow",
+      "bacteria",
+      "blindness risk"
+    ],
+    "overlap_check_hash": "e3f879cede5fa9aa",
+    "why_this_can_go_viral": "The combination of beautiful (blue glow) and dangerous (blindness) creates a potent aesthetic/viral contrast."
+  },
+  {
+    "unique_id": "facts_0168_025_2ea9f389bfd83993",
+    "title": "The Physics That Makes a Champagne Cork a Silent Eye-Piercing Missile",
+    "hook": "A champagne cork can travel at 50 miles per hour when popped—fast enough to penetrate the human eye socket, shatter the orbital bone, and lodge itself in the brain.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 82,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "champagne cork",
+      "eye injury",
+      "missile",
+      "party danger",
+      "orbital fracture"
+    ],
+    "overlap_check_hash": "2ea9f389bfd83993",
+    "why_this_can_go_viral": "The festive object (champagne) turned into a weapon is a shocking, visually easy-to-grasp danger that drives holiday-season shares."
+  }
+]

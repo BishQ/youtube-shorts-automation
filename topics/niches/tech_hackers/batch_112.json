@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "tech_hackers_0112_002_a48e58a4ef20963d",
+    "title": "The Dark Web Lab That Hacked Your Car's Brake System to Cause Accidents on Demand",
+    "hook": "A hidden lab sold software that could remotely disable car brakes from anywhere in the world.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 75,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "dark web",
+      "car hacking",
+      "brake system",
+      "remote kill",
+      "vehicle safety"
+    ],
+    "overlap_check_hash": "a48e58a4ef20963d",
+    "why_this_can_go_viral": "Car safety is universal; the idea of someone remotely causing a crash is deeply unsettling."
+  },
+  {
+    "unique_id": "tech_hackers_0112_004_ca1d48e3beecee13",
+    "title": "The Zero-Day That Hacked Your Smart Glasses to Project Fake People in Your Vision",
+    "hook": "Exploiters used smart glasses to overlay realistic hallucinations into your peripheral vision, causing panic attacks.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart glasses",
+      "AR hack",
+      "zero-day",
+      "hallucination",
+      "AR manipulation"
+    ],
+    "overlap_check_hash": "ca1d48e3beecee13",
+    "why_this_can_go_viral": "Blending reality with fake visuals is a mind-bending threat that sparks immediate curiosity and fear."
+  },
+  {
+    "unique_id": "tech_hackers_0112_005_86e843d55b4dce16",
+    "title": "The Nation-State Hack That Turned Voting Machines Into Rigged Slot Machines",
+    "hook": "Hackers rewrote voting machine firmware to favor a candidate, leaving no audit trail because the code self-destructed.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 82,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "voting machine",
+      "election hack",
+      "nation-state",
+      "rigged election",
+      "self-destructing code"
+    ],
+    "overlap_check_hash": "86e843d55b4dce16",
+    "why_this_can_go_viral": "Election integrity is a global hot-button topic; the idea of a silent, untraceable hack is explosive."
+  },
+  {
+    "unique_id": "tech_hackers_0112_006_a454f2817db4d477",
+    "title": "The Social Engineer Who Hacked a Pentagon Contractor by Sending a Custom Card Game",
+    "hook": "They mailed a board game loaded with NFC tags that, when played, exfiltrated classified files from the building's network.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 88,
+    "educational_value": 77,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "NFC hack",
+      "board game",
+      "Pentagon",
+      "physical hacking"
+    ],
+    "overlap_check_hash": "a454f2817db4d477",
+    "why_this_can_go_viral": "The creative, almost absurd method (a board game!) is highly shareable and reveals how clever attacks can be."
+  },
+  {
+    "unique_id": "tech_hackers_0112_009_6037d19424ba4c14",
+    "title": "The Dark Web Forum That Sold Access to Your Ring Doorbell's Live Feed",
+    "hook": "A marketplace listed live streams from thousands of front doors, letting buyers watch families in real time.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 76,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "Ring hack",
+      "doorbell camera",
+      "dark web",
+      "live stream",
+      "home surveillance"
+    ],
+    "overlap_check_hash": "6037d19424ba4c14",
+    "why_this_can_go_viral": "Home security devices being turned against homeowners is a viral fear that resonates with millions."
+  },
+  {
+    "unique_id": "tech_hackers_0112_010_eed9e0084de83b96",
+    "title": "The Zero-Day That Hacked a City's Water Treatment Plant to Adjust Chemical Levels",
+    "hook": "Attackers gained remote access and began slowly altering chlorine doses to unsafe levels over weeks.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 97,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "water treatment",
+      "chemical hack",
+      "zero-day",
+      "public health",
+      "infrastructure attack"
+    ],
+    "overlap_check_hash": "eed9e0084de83b96",
+    "why_this_can_go_viral": "Poisoning a city's water supply is a classic thriller plot that feels dangerously plausible today."
+  },
+  {
+    "unique_id": "tech_hackers_0112_011_d6fc01b13182b5c8",
+    "title": "The Nation-State Hack That Used Your Smart Vacuum as a Listening Device",
+    "hook": "Intelligence agencies repurposed robot vacuums to map houses and record conversations via their lidar sensors.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "robot vacuum",
+      "spying",
+      "nation-state",
+      "lidar hack",
+      "IoT surveillance"
+    ],
+    "overlap_check_hash": "d6fc01b13182b5c8",
+    "why_this_can_go_viral": "Your cleaning robot as a spy? It's a shocking, visual concept that's easy to grasp and share."
+  },
+  {
+    "unique_id": "tech_hackers_0112_013_b0041350b36c5c98",
+    "title": "The Cybercriminal Empire That Hacked Smart Blinds to Signal When You Leave for Work",
+    "hook": "Thieves monitored your motorized blinds' patterns to know exactly when your house was empty for break-ins.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "smart blinds",
+      "burglary",
+      "IoT crime",
+      "home invasion",
+      "pattern tracking"
+    ],
+    "overlap_check_hash": "b0041350b36c5c98",
+    "why_this_can_go_viral": "Turning a 'smart home' feature into a burglar's signal is a dark twist on convenience tech."
+  },
+  {
+    "unique_id": "tech_hackers_0112_014_46c4b0cacc598156",
+    "title": "The AI That Hacked a Corporate Firewall by Learning Every Employee's Typing Rhythm",
+    "hook": "An AI analyzed keystroke timing from chat messages to craft perfect phishing emails that even experts fell for.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 79,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "keystroke analysis",
+      "AI phishing",
+      "typing rhythm",
+      "cybersecurity",
+      "employee hack"
+    ],
+    "overlap_check_hash": "46c4b0cacc598156",
+    "why_this_can_go_viral": "AI mimicking human behavior is a subtle, sophisticated threat that feels like a spy thriller come to life."
+  },
+  {
+    "unique_id": "tech_hackers_0112_016_4c9e1e7e41b92fe1",
+    "title": "The Zero-Day That Hacked a Satellite's Attitude Control, Sending It Into a Spin",
+    "hook": "Exploiters disabled a satellite's stabilizers, causing it to tumble uncontrollably and lose comms for hours.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 91,
+    "educational_value": 83,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "satellite hack",
+      "zero-day",
+      "attitude control",
+      "space warfare",
+      "comm outage"
+    ],
+    "overlap_check_hash": "4c9e1e7e41b92fe1",
+    "why_this_can_go_viral": "Space hacking is a growing frontier; the visual of a satellite spinning wildly is dramatic and novel."
+  },
+  {
+    "unique_id": "tech_hackers_0112_017_ad9f5642ea9c7cfd",
+    "title": "The Dark Web Lab That Hacked Your Smart Thermostat to Slowly Cook Your Pets",
+    "hook": "A hidden group used IoT vulnerabilities to jack up home temperatures when owners were away, targeting animals.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 74,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart thermostat",
+      "pet danger",
+      "IoT hack",
+      "dark web",
+      "home attack"
+    ],
+    "overlap_check_hash": "ad9f5642ea9c7cfd",
+    "why_this_can_go_viral": "Pet owners will be outraged and horrified; the emotional punch makes it highly shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0112_019_85ece9dfb4494f09",
+    "title": "The AI That Hacked a Job Interview Platform to Replace Candidates With Its Own Avatars",
+    "hook": "An AI created realistic deepfake avatars that passed video interviews, securing jobs for invisible clients.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "deepfake interview",
+      "AI avatar",
+      "job hack",
+      "video interview",
+      "identity fraud"
+    ],
+    "overlap_check_hash": "85ece9dfb4494f09",
+    "why_this_can_go_viral": "Deepfake interviews are a fresh, unsettling twist on AI misuse that feels like it's already happening."
+  },
+  {
+    "unique_id": "tech_hackers_0112_020_900e6c876b9f6a6b",
+    "title": "The Social Engineer Who Hacked a Casino's VIP List by Pretending to Be a Celebrity's Assistant",
+    "hook": "They called the casino's concierge, faked a celebrity arrival, and got the entire guest list sent to their email.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 73,
+    "estimated_short_retention": 81,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "casino hack",
+      "celebrity",
+      "VIP list",
+      "concierge scam"
+    ],
+    "overlap_check_hash": "900e6c876b9f6a6b",
+    "why_this_can_go_viral": "Glamorous settings and clever lies make for an entertaining, instructive cautionary tale."
+  },
+  {
+    "unique_id": "tech_hackers_0112_022_90c6155ec37d9e62",
+    "title": "The Surveillance System That Tracked Your Facial Micro-Expressions at Airport Security",
+    "hook": "Hidden cameras analyzed your involuntary facial twitches to flag you as 'suspicious' before you even spoke.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 87,
+    "educational_value": 81,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "micro-expression",
+      "airport security",
+      "facial recognition",
+      "behavioral profiling",
+      "privacy"
+    ],
+    "overlap_check_hash": "90c6155ec37d9e62",
+    "why_this_can_go_viral": "The thought of being judged by a hidden AI before you act is a chilling violation of personal freedom."
+  },
+  {
+    "unique_id": "tech_hackers_0112_023_0a3ee461d0fe8ec9",
+    "title": "The Zero-Day That Hacked a City's Power Grid to Create a Rolling Blackout Pattern",
+    "hook": "Attackers turned off power to specific neighborhoods in a pattern, mimicking a natural grid failure to hide the hack.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "power grid",
+      "blackout",
+      "zero-day",
+      "rolling outage",
+      "infrastructure attack"
+    ],
+    "overlap_check_hash": "0a3ee461d0fe8ec9",
+    "why_this_can_go_viral": "Power grid hacks are a classic cyberwar threat; the 'stealth blackout' angle adds a clever layer."
+  },
+  {
+    "unique_id": "tech_hackers_0112_024_e26d731965c22c39",
+    "title": "The Dark Web Lab That Hacked Your Smart Mirror to Display False Reflections",
+    "hook": "A lab modified smart mirrors to show a younger, healthier version of you, slowly building psychological dependency.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 71,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart mirror",
+      "AI reflection",
+      "psychological hack",
+      "dark web",
+      "body image"
+    ],
+    "overlap_check_hash": "e26d731965c22c39",
+    "why_this_can_go_viral": "The idea of a device lying to your face about your appearance is psychologically eerie and Frankenstein-like."
+  },
+  {
+    "unique_id": "tech_hackers_0112_025_dba136846353f8b7",
+    "title": "The AI That Hacked a Cryptocurrency Exchange by Creating a Fake Market Panic",
+    "hook": "An AI placed millions in spoof orders to trigger a sell-off, then bought up the dip before anyone knew it was fake.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "crypto hack",
+      "AI trading",
+      "market manipulation",
+      "spoofing",
+      "exchange attack"
+    ],
+    "overlap_check_hash": "dba136846353f8b7",
+    "why_this_can_go_viral": "Cryptocurrency hype meets AI manipulation; the 'fake panic' tactic is a fresh twist on market hacks."
+  }
+]

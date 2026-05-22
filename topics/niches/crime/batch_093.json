@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "crime_0093_002_2d241757cf0a8bdf",
+    "title": "The Heist Where Thieves Stole a Museum's Entire Collection by Replacing Paintings With Exact Forgeries Overnight",
+    "hook": "They didn't break in. They swapped every painting while the guards were awake.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 55,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "museum heist",
+      "forgery",
+      "art theft",
+      "painting swap",
+      "impossible crime"
+    ],
+    "overlap_check_hash": "2d241757cf0a8bdf",
+    "why_this_can_go_viral": "The 'impossible swap' premise creates instant disbelief and a need to understand how it was pulled off."
+  },
+  {
+    "unique_id": "crime_0093_003_1035bd6bb231ab97",
+    "title": "The Unsolved Murder Where the Victim's Autopsy Photos Were Stolen From the Coroner's Vault",
+    "hook": "Someone took the evidence—and then left a Polaroid of the killer's face on the empty shelf.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 35,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "stolen evidence",
+      "autopsy photos",
+      "polaroid",
+      "killer taunt"
+    ],
+    "overlap_check_hash": "1035bd6bb231ab97",
+    "why_this_can_go_viral": "The meta-layer of a killer stealing evidence and then leaving a clue creates a puzzle that viewers will obsess over."
+  },
+  {
+    "unique_id": "crime_0093_004_b97e6f02b9530fe2",
+    "title": "The Billion-Dollar Fraud That Sold Fake Diamonds to Celebrities Using a De Beers Insider",
+    "hook": "The world's most famous diamonds were lab-grown—and nobody checked for a decade.",
+    "virality_score": 80,
+    "curiosity_gap_score": 82,
+    "darkness_score": 50,
+    "educational_value": 70,
+    "estimated_short_retention": 76,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "diamond fraud",
+      "lab-grown",
+      "De Beers",
+      "celebrity scam",
+      "luxury fake"
+    ],
+    "overlap_check_hash": "b97e6f02b9530fe2",
+    "why_this_can_go_viral": "Exposing a luxury industry secret that fooled the ultra-rich triggers schadenfreude and curiosity about how scammers operate at scale."
+  },
+  {
+    "unique_id": "crime_0093_006_7f7a505551962fbd",
+    "title": "The Criminal Mastermind Who Built a Fake Detective Agency—to Eliminate Witnesses Before Trial",
+    "hook": "He offered to 'investigate' cases for prosecutors. All his reports ended with witnesses going missing.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 50,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake detective",
+      "witness elimination",
+      "court corruption",
+      "mastermind",
+      "manipulation"
+    ],
+    "overlap_check_hash": "7f7a505551962fbd",
+    "why_this_can_go_viral": "The audacity of embedding an assassin inside the justice system is a jaw-dropping violation of trust that feels like a movie plot."
+  },
+  {
+    "unique_id": "crime_0093_007_71fcd0142eac4748",
+    "title": "The Mob That Used a Child's Lemonade Stand to Count Drug Money",
+    "hook": "Every summer, a suburban lemonade stand processed $2 million in cash—while neighbors waved hello.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 55,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob",
+      "lemonade stand",
+      "money laundering",
+      "suburban crime",
+      "hidden operation"
+    ],
+    "overlap_check_hash": "71fcd0142eac4748",
+    "why_this_can_go_viral": "The contrast between innocent childhood iconography and ruthless criminal logistics creates a powerful cognitive dissonance."
+  },
+  {
+    "unique_id": "crime_0093_008_5d4437bcaf2e88d6",
+    "title": "The White-Collar Criminal Who Stole a University's Endowment by Creating a Fake Alumni Association",
+    "hook": "He collected 'donations' from dead alumni—for 20 years, nobody noticed.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 65,
+    "educational_value": 60,
+    "estimated_short_retention": 74,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "university fraud",
+      "fake alumni",
+      "endowment theft",
+      "ghost donors",
+      "long con"
+    ],
+    "overlap_check_hash": "5d4437bcaf2e88d6",
+    "why_this_can_go_viral": "The absurd longevity of the scheme and the target (sacred education funds) makes it both infuriating and mesmerizing."
+  },
+  {
+    "unique_id": "crime_0093_009_c5a6859cfc337e0f",
+    "title": "The Unsolved Murder Where the Victim's Call Log Showed They Called Their Own Number—Twice",
+    "hook": "The calls lasted 10 seconds each. The phone was found in their pocket. The number was disconnected.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 80,
+    "educational_value": 30,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "call log",
+      "own number",
+      "disconnected",
+      "phone mystery"
+    ],
+    "overlap_check_hash": "c5a6859cfc337e0f",
+    "why_this_can_go_viral": "The impossible phone detail creates a haunting, unexplainable puzzle that viewers will try to solve in comments."
+  },
+  {
+    "unique_id": "crime_0093_010_82f072670b4545eb",
+    "title": "The Cartel That Used a Lip-Reading Deaf Person to Decode Police Radio Chats",
+    "hook": "They hired a deaf man to watch police dispatchers through binoculars—and read their lips through the glass.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 50,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "lip reading",
+      "police surveillance",
+      "deaf accomplice",
+      "radio bypass"
+    ],
+    "overlap_check_hash": "82f072670b4545eb",
+    "why_this_can_go_viral": "The ingenious exploitation of a disability as a counter-surveillance tool is shocking and reveals criminal creativity."
+  },
+  {
+    "unique_id": "crime_0093_012_8bfea2ed3da7d72b",
+    "title": "The Heist Where Thieves Stole a Bank's Safety Deposit Boxes by Entering Through a Neighboring Sewer",
+    "hook": "They dug for 6 months, then came up through the floor—into the vault.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 50,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "bank heist",
+      "sewer tunnel",
+      "safety deposit",
+      "vault breach",
+      "underground"
+    ],
+    "overlap_check_hash": "8bfea2ed3da7d72b",
+    "why_this_can_go_viral": "The classic 'dig a tunnel' heist always fascinates, but this one had a sewer twist that adds visceral disgust and suspense."
+  },
+  {
+    "unique_id": "crime_0093_013_1b018d7ec91cfafc",
+    "title": "The Serial Killer Who Used a Hospital's Morgue Cooling Chart to Choose Victims",
+    "hook": "He worked there. He knew exactly who would never be missed—the unclaimed dead.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 40,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "morgue",
+      "unclaimed dead",
+      "hospital insider",
+      "predator method"
+    ],
+    "overlap_check_hash": "1b018d7ec91cfafc",
+    "why_this_can_go_viral": "The exploitation of the dead and the system meant to care for them is profoundly dark and triggers outrage and morbid curiosity."
+  },
+  {
+    "unique_id": "crime_0093_014_ad8ba31794d53eb4",
+    "title": "The Mob That Used a Church's Donation Baskets to Launder Millions in Drug Cash",
+    "hook": "Parishioners thought they were tithing to God. They were actually laundering for the mafia.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 50,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob",
+      "church",
+      "money laundering",
+      "donation baskets",
+      "sacrilege"
+    ],
+    "overlap_check_hash": "ad8ba31794d53eb4",
+    "why_this_can_go_viral": "The sacrilegious corruption of a sacred space triggers strong emotional reactions and the 'hidden in plain sight' hook is powerful."
+  },
+  {
+    "unique_id": "crime_0093_015_c67ccd8d571c0d73",
+    "title": "The Billion-Dollar Fraud That Used a Fake Currency Exchange to Trap Tourists",
+    "hook": "They offered the best rates in the city. But every dollar you gave them funded a murder.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 72,
+    "educational_value": 55,
+    "estimated_short_retention": 72,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "currency fraud",
+      "tourist trap",
+      "money exchange",
+      "murder funding",
+      "organized crime"
+    ],
+    "overlap_check_hash": "c67ccd8d571c0d73",
+    "why_this_can_go_viral": "The revelation that a common travel service is a front for violence taps into travel anxiety and hidden system fears."
+  },
+  {
+    "unique_id": "crime_0093_017_b5cfbd09b5148427",
+    "title": "The White-Collar Criminal Who Stole a Charity's Entire Budget by Printing Fake Receipts",
+    "hook": "For every $100 donated, he kept $99 and gave $1 to the poor. The receipts said $100.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 60,
+    "estimated_short_retention": 76,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "charity fraud",
+      "fake receipts",
+      "donation scam",
+      "greed",
+      "tax fraud"
+    ],
+    "overlap_check_hash": "b5cfbd09b5148427",
+    "why_this_can_go_viral": "The exploitation of charity and generosity disgusts viewers, and the simplicity of the scam makes it both infuriating and educational."
+  },
+  {
+    "unique_id": "crime_0093_018_a78d94bcec3e4cb2",
+    "title": "The Cartel That Used a Radio Station's Tower to Transmit Orders—Encoded in Weather Reports",
+    "hook": "'Chance of rain at 3PM' actually meant 'kill the target at the corner of 3rd and Main.'",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 72,
+    "educational_value": 55,
+    "estimated_short_retention": 81,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "radio station",
+      "encoded messages",
+      "weather reports",
+      "coded orders"
+    ],
+    "overlap_check_hash": "a78d94bcec3e4cb2",
+    "why_this_can_go_viral": "The invisible layer of secret communication hidden in plain sight within mundane broadcasts is both clever and chilling."
+  },
+  {
+    "unique_id": "crime_0093_019_bba7fd43b801343e",
+    "title": "The Criminal Mastermind Who Built a Fake Prison—to Keep Rivals Alive While He Took Over Their Turf",
+    "hook": "He didn't kill them. He imprisoned them in a private jail—so they couldn't testify when he was arrested.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 88,
+    "educational_value": 45,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake prison",
+      "private jail",
+      "rival elimination",
+      "legal loophole",
+      "mastermind"
+    ],
+    "overlap_check_hash": "bba7fd43b801343e",
+    "why_this_can_go_viral": "The concept of a criminal building their own prison system to legally suppress enemies is outrageously dark and clever."
+  },
+  {
+    "unique_id": "crime_0093_020_bcd825fb0d76d9e0",
+    "title": "The Serial Killer Who Only Killed on Days With a Palindrome Date",
+    "hook": "He planned murders around symmetry—11/02/2011, 02/02/2020. Then the dates ran out.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 45,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "palindrome dates",
+      "symmetry",
+      "obsessive pattern",
+      "calendar murder"
+    ],
+    "overlap_check_hash": "bcd825fb0d76d9e0",
+    "why_this_can_go_viral": "The bizarre mathematical obsession adds a layer of 'pattern-seeking' intrigue that viewers will try to decode."
+  },
+  {
+    "unique_id": "crime_0093_021_76c25bb23f0b8ad2",
+    "title": "The Heist Where Thieves Stole a Jewelry Exhibit by Creating a Fake VIP Afterparty",
+    "hook": "They rented the same hotel, printed fake badges, and walked out with $10 million in diamonds while guests danced.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 55,
+    "educational_value": 60,
+    "estimated_short_retention": 79,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "jewelry heist",
+      "fake VIP party",
+      "hotel infiltration",
+      "diamond theft",
+      "social engineering"
+    ],
+    "overlap_check_hash": "76c25bb23f0b8ad2",
+    "why_this_can_go_viral": "The audacity of throwing a party to rob a party gives it a glamorous, Ocean's 11 feel that viewers love."
+  },
+  {
+    "unique_id": "crime_0093_022_112f1c994ef2a181",
+    "title": "The Mob That Used a Laundromat's Dryer Vents to Blow Cash Across the City",
+    "hook": "They taped money inside the vent. When the police came, they turned on the dryers—and money rained down.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 60,
+    "educational_value": 50,
+    "estimated_short_retention": 76,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob",
+      "laundromat",
+      "money destruction",
+      "evidence tampering",
+      "cash rain"
+    ],
+    "overlap_check_hash": "112f1c994ef2a181",
+    "why_this_can_go_viral": "The absurd visual of money flying everywhere during a police raid is both comedic and gritty, making it highly shareable."
+  },
+  {
+    "unique_id": "crime_0093_024_892cc1bea2af8c7c",
+    "title": "The White-Collar Criminal Who Stole a Government's Disaster Relief Funds by Faking a Hurricane",
+    "hook": "He created a fake weather event, filed claims for 'damage' in a town that didn't exist, and collected millions.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "disaster fraud",
+      "fake hurricane",
+      "government scam",
+      "relief theft",
+      "weather con"
+    ],
+    "overlap_check_hash": "892cc1bea2af8c7c",
+    "why_this_can_go_viral": "The sheer absurdity of faking a natural disaster to steal from the government is both hilarious and enraging."
+  },
+  {
+    "unique_id": "crime_0093_025_d894f9da9b28c9a7",
+    "title": "The Criminal Mastermind Who Built a Fake Space Agency—to Sell Moon Land to Investors",
+    "hook": "He sold plots on the Moon for $100 an acre. His company 'crashed' when a rival offered Mars.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 50,
+    "estimated_short_retention": 77,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "moon land scam",
+      "fake space agency",
+      "investor fraud",
+      "lunar property",
+      "ambition"
+    ],
+    "overlap_check_hash": "d894f9da9b28c9a7",
+    "why_this_can_go_viral": "The audacious scale of selling land on another celestial body plays on human gullibility and greed in a fascinating way."
+  }
+]

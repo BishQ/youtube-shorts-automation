@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "health_0145_003_b7cae5207a03b216",
+    "title": "The Cancer Doctor Who Faked Remission to Collect Millions",
+    "hook": "A respected oncologist told hundreds of patients their cancer was gone — then secretly billed their insurance for treatments they never needed.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "fake remission",
+      "cancer fraud",
+      "doctor scam",
+      "insurance fraud",
+      "medical betrayal"
+    ],
+    "overlap_check_hash": "b7cae5207a03b216",
+    "why_this_can_go_viral": "Cancer fear + doctor trust betrayed = powerful emotional hook."
+  },
+  {
+    "unique_id": "health_0145_005_22cc4840a85a2e3b",
+    "title": "The Scar Cream That Gave Patients Flesh-Eating Infections",
+    "hook": "A popular over-the-counter scar cream was contaminated with bacteria that ate through skin — and the manufacturer ignored complaints for months.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "scar cream",
+      "flesh-eating bacteria",
+      "product contamination",
+      "FDA recall",
+      "beauty danger"
+    ],
+    "overlap_check_hash": "22cc4840a85a2e3b",
+    "why_this_can_go_viral": "Everyday product + horrific outcome = viral disgust factor."
+  },
+  {
+    "unique_id": "health_0145_006_205236c65165eb7f",
+    "title": "The Government That Fed Radioactive Breakfast to Schoolchildren",
+    "hook": "For two years, children in an American school were fed breakfast cereal laced with radioactive isotopes — to study how digestion worked.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "radiation experiments",
+      "children",
+      "government testing",
+      "cold war",
+      "ethics violation"
+    ],
+    "overlap_check_hash": "205236c65165eb7f",
+    "why_this_can_go_viral": "Children + radiation + government = maximum outrage and shareability."
+  },
+  {
+    "unique_id": "health_0145_007_a5a2615e918b0cba",
+    "title": "The 'Diet Pill' That Melted Patients' Heart Valves",
+    "hook": "A miracle diet pill caused irreversible heart valve damage in thousands of women — and the manufacturer destroyed evidence of the first deaths.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 86,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "diet pill",
+      "heart damage",
+      "pharma scandal",
+      "weight loss danger",
+      "FDA approval"
+    ],
+    "overlap_check_hash": "a5a2615e918b0cba",
+    "why_this_can_go_viral": "Body image + hidden danger = powerful emotional tension."
+  },
+  {
+    "unique_id": "health_0145_008_3aba42ec96c3ed87",
+    "title": "The Hospital That Injected Dye Into Patients' Brains for Fun",
+    "hook": "A neurosurgeon injected colored dye into living patients' brains just to watch it spread — most of them woke up permanently paralyzed.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 74,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "brain injection",
+      "paralysis",
+      "sadistic doctor",
+      "medical horror",
+      "experiment"
+    ],
+    "overlap_check_hash": "3aba42ec96c3ed87",
+    "why_this_can_go_viral": "Gratuitous cruelty narrative triggers visceral disgust and shock sharing."
+  },
+  {
+    "unique_id": "health_0145_009_cc0a2b091d2f3c7f",
+    "title": "The Vitamin Company That Sold Rat Poison as Immune Boosters",
+    "hook": "A wellness brand sold 'immune-boosting' supplements that were mostly warfarin — rat poison — causing internal bleeding in hundreds of customers.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 87,
+    "educational_value": 76,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "supplement danger",
+      "rat poison",
+      "wellness scam",
+      "internal bleeding",
+      "FDA recall"
+    ],
+    "overlap_check_hash": "cc0a2b091d2f3c7f",
+    "why_this_can_go_viral": "Wellness trend + lethal contamination = high alert sharing."
+  },
+  {
+    "unique_id": "health_0145_010_53cf031a3c6cf21a",
+    "title": "The Doctor Who Kept Patients in a Coma to Collect Their Pensions",
+    "hook": "A physician kept elderly patients in medically induced comas for years, cashing their pension checks while their families were told they were in hospice.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "fake coma",
+      "elderly abuse",
+      "pension fraud",
+      "doctor crime",
+      "hospice scam"
+    ],
+    "overlap_check_hash": "53cf031a3c6cf21a",
+    "why_this_can_go_viral": "Elder vulnerability + prolonged suffering + financial greed = outrage fuel."
+  },
+  {
+    "unique_id": "health_0145_011_3849dbc1f5bbf6cb",
+    "title": "The 'Cure for Baldness' That Gave Men Cancerous Penile Growths",
+    "hook": "A black-market hair loss treatment contained a chemical that caused aggressive penile and testicular cancer in dozens of men.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "baldness cure",
+      "cancer",
+      "black market",
+      "hair loss",
+      "penile cancer"
+    ],
+    "overlap_check_hash": "3849dbc1f5bbf6cb",
+    "why_this_can_go_viral": "Vanity + horrifying consequence = irresistible clickbait."
+  },
+  {
+    "unique_id": "health_0145_012_2a8e7e0ed7946369",
+    "title": "The Dental Filling Material That Gave Patients Brain Tumors",
+    "hook": "A popular dental composite used for decades leached a chemical that crossed the blood-brain barrier and triggered tumor growth in patients.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 89,
+    "educational_value": 82,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "dental fillings",
+      "brain tumor",
+      "toxic materials",
+      "dental scandal",
+      "health cover-up"
+    ],
+    "overlap_check_hash": "2a8e7e0ed7946369",
+    "why_this_can_go_viral": "Universal dental experience + cancer = massive personal relevance."
+  },
+  {
+    "unique_id": "health_0145_013_650720cd29a077c2",
+    "title": "The Government That Injected Pregnant Women with Syphilis",
+    "hook": "In a secret Cold War experiment, doctors injected syphilis into pregnant women to study how the infection was passed to unborn children — without consent.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "syphilis experiment",
+      "pregnant women",
+      "cold war",
+      "unethical research",
+      "government crime"
+    ],
+    "overlap_check_hash": "650720cd29a077c2",
+    "why_this_can_go_viral": "Pregnant women + deliberate infection = maximum moral outrage."
+  },
+  {
+    "unique_id": "health_0145_014_59f939b8610318d9",
+    "title": "The 'Painkiller' That Turned Patients' Skin Yellow Before Killing Them",
+    "hook": "A FDA-approved painkiller caused a rare condition where patients' skin turned bright yellow — then their livers failed within weeks.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "painkiller",
+      "liver failure",
+      "yellow skin",
+      "FDA",
+      "drug danger"
+    ],
+    "overlap_check_hash": "59f939b8610318d9",
+    "why_this_can_go_viral": "Visual shock (yellow skin) + medical horror = shareable imagery."
+  },
+  {
+    "unique_id": "health_0145_015_7e154b56f09d7624",
+    "title": "The Hospital That Let Morgue Staff Sell Organs to the Highest Bidder",
+    "hook": "Hospital morgue workers ran a black market organ ring, selling kidneys and corneas from the dead — and sometimes the nearly dead — to wealthy transplant patients.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "organ traffick",
+      "black market",
+      "morgue",
+      "transplant scandal",
+      "hospital crime"
+    ],
+    "overlap_check_hash": "7e154b56f09d7624",
+    "why_this_can_go_viral": "Death + profit + exploitation = dark fascination."
+  },
+  {
+    "unique_id": "health_0145_016_20189653caba1ce6",
+    "title": "The Pharmaceutical Company That Made a Drug That Eats Your Blood",
+    "hook": "A leukemia medication caused a rare condition where patients' own red blood cells began disintegrating — turning their urine black within hours of the first dose.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "leukemia drug",
+      "blood disintegration",
+      "black urine",
+      "side effect",
+      "pharma scandal"
+    ],
+    "overlap_check_hash": "20189653caba1ce6",
+    "why_this_can_go_viral": "Gross body horror + medical mystery = high retention."
+  },
+  {
+    "unique_id": "health_0145_018_f3ed5dc75e5311c0",
+    "title": "The Government That Gave Cancer Patients Fake Chemo for Decades",
+    "hook": "For 12 years, a government hospital administered saline solution instead of chemotherapy to cancer patients — to see if they'd notice they were dying faster.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 98,
+    "educational_value": 82,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "fake chemo",
+      "cancer experiment",
+      "government hospital",
+      "ethics violation",
+      "patient death"
+    ],
+    "overlap_check_hash": "f3ed5dc75e5311c0",
+    "why_this_can_go_viral": "Cancer + government betrayal + slow death = ultimate dark documentary material."
+  },
+  {
+    "unique_id": "health_0145_020_31304bdd865c57fa",
+    "title": "The 'Anti-Aging' Injection That Caused Jaws to Disintegrate",
+    "hook": "A trendy anti-aging treatment marketed to wealthy women contained a chemical that dissolved jawbone tissue — leaving patients with collapsed faces and chronic pain.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "anti-aging",
+      "jawbone loss",
+      "beauty treatment",
+      "cosmetic danger",
+      "facial collapse"
+    ],
+    "overlap_check_hash": "31304bdd865c57fa",
+    "why_this_can_go_viral": "Vanity + permanent disfigurement = cautionary tale sharing."
+  },
+  {
+    "unique_id": "health_0145_023_db250c4fa55e7e04",
+    "title": "The 'Cholesterol Drug' That Made Patients' Muscles Dissolve From the Inside",
+    "hook": "A widely prescribed statin caused rhabdomyolysis — where muscle tissue liquefies and floods the kidneys with toxins — but the manufacturer hid the link for years.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 87,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "statin",
+      "muscle dissolving",
+      "rhabdomyolysis",
+      "drug side effect",
+      "pharma cover-up"
+    ],
+    "overlap_check_hash": "db250c4fa55e7e04",
+    "why_this_can_go_viral": "Common drug + horrifying physical consequence = personal relevance."
+  },
+  {
+    "unique_id": "health_0145_025_2178fdf682c6ab6e",
+    "title": "The Government That Released Smallpox on an Unvaccinated Town",
+    "hook": "In a secret bioweapon simulation, a government agency released a modified smallpox virus into a rural town without telling residents — 14 people died before they realized it wasn't natural.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 99,
+    "educational_value": 85,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "smallpox",
+      "bioweapon test",
+      "government experiment",
+      "civilian deaths",
+      "cover-up"
+    ],
+    "overlap_check_hash": "2178fdf682c6ab6e",
+    "why_this_can_go_viral": "Smallpox + secret government testing + civilian deaths = ultimate dark viral story."
+  }
+]

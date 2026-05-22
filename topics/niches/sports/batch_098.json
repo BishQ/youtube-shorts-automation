@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "sports_0098_002_81bb34828b588ce1",
+    "title": "The Doctor Who Grew Human Muscles on Rats for Doping",
+    "hook": "A rogue scientist implanted human muscle tissue into rats, then harvested it to inject into athletes.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "human muscle implant",
+      "rat experiment",
+      "doping",
+      "doctor",
+      "illegal science"
+    ],
+    "overlap_check_hash": "81bb34828b588ce1",
+    "why_this_can_go_viral": "The grotesque body horror of using rat-grown human muscle is shocking and highly shareable."
+  },
+  {
+    "unique_id": "sports_0098_003_1ef6d3804bea6ff1",
+    "title": "The Mafia That Kidnapped a Boxer's Family to Force a Fix",
+    "hook": "A mafia boss held a boxer's children hostage until he agreed to take a dive in the third round.",
+    "virality_score": 88,
+    "curiosity_gap_score": 85,
+    "darkness_score": 95,
+    "educational_value": 50,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "mafia boxing",
+      "kidnapping",
+      "fixed fight",
+      "family hostage",
+      "boxing corruption"
+    ],
+    "overlap_check_hash": "1ef6d3804bea6ff1",
+    "why_this_can_go_viral": "High emotional stakes and true crime elements make this irresistible to viewers who love dramatic sports scandals."
+  },
+  {
+    "unique_id": "sports_0098_005_699bffe5daeb916f",
+    "title": "The Lab That Tried to Make Cyclists Breathe Pure Poison for Endurance",
+    "hook": "A secret lab made cyclists inhale carbon monoxide to trick their bodies into producing more red blood cells.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 72,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "carbon monoxide",
+      "cycling",
+      "endurance experiment",
+      "blood doping",
+      "toxic training"
+    ],
+    "overlap_check_hash": "699bffe5daeb916f",
+    "why_this_can_go_viral": "The dangerous pseudoscience of inhaling poison for sport is both terrifying and fascinating."
+  },
+  {
+    "unique_id": "sports_0098_006_e80254b80b03329d",
+    "title": "The Psychologist Who Made a Tennis Player Fear Her Own Shadow",
+    "hook": "A sports psychologist convinced a champion that her shadow was an opponent's spy, ruining her focus.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 75,
+    "educational_value": 60,
+    "estimated_short_retention": 79,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "tennis",
+      "psychologist",
+      "paranoia",
+      "shadow",
+      "mental breakdown"
+    ],
+    "overlap_check_hash": "e80254b80b03329d",
+    "why_this_can_go_viral": "The idea of a professional athlete being psychologically broken by something as silly as a shadow is deeply intriguing."
+  },
+  {
+    "unique_id": "sports_0098_007_b5800b5a086ce9da",
+    "title": "The Betting Network That Used a Parrot's Squawk to Signal Goals",
+    "hook": "A crime syndicate trained a parrot to squawk at specific moments, tipping off bettors mid-match.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 65,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "parrot",
+      "betting signal",
+      "match fix",
+      "animal code",
+      "syndicate"
+    ],
+    "overlap_check_hash": "b5800b5a086ce9da",
+    "why_this_can_go_viral": "Using an animal as a coded signal device is absurdly creative and highly memeable."
+  },
+  {
+    "unique_id": "sports_0098_009_86d11b4e31e53f62",
+    "title": "The Referee Who Fixed Basketball by Sneezing on Command",
+    "hook": "A referee had pre-arranged sneezes that signaled foul calls to a betting syndicate.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 68,
+    "educational_value": 55,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "basketball ref",
+      "sneeze code",
+      "fix",
+      "betting",
+      "corruption"
+    ],
+    "overlap_check_hash": "86d11b4e31e53f62",
+    "why_this_can_go_viral": "The sheer absurdity of a sneeze being a corruption tool makes this highly shareable."
+  },
+  {
+    "unique_id": "sports_0098_010_7cc70fcf906ab5be",
+    "title": "The Mafia That Used a Soccer Stadium as a Human Trafficking Hub",
+    "hook": "A mafia-owned soccer club trafficked people through their stadium's underground tunnels during matches.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 98,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "human trafficking",
+      "soccer stadium",
+      "mafia",
+      "tunnels",
+      "crime"
+    ],
+    "overlap_check_hash": "7cc70fcf906ab5be",
+    "why_this_can_go_viral": "The mix of beloved sports venues and horrifying crime is a powerful emotional trigger."
+  },
+  {
+    "unique_id": "sports_0098_011_1fd6c6118edd6e98",
+    "title": "The Doctor Who Injected Soccer Players with Adrenaline Before Games",
+    "hook": "A team doctor secretly injected players with adrenaline, causing heart attacks on the field.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 85,
+    "educational_value": 68,
+    "estimated_short_retention": 76,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "adrenaline",
+      "soccer",
+      "heart attack",
+      "doctor",
+      "doping"
+    ],
+    "overlap_check_hash": "1fd6c6118edd6e98",
+    "why_this_can_go_viral": "The deadly risk of adrenaline doping is a shocking unknown case of medical malpractice in sports."
+  },
+  {
+    "unique_id": "sports_0098_013_e694c2ecec51f2b9",
+    "title": "The Lab That Tried to Make Boxers' Bones Unbreakable by Injecting Calcium Ceramic",
+    "hook": "A secret experiment injected liquid ceramic into boxers' shins to make them unbreakable — it killed them.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 90,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "boxing",
+      "ceramic bones",
+      "experiment",
+      "death",
+      "illegal science"
+    ],
+    "overlap_check_hash": "e694c2ecec51f2b9",
+    "why_this_can_go_viral": "The Frankenstein-like attempt to superhumanize athletes with deadly materials is pure dark curiosity."
+  },
+  {
+    "unique_id": "sports_0098_014_01347a85387743ca",
+    "title": "The Psychologist Who Made a Golfer Believe His Opponent Was a Ghost",
+    "hook": "A sports psychologist convinced a golfer that his rival had died and was playing from beyond the grave.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 78,
+    "educational_value": 55,
+    "estimated_short_retention": 83,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "golf",
+      "ghost",
+      "psychologist",
+      "mind games",
+      "supernatural"
+    ],
+    "overlap_check_hash": "01347a85387743ca",
+    "why_this_can_go_viral": "Blending sports with the supernatural creates a clickable, eerie story that fascinates."
+  },
+  {
+    "unique_id": "sports_0098_015_b9b61c3879a5e8b1",
+    "title": "The Betting Ring That Used a Drone's Throttle Sound to Signal a Fixed Tennis Match",
+    "hook": "A drone hovering above a tennis court had its engine revved in a pattern to tip off bettors on the ground.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "drone",
+      "tennis",
+      "betting",
+      "signal",
+      "technology crime"
+    ],
+    "overlap_check_hash": "b9b61c3879a5e8b1",
+    "why_this_can_go_viral": "The use of modern tech like drones for old-school corruption feels fresh and relevant."
+  },
+  {
+    "unique_id": "sports_0098_016_6b7d3eaaf002346a",
+    "title": "The Businessman Who Sold 'Championship Air' in Cans to Desperate Athletes",
+    "hook": "A con man sold cans of 'stadium air' to athletes who believed breathing the same air as champions would boost performance.",
+    "virality_score": 76,
+    "curiosity_gap_score": 81,
+    "darkness_score": 58,
+    "educational_value": 68,
+    "estimated_short_retention": 73,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "stadium air",
+      "scam",
+      "business",
+      "superstition",
+      "athletes"
+    ],
+    "overlap_check_hash": "6b7d3eaaf002346a",
+    "why_this_can_go_viral": "The idea of selling literal air exposes the gullibility and desperation in sports culture."
+  },
+  {
+    "unique_id": "sports_0098_017_9f35e15cadf1d6c7",
+    "title": "The Referee Who Fixed MMA by Rubbing His Eye in a Pattern",
+    "hook": "An MMA referee used an eye-rubbing code to tell fighters when to take a dive without being detected.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 72,
+    "educational_value": 58,
+    "estimated_short_retention": 81,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "mma",
+      "referee",
+      "eye rub",
+      "fix",
+      "code"
+    ],
+    "overlap_check_hash": "9f35e15cadf1d6c7",
+    "why_this_can_go_viral": "Hidden signals in plain sight make viewers feel like they are uncovering a secret."
+  },
+  {
+    "unique_id": "sports_0098_018_ff6c21f483df35aa",
+    "title": "The Mafia That Controlled a Basketball Team's Scores by Threatening Players' Families",
+    "hook": "A mafia group threatened to harm players' families if they won by more than a 5-point margin.",
+    "virality_score": 86,
+    "curiosity_gap_score": 84,
+    "darkness_score": 92,
+    "educational_value": 55,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "basketball",
+      "mafia",
+      "family threats",
+      "fix",
+      "point spread"
+    ],
+    "overlap_check_hash": "ff6c21f483df35aa",
+    "why_this_can_go_viral": "The combination of organized crime and team sports creates a gripping narrative of fear and corruption."
+  },
+  {
+    "unique_id": "sports_0098_019_53a72a516def860a",
+    "title": "The Doctor Who 'Healed' Athletes by Injecting Them with Useless Saline and Calling It Magic",
+    "hook": "A sports doctor convinced injured players that a simple saline injection was a miracle cure, but it only masked pain.",
+    "virality_score": 73,
+    "curiosity_gap_score": 78,
+    "darkness_score": 65,
+    "educational_value": 70,
+    "estimated_short_retention": 70,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "saline",
+      "fake cure",
+      "doctor",
+      "injury scam",
+      "placebo"
+    ],
+    "overlap_check_hash": "53a72a516def860a",
+    "why_this_can_go_viral": "The placebo scam in elite sports reveals how easily athletes are exploited."
+  },
+  {
+    "unique_id": "sports_0098_023_726d35604bd5dfb4",
+    "title": "The Betting Syndicate That Used a Helium Balloon's Pop to Signal a Horse Race Fix",
+    "hook": "A balloon popped at a specific moment during a horse race alerted bettors to the pre-planned winner.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 68,
+    "educational_value": 58,
+    "estimated_short_retention": 79,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "helium balloon",
+      "horse race",
+      "betting",
+      "fix",
+      "syndicate"
+    ],
+    "overlap_check_hash": "726d35604bd5dfb4",
+    "why_this_can_go_viral": "The innocent image of a party balloon being used for corruption is a great hook."
+  },
+  {
+    "unique_id": "sports_0098_024_62fd4d0d0b5585b8",
+    "title": "The Businessman Who Owned a Gym and Sold 'Membership' That Was Actually a Debt Trap",
+    "hook": "A gym owner signed athletes to contracts that made them owe thousands, then forced them to work off the debt for free.",
+    "virality_score": 75,
+    "curiosity_gap_score": 77,
+    "darkness_score": 82,
+    "educational_value": 72,
+    "estimated_short_retention": 71,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "gym scam",
+      "debt trap",
+      "businessman",
+      "contracts",
+      "athlete exploitation"
+    ],
+    "overlap_check_hash": "62fd4d0d0b5585b8",
+    "why_this_can_go_viral": "The financial exploitation of athletes is a relatable and infuriating story."
+  },
+  {
+    "unique_id": "sports_0098_025_26bb8189358b4a62",
+    "title": "The Referee Who Fixed Cricket by Tapping His Toe Three Times Before a Ball",
+    "hook": "A cricket referee signaled to bowlers when to bowl a no-ball by tapping his foot in a pre-arranged code.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 65,
+    "educational_value": 62,
+    "estimated_short_retention": 77,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "cricket",
+      "referee",
+      "toe tap",
+      "no-ball",
+      "fix"
+    ],
+    "overlap_check_hash": "26bb8189358b4a62",
+    "why_this_can_go_viral": "The subtlety of a toe tap as a corruption tool feels like a spy movie, driving curiosity."
+  }
+]

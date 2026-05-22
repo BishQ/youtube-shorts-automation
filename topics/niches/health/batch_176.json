@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "health_0176_001_06d768d5537c6a7e",
+    "title": "The Hospital That Used Radiation to 'Treat' Acne—It Gave Teens Cancer",
+    "hook": "In the 1950s, doctors exposed thousands of teenagers to high-dose radiation for acne—decades later, their faces literally rotted away.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "radiation acne treatment",
+      "cancer cover-up",
+      "medical malpractice teens",
+      "rotting face syndrome",
+      "1950s quackery"
+    ],
+    "overlap_check_hash": "06d768d5537c6a7e",
+    "why_this_can_go_viral": "Juxtaposes a common teenage problem with horrific long-term effects; survivors' photos are visceral and shareable."
+  },
+  {
+    "unique_id": "health_0176_002_8e8c031ee0b1c1d7",
+    "title": "The Pharmaceutical CEO Who Buried Evidence of a Lethal Birth Defect",
+    "hook": "He knew his anti-nausea drug caused babies to be born without limbs—but he ordered the files shredded and kept selling it.",
+    "virality_score": 95,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 82,
+    "estimated_short_retention": 96,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "thalidomide scandal",
+      "hidden birth defects",
+      "pharma cover-up",
+      "CEO crimes",
+      "limb deformities"
+    ],
+    "overlap_check_hash": "8e8c031ee0b1c1d7",
+    "why_this_can_go_viral": "Thalidomide is known but the CEO-level cover-up story is less told; babies with no arms trigger outrage and clicks."
+  },
+  {
+    "unique_id": "health_0176_003_79467731f4f45f57",
+    "title": "The Doctor Who Injected Polio Into Healthy Kids—To See What Would Happen",
+    "hook": "He wasn't testing a vaccine—he was trying to give children polio, on purpose, in a secret ward hidden from parents.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 99,
+    "educational_value": 88,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "polio experiment",
+      "unethical medical trials",
+      "children as guinea pigs",
+      "hidden ward",
+      "doctor monster"
+    ],
+    "overlap_check_hash": "79467731f4f45f57",
+    "why_this_can_go_viral": "Pure evil experimentation on children is maximum dark curiosity; the 'hidden ward' detail is cinematic."
+  },
+  {
+    "unique_id": "health_0176_004_78093664eb36f5bb",
+    "title": "The 'Cancer Cure' That Was Just Baking Soda and Prayer",
+    "hook": "He sold it for $10,000 a bottle—and convinced terminal patients to throw away their chemotherapy for a kitchen ingredient.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 87,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "fake cancer cure",
+      "baking soda scam",
+      "alternative medicine fraud",
+      "terminal patients exploited",
+      "prayer treatment"
+    ],
+    "overlap_check_hash": "78093664eb36f5bb",
+    "why_this_can_go_viral": "Anger at preying on the desperate combined with the absurdity of a common kitchen item being sold as a cure."
+  },
+  {
+    "unique_id": "health_0176_005_3f424be501a0d9d4",
+    "title": "The Hospital That Charged $10,000 for an Aspirin—And Got Away With It",
+    "hook": "A patient got a bill for $10,000 for a single aspirin, and the hospital argued it was 'standard pricing'—then sued her for non-payment.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "hospital billing scam",
+      "price gouging",
+      "aspirin $10,000",
+      "medical debt",
+      "predatory healthcare"
+    ],
+    "overlap_check_hash": "3f424be501a0d9d4",
+    "why_this_can_go_viral": "Modern relatable rage—everyone has had an insane medical bill; the aspirin example is absurdly shareable."
+  },
+  {
+    "unique_id": "health_0176_007_8be0597b29e15839",
+    "title": "The Government That Knew a Deadly Virus Was Spreading—But Called It 'Pneumonia'",
+    "hook": "They suppressed the real diagnosis for months because acknowledging the outbreak would hurt tourism—thousands died.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "government cover-up",
+      "hidden epidemic",
+      "pneumonia misdiagnosis",
+      "tourist deaths",
+      "disease denial"
+    ],
+    "overlap_check_hash": "8be0597b29e15839",
+    "why_this_can_go_viral": "Parallels to recent events drive engagement; the 'tourism over lives' angle is infuriating and memorable."
+  },
+  {
+    "unique_id": "health_0176_011_452d1dd1ef900776",
+    "title": "The Doctor Who Tested Experimental Vaccines on Kids in Orphanages",
+    "hook": "He told the nuns they were 'vitamin shots'—but they were live smallpox vaccines, and dozens of children died in agony.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 98,
+    "educational_value": 86,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "orphanage experiments",
+      "live smallpox vaccine",
+      "vitamin shot lie",
+      "children died",
+      "unethical vaccine trials"
+    ],
+    "overlap_check_hash": "452d1dd1ef900776",
+    "why_this_can_go_viral": "Innocence betrayed in a setting of trust (orphanage/nuns) creates maximum emotional impact and moral outrage."
+  },
+  {
+    "unique_id": "health_0176_012_b8aac9dd0a264abd",
+    "title": "The 'Cure for Diabetes' That Was Just Rat Poison—And Killed Hundreds",
+    "hook": "It was sold as a natural herbal remedy; in reality, it was laced with a rodenticide that destroyed kidneys and livers.",
+    "virality_score": 87,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "fake diabetes cure",
+      "rat poison",
+      "herbal remedy scam",
+      "kidney failure",
+      "natural cure danger"
+    ],
+    "overlap_check_hash": "b8aac9dd0a264abd",
+    "why_this_can_go_viral": "Exploits the 'natural vs pharmaceutical' debate—people die trusting 'natural' labels; shocking and cautionary."
+  },
+  {
+    "unique_id": "health_0176_013_17f606a1921973b6",
+    "title": "The Hospital System That Billed for Surgeries on Dead Patients—For Decades",
+    "hook": "They kept billing Medicare for hip replacements, heart surgeries, and amputations—years after the patients were buried.",
+    "virality_score": 83,
+    "curiosity_gap_score": 85,
+    "darkness_score": 76,
+    "educational_value": 79,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "Medicare fraud",
+      "billing dead patients",
+      "zombie surgeries",
+      "hospital scam",
+      "government waste"
+    ],
+    "overlap_check_hash": "17f606a1921973b6",
+    "why_this_can_go_viral": "Absurd crime that is both dark and funny; 'posthumous surgery' is a shocking concept that spreads as a WTF story."
+  },
+  {
+    "unique_id": "health_0176_014_2cc6353a92f9a7af",
+    "title": "The 'Safe' Sunscreen That Gave Everyone Chemical Burns",
+    "hook": "It was FDA-approved and sold in every pharmacy—until people's skin started blistering and peeling off after one application.",
+    "virality_score": 82,
+    "curiosity_gap_score": 84,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "toxic sunscreen",
+      "chemical burns",
+      "FDA approved danger",
+      "skin blistering",
+      "sunscreen scandal"
+    ],
+    "overlap_check_hash": "2cc6353a92f9a7af",
+    "why_this_can_go_viral": "Summer-related and universally used product—every sunscreen user will click to see if theirs is safe."
+  },
+  {
+    "unique_id": "health_0176_017_26344b516d064c5b",
+    "title": "The Nurse Who Replaced Patients' IV Fluids With Poison—For Fun",
+    "hook": "She worked in the ICU and swapped saline bags with a toxic chemical—then watched as patients died in front of her eyes.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 68,
+    "estimated_short_retention": 95,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "angel of death nurse",
+      "IV poison",
+      "ICU murder",
+      "serial killer nurse",
+      "hospital deaths"
+    ],
+    "overlap_check_hash": "26344b516d064c5b",
+    "why_this_can_go_viral": "True crime medical horror is a proven viral category; the 'for fun' detail is chilling and click-maximizing."
+  },
+  {
+    "unique_id": "health_0176_018_963eb53959ba4ac5",
+    "title": "The Drug Company That Sold 'Generic' Meds—They Were Placebo Sugar Pills",
+    "hook": "Patients took their 'medication' for years; their conditions worsened and some died—while the company pocketed millions making candy.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 91,
+    "educational_value": 84,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "generic drug scam",
+      "placebo pills",
+      "sugar pills sold as medicine",
+      "patient deaths",
+      "pharma fraud"
+    ],
+    "overlap_check_hash": "963eb53959ba4ac5",
+    "why_this_can_go_viral": "Betrayal of trust in generic medication affects everyone; the 'candy instead of cure' angle is outrageously shareable."
+  },
+  {
+    "unique_id": "health_0176_019_f0c4b0e1f2438786",
+    "title": "The Doctor Who Implanted Patients With Sewer Bacteria—For 'Gut Health'",
+    "hook": "He performed fecal transplants using raw sewage from the city treatment plant—patients got septic shock and organ failure.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 89,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "sewer bacteria",
+      "fecal transplant gone wrong",
+      "septic shock",
+      "gut health scam",
+      "unethical experiment"
+    ],
+    "overlap_check_hash": "f0c4b0e1f2438786",
+    "why_this_can_go_viral": "Disgust and horror combined with a trendy health topic (gut microbiome); visceral reaction drives shares."
+  },
+  {
+    "unique_id": "health_0176_020_fc86ac368015dd05",
+    "title": "The 'All-Natural' Supplement That Contained Window Cleaner",
+    "hook": "It was labeled as organic herbal extract—laboratory tests found it was 30% window cleaning fluid and 70% sawdust.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 82,
+    "educational_value": 74,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "supplement contamination",
+      "window cleaner",
+      "organic scam",
+      "fake herbal extract",
+      "sawdust pills"
+    ],
+    "overlap_check_hash": "fc86ac368015dd05",
+    "why_this_can_go_viral": "Outrage at 'natural' label deception; the sawdust detail is absurd and memorable—great for short-form shock."
+  },
+  {
+    "unique_id": "health_0176_021_53c06562e87e689a",
+    "title": "The Government That Hid an Anthrax Outbreak—To Avoid Panic",
+    "hook": "A factory leaked anthrax spores over a town; officials told residents the strange deaths were 'flu'—and hundreds got sick.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 91,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "anthrax cover-up",
+      "government secrecy",
+      "flu misdiagnosis",
+      "factory leak",
+      "biological disaster hidden"
+    ],
+    "overlap_check_hash": "53c06562e87e689a",
+    "why_this_can_go_viral": "Post-COVID distrust of official narratives makes this highly resonant; 'they lied about anthrax' is explosive."
+  },
+  {
+    "unique_id": "health_0176_024_8271cb3c5c5ed7a1",
+    "title": "The Pharmaceutical Company That Sold a 'Cancer Vaccine'—It Was Sugar Water",
+    "hook": "They charged $50,000 per dose to desperate families—and the 'vaccine' was literally sugar, water, and food coloring.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 77,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake cancer vaccine",
+      "sugar water cure",
+      "$50,000 scam",
+      "desperate families",
+      "fraud"
+    ],
+    "overlap_check_hash": "8271cb3c5c5ed7a1",
+    "why_this_can_go_viral": "Exploiting dying people is maximum moral outrage; the simple ingredient reveals the depth of the scam."
+  },
+  {
+    "unique_id": "health_0176_025_9dab66ff68624817",
+    "title": "The Surgeon Who Operated on the Wrong Side of the Brain—Then Lied About It",
+    "hook": "He drilled into the healthy side of a patient's skull, then told the family the tumor 'mysteriously disappeared'—the patient died.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 94,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "wrong side surgery",
+      "brain surgery error",
+      "surgeon lied",
+      "patient died",
+      "medical negligence"
+    ],
+    "overlap_check_hash": "9dab66ff68624817",
+    "why_this_can_go_viral": "Incompetence + cover-up is a powerful combo; the absurd lie ('tumor disappeared') adds dark humor that boosts shares."
+  }
+]

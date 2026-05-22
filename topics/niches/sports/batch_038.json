@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "sports_0038_001_0b073a7887cc5a81",
+    "title": "The Referee Who Fixed Matches by Secretly Blowing a Dog Whistle",
+    "hook": "One soccer referee used a silent whistle only his co-conspirators could hear to signal when to score or miss.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "referee whistle",
+      "soccer fix",
+      "silent signal",
+      "match manipulation",
+      "auditory cheating"
+    ],
+    "overlap_check_hash": "0b073a7887cc5a81",
+    "why_this_can_go_viral": "The idea of a silent weapon used for corruption is instantly intriguing and feels like a spy thriller."
+  },
+  {
+    "unique_id": "sports_0038_002_0437752017e9a9e2",
+    "title": "The Lab That Tried to Breed Super-Athletes with Animal DNA",
+    "hook": "A secret Soviet lab injected human embryos with cheetah DNA to create faster runners.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 98,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "animal DNA",
+      "Soviet experiments",
+      "super athlete",
+      "genetic doping",
+      "forbidden science"
+    ],
+    "overlap_check_hash": "0437752017e9a9e2",
+    "why_this_can_go_viral": "Combines bio-horror, forbidden science, and sports — a viral triple threat."
+  },
+  {
+    "unique_id": "sports_0038_003_d9d37560b02b9511",
+    "title": "The Mafia That Kidnapped a Boxer's Family to Make Him Throw a Fight",
+    "hook": "Heavyweight champion agreed to lose, but the mafia kidnapped his daughter anyway just to be sure.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 98,
+    "educational_value": 60,
+    "estimated_short_retention": 95,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "boxing mafia",
+      "fixed fight",
+      "kidnapped family",
+      "organized crime",
+      "heavyweight fix"
+    ],
+    "overlap_check_hash": "d9d37560b02b9511",
+    "why_this_can_go_viral": "Emotional stakes and crime drama; viewers love stories of athletes trapped by the mob."
+  },
+  {
+    "unique_id": "sports_0038_004_e74237793fdc158e",
+    "title": "The Doctor Who Gave Athletes Blood From Desperate Homeless Donors",
+    "hook": "He paid homeless people $50 for blood, then transfused it into Olympic runners without telling them the source.",
+    "virality_score": 84,
+    "curiosity_gap_score": 85,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "blood doping",
+      "homeless donors",
+      "unethical medicine",
+      "Olympic scandal",
+      "exploitation"
+    ],
+    "overlap_check_hash": "e74237793fdc158e",
+    "why_this_can_go_viral": "Exploitation of the poor for elite gain triggers moral outrage and curiosity."
+  },
+  {
+    "unique_id": "sports_0038_005_859dbe12416f1b60",
+    "title": "The Coach Who Made Teen Gymnasts Train in a Gas Chamber",
+    "hook": "He believed nitrogen deprivation would make them fearless — but it only made them collapse mid-routine.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 99,
+    "educational_value": 72,
+    "estimated_short_retention": 96,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "gymnastics abuse",
+      "gas chamber training",
+      "nitrogen hypoxia",
+      "teen athletes",
+      "brutal coaching"
+    ],
+    "overlap_check_hash": "859dbe12416f1b60",
+    "why_this_can_go_viral": "Shock value is extreme; the image of young athletes in a gas chamber is unforgettable and shareable."
+  },
+  {
+    "unique_id": "sports_0038_006_cf4576ca34c0efa8",
+    "title": "The Referee Who Fixed Basketball by Greasing One Side of the Court",
+    "hook": "Players from the visiting team kept slipping toward the basket, making them miss easy shots all night.",
+    "virality_score": 76,
+    "curiosity_gap_score": 81,
+    "darkness_score": 68,
+    "educational_value": 58,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "basketball fix",
+      "greased court",
+      "sabotage",
+      "home court advantage",
+      "referee tricks"
+    ],
+    "overlap_check_hash": "cf4576ca34c0efa8",
+    "why_this_can_go_viral": "Visual and absurd; viewers love hearing about creative, low-tech cheating methods."
+  },
+  {
+    "unique_id": "sports_0038_008_3695988228d62b0e",
+    "title": "The Lab That Tried to Make Swimmers Amphibious by Grafting Fish Gills",
+    "hook": "A rogue scientist actually attempted to surgically attach fish gills to Olympic swimmers in the 1970s.",
+    "virality_score": 91,
+    "curiosity_gap_score": 98,
+    "darkness_score": 93,
+    "educational_value": 78,
+    "estimated_short_retention": 97,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "fish gills",
+      "human experiment",
+      "swimmer enhancement",
+      "surgery horror",
+      "1970s science"
+    ],
+    "overlap_check_hash": "3695988228d62b0e",
+    "why_this_can_go_viral": "Body horror plus sports — the mental image is visceral and instantly generates clicks."
+  },
+  {
+    "unique_id": "sports_0038_009_249cddac5867fea0",
+    "title": "The Mafia That Used a Funeral Home to Run a Match-Fixing Ring",
+    "hook": "Bettors placed fake 'funeral donations' that were actually bets on fixed soccer matches.",
+    "virality_score": 83,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 68,
+    "estimated_short_retention": 91,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "funeral home betting",
+      "mafia soccer",
+      "match fixing scheme",
+      "underground gambling",
+      "coded bets"
+    ],
+    "overlap_check_hash": "249cddac5867fea0",
+    "why_this_can_go_viral": "The grim irony of using death to hide corruption is perfect for dark-humor sharing."
+  },
+  {
+    "unique_id": "sports_0038_010_5dc9d0bcc385a336",
+    "title": "The Doctor Who Poisoned Athletes With Cobalt to Make Their Blood 'Thicker'",
+    "hook": "Cobalt poisoning turned their blood into sludge, but it temporarily boosted their endurance — until their hearts failed.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 96,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "cobalt doping",
+      "blood thickening",
+      "heart failure",
+      "toxic doping",
+      "cycling scandal"
+    ],
+    "overlap_check_hash": "5dc9d0bcc385a336",
+    "why_this_can_go_viral": "Medical horror combined with a ticking time bomb — viewers share out of shock and fear."
+  },
+  {
+    "unique_id": "sports_0038_011_48597506fa531c9f",
+    "title": "The Coach Who Made Rugby Players Tackle Electrified Dummies",
+    "hook": "He believed electric shocks would 'toughen them up' — players started twitching mid-game for weeks after.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 91,
+    "educational_value": 67,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "rugby abuse",
+      "electric shock training",
+      "torture coaching",
+      "extreme methods",
+      "player trauma"
+    ],
+    "overlap_check_hash": "48597506fa531c9f",
+    "why_this_can_go_viral": "Reminds people of dark military experiments; the visual of grown men being shocked is instantly shareable."
+  },
+  {
+    "unique_id": "sports_0038_012_a63905db67c9a9f4",
+    "title": "The Mafia That Fixed Horse Races by Injecting Horses With Sedatives Mid-Race",
+    "hook": "A groom on a motorcycle injected the favorite horse with a tranquilizer as it rounded the backstretch.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 66,
+    "estimated_short_retention": 93,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "horse racing fix",
+      "tranquilizer injection",
+      "mafia racing",
+      "animal cruelty",
+      "underdog scam"
+    ],
+    "overlap_check_hash": "a63905db67c9a9f4",
+    "why_this_can_go_viral": "The motorized injection is a cinematic image that feels too crazy to be true."
+  },
+  {
+    "unique_id": "sports_0038_013_b7b9b9d6292783ae",
+    "title": "The Businessman Who Sold 'Champion's Breath' in Sealed Jars",
+    "hook": "He claimed the exhaled air of gold medalists, collected during peak performance, could make anyone win.",
+    "virality_score": 73,
+    "curiosity_gap_score": 80,
+    "darkness_score": 58,
+    "educational_value": 52,
+    "estimated_short_retention": 79,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "fake supplements",
+      "champion breath",
+      "scam business",
+      "sports memorabilia",
+      "pseudoscience"
+    ],
+    "overlap_check_hash": "b7b9b9d6292783ae",
+    "why_this_can_go_viral": "Absurdity drives shares; people love laughing at the dumb things others buy."
+  },
+  {
+    "unique_id": "sports_0038_015_d9e90d2f6600cd3e",
+    "title": "The Referee Who Fixed Tennis by Replacing the Net With an Invisible Wire",
+    "hook": "The wire was waist-high; players kept hitting serves into it, and no one could see why.",
+    "virality_score": 75,
+    "curiosity_gap_score": 82,
+    "darkness_score": 66,
+    "educational_value": 60,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "tennis fix",
+      "invisible wire",
+      "net sabotage",
+      "referee cheat",
+      "sports fraud"
+    ],
+    "overlap_check_hash": "d9e90d2f6600cd3e",
+    "why_this_can_go_viral": "The idea of an invisible obstacle is perfectly visual and creates immediate 'how did they get away with that?' reactions."
+  },
+  {
+    "unique_id": "sports_0038_017_ecf922b5f834db6c",
+    "title": "The Mafia That Used Ice Cream Trucks to Signal Fixed Races",
+    "hook": "The song playing from the truck told bettors which horse to back — the jockeys could hear it from the track.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 71,
+    "educational_value": 64,
+    "estimated_short_retention": 89,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "ice cream code",
+      "horse race fix",
+      "mafia signals",
+      "hidden messages",
+      "betting scam"
+    ],
+    "overlap_check_hash": "ecf922b5f834db6c",
+    "why_this_can_go_viral": "Nostalgia plus crime; the innocent ice cream truck as a tool of corruption is a dark twist."
+  },
+  {
+    "unique_id": "sports_0038_018_51927892abab9f0d",
+    "title": "The Doctor Who Gave Football Players Injections of Adrenaline Directly Into Their Hearts",
+    "hook": "He said it would give them 'superhuman bursts' — it actually caused three of them to collapse on the field.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 97,
+    "educational_value": 75,
+    "estimated_short_retention": 94,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "heart injection",
+      "adrenaline doping",
+      "football collapse",
+      "dangerous doping",
+      "field emergency"
+    ],
+    "overlap_check_hash": "51927892abab9f0d",
+    "why_this_can_go_viral": "The visceral image of a needle to the heart is instantly shareable and terrifying."
+  },
+  {
+    "unique_id": "sports_0038_019_27743b6503341348",
+    "title": "The Coach Who Made Basketball Players Train in a Freezer to 'Harden Their Mental Game'",
+    "hook": "He locked them in a meat locker for hours — one player lost two toes to frostbite.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 91,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "basketball abuse",
+      "freezer training",
+      "frostbite injury",
+      "extreme coaching",
+      "player endangerment"
+    ],
+    "overlap_check_hash": "27743b6503341348",
+    "why_this_can_go_viral": "Extreme cold horror combined with sports; the loss of toes is a shocking detail that sticks."
+  },
+  {
+    "unique_id": "sports_0038_020_f7101dbfedb92c6e",
+    "title": "The Lab That Tried to Make Soccer Players 'Unstoppable' by Removing Their Achilles Tendons",
+    "hook": "They replaced the tendons with synthetic cables — and the first player's leg snapped during warm-up.",
+    "virality_score": 88,
+    "curiosity_gap_score": 95,
+    "darkness_score": 96,
+    "educational_value": 77,
+    "estimated_short_retention": 96,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "Achilles removal",
+      "synthetic tendons",
+      "soccer experiment",
+      "leg snap",
+      "body modification sport"
+    ],
+    "overlap_check_hash": "f7101dbfedb92c6e",
+    "why_this_can_go_viral": "The gut-wrenching image of a leg snapping is unforgettable and drives morbid curiosity."
+  },
+  {
+    "unique_id": "sports_0038_021_0058656d2b57b454",
+    "title": "The Businessman Who Sold 'Referee's Tears' as a Cure for Bad Calls",
+    "hook": "He claimed that crying referees produced tears with 'justice energy' that could reverse a loss.",
+    "virality_score": 71,
+    "curiosity_gap_score": 77,
+    "darkness_score": 54,
+    "educational_value": 48,
+    "estimated_short_retention": 76,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "fake cure",
+      "referee tears",
+      "sports scam",
+      "superstition business",
+      "snake oil"
+    ],
+    "overlap_check_hash": "0058656d2b57b454",
+    "why_this_can_go_viral": "Pure absurdity; the idea of bottling tears for justice is darkly funny and shareable."
+  },
+  {
+    "unique_id": "sports_0038_022_b7d88f5dc0fdc88e",
+    "title": "The Mafia That Fixed Cricket by Glowing the Ball With Phosphorus",
+    "hook": "At night, the ball glowed just enough for the fielders to lose sight of it — but the fixers knew exactly where it was.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 74,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "cricket fix",
+      "glowing ball",
+      "phosphorus cheat",
+      "night match scandal",
+      "hidden advantage"
+    ],
+    "overlap_check_hash": "b7d88f5dc0fdc88e",
+    "why_this_can_go_viral": "The visual of a glowing cricket ball is eerie and instantly memorable."
+  },
+  {
+    "unique_id": "sports_0038_025_513a85fac954a59e",
+    "title": "The Mafia That Fixed Olympic Weightlifting by Putting LSD in the Water Cooler",
+    "hook": "The entire Soviet weightlifting team tripped during their event — and still somehow won bronze.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 98,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "LSD doping",
+      "Olympic sabotage",
+      "weightlifting trip",
+      "Soviet scandal",
+      "acid in water"
+    ],
+    "overlap_check_hash": "513a85fac954a59e",
+    "why_this_can_go_viral": "The bizarre combination of Olympic weightlifting and psychedelics is inherently hilarious and shocking."
+  }
+]

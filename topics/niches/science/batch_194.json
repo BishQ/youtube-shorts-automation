@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "science_0194_001_476dd66bd7f36252",
+    "title": "The Lab That Made a Chemical That Cries When It Burns",
+    "hook": "A colorless liquid that emits a human-like wail when ignited—scientists still don't know why.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "weeping chemical",
+      "acoustic reaction",
+      "lab anomaly",
+      "unknown phenomena",
+      "burning liquid cry"
+    ],
+    "overlap_check_hash": "476dd66bd7f36252",
+    "why_this_can_go_viral": "The eerie sound and mystery trigger primal fear and curiosity about unknown chemical properties."
+  },
+  {
+    "unique_id": "science_0194_002_8c2b3a04e11ebfad",
+    "title": "The Physicist Who Trapped a Particle in a Loop That Never Ends",
+    "hook": "A quantum loop that traps a particle in an infinite cycle—breaking causality itself.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 65,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "infinite loop",
+      "quantum time",
+      "causality violation",
+      "particle trap",
+      "paradox physics"
+    ],
+    "overlap_check_hash": "8c2b3a04e11ebfad",
+    "why_this_can_go_viral": "The concept of breaking time and reality is deeply unsettling and highly shareable."
+  },
+  {
+    "unique_id": "science_0194_004_63b0988e33900991",
+    "title": "The Forbidden Experiment Where Scientists Deleted a Rat's Entire Memory",
+    "hook": "They wiped every single memory from a rat's brain—and it forgot how to be alive.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "memory wipe",
+      "rat brain",
+      "neuroscience dark",
+      "forgotten self",
+      "identity loss"
+    ],
+    "overlap_check_hash": "63b0988e33900991",
+    "why_this_can_go_viral": "The horror of losing your identity and basic instincts is universally terrifying."
+  },
+  {
+    "unique_id": "science_0194_005_a95fde1277148000",
+    "title": "The Scientific Fraud Who Faked a 'Telepathy Machine' Using Static Noise",
+    "hook": "He convinced the world he could read minds—until a technician noticed the radio hum.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 68,
+    "educational_value": 70,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "telepathy hoax",
+      "static trick",
+      "mind reading fake",
+      "radio deception",
+      "fraud exposure"
+    ],
+    "overlap_check_hash": "a95fde1277148000",
+    "why_this_can_go_viral": "The reveal of a simple trick behind a grand claim sparks outrage and fascination."
+  },
+  {
+    "unique_id": "science_0194_007_92309dd9b6776294",
+    "title": "The Lab Catastrophe Where a Chemical Warp Made Scientists Age in Hours",
+    "hook": "A miscalculated synthesis—and the team's skin wrinkled, hair grayed, and bones weakened within a day.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 95,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "rapid aging",
+      "chemical accident",
+      "premature senescence",
+      "lab disaster",
+      "time warp chemical"
+    ],
+    "overlap_check_hash": "92309dd9b6776294",
+    "why_this_can_go_viral": "The horror of accelerated aging is visually shocking and raises questions about chemical unknowns."
+  },
+  {
+    "unique_id": "science_0194_008_340ff36bdc51bb52",
+    "title": "The Physicist Who Made a 'Quantum Mirror' That Reflects Nothing",
+    "hook": "A mirror that reflects no light, no image, no self—just absolute void staring back at you.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 75,
+    "educational_value": 76,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "quantum mirror",
+      "void reflection",
+      "light absorption",
+      "perfect black",
+      "physics anomaly"
+    ],
+    "overlap_check_hash": "340ff36bdc51bb52",
+    "why_this_can_go_viral": "The uncanny valley of seeing nothing where a reflection should be creates deep unease."
+  },
+  {
+    "unique_id": "science_0194_009_82e6c4ca220ba866",
+    "title": "The Biolab That Grew a Brain That Felt Pain—and Screamed",
+    "hook": "A lab-grown brain developed pain receptors and emitted electrical scream patterns—they kept it alive for weeks.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "lab brain pain",
+      "organoid screaming",
+      "consciousness horror",
+      "ethical nightmare",
+      "brain suffering"
+    ],
+    "overlap_check_hash": "82e6c4ca220ba866",
+    "why_this_can_go_viral": "Combining AI-like consciousness with physical suffering triggers moral panic and curiosity."
+  },
+  {
+    "unique_id": "science_0194_010_4b2986b663cfcf82",
+    "title": "The Scientific Fraud Who Faked a Quantum Computer That Solved Time Travel",
+    "hook": "He claimed his quantum machine sent data 1 second into the past—the lie lasted until someone checked the wiring.",
+    "virality_score": 77,
+    "curiosity_gap_score": 84,
+    "darkness_score": 65,
+    "educational_value": 72,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "time travel hoax",
+      "quantum fake",
+      "data forgery",
+      "temporal lie",
+      "scientific scam"
+    ],
+    "overlap_check_hash": "4b2986b663cfcf82",
+    "why_this_can_go_viral": "Time travel claims always attract attention, and the exposure of the trick is satisfying."
+  },
+  {
+    "unique_id": "science_0194_011_dbc7e67f39a88ebf",
+    "title": "The Chemist Who Made a Polymer That Continues to Grow After You Die",
+    "hook": "A synthetic material that keeps expanding on your skin—even after your heart stops.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 73,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "post-mortem polymer",
+      "growing material",
+      "death reaction",
+      "self-replicating plastic",
+      "horror compound"
+    ],
+    "overlap_check_hash": "dbc7e67f39a88ebf",
+    "why_this_can_go_viral": "The idea of something growing on a corpse is macabre and visually intriguing."
+  },
+  {
+    "unique_id": "science_0194_012_38eb416d07b44738",
+    "title": "The Forbidden Experiment Where They Kept a Human in a Sensory Deprivation Box for a Month",
+    "hook": "After 30 days of total silence and darkness, the subject forgot how to speak—and saw faces in the void.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "sensory deprivation",
+      "madness experiment",
+      "human isolation",
+      "void hallucination",
+      "psychology dark"
+    ],
+    "overlap_check_hash": "38eb416d07b44738",
+    "why_this_can_go_viral": "The slow unravelling of a human mind in isolation is deeply compelling and frightening."
+  },
+  {
+    "unique_id": "science_0194_015_2733332cf99b7906",
+    "title": "The Neuroscientist Who Discovered That Your Brain Can 'Hack' Its Own Reward System",
+    "hook": "By stimulating a single region, he made mice (and humans) feel infinite pleasure—until it destroyed their will to live.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "pleasure circuit",
+      "reward hack",
+      "brain stimulation",
+      "addiction nightmare",
+      "happiness trap"
+    ],
+    "overlap_check_hash": "2733332cf99b7906",
+    "why_this_can_go_viral": "The dark side of too much pleasure is a counterintuitive and shocking truth."
+  },
+  {
+    "unique_id": "science_0194_016_5bf5dbce84a00626",
+    "title": "The Chemistry Disaster Where a Beaker Exploded and Created a 'Negative Temperature' Cloud",
+    "hook": "A lab explosion created a cloud colder than absolute zero—it absorbed heat instead of releasing it.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 79,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "negative kelvin",
+      "absolute zero violation",
+      "cold explosion",
+      "thermodynamic anomaly",
+      "impossible temperature"
+    ],
+    "overlap_check_hash": "5bf5dbce84a00626",
+    "why_this_can_go_viral": "Breaking the laws of thermodynamics is mind-bending and feels like science fiction."
+  },
+  {
+    "unique_id": "science_0194_017_797313b1f6db61eb",
+    "title": "The Scientific Fraud Who Faked a 'New State of Matter' Using Liquid and Magnets",
+    "hook": "He claimed to have discovered a solid that flows like water—until a grad student saw the magnets hidden in the beaker.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 64,
+    "educational_value": 71,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "matter hoax",
+      "magnetic trick",
+      "fake discovery",
+      "solid liquid fraud",
+      "exposed scam"
+    ],
+    "overlap_check_hash": "797313b1f6db61eb",
+    "why_this_can_go_viral": "The cleverness of the trick and the dramatic unmasking make for a satisfying story."
+  },
+  {
+    "unique_id": "science_0194_019_d39c254dd29d722e",
+    "title": "The Biolab That Created a Virus That Only Infects People Who Have Read a Specific Book",
+    "hook": "A bioweapon engineered to target memory—only those who remember a certain text get sick.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 72,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "memory virus",
+      "cognitive bioweapon",
+      "book trigger",
+      "targeted infection",
+      "forgotten weapon"
+    ],
+    "overlap_check_hash": "d39c254dd29d722e",
+    "why_this_can_go_viral": "The idea of a virus that hunts thoughts is terrifying and feels like a Black Mirror episode."
+  },
+  {
+    "unique_id": "science_0194_020_40401f4ec2ebc91f",
+    "title": "The Physicist Who Made a 'Gravity Well' That Bent Light Into a Circle",
+    "hook": "A tabletop device that trapped photons in a looping orbit—creating a tiny, artificial black hole.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 68,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "artificial black hole",
+      "gravity well",
+      "light loop",
+      "photon trap",
+      "lab gravity"
+    ],
+    "overlap_check_hash": "40401f4ec2ebc91f",
+    "why_this_can_go_viral": "Mini black holes in a lab sound impossible and ignite the imagination."
+  },
+  {
+    "unique_id": "science_0194_021_0dd553562ae5d23d",
+    "title": "The Forbidden Experiment Where They Gave Humans a 'Fear Gene' From Spiders",
+    "hook": "Scientists spliced spider DNA into human cells—and the subjects developed an irrational terror of... nothing.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 87,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "fear gene",
+      "transgenic humans",
+      "spider dna",
+      "inherited terror",
+      "genetic horror"
+    ],
+    "overlap_check_hash": "0dd553562ae5d23d",
+    "why_this_can_go_viral": "The idea of implanting primal fear is grotesque and raises huge ethical questions."
+  },
+  {
+    "unique_id": "science_0194_022_225b727b60a4a9b0",
+    "title": "The Lab Catastrophe Where a Radioactive Sample Melted Through the Floor—and Kept Going",
+    "hook": "A lump of radioactive material so hot it burned through concrete, then earth, then rock, and never stopped.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 89,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "runaway meltdown",
+      "radioactive burn",
+      "deep earth disaster",
+      "uncontainable heat",
+      "nuclear horror"
+    ],
+    "overlap_check_hash": "225b727b60a4a9b0",
+    "why_this_can_go_viral": "The unstoppable, silent destruction of a lab disaster is visually powerful and terrifying."
+  },
+  {
+    "unique_id": "science_0194_023_f5fc2395f16899ce",
+    "title": "The Neuroscientist Who Found That Your Brain Has a 'Personal Hell' You Can Access",
+    "hook": "A neural pathway that, when activated, makes you relive your worst memory forever—and it's easy to trigger.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 79,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "hell circuit",
+      "trauma loop",
+      "memory hell",
+      "neural torture",
+      "brain nightmare"
+    ],
+    "overlap_check_hash": "f5fc2395f16899ce",
+    "why_this_can_go_viral": "The idea of a built-in personal hell is existential horror that everyone can relate to."
+  },
+  {
+    "unique_id": "science_0194_024_42c0c486f3c2b36a",
+    "title": "The Chemist Who Made a Liquid That Dissolves Bone—But Leaves Skin Intact",
+    "hook": "A clear fluid that reduces a skeleton to slurry without marking a single cell of the flesh.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 94,
+    "educational_value": 74,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "bone solvent",
+      "tissue sparing",
+      "chemical horror",
+      "skeleton dissolver",
+      "forensic nightmare"
+    ],
+    "overlap_check_hash": "42c0c486f3c2b36a",
+    "why_this_can_go_viral": "The grotesque selectivity of the compound is both fascinating and deeply disturbing."
+  },
+  {
+    "unique_id": "science_0194_025_4024e9de19146db4",
+    "title": "The Quantum Paradox Where a Particle Existed in Every Possible State—Until Someone Thought About It",
+    "hook": "A particle that was everywhere at once—until a conscious thought collapsed it into one place.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 73,
+    "educational_value": 81,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "consciousness collapse",
+      "observer thought",
+      "quantum everywhere",
+      "mind over matter",
+      "reality creation"
+    ],
+    "overlap_check_hash": "4024e9de19146db4",
+    "why_this_can_go_viral": "The link between thought and reality is one of the most mind-blowing concepts in science."
+  }
+]

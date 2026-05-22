@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "science_0053_003_83be2028bb0810a0",
+    "title": "The Quantum Physicist Who Trapped a Particle in a Box—and It Disappeared",
+    "hook": "They isolated a single atom in an electromagnetic trap. When they looked again, it had simply ceased to exist. No decay. No trace. Just gone.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum disappearance",
+      "particle annihilation",
+      "quantum trap",
+      "gone without trace",
+      "physics mystery"
+    ],
+    "overlap_check_hash": "83be2028bb0810a0",
+    "why_this_can_go_viral": "Reality-breaking events always hook viewers. A particle that vanishes without explanation challenges our understanding of conservation laws."
+  },
+  {
+    "unique_id": "science_0053_004_d910f7d5075565ce",
+    "title": "The Forbidden Experiment That Starved a Man for 30 Days—and Watched His Brain Collapse",
+    "hook": "During WWII, a group of scientists starved 36 healthy men to study the effects of famine. By day 24, they were hallucinating, eating their own hair, and losing their minds.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "Minnesota starvation experiment",
+      "human starvation",
+      "WWII science",
+      "psychology of hunger",
+      "forbidden ethics"
+    ],
+    "overlap_check_hash": "d910f7d5075565ce",
+    "why_this_can_go_viral": "Extreme human suffering in the name of science creates a dark, gripping narrative that viewers can't look away from."
+  },
+  {
+    "unique_id": "science_0053_005_bf870bd2d0343124",
+    "title": "The Neuroscientist Who Found That Your Brain Has a 'Self-Destruct' Button",
+    "hook": "Deep in the brainstem lies a cluster of cells that, when triggered, force your entire nervous system to shut down. And no one knows why it exists.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain self-destruct",
+      "neuronal suicide",
+      "brainstem death switch",
+      "neuroscience horror",
+      "hidden brain function"
+    ],
+    "overlap_check_hash": "bf870bd2d0343124",
+    "why_this_can_go_viral": "The idea that your brain has a built-in kill switch is profoundly unsettling and sparks existential questions."
+  },
+  {
+    "unique_id": "science_0053_006_7aaba14e5c57f19c",
+    "title": "The Scientist Who Faked Data That Genetically Modified Corn Causes Cancer",
+    "hook": "A single study set off a global panic, burned millions in trade, and got GMOs banned in multiple countries. It was all fabricated.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "GMO cancer fraud",
+      "Séralini affair",
+      "fake science",
+      "retracted study",
+      "agricultural scandal"
+    ],
+    "overlap_check_hash": "7aaba14e5c57f19c",
+    "why_this_can_go_viral": "Fraud that changed global policy taps into the distrust of institutions and 'hidden truths' narrative."
+  },
+  {
+    "unique_id": "science_0053_007_992b77359dd9f680",
+    "title": "The Lab Accident That Turned a Scientist's Lungs into Glass",
+    "hook": "A vapor of silicon tetrachloride leaked in a lab. The scientist inhaled once. His lungs crystallized from the inside out.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 72,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "lungs turned to glass",
+      "silicon tetrachloride",
+      "chemical accident",
+      "lab death",
+      "respiratory horror"
+    ],
+    "overlap_check_hash": "992b77359dd9f680",
+    "why_this_can_go_viral": "Visceral body horror combined with a real chemical mechanism creates a memorable, shareable shock."
+  },
+  {
+    "unique_id": "science_0053_008_e7b82e2c7e34b69b",
+    "title": "The Physicist Who Found That Gravity Can Be Repulsive—and Tear Galaxies Apart",
+    "hook": "For decades, we thought gravity only pulled. New evidence suggests that under certain conditions, it pushes. And it might be why the universe is dying.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 75,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "repulsive gravity",
+      "negative mass",
+      "universe expansion",
+      "dark energy mystery",
+      "physics revolution"
+    ],
+    "overlap_check_hash": "e7b82e2c7e34b69b",
+    "why_this_can_go_viral": "Turning a fundamental law on its head is the kind of 'everything you know is wrong' hook that drives massive shares."
+  },
+  {
+    "unique_id": "science_0053_009_6c5ec35aea23ce4f",
+    "title": "The Forbidden Experiment That Raised Monkeys in Total Isolation—and Broke Them Forever",
+    "hook": "A psychologist raised baby rhesus monkeys in steel chambers with no contact. They developed psychosis, rocking endlessly, and some never recovered.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "Harlow isolation experiment",
+      "monkey isolation",
+      "social deprivation",
+      "cruel science",
+      "primate psychology"
+    ],
+    "overlap_check_hash": "6c5ec35aea23ce4f",
+    "why_this_can_go_viral": "The combination of animal suffering and profound psychological insight creates a deeply emotional, shareable story."
+  },
+  {
+    "unique_id": "science_0053_010_bc7ed1a5256bc155",
+    "title": "The Chemist Who Accidentally Made a Smell That Kills the Sense of Smell",
+    "hook": "While synthesizing a new fragrant compound, a chemist created a molecule so potent that it permanently destroyed the olfactory nerves of everyone in the lab.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 79,
+    "educational_value": 68,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "anosmia accident",
+      "smell destroying chemical",
+      "olfactory damage",
+      "chemistry mishap",
+      "sensory loss"
+    ],
+    "overlap_check_hash": "bc7ed1a5256bc155",
+    "why_this_can_go_viral": "Losing a sense is a primal fear. The specificity and rarity of this accident make it highly shareable."
+  },
+  {
+    "unique_id": "science_0053_011_5993e8c5053aef9f",
+    "title": "The Neuroscientist Who Showed That Your Brain Can Predict the Future—and It's Wrong",
+    "hook": "Your brain runs a constant simulation of what will happen next. But a tiny glitch in this process can make you hallucinate reality milliseconds before it arrives.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 82,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "predictive brain",
+      "time perception glitch",
+      "neural simulation",
+      "reality lag",
+      "brain illusion"
+    ],
+    "overlap_check_hash": "5993e8c5053aef9f",
+    "why_this_can_go_viral": "Revealing that our perception of 'now' is a constructed illusion is mind-bending and highly shareable."
+  },
+  {
+    "unique_id": "science_0053_013_24ec31ab6808031a",
+    "title": "The Lab That Unleashed a Fungus That Turns Ants Into Zombies—and It's Spreading to Humans",
+    "hook": "A parasitic fungus hijacks an ant's brain, climbs a tree, and bursts from its head. Now, scientists have found fragments of it in human tissue.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 94,
+    "educational_value": 72,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "zombie fungus",
+      "cordyceps",
+      "human infection",
+      "parasite horror",
+      "mind control"
+    ],
+    "overlap_check_hash": "24ec31ab6808031a",
+    "why_this_can_go_viral": "Zombie tropes are universally popular. Coupling them with a real, emerging threat creates a viral perfect storm."
+  },
+  {
+    "unique_id": "science_0053_014_18859485b6ec7d69",
+    "title": "The Scientist Who Faked a Study That Eggs Cause Heart Attacks—and Ruined Millions of Lives",
+    "hook": "A single, fraudulent study convinced the world that eggs were deadly. It triggered a global dietary shift, and the real science took 40 years to catch up.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "egg cholesterol fraud",
+      "Ancel Keys",
+      "diet science scandal",
+      "nutrition lies",
+      "medical misinformation"
+    ],
+    "overlap_check_hash": "18859485b6ec7d69",
+    "why_this_can_go_viral": "Everyone eats eggs. Revealing that the warning was a lie creates immediate personal relevance and outrage."
+  },
+  {
+    "unique_id": "science_0053_015_7402dff33a09cbad",
+    "title": "The Physicist Who Found That Time Can Run Backward at the Quantum Level",
+    "hook": "In a lab, a physicist observed a particle that appeared to 'remember' its future. It seemed to travel backward in time for a fraction of a second.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 68,
+    "educational_value": 83,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time reversal",
+      "quantum time travel",
+      "particle memory",
+      "retrocausality",
+      "physics anomaly"
+    ],
+    "overlap_check_hash": "7402dff33a09cbad",
+    "why_this_can_go_viral": "Time travel is a perennial hook. Showing it might be real at the quantum level is a guaranteed attention-grabber."
+  },
+  {
+    "unique_id": "science_0053_017_c8ae26aec8fd5d8d",
+    "title": "The Chemist Who Made a Polymer That Heals Itself—Then Started Eating Itself",
+    "hook": "Self-healing plastics were a miracle. Until one batch developed a feedback loop that caused it to consume its own molecules in a chain reaction that never stops.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "self-eating polymer",
+      "polymer decay",
+      "self-healing plastic",
+      "runaway reaction",
+      "material science horror"
+    ],
+    "overlap_check_hash": "c8ae26aec8fd5d8d",
+    "why_this_can_go_viral": "A material that 'eats' itself is a weird and memorable concept, perfect for curiosity-driven clicks."
+  },
+  {
+    "unique_id": "science_0053_018_5befc08a8b574ee5",
+    "title": "The Neuroscientist Who Found That Your Brain Can Be 'Poisoned' by Constant Happiness",
+    "hook": "Too much dopamine doesn't make you euphoric. It triggers a toxic cascade that kills neurons. Your brain can literally overdose on pleasure.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "dopamine toxicity",
+      "pleasure overdose",
+      "brain poison",
+      "hedonic addiction",
+      "neural damage"
+    ],
+    "overlap_check_hash": "5befc08a8b574ee5",
+    "why_this_can_go_viral": "The counterintuitive idea that happiness can harm you is a dark, shareable twist on a universal subject."
+  },
+  {
+    "unique_id": "science_0053_019_76f384c943b1d2d7",
+    "title": "The Lab Accident That Created a Bacteria That Eats Plastic and Lives in the Ocean",
+    "hook": "A lab mutation produced a bacterium that digests PET plastic. They thought it was a solution. Then it escaped into the ocean and started evolving.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 76,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "plastic eating bacteria",
+      "Ideonella sakaiensis",
+      "mutant microbe",
+      "escaped lab",
+      "environmental horror"
+    ],
+    "overlap_check_hash": "76f384c943b1d2d7",
+    "why_this_can_go_viral": "A man-made organism that escapes and evolves is a classic sci-fi horror trope that feels terrifyingly plausible."
+  },
+  {
+    "unique_id": "science_0053_021_7cb75162961ab9ab",
+    "title": "The Scientific Fraud Who Faked a Study That Humans Only Use 10% of Their Brains",
+    "hook": "The most persistent myth in neuroscience was invented by a charlatan to sell self-help books. It has no basis in science—but it's still taught in schools.",
+    "virality_score": 82,
+    "curiosity_gap_score": 84,
+    "darkness_score": 72,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "10% brain myth",
+      "neuroscience lie",
+      "brain usage fraud",
+      "myth debunked",
+      "self-help scam"
+    ],
+    "overlap_check_hash": "7cb75162961ab9ab",
+    "why_this_can_go_viral": "Debunking a widely believed myth with a fraud origin story creates a satisfying 'aha' moment and drives shares."
+  },
+  {
+    "unique_id": "science_0053_022_deb2c1b64147edd6",
+    "title": "The Chemist Who Made a Gas That Freezes the Air Around It",
+    "hook": "A synthetic compound absorbs heat so aggressively that it flash-freezes water vapor out of the air, creating a halo of ice crystals.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 68,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "cryogenic gas",
+      "freezing air",
+      "supercooling compound",
+      "chemical ice",
+      "exothermic reaction"
+    ],
+    "overlap_check_hash": "deb2c1b64147edd6",
+    "why_this_can_go_viral": "Visually stunning and conceptually simple—a gas that makes the air freeze is instantly shareable as a 'weird science' clip."
+  },
+  {
+    "unique_id": "science_0053_023_7e29d7668705aaae",
+    "title": "The Forbidden Experiment That Tried to Teach a Chimp to Speak—and It Almost Worked",
+    "hook": "A chimp named Nim was raised as a human, taught sign language, and showed signs of real conversation. Then the experiment ended. And Nim broke.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "Nim Chimpsky",
+      "chimp sign language",
+      "ape language experiment",
+      "animal cognition",
+      "cruel psychology"
+    ],
+    "overlap_check_hash": "7e29d7668705aaae",
+    "why_this_can_go_viral": "The tragic story of a chimp caught between two worlds hits both intellectual curiosity and deep emotional resonance."
+  },
+  {
+    "unique_id": "science_0053_024_071a8a1d3ac0b634",
+    "title": "The Neuroscientist Who Found That Your Brain Can Be 'Rebooted' by a Single Magnetic Pulse",
+    "hook": "Transcranial magnetic stimulation can temporarily shut down parts of your brain—or jumpstart them. One pulse can change your personality for minutes.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 76,
+    "educational_value": 82,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "TMS brain control",
+      "magnetic brain reboot",
+      "personality switch",
+      "brain hacking",
+      "neural manipulation"
+    ],
+    "overlap_check_hash": "071a8a1d3ac0b634",
+    "why_this_can_go_viral": "The idea that your sense of self can be altered by a magnet is deeply unsettling and sparks conversation about free will."
+  },
+  {
+    "unique_id": "science_0053_025_f928d9a8f39b83fc",
+    "title": "The Quantum Physicist Who Showed That Two Particles Can Communicate Faster Than Light",
+    "hook": "Einstein called it 'spooky action at a distance.' But experiments proved that entangled particles can affect each other instantly—across any distance.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 68,
+    "educational_value": 86,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum entanglement",
+      "faster than light",
+      "spooky action",
+      "Einstein's mistake",
+      "nonlocality"
+    ],
+    "overlap_check_hash": "f928d9a8f39b83fc",
+    "why_this_can_go_viral": "Faster-than-light communication is a sci-fi dream. Proving it's real at the quantum level is a guaranteed viral sensation."
+  }
+]

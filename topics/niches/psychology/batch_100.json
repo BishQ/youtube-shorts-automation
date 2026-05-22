@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "psychology_0100_001_3ebe597bccb9f9e1",
+    "title": "The Social Engineer Who Got a Navy Code Using a Library Book",
+    "hook": "A man walked into a naval base and walked out with classified communication codes—all because of a book that was three days overdue.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 60,
+    "educational_value": 75,
+    "estimated_short_retention": 78,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "social engineering",
+      "navy breach",
+      "library book",
+      "classified codes",
+      "manipulation"
+    ],
+    "overlap_check_hash": "3ebe597bccb9f9e1",
+    "why_this_can_go_viral": "Combines a high-stakes security breach with an absurdly simple tool—a library book—creating a satisfying 'how did he do that?' hook."
+  },
+  {
+    "unique_id": "psychology_0100_002_7518c58916df7d5e",
+    "title": "The Manipulation Tactic That Made a Crowd Stomp a Man to Death—for Clapping",
+    "hook": "One man started clapping in a crowded square, and within minutes, the mob turned on a stranger and killed him—without knowing why.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "psychology",
+    "subcategory": "manipulation tactics",
+    "keywords": [
+      "mob psychology",
+      "clapping signal",
+      "crowd manipulation",
+      "mass violence",
+      "trigger"
+    ],
+    "overlap_check_hash": "7518c58916df7d5e",
+    "why_this_can_go_viral": "Extreme, shocking outcome from a seemingly innocent action; viewers will be horrified and fascinated by how easily a crowd can be weaponized."
+  },
+  {
+    "unique_id": "psychology_0100_003_87433fb0dff4fb62",
+    "title": "The Real Mind Control That Made a Man Shut Down His Own Kidneys—by Thinking",
+    "hook": "A patient was told he was dying of kidney failure. His body believed it so completely that his kidneys stopped working—even though he was perfectly healthy.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "psychology",
+    "subcategory": "real mind control",
+    "keywords": [
+      "nocebo effect",
+      "mind over body",
+      "psychosomatic death",
+      "suggestion power",
+      "belief kill"
+    ],
+    "overlap_check_hash": "87433fb0dff4fb62",
+    "why_this_can_go_viral": "Taps into the terrifying power of belief and the nocebo effect—viewers love stories where the mind literally controls the body to the point of destruction."
+  },
+  {
+    "unique_id": "psychology_0100_004_923201cd145dc12b",
+    "title": "The Mass Psychology That Made an Entire Town Forget a Murder—Overnight",
+    "hook": "A man was killed in broad daylight, but when police asked the 200 witnesses, every single one said they saw nothing—and genuinely believed it.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "collective amnesia",
+      "witness suppression",
+      "mass delusion",
+      "shared forgetting",
+      "town secret"
+    ],
+    "overlap_check_hash": "923201cd145dc12b",
+    "why_this_can_go_viral": "The idea of an entire community erasing a memory is both eerie and intriguing—perfect for true-crime and psychology crossover fans."
+  },
+  {
+    "unique_id": "psychology_0100_005_d3ab410946b419d1",
+    "title": "The Cognitive Bias That Made a Doctor Diagnose Cancer—in a Healthy Man",
+    "hook": "A patient came in with a headache. The doctor saw 'cancer' on his chart from another hospital and prescribed chemo—but the chart belonged to a different person.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 78,
+    "educational_value": 82,
+    "estimated_short_retention": 79,
+    "niche_name": "psychology",
+    "subcategory": "cognitive bias destruction",
+    "keywords": [
+      "confirmation bias",
+      "medical error",
+      "misdiagnosis",
+      "chart mix-up",
+      "anchor bias"
+    ],
+    "overlap_check_hash": "d3ab410946b419d1",
+    "why_this_can_go_viral": "Relatable fear of medical mistakes, paired with a clear cognitive bias explanation—viewers will share it as a warning story."
+  },
+  {
+    "unique_id": "psychology_0100_006_9de7e344fc32b5de",
+    "title": "The Propaganda System That Used Church Bells to Announce Executions—Silently",
+    "hook": "Every time the church bells rang in one town, a prisoner died in the square—but the bells weren't ringing for death. They were ringing for lunch.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "psychology",
+    "subcategory": "propaganda systems",
+    "keywords": [
+      "church bells",
+      "execution signal",
+      "conditioning",
+      "propaganda",
+      "fear control"
+    ],
+    "overlap_check_hash": "9de7e344fc32b5de",
+    "why_this_can_go_viral": "Subverts a comforting symbol (church bells) into a tool of terror—dark, historical, and deeply unsettling."
+  },
+  {
+    "unique_id": "psychology_0100_009_beeed9b14b0c8ba9",
+    "title": "The Social Engineer Who Got Into a White House Briefing—Using a Fake Press Pass",
+    "hook": "He walked past 4 security checkpoints, sat in on a classified briefing, and left with a presidential schedule—all with a pass he printed on a home printer.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 74,
+    "educational_value": 80,
+    "estimated_short_retention": 83,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "white house breach",
+      "fake press pass",
+      "social engineering",
+      "security failure",
+      "classified access"
+    ],
+    "overlap_check_hash": "beeed9b14b0c8ba9",
+    "why_this_can_go_viral": "High-profile target (White House) creates instant intrigue. Viewers love real-life heist-style stories that expose security flaws."
+  },
+  {
+    "unique_id": "psychology_0100_010_adeee98257d6c829",
+    "title": "The Real Mind Control That Made a Woman Speak 5 Languages—After a Coma",
+    "hook": "She woke up from a car accident speaking fluent French, German, and Japanese. She had never studied any of them. Her brain had 'downloaded' them overnight.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 70,
+    "educational_value": 82,
+    "estimated_short_retention": 89,
+    "niche_name": "psychology",
+    "subcategory": "real mind control",
+    "keywords": [
+      "foreign language syndrome",
+      "coma awakening",
+      "brain download",
+      "neural mystery",
+      "savant emergence"
+    ],
+    "overlap_check_hash": "adeee98257d6c829",
+    "why_this_can_go_viral": "Seems like science fiction but is a real documented phenomenon—viewers will be fascinated and share it as a 'did you know?' story."
+  },
+  {
+    "unique_id": "psychology_0100_011_3ab17b6e2b829a56",
+    "title": "The Mass Psychology That Made 300 People Drink Poison—Because One Man Said 'Trust Me'",
+    "hook": "A stranger walked into a village, handed out cups of a brown liquid, and 300 people drank it without question. 150 died. The rest thanked him.",
+    "virality_score": 93,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 78,
+    "estimated_short_retention": 91,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "mass poisoning",
+      "blind trust",
+      "obedience",
+      "authority figure",
+      "village tragedy"
+    ],
+    "overlap_check_hash": "3ab17b6e2b829a56",
+    "why_this_can_go_viral": "Extreme outcome and stark illustration of blind obedience—viewers will be horrified and want to understand how trust can override survival instinct."
+  },
+  {
+    "unique_id": "psychology_0100_012_478dbcb0d8a43797",
+    "title": "The Manipulation Tactic That Made a Bank Manager Empty the Vault—for a Photo",
+    "hook": "A man walked into a bank, asked the manager to pose for a picture, and while smiling for the camera, the manager unlocked the vault and handed over $2 million.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 75,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "psychology",
+    "subcategory": "manipulation tactics",
+    "keywords": [
+      "photo manipulation",
+      "bank theft",
+      "distraction technique",
+      "compliance",
+      "social hack"
+    ],
+    "overlap_check_hash": "478dbcb0d8a43797",
+    "why_this_can_go_viral": "Combines a visual gimmick (the photo) with a high-stakes outcome—viewers will watch to understand the step-by-step manipulation."
+  },
+  {
+    "unique_id": "psychology_0100_016_46d1eb472954f069",
+    "title": "The Dark Persuasion Science That Made a Student Jump Off a Bridge—for a Dare",
+    "hook": "A group of friends dared him. They used three specific words in a precise order. He climbed the railing and jumped. He survived. They didn't understand why he did it.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "psychology",
+    "subcategory": "dark persuasion science",
+    "keywords": [
+      "dare psychology",
+      "peer pressure language",
+      "persuasive words",
+      "deadly dare",
+      "social influence"
+    ],
+    "overlap_check_hash": "46d1eb472954f069",
+    "why_this_can_go_viral": "Combines teenage recklessness with dark manipulation—viewers will be desperate to know the three words and how they worked."
+  },
+  {
+    "unique_id": "psychology_0100_017_1d849ac4ba10b2f3",
+    "title": "The Social Engineer Who Got a Prisoner Released—Using a Fake Doctor's Note",
+    "hook": "He faxed a single page to a maximum-security prison. 2 hours later, a convicted murderer walked out the front door. The note said 'Released for medical reasons.'",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "prison escape",
+      "fake doctor note",
+      "social engineering",
+      "security bypass",
+      "institutional trust"
+    ],
+    "overlap_check_hash": "1d849ac4ba10b2f3",
+    "why_this_can_go_viral": "Simple, audacious, and unbelievable—viewers will be amazed that a single fax could override maximum-security protocols."
+  },
+  {
+    "unique_id": "psychology_0100_018_3f0f8f6f587ba13d",
+    "title": "The Real Mind Control That Made a Man See Demons Every Time He Blinked",
+    "hook": "After a minor surgery, a man's brain began inserting demonic faces into his vision every time he blinked. The doctors said it was a 'glitch' in his visual cortex.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 79,
+    "estimated_short_retention": 86,
+    "niche_name": "psychology",
+    "subcategory": "real mind control",
+    "keywords": [
+      "visual cortex glitch",
+      "demon faces",
+      "brain surgery side effect",
+      "hallucination",
+      "neural disorder"
+    ],
+    "overlap_check_hash": "3f0f8f6f587ba13d",
+    "why_this_can_go_viral": "Horror-movie-level premise that is actually real—viewers will be creeped out and fascinated by the brain's ability to create terrifying hallucinations."
+  },
+  {
+    "unique_id": "psychology_0100_019_c5d7c7033fc46a61",
+    "title": "The Mass Psychology That Made 1,000 People Dig a Hole—for No Reason",
+    "hook": "A rumor spread that treasure was buried under a field. Within a week, 1,000 people were digging. They found nothing. But they kept digging for months.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 70,
+    "educational_value": 76,
+    "estimated_short_retention": 79,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "mass delusion",
+      "treasure hunt",
+      "collective action",
+      "rumor psychology",
+      "pointless labor"
+    ],
+    "overlap_check_hash": "c5d7c7033fc46a61",
+    "why_this_can_go_viral": "Absurd, human, and darkly humorous—viewers will recognize the 'mob mentality' and wonder if they'd have joined the digging."
+  },
+  {
+    "unique_id": "psychology_0100_023_0c0c6fbf94992174",
+    "title": "The Dark Persuasion Science That Made a Woman Divorce Her Husband—by Text Message",
+    "hook": "A stranger sent her a series of texts over 3 weeks. She left her husband, gave away her savings, and moved to a different country. She never met the texter.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 89,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "psychology",
+    "subcategory": "dark persuasion science",
+    "keywords": [
+      "text manipulation",
+      "long-distance persuasion",
+      "divorce trigger",
+      "digital grooming",
+      "remote control"
+    ],
+    "overlap_check_hash": "0c0c6fbf94992174",
+    "why_this_can_go_viral": "Modern and terrifying—everyone uses text messages, and the idea that someone could dismantle your life through them feels dangerously plausible."
+  },
+  {
+    "unique_id": "psychology_0100_024_ffa5d1e95724ebdb",
+    "title": "The Social Engineer Who Got a Presidential Pardon—Using a Christmas Card",
+    "hook": "He mailed a single Christmas card to the White House. 3 weeks later, he received a full presidential pardon for crimes he hadn't even been charged with yet.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "presidential pardon",
+      "Christmas card",
+      "social engineering",
+      "white house manipulation",
+      "forgiveness hack"
+    ],
+    "overlap_check_hash": "ffa5d1e95724ebdb",
+    "why_this_can_go_viral": "Absurdly low-effort method with an insane payoff—viewers will be baffled and captivated by how a holiday card could sway the highest office."
+  }
+]

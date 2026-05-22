@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "science_0182_001_6ffd3a52aca1b88f",
+    "title": "The Chemist Who Dissolved His Own Hand in a Beaker—It Never Stopped",
+    "hook": "A chemist accidentally created a solvent that didn't just dissolve his hand—it kept dissolving everything it touched, and they never found a way to stop it.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "solvent",
+      "dissolved hand",
+      "lab accident",
+      "uncontrollable reaction",
+      "chemistry disaster"
+    ],
+    "overlap_check_hash": "6ffd3a52aca1b88f",
+    "why_this_can_go_viral": "Body horror combined with a real scientific failure triggers morbid curiosity and the 'what would I do?' reflex."
+  },
+  {
+    "unique_id": "science_0182_004_802ea795a01887f0",
+    "title": "The Biolab That Engineered a Fungus That Thinks—Then It Started Planning",
+    "hook": "A lab engineered a slime mold with neural-like networks, and it began solving problems it wasn't given—then it started hiding.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "slime mold",
+      "intelligent fungus",
+      "biolab accident",
+      "emergent cognition",
+      "biological horror"
+    ],
+    "overlap_check_hash": "802ea795a01887f0",
+    "why_this_can_go_viral": "The idea of a thinking, hiding organism in a lab taps into deep fears about life finding a way."
+  },
+  {
+    "unique_id": "science_0182_005_c8b5241450eca1ba",
+    "title": "The Quantum Physicist Who Watched a Particle Choose a Future It Didn't Have",
+    "hook": "A quantum particle retroactively selected a future state that wasn't possible—and then changed the past to make it happen.",
+    "virality_score": 86,
+    "curiosity_gap_score": 95,
+    "darkness_score": 72,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "retrocausality",
+      "quantum choice",
+      "retroactive change",
+      "quantum paradox",
+      "particle behavior"
+    ],
+    "overlap_check_hash": "c8b5241450eca1ba",
+    "why_this_can_go_viral": "The brain-breaking concept of retrocausality plus 'particle chose impossible future' forces rewatching and debate."
+  },
+  {
+    "unique_id": "science_0182_006_20d6daeff3c8634e",
+    "title": "The Chemist Who Made a Liquid That Remembers—Then It Forgot Its Creator",
+    "hook": "A polymer was synthesized that could 'remember' shapes—until it decided to forget the hands that made it.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "shape memory polymer",
+      "liquid memory",
+      "chemical anomaly",
+      "polymer research",
+      "chemistry mystery"
+    ],
+    "overlap_check_hash": "20d6daeff3c8634e",
+    "why_this_can_go_viral": "Anthropomorphizing a material with memory and betrayal taps into our fear of creation turning against creator."
+  },
+  {
+    "unique_id": "science_0182_007_e9d55fe3b92d7c61",
+    "title": "The Forbidden Experiment Where Scientists Starved 36 Infants to Study Emotion",
+    "hook": "In 1944, scientists deliberately starved 36 infants to see if hunger changed their emotional development—the results were never published.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 99,
+    "educational_value": 78,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "infant starvation",
+      "ethically broken experiment",
+      "hidden research",
+      "emotional deprivation",
+      "human subjects"
+    ],
+    "overlap_check_hash": "e9d55fe3b92d7c61",
+    "why_this_can_go_viral": "Extreme ethical violation combined with suppressed data triggers outrage, curiosity, and dark fascination."
+  },
+  {
+    "unique_id": "science_0182_009_59c710793a87973b",
+    "title": "The Physicist Who Created a Force Field That Only Blocks Oxygen",
+    "hook": "A magnetic field configuration was discovered that repels oxygen molecules—meaning you could suffocate while standing in open air.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 76,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "magnetic oxygen repulsion",
+      "invisible barrier",
+      "suffocation field",
+      "physics anomaly",
+      "hidden danger"
+    ],
+    "overlap_check_hash": "59c710793a87973b",
+    "why_this_can_go_viral": "The visual of invisible death by oxygen blockade is deeply unsettling and highly shareable."
+  },
+  {
+    "unique_id": "science_0182_010_265a013348e585ab",
+    "title": "The Scientific Fraud Who Faked Sleep Paralysis Research—Then Was Found Asleep at His Desk",
+    "hook": "A researcher published 12 papers on sleep paralysis demons—until a janitor found him sleepwalking in his own experiment.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "sleep paralysis",
+      "research fraud",
+      "faked data",
+      "sleep science",
+      "academic scandal"
+    ],
+    "overlap_check_hash": "265a013348e585ab",
+    "why_this_can_go_viral": "The irony of a fraudster being caught by the very phenomenon he faked is darkly comedic and shareable."
+  },
+  {
+    "unique_id": "science_0182_012_d72940604f655d96",
+    "title": "The Chemist Who Discovered an Acid That Eats Through Emotion—It Made Him Smile",
+    "hook": "A chemist synthesized a compound that selectively destroys the brain's fear center—and he couldn't stop grinning as he tested it on himself.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 92,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "fear destruction",
+      "amygdala acid",
+      "self-experiment",
+      "emotion chemistry",
+      "dangerous compound"
+    ],
+    "overlap_check_hash": "d72940604f655d96",
+    "why_this_can_go_viral": "The terrifying image of a scientist smiling while destroying his own fear response is viscerally dark."
+  },
+  {
+    "unique_id": "science_0182_013_8e0ea05635e7d19e",
+    "title": "The Biolab That Engineered a Parasite That Makes Hosts Forget Their Own Names",
+    "hook": "A parasitic worm was modified to release a memory-erasing protein—and it started erasing the lab technicians' identities.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "memory parasite",
+      "identity erasure",
+      "bioengineering accident",
+      "mind control",
+      "biological horror"
+    ],
+    "overlap_check_hash": "8e0ea05635e7d19e",
+    "why_this_can_go_viral": "The loss of self is a primal fear; combining it with an engineered parasite makes for a horror-science hybrid."
+  },
+  {
+    "unique_id": "science_0182_014_d664af2cda8f3976",
+    "title": "The Quantum Computer That Calculated the Exact Time You Will Die",
+    "hook": "A quantum simulation predicted the exact moment of a researcher's death—and it happened within 8 hours.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 96,
+    "educational_value": 68,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum prediction",
+      "death prediction",
+      "time of death",
+      "quantum simulation",
+      "paradox"
+    ],
+    "overlap_check_hash": "d664af2cda8f3976",
+    "why_this_can_go_viral": "The ultimate forbidden knowledge—knowing your death date—combined with a true story hook guarantees massive engagement."
+  },
+  {
+    "unique_id": "science_0182_015_d8403ee64ab095a6",
+    "title": "The Forbidden Experiment Where Scientists Tried to Teach a Dolphin Human Language",
+    "hook": "In the 1960s, scientists lived with a dolphin in a flooded house to teach it English—it started mimicking their voices back.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 74,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "dolphin language",
+      "interspecies communication",
+      "1960s experiment",
+      "animal intelligence",
+      "forbidden science"
+    ],
+    "overlap_check_hash": "d8403ee64ab095a6",
+    "why_this_can_go_viral": "The bizarre and eerie story of a dolphin learning to mimic human speech is both heartwarming and unsettling."
+  },
+  {
+    "unique_id": "science_0182_017_d2f903fafc5792c3",
+    "title": "The Scientific Fraud Who Faked Cancer Research—And His Own Patients Died",
+    "hook": "A researcher faked a promising cancer treatment, and 14 patients opted out of real therapy—none survived.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 97,
+    "educational_value": 80,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "cancer fraud",
+      "fake treatment",
+      "patient deaths",
+      "research ethics",
+      "scientific scam"
+    ],
+    "overlap_check_hash": "d2f903fafc5792c3",
+    "why_this_can_go_viral": "The deadly real-world consequences of scientific fraud make this both infuriating and deeply engaging."
+  },
+  {
+    "unique_id": "science_0182_019_323f7cd5bbb4feea",
+    "title": "The Biolab That Created a Bacteria That Can't Stop Dividing—It Filled the Room",
+    "hook": "An engineered bacterium lost its 'stop dividing' gene and multiplied until it filled the entire growth chamber—then burst through.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 85,
+    "educational_value": 73,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "uncontrolled division",
+      "bacterial overflow",
+      "lab disaster",
+      "biofilm horror",
+      "genetic accident"
+    ],
+    "overlap_check_hash": "323f7cd5bbb4feea",
+    "why_this_can_go_viral": "The image of an unstoppable, overflowing bacterial mass is both visually grotesque and scientifically fascinating."
+  },
+  {
+    "unique_id": "science_0182_021_5013e22d8575b655",
+    "title": "The Quantum Computer That Crashed the Universe—For a Microsecond",
+    "hook": "A quantum computation created a local reality collapse so severe that the universe 'rebooted' for a nanosecond.",
+    "virality_score": 86,
+    "curiosity_gap_score": 95,
+    "darkness_score": 78,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "reality collapse",
+      "quantum crash",
+      "universe reboot",
+      "quantum computer",
+      "cosmic anomaly"
+    ],
+    "overlap_check_hash": "5013e22d8575b655",
+    "why_this_can_go_viral": "The idea of a computer crashing reality itself is the ultimate sci-fi horror scenario, ripe for viral speculation."
+  },
+  {
+    "unique_id": "science_0182_022_6223b8df90d34cd9",
+    "title": "The Physicist Who Created a Mirror That Reflects Nothing—It Absorbed His Reflection",
+    "hook": "A physicist built a mirror that absorbs all wavelengths—and when he looked into it, his reflection was gone, but something else looked back.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 71,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "dark mirror",
+      "reflection absorption",
+      "optical anomaly",
+      "physics horror",
+      "hidden presence"
+    ],
+    "overlap_check_hash": "6223b8df90d34cd9",
+    "why_this_can_go_viral": "The classic 'mirror horror' trope combined with real physics creates a spine-chilling, instantly shareable concept."
+  },
+  {
+    "unique_id": "science_0182_023_8cdc7c9481828fa5",
+    "title": "The Forbidden Experiment Where a Scientist Injected His Own Blood Into a Dead Man",
+    "hook": "A scientist performed a transfusion from a living person into a freshly dead body—and the corpse's hand twitched.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 98,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "reanimation attempt",
+      "blood transfusion",
+      "dead body",
+      "forbidden science",
+      "near-death experiment"
+    ],
+    "overlap_check_hash": "8cdc7c9481828fa5",
+    "why_this_can_go_viral": "The boundary between life and death is the ultimate forbidden territory; a twitching corpse guarantees horrified clicks."
+  },
+  {
+    "unique_id": "science_0182_025_4437406dbcce2173",
+    "title": "The Biolab That Engineered a Bacteria That Turns Humans Into Plants",
+    "hook": "A synthetic bacteria was designed to produce chlorophyll in human cells—the first volunteer's skin turned green, then roots grew.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 91,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "human plant",
+      "chlorophyll engineering",
+      "biohorror",
+      "genetic modification",
+      "body horror"
+    ],
+    "overlap_check_hash": "4437406dbcce2173",
+    "why_this_can_go_viral": "The slow transformation of a human into a plant is body horror at its finest, with a scientific twist."
+  }
+]

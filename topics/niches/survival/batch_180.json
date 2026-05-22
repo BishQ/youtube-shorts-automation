@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "survival_0180_001_9d10b0ec97afb7e0",
+    "title": "The Crew That Survived by Drinking Mercury-Contaminated Water",
+    "hook": "When your only source of hydration is slowly poisoning you from the inside, every sip becomes a death sentence.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "mercury poisoning",
+      "shipwreck survival",
+      "contaminated water",
+      "crew dying slowly",
+      "no fresh water"
+    ],
+    "overlap_check_hash": "9d10b0ec97afb7e0",
+    "why_this_can_go_viral": "The horrific choice between dehydration and heavy metal poisoning taps into primal fear and the impossible trade-offs of survival."
+  },
+  {
+    "unique_id": "survival_0180_002_0fccfdcb70a336d5",
+    "title": "The Diver Who Watched His Air Bubble Become a Death Trap",
+    "hook": "A collapsed cave ceiling and a bubble of air that was shrinking by the minute.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "survival",
+    "subcategory": "near-death escape stories",
+    "keywords": [
+      "cave diving accident",
+      "air bubble survival",
+      "underwater trapped",
+      "diver rescue",
+      "cave collapse"
+    ],
+    "overlap_check_hash": "0fccfdcb70a336d5",
+    "why_this_can_go_viral": "The claustrophobic ticking clock of a shrinking air pocket is visceral and triggers immediate anxiety."
+  },
+  {
+    "unique_id": "survival_0180_003_090d80ce406738bb",
+    "title": "The Expedition That Ate Its Dead to Survive the Arctic",
+    "hook": "When the only food left is frozen human flesh, survival becomes a moral nightmare.",
+    "virality_score": 91,
+    "curiosity_gap_score": 92,
+    "darkness_score": 97,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "cannibalism arctic",
+      "expedition starvation",
+      "frozen bodies eaten",
+      "moral limits",
+      "resort to cannibalism"
+    ],
+    "overlap_check_hash": "090d80ce406738bb",
+    "why_this_can_go_viral": "Cannibalism in survival stories is a dark magnet for clicks, especially when it involves historical expeditions."
+  },
+  {
+    "unique_id": "survival_0180_004_5e554d10f1625e88",
+    "title": "The Castaway Who Built a Raft From His Dead Companions",
+    "hook": "He used the bones and skin of his friends to construct a vessel to escape the island.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 96,
+    "educational_value": 60,
+    "estimated_short_retention": 87,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "bone raft",
+      "castaway macabre",
+      "escape island",
+      "dead friends raft",
+      "survival horror"
+    ],
+    "overlap_check_hash": "5e554d10f1625e88",
+    "why_this_can_go_viral": "The grotesque ingenuity of using human remains for escape is deeply shocking and shareable."
+  },
+  {
+    "unique_id": "survival_0180_005_c460736ab1a72f52",
+    "title": "The Group Stranded Where the Sun Melted Their Eyeballs",
+    "hook": "Without sunglasses, the UV radiation from the sun will literally cook your corneas.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 78,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "snow blindness",
+      "UV damage eyes",
+      "desert sun blindness",
+      "cornea burn",
+      "survival blindness"
+    ],
+    "overlap_check_hash": "c460736ab1a72f52",
+    "why_this_can_go_viral": "The body horror of your eyes cooking in their sockets is a grotesque fact that demands clicks."
+  },
+  {
+    "unique_id": "survival_0180_007_a0b6138f91e6b013",
+    "title": "The Shipwreck That Turned Survivors Into Monsters",
+    "hook": "After weeks at sea, the survivors stopped looking like humans and started acting like wild animals.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "shipwreck madness",
+      "survivor savagery",
+      "group breakdown",
+      "lifeboat violence",
+      "lost at sea horror"
+    ],
+    "overlap_check_hash": "a0b6138f91e6b013",
+    "why_this_can_go_viral": "The gradual descent from civilization to savagery is a timeless psychological horror story."
+  },
+  {
+    "unique_id": "survival_0180_008_0dade4859edf1a88",
+    "title": "The Man Who Survived a Week Under an Avalanche",
+    "hook": "Buried alive in a frozen tomb, he had to chew through his own arm to try to escape.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "survival",
+    "subcategory": "near-death escape stories",
+    "keywords": [
+      "avalanche buried alive",
+      "self-amputation survival",
+      "frozen tomb",
+      "chew arm escape",
+      "survival under snow"
+    ],
+    "overlap_check_hash": "0dade4859edf1a88",
+    "why_this_can_go_viral": "The claustrophobic horror of being buried alive combined with gruesome self-surgery is peak shock content."
+  },
+  {
+    "unique_id": "survival_0180_009_37d77bb8dbd4e7fe",
+    "title": "The Expedition That Found a River of Acid in the Jungle",
+    "hook": "The water was so corrosive that it dissolved their boots and skin within minutes.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 79,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "acid river jungle",
+      "toxic water",
+      "chemical burn",
+      "explorers dissolved",
+      "deadly ecosystem"
+    ],
+    "overlap_check_hash": "37d77bb8dbd4e7fe",
+    "why_this_can_go_viral": "The idea of a naturally occurring river that can melt you is a terrifying anomaly that feels like science fiction."
+  },
+  {
+    "unique_id": "survival_0180_010_a4366360a50d8a6a",
+    "title": "The Diver Who Got Stuck in a Sunken Ship With the Ghost Crew",
+    "hook": "Every time he tried to escape, the current slammed him back into the cabin where the dead still sat.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 83,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "sunken ship ghost",
+      "diver trapped wreck",
+      "dead crew floating",
+      "underwater horror",
+      "shipwreck escape"
+    ],
+    "overlap_check_hash": "a4366360a50d8a6a",
+    "why_this_can_go_viral": "The supernatural undertone of being trapped with a dead crew creates a powerful eerie mystery."
+  },
+  {
+    "unique_id": "survival_0180_011_c23032995fcc0408",
+    "title": "The Survivor Who Lived in a Cave Where the Walls Were Alive",
+    "hook": "The cave walls were covered in a fungus that slowly digested his skin while he slept.",
+    "virality_score": 77,
+    "curiosity_gap_score": 84,
+    "darkness_score": 86,
+    "educational_value": 60,
+    "estimated_short_retention": 81,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "cave fungus infection",
+      "living cave walls",
+      "skin eating fungus",
+      "cave survivor",
+      "subterranean horror"
+    ],
+    "overlap_check_hash": "c23032995fcc0408",
+    "why_this_can_go_viral": "The concept of your shelter actively consuming you is a unique and visceral body horror trigger."
+  },
+  {
+    "unique_id": "survival_0180_012_d30c5184ade0a338",
+    "title": "The Group Stranded Where the Night Air Turned to Poison",
+    "hook": "As the sun set, the ground released a cloud of carbon dioxide that suffocated them in their sleep.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 89,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "survival",
+    "subcategory": "disaster psychology",
+    "keywords": [
+      "CO2 poisoning valley",
+      "sleeping gas death",
+      "volcanic gas leak",
+      "night air poison",
+      "silent suffocation"
+    ],
+    "overlap_check_hash": "d30c5184ade0a338",
+    "why_this_can_go_viral": "The invisible, silent killer that strikes while you sleep taps into a deep, universal fear."
+  },
+  {
+    "unique_id": "survival_0180_015_478a354591a19712",
+    "title": "The Man Who Survived 100 Days in a Siberian Ice Cave",
+    "hook": "Alone in the dark, he lost track of time and started talking to the frozen stalactites.",
+    "virality_score": 75,
+    "curiosity_gap_score": 79,
+    "darkness_score": 81,
+    "educational_value": 70,
+    "estimated_short_retention": 76,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "ice cave survival",
+      "solitary confinement cave",
+      "Siberian survival",
+      "frostbite cave",
+      "light deprivation"
+    ],
+    "overlap_check_hash": "478a354591a19712",
+    "why_this_can_go_viral": "The psychological toll of extreme isolation and darkness is a compelling look at the limits of the human mind."
+  },
+  {
+    "unique_id": "survival_0180_016_500c6a9556e529b0",
+    "title": "The Shipwrecked Crew That Turned on the Captain First",
+    "hook": "When the rations ran out, the crew decided the first meal would be the man who led them there.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 91,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "mutiny cannibalism",
+      "crew eat captain",
+      "shipwreck betrayal",
+      "survival hierarchy",
+      "desperate crew"
+    ],
+    "overlap_check_hash": "500c6a9556e529b0",
+    "why_this_can_go_viral": "The betrayal of leadership and the primal descent into cannibalism is a dark narrative that drives engagement."
+  },
+  {
+    "unique_id": "survival_0180_017_047e450526420820",
+    "title": "The Diver Who Found a Lake Where the Water Had No Oxygen",
+    "hook": "He swam into a dead zone where nothing lived, and his regulator started pulling nothing but poison gas.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "survival",
+    "subcategory": "near-death escape stories",
+    "keywords": [
+      "anoxic lake",
+      "dead water diver",
+      "oxygenless water",
+      "CO2 in water",
+      "diving death zone"
+    ],
+    "overlap_check_hash": "047e450526420820",
+    "why_this_can_go_viral": "The concept of water so devoid of life it kills you is a scientific anomaly that feels like a horror movie."
+  },
+  {
+    "unique_id": "survival_0180_018_3e620619fa16a4c3",
+    "title": "The Survivor Who Lived in a Forest Where the Trees Drank Blood",
+    "hook": "The trees attracted animals by releasing a sweet scent, then trapped and absorbed them.",
+    "virality_score": 73,
+    "curiosity_gap_score": 80,
+    "darkness_score": 83,
+    "educational_value": 55,
+    "estimated_short_retention": 75,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "carnivorous trees",
+      "blood drinking plants",
+      "killer forest",
+      "man eating trees",
+      "deadly flora"
+    ],
+    "overlap_check_hash": "3e620619fa16a4c3",
+    "why_this_can_go_viral": "The idea of a forest actively hunting you subverts the concept of nature as a safe haven."
+  },
+  {
+    "unique_id": "survival_0180_019_e650c1aad3cf33fc",
+    "title": "The Expedition That Discovered a Glacier That Bled",
+    "hook": "A red, iron-rich waterfall poured from the ice, looking exactly like a wound in the earth.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 77,
+    "niche_name": "survival",
+    "subcategory": "stranded expeditions",
+    "keywords": [
+      "blood glacier",
+      "red waterfall antarctica",
+      "iron rich water",
+      "bleeding ice",
+      "glacier mystery"
+    ],
+    "overlap_check_hash": "e650c1aad3cf33fc",
+    "why_this_can_go_viral": "The visually striking and eerie phenomenon of a 'bleeding' glacier is perfect for short-form video."
+  },
+  {
+    "unique_id": "survival_0180_021_aa249a557243b293",
+    "title": "The Group Stranded on a Raft Where They Killed the Weak First",
+    "hook": "A democratic vote sealed the fate of the thinnest member, and the rest watched him die.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 96,
+    "educational_value": 72,
+    "estimated_short_retention": 91,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "raft murder",
+      "survival of the fittest",
+      "group vote kill",
+      "lifeboat ethics",
+      "cannibalism vote"
+    ],
+    "overlap_check_hash": "aa249a557243b293",
+    "why_this_can_go_viral": "The dark ethics of voting someone to death on a raft is a raw, philosophical nightmare that sparks debate."
+  },
+  {
+    "unique_id": "survival_0180_024_34465261092e4318",
+    "title": "The Expedition That Watched Their Guide Fall Into a Boiling Mud Pot",
+    "hook": "The ground looked solid, but it was a thin crust over a pool of scalding mud.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 88,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "boiling mud death",
+      "volcanic mud pot",
+      "guide dissolves",
+      "geothermal tragedy",
+      "mud pool horror"
+    ],
+    "overlap_check_hash": "34465261092e4318",
+    "why_this_can_go_viral": "The sudden, gruesome death of a guide in a seemingly harmless pool is a shocking visual story."
+  },
+  {
+    "unique_id": "survival_0180_025_219deadf8cedd4c8",
+    "title": "The Castaway Who Survived by Eating Sand and Staring at the Sun",
+    "hook": "He believed the sun and sand could sustain him, and his body started shutting down in protest.",
+    "virality_score": 67,
+    "curiosity_gap_score": 73,
+    "darkness_score": 75,
+    "educational_value": 55,
+    "estimated_short_retention": 70,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "sand eating survival",
+      "sun gazing survival",
+      "delusional castaway",
+      "malnutrition madness",
+      "starvation hallucination"
+    ],
+    "overlap_check_hash": "219deadf8cedd4c8",
+    "why_this_can_go_viral": "The bizarre and desperate delusion of a man trying to live on sand and sunlight is a study in broken psychology."
+  }
+]

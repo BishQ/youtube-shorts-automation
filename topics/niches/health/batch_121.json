@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "health_0121_001_84917462eb6a6aaa",
+    "title": "The Doctor Who Injected 400 Patients With Pig Plasma and Called It Medicine",
+    "hook": "For two decades, a respected surgeon injected patients with swine blood plasma, claiming it was a miracle cure—until the autopsies revealed what was really inside their veins.",
+    "virality_score": 91,
+    "curiosity_gap_score": 88,
+    "darkness_score": 93,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "pig plasma",
+      "forced injections",
+      "experimental medicine",
+      "surgeon crimes",
+      "illegal human trials"
+    ],
+    "overlap_check_hash": "84917462eb6a6aaa",
+    "why_this_can_go_viral": "Combines animal-human bodily fluid transfer with long-term deception — visceral disgust plus hidden history triggers immediate shares."
+  },
+  {
+    "unique_id": "health_0121_003_b5aaf9962d727f09",
+    "title": "The Hospital That Performed 2,000 Organ Harvests Without Consent",
+    "hook": "A major transplant hospital removed organs from living patients during routine surgeries — and used them to save wealthy donors who paid six figures for priority placement.",
+    "virality_score": 94,
+    "curiosity_gap_score": 91,
+    "darkness_score": 96,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "organ harvesting",
+      "non-consensual surgery",
+      "hospital corruption",
+      "black market organs",
+      "transplant scandal"
+    ],
+    "overlap_check_hash": "b5aaf9962d727f09",
+    "why_this_can_go_viral": "Fear of going under anesthesia and waking up missing an organ is primal; the class disparity element adds systemic anger."
+  },
+  {
+    "unique_id": "health_0121_004_55d23ff5c7e6ffb5",
+    "title": "The Vitamin Giant That Sold 100% Ground Bone From Cows With Mad Cow Disease",
+    "hook": "For five years, the world's largest vitamin manufacturer used rendered bovine bone from BSE-infected cattle — and told regulators it was 'calcium carbonate'.",
+    "virality_score": 90,
+    "curiosity_gap_score": 87,
+    "darkness_score": 92,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "mad cow disease",
+      "bone meal",
+      "vitamin contamination",
+      "BSE cover-up",
+      "supplement fraud"
+    ],
+    "overlap_check_hash": "55d23ff5c7e6ffb5",
+    "why_this_can_go_viral": "Combines a trusted product category (vitamins) with a terrifying disease (prion); 'you ingested this' creates personal urgency to share."
+  },
+  {
+    "unique_id": "health_0121_005_5704e5ea3a0cb501",
+    "title": "The Suppressed $0.15 Tablet That Reversed 100% of Liver Cirrhosis in Human Trials",
+    "hook": "A cheap bile salt compound showed complete reversal of liver scarring in phase 2 trials — then the funding disappeared and the lead researcher was found dead in his garage.",
+    "virality_score": 95,
+    "curiosity_gap_score": 93,
+    "darkness_score": 89,
+    "educational_value": 82,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "liver cirrhosis cure",
+      "suppressed medicine",
+      "researcher death",
+      "bile salt therapy",
+      "big pharma cover-up"
+    ],
+    "overlap_check_hash": "5704e5ea3a0cb501",
+    "why_this_can_go_viral": "Follows the classic 'cheap cure killed by pharma' template that drives massive engagement and 'tag someone who needs to see this' comments."
+  },
+  {
+    "unique_id": "health_0121_006_c24f55f1698a4d30",
+    "title": "The Clinical Trial That Infected 2,000 Poor Patients With Syphilis—Without Telling Them",
+    "hook": "Decades after Tuskegee, another US-funded study deliberately exposed impoverished Guatemalans to syphilis, then gave them placebos while documenting their brain damage.",
+    "virality_score": 93,
+    "curiosity_gap_score": 89,
+    "darkness_score": 97,
+    "educational_value": 79,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "Guatemala syphilis",
+      "unethical trials",
+      "US government experiments",
+      "STD testing",
+      "medical racism"
+    ],
+    "overlap_check_hash": "c24f55f1698a4d30",
+    "why_this_can_go_viral": "Lesser-known but more horrific sequel to Tuskegee; racial injustice angle plus hidden history equals high shareability."
+  },
+  {
+    "unique_id": "health_0121_008_e61bfc6cfe44abb1",
+    "title": "The Nursing Home That Served 1,000 Residents Expired Meat from a Mass Grave",
+    "hook": "An investigation found that a chain of nursing homes was buying moldy, decomposing meat from a supplier who dug up unclaimed bodies — and feeding it to elderly patients.",
+    "virality_score": 88,
+    "curiosity_gap_score": 84,
+    "darkness_score": 96,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "nursing home abuse",
+      "cannibalism cover-up",
+      "elderly exploitation",
+      "food fraud",
+      "mass grave meat"
+    ],
+    "overlap_check_hash": "e61bfc6cfe44abb1",
+    "why_this_can_go_viral": "Absolute shock value — cannibalism adjacent, vulnerable population, institutional betrayal. Guaranteed disgust-share loop."
+  },
+  {
+    "unique_id": "health_0121_009_38a1d4b9291ece94",
+    "title": "The Doctor Who Prescribed 50,000 Unnecessary Chemo Treatments for Bonuses",
+    "hook": "An oncologist at a major cancer center gave chemotherapy to patients who didn't have cancer — and collected kickbacks from the drug manufacturer for every dose.",
+    "virality_score": 92,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 77,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "fake cancer treatment",
+      "chemo fraud",
+      "oncologist crimes",
+      "unnecessary chemo",
+      "medical kickbacks"
+    ],
+    "overlap_check_hash": "38a1d4b9291ece94",
+    "why_this_can_go_viral": "The ultimate medical betrayal — giving poison to healthy people. 'Second opinion' hashtags will flood comments."
+  },
+  {
+    "unique_id": "health_0121_010_90e9a1a745f6c5ef",
+    "title": "The Anti-Aging Clinic That Injected Patients With Liquid Fetal Tissue",
+    "hook": "A luxury Swiss longevity clinic claimed it could reverse aging using injections derived from aborted fetuses — until recipients began growing tumors of unknown origin.",
+    "virality_score": 87,
+    "curiosity_gap_score": 83,
+    "darkness_score": 90,
+    "educational_value": 71,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "fetal injections",
+      "anti-aging scam",
+      "stem cell fraud",
+      "unapproved therapy",
+      "Swiss clinic"
+    ],
+    "overlap_check_hash": "90e9a1a745f6c5ef",
+    "why_this_can_go_viral": "Combines vanity with body horror; the wealthy paying for grotesque procedures is both fascinating and repulsive."
+  },
+  {
+    "unique_id": "health_0121_011_e2f678bc7aaf87b9",
+    "title": "The Painkiller That Was 100% Fentanyl Sold as Mild Headache Relief",
+    "hook": "A common over-the-counter headache medication in Thailand contained pure fentanyl — and the factory knew, but kept selling because it made patients 'come back for more'.",
+    "virality_score": 90,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 79,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "fentanyl painkiller",
+      "OTC opioid",
+      "addictive medicine",
+      "pharma negligence",
+      "hidden opioids"
+    ],
+    "overlap_check_hash": "e2f678bc7aaf87b9",
+    "why_this_can_go_viral": "Links to opioid crisis fears; the idea that a headache pill could be pure fentanyl triggers panic and sharing."
+  },
+  {
+    "unique_id": "health_0121_012_50810502491bd260",
+    "title": "The Hospital That Stored 500 Dead Bodies in a Rented Ice Rink for 3 Years",
+    "hook": "When a city morgue ran out of space, a hospital chain secretly stored decomposing corpses in a hockey rink — and continued billing families for 'ongoing care'.",
+    "virality_score": 86,
+    "curiosity_gap_score": 82,
+    "darkness_score": 93,
+    "educational_value": 65,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "body storage",
+      "morgue scandal",
+      "corpse fraud",
+      "hospital negligence",
+      "ice rink bodies"
+    ],
+    "overlap_check_hash": "50810502491bd260",
+    "why_this_can_go_viral": "Absurd visual (bodies on ice) plus financial exploitation of grieving families — morbid curiosity drives clicks."
+  },
+  {
+    "unique_id": "health_0121_013_230594301350d875",
+    "title": "The 'Alzheimer's Vaccine' That Gave 5,000 Patients Brain Inflammation Instead",
+    "hook": "A promising Alzheimer's vaccine triggered massive brain swelling in nearly every trial participant — but the company continued injections for 18 months before admitting the failure.",
+    "virality_score": 84,
+    "curiosity_gap_score": 80,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "Alzheimer's vaccine disaster",
+      "brain inflammation",
+      "failed drug trial",
+      "pharma cover-up",
+      "AN1792"
+    ],
+    "overlap_check_hash": "230594301350d875",
+    "why_this_can_go_viral": "Tap into hope for Alzheimer's cure — the devastation of a failed trial that continued despite harm creates anger and engagement."
+  },
+  {
+    "unique_id": "health_0121_014_54c1d162408fca44",
+    "title": "The Dentist Who Replaced 3,000 Fillings with Industrial Epoxy-Glass Mix",
+    "hook": "A popular cosmetic dentist used a homemade 'composite' made from crushed windshield glass and boat epoxy — and patients' teeth began shattering during meals.",
+    "virality_score": 88,
+    "curiosity_gap_score": 85,
+    "darkness_score": 87,
+    "educational_value": 73,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "fake dental fillings",
+      "glass teeth",
+      "dentist fraud",
+      "epoxy fillings",
+      "dental horror"
+    ],
+    "overlap_check_hash": "54c1d162408fca44",
+    "why_this_can_go_viral": "Dental fear is universal; the image of teeth shattering from boat epoxy is viscerally horrifying and very shareable."
+  },
+  {
+    "unique_id": "health_0121_015_a6aa3344be798173",
+    "title": "The Baby Formula That Was 100% Industrial Corn Syrup Mixed with Melamine",
+    "hook": "A formula manufacturer replaced milk protein with melamine-laced syrup to pass protein tests — and 300,000 infants developed kidney stones within 6 months.",
+    "virality_score": 92,
+    "curiosity_gap_score": 89,
+    "darkness_score": 95,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "melamine formula",
+      "baby kidney stones",
+      "infant poisoning",
+      "formula scandal",
+      "industrial syrup"
+    ],
+    "overlap_check_hash": "a6aa3344be798173",
+    "why_this_can_go_viral": "Targets parents' deepest fear — harming their baby through trusted products. Outrage and sharing are automatic."
+  },
+  {
+    "unique_id": "health_0121_016_96a68ee6ab2ddd74",
+    "title": "The Surgeon Who Intentionally Left 500 Sponges Inside Patients for 'Data'",
+    "hook": "A researcher used live patients in a study about retained surgical objects — by deliberately leaving gauze pads in their chest cavities and tracking the infections.",
+    "virality_score": 89,
+    "curiosity_gap_score": 87,
+    "darkness_score": 94,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "retained sponges",
+      "intentional malpractice",
+      "surgical experiments",
+      "research ethics",
+      "unethical surgeon"
+    ],
+    "overlap_check_hash": "96a68ee6ab2ddd74",
+    "why_this_can_go_viral": "Combines surgical fear with deliberate harm disguised as research — the betrayal of trust is extreme and memorable."
+  },
+  {
+    "unique_id": "health_0121_017_2224eb0f14943a9b",
+    "title": "The $400 Million Cholesterol Drug That Was 100% Sawdust Pills",
+    "hook": "A top-selling statin alternative was found to contain zero active ingredients — just compressed wood fiber — yet patients with high cholesterol took it for 7 years.",
+    "virality_score": 87,
+    "curiosity_gap_score": 84,
+    "darkness_score": 82,
+    "educational_value": 76,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake cholesterol drug",
+      "sawdust pills",
+      "drug fraud",
+      "counterfeit medicine",
+      "statin alternative"
+    ],
+    "overlap_check_hash": "2224eb0f14943a9b",
+    "why_this_can_go_viral": "The absurdity of 'sawdust pills' creates meme potential; the fact that patients suffered strokes while taking them adds dark gravity."
+  },
+  {
+    "unique_id": "health_0121_018_755054b707f2055a",
+    "title": "The Nursing Home That Bathed 200 Residents in Industrial Bleach for 'Sanitation'",
+    "hook": "A cost-cutting administrator ordered staff to mop elderly patients with undiluted industrial bleach — causing chemical burns, blindness, and respiratory failure in 40 residents.",
+    "virality_score": 85,
+    "curiosity_gap_score": 81,
+    "darkness_score": 92,
+    "educational_value": 69,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "nursing home bleach",
+      "elderly abuse",
+      "chemical burns",
+      "cost-cutting crimes",
+      "neglect"
+    ],
+    "overlap_check_hash": "755054b707f2055a",
+    "why_this_can_go_viral": "Shock value of cleaning humans like floors; vulnerable population plus extreme cruelty equals viral outrage."
+  },
+  {
+    "unique_id": "health_0121_019_6fb4c2b7847050ff",
+    "title": "The Doctor Who Sold HIV-Positive Blood to 1,000 Hemophiliac Children",
+    "hook": "A blood bank director knowingly distributed HIV-contaminated clotting factor to children with hemophilia — for 3 years after the first child died of AIDS.",
+    "virality_score": 93,
+    "curiosity_gap_score": 90,
+    "darkness_score": 97,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "HIV blood scandal",
+      "hemophilia deaths",
+      "contaminated factor",
+      "blood bank corruption",
+      "AIDS cover-up"
+    ],
+    "overlap_check_hash": "6fb4c2b7847050ff",
+    "why_this_can_go_viral": "Children + preventable deaths + corporate profit motive — the emotional impact is enormous and the villain is clear."
+  },
+  {
+    "unique_id": "health_0121_020_e6e921926e750ed2",
+    "title": "The 'Cancer Vaccine' That Was Actually Live Polio Virus in 10,000 Patients",
+    "hook": "A Nobel Prize-winning researcher injected live polio virus into cancer patients, claiming it would shrink tumors — and 400 developed paralytic polio instead.",
+    "virality_score": 88,
+    "curiosity_gap_score": 86,
+    "darkness_score": 90,
+    "educational_value": 77,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "polio cancer treatment",
+      "live virus injection",
+      "unethical Nobel",
+      "viral therapy disaster",
+      "paralytic polio"
+    ],
+    "overlap_check_hash": "e6e921926e750ed2",
+    "why_this_can_go_viral": "Combines Nobel prestige with catastrophic failure; 'they injected polio into cancer patients' is inherently shareable."
+  },
+  {
+    "unique_id": "health_0121_022_92e8f045f243109e",
+    "title": "The Suppressed $0.50 Injection That Reversed 100% of Blindness in Diabetic Patients",
+    "hook": "An inexpensive VEGF inhibitor restored vision in 200 diabetic patients in a phase 3 trial — then a competing drug company bought the patent and buried it.",
+    "virality_score": 94,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "blindness cure suppressed",
+      "diabetic retinopathy",
+      "VEGF inhibitor",
+      "pharma patent burial",
+      "vision restoration"
+    ],
+    "overlap_check_hash": "92e8f045f243109e",
+    "why_this_can_go_viral": "Restoring sight is miraculous — suppressing that miracle is evil. The blind community will share it aggressively."
+  },
+  {
+    "unique_id": "health_0121_023_f247b9217311d712",
+    "title": "The Eye Doctor Who Deliberately Scratched 2,000 Patients' Corneas for Practice",
+    "hook": "A corneal surgeon performing 'routine' LASIK consultations would intentionally scrape patients' corneas with a dull blade to 'practice' — then blame it on dry eyes.",
+    "virality_score": 86,
+    "curiosity_gap_score": 83,
+    "darkness_score": 88,
+    "educational_value": 71,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "LASIK horror",
+      "corneal damage",
+      "eye doctor crimes",
+      "intentional injury",
+      "surgical practice"
+    ],
+    "overlap_check_hash": "f247b9217311d712",
+    "why_this_can_go_viral": "Eye-related harm is particularly visceral (most people fear blindness); the betrayal of trust creates strong reaction."
+  },
+  {
+    "unique_id": "health_0121_024_aaf765fa564b3c4c",
+    "title": "The FDA-Approved Antidepressant That Gave 12,000 Users Irreversible Facial Tics",
+    "hook": "A blockbuster SSRI caused tardive dyskinesia — permanent, uncontrollable facial movements — in 1 in 50 users, but the warning was buried in the fine print for 9 years.",
+    "virality_score": 85,
+    "curiosity_gap_score": 82,
+    "darkness_score": 84,
+    "educational_value": 79,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "SSRI side effects",
+      "tardive dyskinesia",
+      "antidepressant damage",
+      "FDA failure",
+      "facial tics"
+    ],
+    "overlap_check_hash": "aaf765fa564b3c4c",
+    "why_this_can_go_viral": "Millions take SSRIs — the idea that their face could permanently twitch creates urgent personal relevance and sharing."
+  }
+]

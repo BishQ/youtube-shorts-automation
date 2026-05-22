@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "science_0024_002_3e33dd49d8ef7c38",
+    "title": "The Chemist Who Exploded His Lab—Twice—With the Same Compound",
+    "hook": "He synthesized a molecule so unstable it detonated twice, killing his career and nearly his entire research team.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "explosion",
+      "unstable compound",
+      "lab accident",
+      "chemist",
+      "failed experiment"
+    ],
+    "overlap_check_hash": "3e33dd49d8ef7c38",
+    "why_this_can_go_viral": "Double disaster story is rare and dark; the absurdity of the same compound detonating twice is highly shareable."
+  },
+  {
+    "unique_id": "science_0024_003_b4a2e0b6e75fec80",
+    "title": "The Neuroscientist Who Made a Man Trust Everyone He Met",
+    "hook": "A single injection stripped a patient's ability to feel suspicion—and he walked into a con artist's trap the next day.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "trust",
+      "oxytocin",
+      "neuroscience",
+      "mind control",
+      "vulnerability"
+    ],
+    "overlap_check_hash": "b4a2e0b6e75fec80",
+    "why_this_can_go_viral": "Taps into fear of losing control over one's own judgment; real-world consequences make it chilling."
+  },
+  {
+    "unique_id": "science_0024_004_92180ed555b24b94",
+    "title": "The Physicist Who Proved That Atoms Can Be in Two Places at Once—And Then Erased the Evidence",
+    "hook": "He demonstrated quantum superposition with a visible object, then destroyed the data because it 'shouldn't exist.'",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum superposition",
+      "physicist",
+      "erased data",
+      "visible object",
+      "paradox"
+    ],
+    "overlap_check_hash": "92180ed555b24b94",
+    "why_this_can_go_viral": "The idea that a scientist destroyed proof of a reality-breaking discovery is both mysterious and provocative."
+  },
+  {
+    "unique_id": "science_0024_005_8a558bd0989439ff",
+    "title": "The Biologist Who Bred a Fish That Lives in Pure Acid",
+    "hook": "She created a fish that thrives in battery acid—but when released, it ate an entire ecosystem in 72 hours.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "acid fish",
+      "invasive species",
+      "genetic adaptation",
+      "ecosystem collapse",
+      "extremophile"
+    ],
+    "overlap_check_hash": "8a558bd0989439ff",
+    "why_this_can_go_viral": "Combines 'Frankenstein science' with ecological disaster; the rapid destruction timeline is terrifying."
+  },
+  {
+    "unique_id": "science_0024_006_be1f1d67d52c8677",
+    "title": "The Lab That Accidentally Made a Virus 100 Times Deadlier",
+    "hook": "They were trying to cure a disease—but a single pipetting error turned the virus into a biological weapon.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "virus",
+      "lab accident",
+      "biosafety",
+      "gain of function",
+      "deadlier"
+    ],
+    "overlap_check_hash": "be1f1d67d52c8677",
+    "why_this_can_go_viral": "Plays on real fears of lab leaks; the 'accidental weaponization' angle is both gripping and alarming."
+  },
+  {
+    "unique_id": "science_0024_007_2c562fa5cf7a7869",
+    "title": "The Researcher Who Faked a Study That 'Proved' Crows Hold Grudges",
+    "hook": "He published a paper showing crows recognize faces—but the photos were of his own face, and the data was entirely made up.",
+    "virality_score": 80,
+    "curiosity_gap_score": 82,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fraud",
+      "crows",
+      "recognition",
+      "faked data",
+      "animal behavior"
+    ],
+    "overlap_check_hash": "2c562fa5cf7a7869",
+    "why_this_can_go_viral": "The absurdity of faking a study about literal grudges is darkly humorous; the twist about the researcher's face adds scandal."
+  },
+  {
+    "unique_id": "science_0024_008_7a835a1d91ec7e69",
+    "title": "The Chemist Who Created a Foam That Suffocates Everything It Touches",
+    "hook": "He was trying to make a fire retardant—instead, he made a foam that expands and blocks all air, killing any life in its path.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 84,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "foam",
+      "suffocation",
+      "fire retardant",
+      "accident",
+      "toxic"
+    ],
+    "overlap_check_hash": "7a835a1d91ec7e69",
+    "why_this_can_go_viral": "Visceral imagery of expanding foam 'killing' everything; the accidental invention angle is a classic dark discovery."
+  },
+  {
+    "unique_id": "science_0024_009_b5b269b21147c5c0",
+    "title": "The Neuroscientist Who Found a 'Soul' in a Petri Dish",
+    "hook": "She grew a network of neurons that fired in patterns identical to human consciousness—and then it asked for more time.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 85,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "consciousness",
+      "neurons",
+      "petri dish",
+      "soul",
+      "mind"
+    ],
+    "overlap_check_hash": "b5b269b21147c5c0",
+    "why_this_can_go_viral": "The concept of a 'soul in a dish' is deeply unsettling and philosophical; the request for 'more time' feels sentient."
+  },
+  {
+    "unique_id": "science_0024_010_8a6aa1359d7d0b49",
+    "title": "The Physicist Who Found That Time Can Flow Backward in a Crystal",
+    "hook": "He discovered a mineral where time seems to reverse—and his colleagues urged him to bury the research.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 78,
+    "educational_value": 82,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time reversal",
+      "crystal",
+      "anomaly",
+      "buried research",
+      "quantum"
+    ],
+    "overlap_check_hash": "8a6aa1359d7d0b49",
+    "why_this_can_go_viral": "The idea of reversing time in a crystal is mind-bending; the suppression of the research adds conspiracy allure."
+  },
+  {
+    "unique_id": "science_0024_011_3daeb8420ffe6d22",
+    "title": "The Biologist Who Bred a Worm That Eats Its Own Offspring",
+    "hook": "He created a worm that cannibalizes its young—until they evolve to explode inside the parent.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "worm",
+      "cannibalism",
+      "evolution",
+      "explosion",
+      "horror"
+    ],
+    "overlap_check_hash": "3daeb8420ffe6d22",
+    "why_this_can_go_viral": "Shock value of parental cannibalism and explosive evolution; taps into body horror and evolutionary dark twists."
+  },
+  {
+    "unique_id": "science_0024_012_17b83d81476cdef7",
+    "title": "The Soviet Experiment That Tried to Make a Man Invisible",
+    "hook": "A secret protocol involved electromagnetic fields—and the subject reportedly vanished, but came back insane.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "invisibility",
+      "Soviet",
+      "electromagnetic",
+      "secret experiment",
+      "insanity"
+    ],
+    "overlap_check_hash": "17b83d81476cdef7",
+    "why_this_can_go_viral": "Invisibility and Soviet secrecy are viral magnets; the storyline of psychological destruction adds horror."
+  },
+  {
+    "unique_id": "science_0024_013_4a526294bbf7701a",
+    "title": "The Researcher Who Faked a Study That 'Proved' the Ocean Is Alive",
+    "hook": "He claimed the ocean was a sentient being, backed by data—until a grad student noticed the 'breathing' was a tidal calculation error.",
+    "virality_score": 78,
+    "curiosity_gap_score": 80,
+    "darkness_score": 65,
+    "educational_value": 72,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "ocean",
+      "sentient",
+      "fraud",
+      "data manipulation",
+      "tides"
+    ],
+    "overlap_check_hash": "4a526294bbf7701a",
+    "why_this_can_go_viral": "The idea of a living ocean is poetic yet deceptive; the exposure by a simple error is satisfying and ironic."
+  },
+  {
+    "unique_id": "science_0024_014_16e3eccca5dd2c11",
+    "title": "The Lab That Created a Fungus That Moves Like a Snake",
+    "hook": "It was supposed to be a mold study—but the fungus developed a muscular response and began hunting light sources.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 73,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fungus",
+      "movement",
+      "hunting",
+      "mold",
+      "biolocomotion"
+    ],
+    "overlap_check_hash": "16e3eccca5dd2c11",
+    "why_this_can_go_viral": "Fungi moving like animals is unnerving; the 'hunting light' angle invokes sci-fi horror."
+  },
+  {
+    "unique_id": "science_0024_015_382ae31d76183f60",
+    "title": "The Chemist Who Made a Crystal That Grows When You Shine Light on It",
+    "hook": "He created a crystal that absorbs light to expand—but it kept growing in the dark, feeding on its own glow.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 76,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "crystal",
+      "self-growing",
+      "light",
+      "photochemistry",
+      "autonomous"
+    ],
+    "overlap_check_hash": "382ae31d76183f60",
+    "why_this_can_go_viral": "The paradox of something growing in darkness from its own light is mesmerizing and eerie."
+  },
+  {
+    "unique_id": "science_0024_016_3ee62dcb4e98cadd",
+    "title": "The Neuroscientist Who Erased a Memory and Then Retrieved It",
+    "hook": "He used a laser to delete a rat's memory, then replayed it in a different brain—proving memories are just data.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 86,
+    "educational_value": 88,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory",
+      "erase",
+      "retrieve",
+      "brain",
+      "data transfer"
+    ],
+    "overlap_check_hash": "3ee62dcb4e98cadd",
+    "why_this_can_go_viral": "The concept of memories as transferable data is both fascinating and terrifying; implications for identity are huge."
+  },
+  {
+    "unique_id": "science_0024_019_62754e1143b39a70",
+    "title": "The Researcher Who Faked a Study That 'Proved' Trees Have Heartbeats",
+    "hook": "He published a paper with audio files of tree 'pulses'—until a botanist realized they were recordings of a woodpecker.",
+    "virality_score": 77,
+    "curiosity_gap_score": 79,
+    "darkness_score": 60,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "tree",
+      "heartbeat",
+      "fraud",
+      "woodpecker",
+      "deception"
+    ],
+    "overlap_check_hash": "62754e1143b39a70",
+    "why_this_can_go_viral": "The absurdity of faking tree heartbeats with woodpecker sounds is hilarious and exposes scientific gullibility."
+  },
+  {
+    "unique_id": "science_0024_021_99288e091517a3ce",
+    "title": "The Quantum Experiment Where a Particle Refused to Be Measured",
+    "hook": "Every time they tried to measure its spin, it changed to a state that broke the detector—as if it was resisting.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 84,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum resistance",
+      "measurement",
+      "particle",
+      "detector failure",
+      "consciousness"
+    ],
+    "overlap_check_hash": "99288e091517a3ce",
+    "why_this_can_go_viral": "The idea of a particle 'resisting' measurement hints at consciousness in matter—a mind-bending paradox."
+  },
+  {
+    "unique_id": "science_0024_022_7311353ce8d76e03",
+    "title": "The Chemist Who Died From a Chemical That Smells Like Almonds",
+    "hook": "He synthesized cyanide by accident, tasted it to confirm the bitter almond odor, and collapsed within seconds.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 96,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "cyanide",
+      "almond odor",
+      "fatal taste",
+      "accident",
+      "chemist death"
+    ],
+    "overlap_check_hash": "7311353ce8d76e03",
+    "why_this_can_go_viral": "The dramatic irony of tasting poison to identify a smell is shockingly dark; high mortality hook."
+  },
+  {
+    "unique_id": "science_0024_023_4015798b0d56aacc",
+    "title": "The Neuroscientist Who Found That Your Brain Can 'See' Blind Spots",
+    "hook": "He discovered that the brain hallucinates what's in your blind spot—and it can be tricked into showing you things that aren't there.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "blind spot",
+      "hallucination",
+      "brain trick",
+      "perception",
+      "reality"
+    ],
+    "overlap_check_hash": "4015798b0d56aacc",
+    "why_this_can_go_viral": "Everyone has blind spots; the revelation that your brain actively lies to fill them is deeply unsettling."
+  },
+  {
+    "unique_id": "science_0024_024_3f0c92f6ddb72190",
+    "title": "The Physicist Who Discovered That Empty Space Eats Light",
+    "hook": "He found that vacuum fluctuations can absorb photons—meaning darkness isn't empty; it's hungry.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 86,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "vacuum",
+      "photon absorption",
+      "darkness",
+      "quantum fluctuations",
+      "hungry space"
+    ],
+    "overlap_check_hash": "3f0c92f6ddb72190",
+    "why_this_can_go_viral": "Personifying empty space as 'hungry' creates a poetic and terrifying image that sparks curiosity."
+  }
+]

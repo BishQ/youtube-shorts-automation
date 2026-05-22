@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "science_0022_001_2ce8f9bb6fb0816f",
+    "title": "The Lab That Created a Virus That Rewrites Its Own DNA",
+    "hook": "A synthetic virus that can edit its own genetic code—and no one knows if it escaped.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "synthetic virus",
+      "DNA editing",
+      "lab escape",
+      "genetic experiment",
+      "biohazard"
+    ],
+    "overlap_check_hash": "2ce8f9bb6fb0816f",
+    "why_this_can_go_viral": "Combines fears of synthetic biology with a real-world 'what if' scenario, triggering alarm and curiosity."
+  },
+  {
+    "unique_id": "science_0022_002_47646ce8e9dcbd67",
+    "title": "The Chemist Who Boiled a Liquid That Freezes When Heated",
+    "hook": "A compound that defies thermodynamics—hotter it gets, the more it freezes.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 50,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "reverse freezing",
+      "thermodynamic anomaly",
+      "supercooled liquid",
+      "exotic state",
+      "lab accident"
+    ],
+    "overlap_check_hash": "47646ce8e9dcbd67",
+    "why_this_can_go_viral": "Mind-bending physics-defying phenomenon that is instantly shareable and generates 'how is that possible' reactions."
+  },
+  {
+    "unique_id": "science_0022_003_501acbbe29fa42a8",
+    "title": "The Neuroscientist Who Stimulated a Brain to See Through Walls",
+    "hook": "A woman could detect objects behind concrete after a single zap to her temporal lobe.",
+    "virality_score": 85,
+    "curiosity_gap_score": 92,
+    "darkness_score": 65,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain stimulation",
+      "sensory enhancement",
+      "temporal lobe",
+      "hidden senses",
+      "neural hack"
+    ],
+    "overlap_check_hash": "501acbbe29fa42a8",
+    "why_this_can_go_viral": "Implies 'superpowers' are hidden in the brain, tapping into latent human potential and conspiracy-like awe."
+  },
+  {
+    "unique_id": "science_0022_005_f63685ab7e26e027",
+    "title": "The Soviet Experiment That Made a Man Hear Colors",
+    "hook": "A KGB-led synesthesia experiment left a subject permanently unable to separate sound from sight.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "Soviet experiment",
+      "synesthesia",
+      "KGB sensory",
+      "brain rewiring",
+      "permanent alteration"
+    ],
+    "overlap_check_hash": "f63685ab7e26e027",
+    "why_this_can_go_viral": "Cold War secrecy + permanent brain change = irresistible forbidden knowledge angle."
+  },
+  {
+    "unique_id": "science_0022_006_7564d2657d173ad3",
+    "title": "The Physicist Who Found a Material That Vibrates Forever",
+    "hook": "A crystal that never stops oscillating—even at absolute zero, it leaked energy from nowhere.",
+    "virality_score": 76,
+    "curiosity_gap_score": 84,
+    "darkness_score": 45,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "perpetual vibration",
+      "zero point energy",
+      "quantum crystal",
+      "energy anomaly",
+      "absolute zero"
+    ],
+    "overlap_check_hash": "7564d2657d173ad3",
+    "why_this_can_go_viral": "Perpetual motion is a forbidden dream—this feels like a loophole in physics, triggering deep curiosity."
+  },
+  {
+    "unique_id": "science_0022_007_736dbc2e88ba31dd",
+    "title": "The Researcher Who Faked a Study That Made Plants Scream",
+    "hook": "He published 'plant pain' data that fooled the world for a decade—then admitted it was a hoax.",
+    "virality_score": 77,
+    "curiosity_gap_score": 83,
+    "darkness_score": 60,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "plant pain",
+      "hoax study",
+      "fake research",
+      "scientific scandal",
+      "plant consciousness"
+    ],
+    "overlap_check_hash": "736dbc2e88ba31dd",
+    "why_this_can_go_viral": "Plays on the viral 'plant communication' trend, then reveals it was all fabricated—a betrayal narrative."
+  },
+  {
+    "unique_id": "science_0022_009_6c73110ed5d8f9d9",
+    "title": "The Chemist Who Made a Liquid That Dissolves Glass",
+    "hook": "A clear fluid that eats through Pyrex like water—and the chemist lost three fingers proving it.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "glass dissolving",
+      "dangerous liquid",
+      "chemical burn",
+      "lab injury",
+      "superacid"
+    ],
+    "overlap_check_hash": "6c73110ed5d8f9d9",
+    "why_this_can_go_viral": "Visual horror—imagining glass melting—paired with real injury makes it visceral and shareable."
+  },
+  {
+    "unique_id": "science_0022_010_ccd3ad7cf38185ff",
+    "title": "The Neuroscientist Who Found a 'Suicide Switch' in Every Brain",
+    "hook": "A tiny cluster of neurons that, when triggered, forces a person to stop breathing voluntarily.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "suicide switch",
+      "brain death trigger",
+      "neural cluster",
+      "breathing off switch",
+      "hidden brain function"
+    ],
+    "overlap_check_hash": "ccd3ad7cf38185ff",
+    "why_this_can_go_viral": "Extremely dark, existential, and alarming—people will want to know if they have one too."
+  },
+  {
+    "unique_id": "science_0022_011_a726515e69b0b98b",
+    "title": "The Physicist Who Trapped a Particle Outside Time",
+    "hook": "A quantum dot isolated so completely that time stopped for its electrons—it existed in an eternal now.",
+    "virality_score": 74,
+    "curiosity_gap_score": 82,
+    "darkness_score": 55,
+    "educational_value": 80,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time stop",
+      "quantum dot",
+      "timeless state",
+      "electron freeze",
+      "permanent present"
+    ],
+    "overlap_check_hash": "a726515e69b0b98b",
+    "why_this_can_go_viral": "Time stopping is pure sci-fi—suggesting it's real in a lab taps into fundamental wonder."
+  },
+  {
+    "unique_id": "science_0022_012_c9f713cc6925f8af",
+    "title": "The Biologist Who Bred a Worm That Eats Bone Cancer",
+    "hook": "A parasitic nematode that hunts cancer cells—but only if the host is still alive.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 72,
+    "educational_value": 74,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "cancer eating worm",
+      "parasite treatment",
+      "nematode",
+      "living cure",
+      "biological horror"
+    ],
+    "overlap_check_hash": "c9f713cc6925f8af",
+    "why_this_can_go_viral": "The 'yuck' factor plus 'miracle cure' creates a grotesque hope that is highly shareable."
+  },
+  {
+    "unique_id": "science_0022_013_50606ddd58efdf6d",
+    "title": "The Researcher Who Faked a DNA Sequence That Came From Aliens",
+    "hook": "He 'discovered' extraterrestrial DNA in a meteorite—but it was actually a prank that cost his career.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 50,
+    "educational_value": 65,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "alien DNA hoax",
+      "meteorite scam",
+      "fake discovery",
+      "extraterrestrial life",
+      "scientific fraud"
+    ],
+    "overlap_check_hash": "50606ddd58efdf6d",
+    "why_this_can_go_viral": "Aliens are always viral—the reveal that it was faked adds a betrayal layer."
+  },
+  {
+    "unique_id": "science_0022_014_03495522233a9fb3",
+    "title": "The Soviet Lab That Tried to Create a Human-Chimpanzee Hybrid",
+    "hook": "Stalin ordered a secret experiment to cross a human and a chimp—the subject survived, but changed.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human chimp hybrid",
+      "Soviet hybrid",
+      "Stalin experiment",
+      "humanzee",
+      "forbidden genetics"
+    ],
+    "overlap_check_hash": "03495522233a9fb3",
+    "why_this_can_go_viral": "Taboo + Cold War secrecy + existential horror = explosive viral cocktail."
+  },
+  {
+    "unique_id": "science_0022_015_3edbdf0df4e32c39",
+    "title": "The Physicist Who Discovered a Force That Makes Things Heavier in Sunlight",
+    "hook": "A ghostly repulsion that increases mass when light hits—it broke Newton's laws for months.",
+    "virality_score": 72,
+    "curiosity_gap_score": 78,
+    "darkness_score": 40,
+    "educational_value": 76,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "light mass increase",
+      "new force",
+      "Newton anomaly",
+      "photonic interaction",
+      "weight change"
+    ],
+    "overlap_check_hash": "3edbdf0df4e32c39",
+    "why_this_can_go_viral": "Breaks intuitive physics—'light makes things heavy' is odd enough to trigger clicks."
+  },
+  {
+    "unique_id": "science_0022_017_a74609433d651a4f",
+    "title": "The Neuroscientist Who Made a Person Relive a Childhood Memory as Reality",
+    "hook": "A woman was convinced she was 7 years old again—her brain had no access to adult memories.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory reinduction",
+      "childhood regression",
+      "neural reset",
+      "lost identity",
+      "brain manipulation"
+    ],
+    "overlap_check_hash": "a74609433d651a4f",
+    "why_this_can_go_viral": "Identity loss is universally terrifying—viewers will imagine losing their own past."
+  },
+  {
+    "unique_id": "science_0022_018_750a562491201907",
+    "title": "The Quantum Paradox Where a Particle Exists Only When Watched",
+    "hook": "A quantum dot was observed into nonexistence—turn away, it returns; stare, it vanishes.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 60,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum observation",
+      "particle vanishing",
+      "observer effect extreme",
+      "quantum dot",
+      "reality trick"
+    ],
+    "overlap_check_hash": "750a562491201907",
+    "why_this_can_go_viral": "Plays on the 'quantum observer' meme—makes people question if they affect reality by looking."
+  },
+  {
+    "unique_id": "science_0022_020_d8c385b0c30db8fc",
+    "title": "The Researcher Who Faked a Study That 'Proved' the Earth Is Flat",
+    "hook": "A physicist published a paper with convincing data that flat earthers still cite—he admitted it was a joke.",
+    "virality_score": 74,
+    "curiosity_gap_score": 80,
+    "darkness_score": 30,
+    "educational_value": 68,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "flat earth hoax",
+      "scientific joke",
+      "fake study",
+      "earth shape",
+      "prank paper"
+    ],
+    "overlap_check_hash": "d8c385b0c30db8fc",
+    "why_this_can_go_viral": "Trolls the flat earth community—viral polarizing content that gets shared by skeptics and believers alike."
+  },
+  {
+    "unique_id": "science_0022_021_d87d1a123920a660",
+    "title": "The Chemist Who Created a Polymer That Escapes Its Container by Crawling",
+    "hook": "A self-propelled smart gel that climbs walls and exits petri dishes—it was found on the ceiling.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 68,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "self propelling gel",
+      "smart polymer",
+      "escape material",
+      "lab horror",
+      "crawling slime"
+    ],
+    "overlap_check_hash": "d87d1a123920a660",
+    "why_this_can_go_viral": "Living goo escaping is a sci-fi horror classic—makes people imagine it crawling out of their sink."
+  },
+  {
+    "unique_id": "science_0022_023_73264b2cfbf4487c",
+    "title": "The Biologist Who Bred a Frog That Grows Teeth on Its Skin",
+    "hook": "A genetic tweak caused teeth to sprout all over a frog's body—including inside its stomach.",
+    "virality_score": 82,
+    "curiosity_gap_score": 89,
+    "darkness_score": 79,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "tooth frog",
+      "skin teeth",
+      "genetic deformity",
+      "horror biology",
+      "mutant amphibian"
+    ],
+    "overlap_check_hash": "73264b2cfbf4487c",
+    "why_this_can_go_viral": "Body horror meets genetics—visually disgusting and scientifically shocking, perfect for shares."
+  },
+  {
+    "unique_id": "science_0022_025_58d996a646996b86",
+    "title": "The Lab That Made a Brain in a Dish—And It Started Dreaming",
+    "hook": "A cortical organoid developed spontaneous electrical activity resembling REM sleep—after just 50 days.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "brain in a dish",
+      "organoid dreaming",
+      "REM activity",
+      "lab grown brain",
+      "consciousness fragment"
+    ],
+    "overlap_check_hash": "58d996a646996b86",
+    "why_this_can_go_viral": "Implies a disembodied brain might have a mind—creates ethical horror and sci-fi fascination."
+  }
+]

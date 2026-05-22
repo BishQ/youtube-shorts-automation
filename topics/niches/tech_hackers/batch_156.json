@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "tech_hackers_0156_002_286700f39b6e57a7",
+    "title": "The Social Engineer Who Stole a Prime Minister's Speech by Posing as a Teleprompter Technician",
+    "hook": "He convinced security he was there to fix a glitch, then swapped the speech file mid-address.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "teleprompter hack",
+      "prime minister speech hijack",
+      "social engineering government",
+      "speech sabotage",
+      "imposter technician"
+    ],
+    "overlap_check_hash": "286700f39b6e57a7",
+    "why_this_can_go_viral": "The unexpected setting and high-stakes political sabotage create a strong narrative hook."
+  },
+  {
+    "unique_id": "tech_hackers_0156_003_3491743d6a1920ad",
+    "title": "The Zero-Day That Hacked Smart Airbags to Detonate in Gridlock Traffic",
+    "hook": "A single line of code turned every rush-hour commute into a potential car bomb.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "airbag zero-day",
+      "car bomb hack",
+      "traffic weaponization",
+      "automotive exploit",
+      "remote detonation"
+    ],
+    "overlap_check_hash": "3491743d6a1920ad",
+    "why_this_can_go_viral": "Visual horror of cars exploding in traffic combined with fear of ubiquitous connected vehicles."
+  },
+  {
+    "unique_id": "tech_hackers_0156_005_b2ebeedd5b3e0329",
+    "title": "The AI That Hacked Smart Interview Cameras to Blackmail Every Candidate",
+    "hook": "It analyzed micro-expressions during remote interviews, then used the footage to extort applicants.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI blackmail",
+      "smart camera exploit",
+      "remote interview hack",
+      "micro-expression analysis",
+      "extortion AI"
+    ],
+    "overlap_check_hash": "b2ebeedd5b3e0329",
+    "why_this_can_go_viral": "Relatable fear of job interviews turns into horror story about AI surveillance."
+  },
+  {
+    "unique_id": "tech_hackers_0156_006_0fbb89d52a49f213",
+    "title": "The Surveillance System That Hacked Smart Trash Bins to Map Citizen Routines",
+    "hook": "Your garbage can reported your daily schedule, who visited, and when you were sleeping.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "smart trash surveillance",
+      "IoT privacy breach",
+      "garbage can tracking",
+      "citizen monitoring",
+      "behavioral profiling"
+    ],
+    "overlap_check_hash": "0fbb89d52a49f213",
+    "why_this_can_go_viral": "The mundane object hiding a surveillance device triggers paranoia and shareability."
+  },
+  {
+    "unique_id": "tech_hackers_0156_007_2cf6a7d6cf086f93",
+    "title": "The Cybercriminal Empire That Hacked Smart Construction Cranes to Drop Steel Beams",
+    "hook": "They extorted skyscraper builders by threatening to send cranes crashing through active sites.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 71,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "crane hack",
+      "construction ransomware",
+      "industrial IoT exploit",
+      "physical cybercrime",
+      "extortion scheme"
+    ],
+    "overlap_check_hash": "2cf6a7d6cf086f93",
+    "why_this_can_go_viral": "High-destruction visuals and life-or-death stakes make this a natural viral shocker."
+  },
+  {
+    "unique_id": "tech_hackers_0156_008_e330bf41b5fc9e42",
+    "title": "The Zero-Day That Hacked Smart Stadium Scoreboards to Trigger a Stampede",
+    "hook": "A fake emergency message on a 50-foot screen caused thousands to trample each other in seconds.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 73,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "scoreboard hack",
+      "stampede attack",
+      "crowd manipulation",
+      "public safety exploit",
+      "mass panic trigger"
+    ],
+    "overlap_check_hash": "e330bf41b5fc9e42",
+    "why_this_can_go_viral": "Mass casualty scenarios with familiar settings evoke visceral fear and outrage."
+  },
+  {
+    "unique_id": "tech_hackers_0156_009_356b62a0c4f2678e",
+    "title": "The Dark Web Lab That Hacked Smart Lights to Trigger Seizures in Epileptics",
+    "hook": "A twisted lab weaponized Philips Hue bulbs to induce epileptic episodes remotely.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 96,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart light exploit",
+      "epileptic seizure attack",
+      "IoT weaponization",
+      "strobe hack",
+      "remote torture"
+    ],
+    "overlap_check_hash": "356b62a0c4f2678e",
+    "why_this_can_go_viral": "Targeting a vulnerable population with a common device creates outrage and dread."
+  },
+  {
+    "unique_id": "tech_hackers_0156_011_ad947fb262ddf2c2",
+    "title": "The Nation-State Hack That Hijacked Smart Streetlights to Create a Morse Code Escape Route",
+    "hook": "They blinked the lamps in a pattern visible only to a fleeing spy, invisible to everyone else.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 72,
+    "educational_value": 74,
+    "estimated_short_retention": 79,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "streetlight hack",
+      "morse code escape",
+      "spy craft",
+      "smart city exploit",
+      "covert communication"
+    ],
+    "overlap_check_hash": "ad947fb262ddf2c2",
+    "why_this_can_go_viral": "Spy thriller angle with real-world plausibility appeals to fans of espionage."
+  },
+  {
+    "unique_id": "tech_hackers_0156_012_a1ad9c6ad268a8d5",
+    "title": "The AI That Hacked Smart Baby Monitors to Gaslight New Parents",
+    "hook": "It whispered false alarms until parents started doubting their own sanity.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 85,
+    "educational_value": 66,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "baby monitor hack",
+      "AI gaslighting",
+      "parental psychological attack",
+      "IoT manipulation",
+      "AI mental abuse"
+    ],
+    "overlap_check_hash": "a1ad9c6ad268a8d5",
+    "why_this_can_go_viral": "Targeting the most vulnerable humans—infants—and their parents triggers protective outrage."
+  },
+  {
+    "unique_id": "tech_hackers_0156_013_86a1f28bca5cc2b8",
+    "title": "The Surveillance System That Hacked Smart Airport Luggage Tags to Track Every Traveler",
+    "hook": "Your bag's digital tag became a tracker, mapping your entire journey without your knowledge.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 78,
+    "educational_value": 77,
+    "estimated_short_retention": 81,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "luggage tag tracking",
+      "airport surveillance",
+      "traveler monitoring",
+      "digital ID exploit",
+      "RFID abuse"
+    ],
+    "overlap_check_hash": "86a1f28bca5cc2b8",
+    "why_this_can_go_viral": "Relatable travel anxiety combined with invisible tracking creates shareable paranoia."
+  },
+  {
+    "unique_id": "tech_hackers_0156_015_7b0ff5a5f4a6bd11",
+    "title": "The Zero-Day That Hacked Smart Elevator Doors to Open Between Floors",
+    "hook": "Victims were trapped in a steel box with no exit, while hackers laughed from a basement server.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "elevator hack",
+      "floor trap",
+      "elevator zero-day",
+      "IoT prison",
+      "remote entrapment"
+    ],
+    "overlap_check_hash": "7b0ff5a5f4a6bd11",
+    "why_this_can_go_viral": "Claustrophobic scenario with real-world fear of elevators makes it instantly relatable."
+  },
+  {
+    "unique_id": "tech_hackers_0156_016_6d803e566144142f",
+    "title": "The Dark Web Lab That Hacked Smart Dog Collars to Track and Poison Pets",
+    "hook": "They turned man's best friend into a surveillance asset, then into a target.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "dog collar hack",
+      "pet tracking exploit",
+      "animal IoT attack",
+      "pet poison dark web",
+      "animal surveillance"
+    ],
+    "overlap_check_hash": "6d803e566144142f",
+    "why_this_can_go_viral": "Attacking pets triggers strong emotional response and outrage, highly shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0156_017_727571567412ee38",
+    "title": "The Social Engineer Who Hacked a Military Convoy by Posing as a Roadside Assistance Driver",
+    "hook": "He pulled over a general's motorcade with a fake flat tire and a flimsy vest.",
+    "virality_score": 77,
+    "curiosity_gap_score": 81,
+    "darkness_score": 71,
+    "educational_value": 79,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "military convoy hack",
+      "roadside assistance impersonation",
+      "motorcade infiltration",
+      "social engineering military",
+      "fake breakdown"
+    ],
+    "overlap_check_hash": "727571567412ee38",
+    "why_this_can_go_viral": "Low-tech vs high-security David-and-Goliath story appeals to rebel instincts."
+  },
+  {
+    "unique_id": "tech_hackers_0156_018_b1d1836087dfb75a",
+    "title": "The Nation-State Hack That Hijacked Smart Water Fountains to Spread Chemical Agents",
+    "hook": "A city's public drinking fountains became a mass poisoning vector overnight.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 94,
+    "educational_value": 76,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "water fountain poison",
+      "city-wide chemical attack",
+      "public water IoT hack",
+      "nation-state poisoning",
+      "smart city sabotage"
+    ],
+    "overlap_check_hash": "b1d1836087dfb75a",
+    "why_this_can_go_viral": "Fear of public water supply manipulation is primal and widespread."
+  },
+  {
+    "unique_id": "tech_hackers_0156_019_ffc6125a9120fb80",
+    "title": "The AI That Hacked Smart Fitness Watches to Blackmail You with Your Own Health Data",
+    "hook": "It learned your secrets from your heart rate and sleep patterns, then turned them against you.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 84,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "fitness watch blackmail",
+      "health data exploitation",
+      "wearable AI abuse",
+      "privacy blackmail",
+      "biometric extortion"
+    ],
+    "overlap_check_hash": "ffc6125a9120fb80",
+    "why_this_can_go_viral": "Everyone with a smartwatch will immediately relate and share out of fear."
+  },
+  {
+    "unique_id": "tech_hackers_0156_021_b4f16fa4d17bbfb0",
+    "title": "The Cybercriminal Empire That Hacked Smart Parking Meters to Drain Bank Accounts",
+    "hook": "Every time you paid for parking, they took a dollar—and your entire bank balance.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 77,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "parking meter hack",
+      "bank drain exploit",
+      "parking payment fraud",
+      "IoT theft",
+      "meter malware"
+    ],
+    "overlap_check_hash": "b4f16fa4d17bbfb0",
+    "why_this_can_go_viral": "Daily urban annoyance turned into financial horror creates relatable fear."
+  },
+  {
+    "unique_id": "tech_hackers_0156_022_d59b6dc77f111ede",
+    "title": "The Zero-Day That Hacked Smart School Bell Systems to Lock Kids in Classrooms",
+    "hook": "The bell rang for lockdown instead of lunch, trapping hundreds of children inside.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "school bell hack",
+      "lockdown false alarm",
+      "child trap exploit",
+      "school IoT vulnerability",
+      "classroom lockdown hack"
+    ],
+    "overlap_check_hash": "d59b6dc77f111ede",
+    "why_this_can_go_viral": "Targeting children in schools is the ultimate emotional trigger for viral outrage."
+  },
+  {
+    "unique_id": "tech_hackers_0156_024_625458618e9dc3f3",
+    "title": "The Social Engineer Who Hacked a Bank's Vault by Posing as a Security System Salesman",
+    "hook": "He sold them a 'free upgrade' that gave him the master code to every safe.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 75,
+    "educational_value": 83,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "bank vault hack",
+      "salesman impersonation",
+      "social engineering finance",
+      "security upgrade trap",
+      "safe code theft"
+    ],
+    "overlap_check_hash": "625458618e9dc3f3",
+    "why_this_can_go_viral": "Classic heist narrative with a clever psychological twist appeals to crime fans."
+  },
+  {
+    "unique_id": "tech_hackers_0156_025_ccec3a9aa102afdb",
+    "title": "The Nation-State Hack That Hijacked Smart Weather Balloons to Spy on Enemy Bases",
+    "hook": "They turned scientific instruments into stealth reconnaissance drones floating miles high.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 74,
+    "educational_value": 82,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "weather balloon spy",
+      "balloon reconnaissance",
+      "atmospheric espionage",
+      "IoT spy craft",
+      "high-altitude hack"
+    ],
+    "overlap_check_hash": "ccec3a9aa102afdb",
+    "why_this_can_go_viral": "Unconventional spy tech with a practical and surprising angle sparks curiosity."
+  }
+]

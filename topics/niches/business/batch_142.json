@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "business_0142_001_c7b0f15b670d5a06",
+    "title": "The CEO Who Sold 'Earthquake Insurance'—Then Caused the Quake",
+    "hook": "A CEO sold earthquake insurance to a small town, then used industrial explosives to trigger tremors and cash in on claims.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "earthquake insurance fraud",
+      "industrial explosives",
+      "CEO crime",
+      "induced seismicity",
+      "insurance scam"
+    ],
+    "overlap_check_hash": "c7b0f15b670d5a06",
+    "why_this_can_go_viral": "Combines a shocking betrayal of trust with a high-stakes, almost cinematic plot twist—viewers will share to warn others."
+  },
+  {
+    "unique_id": "business_0142_002_44b01f04d20db6a8",
+    "title": "The Trader Who Faked a Plague to Crush a Competitor's Stock",
+    "hook": "A trader fabricated a news story about a rare disease at a rival company's factory, crashing their stock overnight.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "market manipulation",
+      "fake plague",
+      "stock crash",
+      "rumor trading",
+      "financial sabotage"
+    ],
+    "overlap_check_hash": "44b01f04d20db6a8",
+    "why_this_can_go_viral": "Exploits primal fear of disease, with a villainous strategy that feels ripped from a thriller."
+  },
+  {
+    "unique_id": "business_0142_003_4956e5b2a1bca42a",
+    "title": "The Startup That Sold 'AI Life Coaches'—They Were Prison Inmates",
+    "hook": "A startup marketed AI-powered life coaching, but the 'AI' was actually inmates in a remote prison, paid pennies per session.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "AI fraud",
+      "prison labor",
+      "fake AI",
+      "startup scam",
+      "life coach deception"
+    ],
+    "overlap_check_hash": "4956e5b2a1bca42a",
+    "why_this_can_go_viral": "Massive ethical violation and hidden labor expose—people love uncovering the 'human behind the machine'."
+  },
+  {
+    "unique_id": "business_0142_005_4c62e93f720af596",
+    "title": "The Corporate Spy Who Posed as a Janitor—Then Sold Trade Secrets in Mopping Water",
+    "hook": "A spy disguised as a janitor stole chemical formulas by soaking his mop in competitor vats, then extracting the liquid at night.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 84,
+    "educational_value": 65,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "corporate spy",
+      "janitor disguise",
+      "trade secret theft",
+      "chemical espionage",
+      "mopping water"
+    ],
+    "overlap_check_hash": "4c62e93f720af596",
+    "why_this_can_go_viral": "Low-tech, high-creativity spycraft—audiences love the 'invisible infiltrator' trope."
+  },
+  {
+    "unique_id": "business_0142_007_0f146114737c1165",
+    "title": "The Supply Chain Secret of 'Ethical' Coffee—It Was Grown on Prison Land",
+    "hook": "A 'fair trade' coffee brand sourced beans from a prison farm where inmates worked for free, labeled as 'ethically sourced'.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "coffee supply chain",
+      "prison labor",
+      "fair trade fraud",
+      "ethical branding scam",
+      "inmate exploitation"
+    ],
+    "overlap_check_hash": "0f146114737c1165",
+    "why_this_can_go_viral": "Betrayal of ethical consumers' trust—a 'how your morning coffee is tainted' hook drives shares."
+  },
+  {
+    "unique_id": "business_0142_008_0d4cd2f3a0e381c6",
+    "title": "The Industry Cover-Up of 'Unbreakable' Glass—It Shattered on Purpose",
+    "hook": "A glass company knowingly sold fragile windows to skyscrapers, then paid off inspectors to hide the failure rate.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 81,
+    "educational_value": 68,
+    "estimated_short_retention": 77,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "glass cover-up",
+      "skyscraper safety",
+      "inspector bribery",
+      "unbreakable glass",
+      "building fraud"
+    ],
+    "overlap_check_hash": "0d4cd2f3a0e381c6",
+    "why_this_can_go_viral": "Public safety angle—everyone lives or works in buildings, making it personally relevant."
+  },
+  {
+    "unique_id": "business_0142_009_f19d3520df2910f1",
+    "title": "The CEO Who Drained a Lake to Sell 'Ancient' Bottled Water",
+    "hook": "A CEO drained a protected lake, bottled the water as 'ancient glacial', and let the ecosystem collapse—all for profit.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 87,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "bottled water scam",
+      "lake drainage",
+      "environmental destruction",
+      "glacial water fraud",
+      "CEO profit"
+    ],
+    "overlap_check_hash": "f19d3520df2910f1",
+    "why_this_can_go_viral": "Environmental tragedy meets corporate greed—powerful imagery and outrage fuel virality."
+  },
+  {
+    "unique_id": "business_0142_010_b905bc20084106f9",
+    "title": "The Trader Who Used a Fake 'Eclipse' to Short Solar Energy Stocks",
+    "hook": "A trader spread a fake scientific report claiming a years-long eclipse, then shorted solar stocks as they plummeted.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 83,
+    "educational_value": 68,
+    "estimated_short_retention": 79,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "market manipulation",
+      "fake eclipse",
+      "solar stock short",
+      "scientific disinformation",
+      "trader fraud"
+    ],
+    "overlap_check_hash": "b905bc20084106f9",
+    "why_this_can_go_viral": "Uses a celestial event—strange and memorable, with a 'how far will greed go' angle."
+  },
+  {
+    "unique_id": "business_0142_011_ccd0c19cd6897a50",
+    "title": "The Startup That Sold 'Smart' Baby Monitors—They Were Spying on You",
+    "hook": "A startup sold baby monitors with hidden cameras that streamed footage to its team, who used it to blackmail parents.",
+    "virality_score": 95,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 74,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "baby monitor spy",
+      "hidden camera scam",
+      "startup blackmail",
+      "smart device fraud",
+      "parent privacy"
+    ],
+    "overlap_check_hash": "ccd0c19cd6897a50",
+    "why_this_can_go_viral": "Invades the most intimate space—baby's room—triggering maximum parental outrage and sharing."
+  },
+  {
+    "unique_id": "business_0142_012_7324dfef65c17f69",
+    "title": "The Monopoly That Bought Every Pharmacy—Then Gave You Placebos for Profit",
+    "hook": "A pharmacy chain replaced expensive drugs with sugar pills in certain bottles, billing insurance while pocketing the difference.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "pharmacy monopoly",
+      "placebo scam",
+      "insurance fraud",
+      "drug replacement",
+      "sugar pills"
+    ],
+    "overlap_check_hash": "7324dfef65c17f69",
+    "why_this_can_go_viral": "Affects health directly—viewers will fear for their prescriptions and share to spread awareness."
+  },
+  {
+    "unique_id": "business_0142_013_a1621a0b44c5a594",
+    "title": "The Corporate Spy Who Faked a Romance to Steal a Biotech Patent",
+    "hook": "A corporate spy seduced a scientist at a rival firm, stealing a cancer drug formula before disappearing with the secret.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 62,
+    "estimated_short_retention": 78,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "biotech espionage",
+      "romance scam",
+      "patent theft",
+      "corporate seduction",
+      "spy love"
+    ],
+    "overlap_check_hash": "a1621a0b44c5a594",
+    "why_this_can_go_viral": "Combines romance, betrayal, and high-stakes science—a soap opera with real-world consequences."
+  },
+  {
+    "unique_id": "business_0142_014_57bba52475b191b9",
+    "title": "The Dark Marketing Firm That Used Divorce Records to Sell DNA Tests",
+    "hook": "A firm scraped public divorce files, then mailed targeted DNA test ads suggesting infidelity, breaking up families for profit.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 91,
+    "educational_value": 71,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "divorce data",
+      "DNA test ads",
+      "infidelity marketing",
+      "privacy violation",
+      "family destruction"
+    ],
+    "overlap_check_hash": "57bba52475b191b9",
+    "why_this_can_go_viral": "Exploits personal trauma—viewers will be both fascinated and horrified, sharing to warn others."
+  },
+  {
+    "unique_id": "business_0142_016_36927b1dbec65f84",
+    "title": "The Industry Cover-Up of 'Safe' Airbags—They Exploded Like Shrapnel",
+    "hook": "An airbag manufacturer knew its product turned into shrapnel in crashes but hid the defect for years, causing dozens of deaths.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "airbag defect",
+      "shrapnel cover-up",
+      "auto safety fraud",
+      "death cover-up",
+      "manufacturer negligence"
+    ],
+    "overlap_check_hash": "36927b1dbec65f84",
+    "why_this_can_go_viral": "Life-or-death stakes with a massive cover-up—audiences will fear for their own cars and share."
+  },
+  {
+    "unique_id": "business_0142_017_df92ddec0c520b44",
+    "title": "The CEO Who Bought a Prison—Then Sold Inmates as 'Volunteer' Labor",
+    "hook": "A CEO purchased a private prison, then leased inmates out to factories as 'volunteers', keeping 95% of their wages.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 74,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "private prison profit",
+      "inmate labor",
+      "volunteer scam",
+      "wage theft",
+      "CEO exploitation"
+    ],
+    "overlap_check_hash": "df92ddec0c520b44",
+    "why_this_can_go_viral": "Taps into prison reform outrage—a modern slavery narrative that sparks political sharing."
+  },
+  {
+    "unique_id": "business_0142_018_137a703126134e3f",
+    "title": "The Trader Who Faked a 'Crop Failure' to Corner the Grain Market",
+    "hook": "A trader faked satellite images of wilting crops, then bought up all grain futures as prices soared—but the harvest was fine.",
+    "virality_score": 77,
+    "curiosity_gap_score": 81,
+    "darkness_score": 79,
+    "educational_value": 66,
+    "estimated_short_retention": 75,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "grain market manipulation",
+      "fake satellite images",
+      "crop failure fraud",
+      "commodities scam",
+      "trader trick"
+    ],
+    "overlap_check_hash": "137a703126134e3f",
+    "why_this_can_go_viral": "High-tech deception with a 'what's real anymore' angle—appeals to conspiracy-minded viewers."
+  },
+  {
+    "unique_id": "business_0142_019_52afa749edefd20e",
+    "title": "The Startup That Sold 'Fitness' Trackers—They Were Heart Rate Sensor Keyloggers",
+    "hook": "A startup's fitness watches secretly recorded everything wearers typed on nearby keyboards, stealing passwords and secrets.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 94,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "fitness tracker spy",
+      "keylogger scam",
+      "password theft",
+      "wearable fraud",
+      "startup deception"
+    ],
+    "overlap_check_hash": "52afa749edefd20e",
+    "why_this_can_go_viral": "Combines health, tech, and privacy invasion—everyone with a smartwatch will feel targeted."
+  },
+  {
+    "unique_id": "business_0142_020_b77693a37114855d",
+    "title": "The Monopoly That Bought Every Tire Shop—Then Sold You 'Repaired' Blowouts",
+    "hook": "A tire monopoly bought all local shops, then patched and resold old tires as new—causing highway blowouts to boost sales.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 78,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "tire monopoly",
+      "used tire scam",
+      "blowout fraud",
+      "highway danger",
+      "automotive abuse"
+    ],
+    "overlap_check_hash": "b77693a37114855d",
+    "why_this_can_go_viral": "Dangerous product failure—drivers will share out of fear and anger."
+  },
+  {
+    "unique_id": "business_0142_023_71f0f8290b886249",
+    "title": "The Supply Chain Secret of 'Fresh' Sushi—It Was 3-Year-Old Tuna Dyed Pink",
+    "hook": "A grocery chain sold 'fresh' sushi made from frozen, 3-year-old tuna revived with red dye and ammonia wash.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 84,
+    "educational_value": 71,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "sushi fraud",
+      "old tuna",
+      "red dye scam",
+      "ammonia wash",
+      "grocery cover-up"
+    ],
+    "overlap_check_hash": "71f0f8290b886249",
+    "why_this_can_go_viral": "Gross-out factor meets food trust betrayal—sushi lovers will share in disgust."
+  },
+  {
+    "unique_id": "business_0142_024_32ae8550e2a043fe",
+    "title": "The Industry Cover-Up of 'Lead-Free' Toys—They Were Coated in Radioactive Paint",
+    "hook": "A toy company sold 'lead-free' children's toys painted with radioactive material to save costs, bribing safety testers.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 77,
+    "estimated_short_retention": 87,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "radioactive toys",
+      "lead-free fraud",
+      "children safety",
+      "bribery testers",
+      "paint cover-up"
+    ],
+    "overlap_check_hash": "32ae8550e2a043fe",
+    "why_this_can_go_viral": "Children's safety violation—parents will be horrified and share aggressively."
+  },
+  {
+    "unique_id": "business_0142_025_14582875edbcb8a2",
+    "title": "The CEO Who Bought a Forest—Then Sold Its 'Carbon Credits' to Netflix",
+    "hook": "A CEO cleared a protected forest for timber, then sold its 'carbon credits' to a streaming giant as a climate offset.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "carbon credit fraud",
+      "forest destruction",
+      "Netflix offset",
+      "CEO scam",
+      "environmental corruption"
+    ],
+    "overlap_check_hash": "14582875edbcb8a2",
+    "why_this_can_go_viral": "Exposes fake climate action—a hot-button topic that sparks debate and sharing."
+  }
+]

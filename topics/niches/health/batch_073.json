@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "health_0073_001_a4449d8816fb96ba",
+    "title": "The Dentist Who Gave 200 Patients HIV Through Dirty Tools",
+    "hook": "A Florida dentist's negligence led to one of the largest HIV transmission cases in U.S. history, and he kept practicing for years.",
+    "virality_score": 88,
+    "curiosity_gap_score": 85,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "dentist HIV",
+      "medical negligence",
+      "Florida AIDS",
+      "dirty dental tools",
+      "patient infection"
+    ],
+    "overlap_check_hash": "a4449d8816fb96ba",
+    "why_this_can_go_viral": "Shock value of a trusted professional infecting dozens, combined with real names and dates, drives outrage and shares."
+  },
+  {
+    "unique_id": "health_0073_002_1d7633506ae79160",
+    "title": "The FDA-Approved Drug That Gave 1 in 500 Men Permanent Breast Growth",
+    "hook": "A common prostate medication caused irreversible gynecomastia in thousands of men, and the warning label barely mentions it.",
+    "virality_score": 82,
+    "curiosity_gap_score": 80,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "gynecomastia drug",
+      "prostate med side effects",
+      "FDA failure",
+      "male breast growth",
+      "finasteride"
+    ],
+    "overlap_check_hash": "1d7633506ae79160",
+    "why_this_can_go_viral": "Body horror mixed with systemic betrayal—men feel targeted and share in disbelief."
+  },
+  {
+    "unique_id": "health_0073_004_37e1271e8c52a465",
+    "title": "The Pharmaceutical Company That Sold a Cough Syrup That Turned Kids Into Zombies",
+    "hook": "A mass-produced cough syrup in the 1930s caused a nationwide epidemic of addiction and brain damage in children.",
+    "virality_score": 84,
+    "curiosity_gap_score": 82,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "cough syrup addiction",
+      "children zombie drug",
+      "1930s medical scandal",
+      "codeine syrup",
+      "pediatric opioid"
+    ],
+    "overlap_check_hash": "37e1271e8c52a465",
+    "why_this_can_go_viral": "Historical horror with modern parallels—parents fear for their kids and share as a warning."
+  },
+  {
+    "unique_id": "health_0073_005_ecccb6e2ae1c412b",
+    "title": "The Experiment That Suffocated 20 Babies to Study 'Survival Instinct'",
+    "hook": "In the 1940s, researchers strapped newborns into airtight chambers to see how long they could hold their breath.",
+    "virality_score": 92,
+    "curiosity_gap_score": 90,
+    "darkness_score": 98,
+    "educational_value": 60,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "infant suffocation experiment",
+      "baby breath test",
+      "1940s unethical research",
+      "newborn torture",
+      "medical horror"
+    ],
+    "overlap_check_hash": "ecccb6e2ae1c412b",
+    "why_this_can_go_viral": "Extreme shock and moral outrage—viewers cannot imagine such cruelty and feel compelled to verify and share."
+  },
+  {
+    "unique_id": "health_0073_006_8900ace751a9bce7",
+    "title": "The Suppressed Cure: $3 Ginger Compress Eliminated 80% of Migraines in 15 Minutes",
+    "hook": "A simple kitchen remedy outperformed the leading migraine drug in a clinical trial—and no one funded the follow-up.",
+    "virality_score": 78,
+    "curiosity_gap_score": 76,
+    "darkness_score": 65,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "migraine cure ginger",
+      "natural headache remedy",
+      "suppressed treatment",
+      "big pharma ignored",
+      "cheap cure"
+    ],
+    "overlap_check_hash": "8900ace751a9bce7",
+    "why_this_can_go_viral": "High utility and conspiracy undertone—migraine sufferers immediately want to try and share the tip."
+  },
+  {
+    "unique_id": "health_0073_007_f4f721170c6d4eec",
+    "title": "The Doctor Who Harvested 1,000 Corneas from Dead Patients Without Permission",
+    "hook": "A respected surgeon stole eyes from the deceased to sell on the black market, leaving families with empty sockets at funerals.",
+    "virality_score": 86,
+    "curiosity_gap_score": 84,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "cornea theft",
+      "organ harvesting doctor",
+      "dead patient eyes",
+      "black market corneas",
+      "eye bank scandal"
+    ],
+    "overlap_check_hash": "f4f721170c6d4eec",
+    "why_this_can_go_viral": "Visceral horror and betrayal of trust—viewers imagine finding a loved one with missing eyes, driving emotional shares."
+  },
+  {
+    "unique_id": "health_0073_008_a15d531b9c243eb7",
+    "title": "The FDA-Approved Antibiotic That Caused Permanent Tendon Ruptures in 1 in 10 Users",
+    "hook": "A widely prescribed antibiotic for sinus infections suddenly snapped Achilles tendons in thousands of patients, but the FDA took 20 years to add a warning.",
+    "virality_score": 80,
+    "curiosity_gap_score": 78,
+    "darkness_score": 82,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "fluoroquinolone tendon rupture",
+      "antibiotic side effects",
+      "Achilles snap",
+      "Cipro damage",
+      "FDA delay"
+    ],
+    "overlap_check_hash": "a15d531b9c243eb7",
+    "why_this_can_go_viral": "Relatable fear—many viewers have taken this drug; the sudden rupture story creates panic and urgent sharing."
+  },
+  {
+    "unique_id": "health_0073_009_0b41eba792960b92",
+    "title": "The Hospital That Dumped 50 'Brain Dead' Patients Into Unmarked Graves",
+    "hook": "A hospital in the 1970s buried patients they deemed brain dead without notifying families—some were still alive.",
+    "virality_score": 89,
+    "curiosity_gap_score": 86,
+    "darkness_score": 97,
+    "educational_value": 60,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "brain dead burial",
+      "hospital mass grave",
+      "buried alive patients",
+      "1970s medical scandal",
+      "unmarked graves"
+    ],
+    "overlap_check_hash": "0b41eba792960b92",
+    "why_this_can_go_viral": "Horror of being buried alive combined with institutional betrayal—viewers cannot look away."
+  },
+  {
+    "unique_id": "health_0073_010_302fe149dbcc4345",
+    "title": "The Pharmaceutical Giant That Sold a Painkiller That Melted Patients' Livers",
+    "hook": "An over-the-counter pain reliever caused liver failure in doses just slightly above recommended—and the company knew for decades.",
+    "virality_score": 79,
+    "curiosity_gap_score": 77,
+    "darkness_score": 84,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "liver failure painkiller",
+      "paracetamol overdose",
+      "tylenol cover-up",
+      "liver melt",
+      "hidden toxicity"
+    ],
+    "overlap_check_hash": "302fe149dbcc4345",
+    "why_this_can_go_viral": "Common household drug revealed as deadly—viewers who use it daily feel cheated and share as a warning."
+  },
+  {
+    "unique_id": "health_0073_011_941543b8f071c55b",
+    "title": "The Experiment That Injected Live Cancer Cells Into 100 Unsuspecting Prisoners",
+    "hook": "In the 1960s, researchers injected prison inmates with live cancer cells to study immunity, without telling them what it was.",
+    "virality_score": 85,
+    "curiosity_gap_score": 83,
+    "darkness_score": 93,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "cancer injection experiment",
+      "prisoner medical test",
+      "live cancer cells",
+      "unethical research",
+      "1960s horror"
+    ],
+    "overlap_check_hash": "941543b8f071c55b",
+    "why_this_can_go_viral": "Moral outrage and racial overtones (most prisoners were Black) make it highly shareable on social justice platforms."
+  },
+  {
+    "unique_id": "health_0073_012_8a57b7642032cbc4",
+    "title": "The Disease Cover-Up: How Antibacterial Soap Caused 40% of Eczema in Children",
+    "hook": "The triclosan in antibacterial soap was linked to a massive rise in childhood eczema—yet it took 20 years for regulators to act.",
+    "virality_score": 76,
+    "curiosity_gap_score": 74,
+    "darkness_score": 72,
+    "educational_value": 82,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "triclosan eczema",
+      "antibacterial soap danger",
+      "child skin disease",
+      "FDA cover-up",
+      "eczema epidemic"
+    ],
+    "overlap_check_hash": "8a57b7642032cbc4",
+    "why_this_can_go_viral": "Every parent deals with eczema or uses antibacterial soap—direct relevance drives shares and concern."
+  },
+  {
+    "unique_id": "health_0073_013_6e7b7b35ff01518e",
+    "title": "The Doctor Who Injected 200 Women with Sperm Without Their Consent",
+    "hook": "A fertility doctor used his own sperm to impregnate hundreds of women, leading to dozens of genetic half-siblings.",
+    "virality_score": 87,
+    "curiosity_gap_score": 85,
+    "darkness_score": 91,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "fertility doctor sperm swap",
+      "reproductive fraud",
+      "genetic half-siblings",
+      "doctor insemination",
+      "IVF scandal"
+    ],
+    "overlap_check_hash": "6e7b7b35ff01518e",
+    "why_this_can_go_viral": "Shocking betrayal of trust and DNA-families discovering dozens of siblings—story arcs make it shareable and binge-worthy."
+  },
+  {
+    "unique_id": "health_0073_016_46f706edf08bf60a",
+    "title": "The Suppressed Cure: $5 Black Seed Oil Stopped 50% of Hospital Superbug Infections",
+    "hook": "Clinical studies show black seed oil kills MRSA and C. diff—but no pharmaceutical company will fund the trials.",
+    "virality_score": 75,
+    "curiosity_gap_score": 73,
+    "darkness_score": 68,
+    "educational_value": 82,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "black seed oil MRSA",
+      "natural antibiotic cure",
+      "superbug treatment",
+      "suppressed research",
+      "big pharma blocking"
+    ],
+    "overlap_check_hash": "46f706edf08bf60a",
+    "why_this_can_go_viral": "Anti-establishment angle plus practical health tip—people love cheap solutions that 'they' don't want you to know."
+  },
+  {
+    "unique_id": "health_0073_017_40e92dc224722708",
+    "title": "The Pharmaceutical Company That Spiked a Drug with Methamphetamine to Make It Addictive",
+    "hook": "A weight loss pill in the 1950s contained methamphetamine, creating millions of addicts—on purpose.",
+    "virality_score": 83,
+    "curiosity_gap_score": 81,
+    "darkness_score": 90,
+    "educational_value": 68,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "meth weight loss pill",
+      "addictive drug design",
+      "1950s pharmaceutical scandal",
+      "speed in diet pills",
+      "intentional addiction"
+    ],
+    "overlap_check_hash": "40e92dc224722708",
+    "why_this_can_go_viral": "Conspiracy-like truth that turns out to be historically documented—outrage drives shares across health and history audiences."
+  },
+  {
+    "unique_id": "health_0073_018_08d85fcdde322047",
+    "title": "The Experiment That Starved 50 Men to Study 'Famine Resistance'",
+    "hook": "During WWII, scientists put conscientious objectors on extreme starvation diets for months, then force-fed them to study refeeding syndrome.",
+    "virality_score": 81,
+    "curiosity_gap_score": 79,
+    "darkness_score": 89,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "starvation experiment",
+      "Minnesota starvation study",
+      "force feeding research",
+      "ethical violations",
+      "famine science"
+    ],
+    "overlap_check_hash": "08d85fcdde322047",
+    "why_this_can_go_viral": "Grim and extremely visual (emaciated bodies)—the psychological and physical horror keeps viewers glued."
+  },
+  {
+    "unique_id": "health_0073_020_b5ab93ef0dd5cc96",
+    "title": "The Doctor Who Told 100 Healthy Families They Had a Deadly Genetic Disease—To Sell Treatment",
+    "hook": "A geneticist fabricated test results, convincing families they carried a fatal mutation, then charged for 'corrective' therapy.",
+    "virality_score": 84,
+    "curiosity_gap_score": 82,
+    "darkness_score": 90,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "genetic test scam",
+      "fabricated disease",
+      "doctor fraud",
+      "fatal mutation lie",
+      "unnecessary treatment"
+    ],
+    "overlap_check_hash": "b5ab93ef0dd5cc96",
+    "why_this_can_go_viral": "Fear of false medical diagnosis is universal—viewers imagine being told they have a deadly disease for profit."
+  },
+  {
+    "unique_id": "health_0073_021_527675d4f033dc4b",
+    "title": "The Disease Cover-Up: How Air Fresheners Caused 30% of Chronic Sinusitis",
+    "hook": "Volatile chemicals in air fresheners are now linked to permanent sinus damage, but manufacturers still claim they're safe.",
+    "virality_score": 74,
+    "curiosity_gap_score": 72,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "air freshener sinusitis",
+      "chronic sinus cause",
+      "chemical cover-up",
+      "volatile organic compounds",
+      "household toxin"
+    ],
+    "overlap_check_hash": "527675d4f033dc4b",
+    "why_this_can_go_viral": "Every home uses these—people love discovering hidden dangers in everyday products and sharing warnings."
+  },
+  {
+    "unique_id": "health_0073_023_a01a8a541576db97",
+    "title": "The Experiment That Gave 200 Schoolchildren a 'Mental Test' That Gave Them Seizures",
+    "hook": "In the 1970s, researchers tested a new brain scanning technique on children by injecting radioactive tracers, causing seizures and brain damage.",
+    "virality_score": 85,
+    "curiosity_gap_score": 83,
+    "darkness_score": 94,
+    "educational_value": 65,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "children brain experiment",
+      "radioactive tracer seizure",
+      "1970s unethical test",
+      "schoolchild guinea pigs",
+      "brain damage study"
+    ],
+    "overlap_check_hash": "a01a8a541576db97",
+    "why_this_can_go_viral": "Children as test subjects always triggers rage—the neurological horror adds a visceral layer that drives shares."
+  },
+  {
+    "unique_id": "health_0073_025_8dd6d753c598d641",
+    "title": "The Toxic Fabric Softener That Gave 1 in 10 Families Chronic Respiratory Illness",
+    "hook": "The chemical coating on fabric softeners accumulates in the lungs over time, leading to irreversible breathing problems—and it's in most laundry rooms.",
+    "virality_score": 77,
+    "curiosity_gap_score": 75,
+    "darkness_score": 76,
+    "educational_value": 80,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "fabric softener lung damage",
+      "respiratory toxin",
+      "laundry chemical danger",
+      "quats toxicity",
+      "chronic cough cause"
+    ],
+    "overlap_check_hash": "8dd6d753c598d641",
+    "why_this_can_go_viral": "Universal household product—viewers immediately check their laundry room, creating personal urgency and shareability."
+  }
+]

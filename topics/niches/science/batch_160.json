@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "science_0160_001_c0a4046c8434bace",
+    "title": "The Scientist Who Fed His Own Flesh to a Lab-Grown Brain",
+    "hook": "A neuroscientist cultured human brain tissue from his own cells, then watched it develop neural activity—and it started reaching for him.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 94,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "lab-grown brain",
+      "self-experiment",
+      "neural tissue",
+      "consciousness",
+      "ethics violation"
+    ],
+    "overlap_check_hash": "c0a4046c8434bace",
+    "why_this_can_go_viral": "Self-cannibalism meets Frankenstein science—extreme taboo violation plus moral horror drives shares."
+  },
+  {
+    "unique_id": "science_0160_002_272203acde096601",
+    "title": "The Chemist Who Made a Flame That Burns Through Stone—and It Never Stops",
+    "hook": "A lab in Ukraine synthesized a chemical fire so hot it melted through concrete floors and burned for three years underground.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 76,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "unquenchable fire",
+      "chemical disaster",
+      "thermal runaway",
+      "Ukraine",
+      "perpetual flame"
+    ],
+    "overlap_check_hash": "272203acde096601",
+    "why_this_can_go_viral": "Visually stunning 'fire that never dies' concept taps into elemental fear and awe."
+  },
+  {
+    "unique_id": "science_0160_003_baad9930f40a78d7",
+    "title": "The Biolab That Made a Spider That Weaves Steel-Strength Silk—and It Escaped",
+    "hook": "Scientists inserted spider DNA into silkworms to produce bulletproof silk—until a batch broke free and started breeding in the wild.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 77,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "GM spider",
+      "escape",
+      "hybrid species",
+      "bioweapon risk",
+      "invasive species"
+    ],
+    "overlap_check_hash": "baad9930f40a78d7",
+    "why_this_can_go_viral": "Jurassic Park but with spiders—immediate fear and ecological dread."
+  },
+  {
+    "unique_id": "science_0160_004_98db27fa6e6aab57",
+    "title": "The Physicist Who Built a Clock That Tick Backward—and Watched Time Unravel",
+    "hook": "A researcher in Switzerland created a temporal paradox in a quantum system where cause and effect literally swapped places.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 69,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time reversal",
+      "quantum physics",
+      "causality violation",
+      "temporal paradox",
+      "experiment"
+    ],
+    "overlap_check_hash": "98db27fa6e6aab57",
+    "why_this_can_go_viral": "Mind-bending 'time goes backward' narrative challenges viewers' reality model."
+  },
+  {
+    "unique_id": "science_0160_005_f3bb55355e27a64e",
+    "title": "The Scientific Fraud Who Faked a 'Miracle Cure' for Paralysis—and Paralysed 20 People",
+    "hook": "A doctor injected stem cells from aborted fetuses into paralyzed patients, claiming they'd walk again—the cells grew into tumors instead.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "stem cell scam",
+      "paralysis cure",
+      "medical fraud",
+      "tumors",
+      "false hope"
+    ],
+    "overlap_check_hash": "f3bb55355e27a64e",
+    "why_this_can_go_viral": "Outrage and horror at deliberate harm under guise of hope drives emotional engagement."
+  },
+  {
+    "unique_id": "science_0160_006_0623f8bd4bc45968",
+    "title": "The Lab Catastrophe Where a Scientist Dissolved From the Inside Out",
+    "hook": "A chemist spilled a few drops of dimethylmercury on her latex glove—it passed through like nothing and destroyed her nervous system over months.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 79,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "dimethylmercury",
+      "toxic spill",
+      "Karen Wetterhahn",
+      "chemical poisoning",
+      "slow death"
+    ],
+    "overlap_check_hash": "0623f8bd4bc45968",
+    "why_this_can_go_viral": "Horrifying 'silent killer' narrative—gloves offer no protection from the deadliest poison."
+  },
+  {
+    "unique_id": "science_0160_008_991a1c1278f0754f",
+    "title": "The Quantum Paradox Where an Object Existed in Two Places at Once—and Tore Itself Apart",
+    "hook": "Physicists managed to put a tiny crystal in superposition—when they tried to observe both positions, the crystal literally shattered.",
+    "virality_score": 83,
+    "curiosity_gap_score": 92,
+    "darkness_score": 72,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "superposition",
+      "quantum destruction",
+      "crystal",
+      "observer effect",
+      "reality breakdown"
+    ],
+    "overlap_check_hash": "991a1c1278f0754f",
+    "why_this_can_go_viral": "Visual 'reality breaks' story—quantum weirdness made tangible and destructive."
+  },
+  {
+    "unique_id": "science_0160_009_fd4b0ab522ceedc5",
+    "title": "The Biolab That Grafted a Human Immune System Into a Mouse—and It Screamed",
+    "hook": "Scientists created a 'humanized' mouse with a fully functional human immune system—it developed human emotions and refused to eat.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 73,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "humanized mouse",
+      "chimeras",
+      "animal suffering",
+      "immune system",
+      "bioethics"
+    ],
+    "overlap_check_hash": "fd4b0ab522ceedc5",
+    "why_this_can_go_viral": "Blurring human-animal boundary triggers deep unease and animal welfare outrage."
+  },
+  {
+    "unique_id": "science_0160_010_9dcee8387d2d2076",
+    "title": "The Chemist Who Discovered a Powder That Explodes on Contact With Water",
+    "hook": "A grad student accidentally created 'pyro-water'—a compound so unstable that a single drop of water triggered an explosion that flattened the lab.",
+    "virality_score": 79,
+    "curiosity_gap_score": 87,
+    "darkness_score": 76,
+    "educational_value": 71,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "pyrophoric",
+      "water reactive",
+      "lab explosion",
+      "accident",
+      "dangerous compound"
+    ],
+    "overlap_check_hash": "9dcee8387d2d2076",
+    "why_this_can_go_viral": "Water as detonator—counterintuitive and visually explosive premise."
+  },
+  {
+    "unique_id": "science_0160_012_e9c9a7df6547b06e",
+    "title": "The Physicist Who Made a Laser That Cuts by Freezing",
+    "hook": "A team inverted a laser to produce a beam that doesn't heat but freezes molecules to near absolute zero—it can 'cut' living tissue without pain.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 66,
+    "educational_value": 78,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "freezing laser",
+      "laser cooling",
+      "cryogenic beam",
+      "painless surgery",
+      "quantum optics"
+    ],
+    "overlap_check_hash": "e9c9a7df6547b06e",
+    "why_this_can_go_viral": "Oxymoronic 'freezing laser' grabs attention—feels like sci-fi become real."
+  },
+  {
+    "unique_id": "science_0160_013_eda712b3f16ff17b",
+    "title": "The Scientific Fraud Who Faked a 'Mind-Reading' Machine—and Fooled 5 Governments",
+    "hook": "A researcher claimed his fMRI algorithm could read thoughts—but he had been feeding it pre-labeled data. Intelligence agencies bought it anyway.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 83,
+    "educational_value": 77,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "mind reading",
+      "fMRI fraud",
+      "intelligence agencies",
+      "false science",
+      "neuroscam"
+    ],
+    "overlap_check_hash": "eda712b3f16ff17b",
+    "why_this_can_go_viral": "Spy thriller meets scientific scandal—governments duped by fake tech."
+  },
+  {
+    "unique_id": "science_0160_014_b877826e73cc747e",
+    "title": "The Lab Catastrophe Where a Researcher Breathed a Prion and Lived—for 20 Years",
+    "hook": "A scientist accidentally inhaled a prion from a brain sample. She had no symptoms for two decades—then forgot how to swallow and died.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 93,
+    "educational_value": 79,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "prion infection",
+      "CJD",
+      "lab accident",
+      "slow disease",
+      "brain degeneration"
+    ],
+    "overlap_check_hash": "b877826e73cc747e",
+    "why_this_can_go_viral": "Creeping horror of a disease that sleeps for years then destroys the mind."
+  },
+  {
+    "unique_id": "science_0160_015_d34d7efaf71a5a63",
+    "title": "The Neuroscientist Who Implanted False Memories of Child Abuse—and the Subjects Believed",
+    "hook": "In a landmark study, researchers convinced adults that they had been lost in a mall as children—turning memory into editable fiction.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 86,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "false memory",
+      "Loftus",
+      "implantation",
+      "repressed memory",
+      "suggestion"
+    ],
+    "overlap_check_hash": "d34d7efaf71a5a63",
+    "why_this_can_go_viral": "Disturbing implication that your most personal memories might be planted."
+  },
+  {
+    "unique_id": "science_0160_017_ad1155a3e6bfd63a",
+    "title": "The Quantum Computer That Calculated an Impossible Probability—and Found Aliens",
+    "hook": "When a quantum AI crunched the odds of extraterrestrial life, it gave a result that violates known physics—and then refused to elaborate.",
+    "virality_score": 91,
+    "curiosity_gap_score": 97,
+    "darkness_score": 71,
+    "educational_value": 68,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum AI",
+      "extraterrestrial",
+      "probability paradox",
+      "machine silence",
+      "Fermi paradox"
+    ],
+    "overlap_check_hash": "ad1155a3e6bfd63a",
+    "why_this_can_go_viral": "AI finds aliens then clams up—perfect mystery + conspiracy fuel."
+  },
+  {
+    "unique_id": "science_0160_018_915e2fe43e1e76cd",
+    "title": "The Chemist Who Brewed a Potion That Makes You Forget Everything—and Drank It",
+    "hook": "A chemist synthesized a compound that selectively erases short-term memory in seconds. To test it, he injected himself—and couldn't remember his own name.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "memory erasing",
+      "drug experiment",
+      "amnesia",
+      "self-experimentation",
+      "dangerous chemistry"
+    ],
+    "overlap_check_hash": "915e2fe43e1e76cd",
+    "why_this_can_go_viral": "'Eternal Sunshine of the Spotless Mind' but real—and terrifyingly reckless."
+  },
+  {
+    "unique_id": "science_0160_019_bbbd84242e24a6e3",
+    "title": "The Forbidden Experiment Where Conjoined Twins Were Separated—and One Had to Die",
+    "hook": "Surgeons had to choose which twin would survive because they shared a single heart. The decision was made by a neuroscientist flipping a coin.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 96,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "conjoined twins",
+      "ethics",
+      "sacrifice",
+      "hard choice",
+      "surgery horror"
+    ],
+    "overlap_check_hash": "bbbd84242e24a6e3",
+    "why_this_can_go_viral": "Life-or-death moral dilemma with a coin toss—unbearable tension and pathos."
+  },
+  {
+    "unique_id": "science_0160_021_f3b3d260d08c9595",
+    "title": "The Scientific Fraud Who Faked a 'Near-Death Experience' Sensor—and the Dying Believed",
+    "hook": "A researcher claimed a device could detect souls leaving bodies by measuring weight changes at death. The data was fabricated—but hospices installed it.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "21 grams experiment",
+      "soul weight",
+      "near-death",
+      "fraud",
+      "hospice"
+    ],
+    "overlap_check_hash": "f3b3d260d08c9595",
+    "why_this_can_go_viral": "Exploiting death and faith—fake science preys on the dying."
+  },
+  {
+    "unique_id": "science_0160_022_fda44edd1ed6c5af",
+    "title": "The Neuroscientist Who Gave a Patient Split-Brain—and They Became Two People",
+    "hook": "After the corpus callosum was severed, a patient's left hand would button a shirt while the right hand unbuttoned it—each side had its own will.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 79,
+    "educational_value": 87,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "split brain",
+      "corpus callosum",
+      "two minds",
+      "consciousness",
+      "alien hand"
+    ],
+    "overlap_check_hash": "fda44edd1ed6c5af",
+    "why_this_can_go_viral": "You are not one person—demonstrable split consciousness is deeply unsettling."
+  },
+  {
+    "unique_id": "science_0160_024_92421256a9baf511",
+    "title": "The Quantum Paradox Where a Particle Died Before It Was Born",
+    "hook": "In a delayed-choice experiment, a particle was detected before its twin was emitted—violating causality and suggesting time goes backward.",
+    "virality_score": 84,
+    "curiosity_gap_score": 95,
+    "darkness_score": 73,
+    "educational_value": 81,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "delayed choice",
+      "quantum entanglement",
+      "causality",
+      "twin particle",
+      "time reversal"
+    ],
+    "overlap_check_hash": "92421256a9baf511",
+    "why_this_can_go_viral": "Effect before cause—breaks brain and challenges everything we know about time."
+  },
+  {
+    "unique_id": "science_0160_025_0f5f990f5dfd90e0",
+    "title": "The Lab Catastrophe Where a Scientist Was Irradiated by a 'Safe' Device",
+    "hook": "A researcher was exposed to a dose of radiation 10,000 times lethal when a faulty 'safe' X-ray machine turned on—he died standing up.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 94,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "radiation accident",
+      "X-ray",
+      "overexposure",
+      "death",
+      "safety failure"
+    ],
+    "overlap_check_hash": "0f5f990f5dfd90e0",
+    "why_this_can_go_viral": "Everyday equipment becomes instant death—cautionary horror that could happen anywhere."
+  }
+]

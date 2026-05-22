@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "wealth_0065_001_3b634e6ece42d7c2",
+    "title": "The Bank That Trades Stolen Human Memories as Assets",
+    "hook": "A shadow bank in Switzerland accepts stolen memories—recorded through illegal neural scans—as collateral for billion-dollar loans.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "wealth",
+    "subcategory": "shadow banking",
+    "keywords": [
+      "shadow banking",
+      "stolen memories",
+      "neural scans",
+      "billionaire loans",
+      "Swiss vault"
+    ],
+    "overlap_check_hash": "3b634e6ece42d7c2",
+    "why_this_can_go_viral": "Combines sci-fi horror with real wealth systems; viewers will click to confirm if this is actually possible."
+  },
+  {
+    "unique_id": "wealth_0065_002_a039978b32780c5f",
+    "title": "The Billionaire Who Patents Your Children's DNA",
+    "hook": "A single family owns the genetic code for 1% of newborns—charging royalties every time a hospital runs a blood test.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "wealth",
+    "subcategory": "billionaire tactics",
+    "keywords": [
+      "DNA patents",
+      "billionaire genetics",
+      "newborn royalties",
+      "gene ownership",
+      "biotech monopoly"
+    ],
+    "overlap_check_hash": "a039978b32780c5f",
+    "why_this_can_go_viral": "Taps into deep fear of genetic control; shocks parents and conspiracy theorists alike."
+  },
+  {
+    "unique_id": "wealth_0065_004_1096e4e50ec81504",
+    "title": "The Dark Money Flow Through Stolen Lottery Tickets",
+    "hook": "Billionaire syndicates buy winning lottery tickets from low-income winners—laundering cash as 'luck'.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "wealth",
+    "subcategory": "dark money flows",
+    "keywords": [
+      "lottery laundering",
+      "dark money",
+      "billionaire syndicates",
+      "winning tickets",
+      "cash washing"
+    ],
+    "overlap_check_hash": "1096e4e50ec81504",
+    "why_this_can_go_viral": "Relatable (lottery) but reveals a hidden exploitation system; outrage and curiosity combine."
+  },
+  {
+    "unique_id": "wealth_0065_005_449cfdef0715d550",
+    "title": "The Wealth Psychology Trick That Uses Your Heartbeat to Sell Insurance",
+    "hook": "Your smartwatch's heart rate data is sold to insurers—who raise your premium the moment you feel anxious.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 89,
+    "niche_name": "wealth",
+    "subcategory": "wealth psychology",
+    "keywords": [
+      "heartbeat insurance",
+      "smartwatch data",
+      "anxiety premium",
+      "wealth psychology",
+      "behavioral insurance"
+    ],
+    "overlap_check_hash": "449cfdef0715d550",
+    "why_this_can_go_viral": "Personal invasion of privacy; every smartwatch user will feel personally targeted."
+  },
+  {
+    "unique_id": "wealth_0065_006_02572444e9cd483c",
+    "title": "The Financial Manipulation That Shorts Funerals",
+    "hook": "A hedge fund pays coroners to delay death certificates—so they can short funeral home stocks before families grieve.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 70,
+    "estimated_short_retention": 91,
+    "niche_name": "wealth",
+    "subcategory": "financial manipulation",
+    "keywords": [
+      "funeral shorts",
+      "hedge fund manipulation",
+      "death certificates",
+      "coroner bribery",
+      "grief trading"
+    ],
+    "overlap_check_hash": "02572444e9cd483c",
+    "why_this_can_go_viral": "Absolutely shocking and morbid; the ultimate 'too far' story in financial crimes."
+  },
+  {
+    "unique_id": "wealth_0065_007_b3e3db9d4459d725",
+    "title": "The Economic Crime That Faked a Country's Oxygen Levels for Carbon Credits",
+    "hook": "A billionaire faked atmospheric oxygen readings over the Amazon to sell fake carbon credits worth $2 billion.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "wealth",
+    "subcategory": "economic crimes",
+    "keywords": [
+      "fake carbon credits",
+      "Amazon scam",
+      "oxygen fraud",
+      "billionaire scam",
+      "climate crime"
+    ],
+    "overlap_check_hash": "b3e3db9d4459d725",
+    "why_this_can_go_viral": "Environmental outrage meets financial crime; perfect for viral sharing among climate activists."
+  },
+  {
+    "unique_id": "wealth_0065_008_df728e44fdbd9ab7",
+    "title": "The Hidden Wealth System That Runs Through Abandoned Subway Tunnels",
+    "hook": "Beneath major cities, abandoned subway tunnels host hidden banks moving gold for the ultra-rich—untaxed and unseen.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "wealth",
+    "subcategory": "hidden wealth systems",
+    "keywords": [
+      "subway banks",
+      "abandoned tunnels",
+      "hidden gold",
+      "ultra-rich vault",
+      "underground wealth"
+    ],
+    "overlap_check_hash": "df728e44fdbd9ab7",
+    "why_this_can_go_viral": "Urban exploration + secret wealth; viewers love secret underworld stories."
+  },
+  {
+    "unique_id": "wealth_0065_009_f183ee3e8908d18e",
+    "title": "The Billionaire Tactic That Buys Churches to Control Donations",
+    "hook": "A hedge fund now owns 300 churches—and takes 70% of every donation before 'God's work' gets a dime.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "wealth",
+    "subcategory": "billionaire tactics",
+    "keywords": [
+      "church ownership",
+      "donation control",
+      "hedge fund churches",
+      "faith exploitation",
+      "billionaire religion"
+    ],
+    "overlap_check_hash": "f183ee3e8908d18e",
+    "why_this_can_go_viral": "Religion + money is a volatile mix; shocks believers and skeptics alike."
+  },
+  {
+    "unique_id": "wealth_0065_010_8aaeccca3c357b87",
+    "title": "The Offshore Tax Haven That's a Fake Asteroid Mining Company",
+    "hook": "A shell company claims to mine asteroids—but actually holds $4 billion in untaxed wealth in a warehouse in Luxembourg.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 79,
+    "niche_name": "wealth",
+    "subcategory": "offshore tax havens",
+    "keywords": [
+      "asteroid mining scam",
+      "fake company",
+      "Luxembourg vault",
+      "space tax haven",
+      "shell company"
+    ],
+    "overlap_check_hash": "8aaeccca3c357b87",
+    "why_this_can_go_viral": "Sci-fi meets real-world crime; the absurdity makes it highly shareable."
+  },
+  {
+    "unique_id": "wealth_0065_011_c30f3b903af1923a",
+    "title": "The Dark Money Flow That Moves Through Pornography Ad Networks",
+    "hook": "Billionaire money is laundered through targeted porn ads—every click cleans a few thousand dollars.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "wealth",
+    "subcategory": "dark money flows",
+    "keywords": [
+      "porn ad laundering",
+      "dark money",
+      "ad network scam",
+      "billionaire money",
+      "click laundering"
+    ],
+    "overlap_check_hash": "c30f3b903af1923a",
+    "why_this_can_go_viral": "Taboo subject + hidden wealth system; high outrage and curiosity factor."
+  },
+  {
+    "unique_id": "wealth_0065_012_27adaab220960723",
+    "title": "The Shadow Bank That Trades in Stolen Passwords to Fortune 500 Accounts",
+    "hook": "A secret exchange in Dubai trades stolen corporate passwords as high-value assets—backed by billionaire insurance.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "wealth",
+    "subcategory": "shadow banking",
+    "keywords": [
+      "password trading",
+      "shadow bank",
+      "Dubai exchange",
+      "corporate theft",
+      "billionaire insurance"
+    ],
+    "overlap_check_hash": "27adaab220960723",
+    "why_this_can_go_viral": "Cybersecurity meets wealth crime; feels like a Black Mirror episode come true."
+  },
+  {
+    "unique_id": "wealth_0065_014_cc9ff8118ba00767",
+    "title": "The Financial Manipulation That Shorts the Weather—and Wins",
+    "hook": "A hedge fund uses secret weather satellites to short crop futures before farmers even see the clouds.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 79,
+    "estimated_short_retention": 82,
+    "niche_name": "wealth",
+    "subcategory": "financial manipulation",
+    "keywords": [
+      "weather shorts",
+      "hedge fund satellites",
+      "crop futures",
+      "secret weather data",
+      "market manipulation"
+    ],
+    "overlap_check_hash": "cc9ff8118ba00767",
+    "why_this_can_go_viral": "Makes a seemingly boring topic (weather) feel like a thriller; farmers and traders will share."
+  },
+  {
+    "unique_id": "wealth_0065_016_5ffdc000c2b8c44b",
+    "title": "The Hidden Wealth System That Operates Through Abandoned Warehouses",
+    "hook": "Empty warehouses in Detroit are actually gold vaults—guarded by ex-military and invisible to the IRS.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 84,
+    "educational_value": 66,
+    "estimated_short_retention": 80,
+    "niche_name": "wealth",
+    "subcategory": "hidden wealth systems",
+    "keywords": [
+      "abandoned warehouse gold",
+      "Detroit vaults",
+      "hidden wealth",
+      "IRS evasion",
+      "ex-military guards"
+    ],
+    "overlap_check_hash": "5ffdc000c2b8c44b",
+    "why_this_can_go_viral": "Underground treasure in plain sight; appeals to treasure hunters and conspiracy fans."
+  },
+  {
+    "unique_id": "wealth_0065_017_7e63b16e5dd9ebe5",
+    "title": "The Billionaire Tactic That Owns Every Hospital in a 50-Mile Radius",
+    "hook": "One family bought every hospital in three counties—then raised emergency room prices by 400%.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 96,
+    "educational_value": 77,
+    "estimated_short_retention": 88,
+    "niche_name": "wealth",
+    "subcategory": "billionaire tactics",
+    "keywords": [
+      "hospital monopoly",
+      "emergency room scam",
+      "healthcare price gouging",
+      "billionaire hospital ownership",
+      "medical monopoly"
+    ],
+    "overlap_check_hash": "7e63b16e5dd9ebe5",
+    "why_this_can_go_viral": "Healthcare is a universal pain point; this story fuels anger and demands sharing."
+  },
+  {
+    "unique_id": "wealth_0065_018_fa90858ca4adeeff",
+    "title": "The Offshore Tax Haven That's a Fake Deep Sea Research Vessel",
+    "hook": "A rusty ship in international waters houses $6 billion in assets—labeled as 'marine research' to avoid taxes.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 69,
+    "estimated_short_retention": 83,
+    "niche_name": "wealth",
+    "subcategory": "offshore tax havens",
+    "keywords": [
+      "fake research ship",
+      "deep sea haven",
+      "international waters vault",
+      "marine tax evasion",
+      "billionaire ship"
+    ],
+    "overlap_check_hash": "fa90858ca4adeeff",
+    "why_this_can_go_viral": "The image of a floating bank vault is cinematic and instantly shareable."
+  },
+  {
+    "unique_id": "wealth_0065_019_36c3905b496cbb39",
+    "title": "The Dark Money Flow That Hides Inside Subscription Boxes",
+    "hook": "Billionaires launder cash through 'mystery subscription boxes'—sending empty packages to fake addresses.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 74,
+    "estimated_short_retention": 81,
+    "niche_name": "wealth",
+    "subcategory": "dark money flows",
+    "keywords": [
+      "subscription box laundering",
+      "mystery box scam",
+      "dark money",
+      "billionaire cash",
+      "fake deliveries"
+    ],
+    "overlap_check_hash": "36c3905b496cbb39",
+    "why_this_can_go_viral": "Relatable (subscription boxes) but twisted into crime; viewers will see their own mail in a new light."
+  },
+  {
+    "unique_id": "wealth_0065_020_7ad37fdc4f0007a3",
+    "title": "The Shadow Bank That Trades in Stolen Medical Records as Debt Collateral",
+    "hook": "A shadow bank in Panama accepts stolen medical records as collateral—then blackmails patients for repayment.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 71,
+    "estimated_short_retention": 87,
+    "niche_name": "wealth",
+    "subcategory": "shadow banking",
+    "keywords": [
+      "medical record collateral",
+      "shadow bank blackmail",
+      "Panama vault",
+      "stolen health data",
+      "patient debt"
+    ],
+    "overlap_check_hash": "7ad37fdc4f0007a3",
+    "why_this_can_go_viral": "Combines medical privacy fear with financial crime; feels like a dystopian thriller."
+  },
+  {
+    "unique_id": "wealth_0065_022_f28664f41f388210",
+    "title": "The Financial Manipulation That Faked a Prison Break to Short Bail Bond Stocks",
+    "hook": "A hedge fund staged a fake prison break—to drive fear into bail bond markets and short them for millions.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 68,
+    "estimated_short_retention": 90,
+    "niche_name": "wealth",
+    "subcategory": "financial manipulation",
+    "keywords": [
+      "fake prison break",
+      "bail bond shorts",
+      "hedge fund scam",
+      "prison market manipulation",
+      "staged escape"
+    ],
+    "overlap_check_hash": "f28664f41f388210",
+    "why_this_can_go_viral": "Outrageous and criminal; 'fake prison break for profit' is a headline that demands a click."
+  },
+  {
+    "unique_id": "wealth_0065_024_3b003d57ee406faf",
+    "title": "The Hidden Wealth System That Uses Fake Funerals to Move Money",
+    "hook": "A billionaire held 50 fake funerals—complete with coffins full of cash—to move money across borders tax-free.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "wealth",
+    "subcategory": "hidden wealth systems",
+    "keywords": [
+      "fake funerals",
+      "cash coffins",
+      "billionaire money move",
+      "tax evasion funerals",
+      "hidden cash"
+    ],
+    "overlap_check_hash": "3b003d57ee406faf",
+    "why_this_can_go_viral": "Morbid and audacious; 'coffins full of cash' is a visual that will be shared endlessly."
+  },
+  {
+    "unique_id": "wealth_0065_025_f1c010b0039b7fcc",
+    "title": "The Billionaire Tactic That Buys All the Antibiotics Then Triples Prices",
+    "hook": "A billionaire quietly bought the patent to every common antibiotic—then raised prices 300% overnight.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 99,
+    "educational_value": 79,
+    "estimated_short_retention": 91,
+    "niche_name": "wealth",
+    "subcategory": "billionaire tactics",
+    "keywords": [
+      "antibiotic monopoly",
+      "price gouging medicine",
+      "billionaire healthcare",
+      "drug patent scam",
+      "life-saving price hike"
+    ],
+    "overlap_check_hash": "f1c010b0039b7fcc",
+    "why_this_can_go_viral": "Healthcare is personal; this story triggers fury and a sense of helplessness, driving massive shares."
+  }
+]

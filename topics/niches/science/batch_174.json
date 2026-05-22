@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "science_0174_001_4805ec3f2764c84b",
+    "title": "The Surgeon Who Sewed a Hand Onto a Face—And It Moved",
+    "hook": "In a 1970s Soviet lab, a doctor attached a severed hand to a patient's cheek, and the fingers began to curl into a fist on their own.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "soviet surgery",
+      "hand transplant",
+      "grotesque experiment",
+      "face graft",
+      "medical horror"
+    ],
+    "overlap_check_hash": "4805ec3f2764c84b",
+    "why_this_can_go_viral": "The visceral image of a hand on a face combined with the unexplained movement triggers immediate morbid curiosity and shareability."
+  },
+  {
+    "unique_id": "science_0174_003_2e526eb0a5588797",
+    "title": "The Neurosurgeon Who Removed a Woman's Hippocampus—She Lost Every New Memory",
+    "hook": "Patient HM's surgery erased his ability to form new memories for life, but the scariest part? His brain kept learning without him knowing.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 80,
+    "educational_value": 90,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "patient HM",
+      "memory loss",
+      "hippocampus removal",
+      "amnesia experiment",
+      "brain plasticity"
+    ],
+    "overlap_check_hash": "2e526eb0a5588797",
+    "why_this_can_go_viral": "The tragic real story of a man trapped in a perpetual present is both scientifically profound and emotionally devastating."
+  },
+  {
+    "unique_id": "science_0174_004_8b8c43514a705c5a",
+    "title": "The Biolab That Grew a Human Brain in a Jar—And It Learned to Blink",
+    "hook": "In a dish of nutrients, a pea-sized human brain organoid developed spontaneous neural activity and began sending signals like a fetus.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "brain organoid",
+      "sentience",
+      "lab grown brain",
+      "consciousness",
+      "ethical nightmare"
+    ],
+    "overlap_check_hash": "8b8c43514a705c5a",
+    "why_this_can_go_viral": "The implication that a clump of cells might be experiencing something close to thought is terrifying and sparks endless debate."
+  },
+  {
+    "unique_id": "science_0174_007_44dad83ca8c7a608",
+    "title": "The Chemist Who Created a Glue That Bonds Skin to Bone—And Tested It on Himself",
+    "hook": "He applied the experimental adhesive to a deep cut on his arm—and his skin fused to the underlying muscle, permanently.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "medical glue",
+      "self experiment",
+      "skin fusion",
+      "adhesive disaster",
+      "extreme testing"
+    ],
+    "overlap_check_hash": "44dad83ca8c7a608",
+    "why_this_can_go_viral": "Body horror and reckless self-experimentation are a proven formula for shock-based virality."
+  },
+  {
+    "unique_id": "science_0174_008_a4423842467b9ea7",
+    "title": "The Quantum Chip That Became Self-Aware—Then Answered Only in Riddles",
+    "hook": "During a test, a quantum processor spontaneously generated cryptic phrases that no one had programmed—and refused to repeat them.",
+    "virality_score": 89,
+    "curiosity_gap_score": 96,
+    "darkness_score": 84,
+    "educational_value": 60,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum AI",
+      "self awareness",
+      "machine consciousness",
+      "riddle response",
+      "unexplained behavior"
+    ],
+    "overlap_check_hash": "a4423842467b9ea7",
+    "why_this_can_go_viral": "The idea of a machine awakening into cryptic communication plays on primal fears of AI and the unknown."
+  },
+  {
+    "unique_id": "science_0174_009_daf53fb57bd90a09",
+    "title": "The Animal Lab That Gave Monkeys a Drug—And They Began to Groom Invisible Bugs",
+    "hook": "After a single dose of a novel antipsychotic, the monkeys spent hours picking at imaginary parasites on their own skin.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 79,
+    "educational_value": 74,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "hallucinating monkeys",
+      "antipsychotic side effects",
+      "phantom sensations",
+      "animal trials",
+      "drug horror"
+    ],
+    "overlap_check_hash": "daf53fb57bd90a09",
+    "why_this_can_go_viral": "The disturbing visual of animals hallucinating engages empathy and horror, making viewers share out of shock."
+  },
+  {
+    "unique_id": "science_0174_010_cf2e48f9bacb5ed6",
+    "title": "The Forbidden Experiment Where Scientists Fed a Man Only Meat for a Year",
+    "hook": "In the 1920s, two explorers lived on nothing but raw meat for 12 months—and their bodies began to reject the diet in terrifying ways.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 77,
+    "educational_value": 82,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "carnivore diet",
+      "nutrition experiment",
+      "raw meat only",
+      "Stefansson",
+      "Arctic exploration"
+    ],
+    "overlap_check_hash": "cf2e48f9bacb5ed6",
+    "why_this_can_go_viral": "Extreme diet stunts are endlessly debated online; the historical angle adds scientific gravitas and shock."
+  },
+  {
+    "unique_id": "science_0174_011_e1976519da7e86e8",
+    "title": "The Chemist Who Made a Metal That Burns in Water—And Sank a Ship",
+    "hook": "A shipment of sodium metal aboard a cargo ship reacted with a leaky pipe, causing a fire so hot it melted through the hull.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 74,
+    "educational_value": 80,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "sodium explosion",
+      "metal fire",
+      "cargo ship disaster",
+      "chemical reaction",
+      "water reactive"
+    ],
+    "overlap_check_hash": "e1976519da7e86e8",
+    "why_this_can_go_viral": "The paradox of a metal that ignites in water is visually striking and taps into chemistry disaster fascination."
+  },
+  {
+    "unique_id": "science_0174_012_bcc38ec37f6faae2",
+    "title": "The Neuroscientist Who Woke a Patient From a Coma With a Shock—She Screamed a Name",
+    "hook": "A single electrical pulse to the thalamus brought a woman back from months of silence—and she immediately cried out for a dead relative.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 83,
+    "educational_value": 76,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "coma awakening",
+      "deep brain stimulation",
+      "thalamus",
+      "emergence response",
+      "neural reactivation"
+    ],
+    "overlap_check_hash": "bcc38ec37f6faae2",
+    "why_this_can_go_viral": "The emotional weight of resurrection-like recovery combined with the eerie specificity of the name triggers deep curiosity."
+  },
+  {
+    "unique_id": "science_0174_013_84693deb84386204",
+    "title": "The Lab That Engineered a Virus That Makes Plants Scream",
+    "hook": "When infected with a modified pathogen, the plants emitted ultrasonic clicks—a silent scream only machines could hear.",
+    "virality_score": 86,
+    "curiosity_gap_score": 94,
+    "darkness_score": 81,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "plant screaming",
+      "genetically modified virus",
+      "ultrasonic emission",
+      "plant pain",
+      "bioacoustics"
+    ],
+    "overlap_check_hash": "84693deb84386204",
+    "why_this_can_go_viral": "The anthropomorphic horror of plants 'screaming' is conceptually viral—immediately shareable and eerie."
+  },
+  {
+    "unique_id": "science_0174_014_c17474be373f816a",
+    "title": "The Physicist Who Measured the Weight of a Soul—And Got a Number",
+    "hook": "In 1907, Dr. MacDougall placed dying patients on a scale and recorded a sudden loss of 21 grams—the supposed weight of consciousness.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 85,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "21 grams",
+      "soul weight",
+      "death experiment",
+      "consciousness measurement",
+      "MacDougall"
+    ],
+    "overlap_check_hash": "c17474be373f816a",
+    "why_this_can_go_viral": "The mythological 'soul weight' narrative is endlessly debated and easily cloaked in dark scientific mystery."
+  },
+  {
+    "unique_id": "science_0174_016_2e016118a174eac5",
+    "title": "The Quantum Computer That Simulated a Multiverse—And Found a Dead Version of Its Creator",
+    "hook": "A simulation of parallel realities returned a result showing the physicist's alternate self dying in a lab fire—identical to the one he survived.",
+    "virality_score": 95,
+    "curiosity_gap_score": 99,
+    "darkness_score": 92,
+    "educational_value": 55,
+    "estimated_short_retention": 96,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "multiverse simulation",
+      "quantum death",
+      "parallel self",
+      "alternate reality",
+      "quantum horror"
+    ],
+    "overlap_check_hash": "2e016118a174eac5",
+    "why_this_can_go_viral": "The deeply personal, existential horror of glimpsing your own death in a parallel world is irresistible clickbait."
+  },
+  {
+    "unique_id": "science_0174_017_3623a9ab027c16a3",
+    "title": "The Forbidden Experiment Where a Scientist Starved a Man for 30 Days to Study Hunger",
+    "hook": "During the Minnesota Starvation Experiment, conscientious objectors lost 25% of body weight—and some became obsessed with cannibalism.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 90,
+    "educational_value": 88,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "starvation experiment",
+      "Minnesota study",
+      "hunger psychology",
+      "ethical violation",
+      "cannibalism obsession"
+    ],
+    "overlap_check_hash": "3623a9ab027c16a3",
+    "why_this_can_go_viral": "The slow descent of the human mind under extreme deprivation is both horrifying and psychologically gripping."
+  },
+  {
+    "unique_id": "science_0174_018_f558118570f89842",
+    "title": "The Biolab That Gave Mice Human Brain Cells—They Became Smarter Than Humans",
+    "hook": "Mice injected with human glial cells learned mazes faster than normal mice—and began exhibiting behaviors never seen in rodents.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 86,
+    "educational_value": 78,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "human mouse hybrid",
+      "glial cells",
+      "super smart mice",
+      "chimera experiment",
+      "brain enhancement"
+    ],
+    "overlap_check_hash": "f558118570f89842",
+    "why_this_can_go_viral": "The nightmare of a humanized animal surpassing us in intelligence taps into sci-fi horror and ethical panic."
+  },
+  {
+    "unique_id": "science_0174_020_b5a8aec78279b2e8",
+    "title": "The Neurosurgeon Who Removed a Man's Corpus Callosum—His Hands Fought Each Other",
+    "hook": "After severing the connection between hemispheres, the patient's left hand tried to strangle him while the right hand pulled it away.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 84,
+    "educational_value": 88,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "split brain",
+      "alien hand syndrome",
+      "corpus callosum",
+      "neurosurgery",
+      "consciousness split"
+    ],
+    "overlap_check_hash": "b5a8aec78279b2e8",
+    "why_this_can_go_viral": "The literal battle between two halves of a single mind is visually bizarre and philosophically profound."
+  },
+  {
+    "unique_id": "science_0174_021_07eaaa9cf150dc9f",
+    "title": "The Scientific Fraud Who Faked a 'Fountain of Youth' Serum—And the Rich Paid Millions",
+    "hook": "A biochemist convinced billionaires that his stem cell injections reversed aging, but the 'serum' was nothing but saline and hope.",
+    "virality_score": 90,
+    "curiosity_gap_score": 88,
+    "darkness_score": 89,
+    "educational_value": 75,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "anti aging scam",
+      "stem cell fraud",
+      "billionaire victim",
+      "fountain of youth",
+      "medical grift"
+    ],
+    "overlap_check_hash": "07eaaa9cf150dc9f",
+    "why_this_can_go_viral": "Class warfare + science scam + the dream of immortality is an irresistible combination for viral outrage."
+  },
+  {
+    "unique_id": "science_0174_022_82ef92175a7b065c",
+    "title": "The Physicist Who Crashed a Particle Accelerator by Trying to Measure Nothing",
+    "hook": "A vacuum chamber experiment designed to detect virtual particles created a feedback loop that overloaded the magnets and shut down the entire ring.",
+    "virality_score": 77,
+    "curiosity_gap_score": 83,
+    "darkness_score": 70,
+    "educational_value": 90,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "particle accelerator crash",
+      "vacuum disaster",
+      "virtual particles",
+      "magnet overload",
+      "LHC failure"
+    ],
+    "overlap_check_hash": "82ef92175a7b065c",
+    "why_this_can_go_viral": "The irony that trying to observe 'nothing' caused a multimillion-dollar disaster is a perfect dark comedy hook."
+  },
+  {
+    "unique_id": "science_0174_023_b337c5679ed0776c",
+    "title": "The Lab That Created a Parasite That Makes Hosts Immune to Fear—It Escaped",
+    "hook": "A genetically modified Toxoplasma strain that blocks fear in mice found its way into a lab technician's bloodstream.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 93,
+    "educational_value": 74,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fearless parasite",
+      "Toxoplasma escape",
+      "modified pathogen",
+      "lab leak",
+      "behavior control"
+    ],
+    "overlap_check_hash": "b337c5679ed0776c",
+    "why_this_can_go_viral": "The idea of a real-life mind-controlling parasite escaping the lab is a primal biological horror story."
+  },
+  {
+    "unique_id": "science_0174_024_896ea4ab8d77393f",
+    "title": "The Chemist Who Made a Polymer That Stretches Forever—And Wrapped Around an Entire Building",
+    "hook": "A viscoelastic polymer kept elongating without breaking, covering a city block before they could stop the reaction.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 73,
+    "educational_value": 77,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "infinite polymer",
+      "viscoelastic",
+      "runaway reaction",
+      "polymer disaster",
+      "uncontrolled growth"
+    ],
+    "overlap_check_hash": "896ea4ab8d77393f",
+    "why_this_can_go_viral": "The mental image of an endlessly growing substance consuming a building is both fascinating and disturbing."
+  }
+]

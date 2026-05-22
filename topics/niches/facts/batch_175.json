@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "facts_0175_002_078b1fb591d3a3a3",
+    "title": "Your Own Tears Can Melt Your Corneas if You Don't Blink",
+    "hook": "Blinking isn't just for moisture—it spreads a protective lipid layer. Without it, your own salty tears can digest your eye's surface tissue.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "blink",
+      "corneal damage",
+      "tears acid",
+      "eye health",
+      "dry eye horror"
+    ],
+    "overlap_check_hash": "078b1fb591d3a3a3",
+    "why_this_can_go_viral": "Turns an automatic reflex into a survival mechanism—people will feel uncomfortable and start counting their blinks."
+  },
+  {
+    "unique_id": "facts_0175_004_29dd9b274550aa7d",
+    "title": "The Worm That Hatches Inside Your Brain After You Eat Raw Shrimp",
+    "hook": "A parasitic worm called Gnathostoma can burrow into your brain after you eat undercooked freshwater shrimp, causing paralysis or death.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 84,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "brain worm",
+      "raw shrimp danger",
+      "Gnathostoma",
+      "parasite horror",
+      "food safety nightmare"
+    ],
+    "overlap_check_hash": "29dd9b274550aa7d",
+    "why_this_can_go_viral": "Sushi lovers will panic—this taps into the raw food fear and the nightmare of a creature living in your skull."
+  },
+  {
+    "unique_id": "facts_0175_005_5309a265200d263b",
+    "title": "The Statistic That Your Toothbrush Has 100 Million Bacteria—More Than a Dog's Mouth",
+    "hook": "Flushing your toilet without closing the lid aerosolizes fecal bacteria that lands on your toothbrush bristles, inoculating you daily.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 68,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "toothbrush bacteria",
+      "toilet plume",
+      "fecal contamination",
+      "hygiene myth",
+      "bathroom horror"
+    ],
+    "overlap_check_hash": "5309a265200d263b",
+    "why_this_can_go_viral": "Disgust factor is off the charts—everyone will immediately close their toilet lid and check their brush storage."
+  },
+  {
+    "unique_id": "facts_0175_006_7a87fb29ab4722ef",
+    "title": "The Physics That Makes a Bowling Ball Float in Water but Crush Your Foot in Air",
+    "hook": "Bowling balls are buoyant enough to float in saltwater, but drop one from waist height and it can shatter every bone in your foot—density is the trap.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 62,
+    "educational_value": 82,
+    "estimated_short_retention": 78,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "bowling ball density",
+      "buoyancy myth",
+      "foot injury",
+      "physics trap",
+      "everyday danger"
+    ],
+    "overlap_check_hash": "7a87fb29ab4722ef",
+    "why_this_can_go_viral": "Makes people rethink a common object—great for demonstration videos and 'try this at home' warnings."
+  },
+  {
+    "unique_id": "facts_0175_008_740498ba4ceaca88",
+    "title": "Your Own Spit Can Dissolve Your Fingertips if You Lick Them Enough",
+    "hook": "Saliva contains enzymes that break down food—but left on skin long enough, it digests your own flesh, causing 'lick dermatitis' and raw wounds.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 72,
+    "educational_value": 76,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "saliva digestion",
+      "lick dermatitis",
+      "self-digestion",
+      "skin erosion",
+      "body horror"
+    ],
+    "overlap_check_hash": "740498ba4ceaca88",
+    "why_this_can_go_viral": "Makes people stop licking envelopes or their lips—it's a weird habit everyone has that turns gross."
+  },
+  {
+    "unique_id": "facts_0175_009_9ea559420761890b",
+    "title": "The Island Where the Water Is So Radioactive It Glows Blue",
+    "hook": "On Bikini Atoll, the lagoon water glows an eerie blue from high cesium-137 levels—descendants of nuclear tests still can't eat local fish.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 86,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "Bikini Atoll",
+      "radioactive water",
+      "glowing lagoon",
+      "nuclear test",
+      "inhabitable island"
+    ],
+    "overlap_check_hash": "9ea559420761890b",
+    "why_this_can_go_viral": "Striking visual of glowing blue water plus a dark legacy—feels like a post-apocalyptic paradise."
+  },
+  {
+    "unique_id": "facts_0175_012_83a906c8c0aa8501",
+    "title": "The Physics That Makes a Flag Stand Straight in Zero Wind on the Moon",
+    "hook": "Those iconic waving flags on the Moon? They weren't waving—a telescoping rod held them rigid. In vacuum, a 'flag wave' would never stop without air resistance.",
+    "virality_score": 70,
+    "curiosity_gap_score": 75,
+    "darkness_score": 20,
+    "educational_value": 82,
+    "estimated_short_retention": 74,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "moon flag",
+      "vacuum physics",
+      "flag wave myth",
+      "Apollo",
+      "air resistance"
+    ],
+    "overlap_check_hash": "83a906c8c0aa8501",
+    "why_this_can_go_viral": "Debunks a famous visual—conspiracy fans and science lovers both engage heavily with this clarification."
+  },
+  {
+    "unique_id": "facts_0175_015_d16a8044f5ece428",
+    "title": "The Nature Paradox of the Plant That Lures Flies With the Smell of Rotting Flesh—But It's Alive",
+    "hook": "The corpse flower emits putrescine and cadaverine, chemicals found in decaying bodies, to attract carrion beetles and flies for pollination.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 74,
+    "educational_value": 76,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "corpse flower",
+      "rotting smell",
+      "cadaverine",
+      "carrion mimicry",
+      "pollination trick"
+    ],
+    "overlap_check_hash": "d16a8044f5ece428",
+    "why_this_can_go_viral": "Smell is the most evocative sense—descriptions of 'rotting flesh' scent make for unforgettable shareable content."
+  },
+  {
+    "unique_id": "facts_0175_016_446821b22d65c778",
+    "title": "The Everyday Danger of Your Own Mattress Collecting So Much Dead Skin That Mites Thrive",
+    "hook": "Your mattress doubles in weight over 10 years from dead skin cells, dust mites, and their feces—triggering asthma and allergies while you sleep.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 66,
+    "educational_value": 82,
+    "estimated_short_retention": 81,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "mattress mites",
+      "dead skin",
+      "dust mite allergy",
+      "bed hygiene",
+      "sleep horror"
+    ],
+    "overlap_check_hash": "446821b22d65c778",
+    "why_this_can_go_viral": "Universal experience—everyone sleeps on a mattress, and the weight gain fact is shocking and easily verified."
+  },
+  {
+    "unique_id": "facts_0175_017_c53f7c6ca86671bd",
+    "title": "The Animal That Can Stop Its Own Heartbeat to Fake Death for Hours",
+    "hook": "The Virginia opossum enters a catatonic state where its heart rate drops 30%, it drools, and its anus emits a foul smell—convincing predators it's dead and rotting.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 62,
+    "educational_value": 77,
+    "estimated_short_retention": 83,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "opossum",
+      "playing dead",
+      "thanatosis",
+      "heart rate drop",
+      "animal trick"
+    ],
+    "overlap_check_hash": "c53f7c6ca86671bd",
+    "why_this_can_go_viral": "The physiological control is mind-blowing—viewers will marvel at how evolution crafted such a specific defense."
+  },
+  {
+    "unique_id": "facts_0175_019_63ed8b1673c52ad7",
+    "title": "The Physics That Makes a Falling Knife More Likely to Stick in Your Foot Than Land Flat",
+    "hook": "A dropped knife's center of mass causes it to rotate midair so the blade faces downward—making it 80% more likely to land point-first into your foot.",
+    "virality_score": 77,
+    "curiosity_gap_score": 83,
+    "darkness_score": 60,
+    "educational_value": 80,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "falling knife",
+      "blade physics",
+      "kitchen danger",
+      "center of mass",
+      "foot injury"
+    ],
+    "overlap_check_hash": "63ed8b1673c52ad7",
+    "why_this_can_go_viral": "Practical cooking horror—everyone has dropped a knife, and the physics explanation makes them rethink their catch reflex."
+  },
+  {
+    "unique_id": "facts_0175_021_91c39ee9cb8fcbb1",
+    "title": "Your Own Gallbladder Can Burst From a Single Fatty Meal",
+    "hook": "Eating a high-fat meal can trigger a gallbladder attack that distends the organ—if left untreated, it can rupture and spill bile into your abdomen, causing sepsis.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 76,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "gallbladder rupture",
+      "fatty meal danger",
+      "bile spill",
+      "sepsis",
+      "digestive horror"
+    ],
+    "overlap_check_hash": "91c39ee9cb8fcbb1",
+    "why_this_can_go_viral": "Relatable trigger food—people love fast food, and the risk feels both common and terrifying."
+  },
+  {
+    "unique_id": "facts_0175_022_c5c9daec226ff5d5",
+    "title": "The Nature Paradox of the Ant That Explodes to Protect Its Colony",
+    "hook": "Malaysian exploding ants (Colobopsis cylindrica) rupture their own bodies to spray toxic yellow goo from their head glands onto enemies.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 74,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "exploding ant",
+      "suicidal defense",
+      "Colobopsis",
+      "toxic spray",
+      "insect warfare"
+    ],
+    "overlap_check_hash": "c5c9daec226ff5d5",
+    "why_this_can_go_viral": "Self-sacrifice is dramatic—the visual of ants literally detonating themselves will captivate viewers."
+  },
+  {
+    "unique_id": "facts_0175_023_fbd3eb2a8c4e4ae7",
+    "title": "The Everyday Danger of Your Own Towel Harboring Enough E. Coli to Give You a Skin Infection",
+    "hook": "Damp towels left unwashed for 3 days breed E. coli, Staphylococcus, and mold—rubbing your face with one can cause acne, conjunctivitis, or worse.",
+    "virality_score": 77,
+    "curiosity_gap_score": 82,
+    "darkness_score": 58,
+    "educational_value": 83,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "towel bacteria",
+      "E. coli",
+      "staph infection",
+      "skin infection",
+      "bathroom hygiene"
+    ],
+    "overlap_check_hash": "fbd3eb2a8c4e4ae7",
+    "why_this_can_go_viral": "Everyone uses towels daily—the hygiene breach is easy to fix and highly shareable as a public service warning."
+  },
+  {
+    "unique_id": "facts_0175_024_d72d644048fe4695",
+    "title": "The Cognitive Reality Gap That Makes You Think You Locked the Door When You Didn't",
+    "hook": "Your brain's 'memory consolidation' can fail during automatic tasks—you 'remember' locking the door because you intended to, not because you actually did.",
+    "virality_score": 74,
+    "curiosity_gap_score": 80,
+    "darkness_score": 30,
+    "educational_value": 85,
+    "estimated_short_retention": 79,
+    "niche_name": "facts",
+    "subcategory": "cognitive reality gaps",
+    "keywords": [
+      "false memory",
+      "door locking",
+      "automatic tasks",
+      "memory failure",
+      "brain trick"
+    ],
+    "overlap_check_hash": "d72d644048fe4695",
+    "why_this_can_go_viral": "Universal frustration—everyone has driven back home to check a lock, and the explanation validates that fear."
+  },
+  {
+    "unique_id": "facts_0175_025_df08a898dd996fe0",
+    "title": "The Statistic That Your Wallet Is 10 Times Dirtier Than a Public Toilet Seat",
+    "hook": "Paper money and credit cards pass through hundreds of hands—then sit in the dark, warm environment of your wallet breeding bacteria, including fecal matter from 80% of bills.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 66,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "dirty money",
+      "wallet bacteria",
+      "fecal bills",
+      "cash hygiene",
+      "germy wallet"
+    ],
+    "overlap_check_hash": "df08a898dd996fe0",
+    "why_this_can_go_viral": "Money is universally handled—the gross factor is high, and people will immediately want to sanitize their wallets."
+  }
+]

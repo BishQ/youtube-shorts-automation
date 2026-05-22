@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "sports_0093_001_4bc9f735e13fed1a",
+    "title": "The Ref Who Fixed Games by Tapping His Microphone in Code",
+    "hook": "That referee you see adjusting his mic before every call? He wasn't checking audio—he was signaling bookies.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "referee",
+      "microphone",
+      "signaling",
+      "fixing",
+      "betting"
+    ],
+    "overlap_check_hash": "4bc9f735e13fed1a",
+    "why_this_can_go_viral": "People will see every referee mic tap differently after this; high rewatchability and debate bait."
+  },
+  {
+    "unique_id": "sports_0093_002_169ff8869d245c4b",
+    "title": "The Doctor Who Pumped Runners' Blood with Ozone to 'Supercharge' Oxygen",
+    "hook": "He claimed ozone therapy made lungs work at 200% capacity until runners started seizing mid-race.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 78,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "ozone",
+      "blood doping",
+      "doctor",
+      "runners",
+      "seizures"
+    ],
+    "overlap_check_hash": "169ff8869d245c4b",
+    "why_this_can_go_viral": "Shocking medical malpractice angle mixes with sports conspiracy—perfect for dark docs."
+  },
+  {
+    "unique_id": "sports_0093_003_175ee6645c7daf37",
+    "title": "The Mafia That Controlled Olympic Gymnastics Judges via Blackmail",
+    "hook": "Gambling syndicates didn't fix scores—they fixed the judges' secrets, and one routine cost a gold medal.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "mafia",
+      "gymnastics",
+      "judges",
+      "blackmail",
+      "Olympics"
+    ],
+    "overlap_check_hash": "175ee6645c7daf37",
+    "why_this_can_go_viral": "Olympic scandals draw massive attention; the blackmail twist adds fresh intrigue."
+  },
+  {
+    "unique_id": "sports_0093_004_6c48ec7d6a3c5d28",
+    "title": "The Coach Who Made Young Boxers Fight While Starving for 'Weight Class Edge'",
+    "hook": "He fed them only water and salt for two weeks then put them in the ring against heavier opponents—for profit.",
+    "virality_score": 86,
+    "curiosity_gap_score": 85,
+    "darkness_score": 92,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "boxing",
+      "starvation",
+      "coach",
+      "abuse",
+      "weight class"
+    ],
+    "overlap_check_hash": "6c48ec7d6a3c5d28",
+    "why_this_can_go_viral": "Extreme abuse stories trigger outrage and massive shares on social platforms."
+  },
+  {
+    "unique_id": "sports_0093_005_970d1dcfdf3427dd",
+    "title": "The Lab That Tried to Make Sprinters Run 40% Faster by Severing Their Calf Tendons",
+    "hook": "A secret performance institute believed cutting and reattaching tendons would create superhuman speed.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "tendon",
+      "experiment",
+      "sprinter",
+      "surgery",
+      "speed"
+    ],
+    "overlap_check_hash": "970d1dcfdf3427dd",
+    "why_this_can_go_viral": "Medical horror meets forbidden science—unbelievable but true, perfect for shock value."
+  },
+  {
+    "unique_id": "sports_0093_006_30cc691e98033041",
+    "title": "The Psychologist Who Hypnotized a Tennis Player into Forgetting How to Lose",
+    "hook": "She erased his memory of every defeat until he couldn't recognize his own losing streak—on live TV.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 78,
+    "educational_value": 60,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "hypnosis",
+      "tennis",
+      "memory",
+      "psychologist",
+      "losing"
+    ],
+    "overlap_check_hash": "30cc691e98033041",
+    "why_this_can_go_viral": "Mind control angle is endlessly fascinating and sparks debates about ethics in sports psychology."
+  },
+  {
+    "unique_id": "sports_0093_008_b8e1bf3a21384642",
+    "title": "The Doctor Who Sold 'Stem Cell Injections' Harvested from Convicted Murderers",
+    "hook": "Athletes paid thousands for cells they thought were from embryos—they came from a prison morgue.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "stem cells",
+      "prison",
+      "doctor",
+      "injections",
+      "murderers"
+    ],
+    "overlap_check_hash": "b8e1bf3a21384642",
+    "why_this_can_go_viral": "Medical horror mixed with crime—huge viral potential across true crime and sports audiences."
+  },
+  {
+    "unique_id": "sports_0093_009_b42fc4190fad5b5d",
+    "title": "The Referee Who Fixed World Cup Qualifiers by Wearing Specific Socks",
+    "hook": "He changed sock colors each half—red meant penalty for the away team, blue meant nothing would be called.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 72,
+    "educational_value": 60,
+    "estimated_short_retention": 79,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "socks",
+      "World Cup",
+      "referee",
+      "signal",
+      "qualifiers"
+    ],
+    "overlap_check_hash": "b42fc4190fad5b5d",
+    "why_this_can_go_viral": "Simple visual trick everyone can picture—makes viewers scrutinize every detail in future games."
+  },
+  {
+    "unique_id": "sports_0093_010_84a48484e586237c",
+    "title": "The Mafia That Forced NBA Referees to Wear Wiretaps During Games",
+    "hook": "They bugged referees' headsets to hear private conversations—then used that intel to fix betting lines.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "NBA",
+      "wiretap",
+      "referee",
+      "mafia",
+      "betting"
+    ],
+    "overlap_check_hash": "84a48484e586237c",
+    "why_this_can_go_viral": "High-profile league with massive fanbase; tech-sleuth angle makes it feel like a spy thriller."
+  },
+  {
+    "unique_id": "sports_0093_014_aa1e3c53c5904d98",
+    "title": "The Betting Ring That Used a 9/11 Anniversary Siren to Signal a Fixed Soccer Match",
+    "hook": "They piggybacked on a citywide memorial siren to send coded betting data—no one suspected a tragedy was cover.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 50,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "siren",
+      "9/11",
+      "betting",
+      "signal",
+      "soccer"
+    ],
+    "overlap_check_hash": "aa1e3c53c5904d98",
+    "why_this_can_go_viral": "Extremely controversial and dark—pushes boundaries, guaranteed to provoke strong reactions."
+  },
+  {
+    "unique_id": "sports_0093_016_861362113fa45564",
+    "title": "The Businessman Who Owned a Soccer Club and Forced Players to Pay Him for Playing Time",
+    "hook": "He charged players per minute on the field—those who couldn't pay sat on the bench forever.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 81,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "soccer",
+      "pay-to-play",
+      "owner",
+      "corruption",
+      "business"
+    ],
+    "overlap_check_hash": "861362113fa45564",
+    "why_this_can_go_viral": "Exploitation angle resonates with broader audiences; 'pay-to-play' is a widely relatable scam."
+  },
+  {
+    "unique_id": "sports_0093_017_bfa568f49ea07926",
+    "title": "The Doctor Who Harvested Pituitary Glands from Corpses to Make 'Growth Elixir'",
+    "hook": "He believed human growth hormones from dead bodies could turn small athletes into champions—until disease spread.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "pituitary",
+      "corpse",
+      "growth hormone",
+      "doctor",
+      "disease"
+    ],
+    "overlap_check_hash": "bfa568f49ea07926",
+    "why_this_can_go_viral": "Body horror + historical scandal (CJD outbreak)—factual nightmare fuel that educates and shocks."
+  },
+  {
+    "unique_id": "sports_0093_020_824a42b2b188e121",
+    "title": "The Coach Who Made Young Athletes Train in Gas Chambers to Boost Lung Capacity",
+    "hook": "He locked runners in rooms with reduced oxygen for hours—some passed out, others developed permanent damage.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "gas chamber",
+      "oxygen",
+      "coach",
+      "runners",
+      "abuse"
+    ],
+    "overlap_check_hash": "824a42b2b188e121",
+    "why_this_can_go_viral": "Extreme training method with horrific consequences—'gas chamber' triggers immediate morbid curiosity."
+  },
+  {
+    "unique_id": "sports_0093_022_5623d35312aa22fe",
+    "title": "The Psychologist Who Made a Golfer Believe His Caddy Was Plotting to Kill Him",
+    "hook": "He planted false memories to create 'performance anxiety'—the golfer quit the sport entirely.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 79,
+    "educational_value": 55,
+    "estimated_short_retention": 77,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "golf",
+      "caddy",
+      "false memory",
+      "psychologist",
+      "paranoia"
+    ],
+    "overlap_check_hash": "5623d35312aa22fe",
+    "why_this_can_go_viral": "Mind games in a usually calm sport—contrast drives intrigue; 'false memory' is trending topic."
+  },
+  {
+    "unique_id": "sports_0093_023_cc259c259513339f",
+    "title": "The Businessman Who Sold 'Official Team Water' That Was Actually Tap Water",
+    "hook": "He bottled stadium tap water and sold it as 'performance hydration'—players paid thousands for nothing.",
+    "virality_score": 78,
+    "curiosity_gap_score": 80,
+    "darkness_score": 70,
+    "educational_value": 60,
+    "estimated_short_retention": 74,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "water",
+      "scam",
+      "business",
+      "team",
+      "hydration"
+    ],
+    "overlap_check_hash": "cc259c259513339f",
+    "why_this_can_go_viral": "Simple, relatable scam; 'they' re just scamming us' narrative drives engagement and outrage."
+  },
+  {
+    "unique_id": "sports_0093_024_50f8654e65c2dd84",
+    "title": "The Betting Network That Used a Lighthouse's Morse Code to Signal Horse Race Results",
+    "hook": "Before the internet, bookies relied on a lighthouse keeper who flashed results across the coast in real time.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 65,
+    "educational_value": 75,
+    "estimated_short_retention": 79,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "lighthouse",
+      "Morse code",
+      "horse racing",
+      "betting",
+      "signal"
+    ],
+    "overlap_check_hash": "50f8654e65c2dd84",
+    "why_this_can_go_viral": "Historical + ingenious—'lighthouse betting' is a visually compelling and educational story."
+  },
+  {
+    "unique_id": "sports_0093_025_0a240377f3b4a420",
+    "title": "The Doctor Who Gave Wrestlers 'Liquid Rubber' Injections to Strengthen Joints",
+    "hook": "He said the substance would 'cushion' bones—instead it solidified into hard lumps that tore ligaments apart.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 87,
+    "educational_value": 60,
+    "estimated_short_retention": 81,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "rubber",
+      "injection",
+      "wrestling",
+      "joints",
+      "doctor"
+    ],
+    "overlap_check_hash": "0a240377f3b4a420",
+    "why_this_can_go_viral": "Body horror with vivid 'liquid rubber' imagery—viewers will cringe and share immediately."
+  }
+]

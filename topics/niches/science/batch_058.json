@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "science_0058_001_c446e1bbaedb65a5",
+    "title": "The Scientist Who Discovered a Particle That Forgets Its Own Past",
+    "hook": "In 2022, a quantum experiment revealed a particle that spontaneously reset its own history—erasing what it had just done, mid-measurement.",
+    "virality_score": 78,
+    "curiosity_gap_score": 88,
+    "darkness_score": 65,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum reset",
+      "particle amnesia",
+      "timeline erasure",
+      "quantum paradox",
+      "physics anomaly"
+    ],
+    "overlap_check_hash": "c446e1bbaedb65a5",
+    "why_this_can_go_viral": "The idea that a particle can 'forget' its own past taps into deep uncertainty about memory, time, and reality itself."
+  },
+  {
+    "unique_id": "science_0058_004_0669b9762e9eb618",
+    "title": "The Lab Accident That Made a Scientist See Numbers as Colors Forever",
+    "hook": "After a chemical splash to the face, a neuroscientist developed permanent synesthesia—now every digit has a taste, a color, and a temperature.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "acquired synesthesia",
+      "chemical brain change",
+      "permanent perception shift",
+      "lab accident",
+      "sensory fusion"
+    ],
+    "overlap_check_hash": "0669b9762e9eb618",
+    "why_this_can_go_viral": "Permanent brain rewiring from a single accident is fascinating and slightly terrifying — viewers imagine it happening to them."
+  },
+  {
+    "unique_id": "science_0058_005_71f979380671e1fa",
+    "title": "The Fraud Scientist Who Faked Data That Wolves Learn Grammar",
+    "hook": "A 2009 paper claimed wolves could understand sentence structure. The researcher had faked the audio recordings. But the scientific community believed it for years.",
+    "virality_score": 74,
+    "curiosity_gap_score": 79,
+    "darkness_score": 72,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "wolf grammar fraud",
+      "fake animal language",
+      "retracted paper",
+      "scientific deception",
+      "animal cognition scam"
+    ],
+    "overlap_check_hash": "71f979380671e1fa",
+    "why_this_can_go_viral": "Animal intelligence claims always spark debate — revealing a deliberate fraud makes viewers feel betrayed and intrigued."
+  },
+  {
+    "unique_id": "science_0058_006_f4b959b18ab05366",
+    "title": "The Biologist Who Created a Spider That Weaves Glowing Web Traps",
+    "hook": "By inserting firefly DNA into a spider, scientists made it spin silk that glows in the dark—luring prey directly into its jaws.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 68,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "glowing spider",
+      "DNA hack",
+      "bioluminescent trap",
+      "genetic modification",
+      "predator upgrade"
+    ],
+    "overlap_check_hash": "f4b959b18ab05366",
+    "why_this_can_go_viral": "Spiders are already terrifying — giving them glowing bait creates a primal horror that viewers will share immediately."
+  },
+  {
+    "unique_id": "science_0058_007_9ef98ce13bd13ab6",
+    "title": "The Quantum Paradox Where a Particle Refuses to Be Measured",
+    "hook": "In a 2023 experiment, a particle literally stopped existing every time they tried to observe it—as if it knew it was being watched.",
+    "virality_score": 80,
+    "curiosity_gap_score": 89,
+    "darkness_score": 68,
+    "educational_value": 82,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum disappearance",
+      "observer effect extreme",
+      "particle hiding",
+      "quantum evasion",
+      "measurement paradox"
+    ],
+    "overlap_check_hash": "9ef98ce13bd13ab6",
+    "why_this_can_go_viral": "Consciousness-influencing-reality is a top-tier curiosity hook — this feels like a glitch in the simulation."
+  },
+  {
+    "unique_id": "science_0058_009_3ad96af66fa521e0",
+    "title": "The Chemist Who Accidentally Synthesized a Molecule That Tastes Like Regret",
+    "hook": "A bitterant so potent that one nanogram made test subjects cry, vomit, and report 'emotional disgust' — the chemist called it the 'suicide taste'.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "bitterant horror",
+      "emotional taste",
+      "suicide molecule",
+      "taste trauma",
+      "chemical disgust"
+    ],
+    "overlap_check_hash": "3ad96af66fa521e0",
+    "why_this_can_go_viral": "The idea of a taste so bad it causes an emotional breakdown is morbidly fascinating and highly shareable."
+  },
+  {
+    "unique_id": "science_0058_010_f713874ed78eeb6c",
+    "title": "The Forbidden Experiment That Tried to Teach a Dolphin English",
+    "hook": "In the 1960s, scientists gave a dolphin a studio apartment, a teacher, and 24/7 exposure to English. It started mimicking human speech—then made sexual advances.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "dolphin language experiment",
+      "Margaret Howe",
+      "human dolphin communication",
+      "sexual behavior",
+      "1960s research"
+    ],
+    "overlap_check_hash": "f713874ed78eeb6c",
+    "why_this_can_go_viral": "Strange, intimate, and ethically dubious — this story has cult internet appeal and triggers immediate 'no way' reactions."
+  },
+  {
+    "unique_id": "science_0058_011_8b8fa665f50be3f9",
+    "title": "The Physicist Who Found That a Vacuum Can Spontaneously Create Matter",
+    "hook": "Empty space isn't empty. A 2019 experiment proved that pure vacuum, under extreme electric fields, can birth real particles from nothing.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 88,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "vacuum genesis",
+      "particle from nothing",
+      "quantum fluctuation",
+      "spontaneous matter",
+      "Schwinger effect"
+    ],
+    "overlap_check_hash": "8b8fa665f50be3f9",
+    "why_this_can_go_viral": "Nothing creating something is a mind-blowing foundational mystery that makes viewers question reality."
+  },
+  {
+    "unique_id": "science_0058_012_5ebb9e4fa0f0e437",
+    "title": "The Lab That Unleashed a Fungus That Makes Ants Climb and Explode",
+    "hook": "A lab-grown strain of Ophiocordyceps forced ants to climb plants, lock their jaws, and wait for a fungus to burst from their heads.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "zombie ant fungus",
+      "mind control parasite",
+      "exploding ant",
+      "Ophiocordyceps lab",
+      "biological puppet"
+    ],
+    "overlap_check_hash": "5ebb9e4fa0f0e437",
+    "why_this_can_go_viral": "Body horror + mind control is an irresistible combo — viewers are horrified but cannot stop watching."
+  },
+  {
+    "unique_id": "science_0058_013_413bdc4bf446305e",
+    "title": "The Neuroscientist Who Discovered a Memory That Never Fades",
+    "hook": "A patient with hyperthymesia remembered every single day of her life since age 12—including the exact weather, what she ate, and every painful detail she'd rather forget.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 76,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "total recall curse",
+      "hyperthymesia",
+      "memory prison",
+      "forgetting inability",
+      "perfect memory trauma"
+    ],
+    "overlap_check_hash": "413bdc4bf446305e",
+    "why_this_can_go_viral": "The idea of never forgetting is both superhuman and horrifying — viewers will debate if it's a gift or a curse."
+  },
+  {
+    "unique_id": "science_0058_014_580037b2fade6992",
+    "title": "The Chemist Who Made a Polymer That Never Stops Growing",
+    "hook": "A self-replicating polymer that, once started, consumes available carbon and doubles in size every hour — they had to incinerate the entire lab to stop it.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 76,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "grey goo scenario",
+      "self-replicating polymer",
+      "runaway reaction",
+      "chemical apocalypse",
+      "uncontrolled growth"
+    ],
+    "overlap_check_hash": "580037b2fade6992",
+    "why_this_can_go_viral": "Self-replicating matter is a classic sci-fi horror — the fact it happened in a real lab is terrifying and shareable."
+  },
+  {
+    "unique_id": "science_0058_015_8ca2b209f323d4ee",
+    "title": "The Quantum Paradox Where Time Moves Backward for One Particle",
+    "hook": "In a double-slit variant, researchers observed a particle exit the detector before it entered — time reversal at the quantum level, confirmed.",
+    "virality_score": 81,
+    "curiosity_gap_score": 89,
+    "darkness_score": 72,
+    "educational_value": 84,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time reversed particle",
+      "quantum backward",
+      "retrocausality",
+      "temporal paradox",
+      "quantum time travel"
+    ],
+    "overlap_check_hash": "8ca2b209f323d4ee",
+    "why_this_can_go_viral": "Time travel at the particle level is a mind-bending teaser that feels like a sci-fi plot revealed as real science."
+  },
+  {
+    "unique_id": "science_0058_016_5afde91569861ddd",
+    "title": "The Forbidden Lab That Kept a Human Heart Beating Outside the Body",
+    "hook": "For 28 hours, a donated heart beat in a nutrient bath — no body, no brain, just muscle memory and electricity. Then it started beating faster when they spoke.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "heart outside body",
+      "isolated organ",
+      "beating heart experiment",
+      "ex vivo heart",
+      "life without body"
+    ],
+    "overlap_check_hash": "5afde91569861ddd",
+    "why_this_can_go_viral": "An organ alive without its host is deeply unsettling and raises profound questions about consciousness and identity."
+  },
+  {
+    "unique_id": "science_0058_017_1a66b0ab7436581a",
+    "title": "The Biologist Who Discovered a Bacterium That Eats Electricity",
+    "hook": "A microbe found in a deep-sea vent survives on pure electrons — no sugar, no sunlight, just raw electrical current flowing through rock.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 68,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "electricity eating bacteria",
+      "electrotroph",
+      "alien metabolism",
+      "deep sea microbe",
+      "alternative biology"
+    ],
+    "overlap_check_hash": "1a66b0ab7436581a",
+    "why_this_can_go_viral": "Life feeding on electricity sounds like science fiction — viewers will be fascinated by this 'alien' biology on Earth."
+  },
+  {
+    "unique_id": "science_0058_018_2d997525699dcd47",
+    "title": "The Fraud Scientist Who Claimed He Turned Lead into Gold",
+    "hook": "A 2012 paper claimed to achieve alchemy via quantum transmutation. The data was fabricated, but for three months, the entire physics world believed it was real.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 73,
+    "educational_value": 78,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "alchemy fake",
+      "quantum alchemy",
+      "lead to gold hoax",
+      "fabricated transmutation",
+      "scientific scandal"
+    ],
+    "overlap_check_hash": "2d997525699dcd47",
+    "why_this_can_go_viral": "Alchemy is an ancient dream — revealing a modern fake that fooled experts creates a delicious 'I knew it was too good' reaction."
+  },
+  {
+    "unique_id": "science_0058_020_0a4f63579350e0ea",
+    "title": "The Lab Accident That Created a Molecule That Hunts and Kills Bacteria",
+    "hook": "A failed synthesis produced a molecule that actively seeks out E. coli, latches onto its membrane, and tears it apart — like a microscopic predator.",
+    "virality_score": 77,
+    "curiosity_gap_score": 82,
+    "darkness_score": 74,
+    "educational_value": 80,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "bacteria hunting molecule",
+      "chemical predator",
+      "accidental antibiotic",
+      "smart molecule",
+      "self-targeting compound"
+    ],
+    "overlap_check_hash": "0a4f63579350e0ea",
+    "why_this_can_go_viral": "A molecule that acts like a living hunter blurs the line between chemistry and biology — deeply intriguing."
+  },
+  {
+    "unique_id": "science_0058_021_05e84b83070f549d",
+    "title": "The Neuroscientist Who Found That Your Brain Can Run on Zero Input",
+    "hook": "In a sensory deprivation tank, the brain doesn't go quiet — it hallucinates entire realities, proving that consciousness is a self-generating movie.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 82,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "sensory deprivation hallucinations",
+      "brain self-generates",
+      "consciousness movie",
+      "isolation tank",
+      "neural simulation"
+    ],
+    "overlap_check_hash": "05e84b83070f549d",
+    "why_this_can_go_viral": "Imagining your own brain trapping you in fake worlds is both fascinating and existentially frightening."
+  },
+  {
+    "unique_id": "science_0058_022_1ea90cfe323eee4a",
+    "title": "The Physicist Who Demonstrated That Atoms Can 'Teleport' Through Walls",
+    "hook": "Quantum tunneling usually works on electrons. In 2023, researchers made an entire rubidium atom appear on the other side of a barrier — intact.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 84,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "atom teleportation",
+      "quantum tunneling atom",
+      "barrier crossing",
+      "macroscopic tunneling",
+      "rubidium leap"
+    ],
+    "overlap_check_hash": "1ea90cfe323eee4a",
+    "why_this_can_go_viral": "Teleportation is a universal fantasy — seeing it at the atomic level feels like a step toward sci-fi becoming real."
+  },
+  {
+    "unique_id": "science_0058_023_69f3916bad62161e",
+    "title": "The Biologist Who Created a Virus That Makes Cells Forget Their Function",
+    "hook": "A synthetic virus that reprograms liver cells to forget they are liver cells — turning them into a blank slate that can become anything.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "cell identity virus",
+      "reprogramming pathogen",
+      "synthetic biology",
+      "blank slate cell",
+      "identity erasure"
+    ],
+    "overlap_check_hash": "69f3916bad62161e",
+    "why_this_can_go_viral": "A virus that erases biological identity is unsettling — it sounds like the plot of a horror movie, but it's real."
+  },
+  {
+    "unique_id": "science_0058_024_23c965a126b402af",
+    "title": "The Forbidden Experiment That Tried to Reverse Aging in a Human",
+    "hook": "A 2014 experiment injected a 44-year-old with a cocktail of growth factors designed to reset his epigenetic clock. His biological age dropped by 20 years.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 76,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "age reversal human",
+      "epigenetic reset",
+      "biological age drop",
+      "longevity experiment",
+      "anti-aging injection"
+    ],
+    "overlap_check_hash": "23c965a126b402af",
+    "why_this_can_go_viral": "Reversing aging is the holy grail — this specific, controversial experiment feels like forbidden knowledge."
+  }
+]

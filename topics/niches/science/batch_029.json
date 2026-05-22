@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "science_0029_001_ab2028790a4dbb07",
+    "title": "The Lab That Created a Fungus That Eats Human Guilt",
+    "hook": "A biotech lab accidentally engineered a fungus that feeds on human guilt—by making you hallucinate your worst memories.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 72,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fungus",
+      "guilt",
+      "hallucination",
+      "biotech",
+      "memory"
+    ],
+    "overlap_check_hash": "ab2028790a4dbb07",
+    "why_this_can_go_viral": "It combines psychological horror with bio-experimentation, tapping into deep fears of losing control over one's own mind."
+  },
+  {
+    "unique_id": "science_0029_002_3d2418636766329b",
+    "title": "The Neuroscientist Who Deleted a Woman's Entire Childhood",
+    "hook": "A researcher found a frequency that erases specific memories—and tested it on a volunteer who forgot 20 years of her life.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory",
+      "erase",
+      "frequency",
+      "neuroscience",
+      "forgotten"
+    ],
+    "overlap_check_hash": "3d2418636766329b",
+    "why_this_can_go_viral": "Memory deletion is universally terrifying and fascinating; viewers will question the safety of modern neuroscience."
+  },
+  {
+    "unique_id": "science_0029_004_8ea22189ef433c9c",
+    "title": "The Chemist Who Made a Poison That Destroys Your Sense of Self",
+    "hook": "A chemist synthesized a compound that doesn't kill you—it makes you forget you exist, leaving you in a waking void.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 55,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "poison",
+      "self",
+      "identity",
+      "void",
+      "compound"
+    ],
+    "overlap_check_hash": "8ea22189ef433c9c",
+    "why_this_can_go_viral": "The idea of losing your sense of self is a primal horror that triggers deep existential dread."
+  },
+  {
+    "unique_id": "science_0029_006_764b78cf2ca09502",
+    "title": "The Physicist Who Cracked a Diamond Using Sound Alone",
+    "hook": "A physicist aimed a specific frequency at a diamond and it shattered into dust—without ever touching it.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 65,
+    "educational_value": 70,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "sound",
+      "diamond",
+      "frequency",
+      "shatter",
+      "resonance"
+    ],
+    "overlap_check_hash": "764b78cf2ca09502",
+    "why_this_can_go_viral": "Destroying the hardest natural material with invisible sound waves is visually and conceptually stunning."
+  },
+  {
+    "unique_id": "science_0029_009_7ff6b2165c210754",
+    "title": "The Lab That Accidentally Unleashed a Virus That Melts Flesh",
+    "hook": "A containment breach in a virology lab released a pathogen that liquefies human tissue within hours—and it wasn't stopped.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "virus",
+      "flesh",
+      "melt",
+      "containment",
+      "breach"
+    ],
+    "overlap_check_hash": "7ff6b2165c210754",
+    "why_this_can_go_viral": "Body horror and lab leak fears are extremely popular and trigger immediate disgust and curiosity."
+  },
+  {
+    "unique_id": "science_0029_012_3a7c1be4227033c4",
+    "title": "The Chemist Who Blew Up a Lab Mixing Bleach and Ammonia on Purpose",
+    "hook": "A chemist deliberately combined bleach and ammonia to study the gas cloud—and nearly killed the entire building.",
+    "virality_score": 74,
+    "curiosity_gap_score": 78,
+    "darkness_score": 64,
+    "educational_value": 68,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "bleach",
+      "ammonia",
+      "gas",
+      "explosion",
+      "chemistry"
+    ],
+    "overlap_check_hash": "3a7c1be4227033c4",
+    "why_this_can_go_viral": "Viewers know these household chemicals, and learning how dangerous they are creates immediate shock and relatability."
+  },
+  {
+    "unique_id": "science_0029_013_cc2d175758485bb3",
+    "title": "The Soviet Experiment That Tried to Make Dogs Immortal",
+    "hook": "Soviet scientists attempted to keep a dog's brain alive indefinitely by hooking it to a machine—the dog never died.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 86,
+    "educational_value": 68,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "soviet",
+      "dog",
+      "immortal",
+      "brain",
+      "machine"
+    ],
+    "overlap_check_hash": "cc2d175758485bb3",
+    "why_this_can_go_viral": "Animal suffering combined with a twisted pursuit of immortality is deeply emotional and shocking."
+  },
+  {
+    "unique_id": "science_0029_014_83f989e212926dab",
+    "title": "The Physicist Who Proved That Glass Is a Liquid That Never Stops Flowing",
+    "hook": "A physicist demonstrated that ancient cathedral windows are thicker at the bottom—because glass drips over centuries.",
+    "virality_score": 72,
+    "curiosity_gap_score": 76,
+    "darkness_score": 58,
+    "educational_value": 80,
+    "estimated_short_retention": 74,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "glass",
+      "liquid",
+      "flow",
+      "cathedral",
+      "time"
+    ],
+    "overlap_check_hash": "83f989e212926dab",
+    "why_this_can_go_viral": "It shatters a common belief and reveals a hidden property of an everyday material, sparking wonder."
+  },
+  {
+    "unique_id": "science_0029_017_c685de318ea9fe5c",
+    "title": "The Lab That Created a Sound That Makes You Hallucinate Faces",
+    "hook": "A specific low-frequency tone causes the brain to see faces in random patterns—a sonic illusion that tricks the visual cortex.",
+    "virality_score": 77,
+    "curiosity_gap_score": 81,
+    "darkness_score": 68,
+    "educational_value": 72,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "sound",
+      "hallucination",
+      "face",
+      "frequency",
+      "illusion"
+    ],
+    "overlap_check_hash": "c685de318ea9fe5c",
+    "why_this_can_go_viral": "The idea that sound can hijack vision is terrifying and leads to immediate curiosity about trying it."
+  },
+  {
+    "unique_id": "science_0029_018_4664c8bfe738fb95",
+    "title": "The Quantum Gas That Exists in Two Temperatures at Once",
+    "hook": "Scientists created a quantum gas that is simultaneously hot and cold—breaking the most basic law of thermodynamics.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 74,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum",
+      "gas",
+      "temperature",
+      "superposition",
+      "thermodynamics"
+    ],
+    "overlap_check_hash": "4664c8bfe738fb95",
+    "why_this_can_go_viral": "Challenging a fundamental law of physics is inherently mind-blowing and sparks deep discussion."
+  },
+  {
+    "unique_id": "science_0029_019_fc08419bc843795e",
+    "title": "The Chemist Who Made a Rubber That Never Wears Down",
+    "hook": "A chemist created a rubber compound that undergoes zero friction wear—tires made from it could last a million miles.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 55,
+    "educational_value": 72,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "rubber",
+      "friction",
+      "tire",
+      "durable",
+      "compound"
+    ],
+    "overlap_check_hash": "fc08419bc843795e",
+    "why_this_can_go_viral": "The promise of an indestructible everyday object fascinates everyone and feels like a suppressed invention."
+  },
+  {
+    "unique_id": "science_0029_020_7538c6e51165f4ed",
+    "title": "The Lab That Accidentally Bred a Spider That Hunts in Packs",
+    "hook": "A genetic experiment gone wrong created a spider species that communicates and hunts like wolves—webs of coordinated terror.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "spider",
+      "pack",
+      "hunt",
+      "genetic",
+      "coordination"
+    ],
+    "overlap_check_hash": "7538c6e51165f4ed",
+    "why_this_can_go_viral": "Spiders are already terrifying; pack behavior makes them a nightmare scenario that viewers can't look away from."
+  },
+  {
+    "unique_id": "science_0029_021_f39cea2805e8be83",
+    "title": "The Physicist Who Found That Empty Space Weighs Something",
+    "hook": "A physicist measured the vacuum of empty space and found it has mass—the void itself is heavier than you think.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 66,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "vacuum",
+      "mass",
+      "space",
+      "weight",
+      "void"
+    ],
+    "overlap_check_hash": "f39cea2805e8be83",
+    "why_this_can_go_viral": "The idea that nothing has weight is a delightful paradox that forces viewers to rethink reality."
+  },
+  {
+    "unique_id": "science_0029_022_a71a0f6d7ec27880",
+    "title": "The Researcher Who Faked a Study That 'Proved' Sleep Is Optional",
+    "hook": "A scientist lied about data showing humans can function without sleep—and a military program trained soldiers on the false claim.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 74,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fraud",
+      "sleep",
+      "military",
+      "data",
+      "danger"
+    ],
+    "overlap_check_hash": "a71a0f6d7ec27880",
+    "why_this_can_go_viral": "Sleep deprivation is relatable, and the idea of being lied to by scientists adds a layer of paranoia."
+  },
+  {
+    "unique_id": "science_0029_024_ef4932159024f027",
+    "title": "The Lab That Unleashed a Chemical That Made Rats Eat Each Other",
+    "hook": "A synthetic hormone accidentally released in a lab caused rats to cannibalize their own litter—a chemical broken the survival instinct.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 62,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "hormone",
+      "cannibalism",
+      "rats",
+      "chemical",
+      "instinct"
+    ],
+    "overlap_check_hash": "ef4932159024f027",
+    "why_this_can_go_viral": "Gross-out factor combined with the breakdown of natural law makes this unforgettable and highly shareable."
+  },
+  {
+    "unique_id": "science_0029_025_fce5475098c98f17",
+    "title": "The Physicist Who Proved That Time Can Flow Sideways",
+    "hook": "A physicist showed that under specific conditions, time doesn't move forward or backward—it flows sideways, like a river branching.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time",
+      "sideways",
+      "flow",
+      "branch",
+      "physics"
+    ],
+    "overlap_check_hash": "fce5475098c98f17",
+    "why_this_can_go_viral": "The mind-bending concept of sideways time taps into deep fascination with temporal mechanics and alternative realities."
+  }
+]

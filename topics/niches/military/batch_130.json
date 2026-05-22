@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "military_0130_002_d574ac13008d8310",
+    "title": "The Classified Operation Where Soldiers Fought Blindfolded",
+    "hook": "Troops were dropped into a warzone with no vision — just a voice in their ear telling them where to shoot.",
+    "virality_score": 78,
+    "curiosity_gap_score": 92,
+    "darkness_score": 74,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "military",
+    "subcategory": "classified operations",
+    "keywords": [
+      "blindfolded",
+      "classified",
+      "voice command",
+      "dark combat",
+      "soldiers"
+    ],
+    "overlap_check_hash": "d574ac13008d8310",
+    "why_this_can_go_viral": "The absurd horror of fighting without sight is instantly shareable and visually dramatic."
+  },
+  {
+    "unique_id": "military_0130_005_4ff2048ea5dd946d",
+    "title": "The Psychological Op That Made Enemies Hear Their Own Dead",
+    "hook": "Using voice cloning tech decades before AI, a psy-ops team broadcast dead enemy soldiers begging their comrades to surrender.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 92,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "voice cloning",
+      "psy-ops",
+      "dead soldiers",
+      "surrender",
+      "psychological warfare"
+    ],
+    "overlap_check_hash": "4ff2048ea5dd946d",
+    "why_this_can_go_viral": "AI voice cloning is a hot topic; the retro origin story shocks viewers and feels eerily relevant."
+  },
+  {
+    "unique_id": "military_0130_006_8d192993b5bda003",
+    "title": "The Military Deception That Fooled Satellites With a Lake",
+    "hook": "Engineers dyed an entire artificial lake black to make spy satellites think it was a runway — and bombers missed by miles.",
+    "virality_score": 80,
+    "curiosity_gap_score": 89,
+    "darkness_score": 60,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "military",
+    "subcategory": "military deceptions",
+    "keywords": [
+      "satellite deception",
+      "fake runway",
+      "dyed lake",
+      "bomber",
+      "spy tech"
+    ],
+    "overlap_check_hash": "8d192993b5bda003",
+    "why_this_can_go_viral": "The sheer scale and cleverness of the trick makes it a must-share surprise."
+  },
+  {
+    "unique_id": "military_0130_008_24a5852aba851274",
+    "title": "The War Crime Hidden Where Wounded Were Drowned in Latrines",
+    "hook": "Medics under orders shoved injured soldiers into field latrines — the official report called it a 'hygiene measure'.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "military",
+    "subcategory": "war crimes hidden",
+    "keywords": [
+      "latrine",
+      "drowning",
+      "medics",
+      "war crime",
+      "cover-up"
+    ],
+    "overlap_check_hash": "24a5852aba851274",
+    "why_this_can_go_viral": "Extreme depravity and bureaucratic lies drive outrage and compulsive clicking."
+  },
+  {
+    "unique_id": "military_0130_010_2bb957023112d5c3",
+    "title": "The Classified Operation Where Soldiers Ate Their Own Gear to Survive",
+    "hook": "Trapped behind enemy lines with no rations, troops boiled and ate their leather boots — and the straps held nutrition.",
+    "virality_score": 74,
+    "curiosity_gap_score": 84,
+    "darkness_score": 71,
+    "educational_value": 60,
+    "estimated_short_retention": 78,
+    "niche_name": "military",
+    "subcategory": "classified operations",
+    "keywords": [
+      "eating gear",
+      "survival",
+      "boots",
+      "behind lines",
+      "starving"
+    ],
+    "overlap_check_hash": "2bb957023112d5c3",
+    "why_this_can_go_viral": "The visceral image of chewing leather combined with survival desperation hooks survival-show fans."
+  },
+  {
+    "unique_id": "military_0130_011_231cf8fd6a6a06f5",
+    "title": "The Secret Weapons Program That Made a Ray That Melts Engines",
+    "hook": "A directed-energy weapon that fires a beam to superheat an enemy vehicle's engine block from a mile away — tested on abandoned tanks.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 69,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "military",
+    "subcategory": "secret weapons programs",
+    "keywords": [
+      "directed energy",
+      "ray gun",
+      "melt engines",
+      "laser",
+      "tank"
+    ],
+    "overlap_check_hash": "231cf8fd6a6a06f5",
+    "why_this_can_go_viral": "Scifi weapon becoming fact is always viral fuel; the silent, invisible destruction is terrifyingly cool."
+  },
+  {
+    "unique_id": "military_0130_012_5a3d690464b68b1c",
+    "title": "The Soldier Experiment Where Troops Were Kept in Zero Gravity for a Month",
+    "hook": "Soldiers floated in a dark chamber for 30 days — their bones softened so much they couldn't stand after.",
+    "virality_score": 77,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 82,
+    "niche_name": "military",
+    "subcategory": "soldier experiments",
+    "keywords": [
+      "zero gravity",
+      "bone loss",
+      "soldier test",
+      "floating",
+      "chamber"
+    ],
+    "overlap_check_hash": "5a3d690464b68b1c",
+    "why_this_can_go_viral": "Space and body horror combine; the 'can't walk' outcome is shocking and memorable."
+  },
+  {
+    "unique_id": "military_0130_013_95ec6c284720d2f2",
+    "title": "The Psychological Op That Used a Silent Whistle to Empty a City",
+    "hook": "A high-frequency tone broadcast from hidden speakers made an entire town feel sick and flee — the enemy walked into a ghost town trap.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 83,
+    "educational_value": 66,
+    "estimated_short_retention": 89,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "silent whistle",
+      "frequency",
+      "evacuation",
+      "psy-ops",
+      "ghost town"
+    ],
+    "overlap_check_hash": "95ec6c284720d2f2",
+    "why_this_can_go_viral": "The idea of an invisible sound weapon that empties a city is eerie and deeply shareable."
+  },
+  {
+    "unique_id": "military_0130_014_9e095fc35c86c5a4",
+    "title": "The Military Deception That Made a Fake Moon to Confuse Night Patrols",
+    "hook": "Engineers launched a huge illuminated balloon into the night sky that looked exactly like a second moon — enemy patrols lost their bearings.",
+    "virality_score": 79,
+    "curiosity_gap_score": 88,
+    "darkness_score": 61,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "military",
+    "subcategory": "military deceptions",
+    "keywords": [
+      "fake moon",
+      "balloon",
+      "night deception",
+      "confuse enemy",
+      "light"
+    ],
+    "overlap_check_hash": "9e095fc35c86c5a4",
+    "why_this_can_go_viral": "The audacity of creating a celestial body for war is absurd enough to go viral on novelty alone."
+  },
+  {
+    "unique_id": "military_0130_017_4a5c9e0518c9e868",
+    "title": "The Black Budget Lab That Built a Submarine That Looks Like a Rock",
+    "hook": "A stealth sub coated in synthetic stone sat motionless on the seafloor for weeks — enemy sonar saw only geology.",
+    "virality_score": 78,
+    "curiosity_gap_score": 86,
+    "darkness_score": 62,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "military",
+    "subcategory": "black budget programs",
+    "keywords": [
+      "rock submarine",
+      "stealth",
+      "seafloor",
+      "sonar",
+      "black budget"
+    ],
+    "overlap_check_hash": "4a5c9e0518c9e868",
+    "why_this_can_go_viral": "The 'becoming a rock' concept is playful yet terrifying, perfect for visual short-form."
+  },
+  {
+    "unique_id": "military_0130_018_c2a85296f01b5eda",
+    "title": "The Classified Operation Where Soldiers Wore Enemy Skin Over Their Uniform",
+    "hook": "Troops were draped in flayed enemy uniforms to get close to a camp — the smell gave them away too late.",
+    "virality_score": 83,
+    "curiosity_gap_score": 91,
+    "darkness_score": 94,
+    "educational_value": 55,
+    "estimated_short_retention": 87,
+    "niche_name": "military",
+    "subcategory": "classified operations",
+    "keywords": [
+      "flayed skin",
+      "disguise",
+      "enemy uniform",
+      "smell",
+      "camp infiltration"
+    ],
+    "overlap_check_hash": "c2a85296f01b5eda",
+    "why_this_can_go_viral": "Body horror plus tactical twist is an instant attention grabber with high shock value."
+  },
+  {
+    "unique_id": "military_0130_019_0487c3f6077087a7",
+    "title": "The Secret Weapons Program That Built a Mine That Hears Your Heartbeat",
+    "hook": "A buried mine with a tiny microphone listens for a human heartbeat — walk too close and it detonates from the inside out.",
+    "virality_score": 85,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "military",
+    "subcategory": "secret weapons programs",
+    "keywords": [
+      "heartbeat mine",
+      "acoustic trigger",
+      "land mine",
+      "stealth kill",
+      "sensor"
+    ],
+    "overlap_check_hash": "0487c3f6077087a7",
+    "why_this_can_go_viral": "The intimate, biological targeting is terrifying and new; viewers will imagine their own heartbeat."
+  },
+  {
+    "unique_id": "military_0130_021_ceefe0e56267dba5",
+    "title": "The Psychological Op That Used a Fake Radio Station to Collapse a Rebellion",
+    "hook": "A rebel group followed orders from a 'friendly' DJ — it was a military psy-ops show broadcasting surrender cues as pop songs.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 76,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "fake radio",
+      "psy-ops",
+      "rebellion",
+      "surrender",
+      "pop songs"
+    ],
+    "overlap_check_hash": "ceefe0e56267dba5",
+    "why_this_can_go_viral": "The idea of a pop song hiding military orders is a delicious conspiracy-ready concept."
+  },
+  {
+    "unique_id": "military_0130_023_a78411ddae86106c",
+    "title": "The Covert Mission Where Operatives Infected Themselves to Spread Disease",
+    "hook": "Agents deliberately caught a flesh-eating bacteria and walked through enemy barracks — they spread it with every handshake.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 60,
+    "estimated_short_retention": 87,
+    "niche_name": "military",
+    "subcategory": "covert missions",
+    "keywords": [
+      "self-infection",
+      "bacteria",
+      "disease",
+      "handshake",
+      "biowarfare"
+    ],
+    "overlap_check_hash": "a78411ddae86106c",
+    "why_this_can_go_viral": "Self-sacrifice for biological attack is both heroic and horrifying — a perfect viral cocktail."
+  },
+  {
+    "unique_id": "military_0130_024_f42a41ddf8a96b9f",
+    "title": "The War Crime Hidden Where Dead Soldiers Were Sold as Fertilizer",
+    "hook": "After a battle, bodies were ground up and sold to farms — the official label said 'bone meal', no one asked questions.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 99,
+    "educational_value": 65,
+    "estimated_short_retention": 93,
+    "niche_name": "military",
+    "subcategory": "war crimes hidden",
+    "keywords": [
+      "fertilizer",
+      "dead soldiers",
+      "bone meal",
+      "cover-up",
+      "farms"
+    ],
+    "overlap_check_hash": "f42a41ddf8a96b9f",
+    "why_this_can_go_viral": "The ultimate desecration — feeding the dead to the living — guarantees maximum shock and shareability."
+  },
+  {
+    "unique_id": "military_0130_025_446d0df3dcced27b",
+    "title": "The Black Budget Program That Built a Laser That Blinds Drones by the Swarm",
+    "hook": "A ground-based laser sweeps across the sky and wipes out an entire drone swarm in seconds — the pilots on the ground went blind too.",
+    "virality_score": 82,
+    "curiosity_gap_score": 89,
+    "darkness_score": 74,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "military",
+    "subcategory": "black budget programs",
+    "keywords": [
+      "laser",
+      "drone swarm",
+      "blind",
+      "pilot",
+      "black budget"
+    ],
+    "overlap_check_hash": "446d0df3dcced27b",
+    "why_this_can_go_viral": "Drone swarms are a hot topic; the collateral blindness adds a dark twist that sparks conversation."
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "science_0026_001_533c33eb7bcf2fe5",
+    "title": "The Chemist Who Created a Polymer That Eats Plastic",
+    "hook": "A chemist designed a polymer that could solve pollution, but it started consuming everything—including the lab equipment.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "polymer",
+      "plastic-eating",
+      "lab accident",
+      "self-replicating",
+      "chemistry disaster"
+    ],
+    "overlap_check_hash": "533c33eb7bcf2fe5",
+    "why_this_can_go_viral": "The idea of a man-made material turning against its creator taps into classic sci-fi horror, and environmental angles boost shareability."
+  },
+  {
+    "unique_id": "science_0026_002_5d5821d888b51e85",
+    "title": "The Neuroscientist Who Turned Fear Into a Drug",
+    "hook": "A researcher isolated the chemical signature of terror and injected it into subjects to induce panic on command.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "fear chemical",
+      "neuroscience",
+      "panic induction",
+      "emotional manipulation",
+      "dark experiment"
+    ],
+    "overlap_check_hash": "5d5821d888b51e85",
+    "why_this_can_go_viral": "Fear is universal; the idea that it can be weaponized chemically is deeply unsettling and highly clickable."
+  },
+  {
+    "unique_id": "science_0026_003_99d19e56bcb0ec6f",
+    "title": "The Lab That Bred a Snake That Never Stops Growing",
+    "hook": "A genetic experiment created a snake with no biological growth limit—and it escaped.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "giant snake",
+      "genetic experiment",
+      "uncontrolled growth",
+      "lab escape",
+      "biological horror"
+    ],
+    "overlap_check_hash": "99d19e56bcb0ec6f",
+    "why_this_can_go_viral": "Giant creature horror is an evergreen click magnet, especially when it's based on a real scientific possibility."
+  },
+  {
+    "unique_id": "science_0026_004_e87b93e7acb1980f",
+    "title": "The Physicist Who Found a Particle That Ignores Time",
+    "hook": "A particle was observed that doesn't decay, age, or change—it simply exists outside the flow of time.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 60,
+    "educational_value": 85,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "timeless particle",
+      "quantum anomaly",
+      "physics discovery",
+      "time violation",
+      "exotic matter"
+    ],
+    "overlap_check_hash": "e87b93e7acb1980f",
+    "why_this_can_go_viral": "Challenges our fundamental understanding of time, sparking deep curiosity and philosophical debate."
+  },
+  {
+    "unique_id": "science_0026_009_4402d35325577052",
+    "title": "The Biologist Who Bred a Fungus That Digests Plastic in Hours",
+    "hook": "A lab-created fungus could solve the plastic crisis, but it began mutating and digesting living tissue.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "plastic-eating fungus",
+      "mutant mold",
+      "bio-horror",
+      "lab escape",
+      "environmental threat"
+    ],
+    "overlap_check_hash": "4402d35325577052",
+    "why_this_can_go_viral": "A solution turning into a threat is a classic cautionary tale that resonates with environmental fears."
+  },
+  {
+    "unique_id": "science_0026_010_c477d628a46b59ba",
+    "title": "The Quantum Experiment Where a Particle Split Into 3 Versions of Itself",
+    "hook": "Physicists observed a single particle exist in three parallel states simultaneously, each following a different timeline.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 55,
+    "educational_value": 88,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "multiverse",
+      "quantum split",
+      "parallel reality",
+      "particle triplication",
+      "quantum mechanics"
+    ],
+    "overlap_check_hash": "c477d628a46b59ba",
+    "why_this_can_go_viral": "Mind-bending multiverse implications drive shares and deep comment debates."
+  },
+  {
+    "unique_id": "science_0026_011_96b3a57fded8b88c",
+    "title": "The Researcher Who Faked a Study That 'Proved' Dogs Can Detect Lies",
+    "hook": "A fabricated study claimed dogs could sniff out dishonesty—and it changed how police interrogations were conducted.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 65,
+    "educational_value": 68,
+    "estimated_short_retention": 74,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "dog lie detection",
+      "fake science",
+      "police fraud",
+      "animal behavior",
+      "junk science"
+    ],
+    "overlap_check_hash": "96b3a57fded8b88c",
+    "why_this_can_go_viral": "Animal behavior plus scandalous fraud creates an irresistible combination for viral outrage."
+  },
+  {
+    "unique_id": "science_0026_013_1e019229db08a32f",
+    "title": "The Chemist Who Accidentally Created a Perfume That Causes Hallucinations",
+    "hook": "A synthetic fragrance designed to mimic pheromones triggered vivid, shared hallucinations in everyone who smelled it.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "hallucinogenic perfume",
+      "lab accident",
+      "shared hallucination",
+      "synthetic pheromone",
+      "chemistry disaster"
+    ],
+    "overlap_check_hash": "1e019229db08a32f",
+    "why_this_can_go_viral": "The idea of a perfume that makes people see things together is creepy, bizarre, and highly shareable."
+  },
+  {
+    "unique_id": "science_0026_014_538dc3f7cca5c6fe",
+    "title": "The Neuroscientist Who Made People See 10 Seconds Into the Future",
+    "hook": "By applying a magnetic field to a specific brain region, subjects reported seeing events before they happened.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 72,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "precognition",
+      "TMS",
+      "time perception",
+      "brain manipulation",
+      "neuroscience"
+    ],
+    "overlap_check_hash": "538dc3f7cca5c6fe",
+    "why_this_can_go_viral": "Taps into the universal fascination with precognition and questions the nature of free will."
+  },
+  {
+    "unique_id": "science_0026_015_5a5745941ab636b2",
+    "title": "The Lab That Created a Virus That Makes You Immune to Pain",
+    "hook": "Scientists engineered a virus that disabled pain receptors—then it spread beyond the lab.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 73,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "pain immunity virus",
+      "engineered virus",
+      "lab escape",
+      "biohazard",
+      "neural hacking"
+    ],
+    "overlap_check_hash": "5a5745941ab636b2",
+    "why_this_can_go_viral": "Pain-free life sounds amazing until you realize people would bleed out without noticing—dark irony drives virality."
+  },
+  {
+    "unique_id": "science_0026_016_c4508f1e4951d630",
+    "title": "The Researcher Who Faked a Study That 'Proved' Ants Have Governments",
+    "hook": "A forged paper claimed ants held elections and voted on colony decisions—and sociologists cited it for years.",
+    "virality_score": 77,
+    "curiosity_gap_score": 81,
+    "darkness_score": 60,
+    "educational_value": 70,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "ant voting",
+      "fake entomology",
+      "scientific fraud",
+      "animal politics",
+      "hoax study"
+    ],
+    "overlap_check_hash": "c4508f1e4951d630",
+    "why_this_can_go_viral": "Anthropomorphism meets academic fraud—a recipe for viral mockery and debate."
+  },
+  {
+    "unique_id": "science_0026_018_8531e9396692b170",
+    "title": "The Physicist Who Proved That Space Itself Can Crack Like Glass",
+    "hook": "The equations show that under extreme conditions, the fabric of spacetime can shatter into a quantum foam.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 65,
+    "educational_value": 85,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "spacetime crack",
+      "quantum foam",
+      "fabric of reality",
+      "theoretical physics",
+      "cosmic anomaly"
+    ],
+    "overlap_check_hash": "8531e9396692b170",
+    "why_this_can_go_viral": "Visualizing reality as something that can break is both terrifying and fascinating—perfect for sci-fi fans."
+  },
+  {
+    "unique_id": "science_0026_019_0ce0bdef044d45c0",
+    "title": "The Chemist Who Made a Liquid That Corrodes Through Time Itself",
+    "hook": "A highly acidic compound was found to degrade not just matter, but the chronological record of its container.",
+    "virality_score": 82,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "time-corrosive acid",
+      "acid anomaly",
+      "chemistry horror",
+      "reality damage",
+      "extreme chemistry"
+    ],
+    "overlap_check_hash": "0ce0bdef044d45c0",
+    "why_this_can_go_viral": "The poetic horror of a substance that erases history is deeply unsettling and philosophically rich."
+  },
+  {
+    "unique_id": "science_0026_020_096513fe289b09e4",
+    "title": "The Neuroscientist Who Found That Your Brain Has a 'Kill Code' for Emotions",
+    "hook": "A neural pathway was discovered that can permanently erase specific emotions—and it can be triggered remotely.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "emotion erasure",
+      "kill code",
+      "neural pathway",
+      "brain hacking",
+      "emotional control"
+    ],
+    "overlap_check_hash": "096513fe289b09e4",
+    "why_this_can_go_viral": "The idea that emotions can be switched off like a light is both liberating and terrifying—highly debateable."
+  },
+  {
+    "unique_id": "science_0026_021_96b4085ea5af02ba",
+    "title": "The Biologist Who Bred a Fish That Walks on Land",
+    "hook": "A lab selectively bred fish for stronger fins—and after 20 generations, they started crawling out of the tank.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 68,
+    "educational_value": 80,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "walking fish",
+      "evolution experiment",
+      "land fish",
+      "selective breeding",
+      "biological anomaly"
+    ],
+    "overlap_check_hash": "96b4085ea5af02ba",
+    "why_this_can_go_viral": "Evolution happening in real time is awe-inspiring and slightly creepy—shows science can create monsters."
+  },
+  {
+    "unique_id": "science_0026_022_0ecb0a2a4026097d",
+    "title": "The Quantum Computer That Crashed Reality for a Split Second",
+    "hook": "A quantum processor entered a state so complex that the local universe glitched—time and causality briefly broke.",
+    "virality_score": 85,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 82,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "reality glitch",
+      "quantum crash",
+      "time break",
+      "causality violation",
+      "quantum computing"
+    ],
+    "overlap_check_hash": "0ecb0a2a4026097d",
+    "why_this_can_go_viral": "The idea that a machine can break reality is the ultimate sci-fi premise—unbelievably shareable."
+  },
+  {
+    "unique_id": "science_0026_024_2e82efeb6a4a93a3",
+    "title": "The Soviet Lab That Linked Two Dogs' Nervous Systems Together",
+    "hook": "Soviet scientists surgically connected two dogs' spinal cords so that one felt the other's pain—and they couldn't separate them.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 94,
+    "educational_value": 74,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "joined dogs",
+      "Soviet experiment",
+      "shared nervous system",
+      "animal cruelty",
+      "forbidden science"
+    ],
+    "overlap_check_hash": "2e82efeb6a4a93a3",
+    "why_this_can_go_viral": "Body horror and ethical outrage combine for a story that's impossible to look away from."
+  },
+  {
+    "unique_id": "science_0026_025_d36cb055970aa3df",
+    "title": "The Physicist Who Found That the Universe Might Be a 2D Hologram",
+    "hook": "Mathematical proof suggests our 3D reality is a projection from a flat, 2D surface—and the edges might be detectable.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 62,
+    "educational_value": 88,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "holographic universe",
+      "2D reality",
+      "projection theory",
+      "cosmic simulation",
+      "theoretical physics"
+    ],
+    "overlap_check_hash": "d36cb055970aa3df",
+    "why_this_can_go_viral": "The simulation hypothesis is wildly popular; this gives it a hard science backbone that fuels endless discussion."
+  }
+]

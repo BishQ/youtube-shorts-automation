@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "psychology_0035_001_fd4d82b5477c2ce0",
+    "title": "The Psychiatrist Who Cured Schizophrenia With a Lie",
+    "hook": "A single fake memory implanted by a doctor made a patient's voices disappear completely.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "psychology",
+    "subcategory": "dark persuasion science",
+    "keywords": [
+      "implanted memory",
+      "fake cure",
+      "psychiatric manipulation",
+      "false belief therapy",
+      "schizophrenia"
+    ],
+    "overlap_check_hash": "fd4d82b5477c2ce0",
+    "why_this_can_go_viral": "Exploits the shocking idea that a lie can heal the brain better than medicine."
+  },
+  {
+    "unique_id": "psychology_0035_002_361ad68112ab3102",
+    "title": "The Mass Delusion That Made a Village See Fire in a River",
+    "hook": "An entire community believed their water was burning — and it was all in their heads.",
+    "virality_score": 78,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "mass delusion",
+      "collective hallucination",
+      "water fire",
+      "village panic",
+      "shared psychosis"
+    ],
+    "overlap_check_hash": "361ad68112ab3102",
+    "why_this_can_go_viral": "Visually absurd premise that makes viewers question how easily groups break from reality."
+  },
+  {
+    "unique_id": "psychology_0035_005_e4e957d9baf8df34",
+    "title": "The Manipulation Tactic That Used a Cat to Destroy a Marriage",
+    "hook": "A single pet was trained to scratch at specific times — and it drove a couple to divorce.",
+    "virality_score": 76,
+    "curiosity_gap_score": 85,
+    "darkness_score": 72,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "psychology",
+    "subcategory": "manipulation tactics",
+    "keywords": [
+      "weaponized pet",
+      "marriage sabotage",
+      "behavioral conditioning",
+      "psychological warfare at home",
+      "gaslighting"
+    ],
+    "overlap_check_hash": "e4e957d9baf8df34",
+    "why_this_can_go_viral": "Darkly creative and relatable — viewers fear their own relationships could be manipulated."
+  },
+  {
+    "unique_id": "psychology_0035_007_14306182bb692333",
+    "title": "The Propaganda System That Used a Rainbow to Control Color Perception",
+    "hook": "A government altered how an entire population saw colors — and no one noticed for decades.",
+    "virality_score": 83,
+    "curiosity_gap_score": 91,
+    "darkness_score": 79,
+    "educational_value": 85,
+    "estimated_short_retention": 86,
+    "niche_name": "psychology",
+    "subcategory": "propaganda systems",
+    "keywords": [
+      "color manipulation",
+      "perception control",
+      "government propaganda",
+      "sensory propaganda",
+      "visual indoctrination"
+    ],
+    "overlap_check_hash": "14306182bb692333",
+    "why_this_can_go_viral": "Bizarre and almost sci-fi premise that makes people question their own senses."
+  },
+  {
+    "unique_id": "psychology_0035_009_73556587d4b804e5",
+    "title": "The Mass Hysteria That Made a School Hallway Feel Like It Was Alive",
+    "hook": "Students swore the walls were breathing — and within hours, half the school was in tears.",
+    "virality_score": 77,
+    "curiosity_gap_score": 86,
+    "darkness_score": 73,
+    "educational_value": 72,
+    "estimated_short_retention": 81,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "mass hysteria",
+      "school panic",
+      "collective hallucination",
+      "breathing walls",
+      "group psychosis"
+    ],
+    "overlap_check_hash": "73556587d4b804e5",
+    "why_this_can_go_viral": "Relatable school setting with a supernatural twist that feels both fake and terrifyingly real."
+  },
+  {
+    "unique_id": "psychology_0035_010_d5c57970e496465e",
+    "title": "The Cognitive Bias That Made a CEO Ignore a Billion-Dollar Fraud",
+    "hook": "He saw the evidence but his brain refused to accept it — because the fraudster smiled too much.",
+    "virality_score": 82,
+    "curiosity_gap_score": 89,
+    "darkness_score": 76,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "psychology",
+    "subcategory": "cognitive bias destruction",
+    "keywords": [
+      "halo effect",
+      "CEO blindness",
+      "fraud psychology",
+      "smile bias",
+      "decision error"
+    ],
+    "overlap_check_hash": "d5c57970e496465e",
+    "why_this_can_go_viral": "High-stakes business failure rooted in a silly brain glitch — perfect for outrage and sharing."
+  },
+  {
+    "unique_id": "psychology_0035_011_33a8a4a8ca15d7af",
+    "title": "The Social Engineer Who Stole a Million by Dressing as a Pizza Delivery Guy",
+    "hook": "He walked through eight security checkpoints with a single pizza box — and left with cash.",
+    "virality_score": 84,
+    "curiosity_gap_score": 93,
+    "darkness_score": 74,
+    "educational_value": 79,
+    "estimated_short_retention": 87,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "pizza delivery scam",
+      "social engineering heist",
+      "security bypass",
+      "disguise theft",
+      "trust exploitation"
+    ],
+    "overlap_check_hash": "33a8a4a8ca15d7af",
+    "why_this_can_go_viral": "Classic low-effort high-reward trick that makes viewers feel both smart and vulnerable."
+  },
+  {
+    "unique_id": "psychology_0035_012_13df7b9c4c0a0352",
+    "title": "The Manipulation Tactic That Used a Broken Watch to Frame a Mayor",
+    "hook": "A stopped watch was placed at a crime scene — and everyone believed the mayor was guilty.",
+    "virality_score": 75,
+    "curiosity_gap_score": 84,
+    "darkness_score": 71,
+    "educational_value": 73,
+    "estimated_short_retention": 79,
+    "niche_name": "psychology",
+    "subcategory": "manipulation tactics",
+    "keywords": [
+      "false evidence",
+      "watch frame",
+      "political sabotage",
+      "timing manipulation",
+      "crime scene planting"
+    ],
+    "overlap_check_hash": "13df7b9c4c0a0352",
+    "why_this_can_go_viral": "Simple object with massive consequences — viewers love stories of clever framing."
+  },
+  {
+    "unique_id": "psychology_0035_013_d31022f5e0dd5e7a",
+    "title": "The Psychological Warfare That Used a Dead Dog's Bark to Terrorize a Village",
+    "hook": "After the dog died, its bark was recorded and played at night — and the village slowly went mad.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 71,
+    "estimated_short_retention": 89,
+    "niche_name": "psychology",
+    "subcategory": "psychological warfare",
+    "keywords": [
+      "animal sound torture",
+      "village terror",
+      "dead dog recording",
+      "sonic warfare",
+      "sleep deprivation"
+    ],
+    "overlap_check_hash": "d31022f5e0dd5e7a",
+    "why_this_can_go_viral": "Deeply unsettling and macabre — a perfect dark story that spreads through shock."
+  },
+  {
+    "unique_id": "psychology_0035_014_8d07a5f61e8f57ed",
+    "title": "The Propaganda System That Used a Single Color to Make People Forget Their Past",
+    "hook": "A regime repainted everything in one shade — and within months, citizens couldn't recall life before.",
+    "virality_score": 81,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 83,
+    "estimated_short_retention": 84,
+    "niche_name": "psychology",
+    "subcategory": "propaganda systems",
+    "keywords": [
+      "color propaganda",
+      "memory erasure",
+      "visual brainwashing",
+      "regime control",
+      "environmental manipulation"
+    ],
+    "overlap_check_hash": "8d07a5f61e8f57ed",
+    "why_this_can_go_viral": "Surreal and Orwellian — viewers will share to warn others about subtle control."
+  },
+  {
+    "unique_id": "psychology_0035_016_3a4f4d33c566c36a",
+    "title": "The Real Mind Control Experiment That Used a Fan to Make People Paranoid",
+    "hook": "A ceiling fan was set to a specific speed — and subjects started seeing threats in empty rooms.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 76,
+    "educational_value": 76,
+    "estimated_short_retention": 82,
+    "niche_name": "psychology",
+    "subcategory": "real mind control",
+    "keywords": [
+      "fan paranoia",
+      "mind control experiment",
+      "sensory trigger",
+      "environmental fear",
+      "paranoia induction"
+    ],
+    "overlap_check_hash": "3a4f4d33c566c36a",
+    "why_this_can_go_viral": "Everyday object turned into a weapon — relatable and deeply creepy."
+  },
+  {
+    "unique_id": "psychology_0035_019_ba21279a55e5a1f4",
+    "title": "The Social Engineer Who Posed as a Dead Man's Voice on the Phone to Access a Bank Vault",
+    "hook": "He called the bank, mimicked a deceased client's speech patterns, and emptied the safe.",
+    "virality_score": 86,
+    "curiosity_gap_score": 95,
+    "darkness_score": 83,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "voice mimicry",
+      "dead man scam",
+      "bank vault heist",
+      "phone impersonation",
+      "identity theft"
+    ],
+    "overlap_check_hash": "ba21279a55e5a1f4",
+    "why_this_can_go_viral": "Macabre and audacious — the perfect dark crime story for social media."
+  },
+  {
+    "unique_id": "psychology_0035_020_30909736723820ba",
+    "title": "The Manipulation Tactic That Used a Single Rose to Start a War Between Two Families",
+    "hook": "A flower was left on a doorstep — and within a week, two bloodlines were at war.",
+    "virality_score": 78,
+    "curiosity_gap_score": 88,
+    "darkness_score": 74,
+    "educational_value": 69,
+    "estimated_short_retention": 80,
+    "niche_name": "psychology",
+    "subcategory": "manipulation tactics",
+    "keywords": [
+      "rose manipulation",
+      "family feud",
+      "symbolic warfare",
+      "psychological trap",
+      "feud ignition"
+    ],
+    "overlap_check_hash": "30909736723820ba",
+    "why_this_can_go_viral": "Romantic object twisted into a weapon — dramatic and emotionally charged."
+  },
+  {
+    "unique_id": "psychology_0035_022_bb41781f5d0d6a4b",
+    "title": "The Propaganda System That Used a Single Tree to Make People Worship a Dictator",
+    "hook": "A tree was 'accidentally' shaped like a leader's face — and soon people prayed to it daily.",
+    "virality_score": 80,
+    "curiosity_gap_score": 89,
+    "darkness_score": 77,
+    "educational_value": 79,
+    "estimated_short_retention": 83,
+    "niche_name": "psychology",
+    "subcategory": "propaganda systems",
+    "keywords": [
+      "tree propaganda",
+      "dictator worship",
+      "natural manipulation",
+      "religious indoctrination",
+      "visual propaganda"
+    ],
+    "overlap_check_hash": "bb41781f5d0d6a4b",
+    "why_this_can_go_viral": "Bizarre and almost laughable — but terrifyingly effective in real history."
+  },
+  {
+    "unique_id": "psychology_0035_023_a4a4a4b84868e6f2",
+    "title": "The Dark Persuasion That Made a Woman Betray Her Best Friend Using a Cup of Tea",
+    "hook": "A single sip of chamomile was laced with a phrase that unlocked a hidden resentment.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 79,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "psychology",
+    "subcategory": "dark persuasion science",
+    "keywords": [
+      "tea manipulation",
+      "subliminal suggestion",
+      "friendship betrayal",
+      "trigger phrase",
+      "emotional hacking"
+    ],
+    "overlap_check_hash": "a4a4a4b84868e6f2",
+    "why_this_can_go_viral": "Intimate betrayal via a harmless drink — viewers will immediately distrust their own tea."
+  },
+  {
+    "unique_id": "psychology_0035_024_109d41abb9fbe450",
+    "title": "The Real Mind Control Experiment That Used a Pendulum to Change Political Beliefs",
+    "hook": "Swinging a weight in front of subjects made them vote for policies they previously hated.",
+    "virality_score": 83,
+    "curiosity_gap_score": 91,
+    "darkness_score": 81,
+    "educational_value": 84,
+    "estimated_short_retention": 86,
+    "niche_name": "psychology",
+    "subcategory": "real mind control",
+    "keywords": [
+      "pendulum manipulation",
+      "political brainwashing",
+      "voter influence",
+      "subliminal control",
+      "belief change"
+    ],
+    "overlap_check_hash": "109d41abb9fbe450",
+    "why_this_can_go_viral": "Threatens free will in the most democratic act — a viral political bombshell."
+  },
+  {
+    "unique_id": "psychology_0035_025_6507e414b916f885",
+    "title": "The Cognitive Bias That Made a Pilot Fly Into a Hurricane Because of a Song on the Radio",
+    "hook": "A catchy tune made him feel invincible — and he steered directly into the storm's eye.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 77,
+    "educational_value": 79,
+    "estimated_short_retention": 84,
+    "niche_name": "psychology",
+    "subcategory": "cognitive bias destruction",
+    "keywords": [
+      "song bias",
+      "pilot error",
+      "overconfidence effect",
+      "hurricane crash",
+      "musical influence"
+    ],
+    "overlap_check_hash": "6507e414b916f885",
+    "why_this_can_go_viral": "Music + disaster = irresistible hook. Makes people rethink what they listen to while driving."
+  }
+]

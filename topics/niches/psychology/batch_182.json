@@ -1,0 +1,317 @@
+[
+  {
+    "unique_id": "psychology_0182_001_8f9cc301bd835ee9",
+    "title": "The Social Engineer Who Stole a President's Password—Using His Dog's Name",
+    "hook": "One man guessed a world leader's most guarded secret by looking at a single photo online.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "social engineering",
+      "password guessing",
+      "OSINT",
+      "presidential security",
+      "psychological manipulation"
+    ],
+    "overlap_check_hash": "8f9cc301bd835ee9",
+    "why_this_can_go_viral": "Combines high-profile target (president) with a relatable, low-tech hack that feels both terrifying and plausible."
+  },
+  {
+    "unique_id": "psychology_0182_002_61dbcec351bb6a53",
+    "title": "The Cognitive Bias That Made a Town Drink Poison Water for 10 Years",
+    "hook": "They knew the water was deadly, but a mental shortcut kept them drinking it anyway.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 94,
+    "educational_value": 85,
+    "estimated_short_retention": 92,
+    "niche_name": "psychology",
+    "subcategory": "cognitive bias destruction",
+    "keywords": [
+      "cognitive bias",
+      "normalcy bias",
+      "water poisoning",
+      "mass delusion",
+      "disaster psychology"
+    ],
+    "overlap_check_hash": "61dbcec351bb6a53",
+    "why_this_can_go_viral": "Extreme real-world consequence of a common bias; viewers will feel horrified yet recognize themselves."
+  },
+  {
+    "unique_id": "psychology_0182_006_a2bdd5ff6af7fc3c",
+    "title": "The Mass Psychology That Made a City Worship a Stranger—Because He Wore Blue",
+    "hook": "One random color choice turned an ordinary man into a god for 48 hours.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 77,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "mass hysteria",
+      "social conformity",
+      "color symbolism",
+      "crowd behavior",
+      "temporary cult"
+    ],
+    "overlap_check_hash": "a2bdd5ff6af7fc3c",
+    "why_this_can_go_viral": "Bizarre, almost absurd premise that reveals how fragile collective judgment really is."
+  },
+  {
+    "unique_id": "psychology_0182_009_b7c661b77e54d630",
+    "title": "The Social Engineer Who Entered a Vault by Asking for a Glass of Water",
+    "hook": "No tools, no violence—just a polite request that bypassed a million-dollar security system.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 84,
+    "estimated_short_retention": 86,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "social engineering",
+      "vault security",
+      "psychological trick",
+      "human hacking",
+      "access manipulation"
+    ],
+    "overlap_check_hash": "b7c661b77e54d630",
+    "why_this_can_go_viral": "Audience loves 'how-did-he-do-that' stories; this one feels like a heist movie come true."
+  },
+  {
+    "unique_id": "psychology_0182_013_4ff79c264b3fd3da",
+    "title": "The Manipulation Tactic That Made a Nurse Harm Patients—by Changing Her Coffee Order",
+    "hook": "A simple drink switch triggered a cascade of errors that nearly killed a dozen people.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 79,
+    "estimated_short_retention": 88,
+    "niche_name": "psychology",
+    "subcategory": "manipulation tactics",
+    "keywords": [
+      "subtle sabotage",
+      "healthcare manipulation",
+      "caffeine effect",
+      "behavioral influence",
+      "coffee trigger"
+    ],
+    "overlap_check_hash": "4ff79c264b3fd3da",
+    "why_this_can_go_viral": "Shows how small, invisible changes can cause catastrophic results; viewers will feel paranoid."
+  },
+  {
+    "unique_id": "psychology_0182_014_892d01f2fbdad23e",
+    "title": "The Mass Psychology That Made a Crowd Run Into a Burning Building—Because Everyone Else Did",
+    "hook": "They saw flames and smoke—yet followed the herd straight into death.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 100,
+    "educational_value": 87,
+    "estimated_short_retention": 96,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "herd behavior",
+      "panic",
+      "fire tragedy",
+      "social proof death",
+      "crowd irrationality"
+    ],
+    "overlap_check_hash": "892d01f2fbdad23e",
+    "why_this_can_go_viral": "Extreme life-or-death scenario driven by a bias everyone has; morbidly fascinating."
+  },
+  {
+    "unique_id": "psychology_0182_015_efef1241b9a8c3f1",
+    "title": "The Dark Persuasion Science That Made a Patient Reject Life-Saving Surgery—in One Sentence",
+    "hook": "A single, perfectly phrased question made a man choose death over a simple operation.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 93,
+    "educational_value": 84,
+    "estimated_short_retention": 90,
+    "niche_name": "psychology",
+    "subcategory": "dark persuasion science",
+    "keywords": [
+      "framing effect",
+      "medical persuasion",
+      "choice architecture",
+      "patient manipulation",
+      "fatal decision"
+    ],
+    "overlap_check_hash": "efef1241b9a8c3f1",
+    "why_this_can_go_viral": "Shows how language can literally kill; viewers will rethink every doctor's visit."
+  },
+  {
+    "unique_id": "psychology_0182_016_281a377e22d8dc2f",
+    "title": "The Psychological Warfare That Made a Town Fear Its Own Water Supply—for a Decade",
+    "hook": "A whisper campaign poisoned their minds long before anything touched the pipes.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 81,
+    "estimated_short_retention": 89,
+    "niche_name": "psychology",
+    "subcategory": "psychological warfare",
+    "keywords": [
+      "water contamination",
+      "rumor psychology",
+      "mass paranoia",
+      "infrastructure fear",
+      "psychological terror"
+    ],
+    "overlap_check_hash": "281a377e22d8dc2f",
+    "why_this_can_go_viral": "Taps into a universal fear—something as basic as water turning into a threat."
+  },
+  {
+    "unique_id": "psychology_0182_017_0fe4ead5ea3be602",
+    "title": "The Social Engineer Who Stole a Fortune by Memorizing a Janitor's Schedule",
+    "hook": "He never touched a lock or a computer—just knew when the cleaning crew took breaks.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 74,
+    "educational_value": 86,
+    "estimated_short_retention": 85,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "social engineering",
+      "schedule manipulation",
+      "physical security",
+      "janitor exploit",
+      "psychological profiling"
+    ],
+    "overlap_check_hash": "0fe4ead5ea3be602",
+    "why_this_can_go_viral": "Low-tech, high-reward story that makes viewers realize how vulnerable they are."
+  },
+  {
+    "unique_id": "psychology_0182_018_53eb40d48109b59e",
+    "title": "The Cognitive Bias That Made a Town Ignore a Tornado Warning—Because It Was 'Routine'",
+    "hook": "They saw the siren as background noise—until the sky turned black.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 83,
+    "estimated_short_retention": 91,
+    "niche_name": "psychology",
+    "subcategory": "cognitive bias destruction",
+    "keywords": [
+      "normalcy bias",
+      "disaster indifference",
+      "tornado tragedy",
+      "risk perception",
+      "warning fatigue"
+    ],
+    "overlap_check_hash": "53eb40d48109b59e",
+    "why_this_can_go_viral": "Relatable yet deadly—everyone has ignored a warning at some point; this shows the worst case."
+  },
+  {
+    "unique_id": "psychology_0182_021_48f06b14d079ce94",
+    "title": "The Manipulation Tactic That Made a Teacher Quit Her Career—Over a Single Compliment",
+    "hook": "A few words of praise rewired her self-worth so thoroughly that she abandoned everything.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 81,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "psychology",
+    "subcategory": "manipulation tactics",
+    "keywords": [
+      "praise manipulation",
+      "career sabotage",
+      "identity erosion",
+      "emotional manipulation",
+      "gaslighting"
+    ],
+    "overlap_check_hash": "48f06b14d079ce94",
+    "why_this_can_go_viral": "Shows how positive reinforcement can be weaponized; viewers will distrust even compliments."
+  },
+  {
+    "unique_id": "psychology_0182_022_7b226afb709b0872",
+    "title": "The Mass Psychology That Made a Neighborhood Attack Its Own Mailman—for a Year",
+    "hook": "A single rumor turned a harmless man into a target of collective rage—for no reason.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "mob mentality",
+      "rumor propagation",
+      "scapegoating",
+      "community violence",
+      "social contagion"
+    ],
+    "overlap_check_hash": "7b226afb709b0872",
+    "why_this_can_go_viral": "Classic mob psychology story with a relatable, everyday target; viewers will see themselves in it."
+  },
+  {
+    "unique_id": "psychology_0182_023_a881290d88d5957d",
+    "title": "The Dark Persuasion Science That Made a Soldier Betray His Unit—for a Promise of Sleep",
+    "hook": "He was offered one night of rest in exchange for secrets—and he took it without hesitation.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 82,
+    "estimated_short_retention": 92,
+    "niche_name": "psychology",
+    "subcategory": "dark persuasion science",
+    "keywords": [
+      "sleep deprivation",
+      "betrayal",
+      "interrogation",
+      "vulnerability exploit",
+      "extreme persuasion"
+    ],
+    "overlap_check_hash": "a881290d88d5957d",
+    "why_this_can_go_viral": "High stakes, extreme vulnerability; viewers will realize how fragile loyalty is under pressure."
+  },
+  {
+    "unique_id": "psychology_0182_024_fd2d1fef2b0666e4",
+    "title": "The Psychological Warfare That Made a Town Silence Its Bells—for 30 Years",
+    "hook": "A single sound became so feared that an entire community lived in unnatural quiet.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 79,
+    "estimated_short_retention": 90,
+    "niche_name": "psychology",
+    "subcategory": "psychological warfare",
+    "keywords": [
+      "acoustic terror",
+      "sound conditioning",
+      "collective trauma",
+      "silence psychology",
+      "community fear"
+    ],
+    "overlap_check_hash": "fd2d1fef2b0666e4",
+    "why_this_can_go_viral": "Eerie and atmospheric; plays on the primal fear of sound and silence."
+  },
+  {
+    "unique_id": "psychology_0182_025_ec666df5365b1264",
+    "title": "The Social Engineer Who Hacked a Bank's Vault—by Talking About the Weather for 3 Hours",
+    "hook": "Boredom was his weapon—he wore down the guard's resistance with small talk until the vault was open.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 83,
+    "estimated_short_retention": 84,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "social engineering",
+      "bank heist",
+      "human factor",
+      "attrition tactic",
+      "boredom exploit"
+    ],
+    "overlap_check_hash": "ec666df5365b1264",
+    "why_this_can_go_viral": "Feels like a movie plot but is real; shows that the dullest conversation can be deadly."
+  }
+]

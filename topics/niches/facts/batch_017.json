@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "facts_0017_001_6e7169b6983b0196",
+    "title": "The Bacteria That Eats Your Flesh From the Inside While You're Alive",
+    "hook": "A microscopic predator can enter a tiny cut and within hours start consuming your muscle tissue while you're fully conscious.",
+    "virality_score": 92,
+    "curiosity_gap_score": 88,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "flesh eating bacteria",
+      "necrotizing fasciitis",
+      "hidden killers",
+      "human body horror",
+      "infection"
+    ],
+    "overlap_check_hash": "6e7169b6983b0196",
+    "why_this_can_go_viral": "Flesh-eating disease triggers primal fear of losing control over your own body and plays on the horror of invisible threats."
+  },
+  {
+    "unique_id": "facts_0017_002_5edf524c45ee12e8",
+    "title": "The Statistic: 1 in 4 Hospital Patients Leave With Something Inside Them",
+    "hook": "Surgical sponges, scalpels, and even phones have been left inside patients—one man lived with a 12-inch retractor in his abdomen for years.",
+    "virality_score": 85,
+    "curiosity_gap_score": 82,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "retained surgical items",
+      "medical error",
+      "hospital horror",
+      "surgery gone wrong",
+      "statistics"
+    ],
+    "overlap_check_hash": "5edf524c45ee12e8",
+    "why_this_can_go_viral": "Numbers about medical mistakes at scale feel shocking and personally terrifying because everyone has been to a hospital."
+  },
+  {
+    "unique_id": "facts_0017_004_375c18a493e4764b",
+    "title": "The Place Where Your Own Blood Can Boil Inside Your Veins",
+    "hook": "At 63,000 feet, the pressure is so low that your blood literally vaporizes—pilots who lose cabin pressure have only seconds to live.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "ebullism",
+      "blood boiling",
+      "high altitude danger",
+      "aviation horror",
+      "physics of the body"
+    ],
+    "overlap_check_hash": "375c18a493e4764b",
+    "why_this_can_go_viral": "The visceral image of your own blood turning to gas inside you is horrifying and scientifically fascinating."
+  },
+  {
+    "unique_id": "facts_0017_006_9e7440a341cf2032",
+    "title": "The Tree That Can Change Sex to Avoid Extinction",
+    "hook": "When too many males die, female trees spontaneously switch sex to male—they literally change gender to keep the forest alive.",
+    "virality_score": 77,
+    "curiosity_gap_score": 84,
+    "darkness_score": 45,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "sex changing tree",
+      "plant gender switch",
+      "forest survival",
+      "nature adaptation",
+      "botany anomaly"
+    ],
+    "overlap_check_hash": "9e7440a341cf2032",
+    "why_this_can_go_viral": "Gender fluidity in trees challenges human-centric ideas about biology and is deeply counterintuitive."
+  },
+  {
+    "unique_id": "facts_0017_008_ca0579d71bce266f",
+    "title": "The Parasite That Crawls Up Your Nose and Eats Your Brain From the Roof of Your Mouth",
+    "hook": "A microscopic amoeba enters through warm freshwater, travels up your nasal cavity, and starts consuming brain tissue—you won't even feel it until it's too late.",
+    "virality_score": 91,
+    "curiosity_gap_score": 89,
+    "darkness_score": 96,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "brain eating amoeba",
+      "naegleria fowleri",
+      "fatal infection",
+      "warm water danger",
+      "parasite horror"
+    ],
+    "overlap_check_hash": "ca0579d71bce266f",
+    "why_this_can_go_viral": "The specific route of infection (up the nose) and 97% fatality rate make this a visceral, shareable horror."
+  },
+  {
+    "unique_id": "facts_0017_010_ebb39230c146c1ae",
+    "title": "The Everyday Object in Your Trash That Can Decapitate a Janitor",
+    "hook": "The compressed air inside a discarded aerosol can is so powerful that when crushed, the metal top can rocket off at 70 mph and sever a spine.",
+    "virality_score": 80,
+    "curiosity_gap_score": 79,
+    "darkness_score": 85,
+    "educational_value": 82,
+    "estimated_short_retention": 83,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "aerosol can explosion",
+      "garbage truck danger",
+      "hidden explosives",
+      "trash hazard",
+      "janitor death"
+    ],
+    "overlap_check_hash": "ebb39230c146c1ae",
+    "why_this_can_go_viral": "Revealing a lethal threat in a common household item triggers immediate protective behavior and sharing."
+  },
+  {
+    "unique_id": "facts_0017_011_bc906dff8751b9a4",
+    "title": "The Physics Phenomenon That Makes a Paper Cut Hurt More Than a Knife Wound",
+    "hook": "Paper cuts slice at a microscopic level that avoids triggering your body's natural clotting—and the wound stays open to nerve endings, causing constant stinging.",
+    "virality_score": 75,
+    "curiosity_gap_score": 81,
+    "darkness_score": 55,
+    "educational_value": 88,
+    "estimated_short_retention": 78,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "paper cut pain",
+      "nerve endings",
+      "physics of cutting",
+      "microscopic wound",
+      "clotting failure"
+    ],
+    "overlap_check_hash": "bc906dff8751b9a4",
+    "why_this_can_go_viral": "Everyone relates to paper cuts, but the scientific reason for the intense pain is surprising and shareable."
+  },
+  {
+    "unique_id": "facts_0017_012_7307080ca7e238af",
+    "title": "The Animal That Can Pause Its Own Pregnancy for Years—Until Food Appears",
+    "hook": "Female kangaroos can freeze an embryo in a state of suspended animation for up to two years, waiting for drought to end before giving birth.",
+    "virality_score": 76,
+    "curiosity_gap_score": 83,
+    "darkness_score": 40,
+    "educational_value": 86,
+    "estimated_short_retention": 79,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "embryonic diapause",
+      "kangaroo pregnancy",
+      "suspended animation",
+      "animal adaptation",
+      "marsupial biology"
+    ],
+    "overlap_check_hash": "7307080ca7e238af",
+    "why_this_can_go_viral": "The idea of pausing a pregnancy defies everything we know about reproduction and is mind-blowing."
+  },
+  {
+    "unique_id": "facts_0017_014_b466e84505354dab",
+    "title": "The Place Where the Ground Can Open and Swallow You Whole Without Warning",
+    "hook": "Sinkholes can appear in seconds, swallowing cars, homes, and even people—a man in Florida simply vanished into his bedroom floor while sleeping.",
+    "virality_score": 82,
+    "curiosity_gap_score": 80,
+    "darkness_score": 87,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "sinkhole death",
+      "ground collapse",
+      "Florida sinkhole",
+      "geological hazard",
+      "disappearing hole"
+    ],
+    "overlap_check_hash": "b466e84505354dab",
+    "why_this_can_go_viral": "Sinkholes are visually dramatic and tap into the fear of the earth itself being unstable under your feet."
+  },
+  {
+    "unique_id": "facts_0017_015_f46b1a81b667ae87",
+    "title": "The Chemical in Your Canned Food That Mimics Estrogen and Grows Breasts on Men",
+    "hook": "BPA from can linings leaches into food and acts as a synthetic estrogen—studies show it's linked to lower sperm counts and gynecomastia in men.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 82,
+    "educational_value": 88,
+    "estimated_short_retention": 84,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "BPA danger",
+      "canned food hormone",
+      "male breast growth",
+      "endocrine disruptor",
+      "hidden chemical"
+    ],
+    "overlap_check_hash": "f46b1a81b667ae87",
+    "why_this_can_go_viral": "The link between everyday food and hormonal changes is deeply unsettling and has high share potential among health-conscious audiences."
+  },
+  {
+    "unique_id": "facts_0017_016_07479aa1b9cb10e9",
+    "title": "The Physics Phenomenon That Makes Water Explode When Heated in a Microwave",
+    "hook": "Pure water can superheat past boiling without bubbling—until a single disturbance triggers a violent eruption that can scald your face off.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 78,
+    "educational_value": 85,
+    "estimated_short_retention": 83,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "superheated water",
+      "microwave explosion",
+      "scalding hazard",
+      "boiling anomaly",
+      "physics danger"
+    ],
+    "overlap_check_hash": "07479aa1b9cb10e9",
+    "why_this_can_go_viral": "The dramatic visual of an exploding water container is highly shareable and the danger is relatable to everyday life."
+  },
+  {
+    "unique_id": "facts_0017_017_10aef86d877fa22b",
+    "title": "The Parasite That Hijacks Your Brain and Makes You Crave Salt",
+    "hook": "A microscopic single-celled parasite infects the hypothalamus and directly alters your taste preferences, driving you to eat more salt for its survival.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "parasite brain control",
+      "salt craving",
+      "toxoplasma",
+      "neural hijacking",
+      "behavioral parasite"
+    ],
+    "overlap_check_hash": "10aef86d877fa22b",
+    "why_this_can_go_viral": "The idea that a parasite can change what you crave challenges free will and is deeply unsettling."
+  },
+  {
+    "unique_id": "facts_0017_018_067f4512483bcc2d",
+    "title": "The Statistic That Says You Have a 1-in-20 Chance of Dying From Your Own Birthday Party",
+    "hook": "More people die on their birthday than any other day of the year—heart attacks, strokes, and suicides spike due to stress, alcohol, and expectation.",
+    "virality_score": 86,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "birthday death risk",
+      "holiday paradox",
+      "statistical anomaly",
+      "mortality spike",
+      "hidden danger celebration"
+    ],
+    "overlap_check_hash": "067f4512483bcc2d",
+    "why_this_can_go_viral": "The counterintuitive statistic about a supposedly happy day causing death is highly shareable and darkly amusing."
+  },
+  {
+    "unique_id": "facts_0017_019_2539043328f069ab",
+    "title": "The Tree That Stabs You With Glass-Sharp Needles That Snap Off in Your Skin",
+    "hook": "The sandbox tree shoots razor-sharp seeds at 150 mph—and its trunk is covered in toxic spines that break off under your skin, causing festering wounds.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 86,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "sandbox tree",
+      "exploding tree",
+      "toxic spines",
+      "dangerous plant",
+      "festering wound"
+    ],
+    "overlap_check_hash": "2539043328f069ab",
+    "why_this_can_go_viral": "A tree that actively attacks with projectiles and poison feels like science fiction, making it highly shareable."
+  },
+  {
+    "unique_id": "facts_0017_020_aa928a0eb1ee7690",
+    "title": "The Glitch That Makes Your Brain Think Your Own Hand Belongs to Someone Else",
+    "hook": "By simply stroking a rubber hand in front of you while hiding your real hand, your brain can be tricked into feeling pain when the rubber hand is hit.",
+    "virality_score": 78,
+    "curiosity_gap_score": 86,
+    "darkness_score": 60,
+    "educational_value": 88,
+    "estimated_short_retention": 82,
+    "niche_name": "facts",
+    "subcategory": "cognitive reality gaps",
+    "keywords": [
+      "rubber hand illusion",
+      "body ownership",
+      "brain trick",
+      "phantom limb",
+      "neural illusion"
+    ],
+    "overlap_check_hash": "aa928a0eb1ee7690",
+    "why_this_can_go_viral": "The visual demonstration of the rubber hand illusion is perfect for short video and sparks awe at how easily the brain can be fooled."
+  },
+  {
+    "unique_id": "facts_0017_021_df7874733efa3ef9",
+    "title": "The Animal That Has a Penis Covered in Spines That Stabs Rivals During Mating",
+    "hook": "The male bed bug uses a barbed penis to stab females directly through the abdominal wall—and it also uses it to stab competing males in the genitals.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 86,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "traumatic insemination",
+      "bed bug reproduction",
+      "spiny penis",
+      "animal horror",
+      "mating violence"
+    ],
+    "overlap_check_hash": "df7874733efa3ef9",
+    "why_this_can_go_viral": "The grotesque and violent mating strategy is both shocking and scientifically fascinating, driving high engagement."
+  },
+  {
+    "unique_id": "facts_0017_022_6188bb7d4b229b14",
+    "title": "The Place Where the Ocean Glows Blue—but the Light Is From Carnivorous Death Traps",
+    "hook": "Bioluminescent plankton create beautiful blue waves that hide a brutal truth—they are carnivores that sting and paralyze their prey in the dark.",
+    "virality_score": 77,
+    "curiosity_gap_score": 79,
+    "darkness_score": 72,
+    "educational_value": 82,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "bioluminescent death",
+      "glowing waves",
+      "predatory plankton",
+      "ocean beauty danger",
+      "hidden carnivores"
+    ],
+    "overlap_check_hash": "6188bb7d4b229b14",
+    "why_this_can_go_viral": "The contrast between beautiful glowing waters and hidden carnivorous behavior creates a strong 'mind blown' reaction."
+  },
+  {
+    "unique_id": "facts_0017_023_a3e93530b58eb375",
+    "title": "The Everyday Object in Your Bathroom That Hosts More Bacteria Than a Toilet Seat",
+    "hook": "Your toothbrush holder harbors more fecal bacteria than your toilet bowl—the dark, damp environment is a perfect breeding ground for E. coli.",
+    "virality_score": 82,
+    "curiosity_gap_score": 81,
+    "darkness_score": 79,
+    "educational_value": 85,
+    "estimated_short_retention": 83,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "toothbrush holder bacteria",
+      "bathroom germ hotspot",
+      "E. coli",
+      "hygiene shock",
+      "hidden filth"
+    ],
+    "overlap_check_hash": "a3e93530b58eb375",
+    "why_this_can_go_viral": "The comparison to toilet seats triggers disgust and immediate behavior change, driving shares."
+  },
+  {
+    "unique_id": "facts_0017_024_101ee0323429fa5a",
+    "title": "The Physics Phenomenon That Makes Ice Burn Your Skin Like Fire",
+    "hook": "Extreme cold below -60°C can freeze skin instantly, but the sensation is identical to burning—your nerve endings can't tell the difference between freezing and fire.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 72,
+    "educational_value": 84,
+    "estimated_short_retention": 79,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "cold burn",
+      "freezing pain",
+      "nerve confusion",
+      "extreme temperature",
+      "physiology shock"
+    ],
+    "overlap_check_hash": "101ee0323429fa5a",
+    "why_this_can_go_viral": "The counterintuitive fact that cold feels like heat challenges basic assumptions and sparks curiosity."
+  },
+  {
+    "unique_id": "facts_0017_025_8cbcf4d5d12da597",
+    "title": "The Statistic That Says You'll Spend 6 Months of Your Life on the Toilet—and It Might Kill You",
+    "hook": "Prolonged sitting on toilets increases pelvic pressure by 200%, raising the risk of hemorrhoids, hernias, and even fatal colon ruptures from straining.",
+    "virality_score": 79,
+    "curiosity_gap_score": 77,
+    "darkness_score": 80,
+    "educational_value": 83,
+    "estimated_short_retention": 81,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "toilet time danger",
+      "prolonged sitting risk",
+      "colon rupture",
+      "pelvic pressure",
+      "health hazard statistic"
+    ],
+    "overlap_check_hash": "8cbcf4d5d12da597",
+    "why_this_can_go_viral": "The combination of a relatable everyday activity with a shocking lethal risk creates high share potential."
+  }
+]

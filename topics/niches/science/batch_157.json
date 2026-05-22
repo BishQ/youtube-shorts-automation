@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0157_001_077bfda2a8560881",
+    "title": "The Chemist Who Synthesized a Molecule That Kills by Touch—and Lost the Antidote",
+    "hook": "He created the deadliest substance ever touched by human hands, then accidentally destroyed the only cure.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "deadly molecule",
+      "lost antidote",
+      "chemical weapon",
+      "lab accident",
+      "poison"
+    ],
+    "overlap_check_hash": "077bfda2a8560881",
+    "why_this_can_go_viral": "The combination of a self-made catastrophe and irreversible loss taps into deep fear of human error with no safety net."
+  },
+  {
+    "unique_id": "science_0157_002_3cf25d589be281b6",
+    "title": "The Physicist Who Built a Room Where Time Runs Backward—and Trapped Himself Inside",
+    "hook": "He wanted to reverse entropy for one second; instead, he spent three days aging in reverse.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time reversal",
+      "entropy trap",
+      "physicist trapped",
+      "temporal anomaly",
+      "impossible experiment"
+    ],
+    "overlap_check_hash": "3cf25d589be281b6",
+    "why_this_can_go_viral": "Time-loop horror meets real science speculation. The idea of being trapped in backward time is instantly gripping."
+  },
+  {
+    "unique_id": "science_0157_003_3110acbaaf0badd9",
+    "title": "The Neuroscientist Who Replaced a Rat's Brain With a Computer—and It Recognized Him",
+    "hook": "After the biological brain died, the silicon copy blinked and turned toward its creator.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain replacement",
+      "silicon neuron",
+      "consciousness transfer",
+      "rat recognition",
+      "cyborg brain"
+    ],
+    "overlap_check_hash": "3110acbaaf0badd9",
+    "why_this_can_go_viral": "The uncanny moment of a machine recognizing its maker blurs the line between life and simulation."
+  },
+  {
+    "unique_id": "science_0157_004_f33e8183e77ba020",
+    "title": "The Biolab That Engineered a Jellyfish That Never Dies—and It Escaped Into the Ocean",
+    "hook": "They gave it biological immortality. Now it's breeding in every sea, and no one can stop it.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "immortal jellyfish",
+      "genetic escape",
+      "invasive species",
+      "bioengineering disaster",
+      "eternal life"
+    ],
+    "overlap_check_hash": "f33e8183e77ba020",
+    "why_this_can_go_viral": "Immortality turned invasive—a real ecological nightmare that feels like science fiction."
+  },
+  {
+    "unique_id": "science_0157_005_ca93c3a59c265fc0",
+    "title": "The Quantum Paradox Where a Particle Forgot It Was Dead—and Came Back to Life",
+    "hook": "It decayed. Then, because no one was looking, it undecayed. The universe blinked.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 70,
+    "educational_value": 78,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum revival",
+      "particle resurrection",
+      "observer effect",
+      "undecay",
+      "quantum weirdness"
+    ],
+    "overlap_check_hash": "ca93c3a59c265fc0",
+    "why_this_can_go_viral": "The idea that something can 'un-die' when unobserved challenges fundamental reality."
+  },
+  {
+    "unique_id": "science_0157_008_ac688bea485c0576",
+    "title": "The Neuroscientist Who Made a Man Believe He Was Dead—and He Stayed Dead",
+    "hook": "A single electrode triggered Cotard's delusion. The patient insisted he was a corpse—and his body obeyed.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 77,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "cotard syndrome",
+      "electrode death",
+      "walking corpse",
+      "neural delusion",
+      "brain horror"
+    ],
+    "overlap_check_hash": "ac688bea485c0576",
+    "why_this_can_go_viral": "The idea that a brain can be tricked into thinking it's dead—and then physically shut down—is pure dark fascination."
+  },
+  {
+    "unique_id": "science_0157_009_072cfccaf0f57b35",
+    "title": "The Lab Catastrophe Where a Scientist Was Frozen Solid—and Walked Out Alive",
+    "hook": "His core temperature dropped to 13 °C. His blood turned to slush. Then he opened his eyes.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 84,
+    "educational_value": 79,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "cryogenic accident",
+      "survived freezing",
+      "human ice block",
+      "medical miracle",
+      "cold death"
+    ],
+    "overlap_check_hash": "072cfccaf0f57b35",
+    "why_this_can_go_viral": "Surviving the unsurvivable—the human body's extreme limits make for an irresistible survival story."
+  },
+  {
+    "unique_id": "science_0157_010_f61c6981981fae66",
+    "title": "The Scientific Fraud Who Invented a 'Memory Crystal'—and Sold It to the Pentagon",
+    "hook": "He claimed the crystal stored human thoughts. The military bought it. The only thing stored was his lie.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 76,
+    "educational_value": 71,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "memory crystal",
+      "pentagon scam",
+      "fake technology",
+      "defense fraud",
+      "pseudoscience"
+    ],
+    "overlap_check_hash": "f61c6981981fae66",
+    "why_this_can_go_viral": "A high-stakes con targeting the military—blends skepticism, scandal, and a warning about believing too easily."
+  },
+  {
+    "unique_id": "science_0157_011_c863eeb2cad0f312",
+    "title": "The Biolab That Created a 'Zombie' Ant—and the Fungus Learned to Control Humans",
+    "hook": "It started with ants. Then the fungus jumped to lab mice. Then it tried to open the door.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 74,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "zombie ant",
+      "mind control fungus",
+      "host jump",
+      "bioweapon horror",
+      "fungal infection"
+    ],
+    "overlap_check_hash": "c863eeb2cad0f312",
+    "why_this_can_go_viral": "The idea of a parasite learning to control larger hosts—including humans—is primal body horror."
+  },
+  {
+    "unique_id": "science_0157_012_2497578d8c48a814",
+    "title": "The Physicist Who Created a Crystal That Vibrates Forever—and It Summoned Something",
+    "hook": "It was supposed to be a perpetual motion machine. Instead, it produced a frequency that shouldn't exist.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 83,
+    "educational_value": 69,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "perpetual vibration",
+      "impossible frequency",
+      "crystal anomaly",
+      "resonance horror",
+      "physics mystery"
+    ],
+    "overlap_check_hash": "2497578d8c48a814",
+    "why_this_can_go_viral": "The 'summoning' element adds supernatural dread to a physics mystery—irresistible clickbait."
+  },
+  {
+    "unique_id": "science_0157_013_341eee8257fba6ce",
+    "title": "The Forbidden Experiment Where a Man Was Raised by Machines—and Never Spoke a Word",
+    "hook": "No human voice, no touch, no love. The machines fed him, but his mind starved into silence.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 96,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "machine raised child",
+      "isolation experiment",
+      "language deprivation",
+      "human robot",
+      "silent mind"
+    ],
+    "overlap_check_hash": "341eee8257fba6ce",
+    "why_this_can_go_viral": "A modern twist on feral children—raises deep ethical questions about what makes us human."
+  },
+  {
+    "unique_id": "science_0157_014_1593c207037d3563",
+    "title": "The Quantum Computer That Found a Number That Should Not Exist—and Crashed Reality",
+    "hook": "It solved an equation that had no answer. The display flickered, then the lab went dark.",
+    "virality_score": 94,
+    "curiosity_gap_score": 98,
+    "darkness_score": 88,
+    "educational_value": 73,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "impossible number",
+      "quantum crash",
+      "reality glitch",
+      "mathematical anomaly",
+      "computer horror"
+    ],
+    "overlap_check_hash": "1593c207037d3563",
+    "why_this_can_go_viral": "The idea that math itself can break reality is a deeply viral 'glitch in the matrix' concept."
+  },
+  {
+    "unique_id": "science_0157_015_6f8d875fb5cfee6e",
+    "title": "The Neuroscientist Who Transplanted a Dog's Head—and the Dog Wagged Its Tail",
+    "hook": "The head was on a different body. It saw its old owner. And it still recognized him.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "head transplant",
+      "dog experiment",
+      "consciousness transfer",
+      "animal cruelty",
+      "soviet science"
+    ],
+    "overlap_check_hash": "6f8d875fb5cfee6e",
+    "why_this_can_go_viral": "Grotesque, emotional, and philosophically disturbing—the tail wag breaks hearts and minds."
+  },
+  {
+    "unique_id": "science_0157_016_7e0bcdee81fdbd3b",
+    "title": "The Chemist Who Brewed a Coffee That Never Cools—and It Burned Through His Desk",
+    "hook": "It stayed at 90 °C for three days. Then it ate through ceramic and started a fire.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "superheated liquid",
+      "chemical coffee",
+      "never cools",
+      "lab fire",
+      "thermal anomaly"
+    ],
+    "overlap_check_hash": "7e0bcdee81fdbd3b",
+    "why_this_can_go_viral": "A mundane object turned deadly by science—the familiar betrayed by the strange."
+  },
+  {
+    "unique_id": "science_0157_017_f7565eebe00e994e",
+    "title": "The Biolab That Programmed Bacteria to Build Houses—and It Started Building Organs",
+    "hook": "They gave bacteria a blueprint for a wall. The bacteria decided a human lung was more interesting.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 86,
+    "educational_value": 76,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "programmable bacteria",
+      "living construction",
+      "organ growth",
+      "bioengineering gone wrong",
+      "synthetic biology"
+    ],
+    "overlap_check_hash": "f7565eebe00e994e",
+    "why_this_can_go_viral": "Life forms building their own agenda—feels like the start of a biopunk horror movie."
+  },
+  {
+    "unique_id": "science_0157_019_0b725e514db0ae1f",
+    "title": "The Scientific Fraud Who Faked a 'Telepathy Helmet'—and a Government Bought 500",
+    "hook": "It was a motorcycle helmet with Christmas lights inside. Three countries placed orders for military use.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "telepathy scam",
+      "military fraud",
+      "fake technology",
+      "mind reading helmet",
+      "government fooled"
+    ],
+    "overlap_check_hash": "0b725e514db0ae1f",
+    "why_this_can_go_viral": "A ludicrously simple scam exploiting military desperation—both funny and deeply alarming."
+  },
+  {
+    "unique_id": "science_0157_020_dfa33ab956eaa7c7",
+    "title": "The Lab Catastrophe Where a Virus Was Kept in a Balloon—and It Popped",
+    "hook": "The containment was a rubber balloon. When it burst, 12 people inhaled a virus that had no cure.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 73,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "virus balloon",
+      "containment failure",
+      "lab leak",
+      "deadly pathogen",
+      "biosafety horror"
+    ],
+    "overlap_check_hash": "dfa33ab956eaa7c7",
+    "why_this_can_go_viral": "The absurd fragility of the containment makes the disaster feel both preventable and inevitable."
+  },
+  {
+    "unique_id": "science_0157_022_22dc008fc77a5891",
+    "title": "The Quantum Paradox Where a Cat Watched Its Own Death—and Refused to Die",
+    "hook": "The cat observed itself dead in the box. Then it hissed at the physicist and walked away.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 82,
+    "educational_value": 74,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "schrodinger cat",
+      "self observation",
+      "quantum defiance",
+      "paradox horror",
+      "cat lives"
+    ],
+    "overlap_check_hash": "22dc008fc77a5891",
+    "why_this_can_go_viral": "A beloved thought experiment twisted into a dark, defiant narrative—cats always win on the internet."
+  },
+  {
+    "unique_id": "science_0157_023_4a4bcc2cc16a9e51",
+    "title": "The Neuroscientist Who Caused a Man to Speak in Tongues—With a Magnet",
+    "hook": "A coil to the temporal lobe. The man started speaking Aramaic. He never learned Aramaic.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "speaking in tongues",
+      "magnetic stimulation",
+      "hidden language",
+      "brain mystery",
+      "neural activation"
+    ],
+    "overlap_check_hash": "4a4bcc2cc16a9e51",
+    "why_this_can_go_viral": "The idea that forgotten or impossible languages are stored in the brain is both spiritual and scientific."
+  },
+  {
+    "unique_id": "science_0157_024_d86e081a1f600412",
+    "title": "The Chemist Who Discovered a Flame That Burns Cold—and Froze Everything It Touched",
+    "hook": "It looked like fire. It acted like fire. But it sucked heat from the air—and turned water to ice.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 76,
+    "educational_value": 71,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "cold flame",
+      "exothermic freeze",
+      "chemical paradox",
+      "fire that freezes",
+      "temperature anomaly"
+    ],
+    "overlap_check_hash": "d86e081a1f600412",
+    "why_this_can_go_viral": "A fundamental contradiction—fire that freezes—creates immediate cognitive dissonance and curiosity."
+  },
+  {
+    "unique_id": "science_0157_025_2844fa4ed330c2fa",
+    "title": "The Biolab That Engineered a Worm That Can Survive a Nuke—and It Learned to Fly",
+    "hook": "It survived 10,000 times the lethal radiation dose. Then it grew wings and crawled out of the lab.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "radiation proof worm",
+      "mutant flight",
+      "genetic escape",
+      "apocalypse creature",
+      "lab horror"
+    ],
+    "overlap_check_hash": "2844fa4ed330c2fa",
+    "why_this_can_go_viral": "A radiation-proof creature that evolves flight is a perfect apocalypse-panic trigger."
+  }
+]

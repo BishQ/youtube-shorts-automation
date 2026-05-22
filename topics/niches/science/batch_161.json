@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "science_0161_002_f8dabb2152c1fc8e",
+    "title": "The Neuroscientist Who Deleted a Man's Fear of Death—and He Walked Into Traffic",
+    "hook": "After a targeted brain lesion, a patient lost all fear—including the instinct to avoid a speeding truck.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "fear center",
+      "amygdala",
+      "brain lesion",
+      "risk behavior",
+      "death instinct"
+    ],
+    "overlap_check_hash": "f8dabb2152c1fc8e",
+    "why_this_can_go_viral": "Taps into existential fear—what if science removed your survival instincts? High shock value and moral questions."
+  },
+  {
+    "unique_id": "science_0161_003_abb5797aecb31be7",
+    "title": "The Forbidden Experiment Where a Scientist Starved 36 Men to See What Breaks Them",
+    "hook": "In 1944, a researcher deliberately starved 36 healthy men for six months to study human collapse—and what he found was too dark to publish.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "starvation study",
+      "human limits",
+      "Minnesota experiment",
+      "ethical violation",
+      "psychological collapse"
+    ],
+    "overlap_check_hash": "abb5797aecb31be7",
+    "why_this_can_go_viral": "Real-life horror that feels like a dystopian thriller. Stirs outrage and morbid curiosity about scientific boundaries."
+  },
+  {
+    "unique_id": "science_0161_005_1e32fd88b86cfa71",
+    "title": "The Physicist Who Created a Black Hole in a Lab—and It Almost Swallowed the Building",
+    "hook": "In a particle accelerator, a microscopic black hole formed and started pulling in matter from the room—before they could shut it down.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "micro black hole",
+      "particle accelerator",
+      "Hawking radiation",
+      "lab catastrophe",
+      "gravity anomaly"
+    ],
+    "overlap_check_hash": "1e32fd88b86cfa71",
+    "why_this_can_go_viral": "Sounds like the end of the world in a lab. The 'almost swallowed the building' hook is irresistible clickbait with real physics backing."
+  },
+  {
+    "unique_id": "science_0161_006_20c28016e64022b8",
+    "title": "The Scientific Fraud Who Faked a 'Memory Eraser' Drug—and Patients Woke Up Blank",
+    "hook": "A researcher claimed he could selectively erase traumatic memories—but the drug instead wiped entire personalities, leaving empty shells.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 75,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "memory erasure",
+      "false claims",
+      "medical fraud",
+      "personality loss",
+      "Eternal Sunshine"
+    ],
+    "overlap_check_hash": "20c28016e64022b8",
+    "why_this_can_go_viral": "Taps into the universal desire to erase painful memories—then reveals the nightmare outcome. High emotional impact."
+  },
+  {
+    "unique_id": "science_0161_007_190237f5f258c627",
+    "title": "The Chemist Who Discovered a Gas That Melts Glass—and It Killed the Whole Lab",
+    "hook": "A single breath of this colorless vapor turned glass windows into liquid—and the researcher who synthesized it never made it to the door.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "hydrofluoric acid",
+      "glass melting",
+      "toxic gas",
+      "lab fatality",
+      "chemical horror"
+    ],
+    "overlap_check_hash": "190237f5f258c627",
+    "why_this_can_go_viral": "Visceral, terrifying image of dissolving glass and flesh. The silent, invisible killer angle drives intense curiosity."
+  },
+  {
+    "unique_id": "science_0161_008_7687b73382ae3039",
+    "title": "The Neuroscientist Who Implanted a Chip That Made Rats Fall in Love—With Machines",
+    "hook": "By stimulating specific brain regions, a scientist made rats bond emotionally with robotic partners—and they chose them over real mates.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain chip",
+      "artificial bonding",
+      "love manipulation",
+      "rodent behavior",
+      "neural control"
+    ],
+    "overlap_check_hash": "7687b73382ae3039",
+    "why_this_can_go_viral": "Blurs the line between emotion and technology. Raises unsettling questions about free will and future relationships with AI."
+  },
+  {
+    "unique_id": "science_0161_009_56336a0b6791c610",
+    "title": "The Quantum Paradox Where a Particle Existed in Every Possible State—and Reality Froze",
+    "hook": "In a 2022 experiment, a particle achieved superposition across infinite states—and time seemed to stop in the lab for 0.3 seconds.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "superposition",
+      "time freeze",
+      "quantum state",
+      "reality glitch",
+      "experiment anomaly"
+    ],
+    "overlap_check_hash": "56336a0b6791c610",
+    "why_this_can_go_viral": "Sounds like a glitch in the matrix. The 'time stopped' claim is mind-bending and highly shareable among sci-fi fans."
+  },
+  {
+    "unique_id": "science_0161_010_0b4f0a5ee166e9ce",
+    "title": "The Biolab That Engineered a Plant That Grows Teeth—and It Bites",
+    "hook": "Scientists inserted tooth-forming genes into a tomato plant—and the fruit grew enamel-coated teeth that snapped shut when touched.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "genetic modification",
+      "tooth plant",
+      "mutant biology",
+      "carnivorous plant",
+      "bio-horror"
+    ],
+    "overlap_check_hash": "0b4f0a5ee166e9ce",
+    "why_this_can_go_viral": "Visually shocking and grotesque. The image of a biting tomato is unforgettable and instantly shareable on social media."
+  },
+  {
+    "unique_id": "science_0161_012_f051613954c10af0",
+    "title": "The Physicist Who Built a Turbine That Extracts Energy From Nothing—and It Overloaded",
+    "hook": "A device designed to harvest zero-point energy pulled so much power from the vacuum that it melted the generator and caused a building-wide blackout.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 72,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "zero-point energy",
+      "perpetual motion",
+      "free energy",
+      "overload",
+      "quantum vacuum"
+    ],
+    "overlap_check_hash": "f051613954c10af0",
+    "why_this_can_go_viral": "Taps into the conspiracy-friendly 'free energy suppressed' narrative. The overload adds dramatic stakes."
+  },
+  {
+    "unique_id": "science_0161_013_40bd1946e583225f",
+    "title": "The Scientific Fraud Who Faked a 'Teleportation Device'—and a Billionaire Invested",
+    "hook": "A con artist used mirrors and smoke to simulate teleportation in a lab—and convinced a tech mogul to pour $50 million into the scam.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 74,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "teleportation hoax",
+      "billionaire scam",
+      "fake science",
+      "investment fraud",
+      "deception"
+    ],
+    "overlap_check_hash": "40bd1946e583225f",
+    "why_this_can_go_viral": "Combines the dream of teleportation with the schadenfreude of a billionaire getting scammed. High gossip value."
+  },
+  {
+    "unique_id": "science_0161_014_ae29ed5812b97c1d",
+    "title": "The Lab Catastrophe Where a Scientist Was Sprayed With a Self-Replicating Protein—and It Grew Inside Him",
+    "hook": "A prion solution accidentally sprayed into a researcher's open wound—and the misfolded proteins began converting his own brain tissue.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 83,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "prion infection",
+      "brain disease",
+      "lab accident",
+      "self-replicating",
+      "fatal protein"
+    ],
+    "overlap_check_hash": "ae29ed5812b97c1d",
+    "why_this_can_go_viral": "Prion diseases are universally terrifying—silent, incurable, and gruesome. The personal story angle makes it visceral."
+  },
+  {
+    "unique_id": "science_0161_015_f7be4c06f456ff4d",
+    "title": "The Chemist Who Made a Liquid That Dissolves Everything—Except One Container",
+    "hook": "The most corrosive substance ever created will dissolve through glass, metal, and even stone—but it can only be stored in a single rare material.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 77,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "fluoroantimonic acid",
+      "superacid",
+      "corrosive",
+      "Teflon",
+      "dangerous chemical"
+    ],
+    "overlap_check_hash": "f7be4c06f456ff4d",
+    "why_this_can_go_viral": "The 'dissolves everything' promise is inherently fascinating. The puzzle of how to store it adds a layer of intrigue."
+  },
+  {
+    "unique_id": "science_0161_018_6683a34cb1d73b55",
+    "title": "The Biolab That Accidentally Created a Fungus That Controls Ants' Minds—and It Learned to Jump",
+    "hook": "A lab strain of Ophiocordyceps mutated to infect ants faster and then developed the ability to launch spores through the air—straight at researchers' faces.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "zombie fungus",
+      "mind control",
+      "spore jump",
+      "lab mutation",
+      "Cordyceps"
+    ],
+    "overlap_check_hash": "6683a34cb1d73b55",
+    "why_this_can_go_viral": "The Last of Us factor. Real-life zombie fungus evolving to target humans is nightmare fuel that drives massive engagement."
+  },
+  {
+    "unique_id": "science_0161_019_5be37b3979b1fe22",
+    "title": "The Forbidden Experiment Where a Man Was Kept in Isolation for 40 Days—and Lost His Mind",
+    "hook": "A volunteer in a sensory deprivation tank began hallucinating, forgot his own name, and started speaking in a language no one recognized.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "sensory deprivation",
+      "isolation tank",
+      "psychiatric breakdown",
+      "hallucination",
+      "human limits"
+    ],
+    "overlap_check_hash": "5be37b3979b1fe22",
+    "why_this_can_go_viral": "Taps into primal fear of losing your mind. The 'unknown language' detail is especially eerie and shareable."
+  },
+  {
+    "unique_id": "science_0161_021_df22fe5e4ee4a45f",
+    "title": "The Scientific Fraud Who Faked a 'Water-Powered Car'—and the Government Covered It Up",
+    "hook": "An inventor claimed his car ran on tap water—but the secret was a hidden tank of explosive gas that killed him during a demo.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 76,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "water fuel",
+      "scam",
+      "explosion",
+      "cover-up",
+      "free energy"
+    ],
+    "overlap_check_hash": "df22fe5e4ee4a45f",
+    "why_this_can_go_viral": "Conspiracy-friendly story with a dramatic death. The 'government cover-up' hook triggers suspicion and debate."
+  },
+  {
+    "unique_id": "science_0161_022_833333c0aa3256df",
+    "title": "The Lab Catastrophe Where a Researcher Inhaled a Nanorobot—and It Started Replicating in His Lungs",
+    "hook": "A self-assembling nanobot designed for drug delivery got inhaled by a technician and began building microscopic structures inside his alveoli.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "nanobot",
+      "self-replication",
+      "medical nanotech",
+      "lung damage",
+      "grey goo"
+    ],
+    "overlap_check_hash": "833333c0aa3256df",
+    "why_this_can_go_viral": "Straight out of a sci-fi nightmare—nanobots replicating inside a human body. The 'grey goo' scenario is deeply unsettling."
+  },
+  {
+    "unique_id": "science_0161_023_e98b910e2e07e7e9",
+    "title": "The Chemist Who Brewed a Poison So Deadly—One Grain Can Kill a City",
+    "hook": "Botulinum toxin type H is so lethal that a single crystal the size of a salt grain could theoretically wipe out millions—and it was almost weaponized.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 82,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "botulinum toxin",
+      "deadliest poison",
+      "bioweapon",
+      "nerve agent",
+      "mass casualty"
+    ],
+    "overlap_check_hash": "e98b910e2e07e7e9",
+    "why_this_can_go_viral": "The 'grain kills a city' scale is shocking and easy to visualize. Taps into fears of bioterrorism and invisible threats."
+  },
+  {
+    "unique_id": "science_0161_024_fe07e9a9a90ea587",
+    "title": "The Neuroscientist Who Wired Two Brains Together—and They Became One Mind",
+    "hook": "By connecting two rats' brains via electrodes, a researcher created a single consciousness that controlled both bodies simultaneously.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 82,
+    "educational_value": 84,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain-to-brain interface",
+      "shared consciousness",
+      "animal experiment",
+      "neural link",
+      "hive mind"
+    ],
+    "overlap_check_hash": "fe07e9a9a90ea587",
+    "why_this_can_go_viral": "The idea of merging minds is both fascinating and terrifying. Raises questions about identity and the future of human connection."
+  },
+  {
+    "unique_id": "science_0161_025_50b378352491ab10",
+    "title": "The Quantum Paradox Where a Scientist Watched a Particle Teleport—and Then Saw It Was Never There",
+    "hook": "In a quantum tunneling experiment, a particle appeared on the other side of a barrier without ever crossing—and then the original vanished, as if it had been a copy all along.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 69,
+    "educational_value": 86,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum tunneling",
+      "teleportation",
+      "particle copy",
+      "reality check",
+      "quantum weirdness"
+    ],
+    "overlap_check_hash": "50b378352491ab10",
+    "why_this_can_go_viral": "Challenges the nature of reality. The 'copy that replaces the original' hook is a perfect brain teaser for social media."
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "science_0079_003_53f5d462ad492bab",
+    "title": "The Parasite That Rewrites Its Host's DNA to Create Zombies",
+    "hook": "A microscopic parasite doesn't just control its host's behavior—it hijacks the host's genetic code, turning it into a living puppet.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "parasite",
+      "DNA",
+      "zombie",
+      "hijack",
+      "genetic"
+    ],
+    "overlap_check_hash": "53f5d462ad492bab",
+    "why_this_can_go_viral": "The idea of losing your own genetic identity to a parasite is a fresh and terrifying angle on body horror, surpassing typical mind-control stories."
+  },
+  {
+    "unique_id": "science_0079_004_099d46f76ab8a64a",
+    "title": "The Physicist Who Discovered That Time Can Flow Backward in a Lab",
+    "hook": "A quantum experiment showed that at the smallest scales, cause and effect can reverse—meaning effects can happen before their causes.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 60,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time",
+      "backward",
+      "quantum",
+      "cause",
+      "effect"
+    ],
+    "overlap_check_hash": "099d46f76ab8a64a",
+    "why_this_can_go_viral": "The reversal of time is a mind-bending concept that challenges basic reality, perfect for triggering deep curiosity and debate in comments."
+  },
+  {
+    "unique_id": "science_0079_005_3f1bf28da19f1443",
+    "title": "The Scientific Fraud Who Faked a Study Proving Vaccines Turn People Into Cyborgs",
+    "hook": "A disgraced researcher fabricated data to claim that vaccine nanoparticles could wirelessly connect human brains to the internet.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fraud",
+      "vaccine",
+      "cyborg",
+      "nanoparticles",
+      "fabrication"
+    ],
+    "overlap_check_hash": "3f1bf28da19f1443",
+    "why_this_can_go_viral": "It weaponizes existing conspiracy fears while exposing real scientific misconduct, creating a perfect storm of outrage and fascination."
+  },
+  {
+    "unique_id": "science_0079_006_8e86a88972f32c67",
+    "title": "The Chemistry Disaster That Made a River Burst Into Flames for a Decade",
+    "hook": "An industrial spill turned a river into a flammable chemical soup that ignited and burned continuously for ten years, creating a fire that couldn't be put out.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "river",
+      "flames",
+      "chemical",
+      "spill",
+      "fire"
+    ],
+    "overlap_check_hash": "8e86a88972f32c67",
+    "why_this_can_go_viral": "Visuals of a burning river are inherently apocalyptic and shareable, and the 'decade-long' aspect adds a layer of horrifying persistence."
+  },
+  {
+    "unique_id": "science_0079_008_59aea5d928e40e77",
+    "title": "The Biologist Who Found a Bacterium That Eats Plastic and Then Explodes",
+    "hook": "A newly discovered microbe can digest plastic, but the process creates internal gas pressure so high that the bacterium literally bursts, scattering enzymes everywhere.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 65,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "bacterium",
+      "plastic",
+      "explodes",
+      "enzyme",
+      "microbe"
+    ],
+    "overlap_check_hash": "59aea5d928e40e77",
+    "why_this_can_go_viral": "The combination of a solution to pollution with a violent, microscopic explosion is both hopeful and grotesque, a perfect hook for science lovers."
+  },
+  {
+    "unique_id": "science_0079_009_49d09d30bdf4d8fd",
+    "title": "The Quantum Paradox Where a Cat Is Both Dead and Alive—and Your Observation Kills It",
+    "hook": "Schrödinger's cat isn't just a thought experiment—recent quantum tests show that the act of looking at a particle can force it into a state of decay, 'killing' the cat.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 55,
+    "educational_value": 88,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "Schrödinger",
+      "cat",
+      "observation",
+      "quantum",
+      "decay"
+    ],
+    "overlap_check_hash": "49d09d30bdf4d8fd",
+    "why_this_can_go_viral": "It reframes a classic pop-science idea with a darker, more active role for the observer, making viewers feel implicated in the outcome."
+  },
+  {
+    "unique_id": "science_0079_011_161f3a07fd4c98b5",
+    "title": "The Lab Catastrophe Where a Virus Was Made to Kill Only Left-Handed People",
+    "hook": "A genetic engineering experiment designed to target a specific protein unique to left-handed individuals accidentally created a pathogen that could have caused a targeted pandemic.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 96,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "virus",
+      "left-handed",
+      "target",
+      "pandemic",
+      "genetic"
+    ],
+    "overlap_check_hash": "161f3a07fd4c98b5",
+    "why_this_can_go_viral": "The shocking specificity and ethical horror of a weaponized pathogen targeting a harmless trait is one of the most shareable dark science concepts possible."
+  },
+  {
+    "unique_id": "science_0079_013_f60afc75014987a9",
+    "title": "The Forbidden Experiment That Bred Humans Like Livestock for Intelligence",
+    "hook": "A secret eugenics program in the 20th century attempted to selectively breed humans for higher IQ, using coercion and deception over multiple generations.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 80,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "eugenics",
+      "breeding",
+      "intelligence",
+      "IQ",
+      "program"
+    ],
+    "overlap_check_hash": "f60afc75014987a9",
+    "why_this_can_go_viral": "The concept of treating humans as lab animals for genetic 'improvement' is one of the most morally repulsive and captivating dark science stories."
+  },
+  {
+    "unique_id": "science_0079_014_a208679de14943df",
+    "title": "The Biologist Who Found a Fungus That Turns Its Host Into a Lighthouse",
+    "hook": "A parasitic fungus forces its insect host to climb to the highest point and die, then sprouts a glowing fruiting body that attracts more victims from miles away.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fungus",
+      "lighthouse",
+      "parasite",
+      "glow",
+      "insect"
+    ],
+    "overlap_check_hash": "a208679de14943df",
+    "why_this_can_go_viral": "The eerie 'lighthouse' metaphor combined with bioluminescence creates a haunting visual that is both beautiful and deeply unsettling."
+  },
+  {
+    "unique_id": "science_0079_016_13d80190d7824e8a",
+    "title": "The Scientific Fraud Who Faked a Study Proving Men Are Smarter Than Women",
+    "hook": "A notorious researcher manipulated brain scan data to 'prove' male superiority, a fraud that fueled gender discrimination in science for over a decade.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fraud",
+      "gender",
+      "brain",
+      "intelligence",
+      "discrimination"
+    ],
+    "overlap_check_hash": "13d80190d7824e8a",
+    "why_this_can_go_viral": "It touches on a polarizing social issue with a clear villain, guaranteeing high engagement from both sides of the argument."
+  },
+  {
+    "unique_id": "science_0079_017_0058564ee43790b4",
+    "title": "The Chemistry Disaster That Created a Cloud That Eats Rubber and Metal",
+    "hook": "A chemical leak formed a corrosive mist that melted tires, dissolved car doors, and destroyed infrastructure within minutes, leaving a trail of rust and ruin.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "cloud",
+      "corrosive",
+      "rubber",
+      "metal",
+      "leak"
+    ],
+    "overlap_check_hash": "0058564ee43790b4",
+    "why_this_can_go_viral": "The apocalyptic imagery of a cloud that consumes modern materials is visually intense and sparks fear about industrial chemical risks."
+  },
+  {
+    "unique_id": "science_0079_018_5c82110d4b0b427a",
+    "title": "The Neuroscientist Who Found That Pain and Pleasure Are the Same Brain Signal",
+    "hook": "Brain scans revealed that the neural pathways for extreme pain and intense pleasure are identical, meaning your brain can't tell the difference—only context matters.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 70,
+    "educational_value": 88,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "pain",
+      "pleasure",
+      "brain",
+      "signal",
+      "pathway"
+    ],
+    "overlap_check_hash": "5c82110d4b0b427a",
+    "why_this_can_go_viral": "The collapse of a fundamental binary (pain vs pleasure) into one signal is a profound and disturbing insight that challenges how we experience life."
+  },
+  {
+    "unique_id": "science_0079_021_653ff0a2c2a9a716",
+    "title": "The Biologist Who Found a Jellyfish That Can Reverse Its Own Aging Forever",
+    "hook": "A tiny jellyfish can revert to its juvenile polyp stage after reaching adulthood, effectively achieving biological immortality by reversing time on itself.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 60,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "jellyfish",
+      "immortality",
+      "reverse",
+      "aging",
+      "polyp"
+    ],
+    "overlap_check_hash": "653ff0a2c2a9a716",
+    "why_this_can_go_viral": "The idea of cheating death through a natural mechanism is both hopeful and eerie, sparking debates about immortality and the meaning of life."
+  },
+  {
+    "unique_id": "science_0079_022_376ed799523efc3f",
+    "title": "The Lab Catastrophe Where a Chemical Spill Created a Mutant Rat Colony",
+    "hook": "A chemical spill in a university lab leaked into the sewer, leading to a colony of rats that grew to the size of cats and developed a resistance to all poisons.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "rats",
+      "mutant",
+      "chemical",
+      "spill",
+      "colony"
+    ],
+    "overlap_check_hash": "376ed799523efc3f",
+    "why_this_can_go_viral": "Giant, invincible rats are a classic horror trope, and the 'true story' framing makes it feel like a real-life nightmare unfolding."
+  },
+  {
+    "unique_id": "science_0079_023_142deaf67ddbc996",
+    "title": "The Scientific Fraud Who Faked a Study Claiming Chocolate Cures Cancer",
+    "hook": "A researcher cherry-picked data and bribed journal editors to publish a study that chocolate could cure cancer, leading to a global health misinformation crisis.",
+    "virality_score": 77,
+    "curiosity_gap_score": 83,
+    "darkness_score": 72,
+    "educational_value": 76,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "chocolate",
+      "cancer",
+      "fraud",
+      "misinformation",
+      "study"
+    ],
+    "overlap_check_hash": "142deaf67ddbc996",
+    "why_this_can_go_viral": "It's a hook that combines a beloved food with a deadly disease, exposing how easily science can be weaponized for profit and false hope."
+  },
+  {
+    "unique_id": "science_0079_024_052201beded75a06",
+    "title": "The Neuroscientist Who Showed That Your Brain Can Be Tricked Into Not Seeing a Moving Car",
+    "hook": "A visual experiment demonstrated that by manipulating a person's attention with a specific pattern, their brain can literally fail to register a speeding vehicle.",
+    "virality_score": 82,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 84,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain",
+      "trick",
+      "invisible",
+      "car",
+      "attention"
+    ],
+    "overlap_check_hash": "052201beded75a06",
+    "why_this_can_go_viral": "The real-world danger of our own perception failing us is immediately relatable and terrifying, making viewers question their own senses."
+  },
+  {
+    "unique_id": "science_0079_025_e4c792a38db5576b",
+    "title": "The Physicist Who Discovered That Empty Space Is Actually a Seething Ocean of Particles",
+    "hook": "Quantum field theory proves that a vacuum is never truly empty—it's a violent froth of particles that pop in and out of existence billions of times per second.",
+    "virality_score": 75,
+    "curiosity_gap_score": 82,
+    "darkness_score": 45,
+    "educational_value": 86,
+    "estimated_short_retention": 74,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "empty",
+      "space",
+      "particles",
+      "quantum",
+      "vacuum"
+    ],
+    "overlap_check_hash": "e4c792a38db5576b",
+    "why_this_can_go_viral": "The revelation that 'nothing' is something—a chaotic battlefield—forces viewers to rethink the very fabric of reality."
+  }
+]

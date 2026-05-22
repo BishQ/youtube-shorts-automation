@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "tech_hackers_0121_001_c513bdb810d98739",
+    "title": "The Zero-Day That Hacked Your AirPods to Record Every Whisper",
+    "hook": "Researchers found a backdoor in millions of wireless earbuds that let hackers turn them into live microphones without any LED warning.",
+    "virality_score": 88,
+    "curiosity_gap_score": 95,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "airpods hack",
+      "wireless earbud malware",
+      "audio surveillance",
+      "zero-day exploit",
+      "silent recording"
+    ],
+    "overlap_check_hash": "c513bdb810d98739",
+    "why_this_can_go_viral": "Everyone uses wireless earbuds — the idea they could be secretly recording you is a visceral privacy fear that triggers immediate sharing."
+  },
+  {
+    "unique_id": "tech_hackers_0121_002_8341c662406d41bd",
+    "title": "The Dark Web Lab That Hacked Smart Toasters to Mine Crypto for a Cartel",
+    "hook": "A botnet of 40,000 compromised kitchen appliances was quietly mining Monero inside a Mexican drug cartel's warehouse.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 55,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "IoT botnet",
+      "smart toaster hack",
+      "crypto mining malware",
+      "cartel cybercrime",
+      "dark web lab"
+    ],
+    "overlap_check_hash": "8341c662406d41bd",
+    "why_this_can_go_viral": "The absurdity of toasters mining crypto for cartels creates a massive curiosity gap and fits the 'hidden criminal empire' dark web narrative."
+  },
+  {
+    "unique_id": "tech_hackers_0121_007_b1bc089a77edefe2",
+    "title": "The AI That Hacked Your Smart Blinds to Read Your Keystrokes",
+    "hook": "An algorithm analyzed the vibration of your window blinds from a street camera to reconstruct every password you typed near the window.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 84,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI keystroke surveillance",
+      "vibration analysis hack",
+      "smart blind exploit",
+      "password theft AI",
+      "visual side-channel"
+    ],
+    "overlap_check_hash": "b1bc089a77edefe2",
+    "why_this_can_go_viral": "It's a 'they can see everything' horror story — keystroke theft via window vibrations is so unexpected it creates deep paranoia and compulsive clicking."
+  },
+  {
+    "unique_id": "tech_hackers_0121_008_5349f3fc67210cfa",
+    "title": "The Zero-Day That Hacked Your Smart Jacket to Track Your Location",
+    "hook": "A vulnerability in heated jackets allowed hackers to ping your phone's GPS through the garment's microcontroller without you ever connecting to Wi-Fi.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 75,
+    "educational_value": 58,
+    "estimated_short_retention": 76,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart jacket hack",
+      "wearable zero-day",
+      "GPS tracking",
+      "heated clothing exploit",
+      "IoT clothing"
+    ],
+    "overlap_check_hash": "5349f3fc67210cfa",
+    "why_this_can_go_viral": "Wearable tech is exploding — the idea your jacket is a tracking device is a fresh angle that hasn't been overplayed in mainstream media."
+  },
+  {
+    "unique_id": "tech_hackers_0121_009_a6c3cc1c83186c4f",
+    "title": "The Dark Web Lab That Hacked Smart Diapers to Monitor Babies for Ransom",
+    "hook": "A group infected nursery cameras and smart diaper sensors, then threatened parents with live streams unless they paid Bitcoin to keep the footage private.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 50,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart diaper hack",
+      "baby monitor ransomware",
+      "IoT nursery exploit",
+      "dark web extortion",
+      "parent fear hack"
+    ],
+    "overlap_check_hash": "a6c3cc1c83186c4f",
+    "why_this_can_go_viral": "Targeting infants is the ultimate taboo — the emotional shock value is enormous, and parents will share it out of fear and outrage."
+  },
+  {
+    "unique_id": "tech_hackers_0121_010_e779cfcdf0165777",
+    "title": "The Nation-State Hack That Used Smart Fishing Buoys to Map Naval Routes",
+    "hook": "A foreign spy ring turned thousands of commercial fishing beacons into a real-time submarine tracking network, feeding data to enemy submarines.",
+    "virality_score": 89,
+    "curiosity_gap_score": 96,
+    "darkness_score": 83,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "fishing buoy spy",
+      "naval route mapping",
+      "IoT maritime hack",
+      "submarine tracking",
+      "nation-state cyber espionage"
+    ],
+    "overlap_check_hash": "e779cfcdf0165777",
+    "why_this_can_go_viral": "It adds a spy thriller layer to an everyday object — fishing buoys — and reveals a hidden war in the ocean that most people don't know exists."
+  },
+  {
+    "unique_id": "tech_hackers_0121_012_85ac4162ab9c159b",
+    "title": "The Surveillance System That Tracked Your Gaze to Know What You're Thinking",
+    "hook": "A retail chain installed cameras that analyzed micro-eye movements to predict which products you'd buy and even your political leanings.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 81,
+    "educational_value": 68,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "eye tracking surveillance",
+      "thought prediction AI",
+      "retail spy camera",
+      "gaze analysis",
+      "behavioral monitoring"
+    ],
+    "overlap_check_hash": "85ac4162ab9c159b",
+    "why_this_can_go_viral": "It suggests your mind is no longer private — a deeply unsettling idea that will outrage viewers and trigger discussions about consent and privacy."
+  },
+  {
+    "unique_id": "tech_hackers_0121_013_d4274da6c1c5c5eb",
+    "title": "The Social Engineer Who Hacked a Dating App to Steal Government Secrets",
+    "hook": "A honey-trap operation used fake profiles to befriend intelligence analysts, then extracted classified data through seemingly innocent pillow talk.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 86,
+    "educational_value": 71,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "dating app espionage",
+      "honey trap hack",
+      "intelligence analyst breach",
+      "social engineering romance",
+      "classified data theft"
+    ],
+    "overlap_check_hash": "d4274da6c1c5c5eb",
+    "why_this_can_go_viral": "It's a spy movie come to life — romance as a weapon — and the idea that your Tinder match could be a state actor is both terrifying and fascinating."
+  },
+  {
+    "unique_id": "tech_hackers_0121_014_c7cb933ae0f9f69b",
+    "title": "The Cyberwar History: The Hack That Caused a Country's ATMs to Spit Out Blood Money",
+    "hook": "A state-sponsored attack reprogrammed an entire nation's ATM network to dispense cash from accounts that didn't exist, funding a shadow war.",
+    "virality_score": 87,
+    "curiosity_gap_score": 94,
+    "darkness_score": 84,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "ATM hack cyberwar",
+      "phantom account cash",
+      "state-sponsored financial attack",
+      "money laundering cyberattack",
+      "shadow war funding"
+    ],
+    "overlap_check_hash": "c7cb933ae0f9f69b",
+    "why_this_can_go_viral": "It's a 'money from nowhere' heist with geopolitical stakes — the blend of digital warfare and physical cash is visually and narratively explosive."
+  },
+  {
+    "unique_id": "tech_hackers_0121_015_565c04c039bd7e7c",
+    "title": "The Cybercriminal Empire That Hacked Smart Locks to Run an Airbnb Heist Ring",
+    "hook": "A syndicate remotely unlocked vacation rentals, cleaned them out in 10 minutes, and re-locked the door — all while guests were sleeping upstairs.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 77,
+    "educational_value": 59,
+    "estimated_short_retention": 81,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "smart lock hack",
+      "Airbnb robbery ring",
+      "IoT home invasion",
+      "vacation rental crime",
+      "remote unlock exploit"
+    ],
+    "overlap_check_hash": "565c04c039bd7e7c",
+    "why_this_can_go_viral": "It exploits a trust-based system (Airbnb) and turns it into a nightmare scenario — relatable to millions who use short-term rentals."
+  },
+  {
+    "unique_id": "tech_hackers_0121_017_6f4ac3957de4e00f",
+    "title": "The Dark Web Lab That Hacked Smart Contact Lenses to Record Your Every Move",
+    "hook": "A black-market operation sold modified contacts that recorded video and sent it to a server — without the wearer ever knowing they were a camera.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 89,
+    "educational_value": 63,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart contact lens hack",
+      "covert recording",
+      "dark web surveillance",
+      "biometric spyware",
+      "wearable camera exploit"
+    ],
+    "overlap_check_hash": "6f4ac3957de4e00f",
+    "why_this_can_go_viral": "It's the ultimate privacy violation — being recorded through your own eyes — and the technology feels futuristic but disturbingly real today."
+  },
+  {
+    "unique_id": "tech_hackers_0121_018_5bf8014cb4cda51a",
+    "title": "The Nation-State Hack That Hijacked Weather Balloons to Spy on Missile Silos",
+    "hook": "A foreign intelligence agency took control of civilian weather balloons, altering their flight paths to drift over classified launch facilities.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 80,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "weather balloon spy",
+      "missile silo surveillance",
+      "IoT balloon hack",
+      "state espionage",
+      "atmospheric espionage"
+    ],
+    "overlap_check_hash": "5bf8014cb4cda51a",
+    "why_this_can_go_viral": "It turns a harmless science tool into a spy platform — the twist is clever and taps into Cold War nostalgia with modern cyber weaponry."
+  },
+  {
+    "unique_id": "tech_hackers_0121_019_b30c177f93e6a544",
+    "title": "The AI That Hacked Your Smart Speaker to Imitate Your Boss and Give Orders",
+    "hook": "An AI learned your boss's voice from voicemails, then called you through your own speaker to demand you transfer company funds to an offshore account.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 91,
+    "educational_value": 76,
+    "estimated_short_retention": 94,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI voice cloning scam",
+      "smart speaker social engineering",
+      "deepfake boss",
+      "CEO fraud AI",
+      "voice phishing"
+    ],
+    "overlap_check_hash": "b30c177f93e6a544",
+    "why_this_can_go_viral": "It's the perfect storm of emerging tech fear: deepfakes, smart speakers, and financial fraud — everyone has a boss, and everyone can imagine this happening."
+  },
+  {
+    "unique_id": "tech_hackers_0121_021_58b940843f211f31",
+    "title": "The Social Engineer Who Hacked a Military Base by Walking in With the Mail",
+    "hook": "A woman dressed as a postal carrier delivered a fake package, then used the distraction to clone a secure ID badge from an unguarded desk.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 84,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "military base infiltration",
+      "postal disguise hack",
+      "ID badge cloning",
+      "physical social engineering",
+      "access control breach"
+    ],
+    "overlap_check_hash": "58b940843f211f31",
+    "why_this_can_go_viral": "It's a low-tech hack against a high-tech target — the 'crown jewel' security breach proves that human nature is the weakest link in any system."
+  },
+  {
+    "unique_id": "tech_hackers_0121_022_38a923fb7bb5fa11",
+    "title": "The Cyberwar History: The Hack That Turned a Country's Ambulances Into Assassins",
+    "hook": "A cyberattack reprogrammed a nation's emergency dispatch system to send ambulances to kill zones, turning first responders into pawns of war.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 96,
+    "educational_value": 73,
+    "estimated_short_retention": 93,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "ambulance hack cyberwar",
+      "emergency dispatch attack",
+      "first responder weaponization",
+      "cyberwar crime against humanity",
+      "dispatch system exploit"
+    ],
+    "overlap_check_hash": "38a923fb7bb5fa11",
+    "why_this_can_go_viral": "It's the ultimate betrayal of trust — using life-saving technology to cause death — and the moral outrage will drive massive engagement and debate."
+  },
+  {
+    "unique_id": "tech_hackers_0121_023_40c5fb1940441ab0",
+    "title": "The Cybercriminal Empire That Hacked Smart Trash Bins to Steal Your Identity",
+    "hook": "A crime ring installed modified sensors in public smart bins that scanned discarded mail and documents, sending text images to a shredding 'recycling' front.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 64,
+    "estimated_short_retention": 79,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "smart trash bin hack",
+      "identity theft via IoT",
+      "public bin surveillance",
+      "document scanning crime",
+      "dumpster diving 2.0"
+    ],
+    "overlap_check_hash": "40c5fb1940441ab0",
+    "why_this_can_go_viral": "It modernizes an old crime (dumpster diving) with a high-tech twist — everyone throws away sensitive data, making this threat universally relatable."
+  },
+  {
+    "unique_id": "tech_hackers_0121_024_48e903d69412fe9b",
+    "title": "The Zero-Day That Hacked Your Gaming Console to Spy on Your Bedroom",
+    "hook": "A vulnerability in a popular console's motion-tracking camera allowed hackers to activate it remotely, feeding live video to a dark web streaming site.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 86,
+    "educational_value": 58,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "gaming console camera hack",
+      "Kinect spy",
+      "PlayStation camera exploit",
+      "Xbox remote surveillance",
+      "IoT gaming spying"
+    ],
+    "overlap_check_hash": "48e903d69412fe9b",
+    "why_this_can_go_viral": "Gaming consoles are in millions of bedrooms — the idea that your FIFA session could be streaming your private life is a massive privacy shock."
+  },
+  {
+    "unique_id": "tech_hackers_0121_025_01d3ca5342823cb8",
+    "title": "The Dark Web Lab That Hacked Smart Pacemakers to Sell 'Safe' Heart Attacks",
+    "hook": "A hitman marketplace offered untraceable murders by causing cardiac arrest through a compromised medical implant, leaving no forensic evidence.",
+    "virality_score": 97,
+    "curiosity_gap_score": 99,
+    "darkness_score": 98,
+    "educational_value": 65,
+    "estimated_short_retention": 96,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "pacemaker assassination",
+      "IoT medical murder",
+      "dark web hitman",
+      "implant hack crime",
+      "untraceable cardiac death"
+    ],
+    "overlap_check_hash": "01d3ca5342823cb8",
+    "why_this_can_go_viral": "It's the darkest possible intersection of IoT and crime — the medical implant, meant to save lives, becomes a perfect murder weapon. Pure shock value."
+  }
+]

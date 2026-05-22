@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "cosmic_0102_001_db755fd6be8c7e79",
+    "title": "The Asteroid That Disappeared Seconds Before Impact",
+    "hook": "An asteroid was tracked heading directly for Earth, then vanished without a trace—what stopped it?",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "asteroid",
+      "disappeared",
+      "impact",
+      "tracking",
+      "anomaly"
+    ],
+    "overlap_check_hash": "db755fd6be8c7e79",
+    "why_this_can_go_viral": "The mystery of something vanishing without explanation triggers deep curiosity and conspiracy thinking."
+  },
+  {
+    "unique_id": "cosmic_0102_002_eebe6a02678bed7b",
+    "title": "The Star That Emits a Pulse That Matches Human Brainwaves",
+    "hook": "Astronomers found a star pulsing at the exact frequency of human consciousness—coincidence or contact?",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 70,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "star",
+      "pulse",
+      "brainwaves",
+      "consciousness",
+      "signal"
+    ],
+    "overlap_check_hash": "eebe6a02678bed7b",
+    "why_this_can_go_viral": "Bridging cosmic mystery with human biology creates an irresistible, shareable hook."
+  },
+  {
+    "unique_id": "cosmic_0102_003_3da86ed05eb83f08",
+    "title": "The Classified Mission That Watched an Asteroid Redirect Itself",
+    "hook": "A classified space telescope recorded an asteroid changing course on its own—no thruster, no impact.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 80,
+    "educational_value": 55,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "classified",
+      "asteroid",
+      "redirect",
+      "telescope",
+      "maneuver"
+    ],
+    "overlap_check_hash": "3da86ed05eb83f08",
+    "why_this_can_go_viral": "The idea of objects in space exhibiting intelligent behavior fuels speculation and fear."
+  },
+  {
+    "unique_id": "cosmic_0102_004_2e78e18170bf1aac",
+    "title": "The Extinction Event That Erased a Civilization—and We Missed It",
+    "hook": "Geological evidence suggests a civilization was wiped out by a cosmic blast—and we only found the ash layer.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "extinction",
+      "civilization",
+      "cosmic blast",
+      "ash",
+      "evidence"
+    ],
+    "overlap_check_hash": "2e78e18170bf1aac",
+    "why_this_can_go_viral": "Hidden history and cosmic violence combine for a dark, mind-bending narrative."
+  },
+  {
+    "unique_id": "cosmic_0102_005_adf5a16a49c29219",
+    "title": "The Black Hole That Ejects Planets Into Space at 30 Million MPH",
+    "hook": "A black hole is flinging entire planets across the galaxy like bullets—Earth could be next.",
+    "virality_score": 87,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "black hole",
+      "eject",
+      "planets",
+      "speed",
+      "danger"
+    ],
+    "overlap_check_hash": "adf5a16a49c29219",
+    "why_this_can_go_viral": "Extreme scale and threat to Earth make this an instant gut-punch that demands sharing."
+  },
+  {
+    "unique_id": "cosmic_0102_006_de7e96b3fd00ff45",
+    "title": "The Satellite That Detected a Dark Matter 'Earthquake' Inside the Planet",
+    "hook": "A satellite picked up gravitational ripples from inside Earth—scientists say dark matter passed through.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 72,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter",
+      "earthquake",
+      "satellite",
+      "gravity",
+      "ripples"
+    ],
+    "overlap_check_hash": "de7e96b3fd00ff45",
+    "why_this_can_go_viral": "Dark matter interacting with Earth directly feels intimate and terrifying."
+  },
+  {
+    "unique_id": "cosmic_0102_009_b80cb96e668f18b4",
+    "title": "The Asteroid That Left Scars on Earth—From a Near Miss",
+    "hook": "An asteroid missed Earth by miles but its gravitational wake carved canyons on the seafloor.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 72,
+    "estimated_short_retention": 78,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "asteroid",
+      "near miss",
+      "scars",
+      "canyons",
+      "gravity"
+    ],
+    "overlap_check_hash": "b80cb96e668f18b4",
+    "why_this_can_go_viral": "Visualizing a near-miss that still left damage makes the threat feel real and urgent."
+  },
+  {
+    "unique_id": "cosmic_0102_010_27de3dbc0a9057df",
+    "title": "The Classified 'Solar Lens' That Could Watch Any Planet in Detail",
+    "hook": "A secret project used the Sun as a magnifying glass to spy on alien worlds—and maybe on us.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 76,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "solar",
+      "lens",
+      "classified",
+      "spy",
+      "planet"
+    ],
+    "overlap_check_hash": "27de3dbc0a9057df",
+    "why_this_can_go_viral": "The idea of using a star as a spy tool merges sci-fi with plausible tech."
+  },
+  {
+    "unique_id": "cosmic_0102_012_2db91974af98cd74",
+    "title": "The Extinction That Happened Because Earth Moved 1 Degree Off Axis",
+    "hook": "A slight tilt in Earth's orbit triggered an extinction—and it's happening again right now.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 74,
+    "estimated_short_retention": 81,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "extinction",
+      "tilt",
+      "orbit",
+      "axis",
+      "trigger"
+    ],
+    "overlap_check_hash": "2db91974af98cd74",
+    "why_this_can_go_viral": "Connecting ancient extinction to present-day shifts creates urgent relevance."
+  },
+  {
+    "unique_id": "cosmic_0102_013_5269783a30d7dd2d",
+    "title": "The Dark Matter 'Ocean' That Earth Swims Through Every Year",
+    "hook": "Earth passes through a massive dark matter current annually—and it's affecting our climate.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 71,
+    "educational_value": 70,
+    "estimated_short_retention": 79,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter",
+      "ocean",
+      "Earth",
+      "climate",
+      "current"
+    ],
+    "overlap_check_hash": "5269783a30d7dd2d",
+    "why_this_can_go_viral": "Linking invisible cosmic forces to everyday weather taps into paranoia and wonder."
+  },
+  {
+    "unique_id": "cosmic_0102_014_3f32dc4dd7daa83b",
+    "title": "The Rogue Planet That Brought Its Own Atmosphere—and Life?",
+    "hook": "A planet drifting alone in space has an atmosphere that smells like Earth—what's breathing inside?",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 79,
+    "educational_value": 67,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "rogue planet",
+      "atmosphere",
+      "life",
+      "drifting",
+      "Earth"
+    ],
+    "overlap_check_hash": "3f32dc4dd7daa83b",
+    "why_this_can_go_viral": "The possibility of life on a dark, wandering world is a haunting narrative hook."
+  },
+  {
+    "unique_id": "cosmic_0102_015_cda03f86140864ac",
+    "title": "The Signal That Was a Map of Our Solar System—But Not the Present One",
+    "hook": "A signal mapped the solar system with a missing planet—the map showed our system 10,000 years ago.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 77,
+    "educational_value": 64,
+    "estimated_short_retention": 90,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "signal",
+      "map",
+      "solar system",
+      "past",
+      "planet"
+    ],
+    "overlap_check_hash": "cda03f86140864ac",
+    "why_this_can_go_viral": "A message from the past that contradicts current knowledge is a viral goldmine."
+  },
+  {
+    "unique_id": "cosmic_0102_016_bd3d90454391a323",
+    "title": "The Classified 'Space Mine' That Could Destroy Rogue Asteroids—and Anything Else",
+    "hook": "A secret orbital weapon designed to shatter asteroids has a secondary target: satellites.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 84,
+    "educational_value": 58,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "classified",
+      "mine",
+      "weapon",
+      "asteroid",
+      "satellite"
+    ],
+    "overlap_check_hash": "bd3d90454391a323",
+    "why_this_can_go_viral": "Hidden space weapons always provoke outrage and fascination."
+  },
+  {
+    "unique_id": "cosmic_0102_017_5075d85b3cac635c",
+    "title": "The Galaxy That Is Rotating in the Wrong Direction",
+    "hook": "A galaxy spins opposite to every known law of physics—something is dragging it backward.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 73,
+    "educational_value": 71,
+    "estimated_short_retention": 83,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "galaxy",
+      "rotation",
+      "wrong",
+      "physics",
+      "drag"
+    ],
+    "overlap_check_hash": "5075d85b3cac635c",
+    "why_this_can_go_viral": "Defying fundamental laws makes viewers question what else we don't know."
+  },
+  {
+    "unique_id": "cosmic_0102_018_e8d7d5a9fb1da69e",
+    "title": "The 'Supervoid' That Is Sucking Our Galaxy Into Nothingness",
+    "hook": "A giant void outside our galaxy is pulling the Milky Way apart—slowly, silently, inevitably.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 86,
+    "educational_value": 69,
+    "estimated_short_retention": 87,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "supervoid",
+      "galaxy",
+      "pull",
+      "void",
+      "Milky Way"
+    ],
+    "overlap_check_hash": "e8d7d5a9fb1da69e",
+    "why_this_can_go_viral": "The idea of an invisible force slowly destroying our home is pure existential horror."
+  },
+  {
+    "unique_id": "cosmic_0102_019_7d6445d58774e12e",
+    "title": "The Asteroid That Hit Earth Every 1,000 Years—and It's Due Now",
+    "hook": "A cycle of devastating impacts repeats every millennium—the last one was 998 years ago.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 82,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "asteroid",
+      "cycle",
+      "impact",
+      "millennium",
+      "due"
+    ],
+    "overlap_check_hash": "7d6445d58774e12e",
+    "why_this_can_go_viral": "Timing a threat to 'now' creates urgency and shareability."
+  },
+  {
+    "unique_id": "cosmic_0102_020_4e5b350256016250",
+    "title": "The 'Ghost Star' That Orbited Nothing for 1 Billion Years",
+    "hook": "A star wandered the void alone for a billion years—until it found Earth's solar system.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 66,
+    "estimated_short_retention": 82,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "ghost star",
+      "orbit",
+      "void",
+      "solar system",
+      "wander"
+    ],
+    "overlap_check_hash": "4e5b350256016250",
+    "why_this_can_go_viral": "A lone traveler arriving after eons feels like a cosmic horror story."
+  },
+  {
+    "unique_id": "cosmic_0102_023_59b36f387df061db",
+    "title": "The Classified 'Blackout' That Hid a Near-Earth Object for 30 Years",
+    "hook": "A government program deliberately erased a near-Earth object from all telescope records.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 81,
+    "educational_value": 59,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "classified",
+      "blackout",
+      "near-Earth",
+      "telescope",
+      "erased"
+    ],
+    "overlap_check_hash": "59b36f387df061db",
+    "why_this_can_go_viral": "Cover-ups of cosmic threats fuel distrust and curiosity simultaneously."
+  },
+  {
+    "unique_id": "cosmic_0102_024_baee9dea3d37cac8",
+    "title": "The Anomaly That Made 50 Stars Disappear From a Single Photo",
+    "hook": "A telescope captured a cluster of stars vanishing in one frame—as if something erased them.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "anomaly",
+      "stars",
+      "disappear",
+      "photo",
+      "cluster"
+    ],
+    "overlap_check_hash": "baee9dea3d37cac8",
+    "why_this_can_go_viral": "Mass vanishing of stars is a visual shock that sparks immediate questions."
+  },
+  {
+    "unique_id": "cosmic_0102_025_9f85ad54296cc4a2",
+    "title": "The Extinction That Was Caused by a Dead Star's Radiation Blast",
+    "hook": "A neutron star's beam swept over Earth 400 million years ago—and half of all species died.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 83,
+    "educational_value": 73,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "extinction",
+      "neutron star",
+      "radiation",
+      "blast",
+      "species"
+    ],
+    "overlap_check_hash": "9f85ad54296cc4a2",
+    "why_this_can_go_viral": "Linking a known extinction to a cosmic event makes distant danger feel personal."
+  }
+]

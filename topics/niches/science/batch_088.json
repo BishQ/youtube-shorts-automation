@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "science_0088_001_ad471054a558613d",
+    "title": "The Lab That Created a Protein That Eats Human Bone",
+    "hook": "A synthetic biology lab accidentally engineered a protein that dissolves calcium phosphate—and it started eating the researchers' own skeletons.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "protein engineering",
+      "bone dissolution",
+      "lab accident",
+      "synthetic biology",
+      "horror"
+    ],
+    "overlap_check_hash": "ad471054a558613d",
+    "why_this_can_go_viral": "Body horror combined with real science creates visceral curiosity and fear of lab-created threats."
+  },
+  {
+    "unique_id": "science_0088_002_f31690d2a767fda9",
+    "title": "The Neuroscientist Who Implanted a False Fear of Birds",
+    "hook": "A researcher used targeted light pulses in the hippocampus to make a patient irrationally terrified of pigeons—and the fear never faded.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "false memory",
+      "fear conditioning",
+      "optogenetics",
+      "hippocampus",
+      "phobia implant"
+    ],
+    "overlap_check_hash": "f31690d2a767fda9",
+    "why_this_can_go_viral": "Shows how fragile human identity is and how easily external manipulation can rewire emotion."
+  },
+  {
+    "unique_id": "science_0088_003_0ffd7d28d5d0b665",
+    "title": "The Chemistry Disaster That Made a Glue That Binds Skin to Metal",
+    "hook": "A failed acrylic polymerization left a chemist's hand fused to a steel table—surgeons had to cut the metal away from the bone.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "superglue accident",
+      "polymerization",
+      "skin adhesion",
+      "industrial accident",
+      "chemistry gone wrong"
+    ],
+    "overlap_check_hash": "0ffd7d28d5d0b665",
+    "why_this_can_go_viral": "Gory, unexpected failure of everyday chemistry sparks both horror and fascination."
+  },
+  {
+    "unique_id": "science_0088_004_e86bcbcece556516",
+    "title": "The Biolab That Accidentally Bred a Mosquito That Feeds on Tears",
+    "hook": "A genetic modification experiment created a mosquito strain that ignored blood and instead targeted the moisture of human eyes.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "genetic engineering",
+      "mosquito mutation",
+      "eye infection",
+      "lab leak",
+      "insect horror"
+    ],
+    "overlap_check_hash": "e86bcbcece556516",
+    "why_this_can_go_viral": "Extreme body horror and fear of modified insects feeds primal disgust and biohazard paranoia."
+  },
+  {
+    "unique_id": "science_0088_005_a2cb2341037834f2",
+    "title": "The Quantum Paradox Where Entangled Particles Broke Causality",
+    "hook": "Two entangled particles reacted faster than light—one in Geneva, one in Zurich—and the signal seemed to arrive before the cause.",
+    "virality_score": 79,
+    "curiosity_gap_score": 90,
+    "darkness_score": 55,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum entanglement",
+      "faster than light",
+      "causality violation",
+      "Bell test",
+      "spooky action"
+    ],
+    "overlap_check_hash": "a2cb2341037834f2",
+    "why_this_can_go_viral": "Challenges the foundation of reality and time, which is universally mind-bending."
+  },
+  {
+    "unique_id": "science_0088_008_8ec4c84010bf8767",
+    "title": "The Physics Anomaly Where a Crystal Absorbed All Light Forever",
+    "hook": "A metamaterial cube was engineered to trap photons inside its lattice—light entered but never left, leaving the object perfectly black.",
+    "virality_score": 77,
+    "curiosity_gap_score": 88,
+    "darkness_score": 45,
+    "educational_value": 82,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "metamaterial",
+      "light trap",
+      "perfect black",
+      "photon capture",
+      "absorption anomaly"
+    ],
+    "overlap_check_hash": "8ec4c84010bf8767",
+    "why_this_can_go_viral": "Visually stunning concept of 'eternal darkness' in a material triggers strong curiosity."
+  },
+  {
+    "unique_id": "science_0088_009_641066fc4aed4c41",
+    "title": "The Chemist Who Synthesized a Drug That Replaced Sleep With Nightmares",
+    "hook": "A novel psychoactive compound kept users awake for 72 hours—but every waking moment was filled with vivid, inescapable hallucinations of terror.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "designer drug",
+      "hallucinogen",
+      "sleep deprivation",
+      "nightmare drug",
+      "chemical horror"
+    ],
+    "overlap_check_hash": "641066fc4aed4c41",
+    "why_this_can_go_viral": "Mixes real chemical risk with psychological horror that is both fascinating and terrifying."
+  },
+  {
+    "unique_id": "science_0088_010_06550b0951b68e3e",
+    "title": "The Neuroscientist Who Found That Your Brain Can Smell Fear",
+    "hook": "Functional MRI scans revealed the human amygdala detects pheromones from terrified people—even when the conscious nose smells nothing.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "pheromones",
+      "subconscious smell",
+      "amygdala",
+      "fear detection",
+      "unconscious senses"
+    ],
+    "overlap_check_hash": "06550b0951b68e3e",
+    "why_this_can_go_viral": "Makes viewers question their own hidden senses and primal survival instincts."
+  },
+  {
+    "unique_id": "science_0088_011_5fab68f80ff51989",
+    "title": "The Lab Catastrophe Where a Gamma Irradiator Wiped a Researcher's DNA",
+    "hook": "A technician accidentally entered a sterilization chamber while the cobalt-60 source was live—her cells never divided again.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "radiation accident",
+      "gamma irradiation",
+      "cell death",
+      "cobalt-60",
+      "industrial disaster"
+    ],
+    "overlap_check_hash": "5fab68f80ff51989",
+    "why_this_can_go_viral": "Real, grisly radiation poisoning story with zero hope—creates powerful shock and awe."
+  },
+  {
+    "unique_id": "science_0088_012_24b9b3027931cbc6",
+    "title": "The Biologist Who Discovered a Fungus That Hides Inside Hair Follicles",
+    "hook": "A newly identified species of microfungus burrows into the scalp's follicles and lies dormant for years—then erupts as a black, crusty lesion.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fungal infection",
+      "hair follicle",
+      "dormant pathogen",
+      "skin horror",
+      "scalp disease"
+    ],
+    "overlap_check_hash": "24b9b3027931cbc6",
+    "why_this_can_go_viral": "Gross-out body horror with high 'itch factor' makes it instantly shareable."
+  },
+  {
+    "unique_id": "science_0088_013_f7b736b944264115",
+    "title": "The Quantum Paradox Where a Time Crystal Tickled Forever Without Energy",
+    "hook": "Physicists built a crystal of atoms that oscillates in time forever—breaking the second law of thermodynamics inside a lab.",
+    "virality_score": 78,
+    "curiosity_gap_score": 91,
+    "darkness_score": 40,
+    "educational_value": 86,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time crystal",
+      "perpetual motion",
+      "quantum time",
+      "thermodynamics violation",
+      "phase of matter"
+    ],
+    "overlap_check_hash": "f7b736b944264115",
+    "why_this_can_go_viral": "Sounds like a sci-fi perpetual motion machine—challenges intuitive understanding of time."
+  },
+  {
+    "unique_id": "science_0088_016_6b4aff4cb7bc2109",
+    "title": "The Fraud Who Faked a Study Proving That Chimps Have Language",
+    "hook": "A primatologist secretly taught her chimp hand signals—then claimed the animal invented them, publishing the lie as groundbreaking science.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 72,
+    "educational_value": 77,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "primate language",
+      "scientific deception",
+      "animal intelligence",
+      "Washoe case",
+      "fraud exposé"
+    ],
+    "overlap_check_hash": "6b4aff4cb7bc2109",
+    "why_this_can_go_viral": "Exposes a famous scientific scandal that many viewers have heard of but don't know the dark details."
+  },
+  {
+    "unique_id": "science_0088_019_95cf5cef7d482abb",
+    "title": "The Biolab That Accidentally Created a Bacterium That Eats Plastic—Then Humans",
+    "hook": "An enzyme designed to digest PET bottles mutated in a petri dish—and began digesting the keratin in human skin cells.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 89,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "enzyme mutation",
+      "plastic eating",
+      "skin digestion",
+      "biohazard",
+      "PETase gone wrong"
+    ],
+    "overlap_check_hash": "95cf5cef7d482abb",
+    "why_this_can_go_viral": "Combines eco-hope with horrific body horror—twist ending shocks and satisfies."
+  },
+  {
+    "unique_id": "science_0088_020_853d1f317553a58c",
+    "title": "The Forbidden Experiment That Raised Twins in Opposite Sound Worlds",
+    "hook": "One twin was raised in total silence, the other in constant white noise—their brains developed completely different language regions.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 83,
+    "educational_value": 82,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "twin study",
+      "sensory deprivation",
+      "language development",
+      "sound experiment",
+      "ethics violation"
+    ],
+    "overlap_check_hash": "853d1f317553a58c",
+    "why_this_can_go_viral": "Twins as natural experiment amplifies curiosity about nurture vs nature and developmental damage."
+  },
+  {
+    "unique_id": "science_0088_021_3159bcbd53e0aead",
+    "title": "The Physics Anomaly Where a Magnet Repelled Everything It Touched",
+    "hook": "A rare-earth magnet alloy was accidentally synthesized with a magnetic field that only pushes—nothing in the lab could stick to it.",
+    "virality_score": 75,
+    "curiosity_gap_score": 87,
+    "darkness_score": 25,
+    "educational_value": 79,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "magnetic anomaly",
+      "repulsion only",
+      "rare earth magnet",
+      "alloy accident",
+      "field reversal"
+    ],
+    "overlap_check_hash": "3159bcbd53e0aead",
+    "why_this_can_go_viral": "Visual spectacle of something that defies everyday experience with magnets—great for demonstration clips."
+  },
+  {
+    "unique_id": "science_0088_022_f0b84aa258f99f07",
+    "title": "The Fraud Who Faked a Study Proving That Stress Turns Hair White Overnight",
+    "hook": "A dermatologist published photos of 'instant greying' in trauma patients—but the hair was bleached in the lab to push a bogus theory.",
+    "virality_score": 77,
+    "curiosity_gap_score": 82,
+    "darkness_score": 68,
+    "educational_value": 76,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "hair greying",
+      "stress myth",
+      "fraudulent research",
+      "dermatology scandal",
+      "image manipulation"
+    ],
+    "overlap_check_hash": "f0b84aa258f99f07",
+    "why_this_can_go_viral": "Debunks a widely believed urban legend with a juicy scandal—viewers love being 'in on the truth.'"
+  },
+  {
+    "unique_id": "science_0088_023_78d7fcd0c332f5cb",
+    "title": "The Biologist Who Found a Parasite That Reprograms Hosts to Seek Water",
+    "hook": "A nematode infects ants and rewires their brains to crave puddles—then drowns them to release its larvae into the water.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 87,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "parasite mind control",
+      "ant behavior",
+      "nematode",
+      "water seeking",
+      "zombie insect"
+    ],
+    "overlap_check_hash": "78d7fcd0c332f5cb",
+    "why_this_can_go_viral": "Parasite mind control always fascinates—adds a watery death twist that's both creepy and educational."
+  },
+  {
+    "unique_id": "science_0088_025_bdd224ddcd95ed25",
+    "title": "The Neuroscientist Who Showed That Your Brain Can See Through Your Ears",
+    "hook": "In blind subjects, the visual cortex rewired itself to process echolocation clicks—proving the brain is a sensory chameleon.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 55,
+    "educational_value": 87,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "neuroplasticity",
+      "blind echolocation",
+      "sensory substitution",
+      "visual cortex",
+      "brain rewiring"
+    ],
+    "overlap_check_hash": "bdd224ddcd95ed25",
+    "why_this_can_go_viral": "Defies assumptions about fixed brain regions—makes viewers wonder what else their brain can do."
+  }
+]

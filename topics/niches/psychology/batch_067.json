@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "psychology_0067_001_2a69d169f6eb931d",
+    "title": "The Social Engineer Who Stole a Bank's Master Key—by Complimenting a Janitor",
+    "hook": "A single compliment about a mop bucket gave a stranger total access to a bank vault for 5 years.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 85,
+    "estimated_short_retention": 91,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "social engineering",
+      "bank security",
+      "manipulation",
+      "janitor",
+      "compliment trap"
+    ],
+    "overlap_check_hash": "2a69d169f6eb931d",
+    "why_this_can_go_viral": "The 'lowest-level employee holds the keys' twist shatters assumptions about security, and the compliment angle is deeply relatable."
+  },
+  {
+    "unique_id": "psychology_0067_003_85c0d9d29b5ae1d4",
+    "title": "The Mass Psychology That Made 10,000 People Burn Their Own Money—in Public",
+    "hook": "A single phrase whispered by a street performer caused a crowd to light their cash on fire. Not one person stopped to ask why.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 93,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "mass psychology",
+      "crowd behavior",
+      "money burning",
+      "street performer",
+      "herd mentality"
+    ],
+    "overlap_check_hash": "85c0d9d29b5ae1d4",
+    "why_this_can_go_viral": "The visual of people burning money is shocking and shareable, and the 'why didn't anyone stop?' question is irresistible."
+  },
+  {
+    "unique_id": "psychology_0067_006_1567649603256cf5",
+    "title": "The Dark Persuasion Science of Making Someone Confess to Spying—Using a Feather",
+    "hook": "A secret technique used on 12 suspects in the 1960s: tickling the neck until the brain rewrites memories. 11 confessed.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 99,
+    "educational_value": 87,
+    "estimated_short_retention": 97,
+    "niche_name": "psychology",
+    "subcategory": "dark persuasion science",
+    "keywords": [
+      "dark persuasion",
+      "false confession",
+      "sensory manipulation",
+      "tickling",
+      "memory rewriting"
+    ],
+    "overlap_check_hash": "1567649603256cf5",
+    "why_this_can_go_viral": "The 'feather torture' concept is bizarre, visceral, and horrifying—perfect for dark curiosity."
+  },
+  {
+    "unique_id": "psychology_0067_007_cee380fe1ffc4d5f",
+    "title": "The Psychological Warfare That Made a Town Fear Their Own Reflections—for 3 Generations",
+    "hook": "A 1940s experiment used mirror placement to create a phantom ‘mirror people’ myth. Children still avoid mirrors today.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 93,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "psychology",
+    "subcategory": "psychological warfare",
+    "keywords": [
+      "psychological warfare",
+      "mirror fear",
+      "generational trauma",
+      "phantom people",
+      "1940s experiment"
+    ],
+    "overlap_check_hash": "cee380fe1ffc4d5f",
+    "why_this_can_go_viral": "Mirror phobia is creepy and universal; the '3 generations' hook amplifies the long-term horror."
+  },
+  {
+    "unique_id": "psychology_0067_009_14e811f8469befb4",
+    "title": "The Real Mind Control Experiment That Made Identical Twins Swap Personalities—Permanently",
+    "hook": "A 1965 study separated twins and used sound frequencies to swap their core identities. 50 years later, both still live as each other.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 98,
+    "educational_value": 85,
+    "estimated_short_retention": 96,
+    "niche_name": "psychology",
+    "subcategory": "real mind control",
+    "keywords": [
+      "mind control",
+      "twin experiment",
+      "personality swap",
+      "sound frequencies",
+      "identity erosion"
+    ],
+    "overlap_check_hash": "14e811f8469befb4",
+    "why_this_can_go_viral": "The 'twin identity swap' is a sci-fi level horror story that feels impossible—but claims to be real."
+  },
+  {
+    "unique_id": "psychology_0067_010_bdcf1e7e9a5206c5",
+    "title": "The Mass Psychology That Made 500 People Jump Into a Frozen River—Simultaneously",
+    "hook": "A single whistle blow at noon made a crowd plunge into ice water. No one died, but no one could explain why they jumped.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 79,
+    "estimated_short_retention": 91,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "mass psychology",
+      "crowd jump",
+      "frozen river",
+      "whistle trigger",
+      "collective action"
+    ],
+    "overlap_check_hash": "bdcf1e7e9a5206c5",
+    "why_this_can_go_viral": "The visual of a mass jump into freezing water is cinematic, and the 'no one knows why' mystery drives engagement."
+  },
+  {
+    "unique_id": "psychology_0067_011_44922465ca714b54",
+    "title": "The Cognitive Bias That Made Doctors Misdiagnose 200 Patients—Because of a Wall Clock",
+    "hook": "A hospital discovered that patients seen in rooms with analog clocks received 73% more incorrect diagnoses than digital rooms.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 89,
+    "educational_value": 92,
+    "estimated_short_retention": 93,
+    "niche_name": "psychology",
+    "subcategory": "cognitive bias destruction",
+    "keywords": [
+      "cognitive bias",
+      "doctor error",
+      "clock design",
+      "misdiagnosis",
+      "environmental influence"
+    ],
+    "overlap_check_hash": "44922465ca714b54",
+    "why_this_can_go_viral": "Healthcare bias is a high-trust topic; the clock detail is so subtle it feels like a hidden system failure."
+  },
+  {
+    "unique_id": "psychology_0067_012_5f17041d656e9b14",
+    "title": "The Propaganda System That Used Library Books to Predict Which Kids Would Rebel",
+    "hook": "A government program tracked which pages kids dog-eared. 20 years later, those children were 4x more likely to be arrested.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 96,
+    "educational_value": 86,
+    "estimated_short_retention": 94,
+    "niche_name": "psychology",
+    "subcategory": "propaganda systems",
+    "keywords": [
+      "propaganda",
+      "library surveillance",
+      "child prediction",
+      "dog-eared pages",
+      "government program"
+    ],
+    "overlap_check_hash": "5f17041d656e9b14",
+    "why_this_can_go_viral": "The 'dog-eared pages' surveillance method feels Orwellian and personally violating to anyone who reads."
+  },
+  {
+    "unique_id": "psychology_0067_013_b8e16f4912699e48",
+    "title": "The Social Engineer Who Got Into a Maximum Security Prison—Using a Pizza Box",
+    "hook": "He walked past armed guards with a warm pizza box. Inside was not pizza—but the blueprint to every cell lock.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 84,
+    "educational_value": 81,
+    "estimated_short_retention": 92,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "social engineering",
+      "prison break",
+      "pizza box",
+      "security bypass",
+      "blueprint theft"
+    ],
+    "overlap_check_hash": "b8e16f4912699e48",
+    "why_this_can_go_viral": "Pizza delivery is universally trusted; the 'warm box' detail makes the trick feel almost too easy."
+  },
+  {
+    "unique_id": "psychology_0067_014_4b70c04b8458e078",
+    "title": "The Dark Persuasion Science of Ending a 10-Year Marriage—in 10 Minutes",
+    "hook": "A single phrase repeated at the right moment caused a woman to file for divorce that same afternoon. The phrase: a question about a spoon.",
+    "virality_score": 96,
+    "curiosity_gap_score": 99,
+    "darkness_score": 95,
+    "educational_value": 83,
+    "estimated_short_retention": 98,
+    "niche_name": "psychology",
+    "subcategory": "dark persuasion science",
+    "keywords": [
+      "dark persuasion",
+      "marriage destruction",
+      "spoon question",
+      "divorce trigger",
+      "conversation manipulation"
+    ],
+    "overlap_check_hash": "4b70c04b8458e078",
+    "why_this_can_go_viral": "The 'spoon' detail is absurd and specific, and the '10 minutes' time frame is shocking—perfect for relationship drama."
+  },
+  {
+    "unique_id": "psychology_0067_015_50d41cc9ab86462a",
+    "title": "The Psychological Warfare That Made a Village Forget Their Own Language—Overnight",
+    "hook": "A military psy-op used reversed recordings of children's voices. By morning, 80% of the village could only speak in tongues.",
+    "virality_score": 94,
+    "curiosity_gap_score": 98,
+    "darkness_score": 100,
+    "educational_value": 88,
+    "estimated_short_retention": 96,
+    "niche_name": "psychology",
+    "subcategory": "psychological warfare",
+    "keywords": [
+      "psychological warfare",
+      "language loss",
+      "reversed recordings",
+      "tongues",
+      "psy-op"
+    ],
+    "overlap_check_hash": "50d41cc9ab86462a",
+    "why_this_can_go_viral": "The 'forget language overnight' premise sounds supernatural, and the reversed children's voice detail is deeply unsettling."
+  },
+  {
+    "unique_id": "psychology_0067_016_888dc99399898dd5",
+    "title": "The Manipulation Tactic That Made a Town Evacuate—Because of a Single Flower",
+    "hook": "A man planted one white flower in the town square. Within 48 hours, every resident had packed their bags and left.",
+    "virality_score": 85,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "psychology",
+    "subcategory": "manipulation tactics",
+    "keywords": [
+      "manipulation",
+      "flower symbol",
+      "town evacuation",
+      "symbolic power",
+      "mass exit"
+    ],
+    "overlap_check_hash": "888dc99399898dd5",
+    "why_this_can_go_viral": "The 'single flower causes mass panic' is a beautiful, haunting image that invites speculation and shares."
+  },
+  {
+    "unique_id": "psychology_0067_018_0e9672d5c74fb9ce",
+    "title": "The Mass Psychology That Made 1,000 People Stand Still for 6 Hours—for No Reason",
+    "hook": "A single man stopped walking in a busy square. Within 30 minutes, a thousand strangers had frozen behind him. No one knew why.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 86,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "mass psychology",
+      "freezing crowd",
+      "mimicry",
+      "collective trance",
+      "street experiment"
+    ],
+    "overlap_check_hash": "0e9672d5c74fb9ce",
+    "why_this_can_go_viral": "The 'freeze mob' phenomenon is visually hypnotic and the 'no reason' mystery hooks deep curiosity."
+  },
+  {
+    "unique_id": "psychology_0067_020_0711d836359dd4d3",
+    "title": "The Propaganda System That Used Snow Cone Colors to Map Political Loyalty",
+    "hook": "In a tropical country, a regime used snow cone flavors to identify dissidents. Red cone buyers were arrested within a week.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "psychology",
+    "subcategory": "propaganda systems",
+    "keywords": [
+      "propaganda",
+      "snow cone",
+      "political mapping",
+      "ice cream surveillance",
+      "flavor code"
+    ],
+    "overlap_check_hash": "0711d836359dd4d3",
+    "why_this_can_go_viral": "The 'snow cone as surveillance tool' is absurdly inventive and visually colorful—perfect for shorts."
+  },
+  {
+    "unique_id": "psychology_0067_021_3196b24d2aa8fa43",
+    "title": "The Social Engineer Who Got a CEO's Password—by Asking for a Glass of Water",
+    "hook": "He asked the CEO's assistant for water, watched her type her password, then used it to drain the corporate account.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 86,
+    "estimated_short_retention": 87,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "social engineering",
+      "password theft",
+      "water trick",
+      "CEO hack",
+      "assistant observation"
+    ],
+    "overlap_check_hash": "3196b24d2aa8fa43",
+    "why_this_can_go_viral": "The 'water request' is disarmingly innocent; viewers will immediately think of their own workplace security."
+  },
+  {
+    "unique_id": "psychology_0067_022_c22f9cbf2a280eb0",
+    "title": "The Dark Persuasion Science of Making a Murderer Love His Victim's Family—Using Scent",
+    "hook": "A 1987 experiment used a single fragrance to rewire a killer's emotional bonds. He later cried at the victim's grave.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 99,
+    "educational_value": 87,
+    "estimated_short_retention": 95,
+    "niche_name": "psychology",
+    "subcategory": "dark persuasion science",
+    "keywords": [
+      "dark persuasion",
+      "scent manipulation",
+      "murderer empathy",
+      "emotional rewiring",
+      "1987 experiment"
+    ],
+    "overlap_check_hash": "c22f9cbf2a280eb0",
+    "why_this_can_go_viral": "The 'scent makes killer love family' premise is both horrifying and deeply fascinating—emotional whiplash content."
+  },
+  {
+    "unique_id": "psychology_0067_024_bd803b3fee387c72",
+    "title": "The Manipulation Tactic That Made a Village Worship a Rock—for 30 Years",
+    "hook": "A traveler placed a painted stone outside a hut. Within a generation, villagers were leaving offerings and naming their children after it.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 91,
+    "educational_value": 81,
+    "estimated_short_retention": 90,
+    "niche_name": "psychology",
+    "subcategory": "manipulation tactics",
+    "keywords": [
+      "manipulation",
+      "rock worship",
+      "village trick",
+      "painted stone",
+      "false idol"
+    ],
+    "overlap_check_hash": "bd803b3fee387c72",
+    "why_this_can_go_viral": "The 'rock worship' story is a perfect example of how easily belief systems are planted—it's both funny and dark."
+  },
+  {
+    "unique_id": "psychology_0067_025_188e1394d8efb5ec",
+    "title": "The Real Mind Control Experiment That Made Subjects Feel Pain—From a Fake Knife",
+    "hook": "Subjects in a 1978 study screamed and bled from a wound that never existed—because a researcher described it vividly.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 98,
+    "educational_value": 90,
+    "estimated_short_retention": 97,
+    "niche_name": "psychology",
+    "subcategory": "real mind control",
+    "keywords": [
+      "mind control",
+      "fake knife",
+      "phantom wound",
+      "suggestion pain",
+      "1978 experiment"
+    ],
+    "overlap_check_hash": "188e1394d8efb5ec",
+    "why_this_can_go_viral": "The 'mind over body to the point of bleeding' premise is scientifically terrifying and visually dramatic."
+  }
+]

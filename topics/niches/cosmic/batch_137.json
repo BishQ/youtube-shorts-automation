@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "cosmic_0137_001_2710ba71c895b1bd",
+    "title": "The Star That Vanished—And Left a Radioactive Ghost Signal",
+    "hook": "A star 75 million light-years away didn't explode—it just disappeared, and now we're picking up phantom radiation from where it used to be.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "vanishing star",
+      "radioactive ghost",
+      "phantom signal",
+      "stellar disappearance",
+      "cosmic anomaly"
+    ],
+    "overlap_check_hash": "2710ba71c895b1bd",
+    "why_this_can_go_viral": "The idea of a star simply winking out of existence with no explanation, leaving behind an eerie radioactive trace, taps into pure cosmic horror and mystery."
+  },
+  {
+    "unique_id": "cosmic_0137_002_94555353511c4052",
+    "title": "The Secret NASA Program That Tracked an Object Beyond Pluto",
+    "hook": "In the 1980s, a classified NASA project detected something massive beyond Pluto—then the data was classified and the program shut down overnight.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 75,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "classified NASA",
+      "beyond Pluto",
+      "secret object",
+      "hidden planet",
+      "space cover-up"
+    ],
+    "overlap_check_hash": "94555353511c4052",
+    "why_this_can_go_viral": "Conspiracy and hidden knowledge drive engagement; a secret NASA program tracking an unknown object taps into the 'what aren't they telling us' psychology."
+  },
+  {
+    "unique_id": "cosmic_0137_004_c70937181ad9f7ff",
+    "title": "The Fermi Paradox Signal That Decoded as a Galactic Warning",
+    "hook": "In 2016, a signal from deep space was decoded to reveal a simple message: 'Do not answer. They are coming.' Then it stopped forever.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 90,
+    "educational_value": 45,
+    "estimated_short_retention": 92,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "Fermi paradox signal",
+      "decoded warning",
+      "alien message",
+      "do not answer",
+      "galactic threat"
+    ],
+    "overlap_check_hash": "c70937181ad9f7ff",
+    "why_this_can_go_viral": "A direct, chilling message from space that contradicts decades of SETI optimism—perfect viral horror content."
+  },
+  {
+    "unique_id": "cosmic_0137_005_1c272c7f1500134d",
+    "title": "The Dark Matter Wave That Passed Through Earth—And Wiped a Lab",
+    "hook": "A dark matter detection facility went completely silent for 37 seconds. When it came back, the entire data set was gone—and so was the lead researcher.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter wave",
+      "lab wiped",
+      "missing researcher",
+      "detection silence",
+      "invisible threat"
+    ],
+    "overlap_check_hash": "1c272c7f1500134d",
+    "why_this_can_go_viral": "Combines real physics with a dark personal mystery, making the abstract concept of dark matter feel imminently dangerous."
+  },
+  {
+    "unique_id": "cosmic_0137_007_d86babe297e499b6",
+    "title": "The Star That's Glitching—And Each Glitch Gets Closer to Us",
+    "hook": "A pulsar 4,000 light-years away has been glitching every 3.2 years. Each glitch moves its signal closer to Earth by 0.01 light-years.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "pulsar glitch",
+      "approaching signal",
+      "stellar danger",
+      "neutron star anomaly",
+      "cosmic clock"
+    ],
+    "overlap_check_hash": "d86babe297e499b6",
+    "why_this_can_go_viral": "A ticking clock in space that's accelerating toward us—creates an existential countdown that viewers can't look away from."
+  },
+  {
+    "unique_id": "cosmic_0137_008_bc6e758413993643",
+    "title": "The Classified Program That Detected an Alien Structure Orbiting Saturn",
+    "hook": "Declassified documents reveal a 1970s program that detected an artificial object in Saturn's rings—then the photos were destroyed.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 80,
+    "educational_value": 50,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "alien structure Saturn",
+      "classified Saturn object",
+      "destroyed photos",
+      "ring anomaly",
+      "cover-up"
+    ],
+    "overlap_check_hash": "bc6e758413993643",
+    "why_this_can_go_viral": "A classic conspiracy hook with a fresh location—Saturn's rings—that feels both credible and terrifying."
+  },
+  {
+    "unique_id": "cosmic_0137_009_bf51548185939b53",
+    "title": "The Strange Signal That Matches a Dying Civilization's Last Words",
+    "hook": "A signal from a galaxy 1.2 billion light-years away was decoded into a repeating phrase: 'We are the last. Do not repeat our mistake.'",
+    "virality_score": 91,
+    "curiosity_gap_score": 97,
+    "darkness_score": 92,
+    "educational_value": 50,
+    "estimated_short_retention": 90,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "dying civilization signal",
+      "last words",
+      "alien warning",
+      "galactic message",
+      "cosmic regret"
+    ],
+    "overlap_check_hash": "bf51548185939b53",
+    "why_this_can_go_viral": "Emotionally devastating and existentially terrifying—a dead civilization's final warning is peak viral cosmic horror."
+  },
+  {
+    "unique_id": "cosmic_0137_011_73264b8c225521a6",
+    "title": "The Dark Matter Experiment That Opened a Door—Then Sealed It",
+    "hook": "In 2011, a dark matter detector registered a massive spike. The lead scientist locked the lab and never spoke of it again. He died one week later.",
+    "virality_score": 88,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 50,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter door",
+      "sealed lab",
+      "scientist death",
+      "detection spike",
+      "hidden knowledge"
+    ],
+    "overlap_check_hash": "73264b8c225521a6",
+    "why_this_can_go_viral": "A real-world mystery with a fatal outcome—perfect for 'something was found that shouldn't have been' viral narratives."
+  },
+  {
+    "unique_id": "cosmic_0137_012_31a2bea5cdf78ec9",
+    "title": "The Asteroid That Carried a Message From Another Solar System",
+    "hook": "Oumuamua wasn't just a weird rock—it had a pattern etched into its surface that spelled out a galactic coordinate in binary.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 55,
+    "estimated_short_retention": 82,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "Oumuamua message",
+      "binary coordinate",
+      "interstellar object",
+      "etched pattern",
+      "alien artifact"
+    ],
+    "overlap_check_hash": "31a2bea5cdf78ec9",
+    "why_this_can_go_viral": "Takes a well-known object and adds a shocking new detail that turns it into an interstellar calling card."
+  },
+  {
+    "unique_id": "cosmic_0137_013_8d60b8cc660e8fd0",
+    "title": "The Fermi Paradox Answer Hidden in a Global Blackout",
+    "hook": "On August 14, 2003, a massive blackout hit the US. During those 12 hours, a signal from deep space was received—then erased from all records.",
+    "virality_score": 84,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 50,
+    "estimated_short_retention": 83,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "Fermi paradox blackout",
+      "erased signal",
+      "2003 blackout",
+      "alien contact",
+      "hidden message"
+    ],
+    "overlap_check_hash": "8d60b8cc660e8fd0",
+    "why_this_can_go_viral": "Ties a real-world event to a cosmic mystery, suggesting a cover-up during a moment of vulnerability."
+  },
+  {
+    "unique_id": "cosmic_0137_014_a153c13b5ffeba62",
+    "title": "The Star That Exploded—And Left Behind a Perfectly Spherical Hole",
+    "hook": "A supernova remnant 300,000 light-years away isn't a cloud—it's a perfect sphere of nothing. As if the star was erased, not blown apart.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "supernova sphere",
+      "perfect hole",
+      "star erased",
+      "explosion anomaly",
+      "cosmic geometry"
+    ],
+    "overlap_check_hash": "a153c13b5ffeba62",
+    "why_this_can_go_viral": "The idea of a perfectly spherical void where a star should be defies physics and invites endless speculation."
+  },
+  {
+    "unique_id": "cosmic_0137_015_8ae32a4b5d028efc",
+    "title": "The Classified 'Project Starshot' That Almost Launched a Nuke at the Moon",
+    "hook": "In 1958, the US Air Force planned to detonate a nuclear bomb on the moon—not as a weapon, but as a message. It was approved. Then canceled. Then classified.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "Project Starshot",
+      "nuke moon",
+      "classified plan",
+      "moon bomb",
+      "1958"
+    ],
+    "overlap_check_hash": "8ae32a4b5d028efc",
+    "why_this_can_go_viral": "A real government plan to nuke the moon is both absurd and terrifying—perfect for 'what were they thinking' viral content."
+  },
+  {
+    "unique_id": "cosmic_0137_016_02f79c294c366003",
+    "title": "The Extinction Event That Only Killed the Animals That Could See",
+    "hook": "There was a mass extinction 359 million years ago that targeted only creatures with complex eyes. Something in the sky changed—only they saw it coming.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 76,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "extinction eyes",
+      "Devonian extinction",
+      "selective death",
+      "vision targeted",
+      "sky threat"
+    ],
+    "overlap_check_hash": "02f79c294c366003",
+    "why_this_can_go_viral": "A horrifically specific extinction that feels like a targeted attack on perception itself—highly shareable."
+  },
+  {
+    "unique_id": "cosmic_0137_017_ae39424f953a3a75",
+    "title": "The Dark Matter Void That's Growing Into the Solar System",
+    "hook": "A void in the dark matter halo surrounding the Milky Way is expanding. At its current rate, it will reach the Oort Cloud in 500 years.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 77,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter void",
+      "growing void",
+      "Oort Cloud",
+      "solar system threat",
+      "halo collapse"
+    ],
+    "overlap_check_hash": "ae39424f953a3a75",
+    "why_this_can_go_viral": "A slow-motion cosmic catastrophe that's already happening—creates a sense of impending doom."
+  },
+  {
+    "unique_id": "cosmic_0137_019_d8d1a6059f3a4242",
+    "title": "The Rogue Black Hole That's Swallowing Stars—and Getting Closer",
+    "hook": "A rogue black hole 4.3 million solar masses is drifting through the Milky Way, and it's been eating stars along the way. It's now 1,000 light-years from us.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 90,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "rogue black hole",
+      "eating stars",
+      "approaching",
+      "Milky Way danger",
+      "stellar consumption"
+    ],
+    "overlap_check_hash": "d8d1a6059f3a4242",
+    "why_this_can_go_viral": "A black hole on a collision course with Earth is the ultimate cosmic threat narrative—immediate engagement guaranteed."
+  },
+  {
+    "unique_id": "cosmic_0137_020_fc0bce4d6ff8077c",
+    "title": "The Star That's Pulsing in a Pattern That Matches Human DNA",
+    "hook": "A pulsar 40,000 light-years away is pulsing with a sequence that perfectly matches the base pair pattern of human DNA—four pulses, repeating infinitely.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "DNA pulsar",
+      "human pattern",
+      "cosmic match",
+      "genetic signal",
+      "stellar code"
+    ],
+    "overlap_check_hash": "fc0bce4d6ff8077c",
+    "why_this_can_go_viral": "The implication that the universe might contain our genetic blueprint is both beautiful and terrifying—perfect for deep-thinker virality."
+  },
+  {
+    "unique_id": "cosmic_0137_021_51ca49ca03a73240",
+    "title": "The Classified Soviet Space Station That Fell With a Secret Cargo",
+    "hook": "Salyut 7 carried a classified payload when it burned up in 1991. Witnesses reported a green flash before impact—and the cargo was never recovered.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 55,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "Salyut 7",
+      "classified cargo",
+      "green flash",
+      "Soviet space secret",
+      "lost payload"
+    ],
+    "overlap_check_hash": "51ca49ca03a73240",
+    "why_this_can_go_viral": "A mysterious Soviet space station with an unknown cargo and a strange final flash—conspiracy gold."
+  },
+  {
+    "unique_id": "cosmic_0137_022_f2a70d7a9544af0e",
+    "title": "The Fermi Paradox Filter That's Operating Right Now—On Earth",
+    "hook": "What if the Great Filter isn't in our future or past—it's here now, and it's built into the way we use technology. We're already in the bottleneck.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "Fermi filter now",
+      "technology trap",
+      "civilization bottleneck",
+      "self-destruction",
+      "active filter"
+    ],
+    "overlap_check_hash": "f2a70d7a9544af0e",
+    "why_this_can_go_viral": "Makes the Fermi Paradox feel immediate and personal—viewers will feel like they're living through the filter."
+  },
+  {
+    "unique_id": "cosmic_0137_023_867281821c842ff4",
+    "title": "The Asteroid That's a Perfect Sphere—And It's Spinning Too Fast",
+    "hook": "Asteroid 216 Kleopatra isn't a jagged rock—it's a perfect dog-bone shape spinning so fast it should tear apart. But something is holding it together.",
+    "virality_score": 77,
+    "curiosity_gap_score": 84,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 75,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "perfect sphere asteroid",
+      "Kleopatra",
+      "spinning fast",
+      "structural anomaly",
+      "space mystery"
+    ],
+    "overlap_check_hash": "867281821c842ff4",
+    "why_this_can_go_viral": "A strangely shaped asteroid that defies physics feels like an artificial object in disguise."
+  },
+  {
+    "unique_id": "cosmic_0137_025_ededdd9487d079f2",
+    "title": "The Dark Matter String That's Tied to Earth—And It's Pulling",
+    "hook": "A filament of dark matter is connecting Earth to a region of empty space. And it's pulling us toward something that isn't there—yet.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 79,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter filament",
+      "Earth tied",
+      "cosmic pull",
+      "invisible string",
+      "void attraction"
+    ],
+    "overlap_check_hash": "ededdd9487d079f2",
+    "why_this_can_go_viral": "The idea of an invisible cosmic string pulling Earth toward an unknown destination is deeply unsettling and visually compelling."
+  }
+]

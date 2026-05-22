@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "crime_0063_001_01420c9ed4e8a241",
+    "title": "The Mob Accountant Who Buried a Billion in a Ghost City",
+    "hook": "He built an entire fake city underground to hide organized crime cash—complete with streets and streetlights.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "ghost city",
+      "mob accountant",
+      "hidden billions",
+      "underground",
+      "money laundering"
+    ],
+    "overlap_check_hash": "01420c9ed4e8a241",
+    "why_this_can_go_viral": "The visual of a fake underground city triggers extreme curiosity and disbelief."
+  },
+  {
+    "unique_id": "crime_0063_003_e9ee802d040a5c27",
+    "title": "The Cartel Chemist Who Made Cocaine Taste Like Birthday Cake",
+    "hook": "He created a flavored cocaine line to hook kids—and the cartel sold it in candy-colored packaging.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "flavored cocaine",
+      "cartel chemist",
+      "kid target",
+      "drug innovation",
+      "dark marketing"
+    ],
+    "overlap_check_hash": "e9ee802d040a5c27",
+    "why_this_can_go_viral": "Horrifying and bizarre innovation triggers outrage and morbid curiosity."
+  },
+  {
+    "unique_id": "crime_0063_004_9947e5e1143e9ed8",
+    "title": "The Heist Where Thieves Stole a Whole Street—Asphalt and All",
+    "hook": "They dug up an entire city block at night, loaded it onto trucks, and sold it to another town.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 65,
+    "educational_value": 60,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "street theft",
+      "asphalt heist",
+      "night operation",
+      "brazen crime",
+      "infrastructure theft"
+    ],
+    "overlap_check_hash": "9947e5e1143e9ed8",
+    "why_this_can_go_viral": "The absurd scale of stealing a street is both hilarious and jaw-dropping."
+  },
+  {
+    "unique_id": "crime_0063_006_82e19119e44115c7",
+    "title": "The White-Collar Criminal Who Stole $200M by Faking a Church's Tithe System",
+    "hook": "He created fake donation kiosks in megachurches—and collected millions before anyone noticed the funds went to a shell account.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "church fraud",
+      "fake tithe",
+      "megachurch",
+      "donation theft",
+      "shell account"
+    ],
+    "overlap_check_hash": "82e19119e44115c7",
+    "why_this_can_go_viral": "Combining faith, deception, and massive scale taps into outrage and schadenfreude."
+  },
+  {
+    "unique_id": "crime_0063_007_05962eac196878e6",
+    "title": "The Criminal Mastermind Who Faked a Prison Break—to Get Inside",
+    "hook": "He wanted to kill a rival witness in protective custody, so he staged a breakout as a new inmate.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake prison break",
+      "infiltration",
+      "hitman",
+      "protective custody",
+      "mastermind"
+    ],
+    "overlap_check_hash": "05962eac196878e6",
+    "why_this_can_go_viral": "The reverse logic of breaking into prison is a narrative twist that explodes curiosity."
+  },
+  {
+    "unique_id": "crime_0063_009_0e91a14b1e2c3561",
+    "title": "The Mob That Used a Baby Stroller Factory to Smuggle Guns",
+    "hook": "They hid rifles inside hollowed-out stroller frames—shipped thousands to war zones without a single inspection.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 55,
+    "estimated_short_retention": 79,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "gun smuggling",
+      "baby stroller",
+      "hidden weapons",
+      "mob operation",
+      "war zones"
+    ],
+    "overlap_check_hash": "0e91a14b1e2c3561",
+    "why_this_can_go_viral": "The innocent facade of baby products hiding deadly cargo is powerfully ironic and shocking."
+  },
+  {
+    "unique_id": "crime_0063_010_e68a649266653593",
+    "title": "The Unsolved Murder Where the Victim's Corpse Was Found Smiling",
+    "hook": "Rigor mortis had set her face into a grin—but the cause of death was a single needle prick behind the ear.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 40,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "smiling corpse",
+      "needle murder",
+      "unknown toxin",
+      "bizarre death",
+      "mystery"
+    ],
+    "overlap_check_hash": "e68a649266653593",
+    "why_this_can_go_viral": "The creepy image of a smiling dead body with no visible wounds is deeply unsettling and shareable."
+  },
+  {
+    "unique_id": "crime_0063_011_11977349c2826a4c",
+    "title": "The Cartel That Ran a Beauty Pageant to Launder Drug Money",
+    "hook": "They sponsored an entire Miss State pageant—winners got cars, cash, and a job transporting cocaine in their crowns.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "beauty pageant",
+      "cartel laundering",
+      "drug mules",
+      "crown smuggling",
+      "hidden crime"
+    ],
+    "overlap_check_hash": "11977349c2826a4c",
+    "why_this_can_go_viral": "The glamour-grime contrast is irresistible clickbait and generates strong emotional reactions."
+  },
+  {
+    "unique_id": "crime_0063_012_1a09dc1f5fe77d8c",
+    "title": "The Heist Where Thieves Stole a Jumbo Jet—by Filing Fake Paperwork",
+    "hook": "They forged ownership documents, walked into the airport, and flew away in a $50 million cargo plane.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "jet theft",
+      "fake paperwork",
+      "airport heist",
+      "cargo plane",
+      "brazen"
+    ],
+    "overlap_check_hash": "1a09dc1f5fe77d8c",
+    "why_this_can_go_viral": "The sheer simplicity of stealing a plane with only documents feels like a real-life Ocean's Eleven."
+  },
+  {
+    "unique_id": "crime_0063_014_14af3550b2834532",
+    "title": "The White-Collar Criminal Who Stole $150M by Faking a City's Dog License System",
+    "hook": "He set up fake pet registration websites, copied city logos, and pocketed every fee for years.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 68,
+    "educational_value": 60,
+    "estimated_short_retention": 74,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "dog license scam",
+      "city fraud",
+      "fake website",
+      "pet registration",
+      "theft"
+    ],
+    "overlap_check_hash": "14af3550b2834532",
+    "why_this_can_go_viral": "The banality of dog licenses as a million-dollar scam is darkly humorous and relatable."
+  },
+  {
+    "unique_id": "crime_0063_015_2de20790098e9c4c",
+    "title": "The Criminal Mastermind Who Faked a Private Island to Sell Diplomatic Passports",
+    "hook": "He created a fake nation, built a mock embassy, and sold immunity for $500,000 a pop to criminals on the run.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake country",
+      "diplomatic passport",
+      "immunity scam",
+      "private island",
+      "mastermind"
+    ],
+    "overlap_check_hash": "2de20790098e9c4c",
+    "why_this_can_go_viral": "The audacity of selling fake sovereignty taps into fantasy and real-world intrigue."
+  },
+  {
+    "unique_id": "crime_0063_016_49b09fd39e9e20fb",
+    "title": "The Billion-Dollar Fraud That Faked a Celebrity's Entire Music Catalog",
+    "hook": "They sold the rights to songs by a dead pop star—except the star never recorded them, and the songs were AI-generated.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 72,
+    "educational_value": 65,
+    "estimated_short_retention": 81,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "AI music fraud",
+      "fake catalog",
+      "celebrity scam",
+      "rights theft",
+      "billion dollar"
+    ],
+    "overlap_check_hash": "49b09fd39e9e20fb",
+    "why_this_can_go_viral": "Combining celebrity, AI, and massive fraud creates a modern controversy that sparks debate."
+  },
+  {
+    "unique_id": "crime_0063_017_b694b8a2a8607711",
+    "title": "The Mob That Used a Funeral Parlor to Run a Car Theft Ring",
+    "hook": "They stole luxury cars, repainted them at the funeral home, and drove them out inside hearses—past the police.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 55,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "funeral home theft",
+      "hearse smuggling",
+      "car ring",
+      "mob operation",
+      "hidden garage"
+    ],
+    "overlap_check_hash": "b694b8a2a8607711",
+    "why_this_can_go_viral": "The macabre setting of a funeral home for car theft is visually and conceptually compelling."
+  },
+  {
+    "unique_id": "crime_0063_018_c29f3e0485c31474",
+    "title": "The Unsolved Murder Where the Killer Sent a Birthday Card Every Year—After the Victim Died",
+    "hook": "For 10 years, the victim's family received a birthday card signed 'Love, Mom'—but she was dead. Police never found the sender.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 96,
+    "educational_value": 40,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "birthday cards",
+      "dead mother",
+      "psychological terror",
+      "unsolved",
+      "stalking"
+    ],
+    "overlap_check_hash": "c29f3e0485c31474",
+    "why_this_can_go_viral": "The emotional and creepy combination of love and death creates a deeply shareable mystery."
+  },
+  {
+    "unique_id": "crime_0063_019_d6f7d53efccce317",
+    "title": "The Cartel That Used a Pigeon Racing Co-op to Send Drug Coordinates",
+    "hook": "They trained homing pigeons to fly drug routes—GPS tags on the birds led cops to a million-dollar stash in the desert.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 68,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "pigeon smuggling",
+      "drug coordinates",
+      "homing birds",
+      "cartel tech",
+      "GPS tracking"
+    ],
+    "overlap_check_hash": "d6f7d53efccce317",
+    "why_this_can_go_viral": "The old-school animal method mixed with modern GPS is a fascinating twist on drug trade."
+  },
+  {
+    "unique_id": "crime_0063_020_c49e50e1cda1c916",
+    "title": "The Heist Where Thieves Stole a Statue by Replacing It With a 3D-Printed Copy—Mid-Exhibition",
+    "hook": "They swapped a 500-year-old marble statue with a resin replica during a 15-minute security gap—nobody noticed for 6 months.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 71,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "statue swap",
+      "3D printed",
+      "art heist",
+      "museum theft",
+      "replica"
+    ],
+    "overlap_check_hash": "c49e50e1cda1c916",
+    "why_this_can_go_viral": "The combination of technology, art, and stealth in a museum setting is a modern heist fantasy."
+  },
+  {
+    "unique_id": "crime_0063_021_a99a2a51fce61138",
+    "title": "The Serial Killer Who Left a Single Puzzle Piece on Every Body—and It Fit Together",
+    "hook": "Detectives collected 12 pieces over 12 murders. When assembled, they formed a map to the killer's own house.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 93,
+    "educational_value": 50,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "puzzle piece killer",
+      "map to house",
+      "serial taunt",
+      "grisly clue",
+      "unsolved"
+    ],
+    "overlap_check_hash": "a99a2a51fce61138",
+    "why_this_can_go_viral": "The puzzle narrative is a perfect story arc—each piece adds suspense and drives shares."
+  },
+  {
+    "unique_id": "crime_0063_022_6994083e8dea1905",
+    "title": "The White-Collar Criminal Who Stole $400M by Faking a Subway Token Machine Empire",
+    "hook": "He installed fake metro card machines in 12 cities—each one skimmed real cards and sent cash to his offshore account.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 72,
+    "educational_value": 65,
+    "estimated_short_retention": 76,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "fake metro machines",
+      "skimming",
+      "transit fraud",
+      "token scam",
+      "offshore"
+    ],
+    "overlap_check_hash": "6994083e8dea1905",
+    "why_this_can_go_viral": "A scam targeting everyday commuters is relatable and the scale is shocking."
+  },
+  {
+    "unique_id": "crime_0063_023_0cc26db6cb00e28c",
+    "title": "The Criminal Mastermind Who Stole a Billion by Faking a Country's Internet Domain",
+    "hook": "He bought a misspelled version of a nation's .gov domain and redirected all citizen tax payments to himself for 3 years.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 83,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "domain scam",
+      "tax theft",
+      "government fraud",
+      "misspelled URL",
+      "billion dollar"
+    ],
+    "overlap_check_hash": "0cc26db6cb00e28c",
+    "why_this_can_go_viral": "The simplicity and elegance of the scam, plus government failure, fuels outrage and awe."
+  },
+  {
+    "unique_id": "crime_0063_024_0e36f20cefed35b7",
+    "title": "The Unsolved Murder Where the Victim's Last Call Was to Their Own Voicemail—and It Answered",
+    "hook": "The victim called their own number from a payphone. Someone picked up—and the recording was 30 seconds of screaming.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 97,
+    "educational_value": 35,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "voicemail murder",
+      "self call",
+      "screaming",
+      "payphone",
+      "chilling evidence"
+    ],
+    "overlap_check_hash": "0e36f20cefed35b7",
+    "why_this_can_go_viral": "The chilling audio detail and impossible scenario (calling yourself) creates a viral mystery."
+  },
+  {
+    "unique_id": "crime_0063_025_238401fd585a047e",
+    "title": "The Cartel That Used a Hot Air Balloon Festival to Drop Drugs Over the Border",
+    "hook": "They launched balloons from Mexico with GPS-guided parachutes—cocaine landed in Arizona fields like festive deliveries.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 81,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "hot air balloon",
+      "drug drop",
+      "cartel tech",
+      "border smuggling",
+      "aerial"
+    ],
+    "overlap_check_hash": "238401fd585a047e",
+    "why_this_can_go_viral": "The colorful, seemingly innocent festival image turned sinister is a visual shock."
+  }
+]

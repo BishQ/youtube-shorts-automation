@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "science_0156_004_8e0437bd68a1823a",
+    "title": "The Biolab That Created a Fungus That Hunts Ants—and Turned Into a Mega-Organism",
+    "hook": "A lab studying parasitic fungi accidentally triggered a colony-wide network, where millions of fungal threads began acting as a single intelligent entity.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 86,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "zombie fungus",
+      "network intelligence",
+      "mycelium",
+      "lab escape",
+      "nature horror"
+    ],
+    "overlap_check_hash": "8e0437bd68a1823a",
+    "why_this_can_go_viral": "Tap into fear of fungal intelligence and 'the blob'—highly shareable horror concept."
+  },
+  {
+    "unique_id": "science_0156_005_baf2a10efd495ddf",
+    "title": "The Physicist Who Proved That Empty Space Contains Infinite Energy—and Shut It Down",
+    "hook": "A physicist calculated that a vacuum could theoretically power the planet forever, but the experiment was abruptly classified—and he never spoke of it again.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 74,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "zero-point energy",
+      "vacuum energy",
+      "suppressed science",
+      "classified physics",
+      "free energy"
+    ],
+    "overlap_check_hash": "baf2a10efd495ddf",
+    "why_this_can_go_viral": "Conspiracy fuel—viewers love 'the energy they don't want you to have' narratives."
+  },
+  {
+    "unique_id": "science_0156_007_8ee281aeaa16523c",
+    "title": "The Scientific Fraud Who Faked a 'Martian Soil' Study—and Fooled NASA",
+    "hook": "A researcher claimed to have found life in simulated Martian soil, but it was just a hoax using earthly bacteria—and the discovery went viral before anyone checked.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 72,
+    "educational_value": 80,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "Mars hoax",
+      "fake life",
+      "NASA scandal",
+      "pseudoscience",
+      "publication fraud"
+    ],
+    "overlap_check_hash": "8ee281aeaa16523c",
+    "why_this_can_go_viral": "Outrage at deception plus alien life excitement—emotionally charged share bait."
+  },
+  {
+    "unique_id": "science_0156_009_b2eb60e447fdf9bd",
+    "title": "The Biologist Who Discovered That Cells Can 'Scream'—and Refuse to Die",
+    "hook": "When damaged, human cells emit chemical signals so intense that nearby cells panic and self-destruct—a wave of death that spreads like a cry for help.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 88,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "cell death",
+      "apoptosis",
+      "chemical signaling",
+      "bystander effect",
+      "cellular panic"
+    ],
+    "overlap_check_hash": "b2eb60e447fdf9bd",
+    "why_this_can_go_viral": "Personification of cells as screaming beings—creates creepy mental imagery."
+  },
+  {
+    "unique_id": "science_0156_011_44604890b32ab388",
+    "title": "The Lab Catastrophe Where a Scientist Was Sprayed With a Neurotoxin—and Became a Human Lab Rat",
+    "hook": "A lab technician inhaled trace amounts of a paralytic agent and spent 6 months in a hospital, fully conscious but unable to move a single muscle.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "neurotoxin",
+      "locked-in",
+      "lab accident",
+      "paralysis",
+      "chemical horror"
+    ],
+    "overlap_check_hash": "44604890b32ab388",
+    "why_this_can_go_viral": "Terrifying 'buried alive' scenario—high emotional impact and empathy-driven shares."
+  },
+  {
+    "unique_id": "science_0156_012_7428d864ef6b00fc",
+    "title": "The Forbidden Experiment Where a Scientist Raised a Chimp as a Human—and the Chimp Never Forgot",
+    "hook": "A psychologist raised a chimpanzee as a human child for 9 months, then returned it to a zoo—the chimp later recognized him and showed signs of depression for years.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 84,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "chimp humanization",
+      "animal psychology",
+      "cruel experiments",
+      "cross-fostering",
+      "trauma"
+    ],
+    "overlap_check_hash": "7428d864ef6b00fc",
+    "why_this_can_go_viral": "Emotional gut punch—animal suffering mixed with scientific hubris generates strong reactions."
+  },
+  {
+    "unique_id": "science_0156_013_b64c0c38ebff79b7",
+    "title": "The Neuroscientist Who Built a Machine That Reads Dreams—and Played Them Back",
+    "hook": "Using fMRI and AI, a team reconstructed visual images from sleeping subjects' brains—including nightmares that the researchers couldn't unsee.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 81,
+    "educational_value": 82,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "dream recording",
+      "mind reading",
+      "fMRI",
+      "nightmare visualization",
+      "brain decoding"
+    ],
+    "overlap_check_hash": "b64c0c38ebff79b7",
+    "why_this_can_go_viral": "Privacy violation meets sci-fi—everyone wants to know what their dreams look like on screen."
+  },
+  {
+    "unique_id": "science_0156_016_0156b0ea2ad1d8d5",
+    "title": "The Physicist Who Caused a Temporal Anomaly in a Lab—and Watched Time Stutter",
+    "hook": "An experiment with ultra-cold atoms created a time loop lasting 2 milliseconds, where the same series of events repeated itself 100 times.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 72,
+    "educational_value": 84,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time loop",
+      "quantum time",
+      "atom experiment",
+      "temporal anomaly",
+      "causality violation"
+    ],
+    "overlap_check_hash": "0156b0ea2ad1d8d5",
+    "why_this_can_go_viral": "Time travel in real life—hooks sci-fi fans and generates endless speculation."
+  },
+  {
+    "unique_id": "science_0156_017_8aadf17c5c0f02bb",
+    "title": "The Scientific Fraud Who Published a Paper on 'Animal Telepathy'—and Got Away With It",
+    "hook": "A professor submitted a completely fabricated study claiming dogs could read their owners' thoughts, and it passed peer review—published in a major journal.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 70,
+    "educational_value": 79,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fake study",
+      "animal telepathy",
+      "peer review failure",
+      "academic fraud",
+      "pseudoscience"
+    ],
+    "overlap_check_hash": "8aadf17c5c0f02bb",
+    "why_this_can_go_viral": "Outrage at broken science plus absurd premise—skeptics and animal lovers both engage."
+  },
+  {
+    "unique_id": "science_0156_018_35ba8df3de6e30e6",
+    "title": "The Lab Catastrophe Where a Scientist Was Crushed by a Magnetic Field—and Survived",
+    "hook": "A physicist got caught between two powerful magnets that slammed together with his arm inside, crushing bone to powder—but the field kept him alive until rescue.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 84,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "magnet accident",
+      "crushing injury",
+      "MRI disaster",
+      "physics lab",
+      "survival story"
+    ],
+    "overlap_check_hash": "35ba8df3de6e30e6",
+    "why_this_can_go_viral": "Visceral and shocking—viewers wince and share out of morbid curiosity."
+  },
+  {
+    "unique_id": "science_0156_019_2defc88e588fa4fa",
+    "title": "The Quantum Paradox Where a Particle Existed in Two Universes—and Proved Both Real",
+    "hook": "A quantum experiment split a particle into a superposition state that interacted with itself across parallel realities, leaving evidence from both sides.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 73,
+    "educational_value": 86,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "multiverse proof",
+      "quantum superposition",
+      "parallel realities",
+      "interference",
+      "quantum experiment"
+    ],
+    "overlap_check_hash": "2defc88e588fa4fa",
+    "why_this_can_go_viral": "Mind-bending concept that feels like sci-fi confirmation—sparks debate and wonder."
+  },
+  {
+    "unique_id": "science_0156_020_c131aaf8a9ab44a6",
+    "title": "The Neuroscientist Who Gave a Patient Alien Hand Syndrome—by Accident",
+    "hook": "A routine brain surgery to stop seizures severed the corpus callosum—now the patient's left hand attacks his right hand, and he can't stop it.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 82,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "alien hand",
+      "split brain",
+      "surgical accident",
+      "loss of control",
+      "neurological disorder"
+    ],
+    "overlap_check_hash": "c131aaf8a9ab44a6",
+    "why_this_can_go_viral": "Bizarre and horrifying—'hand fights itself' is irresistible clickbait."
+  },
+  {
+    "unique_id": "science_0156_021_edaf03409619a668",
+    "title": "The Chemist Who Invented a Plastic That Never Decomposes—and It's Everywhere",
+    "hook": "A scientist created a polymer so stable that it resists all known forms of degradation, including UV, heat, and microbes—now it's in the water and the air.",
+    "virality_score": 87,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 90,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "forever plastic",
+      "non-degradable",
+      "environmental disaster",
+      "polymer horror",
+      "chemical legacy"
+    ],
+    "overlap_check_hash": "edaf03409619a668",
+    "why_this_can_go_viral": "Eco-anxiety fuel—'we made something that will outlast humanity' is deeply viral."
+  },
+  {
+    "unique_id": "science_0156_022_7124fcc45c1187c6",
+    "title": "The Biolab That Engineered a Mosquito That Cannot Stop Biting",
+    "hook": "A genetic modification removed the 'fullness' signal from mosquitoes, causing them to keep feeding until they explode—but not before spreading disease.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "genetic modification",
+      "mosquito",
+      "overfeeding",
+      "bioengineering",
+      "pest horror"
+    ],
+    "overlap_check_hash": "7124fcc45c1187c6",
+    "why_this_can_go_viral": "Disgusting and alarming—viewers love 'scientists create something worse' stories."
+  },
+  {
+    "unique_id": "science_0156_023_ecbab06c00d452f6",
+    "title": "The Physicist Who Built a Device That Captures Sound From the Past—and Heard Voices",
+    "hook": "Using a superconducting quantum interface, a researcher claimed to recover audio waves imprinted on ancient glass—they heard whispers from centuries ago.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 79,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "sound recovery",
+      "quantum audio",
+      "time capsule",
+      "acoustic archaeology",
+      "past voices"
+    ],
+    "overlap_check_hash": "ecbab06c00d452f6",
+    "why_this_can_go_viral": "Haunting concept—'technology that hears ghosts' bridges science and the paranormal."
+  },
+  {
+    "unique_id": "science_0156_024_7fffcab9fe24ba13",
+    "title": "The Scientific Fraud Who Faked a 'Climate Cure' Study—and Investors Lost Billions",
+    "hook": "A paper claimed a simple chemical could reverse global warming, sparking a billion-dollar investment spree—until it was revealed as complete fabrication.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 76,
+    "educational_value": 81,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "climate hoax",
+      "investment fraud",
+      "fake research",
+      "global warming scam",
+      "financial collapse"
+    ],
+    "overlap_check_hash": "7fffcab9fe24ba13",
+    "why_this_can_go_viral": "Righteous anger plus financial disaster—stories of greed and deception always perform."
+  }
+]

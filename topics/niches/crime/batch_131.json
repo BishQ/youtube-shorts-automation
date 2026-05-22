@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "crime_0131_001_99002b03408d39c8",
+    "title": "The Heist Where Thieves Stole a Skyscraper's Identity—and Rented It Out",
+    "hook": "They didn't steal gold or data—they stole the building's entire legal identity and leased it to a Fortune 500 company for three years.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "building identity theft",
+      "corporate impersonation",
+      "real estate heist",
+      "skyscraper fraud",
+      "Fortune 500 scam"
+    ],
+    "overlap_check_hash": "99002b03408d39c8",
+    "why_this_can_go_viral": "The sheer audacity of stealing an entire building's identity is mind-blowing; viewers will watch to the end to understand the logistics."
+  },
+  {
+    "unique_id": "crime_0131_002_e45f6ee561bd293d",
+    "title": "The Serial Killer Who Only Hunted on Days With a 'Y' in the Name",
+    "hook": "He kept a calendar with half the days crossed out—and every murder was committed only on 'Y-days', leaving FBI baffled for years.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 55,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "Y-day killer",
+      "calendar murders",
+      "pattern obsession",
+      "FBI puzzle",
+      "date-obsessed serial killer"
+    ],
+    "overlap_check_hash": "e45f6ee561bd293d",
+    "why_this_can_go_viral": "The bizarre, almost arbitrary rule triggers pattern-seeking curiosity; viewers will argue in comments trying to decode the meaning."
+  },
+  {
+    "unique_id": "crime_0131_003_af3e975b1f9a15f3",
+    "title": "The Criminal Mastermind Who Ran a Fake Police Station—for 12 Years",
+    "hook": "He built a replica police precinct, hired actors as officers, and used it to confiscate drugs from real dealers—then resold them himself.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake police station",
+      "impersonation crime",
+      "drug empire",
+      "undercover police scam",
+      "12-year operation"
+    ],
+    "overlap_check_hash": "af3e975b1f9a15f3",
+    "why_this_can_go_viral": "The concept of a fake police station is so surreal that viewers will share it as 'can you believe this?' content."
+  },
+  {
+    "unique_id": "crime_0131_004_d7b3109987bff2db",
+    "title": "The Unsolved Murder Where the Victim's Wallet Contained a Map to Nowhere",
+    "hook": "Inside the wallet was a hand-drawn map with a single X—but the coordinates led to a spot in the middle of a frozen lake with no body.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 82,
+    "educational_value": 50,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "map to nowhere",
+      "frozen lake mystery",
+      "unsolved death",
+      "cryptic clue",
+      "X marks the spot"
+    ],
+    "overlap_check_hash": "d7b3109987bff2db",
+    "why_this_can_go_viral": "The map creates a mystery-within-a-mystery; viewers will speculate wildly in the comments about hidden treasure or a second victim."
+  },
+  {
+    "unique_id": "crime_0131_005_2ed55ada47915a5b",
+    "title": "The Cartel That Used a 'Vanishing Car Wash'—to Disappear Bodies",
+    "hook": "Drive in a car with a body in the trunk, drive out with just the car—and the chemicals used were stronger than anything police had ever seen.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "vanishing car wash",
+      "chemical disposal",
+      "cartel body disappearance",
+      "industrial acid",
+      "hidden crime scene"
+    ],
+    "overlap_check_hash": "2ed55ada47915a5b",
+    "why_this_can_go_viral": "The 'innocent business covering horror' trope is viral gold—viewers will compare it to Breaking Bad."
+  },
+  {
+    "unique_id": "crime_0131_006_466e57c65a8cb7aa",
+    "title": "The Billion-Dollar Fraud That Sold 'Cloud Mining'—With No Clouds",
+    "hook": "Thousands invested in a 'virtual cryptocurrency mine' that didn't exist—the servers were just blinking lights in a rented garage.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 72,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "cloud mining scam",
+      "fake crypto mine",
+      "virtual servers",
+      "investment fraud",
+      "garage operation"
+    ],
+    "overlap_check_hash": "466e57c65a8cb7aa",
+    "why_this_can_go_viral": "The simplicity of the scam is shocking; crypto investors will share it as a cautionary tale."
+  },
+  {
+    "unique_id": "crime_0131_007_7d9e4c2200eee9a6",
+    "title": "The Mob That Controlled a City's Parking Enforcement—to Trap Victims",
+    "hook": "They bribed parking officers to place fake tickets on targets' cars—so they'd come back at night to find a hitman waiting.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 55,
+    "estimated_short_retention": 79,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "parking ticket trap",
+      "mob hit strategy",
+      "city infiltration",
+      "bribery scheme",
+      "urban crime"
+    ],
+    "overlap_check_hash": "7d9e4c2200eee9a6",
+    "why_this_can_go_viral": "The everyday parking ticket becomes a weapon; viewers will never look at a ticket the same way."
+  },
+  {
+    "unique_id": "crime_0131_010_09046347fa15a64e",
+    "title": "The Serial Killer Who Used 'Lullabies'—to Lure Victims to Sleep",
+    "hook": "He played custom-recorded lullabies through windows at night, and when the victims fell into a deep sleep, he entered unseen.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 50,
+    "estimated_short_retention": 81,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "lullaby killer",
+      "sleep luring",
+      "audio manipulation",
+      "psychological horror",
+      "nighttime murders"
+    ],
+    "overlap_check_hash": "09046347fa15a64e",
+    "why_this_can_go_viral": "The lullaby weapon is deeply unsettling; viewers will share it as 'new fear unlocked' content."
+  },
+  {
+    "unique_id": "crime_0131_011_faed93c1418030f0",
+    "title": "The Criminal Mastermind Who Faked a 'Time Capsule'—to Hide $50 Million",
+    "hook": "He buried a fake time capsule with a GPS tracker, then sold 'treasure maps' to tourists while using the site as a drop for drug money.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "time capsule scam",
+      "money laundering",
+      "treasure map fraud",
+      "GPS tracker",
+      "drug money drop"
+    ],
+    "overlap_check_hash": "faed93c1418030f0",
+    "why_this_can_go_viral": "The mix of treasure hunting and crime will appeal to adventure fans; the betrayal angle drives engagement."
+  },
+  {
+    "unique_id": "crime_0131_013_2e05eb769d78c1d4",
+    "title": "The Cartel That Used a 'Bubblegum Factory'—to Transport Heroin in Chewable Form",
+    "hook": "They figured out how to chemically bind heroin into bubblegum—border dogs couldn't smell it, and kids could chew it without knowing.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "heroin bubblegum",
+      "cartel chemistry",
+      "drug concealment",
+      "border smuggling",
+      "chewable drug"
+    ],
+    "overlap_check_hash": "2e05eb769d78c1d4",
+    "why_this_can_go_viral": "The 'bubblegum heroin' angle is shocking and relatable; parents will share it as a warning."
+  },
+  {
+    "unique_id": "crime_0131_014_3ae14aaac8c32c5d",
+    "title": "The Billion-Dollar Fraud That Sold 'Invisible Paint'—to Military Fakes",
+    "hook": "A company sold 'stealth paint' to governments for millions—it was just gray house paint with a fake patent number.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 70,
+    "educational_value": 68,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "invisible paint scam",
+      "stealth paint fraud",
+      "military con",
+      "fake patent",
+      "gray paint scheme"
+    ],
+    "overlap_check_hash": "3ae14aaac8c32c5d",
+    "why_this_can_go_viral": "The absurd simplicity of the scam will anger and entertain viewers; 'how did nobody check?' comments will flood."
+  },
+  {
+    "unique_id": "crime_0131_015_1c8f9dbf3e6ca107",
+    "title": "The Mob That Controlled a City's 'Fire Alarms'—to Create Distractions for Hits",
+    "hook": "They bribed fire inspectors to trigger alarms at specific addresses, ensuring police and fire crews were miles away when the victim was killed.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 60,
+    "estimated_short_retention": 81,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "fire alarm manipulation",
+      "mob distraction",
+      "hit coordination",
+      "city infiltration",
+      "emergency services abuse"
+    ],
+    "overlap_check_hash": "1c8f9dbf3e6ca107",
+    "why_this_can_go_viral": "The idea of weaponizing emergency alerts is terrifyingly clever; viewers will see alarms differently."
+  },
+  {
+    "unique_id": "crime_0131_016_f70214ec89e90b7a",
+    "title": "The White-Collar Criminal Who Stole a University's 'Credits'—by Graduating Ghost Students",
+    "hook": "He enrolled 200 fake students, collected their tuition subsidies, and 'graduated' them with degrees that never existed.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 68,
+    "educational_value": 72,
+    "estimated_short_retention": 76,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "ghost students fraud",
+      "university scam",
+      "fake degrees",
+      "tuition subsidy theft",
+      "education corruption"
+    ],
+    "overlap_check_hash": "f70214ec89e90b7a",
+    "why_this_can_go_viral": "College students and alumni will find the scam both infuriating and fascinating; it exposes systemic flaws."
+  },
+  {
+    "unique_id": "crime_0131_017_595f0dee2207bc10",
+    "title": "The Heist Where Thieves Stole a Casino's 'Luck'—by Replacing Dice With Magnets",
+    "hook": "They swapped out every die in the craps pit with magnetized replicas, controlling every roll for three days before anyone noticed.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 65,
+    "educational_value": 62,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "magnetized dice heist",
+      "casino scam",
+      "craps manipulation",
+      "gambling fraud",
+      "dice swap"
+    ],
+    "overlap_check_hash": "595f0dee2207bc10",
+    "why_this_can_go_viral": "The mechanic is simple enough to understand but audacious enough to amaze; gamblers will obsess over the details."
+  },
+  {
+    "unique_id": "crime_0131_018_04a50ec21354d48b",
+    "title": "The Serial Killer Who Chose Victims by 'Birth Order'—and Only Killed Firstborns",
+    "hook": "He targeted only firstborn children, leaving a chilling note: 'Every family needs a second chance.'",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 50,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "firstborn killer",
+      "birth order selection",
+      "serial killer pattern",
+      "family trauma",
+      "psychological profiling"
+    ],
+    "overlap_check_hash": "04a50ec21354d48b",
+    "why_this_can_go_viral": "The rule taps into primal fears about family and birth order; viewers will check if they're firstborns."
+  },
+  {
+    "unique_id": "crime_0131_019_0f7e7751c000ce90",
+    "title": "The Criminal Mastermind Who Faked a 'Celebrity Chef'—to Launder Drug Money Through Restaurants",
+    "hook": "He created a fake celebrity chef persona, opened 50 restaurants that served frozen food—and washed $200 million through 'Michelin-star' menus.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 72,
+    "educational_value": 68,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake chef scam",
+      "restaurant money laundering",
+      "celebrity impersonation",
+      "drug money washing",
+      "frozen food fraud"
+    ],
+    "overlap_check_hash": "0f7e7751c000ce90",
+    "why_this_can_go_viral": "Food and crime intersect perfectly; viewers will be shocked at how easy it was to fake culinary fame."
+  },
+  {
+    "unique_id": "crime_0131_022_1ecfd152f4fd35cc",
+    "title": "The Billion-Dollar Fraud That Sold 'Pet Cloning'—With Freezer-Burned DNA",
+    "hook": "A company charged $100,000 to clone dead pets—but they just froze the original pet's tissue and claimed 'cloning failed' if asked for proof.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 74,
+    "educational_value": 60,
+    "estimated_short_retention": 79,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "pet cloning scam",
+      "fake cloning",
+      "grieving owners fraud",
+      "DNA theft",
+      "freezer scam"
+    ],
+    "overlap_check_hash": "1ecfd152f4fd35cc",
+    "why_this_can_go_viral": "Pet lovers will be outraged; the emotional manipulation makes it highly shareable."
+  },
+  {
+    "unique_id": "crime_0131_023_a345ec04648a4144",
+    "title": "The Mob That Controlled a City's 'Bouquet Delivery'—to Send Threats in Flowers",
+    "hook": "They owned the only flower shop in town—and every bouquet came with a hidden message: red roses meant 'pay up', white lilies meant 'next target'.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 76,
+    "educational_value": 55,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "flower threat system",
+      "mob code",
+      "bouquet messages",
+      "hidden threats",
+      "floral crime"
+    ],
+    "overlap_check_hash": "a345ec04648a4144",
+    "why_this_can_go_viral": "The classic 'flowers as code' trope feels cinematic; viewers will romanticize the darkness."
+  },
+  {
+    "unique_id": "crime_0131_024_489851109087bd32",
+    "title": "The White-Collar Criminal Who Stole a State's 'Holidays'—by Patenting the Date",
+    "hook": "He patented the names of official state holidays, then charged towns licensing fees to use 'Fourth of July' or 'Thanksgiving' in government documents.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 72,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "holiday patent scam",
+      "date licensing",
+      "state holiday fraud",
+      "intellectual property abuse",
+      "government extortion"
+    ],
+    "overlap_check_hash": "489851109087bd32",
+    "why_this_can_go_viral": "The idea of patenting holidays is both ridiculous and infuriating; patriotic viewers will share it."
+  },
+  {
+    "unique_id": "crime_0131_025_fb295fc0e71e855c",
+    "title": "The Heist Where Thieves Stole a 'Subway Tunnel'—and Rented It to Film Crews",
+    "hook": "They dug a secret entrance, seized a disused subway tunnel, and rented it out as a movie set for 5 years before the city noticed it was missing.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 68,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "subway tunnel theft",
+      "movie set scam",
+      "underground heist",
+      "city infrastructure crime",
+      "secret rental"
+    ],
+    "overlap_check_hash": "fb295fc0e71e855c",
+    "why_this_can_go_viral": "The sheer scale and audacity will blow minds; film fans and city planners alike will share it."
+  }
+]

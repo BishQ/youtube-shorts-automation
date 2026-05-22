@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "survival_0086_001_b63b010b1013a5de",
+    "title": "The Castaway Who Drank His Own Tears for 40 Days",
+    "hook": "He was stranded on a lifeless rock with no fresh water, so he turned his own grief into hydration.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 83,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "castaway",
+      "tears",
+      "dehydration",
+      "stranded",
+      "rock island"
+    ],
+    "overlap_check_hash": "b63b010b1013a5de",
+    "why_this_can_go_viral": "The concept of drinking your own tears is viscerally strange and emotionally resonant, making viewers question if it's possible."
+  },
+  {
+    "unique_id": "survival_0086_003_e97e414f666ac87e",
+    "title": "The Hiker Who Was Impaled by a Tree and Walked for 3 Days",
+    "hook": "A branch went through his torso, but his brain refused to let him die.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "survival",
+    "subcategory": "near-death escape stories",
+    "keywords": [
+      "impaled",
+      "hiker",
+      "tree",
+      "survival",
+      "walked"
+    ],
+    "overlap_check_hash": "e97e414f666ac87e",
+    "why_this_can_go_viral": "The sheer shock of surviving an impalement combined with a long walk creates a 'how is this possible' reaction."
+  },
+  {
+    "unique_id": "survival_0086_004_5280ebc92d183e5f",
+    "title": "The Group That Got Trapped in a Cave and Began to Eat the Bats",
+    "hook": "The bats were full of disease, but hunger erased their fear of infection.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 79,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "cave",
+      "bats",
+      "cannibalism",
+      "trapped",
+      "disease"
+    ],
+    "overlap_check_hash": "5280ebc92d183e5f",
+    "why_this_can_go_viral": "The primal disgust of eating raw bats and the psychological decay of a group stuck in darkness is compelling."
+  },
+  {
+    "unique_id": "survival_0086_005_c0601dde524ad5fb",
+    "title": "The Shipwrecked Man Who Was Rescued by a Whale and Then Abandoned",
+    "hook": "The whale pushed him toward land, then vanished, leaving him alone again.",
+    "virality_score": 79,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 50,
+    "estimated_short_retention": 77,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "whale",
+      "rescue",
+      "abandoned",
+      "shipwreck",
+      "ocean"
+    ],
+    "overlap_check_hash": "c0601dde524ad5fb",
+    "why_this_can_go_viral": "Animal assistance stories are emotional and shareable, and the twist of abandonment adds cruel irony."
+  },
+  {
+    "unique_id": "survival_0086_006_cecee8e9297a29a1",
+    "title": "The Diver Who Lost His Memory Under 200 Feet of Water",
+    "hook": "He forgot who he was, where the surface was, and how to breathe.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "diver",
+      "memory loss",
+      "nitrogen narcosis",
+      "underwater",
+      "panic"
+    ],
+    "overlap_check_hash": "cecee8e9297a29a1",
+    "why_this_can_go_viral": "The idea of losing your own mind while drowning is terrifying and taps into fear of identity loss."
+  },
+  {
+    "unique_id": "survival_0086_007_1b39530aba8de482",
+    "title": "The Expedition That Froze Their Own Feet to Avoid Starvation",
+    "hook": "They cut off their toes one by one, eating them to stay alive.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "survival",
+    "subcategory": "stranded expeditions",
+    "keywords": [
+      "amputation",
+      "cannibalism",
+      "frostbite",
+      "expedition",
+      "survival"
+    ],
+    "overlap_check_hash": "1b39530aba8de482",
+    "why_this_can_go_viral": "Self-amputation and consumption is extreme and unforgettable, triggering morbid curiosity."
+  },
+  {
+    "unique_id": "survival_0086_010_7542070dcf26ad23",
+    "title": "The Group That Survived a Tsunami—and Then the Debris Became Their Prison",
+    "hook": "They floated on a roof for weeks, surrounded by bodies and broken homes.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "tsunami",
+      "debris",
+      "floating",
+      "bodies",
+      "prison"
+    ],
+    "overlap_check_hash": "7542070dcf26ad23",
+    "why_this_can_go_viral": "Post-disaster survival with psychological trauma of floating among corpses is deeply haunting."
+  },
+  {
+    "unique_id": "survival_0086_011_0eb7eac2ce0c7dc2",
+    "title": "The Shipwrecked Crew That Drank Seagull Blood and Lost Their Minds",
+    "hook": "The blood was full of salt and disease, and they began to hallucinate rescue ships.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 79,
+    "educational_value": 60,
+    "estimated_short_retention": 76,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "seagull",
+      "blood",
+      "hallucination",
+      "crew",
+      "dehydration"
+    ],
+    "overlap_check_hash": "0eb7eac2ce0c7dc2",
+    "why_this_can_go_viral": "The desperate act of drinking bird blood and the resulting madness is grotesquely fascinating."
+  },
+  {
+    "unique_id": "survival_0086_012_c6780defbeba0e85",
+    "title": "The Explorer Who Was Swallowed by Quicksand and Survived for 2 Days",
+    "hook": "Only his head was above sand, and the tide was rising.",
+    "virality_score": 83,
+    "curiosity_gap_score": 90,
+    "darkness_score": 86,
+    "educational_value": 65,
+    "estimated_short_retention": 81,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "quicksand",
+      "trapped",
+      "tide",
+      "survival",
+      "head"
+    ],
+    "overlap_check_hash": "c6780defbeba0e85",
+    "why_this_can_go_viral": "Quicksand is a classic fear, and the slow drowning aspect combined with rising water is terrifying."
+  },
+  {
+    "unique_id": "survival_0086_013_df697be1da5a78c2",
+    "title": "The Hiker Who Was Stalked by a Wolf for 5 Days Without Sleep",
+    "hook": "Every time he closed his eyes, the wolf would step closer.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 60,
+    "estimated_short_retention": 83,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "wolf",
+      "stalk",
+      "sleep deprivation",
+      "hiker",
+      "predator"
+    ],
+    "overlap_check_hash": "df697be1da5a78c2",
+    "why_this_can_go_viral": "The primal fear of being hunted relentlessly is instantly relatable and suspenseful."
+  },
+  {
+    "unique_id": "survival_0086_014_6797ab36e1fc2bd1",
+    "title": "The Diver Who Got Stuck in a Shipwreck and Ran Out of Air Twice",
+    "hook": "He breathed the last bubble of air from a dead fish's swim bladder.",
+    "virality_score": 87,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "survival",
+    "subcategory": "near-death escape stories",
+    "keywords": [
+      "shipwreck",
+      "diver",
+      "air",
+      "fish bladder",
+      "trapped"
+    ],
+    "overlap_check_hash": "6797ab36e1fc2bd1",
+    "why_this_can_go_viral": "The bizarre solution of using a fish's swim bladder for air is both disgusting and brilliant."
+  },
+  {
+    "unique_id": "survival_0086_015_57aa4e06cbefd7a8",
+    "title": "The Expedition That Drank Melted Snow and Began to Die From Hypothermia",
+    "hook": "They thought snow was safe, but it dropped their core temperature to fatal levels.",
+    "virality_score": 77,
+    "curiosity_gap_score": 80,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 74,
+    "niche_name": "survival",
+    "subcategory": "disaster psychology",
+    "keywords": [
+      "snow",
+      "hypothermia",
+      "expedition",
+      "water",
+      "cold"
+    ],
+    "overlap_check_hash": "57aa4e06cbefd7a8",
+    "why_this_can_go_viral": "The counterintuitive danger of drinking snow teaches a survival lesson while being inherently tragic."
+  },
+  {
+    "unique_id": "survival_0086_016_23abdcfc00d0a00c",
+    "title": "The Caver Who Got Trapped in a Flooded Tunnel and Swam Through Bodies",
+    "hook": "The water was rising, and the dead cavers were blocking his only exit.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 55,
+    "estimated_short_retention": 86,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "cave",
+      "flood",
+      "bodies",
+      "tunnel",
+      "swim"
+    ],
+    "overlap_check_hash": "23abdcfc00d0a00c",
+    "why_this_can_go_viral": "The combination of drowning, darkness, and dead bodies creates an almost unbearable tension."
+  },
+  {
+    "unique_id": "survival_0086_017_cd8c5c26ba0a0e7c",
+    "title": "The Shipwrecked Man Who Washed Ashore on a Glacier and Began to Freeze",
+    "hook": "He escaped the sea only to be trapped on moving ice that was drifting into the open ocean.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 60,
+    "estimated_short_retention": 77,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "glacier",
+      "shipwreck",
+      "freeze",
+      "drift",
+      "ice"
+    ],
+    "overlap_check_hash": "cd8c5c26ba0a0e7c",
+    "why_this_can_go_viral": "The irony of escaping drowning only to freeze to death on an ice raft is powerfully tragic."
+  },
+  {
+    "unique_id": "survival_0086_018_70a4000ae3517f90",
+    "title": "The Hiker Who Ate a Berry That Made His Tongue Swell Shut",
+    "hook": "He couldn't breathe, and the nearest hospital was 50 miles away.",
+    "virality_score": 75,
+    "curiosity_gap_score": 79,
+    "darkness_score": 72,
+    "educational_value": 75,
+    "estimated_short_retention": 73,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "berry",
+      "swell",
+      "tongue",
+      "allergy",
+      "hiker"
+    ],
+    "overlap_check_hash": "70a4000ae3517f90",
+    "why_this_can_go_viral": "The immediate and relatable fear of anaphylaxis in the wilderness is a powerful survival threat."
+  },
+  {
+    "unique_id": "survival_0086_019_fa1ffdaf6d6f4039",
+    "title": "The Group That Got Lost on a Lava Field and Their Shoes Melted",
+    "hook": "They had to walk on cooling magma, and their feet began to burn through their soles.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "lava",
+      "melted",
+      "shoes",
+      "feet",
+      "volcano"
+    ],
+    "overlap_check_hash": "fa1ffdaf6d6f4039",
+    "why_this_can_go_viral": "The image of walking on molten rock with burning feet is viscerally painful and visually striking."
+  },
+  {
+    "unique_id": "survival_0086_021_9f9bbe11e099b2a7",
+    "title": "The Expedition That Drank Water From a Poisonous Lake and Began to Twitch",
+    "hook": "Their muscles spasmed uncontrollably, and they couldn't stop shaking long enough to find help.",
+    "virality_score": 76,
+    "curiosity_gap_score": 81,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 74,
+    "niche_name": "survival",
+    "subcategory": "disaster psychology",
+    "keywords": [
+      "poisonous lake",
+      "twitch",
+      "spasm",
+      "expedition",
+      "water"
+    ],
+    "overlap_check_hash": "9f9bbe11e099b2a7",
+    "why_this_can_go_viral": "The slow, terrifying loss of motor control from poisoning is a unique and unsettling survival threat."
+  },
+  {
+    "unique_id": "survival_0086_022_7762f08778684798",
+    "title": "The Caver Who Got Lost in a Maze of Crystals and Was Cut to Ribbons",
+    "hook": "Every step sliced his skin, and the sharp edges glistened with his own blood.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 87,
+    "educational_value": 60,
+    "estimated_short_retention": 81,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "crystals",
+      "cave",
+      "cut",
+      "bleeding",
+      "maze"
+    ],
+    "overlap_check_hash": "7762f08778684798",
+    "why_this_can_go_viral": "The beautiful but deadly environment of sharp crystals creates a stunning visual and painful contrast."
+  },
+  {
+    "unique_id": "survival_0086_023_33c6e05a7bb18f80",
+    "title": "The Shipwrecked Crew That Began to Drink Sea Spray and Lost Their Sanity",
+    "hook": "The salt dried their brains, and they started seeing freshwater mirages everywhere.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "sea spray",
+      "salt",
+      "madness",
+      "crew",
+      "mirages"
+    ],
+    "overlap_check_hash": "33c6e05a7bb18f80",
+    "why_this_can_go_viral": "The slow descent into hallucination from salt poisoning is a classic horror of the sea."
+  },
+  {
+    "unique_id": "survival_0086_024_a811449ad6b546c1",
+    "title": "The Hiker Who Drank From a Glacial River and His Body Began to Shut Down",
+    "hook": "The water was so cold it paralyzed his stomach, and he couldn't digest anything.",
+    "virality_score": 74,
+    "curiosity_gap_score": 78,
+    "darkness_score": 73,
+    "educational_value": 72,
+    "estimated_short_retention": 72,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "glacial",
+      "river",
+      "cold",
+      "stomach",
+      "shutdown"
+    ],
+    "overlap_check_hash": "a811449ad6b546c1",
+    "why_this_can_go_viral": "The counterintuitive danger of drinking ice-cold water is a little-known survival trap."
+  },
+  {
+    "unique_id": "survival_0086_025_ce091bbd747910ce",
+    "title": "The Group That Survived an Avalanche—and Then Their Snow Cave Collapsed",
+    "hook": "They dug themselves out once, but the mountain had more to bury them with.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 84,
+    "educational_value": 65,
+    "estimated_short_retention": 79,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "avalanche",
+      "snow cave",
+      "collapse",
+      "burial",
+      "mountain"
+    ],
+    "overlap_check_hash": "ce091bbd747910ce",
+    "why_this_can_go_viral": "The repetitive horror of being buried alive again after escaping is a cruel twist that viewers will remember."
+  }
+]

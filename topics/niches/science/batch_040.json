@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "science_0040_001_000793d5fe62fe85",
+    "title": "The Scientist Who Discovered a Protein That Erases Fear Instantly",
+    "hook": "A single injection and decades of trauma vanish—but it also erased who you are.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "fear erasure",
+      "memory editing",
+      "neuroscience horror",
+      "trauma protein",
+      "identity loss"
+    ],
+    "overlap_check_hash": "000793d5fe62fe85",
+    "why_this_can_go_viral": "Taps into universal curiosity about erasing trauma while revealing the terrifying cost of losing your identity."
+  },
+  {
+    "unique_id": "science_0040_003_140db6aec31900d1",
+    "title": "The Physicist Who Proved That Your Future Self Can Kill You",
+    "hook": "A quantum experiment showed that decisions not yet made can cause death in the present.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum suicide",
+      "retrocausality",
+      "time paradox",
+      "observer effect",
+      "future death"
+    ],
+    "overlap_check_hash": "140db6aec31900d1",
+    "why_this_can_go_viral": "Unsettling blend of quantum mechanics and personal mortality that makes viewers question causality."
+  },
+  {
+    "unique_id": "science_0040_004_cfedf63435cbd3af",
+    "title": "The Lab That Grew a Human Eye That Could See",
+    "hook": "It blinked. It focused. And then it started to watch the scientists back.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "grown eye",
+      "sight in a dish",
+      "bioengineering horror",
+      "conscious organ",
+      "lab grown vision"
+    ],
+    "overlap_check_hash": "cfedf63435cbd3af",
+    "why_this_can_go_viral": "Body horror meets sci-fi reality; the idea of an organ achieving awareness is deeply unsettling."
+  },
+  {
+    "unique_id": "science_0040_005_55e75feafce660d1",
+    "title": "The Neuroscientist Who Found That Your Brain Betrays You 7 Seconds Before You Decide",
+    "hook": "Your choices aren't yours—the signal fires before you're even aware you're thinking.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "free will illusion",
+      "brain delay",
+      "unconscious decisions",
+      "neuroscience shock",
+      "predetermined mind"
+    ],
+    "overlap_check_hash": "55e75feafce660d1",
+    "why_this_can_go_viral": "Challenges the core belief in free will, triggering existential debate and sharing."
+  },
+  {
+    "unique_id": "science_0040_007_a69b433084c6060f",
+    "title": "The Researcher Who Faked a Study Showing That OCD Is Contagious",
+    "hook": "He proved that obsessive thoughts could spread like a virus—and then it started happening for real.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "OCD contagion",
+      "fake science",
+      "viral mental illness",
+      "research fraud",
+      "behavioral spread"
+    ],
+    "overlap_check_hash": "a69b433084c6060f",
+    "why_this_can_go_viral": "Blurs the line between fake and real, tapping into pandemic-era fears of invisible transmission."
+  },
+  {
+    "unique_id": "science_0040_008_0920aa8ac1628841",
+    "title": "The Physicist Who Found That Looking at a Particle Destroys the Universe",
+    "hook": "Observation doesn't just change the outcome—it may be tearing reality apart.",
+    "virality_score": 85,
+    "curiosity_gap_score": 92,
+    "darkness_score": 83,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "observer collapses reality",
+      "quantum destruction",
+      "measurement paradox",
+      "cosmic fragility",
+      "wave function death"
+    ],
+    "overlap_check_hash": "0920aa8ac1628841",
+    "why_this_can_go_viral": "Elevates the observer effect to cosmic stakes; makes viewers feel guilty about looking."
+  },
+  {
+    "unique_id": "science_0040_009_88d06945eaab2d00",
+    "title": "The Soviet Lab That Crossed a Human With a Dolphin—and It Spoke",
+    "hook": "The hybrid vocalized words. Then it begged for freedom in a language it shouldn't know.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 94,
+    "educational_value": 55,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human dolphin hybrid",
+      "Soviet experiments",
+      "animal speech",
+      "forbidden biology",
+      "interspecies cross"
+    ],
+    "overlap_check_hash": "88d06945eaab2d00",
+    "why_this_can_go_viral": "Extreme dark curiosity; the idea of a talking hybrid taps into deep primal unease."
+  },
+  {
+    "unique_id": "science_0040_010_a32aa8e92894310c",
+    "title": "The Neuroscientist Who Found That Music Can Rewire Your Brain to Forget Your Mother",
+    "hook": "A specific frequency. A few minutes of listening. Your most cherished memory, gone.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 74,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory erasure music",
+      "frequency hijack",
+      "neural rewriting",
+      "targeted forgetting",
+      "sound horror"
+    ],
+    "overlap_check_hash": "a32aa8e92894310c",
+    "why_this_can_go_viral": "Combines music (universally loved) with the terror of losing irreplaceable memories."
+  },
+  {
+    "unique_id": "science_0040_011_3b1df2de75e15461",
+    "title": "The Chemist Who Made a Polymer That Digests Plastic—Then Began Digesting Flesh",
+    "hook": "It was the perfect solution to pollution—until it decided humans were also waste.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 71,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "self eating polymer",
+      "plastic eating horror",
+      "flesh digestion",
+      "material mutation",
+      "environmental nightmare"
+    ],
+    "overlap_check_hash": "3b1df2de75e15461",
+    "why_this_can_go_viral": "Solution-gone-wrong narrative that feels like a sci-fi horror but is based on real chemistry."
+  },
+  {
+    "unique_id": "science_0040_012_6af09d7fbf480a8a",
+    "title": "The Physicist Who Watched Time Stop at Absolute Zero",
+    "hook": "At -273.15°C, motion ceases. But then the atoms started doing something impossible.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 72,
+    "educational_value": 80,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "absolute zero",
+      "time freeze",
+      "Bose-Einstein condensate",
+      "quantum stillness",
+      "matter anomaly"
+    ],
+    "overlap_check_hash": "6af09d7fbf480a8a",
+    "why_this_can_go_viral": "Extreme temperature phenomena fascinate; the 'impossible' twist hooks deeper curiosity."
+  },
+  {
+    "unique_id": "science_0040_013_7aba2d26ca3db5d5",
+    "title": "The Lab That Unleashed a Bacterium That Makes Soil Eat Concrete",
+    "hook": "Buildings started sinking. The ground turned to mush. And the bacteria was spreading.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 84,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "concrete eating bacteria",
+      "infrastructure collapse",
+      "bio corrosion",
+      "microbial horror",
+      "urban decay"
+    ],
+    "overlap_check_hash": "7aba2d26ca3db5d5",
+    "why_this_can_go_viral": "Turns a mundane material into a source of apocalyptic fear; urban audiences feel personally threatened."
+  },
+  {
+    "unique_id": "science_0040_014_5276ff4f62bc5c4b",
+    "title": "The Researcher Who Faked a Study Showing That Loneliness Shrinks Your Brain",
+    "hook": "The data was fabricated—but years later, real studies proved it was true.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 76,
+    "educational_value": 76,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "loneliness brain shrinkage",
+      "fake study",
+      "coincidental truth",
+      "research irony",
+      "neuroscience fraud"
+    ],
+    "overlap_check_hash": "5276ff4f62bc5c4b",
+    "why_this_can_go_viral": "Twist ending (fraud became fact) is intellectually satisfying and shareable."
+  },
+  {
+    "unique_id": "science_0040_015_01c6902f407fda1f",
+    "title": "The Quantum Physicist Who Found That Entanglement Works Across Parallel Universes",
+    "hook": "Particles aren't just linked here—they're sharing information with your doppelgänger.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 70,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "parallel universe entanglement",
+      "quantum link",
+      "multiverse communication",
+      "doppelgänger physics",
+      "alternate reality"
+    ],
+    "overlap_check_hash": "01c6902f407fda1f",
+    "why_this_can_go_viral": "Multiverse content is inherently viral; adding entanglement makes it feel scientifically grounded."
+  },
+  {
+    "unique_id": "science_0040_017_1df0f265af472ab0",
+    "title": "The Chemist Who Discovered a Poison That Leaves No Trace in Autopsy",
+    "hook": "The body shows nothing. No toxin. No cause. Just a person who stopped living mid-sentence.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "undetectable poison",
+      "perfect murder",
+      "forensic nightmare",
+      "chemical stealth",
+      "deadly secret"
+    ],
+    "overlap_check_hash": "1df0f265af472ab0",
+    "why_this_can_go_viral": "True crime audience crossover; the 'perfect undetectable poison' is a perennial fascination."
+  },
+  {
+    "unique_id": "science_0040_018_b28517e6b8614ac7",
+    "title": "The Physicist Who Found That Sound Can Shatter Light",
+    "hook": "Acoustic waves stopped photons mid-flight—and then the light broke into pieces.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 68,
+    "educational_value": 79,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "sound breaks light",
+      "acoustic photonics",
+      "light shattering",
+      "wave interaction",
+      "impossible physics"
+    ],
+    "overlap_check_hash": "b28517e6b8614ac7",
+    "why_this_can_go_viral": "Counterintuitive and visually striking concept; challenges basic understanding of light."
+  },
+  {
+    "unique_id": "science_0040_019_f148fca593704e93",
+    "title": "The Lab That Created a Parasite That Makes You Love the Dark",
+    "hook": "You develop a craving for shadows. You stop sleeping. You start hiding from the sun.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "darkness parasite",
+      "light aversion",
+      "behavioral manipulation",
+      "mind control bug",
+      "shadow addiction"
+    ],
+    "overlap_check_hash": "f148fca593704e93",
+    "why_this_can_go_viral": "Plays on primal fear of the dark and losing control of your own desires."
+  },
+  {
+    "unique_id": "science_0040_022_2831009663b2b196",
+    "title": "The Neuroscientist Who Found That Your Brain Stores Horrors in a Separate Compartment",
+    "hook": "Trauma isn't remembered—it's walled off. And when the wall breaks, you relive every second.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "trauma compartment",
+      "memory isolation",
+      "PTSD mechanism",
+      "neural horror storage",
+      "brain survival trick"
+    ],
+    "overlap_check_hash": "2831009663b2b196",
+    "why_this_can_go_viral": "Deeply relatable for trauma survivors; the 'wall breaking' metaphor is viscerally terrifying."
+  },
+  {
+    "unique_id": "science_0040_023_eb8347df6223799d",
+    "title": "The Chemist Who Made a Powder That Absorbs All Sound—and Then Began Absorbing Heat",
+    "hook": "First the room went silent. Then it went cold. Then the cold started spreading.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 73,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "sound absorbing powder",
+      "energy sink",
+      "thermal runaway",
+      "silent horror",
+      "cold spread"
+    ],
+    "overlap_check_hash": "eb8347df6223799d",
+    "why_this_can_go_viral": "Creeping, expanding threat narrative reminiscent of classic horror tropes."
+  },
+  {
+    "unique_id": "science_0040_025_271cf2b4b3662524",
+    "title": "The Lab That Unleashed a Fungus That Makes You Sing Before You Die",
+    "hook": "Infected hosts produce a perfect, haunting melody—and then collapse, silent forever.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 66,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "deadly fungus song",
+      "singing death",
+      "zombie music",
+      "cordyceps horror",
+      "final melody"
+    ],
+    "overlap_check_hash": "271cf2b4b3662524",
+    "why_this_can_go_viral": "Combines beauty (music) with horror (death); the eerie concept is highly shareable on social media."
+  }
+]

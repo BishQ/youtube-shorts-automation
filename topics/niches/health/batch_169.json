@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "health_0169_002_effdae253c8cc10a",
+    "title": "The 'Flu Shot' That Contained Live Syphilis Bacteria",
+    "hook": "In 1940s Guatemala, US doctors injected prisoners and mental patients with syphilis through 'vaccinations'—then watched them rot for science.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 97,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "syphilis experiment",
+      "Guatemala",
+      "US government",
+      "unethical research",
+      "medical abuse"
+    ],
+    "overlap_check_hash": "effdae253c8cc10a",
+    "why_this_can_go_viral": "Revulsion at the idea of a vaccine being a vector for STDs, combined with government cover-up, guarantees emotional engagement."
+  },
+  {
+    "unique_id": "health_0169_003_f7dba75b40603288",
+    "title": "The Drug Company That Paid Doctors to Invent 'Restless Leg Syndrome'",
+    "hook": "A neurologist admitted on camera that pharmaceutical reps handed him pre-written prescriptions for a condition that barely existed—turning mild twitches into a billion-dollar market.",
+    "virality_score": 86,
+    "curiosity_gap_score": 85,
+    "darkness_score": 80,
+    "educational_value": 82,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "restless leg syndrome",
+      "pharma scam",
+      "disease mongering",
+      "overdiagnosis",
+      "medical corruption"
+    ],
+    "overlap_check_hash": "f7dba75b40603288",
+    "why_this_can_go_viral": "Viewers love to learn about diseases that were fabricated for profit, especially ones many people have been diagnosed with."
+  },
+  {
+    "unique_id": "health_0169_004_cf9bc7e627976f65",
+    "title": "The Hospital That Stored Dead Bodies in the Same Freezer as Food",
+    "hook": "A morgue worker in a New York hospital finally spoke out: organs and bodies were packed next to cafeteria meat for decades—and nobody checked.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 65,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "morgue horror",
+      "hospital scandal",
+      "body storage",
+      "food contamination",
+      "organ theft"
+    ],
+    "overlap_check_hash": "cf9bc7e627976f65",
+    "why_this_can_go_viral": "Gross-out factor plus institutional betrayal makes this a must-share shock topic."
+  },
+  {
+    "unique_id": "health_0169_005_a55bc9b281adbbcf",
+    "title": "The 'Anti-Aging' Pill That Gave Patients Uncontrollable Organs",
+    "hook": "A hormone therapy turned men's intestines into constantly contracting tubes—they couldn't stop shivering or having diarrhea. The FDA still hasn't banned it.",
+    "virality_score": 82,
+    "curiosity_gap_score": 84,
+    "darkness_score": 88,
+    "educational_value": 67,
+    "estimated_short_retention": 77,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "anti-aging drug",
+      "FDA approved",
+      "dangerous side effects",
+      "hormone therapy",
+      "organ failure"
+    ],
+    "overlap_check_hash": "a55bc9b281adbbcf",
+    "why_this_can_go_viral": "The visceral horror of losing control over your own body combined with regulatory failure creates perfect disgust curiosity."
+  },
+  {
+    "unique_id": "health_0169_006_ebfa58c17f7f3c87",
+    "title": "The City Where the Water Company Was Poisoning Everyone's Tap",
+    "hook": "For 15 years, a water bottling plant secretly dumped chemical waste into the municipal supply—and the cancer cluster was blamed on 'genetics'.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "water contamination",
+      "corporate cover-up",
+      "cancer cluster",
+      "toxic waste",
+      "environmental crime"
+    ],
+    "overlap_check_hash": "ebfa58c17f7f3c87",
+    "why_this_can_go_viral": "Tap water is universal — fear of being poisoned by an invisible source triggers immediate sharing."
+  },
+  {
+    "unique_id": "health_0169_007_d190f1818cdb0f82",
+    "title": "The Government That Gave Children 'Milk'—It Was A Radioactive Isotope",
+    "hook": "US scientists fed 3,000 disabled children breakfast cereals laced with iron-59 and calcium-45 without their parents' knowledge—then tracked their bone decay for years.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 98,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "radiation experiments",
+      "disabled children",
+      "US government",
+      "radioactive milk",
+      "nuclear testing"
+    ],
+    "overlap_check_hash": "d190f1818cdb0f82",
+    "why_this_can_go_viral": "Victimizing vulnerable children with radiation is a narrative that triggers maximum moral outrage and disbelief."
+  },
+  {
+    "unique_id": "health_0169_008_cb4ade9dd641f732",
+    "title": "The Dentist Who Pulled 500 Healthy Teeth—For 'Orthodontic Research'",
+    "hook": "He told patients their wisdom teeth would kill them, then extracted perfectly sound molars and sold them to a dental implant company for a cut.",
+    "virality_score": 83,
+    "curiosity_gap_score": 82,
+    "darkness_score": 89,
+    "educational_value": 65,
+    "estimated_short_retention": 76,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "dentist fraud",
+      "unnecessary surgery",
+      "tooth extraction",
+      "medical greed",
+      "dental horror"
+    ],
+    "overlap_check_hash": "cb4ade9dd641f732",
+    "why_this_can_go_viral": "Dental anxiety is universal — the idea of a dentist deliberately harming you for profit is deeply visceral."
+  },
+  {
+    "unique_id": "health_0169_009_a9cb4030845a97d4",
+    "title": "The 'Cancer Vaccine' That Gave Women Uterine Polyps—And Throat Cancer",
+    "hook": "Gardasil was marketed as a miracle cancer-prevention shot, but internal reports show it caused abnormal cell growth in 1 in 400 recipients—a rate never disclosed publicly.",
+    "virality_score": 78,
+    "curiosity_gap_score": 79,
+    "darkness_score": 84,
+    "educational_value": 73,
+    "estimated_short_retention": 74,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "Gardasil",
+      "HPV vaccine",
+      "side effects",
+      "cancer risk",
+      "pharma cover-up"
+    ],
+    "overlap_check_hash": "a9cb4030845a97d4",
+    "why_this_can_go_viral": "Controversial vaccine narratives are a proven viral trigger on both sides of the debate, and this angle is underexplored."
+  },
+  {
+    "unique_id": "health_0169_010_23bcbd53376d15c8",
+    "title": "The Doctor Who Harvested Patients' Kidneys—And Charged Them for Surgery",
+    "hook": "He told wealthy patients their kidneys were failing, removed one, then sold it to a transplant broker—while billing insurance for 'exploratory surgery'.",
+    "virality_score": 90,
+    "curiosity_gap_score": 91,
+    "darkness_score": 96,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "organ harvesting",
+      "black market kidneys",
+      "doctor criminal",
+      "surgery scam",
+      "medical theft"
+    ],
+    "overlap_check_hash": "23bcbd53376d15c8",
+    "why_this_can_go_viral": "Double betrayal — victimized while paying for it — makes this a perfect storm of rage and morbid fascination."
+  },
+  {
+    "unique_id": "health_0169_011_8852755734a3737f",
+    "title": "The 'Herbal' Supplement That Contained Human Bone Powder",
+    "hook": "An FDA raid on a 'natural' arthritis remedy found it was made from ground-up skeletons stolen from Asian cemeteries — and radioactive to boot.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 68,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "herbal supplement",
+      "human bones",
+      "FDA raid",
+      "toxic products",
+      "supplement fraud"
+    ],
+    "overlap_check_hash": "8852755734a3737f",
+    "why_this_can_go_viral": "Cannibalism-adjacent content with 'natural product' deception is intensely shareable."
+  },
+  {
+    "unique_id": "health_0169_012_a80462b2afb33c99",
+    "title": "The Government That Sprayed 'Flu Mist' on 20 Million People—It Was A Bioweapon Test",
+    "hook": "Declassified documents reveal the 1976 swine flu vaccination campaign was a cover for testing aerosolized anthrax variants on the American public.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 99,
+    "educational_value": 82,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "swine flu 1976",
+      "bioweapon test",
+      "government cover-up",
+      "mass vaccination",
+      "anthrax"
+    ],
+    "overlap_check_hash": "a80462b2afb33c99",
+    "why_this_can_go_viral": "Mass government betrayal narrative, declassified sources, and a flu shot angle that millions will find shocking."
+  },
+  {
+    "unique_id": "health_0169_014_bf505ec48ddb5ef0",
+    "title": "The Doctor Who Told Patients They Had HIV—To Sell Them Fake Antivirals",
+    "hook": "When a South African doctor realized he could charge $2,000 a month for the 'latest HIV treatment', he began falsifying test results for anyone who walked in—until a 9-year-old girl died.",
+    "virality_score": 87,
+    "curiosity_gap_score": 86,
+    "darkness_score": 94,
+    "educational_value": 74,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "fake HIV diagnosis",
+      "antiretroviral scam",
+      "doctor fraud",
+      "Africa medical scandal",
+      "false treatment"
+    ],
+    "overlap_check_hash": "bf505ec48ddb5ef0",
+    "why_this_can_go_viral": "Falsely diagnosing a stigmatized disease for profit is one of the most morally repugnant medical crimes — immediate emotional hook."
+  },
+  {
+    "unique_id": "health_0169_015_0608557defd1deb9",
+    "title": "The Surgeon Who Secretly Recorded Patients Under Anesthesia—For 15 Years",
+    "hook": "When a hidden camera was found in an Oregon hospital's recovery room, police discovered the anesthesiologist had a collection of over 1,000 videos of unconscious women.",
+    "virality_score": 86,
+    "curiosity_gap_score": 87,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "hidden camera",
+      "hospital violation",
+      "patient privacy",
+      "doctor arrested",
+      "sexual abuse"
+    ],
+    "overlap_check_hash": "0608557defd1deb9",
+    "why_this_can_go_viral": "Universal fear of being vulnerable under anesthesia — the betrayal is deeply personal and instantly shareable."
+  },
+  {
+    "unique_id": "health_0169_017_6131d206d74422cd",
+    "title": "The 'Autism Cure' That Gave Children Bleeding Rectums",
+    "hook": "A Californian clinic claimed chelation therapy could 'remove toxins' causing autism — parents watched their kids scream in pain after daily injections that actually contained industrial EDTA.",
+    "virality_score": 84,
+    "curiosity_gap_score": 83,
+    "darkness_score": 90,
+    "educational_value": 77,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "autism cure scam",
+      "chelation therapy",
+      "fake treatment",
+      "child endangerment",
+      "medical fraud"
+    ],
+    "overlap_check_hash": "6131d206d74422cd",
+    "why_this_can_go_viral": "Autism parents are an emotionally invested audience — any claim of a 'cure' that harms children drives massive engagement."
+  },
+  {
+    "unique_id": "health_0169_018_fa1c4dd53b37762c",
+    "title": "The FDA-Approved Antidepressant That Made Users Attack Their Families",
+    "hook": "Internal FDA emails show they knew about 300 cases of extreme aggression and violent outbursts tied to this SSRI — but they approved it anyway, calling the side effects 'rare'.",
+    "virality_score": 81,
+    "curiosity_gap_score": 82,
+    "darkness_score": 87,
+    "educational_value": 79,
+    "estimated_short_retention": 76,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "antidepressant violence",
+      "SSRI side effects",
+      "FDA corruption",
+      "drug aggression",
+      "mental health drugs"
+    ],
+    "overlap_check_hash": "fa1c4dd53b37762c",
+    "why_this_can_go_viral": "Massive audience on antidepressants will engage — the idea that your prescription could turn you violent is terrifyingly personal."
+  },
+  {
+    "unique_id": "health_0169_019_f89d41778afaf883",
+    "title": "The Dermatologist Who Burned Patients' Faces With a Laser—1,500 Times",
+    "hook": "He 'calibrated' the laser himself, turning women's faces into layers of raw flesh. When patients screamed, he told them 'beauty hurts' — and kept charging $5,000 per session.",
+    "virality_score": 82,
+    "curiosity_gap_score": 81,
+    "darkness_score": 91,
+    "educational_value": 63,
+    "estimated_short_retention": 77,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "laser burn",
+      "dermatologist lawsuit",
+      "cosmetic surgery horror",
+      "medical negligence",
+      "scarring"
+    ],
+    "overlap_check_hash": "f89d41778afaf883",
+    "why_this_can_go_viral": "Before/after visual potential, plus the sadistic 'beauty hurts' quote — perfect for TikTok horror storytelling."
+  },
+  {
+    "unique_id": "health_0169_020_062145129be6dfb1",
+    "title": "The Drug Company That Hid Evidence Its Birth Control Caused Blood Clots",
+    "hook": "A whistleblower leaked 12 internal studies showing women on Yaz and Yasmin had 4x higher clot risk — the company paid $2 billion in settlements, but never recalled the pill.",
+    "virality_score": 80,
+    "curiosity_gap_score": 80,
+    "darkness_score": 86,
+    "educational_value": 76,
+    "estimated_short_retention": 75,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "birth control clots",
+      "Yaz Yasmin",
+      "pharma cover-up",
+      "whistleblower",
+      "women's health"
+    ],
+    "overlap_check_hash": "062145129be6dfb1",
+    "why_this_can_go_viral": "Millions of women on hormonal birth control — this directly threatens their sense of trust in their daily medication."
+  },
+  {
+    "unique_id": "health_0169_023_f5d48d6b59cfce04",
+    "title": "The 'Health' Supplement That Contained Pure Methamphetamine",
+    "hook": "An FDA raid found a 'natural energy booster' sold at GNC was actually 80% meth by weight — users reported weeks-long hallucinations and heart damage before the recall.",
+    "virality_score": 86,
+    "curiosity_gap_score": 87,
+    "darkness_score": 89,
+    "educational_value": 73,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "meth supplement",
+      "GNC scandal",
+      "natural booster",
+      "energy pills",
+      "drug contamination"
+    ],
+    "overlap_check_hash": "f5d48d6b59cfce04",
+    "why_this_can_go_viral": "The twist — 'health' product is actually street meth — is perfectly shocking for short-form shock-and-awe style content."
+  },
+  {
+    "unique_id": "health_0169_024_629b370fcf9357b6",
+    "title": "The Government That Vaccinated Girls Against HPV—It Was A Sterilization Campaign",
+    "hook": "In 2014, a rural Indian mass vaccination drive was found to be using tetanus toxoid laced with sterilizing agents — 80,000 girls received the shot before the scheme was discovered.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 98,
+    "educational_value": 81,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "forced sterilization",
+      "India vaccine scam",
+      "HPV vaccine",
+      "government cover-up",
+      "population control"
+    ],
+    "overlap_check_hash": "629b370fcf9357b6",
+    "why_this_can_go_viral": "Mass sterilization disguised as modern vaccination is a conspiracy theorist's dream, but with real documented evidence — viral gold."
+  },
+  {
+    "unique_id": "health_0169_025_d7bbe840ffb50feb",
+    "title": "The Chemo Drug That Gave Patients 'Burning Feet' Syndrome — Permanently",
+    "hook": "Vincristine is a standard chemotherapy agent, but internal hospital data shows 1 in 25 patients develop irreversible peripheral nerve damage — leaving them unable to walk. It's still used without warning patients.",
+    "virality_score": 77,
+    "curiosity_gap_score": 76,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 72,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "vincristine",
+      "chemo side effects",
+      "nerve damage",
+      "burning feet",
+      "chemotherapy risks"
+    ],
+    "overlap_check_hash": "d7bbe840ffb50feb",
+    "why_this_can_go_viral": "Cancer patients and their families will share this out of fear and anger — it directly affects a massive audience."
+  }
+]

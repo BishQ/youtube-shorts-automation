@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "health_0033_001_5fb3cb3421174d3d",
+    "title": "The Vaccine That Gave Polio to 40,000 Children",
+    "hook": "In 1955, a faulty polio vaccine batch paralyzed 40,000 kids—and the government covered it up for decades.",
+    "virality_score": 92,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 85,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "polio vaccine",
+      "Cutter incident",
+      "pharmaceutical cover-up",
+      "vaccine disaster",
+      "medical scandal"
+    ],
+    "overlap_check_hash": "5fb3cb3421174d3d",
+    "why_this_can_go_viral": "Uses a well-known medical milestone to reveal a hidden tragedy, leveraging outrage and shock."
+  },
+  {
+    "unique_id": "health_0033_002_546e6762ab3e338f",
+    "title": "The Doctor Who Buried Patients Alive—to 'Study' Death",
+    "hook": "A 19th-century physician buried people alive to study the process of dying, with their full consent—or so he claimed.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 97,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "buried alive",
+      "death study",
+      "physician experiment",
+      "19th century horror",
+      "medical ethics"
+    ],
+    "overlap_check_hash": "546e6762ab3e338f",
+    "why_this_can_go_viral": "Extreme, visceral imagery and a taboo subject create irresistible curiosity and shock value."
+  },
+  {
+    "unique_id": "health_0033_003_9d32d40a13e58e55",
+    "title": "The FDA-Approved Drug That Caused Organ Failure in 14 Days",
+    "hook": "An FDA-approved diabetes drug caused liver failure in patients within two weeks—and stayed on the market for two years.",
+    "virality_score": 88,
+    "curiosity_gap_score": 86,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "FDA disaster",
+      "drug side effects",
+      "liver failure",
+      "pharmaceutical negligence",
+      "diabetes drug danger"
+    ],
+    "overlap_check_hash": "9d32d40a13e58e55",
+    "why_this_can_go_viral": "Targets distrust in regulatory agencies and taps into fear of prescribed medications."
+  },
+  {
+    "unique_id": "health_0033_006_32c619ef00ce537c",
+    "title": "The Disease Cover-Up: They Knew the Paint Gave Kids Lead Poisoning in 1900",
+    "hook": "Lead paint manufacturers knew it poisoned children in 1900—but fought to keep it on walls for 78 more years.",
+    "virality_score": 86,
+    "curiosity_gap_score": 84,
+    "darkness_score": 85,
+    "educational_value": 90,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "lead paint",
+      "child poisoning",
+      "corporate cover-up",
+      "public health disaster",
+      "industrial history"
+    ],
+    "overlap_check_hash": "32c619ef00ce537c",
+    "why_this_can_go_viral": "Reveals a century-long corporate conspiracy that still affects millions, fueling righteous anger."
+  },
+  {
+    "unique_id": "health_0033_007_3abcb2e8b4f2c1b8",
+    "title": "The Doctor Who Removed 1,000 Healthy Gallbladders for Profit",
+    "hook": "A surgeon in Pennsylvania removed healthy gallbladders from over 1,000 patients—earning millions before a whistleblower stopped him.",
+    "virality_score": 91,
+    "curiosity_gap_score": 92,
+    "darkness_score": 93,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "unnecessary surgery",
+      "gallbladder scam",
+      "surgeon fraud",
+      "medical profit",
+      "whistleblower"
+    ],
+    "overlap_check_hash": "3abcb2e8b4f2c1b8",
+    "why_this_can_go_viral": "Extreme betrayal of trust and high patient count evoke visceral disgust and personal vulnerability."
+  },
+  {
+    "unique_id": "health_0033_008_df896a5d03d2189f",
+    "title": "The Pharmaceutical Giant That Sold Cough Syrup with Heroin",
+    "hook": "Bayer sold heroin as a 'non-addictive' cough syrup for children in the 1890s—and called it 'Bayer Heroin.'",
+    "virality_score": 89,
+    "curiosity_gap_score": 87,
+    "darkness_score": 91,
+    "educational_value": 83,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "Bayer heroin",
+      "cough syrup",
+      "drug history",
+      "opioid crisis",
+      "pharmaceutical scandal"
+    ],
+    "overlap_check_hash": "df896a5d03d2189f",
+    "why_this_can_go_viral": "Shocking name recognition and historical irony drive shares and comments."
+  },
+  {
+    "unique_id": "health_0033_009_1b36487abd6bd1cf",
+    "title": "The Experiment Where Doctors Gave Children Radioactive Breakfast Cereal",
+    "hook": "In the 1950s, doctors fed radioactive oatmeal to children with intellectual disabilities—to study digestion.",
+    "virality_score": 93,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 77,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "radioactive food",
+      "human experimentation",
+      "disabled children",
+      "1950s medical horror",
+      "institutional abuse"
+    ],
+    "overlap_check_hash": "1b36487abd6bd1cf",
+    "why_this_can_go_viral": "Combines vulnerable victims with radioactive betrayal, sparking deep empathy and outrage."
+  },
+  {
+    "unique_id": "health_0033_010_bf8dd94ff1e4963b",
+    "title": "The FDA-Approved Anti-Nausea Drug That Caused Limb Deformities",
+    "hook": "An FDA-approved anti-nausea drug caused thousands of babies to be born without limbs—but stayed legal in America.",
+    "virality_score": 95,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 88,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "thalidomide",
+      "birth defects",
+      "FDA failure",
+      "anti-nausea drug",
+      "pharmaceutical tragedy"
+    ],
+    "overlap_check_hash": "bf8dd94ff1e4963b",
+    "why_this_can_go_viral": "Iconic medical tragedy with ongoing relevance; triggers protective instincts and anger at regulators."
+  },
+  {
+    "unique_id": "health_0033_011_ae4bc2a9b77aaf84",
+    "title": "The Hospital That Harvested Organs from Patients With Do-Not-Resuscitate Orders",
+    "hook": "A California hospital harvested organs from patients who had DNR orders—before they were legally dead.",
+    "virality_score": 88,
+    "curiosity_gap_score": 89,
+    "darkness_score": 95,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "organ harvesting",
+      "hospital crime",
+      "DNR violation",
+      "medical murder",
+      "California scandal"
+    ],
+    "overlap_check_hash": "ae4bc2a9b77aaf84",
+    "why_this_can_go_viral": "Fear of bodily autonomy violation and moral horror drive high engagement."
+  },
+  {
+    "unique_id": "health_0033_012_d48710cb3e0827b4",
+    "title": "The Skincare Company That Sold 'Anti-Aging Cream' with Mercury",
+    "hook": "A best-selling anti-aging cream contained mercury at levels 2,000 times the safe limit—turning users' skin gray and toxic.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 87,
+    "educational_value": 84,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "mercury in cream",
+      "anti-aging scam",
+      "toxic cosmetics",
+      "skin damage",
+      "beauty horror"
+    ],
+    "overlap_check_hash": "d48710cb3e0827b4",
+    "why_this_can_go_viral": "Combines vanity with hidden poison, creating a strong cautionary tale for beauty users."
+  },
+  {
+    "unique_id": "health_0033_013_ca9838d9ea2d3246",
+    "title": "The Disease Cover-Up: They Knew the Air Fresheners Caused Asthma in Babies",
+    "hook": "Manufacturers of plug-in air fresheners knew their chemicals triggered severe asthma in infants—but called them 'fresh scent.'",
+    "virality_score": 84,
+    "curiosity_gap_score": 83,
+    "darkness_score": 82,
+    "educational_value": 87,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "air freshener danger",
+      "asthma in infants",
+      "chemical cover-up",
+      "household toxins",
+      "public health"
+    ],
+    "overlap_check_hash": "ca9838d9ea2d3246",
+    "why_this_can_go_viral": "Relatable household product reveals hidden danger, forcing viewers to question everyday items."
+  },
+  {
+    "unique_id": "health_0033_014_b2a0be222df7390e",
+    "title": "The Doctor Who Used Radiation on Pregnant Women—'For Science'",
+    "hook": "A Chicago radiologist X-rayed pregnant women's bellies weekly for 10 years, tracking the damage to their unborn children.",
+    "virality_score": 90,
+    "curiosity_gap_score": 91,
+    "darkness_score": 96,
+    "educational_value": 74,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "radiation on pregnant women",
+      "fetal harm",
+      "unethical research",
+      "Chicago doctor",
+      "medical horror"
+    ],
+    "overlap_check_hash": "b2a0be222df7390e",
+    "why_this_can_go_viral": "Innocence of unborn children and prolonged betrayal evoke maximum emotional response."
+  },
+  {
+    "unique_id": "health_0033_015_e3995940874afea1",
+    "title": "The Pharmaceutical Company That Sold 'Allergy Medicine' with Cocaine",
+    "hook": "Cocaine was a legal ingredient in allergy drops for 30 years—and the company marketed it to children as 'toothache drops.'",
+    "virality_score": 88,
+    "curiosity_gap_score": 86,
+    "darkness_score": 90,
+    "educational_value": 82,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "cocaine medicine",
+      "allergy drops",
+      "drug history",
+      "pharmaceutical scandal",
+      "children's medicine"
+    ],
+    "overlap_check_hash": "e3995940874afea1",
+    "why_this_can_go_viral": "Shock factor of cocaine in children's medicine and historical irony create shareable content."
+  },
+  {
+    "unique_id": "health_0033_016_3278f21c1f0776c4",
+    "title": "The Hospital That Refused to Call 911 When a Patient Stopped Breathing",
+    "hook": "A Philadelphia hospital had a policy: if a patient collapses, don't call 911—let them die to save money.",
+    "virality_score": 92,
+    "curiosity_gap_score": 90,
+    "darkness_score": 94,
+    "educational_value": 76,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "hospital policy",
+      "patient death",
+      "Philadelphia scandal",
+      "denial of care",
+      "healthcare profit"
+    ],
+    "overlap_check_hash": "3278f21c1f0776c4",
+    "why_this_can_go_viral": "Exploits fear of being abandoned in a hospital; pure systemic horror drives shares."
+  },
+  {
+    "unique_id": "health_0033_017_76b362d545602812",
+    "title": "The Supplement Brand That Sold 'Weight Loss Pills' with Tapeworm Eggs",
+    "hook": "A 1920s supplement company sold pills containing live tapeworm eggs—promising 'eat anything and stay thin.'",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "tapeworm diet",
+      "weight loss scam",
+      "supplement horror",
+      "historical hoax",
+      "dangerous diet"
+    ],
+    "overlap_check_hash": "76b362d545602812",
+    "why_this_can_go_viral": "Gross-out factor and historical absurdity make it highly shareable and memorable."
+  },
+  {
+    "unique_id": "health_0033_018_dc26e1651c7a2c50",
+    "title": "The Doctor Who 'Cured' Cancer with a $20,000 Machine That Did Nothing",
+    "hook": "A doctor sold a 'frequency machine' to cancer patients for $20,000—it was just a light bulb with a speaker.",
+    "virality_score": 86,
+    "curiosity_gap_score": 87,
+    "darkness_score": 83,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "cancer scam",
+      "fake machine",
+      "medical fraud",
+      "patient exploitation",
+      "quackery"
+    ],
+    "overlap_check_hash": "dc26e1651c7a2c50",
+    "why_this_can_go_viral": "Exploits desperation of cancer patients; outrage and pity create strong emotion loop."
+  },
+  {
+    "unique_id": "health_0033_019_dad869a9c58bde8d",
+    "title": "The Disease Cover-Up: They Knew the Mattress Flame Retardants Caused Cancer",
+    "hook": "Chemical companies knew flame retardants in children's mattresses caused cancer—but fought for decades to keep them legal.",
+    "virality_score": 85,
+    "curiosity_gap_score": 84,
+    "darkness_score": 86,
+    "educational_value": 88,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "flame retardant",
+      "mattress cancer",
+      "chemical cover-up",
+      "children safety",
+      "corporate crime"
+    ],
+    "overlap_check_hash": "dad869a9c58bde8d",
+    "why_this_can_go_viral": "Every parent sleeps on a mattress; personal relevance and hidden danger drive engagement."
+  },
+  {
+    "unique_id": "health_0033_021_191574cd6b4976e1",
+    "title": "The Experiment Where Doctors Gave Syphilis to Prisoners—Without Telling Them",
+    "hook": "In the 1960s, doctors injected syphilis into prisoners to test a new antibiotic—and let the disease progress for months.",
+    "virality_score": 91,
+    "curiosity_gap_score": 92,
+    "darkness_score": 97,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "syphilis experiment",
+      "prisoner testing",
+      "unethical studies",
+      "1960s medical horror",
+      "inmate abuse"
+    ],
+    "overlap_check_hash": "191574cd6b4976e1",
+    "why_this_can_go_viral": "Mimics notorious Tuskegee study in a new setting; evokes sharp moral outrage."
+  },
+  {
+    "unique_id": "health_0033_023_7b2b786d637551a9",
+    "title": "The Hospital That Hid a Mafia Body Disposal Ring in the Morgue",
+    "hook": "A Detroit hospital morgue was used by the mafia to dispose of murder victims—and the staff helped for 20 years.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 65,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "mafia morgue",
+      "hospital crime",
+      "body disposal",
+      "Detroit scandal",
+      "organized crime"
+    ],
+    "overlap_check_hash": "7b2b786d637551a9",
+    "why_this_can_go_viral": "Crime cross-over with healthcare setting creates unique, shareable shock narrative."
+  },
+  {
+    "unique_id": "health_0033_024_8711bb3848d7362c",
+    "title": "The Skincare Brand That Sold 'Whitening Cream' with Liquid Mercury",
+    "hook": "A global whitening cream brand contained liquid mercury at toxic levels—causing kidney failure in users across three continents.",
+    "virality_score": 88,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "mercury in cream",
+      "skin whitening danger",
+      "cosmetics scandal",
+      "kidney failure",
+      "international health"
+    ],
+    "overlap_check_hash": "8711bb3848d7362c",
+    "why_this_can_go_viral": "Global scope and beauty vanity trap create cross-cultural outrage and discussion."
+  },
+  {
+    "unique_id": "health_0033_025_779a25a62f2e8f8f",
+    "title": "The Doctor Who Faked Cancer Diagnoses—to Sell Chemotherapy",
+    "hook": "A Michigan oncologist diagnosed 600 patients with cancer—only 1 had it. The rest were injected with chemo for profit.",
+    "virality_score": 96,
+    "curiosity_gap_score": 95,
+    "darkness_score": 99,
+    "educational_value": 82,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "fake cancer diagnosis",
+      "chemotherapy scam",
+      "oncologist fraud",
+      "Michigan doctor",
+      "medical greed"
+    ],
+    "overlap_check_hash": "779a25a62f2e8f8f",
+    "why_this_can_go_viral": "Ultimate betrayal of trust; combines false hope, poison, and profit in the highest-stakes medical horror."
+  }
+]

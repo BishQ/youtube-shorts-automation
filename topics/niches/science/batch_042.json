@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "science_0042_001_35d8364e7a2afcff",
+    "title": "The Chemist Who Made a Liquid That Burns Through Glass—and Then Escaped",
+    "hook": "He was trying to create a new solvent. Instead, he synthesized something that dissolves the very container holding it—and then it started moving.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "glass-dissolving chemical",
+      "lab accident",
+      "runaway reaction",
+      "dangerous solvent",
+      "chemistry horror"
+    ],
+    "overlap_check_hash": "35d8364e7a2afcff",
+    "why_this_can_go_viral": "The visceral image of a liquid burning through glass triggers primal fear, and the 'escape' element adds a horror-movie premise."
+  },
+  {
+    "unique_id": "science_0042_003_bb0b140abb5f9a99",
+    "title": "The Physicist Who Discovered That Time Can Move Backward Inside a Crystal",
+    "hook": "Inside this rare mineral, the arrow of time literally flips—entropy decreases, and cause follows effect in reverse.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 60,
+    "educational_value": 90,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time reversal",
+      "crystal anomaly",
+      "entropy reversal",
+      "arrow of time",
+      "physics paradox"
+    ],
+    "overlap_check_hash": "bb0b140abb5f9a99",
+    "why_this_can_go_viral": "Time travel is a universal hook; the fact that it happens naturally inside a crystal makes it feel both real and forbidden."
+  },
+  {
+    "unique_id": "science_0042_004_76a4ebac8d258539",
+    "title": "The Lab That Unleashed a Paramecium That Evolved Intelligence in 30 Days",
+    "hook": "A single-celled organism learned to navigate a maze, solve problems, and then started communicating with neighboring cells—in less than a month.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "microbial intelligence",
+      "evolution speedrun",
+      "single-celled learning",
+      "protozoa behavior",
+      "lab escape"
+    ],
+    "overlap_check_hash": "76a4ebac8d258539",
+    "why_this_can_go_viral": "The idea that intelligence can emerge in days from a simple cell challenges biology as we know it and feels like the start of a sci-fi disaster."
+  },
+  {
+    "unique_id": "science_0042_005_a07ddc0e7538ed1e",
+    "title": "The Soviet Lab That Crossed a Human With a Horse—and It Survived for Weeks",
+    "hook": "In a remote Siberian facility, scientists implanted human stem cells into a horse embryo. The result could stand and recognize faces.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human-animal hybrid",
+      "Soviet experiments",
+      "chimera",
+      "stem cell horror",
+      "forbidden science"
+    ],
+    "overlap_check_hash": "a07ddc0e7538ed1e",
+    "why_this_can_go_viral": "Human-animal hybrids tap into deep ethical taboos and the dark appeal of Soviet secret science. The survival detail makes it haunting."
+  },
+  {
+    "unique_id": "science_0042_006_44f589a13a768b7b",
+    "title": "The Chemist Who Made a Crystal That Absorbs All Light—and It Began Growing",
+    "hook": "She synthesized a material so black it absorbs 99.9% of visible light. Then it started consuming the light in the room, spreading like a void.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "super black material",
+      "light absorbing crystal",
+      "creeping darkness",
+      "material horror",
+      "Vantablack escape"
+    ],
+    "overlap_check_hash": "44f589a13a768b7b",
+    "why_this_can_go_viral": "The visual of a growing darkness consuming a lab is cinematic and terrifying; it plays on fear of the unknown."
+  },
+  {
+    "unique_id": "science_0042_007_fe0434571ebfa4ae",
+    "title": "The Physicist Who Found That Empty Space Is Filled With Exploding Particles",
+    "hook": "Quantum fields in vacuum aren't quiet—they're constantly erupting with particles that pop into existence and vanish, releasing tiny bursts of energy.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 55,
+    "educational_value": 88,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "vacuum fluctuations",
+      "quantum foam",
+      "empty space explosions",
+      "particle creation",
+      "false vacuum"
+    ],
+    "overlap_check_hash": "fe0434571ebfa4ae",
+    "why_this_can_go_viral": "The idea that 'nothing' is actually an unstable minefield of tiny explosions is a mind-bending revelation."
+  },
+  {
+    "unique_id": "science_0042_008_5c7484ba02eb9f50",
+    "title": "The Neuroscientist Who Found That You Can Be Programmed to See Ghosts",
+    "hook": "By messing with the temporal junction of the brain, scientists induced the feeling of a presence—a shadow person—in 100% of test subjects.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "ghost illusion",
+      "shadow person",
+      "brain stimulation",
+      "presence hallucination",
+      "controlled hallucination"
+    ],
+    "overlap_check_hash": "5c7484ba02eb9f50",
+    "why_this_can_go_viral": "Ghosts are a universal fascination; revealing they can be manufactured in the lab blurs the line between science and superstition."
+  },
+  {
+    "unique_id": "science_0042_009_229814d191da8a82",
+    "title": "The Researcher Who Faked a Study Proving That Your Eyes Reveal Your Death Date",
+    "hook": "A fraudulent study claimed that iris patterns predict the exact day you'll die—and it was believed for years, influencing insurance policies worldwide.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "iris death prediction",
+      "fraudulent study",
+      "pseudoscience",
+      "irisology",
+      "scandal"
+    ],
+    "overlap_check_hash": "229814d191da8a82",
+    "why_this_can_go_viral": "The morbid premise of a death-predicting test being real—until exposed—combines paranoia and outrage perfectly."
+  },
+  {
+    "unique_id": "science_0042_010_3f58d0e5376a4dea",
+    "title": "The Lab That Unleashed a Virus That Rewrites Its Host's DNA—and Then Jumps Species",
+    "hook": "A retrovirus discovered in bats can not only insert its genes into your genome but also leap to humans, carrying bat DNA with it.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "retrovirus",
+      "DNA rewriting",
+      "zoonotic jump",
+      "bat virus",
+      "genetic horror"
+    ],
+    "overlap_check_hash": "3f58d0e5376a4dea",
+    "why_this_can_go_viral": "Viruses that alter our DNA are a deep fear—the idea that foreign genes can become part of us is body horror meets real science."
+  },
+  {
+    "unique_id": "science_0042_012_716fe02bd85cf191",
+    "title": "The Chemist Who Accidentally Created a Polymer That Never Degrades—and Now It's Everywhere",
+    "hook": "He was trying to create a durable plastic. Instead, he made a material that resists every known form of breakdown—and it's already in your blood.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 84,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "indestructible polymer",
+      "eternal plastic",
+      "microplastic horror",
+      "PFAS",
+      "chemical contamination"
+    ],
+    "overlap_check_hash": "716fe02bd85cf191",
+    "why_this_can_go_viral": "The 'in your blood' detail personalizes an invisible horror; it's a perfect storm of environmental dread and bodily invasion."
+  },
+  {
+    "unique_id": "science_0042_013_64fae91fe1c0fa5f",
+    "title": "The Soviet Lab That Tried to Create a Human Without a Brain—and It Responded to Pain",
+    "hook": "In a secret experiment, scientists decapitated a dog and kept its body alive for hours, proving that spinal reflexes can mimic consciousness.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 96,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "brainless organism",
+      "Soviet reflex experiments",
+      "dog head",
+      "consciousness debate",
+      "animal cruelty science"
+    ],
+    "overlap_check_hash": "64fae91fe1c0fa5f",
+    "why_this_can_go_viral": "Extreme shock value combined with a philosophical question about consciousness—guaranteed to spark debate and shares."
+  },
+  {
+    "unique_id": "science_0042_014_211e22539cb03d05",
+    "title": "The Neuroscientist Who Found That Your Brain Can Predict Your Death 10 Years in Advance",
+    "hook": "Scans of the default mode network can reveal, with 90% accuracy, whether you'll die from a heart attack or stroke within a decade.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 86,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "death prediction",
+      "brain scan",
+      "default mode network",
+      "mortality marker",
+      "neural death clock"
+    ],
+    "overlap_check_hash": "211e22539cb03d05",
+    "why_this_can_go_viral": "People are obsessed with knowing their fate; this feels like a real-life 'final destination' revealed by science."
+  },
+  {
+    "unique_id": "science_0042_015_aae1eacc07c50e92",
+    "title": "The Physicist Who Found That Black Holes Leak Information—and It Could Rewrite Reality",
+    "hook": "For decades, physicists believed black holes destroy information. New evidence shows they leak it back—meaning the universe may be a giant hologram.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 60,
+    "educational_value": 90,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "black hole information paradox",
+      "Hawking radiation",
+      "holographic principle",
+      "reality rewrite",
+      "quantum gravity"
+    ],
+    "overlap_check_hash": "aae1eacc07c50e92",
+    "why_this_can_go_viral": "The holographic universe concept is mind-blowing and adds a layer of existential dread to a classic physics puzzle."
+  },
+  {
+    "unique_id": "science_0042_016_68757cb8a07eed2e",
+    "title": "The Lab That Unleashed a Bacterium That Eats Electrons—and Kills Power Grids",
+    "hook": "A newly discovered microbe doesn't need sugar or oxygen—it feasts on pure electricity, shorting out cables and draining batteries on contact.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 79,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "electricity-eating bacteria",
+      "power grid threat",
+      "electrogenic microbe",
+      "cable destruction",
+      "bacterial survival"
+    ],
+    "overlap_check_hash": "68757cb8a07eed2e",
+    "why_this_can_go_viral": "The idea of a bacteria that attacks our infrastructure combines tech horror with biological invasion—a modern nightmare."
+  },
+  {
+    "unique_id": "science_0042_017_69edcb32a23b41e2",
+    "title": "The Chemist Who Made a Compound That Turns Anything It Touches Into Gold—Then Kills You",
+    "hook": "He accidentally synthesized a catalyst that transmutes lead into gold. But the byproduct is a lethal gas that kills everyone in the room within minutes.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 88,
+    "educational_value": 68,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "gold transmutation",
+      "alchemy real",
+      "deadly catalyst",
+      "philosopher stone",
+      "lab death"
+    ],
+    "overlap_check_hash": "69edcb32a23b41e2",
+    "why_this_can_go_viral": "Alchemy turned real, with a deadly twist—this is a fable-like story that feels both mythical and terrifying."
+  },
+  {
+    "unique_id": "science_0042_019_03fb5ba85e343110",
+    "title": "The Physicist Who Discovered That Light Can Be Frozen—and Then Released as a Weapon",
+    "hook": "By stopping light inside a Bose-Einstein condensate, physicists turned it into a 'light crystal' that can be held, stored, and later fired as a blast.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 65,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "frozen light",
+      "Bose-Einstein condensate",
+      "light crystal",
+      "slow light",
+      "optical weapon"
+    ],
+    "overlap_check_hash": "03fb5ba85e343110",
+    "why_this_can_go_viral": "Freezing light sounds like magic; the weapon implication adds a dark sci-fi edge that viewers love."
+  },
+  {
+    "unique_id": "science_0042_021_3ee40df20e6d9605",
+    "title": "The Lab That Unleashed a Fungus That Makes You See Your Own Death Repeatedly",
+    "hook": "A rare parasitic fungus produces a hallucinogen that traps victims in a loop where they relive their own death over and over—while awake.",
+    "virality_score": 96,
+    "curiosity_gap_score": 99,
+    "darkness_score": 96,
+    "educational_value": 65,
+    "estimated_short_retention": 98,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "death loop fungus",
+      "hallucinogenic parasite",
+      "repeated death",
+      "psychoactive horror",
+      "mind trap"
+    ],
+    "overlap_check_hash": "3ee40df20e6d9605",
+    "why_this_can_go_viral": "The concept of a 'death loop' is nightmare fuel with unlimited storytelling potential—high shock and shareability."
+  },
+  {
+    "unique_id": "science_0042_022_02b544d774084d6f",
+    "title": "The Chemist Who Accidentally Created a Crystalline Structure That Absorbs Sound—and Then Vibrates in Reverse",
+    "hook": "He made a crystal that not only silences all noise around it but also amplifies sounds from the past, playing them back like a phonograph.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 50,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "sound absorbing crystal",
+      "time crystal",
+      "past audio playback",
+      "acoustic anomaly",
+      "crystal phonograph"
+    ],
+    "overlap_check_hash": "02b544d774084d6f",
+    "why_this_can_go_viral": "The idea of hearing sounds from the past (ghostly echoes) is both eerie and fascinating—perfect for short-form."
+  },
+  {
+    "unique_id": "science_0042_023_77297a93540b8f87",
+    "title": "The Physicist Who Found That the Universe Is Rotating—and It's Speeding Up",
+    "hook": "Analysis of galaxy spin directions reveals a subtle overall rotation of the cosmos, breaking the fundamental assumption that space is isotropic.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 55,
+    "educational_value": 87,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "universe rotation",
+      "cosmological anomaly",
+      "galaxy spin",
+      "isotropy violation",
+      "axis of evil"
+    ],
+    "overlap_check_hash": "77297a93540b8f87",
+    "why_this_can_go_viral": "The idea that everything in the universe is spinning together is a mind-bending twist on our place in reality."
+  },
+  {
+    "unique_id": "science_0042_024_ff10957d8b029d8a",
+    "title": "The Researcher Who Faked a Study Showing That Reading Minds Is Possible with EEG",
+    "hook": "A scientist claimed his EEG machine could decode your thoughts with 95% accuracy. The data was fabricated, but military contracts were already signed.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "mind reading scam",
+      "EEG fraud",
+      "thought decoding",
+      "military pseudoscience",
+      "brain interface lie"
+    ],
+    "overlap_check_hash": "ff10957d8b029d8a",
+    "why_this_can_go_viral": "Mind reading is a universal fantasy/fear; the fraud and military angle adds conspiracy fuel."
+  }
+]

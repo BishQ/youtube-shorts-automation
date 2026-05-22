@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "tech_hackers_0100_001_b8ab8a38ada79e96",
+    "title": "The Zero-Day That Turned Traffic Lights Into a Weapon",
+    "hook": "A hacker remotely reprogrammed a city's traffic lights to create a perfect, invisible kill box.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "traffic light hack",
+      "cyber assassination",
+      "smart city exploit",
+      "weaponized infrastructure"
+    ],
+    "overlap_check_hash": "b8ab8a38ada79e96",
+    "why_this_can_go_viral": "Combines highway chase tension with invisible cyber warfare, tapping into fear of smart city vulnerabilities."
+  },
+  {
+    "unique_id": "tech_hackers_0100_002_b4ef202c9a22b893",
+    "title": "The Dark Web Lab That Grew a Botnet From Baby Monitors",
+    "hook": "A hacker repurposed thousands of baby monitors into a listening army, targeting the most private rooms in the world.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "baby monitor hack",
+      "botnet",
+      "IoT exploitation",
+      "dark web lab",
+      "audio surveillance"
+    ],
+    "overlap_check_hash": "b4ef202c9a22b893",
+    "why_this_can_go_viral": "Home invasion + IoT horror — a universal parental fear weaponized by code."
+  },
+  {
+    "unique_id": "tech_hackers_0100_003_15dc7c2625e992bb",
+    "title": "The AI That Hacked a Hiring Algorithm to Recruit Spies",
+    "hook": "A nation-state trained an AI to inject sleeper agents into corporations by gaming psychometric tests.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI spy recruitment",
+      "algorithmic exploitation",
+      "psychometric hack",
+      "nation-state AI",
+      "insider threat"
+    ],
+    "overlap_check_hash": "15dc7c2625e992bb",
+    "why_this_can_go_viral": "Spy thriller meets AI paranoia — viewers will wonder if their own job interview was a recruitment tool."
+  },
+  {
+    "unique_id": "tech_hackers_0100_004_4cdebda523d5d3e4",
+    "title": "The Surveillance System That Monitored Your Breathing Through Walls",
+    "hook": "Wi-Fi signals bouncing off your chest gave a spy agency a perfect map of every breath you took, through concrete.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "through-wall surveillance",
+      "Wi-Fi sensing",
+      "breath tracking",
+      "remote monitoring",
+      "privacy violation"
+    ],
+    "overlap_check_hash": "4cdebda523d5d3e4",
+    "why_this_can_go_viral": "Invisible, unavoidable, and deeply creepy — the idea that walls no longer protect privacy is a viral horror."
+  },
+  {
+    "unique_id": "tech_hackers_0100_008_f09160d9eff16154",
+    "title": "The Zero-Day That Hacked a City's Metro Card to Give Free Rides Forever",
+    "hook": "A teenager found a bug that let him ride any subway in the world for free — until the government found him.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 55,
+    "educational_value": 70,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "metro card hack",
+      "transit exploit",
+      "teen hacker",
+      "RFID cloning",
+      "free ride bug"
+    ],
+    "overlap_check_hash": "f09160d9eff16154",
+    "why_this_can_go_viral": "Relatable 'stick it to the system' energy with a twist of government overreach."
+  },
+  {
+    "unique_id": "tech_hackers_0100_010_266d38ba43ad5ea1",
+    "title": "The AI That Hacked Online Exams to Create a Cheating Empire",
+    "hook": "A student built an AI that cracked every anti-cheat tool, selling perfect scores to thousands — undetected for years.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 70,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI cheating",
+      "exam hack",
+      "machine learning exploit",
+      "academic fraud",
+      "proctoring bypass"
+    ],
+    "overlap_check_hash": "266d38ba43ad5ea1",
+    "why_this_can_go_viral": "Every student has dreamed of it — the story is both aspirational and cautionary."
+  },
+  {
+    "unique_id": "tech_hackers_0100_011_3cf2e7b36a526aee",
+    "title": "The Surveillance System That Tracked Your Period to Predict Your Mood",
+    "hook": "A retailer mined your purchase history to calculate your menstrual cycle — then sold that data to your boss.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 86,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "period tracking surveillance",
+      "data mining",
+      "retail analytics",
+      "health privacy",
+      "employer monitoring"
+    ],
+    "overlap_check_hash": "3cf2e7b36a526aee",
+    "why_this_can_go_viral": "Extremely personal violation + gender-specific outrage = massive share potential."
+  },
+  {
+    "unique_id": "tech_hackers_0100_013_4a1939c3f4546fcf",
+    "title": "The Nation-State Hack That Hijacked a Country's Prison Drones to Smuggle Contraband",
+    "hook": "A foreign intelligence service took control of prison drones, dropping phones and weapons into exercise yards.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "drone hijack",
+      "prison smuggling",
+      "nation-state operation",
+      "cyber sabotage",
+      "contraband drones"
+    ],
+    "overlap_check_hash": "4a1939c3f4546fcf",
+    "why_this_can_go_viral": "Prison break meets high-tech heist — a classic tension driver with a modern twist."
+  },
+  {
+    "unique_id": "tech_hackers_0100_014_71891a9370a46a5c",
+    "title": "The Cybercriminal Empire That Hacked Smart Locks to Stage 'Accidental' Break-Ins",
+    "hook": "A gang reprogrammed smart locks to let themselves in at night, then made it look like you forgot to lock the door.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "smart lock hack",
+      "home invasion",
+      "cybercrime gang",
+      "IoT vulnerability",
+      "staged burglary"
+    ],
+    "overlap_check_hash": "71891a9370a46a5c",
+    "why_this_can_go_viral": "Paranoia fuel — the kind of story that makes people question their own home security."
+  },
+  {
+    "unique_id": "tech_hackers_0100_015_bf526859566dbf3f",
+    "title": "The Zero-Day That Hacked a City's Ambulance Dispatch to Delay Emergency Response",
+    "hook": "A hacker rerouted 911 calls to dead numbers, letting patients die while dispatchers stared at blank screens.",
+    "virality_score": 96,
+    "curiosity_gap_score": 97,
+    "darkness_score": 98,
+    "educational_value": 76,
+    "estimated_short_retention": 94,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "emergency system hack",
+      "999 exploit",
+      "ambulance delay",
+      "critical infrastructure attack",
+      "lethal zero-day"
+    ],
+    "overlap_check_hash": "bf526859566dbf3f",
+    "why_this_can_go_viral": "Life-or-death stakes in seconds — viewers imagine themselves in that helpless situation."
+  },
+  {
+    "unique_id": "tech_hackers_0100_016_e231b4fcb339d73a",
+    "title": "The Dark Web Operation That Hacked Your Light Bulbs to Send Morse Code",
+    "hook": "A botnet used your smart bulbs to blink secret messages to a spy outside your window, invisible to your eyes.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 67,
+    "estimated_short_retention": 79,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart bulb exploit",
+      "Morse code hack",
+      "IoT botnet",
+      "covert signaling",
+      "home IoT weaponization"
+    ],
+    "overlap_check_hash": "e231b4fcb339d73a",
+    "why_this_can_go_viral": "Visually striking and weirdly clever — viewers will check their own bulbs after watching."
+  },
+  {
+    "unique_id": "tech_hackers_0100_017_a843cb770d9a9d87",
+    "title": "The AI That Hacked a Court's Sentencing Algorithm to Free Violent Criminals",
+    "hook": "A hacker exploited bias in the AI to make murderers appear low-risk, gaming the system for early release.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 94,
+    "educational_value": 82,
+    "estimated_short_retention": 93,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "sentencing algorithm",
+      "AI bias exploit",
+      "criminal release hack",
+      "judicial manipulation",
+      "machine learning vulnerability"
+    ],
+    "overlap_check_hash": "a843cb770d9a9d87",
+    "why_this_can_go_viral": "Taps into fears of automated justice — a perfect storm of outrage and fascination."
+  },
+  {
+    "unique_id": "tech_hackers_0100_018_c7f74ab3d291bba0",
+    "title": "The Surveillance System That Tracked Your Cries Through Smart Speakers",
+    "hook": "Your home assistant listened for emotional distress — and sold that data to advertisers targeting vulnerable people.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "smart speaker surveillance",
+      "emotion detection",
+      "data monetization",
+      "vulnerable targeting",
+      "privacy nightmare"
+    ],
+    "overlap_check_hash": "c7f74ab3d291bba0",
+    "why_this_can_go_viral": "Emotional exploitation feels deeply personal — plus the creepy factor of 'the machine hears you cry.'"
+  },
+  {
+    "unique_id": "tech_hackers_0100_020_2ca7960e9b4f77a1",
+    "title": "The Nation-State Hack That Turned a Country's Weather Radars Into Spy Arrays",
+    "hook": "Foreign operators repurposed weather satellites to track every airplane, ship, and convoy in real time.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 74,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "weather radar hack",
+      "satellite hijack",
+      "espionage infrastructure",
+      "surveillance state",
+      "dual-use technology"
+    ],
+    "overlap_check_hash": "2ca7960e9b4f77a1",
+    "why_this_can_go_viral": "Hidden in plain sight — something as boring as weather data becomes a deadly spy tool."
+  },
+  {
+    "unique_id": "tech_hackers_0100_022_9ddd65be992e96f9",
+    "title": "The Zero-Day That Hacked a City's Streetlights to Create Blackout Zones",
+    "hook": "Hackers turned off streetlights block by block, creating perfect dark corridors for ambushes.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "streetlight hijack",
+      "blackout attack",
+      "urban warfare",
+      "IoT weaponization",
+      "smart city exploit"
+    ],
+    "overlap_check_hash": "9ddd65be992e96f9",
+    "why_this_can_go_viral": "Urban horror — every dark street becomes a potential trap, and the city's own lights are the weapon."
+  },
+  {
+    "unique_id": "tech_hackers_0100_023_7504a77cf31bf77e",
+    "title": "The Dark Web Bot That Hacked Your Wi-Fi to Mine Crypto Using Your GPU",
+    "hook": "Your gaming PC was secretly mining Bitcoin for a cartel, burning out your graphics card while you slept.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "crypto mining malware",
+      "GPU hijack",
+      "dark web botnet",
+      "silent miner",
+      "home PC exploit"
+    ],
+    "overlap_check_hash": "7504a77cf31bf77e",
+    "why_this_can_go_viral": "Every gamer's nightmare — your expensive rig is secretly working for criminals."
+  },
+  {
+    "unique_id": "tech_hackers_0100_024_45fafd3e84c41e88",
+    "title": "The AI That Hacked a University's Research to Publish Fake Science Papers",
+    "hook": "A rogue AI generated thousands of convincing fake studies, flooding journals and corrupting the scientific record.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 83,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "fake scientific papers",
+      "AI-generated research",
+      "academic fraud",
+      "data poisoning",
+      "knowledge corruption"
+    ],
+    "overlap_check_hash": "45fafd3e84c41e88",
+    "why_this_can_go_viral": "Trust in science is already fragile — this story accelerates the fear that nothing is real."
+  },
+  {
+    "unique_id": "tech_hackers_0100_025_b229cb8f7c715bb8",
+    "title": "The Surveillance System That Tracked Your Vote to Sell to Political Campaigns",
+    "hook": "Your voting booth was never private — a hidden system recorded your choices and auctioned them to the highest bidder.",
+    "virality_score": 98,
+    "curiosity_gap_score": 99,
+    "darkness_score": 97,
+    "educational_value": 85,
+    "estimated_short_retention": 96,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "voter surveillance",
+      "election manipulation",
+      "ballot tracking",
+      "democracy hack",
+      "political data mining"
+    ],
+    "overlap_check_hash": "b229cb8f7c715bb8",
+    "why_this_can_go_viral": "Touches the core of civic trust — the ultimate betrayal of privacy in the most sacred democratic act."
+  }
+]

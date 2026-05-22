@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "science_0107_002_97667a603dd9ed51",
+    "title": "The Forbidden Experiment That Made a Man Forget His Own Name for 20 Years",
+    "hook": "A neuroscientist erased a man’s identity to test if memory could be rewritten, and the subject never recovered.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "memory",
+      "erasure",
+      "identity",
+      "neuroscience",
+      "ethics"
+    ],
+    "overlap_check_hash": "97667a603dd9ed51",
+    "why_this_can_go_viral": "Taps into fear of losing self—high emotional shock and moral outrage."
+  },
+  {
+    "unique_id": "science_0107_003_4544c2e8f5131c9c",
+    "title": "The Biolab That Bred a Bacteria That Eats Your Memories",
+    "hook": "A lab accidentally engineered a microbe that targets the hippocampus, causing total amnesia in infected subjects.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 94,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "bacteria",
+      "memory",
+      "infection",
+      "amnesia",
+      "biohazard"
+    ],
+    "overlap_check_hash": "4544c2e8f5131c9c",
+    "why_this_can_go_viral": "Combines body horror with loss of identity—a viral mix of sci-fi and reality."
+  },
+  {
+    "unique_id": "science_0107_004_013b1d2f9ff3bcd9",
+    "title": "The Physics Anomaly Where a Mirror Reflected the Past",
+    "hook": "A strange crystal mirror showed events that happened hours earlier, breaking our understanding of time.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 72,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "mirror",
+      "time",
+      "crystal",
+      "reflection",
+      "paradox"
+    ],
+    "overlap_check_hash": "013b1d2f9ff3bcd9",
+    "why_this_can_go_viral": "Visual hook of a mirror showing the past is instantly intriguing and shareable."
+  },
+  {
+    "unique_id": "science_0107_005_f506b01faf0675dc",
+    "title": "The Scientific Fraud Who Faked a Pigeon That Could Count",
+    "hook": "A researcher claimed pigeons had math skills, but the entire study was a lie that fooled journals for years.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 68,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fraud",
+      "pigeon",
+      "math",
+      "fake study",
+      "psychology"
+    ],
+    "overlap_check_hash": "f506b01faf0675dc",
+    "why_this_can_go_viral": "Animal intelligence claims always spark debate—exposing a hoax adds justice dopamine."
+  },
+  {
+    "unique_id": "science_0107_006_cd25588b3313f313",
+    "title": "The Lab Catastrophe Where a Fume Hood Vent Turned a Lab Into a Gas Chamber",
+    "hook": "A malfunctioning ventilation system pumped toxic gas into the room, silently killing everyone inside within minutes.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 76,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "gas",
+      "ventilation",
+      "death",
+      "accident",
+      "toxic"
+    ],
+    "overlap_check_hash": "cd25588b3313f313",
+    "why_this_can_go_viral": "High tension, invisible killer—perfect for horror-thirsty science audiences."
+  },
+  {
+    "unique_id": "science_0107_007_b243bd465bbd0f5b",
+    "title": "The Neuroscientist Who Made a Man Hallucinate God by Zapping His Brain",
+    "hook": "A simple electrical pulse to the temporal lobe made an atheist feel the presence of a divine entity.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 90,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "god",
+      "hallucination",
+      "brain",
+      "zap",
+      "religion"
+    ],
+    "overlap_check_hash": "b243bd465bbd0f5b",
+    "why_this_can_go_viral": "Blasphemy, science, and mystery—audiences love questioning reality and faith."
+  },
+  {
+    "unique_id": "science_0107_009_15d4e0dac74ca4a7",
+    "title": "The Chemist Who Made a Polymer That Stops Your Heartbeat by Touch",
+    "hook": "A rubber-like substance that absorbs into skin and disrupts cardiac rhythm—designed by accident.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 96,
+    "educational_value": 77,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "polymer",
+      "heart",
+      "touch",
+      "toxic",
+      "accident"
+    ],
+    "overlap_check_hash": "15d4e0dac74ca4a7",
+    "why_this_can_go_viral": "Tactile danger triggers primal fear; easy to imagine in horror scenarios."
+  },
+  {
+    "unique_id": "science_0107_010_fa18cd3b8c0c9aa4",
+    "title": "The Forbidden Experiment That Fused a Human Egg With a Fish Embryo",
+    "hook": "A rogue biologist created a chimera that survived for months, blurring the species boundary forever.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "chimera",
+      "hybrid",
+      "fish",
+      "human",
+      "embryo"
+    ],
+    "overlap_check_hash": "fa18cd3b8c0c9aa4",
+    "why_this_can_go_viral": "Gross, unethical, and visually disturbing—perfect dark content."
+  },
+  {
+    "unique_id": "science_0107_011_50d9fff59324e44b",
+    "title": "The Biolab That Bred a Virus That Makes You Love Everything",
+    "hook": "A modified pathogen hijacked the brain's pleasure centers, causing uncontrollable euphoria—then fatal overdose.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 79,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "virus",
+      "love",
+      "pleasure",
+      "addiction",
+      "death"
+    ],
+    "overlap_check_hash": "50d9fff59324e44b",
+    "why_this_can_go_viral": "Twisted irony—love as a weapon—high emotional contrast."
+  },
+  {
+    "unique_id": "science_0107_013_46107f9f437bf1af",
+    "title": "The Scientific Fraud Who Faked a Blood Test That Killed 50 People",
+    "hook": "A doctor fabricated blood test results for years, prescribing lethal doses based on false data.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 100,
+    "educational_value": 88,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "blood",
+      "fraud",
+      "death",
+      "doctor",
+      "scandal"
+    ],
+    "overlap_check_hash": "46107f9f437bf1af",
+    "why_this_can_go_viral": "True crime meets science—high stakes and moral fury."
+  },
+  {
+    "unique_id": "science_0107_014_fa49972c41f1defa",
+    "title": "The Lab Catastrophe Where a Centrifuge Exploded and Shrapnel Killed a Scientist",
+    "hook": "A high-speed centrifuge shattered, sending metal fragments through the lab—one hit the operator's skull.",
+    "virality_score": 87,
+    "curiosity_gap_score": 88,
+    "darkness_score": 93,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "centrifuge",
+      "explosion",
+      "death",
+      "lab",
+      "accident"
+    ],
+    "overlap_check_hash": "fa49972c41f1defa",
+    "why_this_can_go_viral": "Gory, shocking, and relatable to anyone who has used lab equipment."
+  },
+  {
+    "unique_id": "science_0107_015_ae8cb2d31da50ce3",
+    "title": "The Neuroscientist Who Made a Man See Numbers as Colors Forever",
+    "hook": "A brain stimulation experiment permanently induced synesthesia, and the subject never saw the world the same way again.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 84,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "synesthesia",
+      "brain",
+      "stimulation",
+      "permanent",
+      "color"
+    ],
+    "overlap_check_hash": "ae8cb2d31da50ce3",
+    "why_this_can_go_viral": "Visually rich concept—audiences love altered perception stories."
+  },
+  {
+    "unique_id": "science_0107_016_a5b2fe552d91fe93",
+    "title": "The Quantum Paradox Where a Particle Existed in Infinite Locations at Once",
+    "hook": "A single particle was observed in every possible position simultaneously—until someone measured it.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 65,
+    "educational_value": 89,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum",
+      "particle",
+      "infinite",
+      "locations",
+      "observation"
+    ],
+    "overlap_check_hash": "a5b2fe552d91fe93",
+    "why_this_can_go_viral": "Mind-bending but accessible—great for clickbait and discussion."
+  },
+  {
+    "unique_id": "science_0107_018_43b1b2c77089ba49",
+    "title": "The Forbidden Experiment That Gave a Human the Hearing of a Bat",
+    "hook": "A scientist surgically modified a subject's ears to detect ultrasonic frequencies, permanently altering perception.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 79,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "bat",
+      "hearing",
+      "ultrasonic",
+      "surgery",
+      "modification"
+    ],
+    "overlap_check_hash": "43b1b2c77089ba49",
+    "why_this_can_go_viral": "Body horror meets superhuman fantasy—huge curiosity."
+  },
+  {
+    "unique_id": "science_0107_019_c5dbfbf11406b96d",
+    "title": "The Biolab That Bred a Fungus That Makes You Forget You're Human",
+    "hook": "A parasitic fungus hijacks the brain, causing humans to act like animals before total collapse.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fungus",
+      "zombie",
+      "brain",
+      "parasite",
+      "humanity"
+    ],
+    "overlap_check_hash": "c5dbfbf11406b96d",
+    "why_this_can_go_viral": "Zombie fears are evergreen—real science makes it scarier."
+  },
+  {
+    "unique_id": "science_0107_020_a6b9f803a39b6470",
+    "title": "The Physics Anomaly Where a Magnet Made People Hallucinate Alien Voices",
+    "hook": "A powerful magnetic field induced auditory hallucinations in a lab, making subjects hear voices from nowhere.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 81,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "magnet",
+      "hallucination",
+      "voices",
+      "alien",
+      "field"
+    ],
+    "overlap_check_hash": "a6b9f803a39b6470",
+    "why_this_can_go_viral": "Alien voice angle triggers paranormal curiosity—science hook keeps it credible."
+  },
+  {
+    "unique_id": "science_0107_021_3808b620ce4269b1",
+    "title": "The Scientific Fraud Who Faked a Study That Showed Rice Could Think",
+    "hook": "A biologist claimed rice plants had consciousness, but the data was entirely invented to gain fame.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 63,
+    "educational_value": 83,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "rice",
+      "consciousness",
+      "fraud",
+      "plant",
+      "fake"
+    ],
+    "overlap_check_hash": "3808b620ce4269b1",
+    "why_this_can_go_viral": "Absurd premise sparks laughter and outrage—high shareability."
+  },
+  {
+    "unique_id": "science_0107_022_0f9d6e555f746ca8",
+    "title": "The Lab Catastrophe Where a Radioactive Leak Made a Town Glow at Night",
+    "hook": "A small lab accident leaked radium into the water supply, and the entire town started glowing faintly in the dark.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 85,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "radioactive",
+      "glow",
+      "town",
+      "leak",
+      "radium"
+    ],
+    "overlap_check_hash": "0f9d6e555f746ca8",
+    "why_this_can_go_viral": "Visual spectacle—glowing town is eerie and unforgettable."
+  },
+  {
+    "unique_id": "science_0107_024_364ea0d6e9a9c810",
+    "title": "The Quantum Paradox Where a Clock Tick Faster Inside a Diamond",
+    "hook": "A diamond lattice slowed the flow of time for atoms inside, creating a microscopic time machine.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 86,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "clock",
+      "diamond",
+      "time",
+      "quantum",
+      "slow"
+    ],
+    "overlap_check_hash": "364ea0d6e9a9c810",
+    "why_this_can_go_viral": "Time manipulation always hooks—diamond adds luxury intrigue."
+  },
+  {
+    "unique_id": "science_0107_025_801456197497248a",
+    "title": "The Chemist Who Drank a Poison Every Day to Build Immunity—And Nearly Died",
+    "hook": "A scientist self-experimented with arsenic, slowly increasing the dose until he collapsed in his lab.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 78,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "arsenic",
+      "poison",
+      "immunity",
+      "self-experiment",
+      "death"
+    ],
+    "overlap_check_hash": "801456197497248a",
+    "why_this_can_go_viral": "Personal risk, survival story, and morbid curiosity—perfect combo."
+  }
+]

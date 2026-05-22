@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "military_0077_001_d224bf43596b459a",
+    "title": "The Black Budget Project That Built a Camera Powered by Eyeballs",
+    "hook": "They harvested dead soldiers' eyes to power a surveillance satellite that could see through clouds.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "military",
+    "subcategory": "black budget programs",
+    "keywords": [
+      "black budget",
+      "satellite",
+      "eye harvesting",
+      "surveillance",
+      "classified tech"
+    ],
+    "overlap_check_hash": "d224bf43596b459a",
+    "why_this_can_go_viral": "Combines body horror with secret tech — viewers will be morbidly fascinated and share immediately."
+  },
+  {
+    "unique_id": "military_0077_002_5825bb7fb42ed970",
+    "title": "The Classified Op Where a Soldier Was Programmed to Kill His Own Commander",
+    "hook": "A top-secret psychological conditioning experiment turned a decorated officer into an unwitting assassin.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "mind control",
+      "assassin",
+      "brainwashing",
+      "MKUltra",
+      "conditioning"
+    ],
+    "overlap_check_hash": "5825bb7fb42ed970",
+    "why_this_can_go_viral": "Betrayal and mind control are universal triggers — the twist that the soldier didn't know he was programmed keeps viewers hooked."
+  },
+  {
+    "unique_id": "military_0077_003_10b6daf62a907f59",
+    "title": "The Covert Mission That Hid a Spy Inside a Military Funeral",
+    "hook": "They buried a live agent in a fake corpse's casket to smuggle him past enemy lines.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "military",
+    "subcategory": "covert missions",
+    "keywords": [
+      "covert mission",
+      "spy",
+      "casket",
+      "infiltration",
+      "rescue"
+    ],
+    "overlap_check_hash": "10b6daf62a907f59",
+    "why_this_can_go_viral": "The funeral setting creates solemn tension, and the hidden passenger twist is unforgettable."
+  },
+  {
+    "unique_id": "military_0077_006_75acba3a91cf5e52",
+    "title": "The Soldier Experiment Where Troops Were Starved and Then Fed Human Flesh",
+    "hook": "A secret survival test forced soldiers to eat their own fallen comrades — without their knowledge.",
+    "virality_score": 94,
+    "curiosity_gap_score": 95,
+    "darkness_score": 100,
+    "educational_value": 79,
+    "estimated_short_retention": 93,
+    "niche_name": "military",
+    "subcategory": "soldier experiments",
+    "keywords": [
+      "cannibalism",
+      "survival test",
+      "soldier experiment",
+      "deception",
+      "trauma"
+    ],
+    "overlap_check_hash": "75acba3a91cf5e52",
+    "why_this_can_go_viral": "Extreme taboo combined with military deception — viewers will be shocked and share out of disbelief."
+  },
+  {
+    "unique_id": "military_0077_007_19a0be1838da1436",
+    "title": "The Psychological Op That Used a Recorded Scream to Drive Enemy Soldiers Insane",
+    "hook": "They broadcast a single, looping scream of a dying woman for 72 hours straight across the front lines.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 93,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "scream",
+      "psychological warfare",
+      "audio torture",
+      "propaganda",
+      "sleep deprivation"
+    ],
+    "overlap_check_hash": "19a0be1838da1436",
+    "why_this_can_go_viral": "Audio-based horror taps into primal fear — viewers will imagine the sound and feel uneasy."
+  },
+  {
+    "unique_id": "military_0077_009_51318be5c2a48186",
+    "title": "The Covert Mission Where Soldiers Infiltrated a Base Using Children's Toys",
+    "hook": "They hid explosives inside teddy bears and used toy cars to smuggle listening devices past armed guards.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "military",
+    "subcategory": "covert missions",
+    "keywords": [
+      "toy smuggling",
+      "infiltration",
+      "explosives",
+      "children",
+      "covert"
+    ],
+    "overlap_check_hash": "51318be5c2a48186",
+    "why_this_can_go_viral": "The innocence of toys weaponized creates moral dissonance that viewers will find fascinating."
+  },
+  {
+    "unique_id": "military_0077_010_477df29ebc504444",
+    "title": "The War Crime Where Doctors Drilled Holes into POWs' Skulls Without Anesthesia",
+    "hook": "They wanted to measure how much pressure a living brain could withstand before the soldier died.",
+    "virality_score": 90,
+    "curiosity_gap_score": 91,
+    "darkness_score": 98,
+    "educational_value": 81,
+    "estimated_short_retention": 89,
+    "niche_name": "military",
+    "subcategory": "war crimes hidden",
+    "keywords": [
+      "trepanation",
+      "POW",
+      "medical torture",
+      "skull drilling",
+      "pain experiment"
+    ],
+    "overlap_check_hash": "477df29ebc504444",
+    "why_this_can_go_viral": "Graphic medical horror with historical reality — viewers will be both repulsed and unable to look away."
+  },
+  {
+    "unique_id": "military_0077_011_ce26a0114b81bee0",
+    "title": "The Soldier Experiment Where They Were Injected with a Paralytic and Left Conscious",
+    "hook": "They wanted to see if troops could still follow orders while fully paralyzed and aware of everything.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 77,
+    "estimated_short_retention": 83,
+    "niche_name": "military",
+    "subcategory": "soldier experiments",
+    "keywords": [
+      "paralysis",
+      "conscious",
+      "experiment",
+      "chemical weapon",
+      "obedience"
+    ],
+    "overlap_check_hash": "ce26a0114b81bee0",
+    "why_this_can_go_viral": "The terror of being trapped inside your own body is a universal fear — especially when ordered to fight."
+  },
+  {
+    "unique_id": "military_0077_014_72bd5a10eb28d81e",
+    "title": "The Psychological Op That Forced POWs to Watch Their Own Funerals",
+    "hook": "They staged a fake burial with a double in a coffin — then told the prisoner he was a ghost.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 94,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "funeral",
+      "psychological torture",
+      "POW",
+      "identity crisis",
+      "mind game"
+    ],
+    "overlap_check_hash": "72bd5a10eb28d81e",
+    "why_this_can_go_viral": "The ultimate identity-breaking tactic — viewers will imagine the horror of believing you're dead."
+  },
+  {
+    "unique_id": "military_0077_016_c0f034734b663e02",
+    "title": "The Soldier Experiment Where They Were Given a Drug That Removed All Fear of Death",
+    "hook": "Troops on this chemical became completely indifferent to dying — they walked into machine-gun fire without flinching.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 91,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "military",
+    "subcategory": "soldier experiments",
+    "keywords": [
+      "fearless",
+      "drug experiment",
+      "chemical",
+      "suicide mission",
+      "mind control"
+    ],
+    "overlap_check_hash": "c0f034734b663e02",
+    "why_this_can_go_viral": "The terrifying idea of losing your survival instinct resonates deeply — viewers will debate ethics in comments."
+  },
+  {
+    "unique_id": "military_0077_018_1e465b86635596d8",
+    "title": "The War Crime Where Prisoners Were Forced to Fight Their Own Family Members",
+    "hook": "They captured enemy soldiers, brought in their wives and children — then made them battle to the death.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 100,
+    "educational_value": 77,
+    "estimated_short_retention": 92,
+    "niche_name": "military",
+    "subcategory": "war crimes hidden",
+    "keywords": [
+      "family",
+      "forced combat",
+      "POW",
+      "atrocity",
+      "psychological destruction"
+    ],
+    "overlap_check_hash": "1e465b86635596d8",
+    "why_this_can_go_viral": "Unimaginable emotional brutality — viewers will be outraged, saddened, and compelled to share."
+  },
+  {
+    "unique_id": "military_0077_019_01c9e36a526f18b7",
+    "title": "The Secret Weapons Program That Designed a Gas That Makes Soldiers See Monsters",
+    "hook": "A hallucinogenic agent that caused troops to attack their own shadows — and then each other.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "military",
+    "subcategory": "secret weapons programs",
+    "keywords": [
+      "hallucinogen",
+      "gas",
+      "friendly fire",
+      "chemical weapon",
+      "paranoia"
+    ],
+    "overlap_check_hash": "01c9e36a526f18b7",
+    "why_this_can_go_viral": "Turning allies into enemies through chemically induced terror is a chilling concept with high shock value."
+  },
+  {
+    "unique_id": "military_0077_020_9dbc916ea9ec3a33",
+    "title": "The Psychological Op That Used a Fake Radio Station to Make Enemy Troops Mutiny",
+    "hook": "They broadcast coded messages that convinced soldiers their own officers were plotting to kill them.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 87,
+    "educational_value": 79,
+    "estimated_short_retention": 80,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "radio",
+      "mutiny",
+      "propaganda",
+      "disinformation",
+      "coup"
+    ],
+    "overlap_check_hash": "9dbc916ea9ec3a33",
+    "why_this_can_go_viral": "The idea of turning an army against itself using only words is brilliant and terrifying."
+  },
+  {
+    "unique_id": "military_0077_021_1878ae1cba481d8d",
+    "title": "The Classified Operation Where They Buried a Submarine Under a Mountain",
+    "hook": "They excavated a secret canal through solid rock to hide a nuclear sub inside a hollowed-out peak.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "military",
+    "subcategory": "classified operations",
+    "keywords": [
+      "submarine",
+      "mountain",
+      "secret base",
+      "excavation",
+      "navy"
+    ],
+    "overlap_check_hash": "1878ae1cba481d8d",
+    "why_this_can_go_viral": "Massive engineering feat hidden from the world — viewers love discovering secret infrastructure."
+  },
+  {
+    "unique_id": "military_0077_023_6c7cf891d9d1cb10",
+    "title": "The Soldier Experiment Where They Were Kept in a Cage Underwater for 30 Days",
+    "hook": "Submerged in a steel box with breathing tubes, they tested if humans could endure weeks of sensory deprivation.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 81,
+    "estimated_short_retention": 85,
+    "niche_name": "military",
+    "subcategory": "soldier experiments",
+    "keywords": [
+      "underwater",
+      "cage",
+      "sensory deprivation",
+      "endurance",
+      "psychological breakdown"
+    ],
+    "overlap_check_hash": "6c7cf891d9d1cb10",
+    "why_this_can_go_viral": "Claustrophobia and isolation are primal fears — viewers will imagine the crushing darkness."
+  },
+  {
+    "unique_id": "military_0077_024_b8fed4be8593c0fc",
+    "title": "The Covert Mission Where Commandos Used a Floating Corpse to Deliver a Bomb",
+    "hook": "They strapped explosives to a dead body and floated it downstream into a heavily guarded dam.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 76,
+    "estimated_short_retention": 83,
+    "niche_name": "military",
+    "subcategory": "covert missions",
+    "keywords": [
+      "corpse",
+      "bomb",
+      "dam",
+      "infiltration",
+      "explosives"
+    ],
+    "overlap_check_hash": "b8fed4be8593c0fc",
+    "why_this_can_go_viral": "Using a corpse as a delivery system is macabre and clever — viewers will be both impressed and disturbed."
+  }
+]

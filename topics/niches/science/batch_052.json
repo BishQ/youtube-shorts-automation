@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "science_0052_001_f516059a84626b89",
+    "title": "The Scientist Who Drank a Vial of His Own Feces to Prove a Point",
+    "hook": "A doctor swallowed a tube of his own waste to show that stomach acid can't kill everything — and what grew inside him nearly killed him.",
+    "virality_score": 88,
+    "curiosity_gap_score": 95,
+    "darkness_score": 82,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "self-experiment",
+      "gut bacteria",
+      "medical horror",
+      "stomach acid",
+      "fecal transplant"
+    ],
+    "overlap_check_hash": "f516059a84626b89",
+    "why_this_can_go_viral": "The visceral disgust and sheer audacity of the act triggers extreme curiosity and shareability."
+  },
+  {
+    "unique_id": "science_0052_002_8fbb5236cd551522",
+    "title": "The Lab Where Scientists Accidentally Gave Rats Human Brain Cells",
+    "hook": "A routine stem cell injection created a hybrid rat with human neurons — and it started solving mazes in ways no rat should.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "human-animal hybrid",
+      "stem cells",
+      "chimeric brain",
+      "neurosurgery",
+      "ethics scandal"
+    ],
+    "overlap_check_hash": "8fbb5236cd551522",
+    "why_this_can_go_viral": "The idea of a rat with human thoughts taps into deep ethical dread and sci-fi fascination."
+  },
+  {
+    "unique_id": "science_0052_004_13934d7f6afdde82",
+    "title": "The Quantum Glitch That Made a Particle Older Than the Universe",
+    "hook": "Physicists measured a particle that existed for less than a second — but its internal clock said it had been alive for billions of years.",
+    "virality_score": 87,
+    "curiosity_gap_score": 94,
+    "darkness_score": 70,
+    "educational_value": 90,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time dilation",
+      "muon decay",
+      "relativity",
+      "particle physics",
+      "quantum weirdness"
+    ],
+    "overlap_check_hash": "13934d7f6afdde82",
+    "why_this_can_go_viral": "The paradox of something being older than the cosmos breaks intuitive understanding and sparks awe."
+  },
+  {
+    "unique_id": "science_0052_005_05cb77a7c64200be",
+    "title": "The Neuroscientist Who Found That Your Brain Can Commit Suicide",
+    "hook": "A tiny cluster of neurons, if triggered, can shut down your entire consciousness — and we don't know why it exists.",
+    "virality_score": 92,
+    "curiosity_gap_score": 97,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain suicide switch",
+      "neuron death",
+      "consciousness",
+      "brainstem",
+      "death mechanism"
+    ],
+    "overlap_check_hash": "05cb77a7c64200be",
+    "why_this_can_go_viral": "The idea that our own brain can kill us without warning is terrifying and deeply intriguing."
+  },
+  {
+    "unique_id": "science_0052_006_4997336dac6980dd",
+    "title": "The Fraud Scientist Who Invented a 'Crystal That Heals Cancer' — and Hospitals Believed Him",
+    "hook": "For a decade, doctors used his fake cure on terminal patients, and the crystal did nothing but absorb their money.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fake cure",
+      "cancer scam",
+      "pseudoscience",
+      "medical fraud",
+      "alternative medicine myth"
+    ],
+    "overlap_check_hash": "4997336dac6980dd",
+    "why_this_can_go_viral": "Outrage and schadenfreude at a fake healer preying on the dying is powerful emotional content."
+  },
+  {
+    "unique_id": "science_0052_008_e1e83fe17424b3d0",
+    "title": "The Forbidden Experiment That Wired a Human Brain to a Computer — and It Started Crying",
+    "hook": "When electrodes touched the amygdala, the subject began weeping uncontrollably, unable to explain why.",
+    "virality_score": 90,
+    "curiosity_gap_score": 96,
+    "darkness_score": 89,
+    "educational_value": 77,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "brain-computer interface",
+      "electrode stimulation",
+      "amygdala",
+      "emotion control",
+      "mind control"
+    ],
+    "overlap_check_hash": "e1e83fe17424b3d0",
+    "why_this_can_go_viral": "Direct manipulation of emotion feels like sci-fi brain hacking made real — and deeply unsettling."
+  },
+  {
+    "unique_id": "science_0052_009_af53d5bb4aa578a4",
+    "title": "The Lab Accident That Made a Bacterium Immune to All Antibiotics — Including Bleach",
+    "hook": "A single mistake in a petri dish created a superbug that no known substance can kill — and it escaped the lab.",
+    "virality_score": 93,
+    "curiosity_gap_score": 98,
+    "darkness_score": 96,
+    "educational_value": 85,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "superbug",
+      "antibiotic resistance",
+      "lab leak",
+      "biosafety",
+      "doomsday pathogen"
+    ],
+    "overlap_check_hash": "af53d5bb4aa578a4",
+    "why_this_can_go_viral": "Fear of a real-life unstoppable disease is primal and highly shareable."
+  },
+  {
+    "unique_id": "science_0052_010_ae2928255f48ffb9",
+    "title": "The Chemist Who Discovered a Molecule That Turns Water Into Fire",
+    "hook": "Mix a clear liquid with water and the solution erupts into a geyser of flame — it should be impossible.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 76,
+    "educational_value": 84,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "pyrophoric",
+      "water-reactive",
+      "dangerous chemicals",
+      "lab explosion",
+      "chemical fire"
+    ],
+    "overlap_check_hash": "ae2928255f48ffb9",
+    "why_this_can_go_viral": "The visual paradox of water — the firefighter — causing fire is irresistible."
+  },
+  {
+    "unique_id": "science_0052_011_1604c69364a256c2",
+    "title": "The Neuroscientist Who Showed That Your Brain Has a 'Delete Mode' for Traumatic Memories",
+    "hook": "She found that a specific protein, when blocked, can erase the emotional sting of a memory without removing the memory itself.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 80,
+    "educational_value": 86,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory erasure",
+      "trauma therapy",
+      "PTSD",
+      "amygdala",
+      "brain reprogramming"
+    ],
+    "overlap_check_hash": "1604c69364a256c2",
+    "why_this_can_go_viral": "The possibility of erasing emotional pain is both hopeful and terrifying — perfect for debate."
+  },
+  {
+    "unique_id": "science_0052_012_daba83ebf4449485",
+    "title": "The Quantum Experiment That Made a Particle Exist in Two Places at Once — While Being Observed",
+    "hook": "They put a detector in both paths, and the particle still appeared in both — the laws of physics broke live on camera.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 68,
+    "educational_value": 91,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "double slit",
+      "quantum superposition",
+      "observer effect",
+      "wave function",
+      "reality is a lie"
+    ],
+    "overlap_check_hash": "daba83ebf4449485",
+    "why_this_can_go_viral": "Seeing a particle do the impossible on video is the ultimate mind-bender."
+  },
+  {
+    "unique_id": "science_0052_013_20b01c22876ce342",
+    "title": "The Researcher Who Faked a Study That Sharks Can Smell Human Fear",
+    "hook": "The paper went viral, surfers changed behavior, and then it turned out the entire experiment was fabricated — but the fear didn't go away.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "shark attack",
+      "fake study",
+      "fear pheromones",
+      "marine biology",
+      "fearmongering"
+    ],
+    "overlap_check_hash": "20b01c22876ce342",
+    "why_this_can_go_viral": "The mix of primal ocean fear plus betrayal by 'science' is emotionally charged."
+  },
+  {
+    "unique_id": "science_0052_015_7cb82fe62a3c6fb2",
+    "title": "The Lab That Created a 'Zombie' Virus That Reanimates Dead Cells",
+    "hook": "Scientists injected a chemical cocktail into dead brain tissue and watched it fire electrical signals for hours.",
+    "virality_score": 92,
+    "curiosity_gap_score": 97,
+    "darkness_score": 94,
+    "educational_value": 78,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "zombie cells",
+      "tissue reanimation",
+      "post-mortem",
+      "brain activity",
+      "ethics nightmare"
+    ],
+    "overlap_check_hash": "7cb82fe62a3c6fb2",
+    "why_this_can_go_viral": "The zombie label is irresistible clickbait, and the real science is even creepier."
+  },
+  {
+    "unique_id": "science_0052_016_819e228355fd02d5",
+    "title": "The Forbidden Experiment That Tried to Graft a Human Arm onto a Monkey",
+    "hook": "In the early 20th century, surgeons attached a donor arm to a monkey's neck — and it tried to use it.",
+    "virality_score": 89,
+    "curiosity_gap_score": 96,
+    "darkness_score": 92,
+    "educational_value": 73,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "transplant history",
+      "animal testing",
+      "xenotransplantation",
+      "grotesque surgery",
+      "medical atrocities"
+    ],
+    "overlap_check_hash": "819e228355fd02d5",
+    "why_this_can_go_viral": "The image is so grotesque and bizarre that viewers cannot look away."
+  },
+  {
+    "unique_id": "science_0052_017_2c61c83a38f8d190",
+    "title": "The Chemist Who Made a Plastic That Eats Itself and Never Degrades Fully",
+    "hook": "He created a polymer that breaks down into microplastic — but never into harmless molecules, poisoning the soil forever.",
+    "virality_score": 82,
+    "curiosity_gap_score": 89,
+    "darkness_score": 84,
+    "educational_value": 83,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "microplastics",
+      "forever chemicals",
+      "polymer degradation",
+      "environmental disaster",
+      "plastic pollution"
+    ],
+    "overlap_check_hash": "2c61c83a38f8d190",
+    "why_this_can_go_viral": "Eco-anxiety is high — this story adds a shocking twist to a known problem."
+  },
+  {
+    "unique_id": "science_0052_018_67475121c669a94a",
+    "title": "The Neuroscientist Who Discovered That Anesthesia Is Just Controlled Brain Poisoning",
+    "hook": "Your brain doesn't 'fall asleep' under anesthesia — it's chemically paralyzed, and no one fully understands how.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 86,
+    "educational_value": 88,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "anesthesia mystery",
+      "consciousness",
+      "brain poisoning",
+      "surgery horror",
+      "unknown mechanism"
+    ],
+    "overlap_check_hash": "67475121c669a94a",
+    "why_this_can_go_viral": "The fact that we use a drug daily that we don't fully understand is deeply unsettling."
+  },
+  {
+    "unique_id": "science_0052_020_0b67a77a07a5969a",
+    "title": "The Lab Accident That Turned a Scientist's Hand into a Glowing Blue Lantern",
+    "hook": "A vial of luciferase broke on his skin, and for weeks his hand glowed blue in the dark — his cells had become fireflies.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 74,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "bioluminescence",
+      "luciferase",
+      "lab accident",
+      "glowing skin",
+      "freak biology"
+    ],
+    "overlap_check_hash": "0b67a77a07a5969a",
+    "why_this_can_go_viral": "The visual of a glowing human hand is surreal and shareable."
+  },
+  {
+    "unique_id": "science_0052_021_bbc681929cde8ddb",
+    "title": "The Researcher Who Faked a Study That Yawning Is Contagious Only If You're Evil",
+    "hook": "The paper claimed psychopaths don't yawn — and it was cited for years before anyone checked if it was real.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 73,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "yawn study",
+      "psychopath myth",
+      "fake psychology",
+      "social contagion",
+      "debunked science"
+    ],
+    "overlap_check_hash": "bbc681929cde8ddb",
+    "why_this_can_go_viral": "It's a relatable everyday behavior turned into a dark personality test."
+  },
+  {
+    "unique_id": "science_0052_025_c54ecbd018c4ac69",
+    "title": "The Neuroscientist Who Showed That Your Brain Can Be Hacked with Ultrasound",
+    "hook": "They aimed a silent beam at a subject's frontal lobe — and the person suddenly felt overwhelming sadness, then joy, on command.",
+    "virality_score": 91,
+    "curiosity_gap_score": 97,
+    "darkness_score": 90,
+    "educational_value": 85,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "ultrasound brain hacking",
+      "emotion control",
+      "neural stimulation",
+      "remote mind influence",
+      "weaponized sound"
+    ],
+    "overlap_check_hash": "c54ecbd018c4ac69",
+    "why_this_can_go_viral": "The idea of remote-controlled emotions by an invisible beam is both terrifying and fascinating."
+  }
+]

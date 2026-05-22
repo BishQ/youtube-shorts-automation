@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "sports_0085_001_a1d11425f6ef9354",
+    "title": "The Doctor Who Harvested Athletes' Tendons Without Consent",
+    "hook": "Olympic medalists were waking up with scars they couldn't explain.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "harvested tendons",
+      "athlete abuse",
+      "sports doctor",
+      "Olympic scandal",
+      "medical exploitation"
+    ],
+    "overlap_check_hash": "a1d11425f6ef9354",
+    "why_this_can_go_viral": "Body horror + betrayal of trust by a medical professional makes it shareable and controversial."
+  },
+  {
+    "unique_id": "sports_0085_002_c351637781c4410a",
+    "title": "The Mafia That Fixed Sumo Matches by Poisoning Wrestlers",
+    "hook": "They weren't throwing fights — they were dying in the ring.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "sumo mafia",
+      "poisoned wrestlers",
+      "yakuza sumo",
+      "match fixing",
+      "deadly sumo"
+    ],
+    "overlap_check_hash": "c351637781c4410a",
+    "why_this_can_go_viral": "Sumo is sacred in Japan; the idea of mafia poisoning wrestlers is shocking and culturally explosive."
+  },
+  {
+    "unique_id": "sports_0085_003_fed3fb354e885b36",
+    "title": "The Lab That Tried to Make Swimmers Grow Webbed Feet",
+    "hook": "Soviet scientists thought slicing skin between toes would create Olympic champions.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "webbed feet surgery",
+      "Soviet experiments",
+      "swimming performance",
+      "body modification",
+      "sports science gone wrong"
+    ],
+    "overlap_check_hash": "fed3fb354e885b36",
+    "why_this_can_go_viral": "Grotesque experimental surgery on athletes triggers curiosity and disgust — perfect for shorts."
+  },
+  {
+    "unique_id": "sports_0085_004_bf033b99c9924a54",
+    "title": "The Psychologist Who Made a Golfer Miss Putts by Whispering Numbers",
+    "hook": "Every time he heard the number 7, his hands would tremble uncontrollably.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "subliminal golf",
+      "psychologist manipulation",
+      "sports mind control",
+      "PGA sabotage",
+      "triggered anxiety"
+    ],
+    "overlap_check_hash": "bf033b99c9924a54",
+    "why_this_can_go_viral": "Psychological manipulation in a precision sport is fascinating and creepy, easy to visualize."
+  },
+  {
+    "unique_id": "sports_0085_005_693448946f5be645",
+    "title": "The Referee Who Fixed Basketball Games Using His Fingernail Polish",
+    "hook": "Each colored nail was a different signal to the betting syndicate.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "fingernail polish code",
+      "basketball fixing",
+      "referee signals",
+      "NBA scandal",
+      "betting code"
+    ],
+    "overlap_check_hash": "693448946f5be645",
+    "why_this_can_go_viral": "Hidden-in-plain-sight visual code is easy to explain and feels like a spy movie."
+  },
+  {
+    "unique_id": "sports_0085_006_4b7cce8b7208a950",
+    "title": "The Betting Ring That Used Ice Cream Truck Music to Signal Goals",
+    "hook": "Children ran for treats while gamblers ran for millions.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 75,
+    "educational_value": 60,
+    "estimated_short_retention": 78,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "ice cream truck code",
+      "soccer betting",
+      "hidden signals",
+      "match fixing scheme",
+      "innocent cover"
+    ],
+    "overlap_check_hash": "4b7cce8b7208a950",
+    "why_this_can_go_viral": "Juxtaposition of childhood innocence and gambling crime creates a memorable, shareable story."
+  },
+  {
+    "unique_id": "sports_0085_007_d3f6f21a72c22b5c",
+    "title": "The Coach Who Zapped His Players' Brains With Electricity Before Games",
+    "hook": "They thought it was focus training — it was causing memory loss.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 74,
+    "estimated_short_retention": 89,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "brain zapping",
+      "electrical abuse",
+      "sports coach",
+      "memory loss athletes",
+      "neurological damage"
+    ],
+    "overlap_check_hash": "d3f6f21a72c22b5c",
+    "why_this_can_go_viral": "Brain manipulation is inherently terrifying and taps into fears about technology and control."
+  },
+  {
+    "unique_id": "sports_0085_008_6cc02a4cafac4b99",
+    "title": "The Mafia That Owned a Cycling Team's Support Cars to Pass Doping Orders",
+    "hook": "The spare tire wasn't for flats — it was filled with synthetic blood.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 73,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "cycling mafia",
+      "doping orders",
+      "support car smuggling",
+      "synthetic blood",
+      "Tour de France crime"
+    ],
+    "overlap_check_hash": "6cc02a4cafac4b99",
+    "why_this_can_go_viral": "Combines mafia intrigue with cycling's notorious doping history — a proven viral mix."
+  },
+  {
+    "unique_id": "sports_0085_010_f4a54425b02da673",
+    "title": "The Referee Who Fixed Tennis Matches by Cleaning the Lines",
+    "hook": "A single brush stroke could erase a player's career.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 76,
+    "educational_value": 64,
+    "estimated_short_retention": 77,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "tennis line brushing",
+      "referee fix",
+      "court manipulation",
+      "tennis scandal",
+      "subtle cheating"
+    ],
+    "overlap_check_hash": "f4a54425b02da673",
+    "why_this_can_go_viral": "Simple, visual, and shows how tiny actions can corrupt elite sports."
+  },
+  {
+    "unique_id": "sports_0085_011_227e130b7cda4a9a",
+    "title": "The Psychologist Who Made a Skiier Fear Snow Using Hypnosis",
+    "hook": "She was a champion — until she couldn't step onto a slope without screaming.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 79,
+    "educational_value": 69,
+    "estimated_short_retention": 83,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "hypnosis sabotage",
+      "skiier fear",
+      "psychological warfare",
+      "sports psychologist",
+      "destroyed career"
+    ],
+    "overlap_check_hash": "227e130b7cda4a9a",
+    "why_this_can_go_viral": "Turning a natural element into a phobia via hypnosis is a gripping psychological thriller premise."
+  },
+  {
+    "unique_id": "sports_0085_012_e183066d67a066e8",
+    "title": "The Doping Network That Used Funeral Homes to Store Blood Bags",
+    "hook": "The dead were keeping the living artificially strong.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 96,
+    "educational_value": 78,
+    "estimated_short_retention": 93,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "funeral home doping",
+      "blood bags",
+      "cycling scandal",
+      "hidden doping",
+      "corpse storage"
+    ],
+    "overlap_check_hash": "e183066d67a066e8",
+    "why_this_can_go_viral": "Extreme macabre imagery combined with a shocking hidden system — almost guaranteed to be shared."
+  },
+  {
+    "unique_id": "sports_0085_013_752686250d77f394",
+    "title": "The Businessman Who Sold 'Altitude Tents' That Were Carbon Monoxide Chambers",
+    "hook": "Athletes thought they were simulating mountains — they were slowly poisoning themselves.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "altitude tent scam",
+      "carbon monoxide doping",
+      "fake training equipment",
+      "business fraud",
+      "athlete poisoning"
+    ],
+    "overlap_check_hash": "752686250d77f394",
+    "why_this_can_go_viral": "The betrayal of trusting a product for health that actually harms is a classic viral shock story."
+  },
+  {
+    "unique_id": "sports_0085_016_46a7af0e483d31df",
+    "title": "The Mafia That Controlled a Boxing Gym to Trap Fighters in Debt Slavery",
+    "hook": "Win or lose, the fighter always owed the mob more money.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 71,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "boxing debt slavery",
+      "mafia gym",
+      "fighter exploitation",
+      "organized crime boxing",
+      "indentured athletes"
+    ],
+    "overlap_check_hash": "46a7af0e483d31df",
+    "why_this_can_go_viral": "Combines classic mafia narrative with modern exploitation — resonates with anti-establishment sentiment."
+  },
+  {
+    "unique_id": "sports_0085_017_61c6b8c2bf71fcf4",
+    "title": "The Referee Who Fixed Cricket Matches Using Different Length Laces",
+    "hook": "Each loop of his shoelace told the bookmaker how many runs to expect.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 74,
+    "educational_value": 63,
+    "estimated_short_retention": 76,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "cricket shoelace code",
+      "referee fixing",
+      "betting signals",
+      "cricket match fixing",
+      "hidden communication"
+    ],
+    "overlap_check_hash": "61c6b8c2bf71fcf4",
+    "why_this_can_go_viral": "Cricket fans love conspiracy theories, and the shoelace detail is oddly specific and memorable."
+  },
+  {
+    "unique_id": "sports_0085_018_f753cbf4952c14b1",
+    "title": "The Psychologist Who Made a Runner Collapse by Planting False Memories of Failure",
+    "hook": "She believed she had already lost the race before it even started.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "false memory",
+      "runner sabotage",
+      "psychological collapse",
+      "memory planting",
+      "sports mind games"
+    ],
+    "overlap_check_hash": "f753cbf4952c14b1",
+    "why_this_can_go_viral": "False memory manipulation is a terrifying concept that sparks debate about the power of suggestion."
+  },
+  {
+    "unique_id": "sports_0085_019_b643bcfb870c936d",
+    "title": "The Lab That Tried to Make Gymnasts Flexible by Cutting Their Ligaments",
+    "hook": "They achieved inhuman contortions — and lifelong crippling pain.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 75,
+    "estimated_short_retention": 91,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "ligament cutting",
+      "gymnast experiments",
+      "forced flexibility",
+      "extreme training",
+      "permanent injury"
+    ],
+    "overlap_check_hash": "b643bcfb870c936d",
+    "why_this_can_go_viral": "Medical horror combined with gymnastics' dark side of pushing young bodies to breaking point."
+  },
+  {
+    "unique_id": "sports_0085_020_023f68309d910b7d",
+    "title": "The Betting Network That Used Hospital Waiting Room TVs to Signal Matches",
+    "hook": "Patients watched for their names — but the code was in the time slots.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 79,
+    "educational_value": 66,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "hospital TV code",
+      "betting network",
+      "waiting room signal",
+      "cricket fixing",
+      "hidden communication"
+    ],
+    "overlap_check_hash": "023f68309d910b7d",
+    "why_this_can_go_viral": "Clever use of public spaces for crime is fascinating and feels like a real-life heist movie."
+  },
+  {
+    "unique_id": "sports_0085_021_f3fb77ee3e0ee991",
+    "title": "The Businessman Who Sold 'Recovery Oxygen Tanks' That Were Pure Carbon Dioxide",
+    "hook": "They paid for healing — they paid with their lives.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 74,
+    "estimated_short_retention": 89,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "fake oxygen tanks",
+      "carbon dioxide scam",
+      "sports fraud",
+      "deadly equipment",
+      "recovery scam"
+    ],
+    "overlap_check_hash": "f3fb77ee3e0ee991",
+    "why_this_can_go_viral": "The ultimate betrayal: a product meant to heal that actually kills. High emotional impact."
+  },
+  {
+    "unique_id": "sports_0085_022_4c6672ff3ddbf5b7",
+    "title": "The Coach Who Made Hurdlers Run Over Real Barbed Wire for 'Mental Grit'",
+    "hook": "The scars were badges of honor — until the infections set in.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 93,
+    "educational_value": 68,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "barbed wire training",
+      "coach abuse",
+      "hurdler torture",
+      "mental grit",
+      "extreme coaching"
+    ],
+    "overlap_check_hash": "4c6672ff3ddbf5b7",
+    "why_this_can_go_viral": "Visual and visceral content that sparks outrage — perfect for comments and shares."
+  },
+  {
+    "unique_id": "sports_0085_023_e04cf41bd0cb951a",
+    "title": "The Doping Lab That Used Frozen Sheep Testicles for 'Youth Hormones'",
+    "hook": "Athletes were injecting extracts from animals that had been dead for years.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "sheep testicles",
+      "frozen doping",
+      "youth hormone scam",
+      "bizarre doping",
+      "animal extraction"
+    ],
+    "overlap_check_hash": "e04cf41bd0cb951a",
+    "why_this_can_go_viral": "Grotesque and absurd — the sheer weirdness factor makes it highly shareable."
+  },
+  {
+    "unique_id": "sports_0085_025_239c06eaa7da1242",
+    "title": "The Referee Who Fixed Judo Matches by Squeezing His Thumb a Certain Way",
+    "hook": "A millimeter of pressure changed who won Olympic gold.",
+    "virality_score": 77,
+    "curiosity_gap_score": 82,
+    "darkness_score": 72,
+    "educational_value": 62,
+    "estimated_short_retention": 75,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "judo thumb signal",
+      "referee corruption",
+      "Olympic fixing",
+      "subtle signals",
+      "martial arts scandal"
+    ],
+    "overlap_check_hash": "239c06eaa7da1242",
+    "why_this_can_go_viral": "The idea that a tiny gesture decides Olympic gold is compelling and maddening."
+  }
+]

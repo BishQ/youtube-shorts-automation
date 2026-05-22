@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "crime_0108_001_2658eb4bc89a60b7",
+    "title": "The Hitman Who Only Killed With a Single Punch to the Chest",
+    "hook": "A mob enforcer who never used a weapon—his victims all died from a precise strike that looked like a heart attack.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob enforcer",
+      "bare-handed hitman",
+      "organized crime",
+      "unsolved murders",
+      "heart attack method"
+    ],
+    "overlap_check_hash": "2658eb4bc89a60b7",
+    "why_this_can_go_viral": "The contrast of a deadly killer who appears unarmed taps into morbid curiosity and the fear of invisible threats."
+  },
+  {
+    "unique_id": "crime_0108_002_83996f8bc9484802",
+    "title": "The Billionaire Who Paid a Proxy $1,000 a Day to Live His Prison Sentence",
+    "hook": "He bribed a judge to let a homeless man serve 12 years in his place—and no one noticed for a decade.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "billionaire fraud",
+      "proxy prisoner",
+      "corrupt judge",
+      "identity swap",
+      "white-collar crime"
+    ],
+    "overlap_check_hash": "83996f8bc9484802",
+    "why_this_can_go_viral": "Shocking inequality and a surreal loophole in the justice system create strong emotional reactions and shareability."
+  },
+  {
+    "unique_id": "crime_0108_003_4b33b8649b33b705",
+    "title": "The Unsolved Murder Where the Victim's Calendar Had the Killer's Name on the Day She Died",
+    "hook": "A woman was found dead in her home—her wall calendar had a name scribbled on the date of her murder. It belonged to a man who didn't exist.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "mysterious calendar",
+      "false identity",
+      "cold case",
+      "impossible evidence"
+    ],
+    "overlap_check_hash": "4b33b8649b33b705",
+    "why_this_can_go_viral": "The eerie detail of a pre-written death date creates a chilling 'did the victim know?' mystery that begs for explanation."
+  },
+  {
+    "unique_id": "crime_0108_004_6d94d6108d516c7b",
+    "title": "The Cartel Doctor Who Harvested Organs From Live Victims—and Sold Them to Rich Americans",
+    "hook": "He performed 'surgeries' on kidnapped people without anesthetic, then shipped their organs to a network of富豪 patients.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 98,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel doctor",
+      "organ harvesting",
+      "black market organs",
+      "live victims",
+      "cartel medical network"
+    ],
+    "overlap_check_hash": "6d94d6108d516c7b",
+    "why_this_can_go_viral": "Extreme body horror combined with real-world medical malpractice taps into primal fear and outrage."
+  },
+  {
+    "unique_id": "crime_0108_005_300755b6ab92d1be",
+    "title": "The Heist Where Thieves Stole a $400 Million Painting—by Replacing It With a Photocopy",
+    "hook": "They walked into a museum, swapped a masterpiece with a color print, and no one caught it for 3 days.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 55,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "art heist",
+      "museum security",
+      "photocopy swap",
+      "masterpiece theft",
+      "bold heist"
+    ],
+    "overlap_check_hash": "300755b6ab92d1be",
+    "why_this_can_go_viral": "The audacity of a low-tech heist against high-value art creates a satisfying 'how did they get away with it?' story."
+  },
+  {
+    "unique_id": "crime_0108_006_ef3829d57422d677",
+    "title": "The Serial Killer Who Only Killed People Sleeping Rough—and Left Them in Perfectly Folded Blankets",
+    "hook": "He posed his victims as if they were peacefully asleep, folded their clothes, and placed a single flower on each body.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "homeless victims",
+      "ritualistic murder",
+      "false comfort",
+      "psychology of killers"
+    ],
+    "overlap_check_hash": "ef3829d57422d677",
+    "why_this_can_go_viral": "The contradictory behavior—murder plus caretaking—creates a deeply disturbing psychological puzzle."
+  },
+  {
+    "unique_id": "crime_0108_007_960f388d435cf39c",
+    "title": "The Criminal Mastermind Who Controlled a Global Drug Empire—Using Only Library Pay Phones",
+    "hook": "He never owned a cell phone, never used email, and coordinated millions in deals from a single coin-operated phone in a public library.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "drug lord",
+      "pay phone empire",
+      "analog crime",
+      "untraceable",
+      "old school criminal"
+    ],
+    "overlap_check_hash": "960f388d435cf39c",
+    "why_this_can_go_viral": "The nostalgia of analog tech mixed with high-stakes crime feels like a spy thriller and sparks 'how is that possible?' curiosity."
+  },
+  {
+    "unique_id": "crime_0108_009_b03eb67357d7e167",
+    "title": "The Mob That Used a Car Wash to Launder $50 Million—and Record Every Cop Who Visited",
+    "hook": "They hid cameras in soap dispensers and license plate readers, building a blackmail database on police customers.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "car wash",
+      "money laundering",
+      "mob surveillance",
+      "police blackmail",
+      "organized crime scheme"
+    ],
+    "overlap_check_hash": "b03eb67357d7e167",
+    "why_this_can_go_viral": "The clever crossover of legitimate business and dirty tactics creates a satisfying 'they thought of everything' reaction."
+  },
+  {
+    "unique_id": "crime_0108_010_6560bc061c6fff1c",
+    "title": "The Unsolved Murder Where the Killer Left a Map—With a Second Victim's Name Already Written on It",
+    "hook": "Police found a hand-drawn map at the first crime scene. It showed where to find a second body—before that person was even reported missing.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 93,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "killer's map",
+      "predicted murder",
+      "serial killer",
+      "cold case",
+      "impossible clue"
+    ],
+    "overlap_check_hash": "6560bc061c6fff1c",
+    "why_this_can_go_viral": "The idea of a killer leaving a preview of their next crime creates a chilling sense of premeditation and mystery."
+  },
+  {
+    "unique_id": "crime_0108_011_4a7938ff1917f6dd",
+    "title": "The Cartel That Built a Submarine Out of Fishing Boats—and Used It to Move 10 Tons of Cocaine",
+    "hook": "They welded three fishing trawlers together, painted it military gray, and crossed the Atlantic unnoticed.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel submarine",
+      "makeshift submarine",
+      "cocaine smuggling",
+      "narco-sub",
+      "fishing boat disguise"
+    ],
+    "overlap_check_hash": "4a7938ff1917f6dd",
+    "why_this_can_go_viral": "The MacGyver-like creativity of cartels fascinates viewers who love stories of improvisation under pressure."
+  },
+  {
+    "unique_id": "crime_0108_014_dbf9d4b97dcf75d9",
+    "title": "The Serial Killer Who Kept a Diary of His Victims' Last Words—Written in Their Own Handwriting",
+    "hook": "He forced each victim to write their final sentence, then collected the pages in a leather-bound book found in his attic.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 97,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "killer diary",
+      "victim handwriting",
+      "serial killer trophy",
+      "last words",
+      "psychological horror"
+    ],
+    "overlap_check_hash": "dbf9d4b97dcf75d9",
+    "why_this_can_go_viral": "The intimate, personal horror of forced last words creates a visceral reaction and deep psychological intrigue."
+  },
+  {
+    "unique_id": "crime_0108_016_fa34c99a1177fd90",
+    "title": "The White-Collar Criminal Who Stole $50 Million by Printing Fake Parking Tickets",
+    "hook": "He created realistic citations with a fake city seal, mailed them to drivers, and had them mail payment to a PO box.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 65,
+    "educational_value": 70,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "fake parking tickets",
+      "mail fraud",
+      "city scam",
+      "white-collar",
+      "low-tech fraud"
+    ],
+    "overlap_check_hash": "fa34c99a1177fd90",
+    "why_this_can_go_viral": "The simplicity and scale of a low-effort scam that exploited bureaucracy feels like a 'why didn't I think of that' story."
+  },
+  {
+    "unique_id": "crime_0108_017_5b7b8c029c1317b0",
+    "title": "The Unsolved Murder Where the Victim's Last Call Was to a Number That Only Rang in the Future",
+    "hook": "Her phone logs showed a call to a number that wasn't connected until 3 days after she died.",
+    "virality_score": 96,
+    "curiosity_gap_score": 99,
+    "darkness_score": 91,
+    "educational_value": 60,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "impossible phone call",
+      "future call",
+      "unsolved murder",
+      "phone records",
+      "time anomaly"
+    ],
+    "overlap_check_hash": "5b7b8c029c1317b0",
+    "why_this_can_go_viral": "The seemingly supernatural element—a call to a number that didn't exist yet—creates a viral mystery that invites wild theories."
+  },
+  {
+    "unique_id": "crime_0108_018_b03f167fc9a30b77",
+    "title": "The Mob That Controlled an Entire Prison—by Running the Kitchen",
+    "hook": "They fed inmates so well that guards traded favors for meals, and criminals inside followed their orders instead of the warden's.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob prison kitchen",
+      "prison control",
+      "food as power",
+      "organized crime",
+      "inmate hierarchy"
+    ],
+    "overlap_check_hash": "b03f167fc9a30b77",
+    "why_this_can_go_viral": "The unexpected power of food in a high-security environment is a surprising and compelling hook."
+  },
+  {
+    "unique_id": "crime_0108_019_8b94e4136e47b1fb",
+    "title": "The Cartel That Used a Pediatrician's Office to Ship Cocaine in Vaccine Vials",
+    "hook": "They replaced vaccines with pure cocaine, labeled them with real child patient names, and shipped them to pharmacies across the border.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel vaccine scam",
+      "cocaine in vials",
+      "pediatric trafficking",
+      "pharmacy smuggling",
+      "drug cartel"
+    ],
+    "overlap_check_hash": "8b94e4136e47b1fb",
+    "why_this_can_go_viral": "The exploitation of children's healthcare for drug trafficking triggers maximum outrage and disbelief."
+  },
+  {
+    "unique_id": "crime_0108_021_5cbc7d7302b8c139",
+    "title": "The Serial Killer Who Only Killed on Holidays—and Left Wrapped Presents for Each Victim's Family",
+    "hook": "On Christmas, Easter, and Thanksgiving, someone would die. The killer left a gift-wrapped box—always empty—on the doorstep.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "holiday killer",
+      "serial killer ritual",
+      "empty gifts",
+      "seasonal murder",
+      "psychological profile"
+    ],
+    "overlap_check_hash": "5cbc7d7302b8c139",
+    "why_this_can_go_viral": "The twisted corruption of happy holidays creates a strong emotional contrast and dark shareability."
+  },
+  {
+    "unique_id": "crime_0108_022_e7fe34f33f28d12a",
+    "title": "The Criminal Mastermind Who Built a Drug Empire Entirely Inside a Shipping Container",
+    "hook": "He never left a 20-foot metal box for 5 years, managing millions via satellite phone and a hidden air vent.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "shipping container",
+      "drug lord",
+      "reclusive criminal",
+      "satellite phone",
+      "hidden empire"
+    ],
+    "overlap_check_hash": "e7fe34f33f28d12a",
+    "why_this_can_go_viral": "The claustrophobic premise of a self-imposed prison to build wealth is both fascinating and disturbing."
+  },
+  {
+    "unique_id": "crime_0108_023_75b89bf58b7887b2",
+    "title": "The Unsolved Murder Where Every Witness Described a Different Killer—but All Were Right",
+    "hook": "Five people saw five different suspects. DNA later revealed there were actually five killers, each with a distinct role.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 87,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "multiple killers",
+      "witness discrepancies",
+      "gang murder",
+      "unsolved crime",
+      "DNA revelation"
+    ],
+    "overlap_check_hash": "75b89bf58b7887b2",
+    "why_this_can_go_viral": "The twist that all witnesses were correct defies typical 'unreliable witness' narratives and invites a puzzle-solving mentality."
+  },
+  {
+    "unique_id": "crime_0108_024_407e55baf049b4d0",
+    "title": "The White-Collar Criminal Who Stole $300 Million by Renting Out Buildings He Didn't Own",
+    "hook": "He printed fake keys, forged leases, and collected rent on 50 skyscrapers for 2 years before anyone checked the deed.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 75,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "fake landlord",
+      "rent scam",
+      "commercial fraud",
+      "real estate crime",
+      "white-collar heist"
+    ],
+    "overlap_check_hash": "407e55baf049b4d0",
+    "why_this_can_go_viral": "The audacious simplicity of collecting rent on property you don't own feels like a cheat code to wealth."
+  },
+  {
+    "unique_id": "crime_0108_025_0acac1bb0f1110be",
+    "title": "The Cartel That Hijacked a Prison's PA System to Coordinate a Mass Escape",
+    "hook": "They bribed a guard to play a specific song over the loudspeakers—it was a coded signal for inmates to break out simultaneously.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "prison escape",
+      "cartel prison break",
+      "coded song",
+      "mass escape",
+      "prison PA system"
+    ],
+    "overlap_check_hash": "0acac1bb0f1110be",
+    "why_this_can_go_viral": "The idea of a simple song triggering a coordinated prison break feels like a scene from a thriller, sparking curiosity about the code."
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "health_0032_002_67d99356f9cbeeac",
+    "title": "The FDA-Approved Drug That Gave Patients Permanent Tics",
+    "hook": "It was supposed to calm their nerves—instead it stole their control.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 72,
+    "educational_value": 65,
+    "estimated_short_retention": 75,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "FDA approved drug",
+      "tardive dyskinesia",
+      "permanent tics",
+      "drug side effects",
+      "pharma cover-up"
+    ],
+    "overlap_check_hash": "67d99356f9cbeeac",
+    "why_this_can_go_viral": "Viewers fear hidden long-term damage from medications they trust—high share potential."
+  },
+  {
+    "unique_id": "health_0032_003_7874d263199fc099",
+    "title": "The Hospital That Burned Patients Alive in an MRI Machine",
+    "hook": "They forgot the metal in his clothes—and the machine became a furnace.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "MRI fire",
+      "hospital negligence",
+      "burned alive",
+      "medical equipment failure",
+      "deadly mistake"
+    ],
+    "overlap_check_hash": "7874d263199fc099",
+    "why_this_can_go_viral": "Horrifying, preventable death in a routine scan—every viewer knows someone who had an MRI."
+  },
+  {
+    "unique_id": "health_0032_004_6c93b33ffb9a2673",
+    "title": "The Pharmaceutical Company That Sold 'Flu Medicine' Laced with Antifreeze",
+    "hook": "It tasted sweet—and then their kidneys shut down.",
+    "virality_score": 85,
+    "curiosity_gap_score": 83,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "antifreeze poisoning",
+      "pharma scandal",
+      "flu medicine",
+      "kidney failure",
+      "mass poisoning"
+    ],
+    "overlap_check_hash": "6c93b33ffb9a2673",
+    "why_this_can_go_viral": "Relatable (everyone takes cold medicine) meets terrifying (lethal contaminant)."
+  },
+  {
+    "unique_id": "health_0032_005_fee588af7f55a1c4",
+    "title": "The Disease Cover-Up: They Knew the Carpet Adhesive Gave Kids Asthma—and Hid It",
+    "hook": "The glue in your living room carpet was silently destroying your child's lungs.",
+    "virality_score": 79,
+    "curiosity_gap_score": 81,
+    "darkness_score": 76,
+    "educational_value": 74,
+    "estimated_short_retention": 77,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "carpet adhesive",
+      "asthma",
+      "VOCs",
+      "household toxins",
+      "corporate cover-up"
+    ],
+    "overlap_check_hash": "fee588af7f55a1c4",
+    "why_this_can_go_viral": "Hits close to home—literally—parents will share out of fear for their kids."
+  },
+  {
+    "unique_id": "health_0032_007_9ee6c48cf912f567",
+    "title": "The Pharmaceutical Company That Knew Its Vaccine Caused Paralysis—and Shipped It Anyway",
+    "hook": "They tested it on monkeys, saw the spinal damage, and said 'ship it.'",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 87,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "vaccine paralysis",
+      "pharma negligence",
+      "Cutter incident",
+      "polio vaccine disaster",
+      "suppressed data"
+    ],
+    "overlap_check_hash": "9ee6c48cf912f567",
+    "why_this_can_go_viral": "Historical example of profit over safety that echoes modern vaccine debates—polarizing but high engagement."
+  },
+  {
+    "unique_id": "health_0032_008_74b5428456a40b60",
+    "title": "The Experiment Where Doctors Starved Patients to Death to Study Malnutrition",
+    "hook": "They were paid to eat less—until they couldn't eat at all.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 90,
+    "educational_value": 78,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "starvation experiment",
+      "human malnutrition",
+      "Minnesota starvation study",
+      "unethical research",
+      "forced fasting"
+    ],
+    "overlap_check_hash": "74b5428456a40b60",
+    "why_this_can_go_viral": "Extreme human suffering framed as 'science'—visceral and unforgettable."
+  },
+  {
+    "unique_id": "health_0032_010_b1feb5895cdd3714",
+    "title": "The Skincare Brand That Sold 'Brightening Cream' Made from Bleach",
+    "hook": "It made their faces lighter—and their skin started burning off.",
+    "virality_score": 75,
+    "curiosity_gap_score": 78,
+    "darkness_score": 73,
+    "educational_value": 64,
+    "estimated_short_retention": 74,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "skin bleaching",
+      "toxic skincare",
+      "mercury cream",
+      "chemical burns",
+      "beauty tragedy"
+    ],
+    "overlap_check_hash": "b1feb5895cdd3714",
+    "why_this_can_go_viral": "Beauty industry horror story—high shareability among women, the primary demographic."
+  },
+  {
+    "unique_id": "health_0032_013_b90d8e65f490f3ab",
+    "title": "The Disease Cover-Up: They Knew the Microwave Popcorn Bags Caused 'Popcorn Lung'",
+    "hook": "The butter flavor was delicious—and it was destroying factory workers' lungs from the inside.",
+    "virality_score": 77,
+    "curiosity_gap_score": 80,
+    "darkness_score": 72,
+    "educational_value": 70,
+    "estimated_short_retention": 76,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "popcorn lung",
+      "diacetyl",
+      "microwave popcorn",
+      "lung disease",
+      "chemical flavoring"
+    ],
+    "overlap_check_hash": "b90d8e65f490f3ab",
+    "why_this_can_go_viral": "Every household staple—creates immediate 'should I throw this away?' reaction."
+  },
+  {
+    "unique_id": "health_0032_014_b32933db04f9660b",
+    "title": "The Pharmaceutical Company That Sold 'Epilepsy Drug' Made from Rat Poison",
+    "hook": "It stopped the seizures—because it was slowly stopping their heart.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 86,
+    "educational_value": 73,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "rat poison in medicine",
+      "epilepsy drug scam",
+      "pharma fraud",
+      "toxic medication",
+      "mass poisoning"
+    ],
+    "overlap_check_hash": "b32933db04f9660b",
+    "why_this_can_go_viral": "Shocking ingredient swap—trust collapses instantly. High outrage share factor."
+  },
+  {
+    "unique_id": "health_0032_015_3350c3705d91639b",
+    "title": "The Hospital That Stitched Patients' Eyes Shut for 'Treatment'",
+    "hook": "They couldn't see—but they could feel everything.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 89,
+    "educational_value": 65,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "eyelid stitching",
+      "forced eye closure",
+      "psychiatric abuse",
+      "hospital torture",
+      "cruel treatment"
+    ],
+    "overlap_check_hash": "3350c3705d91639b",
+    "why_this_can_go_viral": "Visceral horror—sensory deprivation + pain. Unforgettable image drives shares."
+  },
+  {
+    "unique_id": "health_0032_017_545e24549d66af6f",
+    "title": "The FDA-Approved Eye Drops That Made People Go Blind Overnight",
+    "hook": "They woke up the next morning—and the world was gone.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 84,
+    "educational_value": 71,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "blindness eye drops",
+      "FDA approved danger",
+      "contaminated eye drops",
+      "vision loss",
+      "medical disaster"
+    ],
+    "overlap_check_hash": "545e24549d66af6f",
+    "why_this_can_go_viral": "Sudden, irreversible blindness triggers primal fear—highly shareable 'check your medicine cabinet' content."
+  },
+  {
+    "unique_id": "health_0032_018_fd1a8dd770b4ffee",
+    "title": "The Pharmaceutical Company That Added Glass Shards to 'Antacid' Tablets",
+    "hook": "It relieved heartburn—by shredding their esophagus.",
+    "virality_score": 80,
+    "curiosity_gap_score": 82,
+    "darkness_score": 85,
+    "educational_value": 69,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "glass in medicine",
+      "antacid contamination",
+      "pharma negligence",
+      "internal injury",
+      "product tampering"
+    ],
+    "overlap_check_hash": "fd1a8dd770b4ffee",
+    "why_this_can_go_viral": "Extreme physical harm from common OTC drug—every viewer has taken antacids."
+  },
+  {
+    "unique_id": "health_0032_019_edf704c0a2659253",
+    "title": "The Disease Cover-Up: They Knew the Non-Stick Pan Fumes Gave You 'Teflon Flu'",
+    "hook": "The coating that made eggs slide off was poisoning your lungs with every use.",
+    "virality_score": 78,
+    "curiosity_gap_score": 80,
+    "darkness_score": 74,
+    "educational_value": 72,
+    "estimated_short_retention": 76,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "Teflon flu",
+      "PTFE fumes",
+      "non-stick pan danger",
+      "polymer fume fever",
+      "kitchen toxin"
+    ],
+    "overlap_check_hash": "edf704c0a2659253",
+    "why_this_can_go_viral": "Every kitchen has non-stick pans—viewers will check their cookware immediately and share."
+  },
+  {
+    "unique_id": "health_0032_020_0131cd8dd949e900",
+    "title": "The Doctor Who 'Treated' Cancer with Deadly Electricity—and Burned Patients Alive",
+    "hook": "He promised healing—and delivered an electric chair.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 91,
+    "educational_value": 68,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "electrocution therapy",
+      "fake cancer cure",
+      "electric chair treatment",
+      "quack doctor",
+      "patient death"
+    ],
+    "overlap_check_hash": "0131cd8dd949e900",
+    "why_this_can_go_viral": "Horrifying juxtaposition—'healing' vs. 'execution'—creates powerful emotional shock."
+  },
+  {
+    "unique_id": "health_0032_022_f64ba87df18bd51b",
+    "title": "The Hospital That Refused to Treat Patients Until They Paid—Even as They Died",
+    "hook": "She was having a heart attack—the billing desk asked for her credit card first.",
+    "virality_score": 85,
+    "curiosity_gap_score": 84,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "denial of care",
+      "hospital billing death",
+      "profit over patient",
+      "medical debt",
+      "emergency room refusal"
+    ],
+    "overlap_check_hash": "f64ba87df18bd51b",
+    "why_this_can_go_viral": "Universal healthcare anger—triggers political and personal outrage. High comment engagement."
+  },
+  {
+    "unique_id": "health_0032_023_ac4d954e09b7b467",
+    "title": "The Pharmaceutical Company That Sold 'HIV Medication' Made from Rice Powder",
+    "hook": "They were taking nothing—while the virus destroyed their immune system.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 87,
+    "educational_value": 76,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake HIV drugs",
+      "counterfeit medication",
+      "pharma fraud",
+      "rice powder pills",
+      "deadly deception"
+    ],
+    "overlap_check_hash": "ac4d954e09b7b467",
+    "why_this_can_go_viral": "Vulnerable patients given placebos—life-or-death betrayal. Massive empathy and outrage driver."
+  },
+  {
+    "unique_id": "health_0032_024_bcbff2900701ac6d",
+    "title": "The Disease Cover-Up: They Knew the Candle Soot Caused Lung Cancer—and Called It 'Ambiance'",
+    "hook": "That romantic candlelight dinner was filling your lungs with carcinogenic particles.",
+    "virality_score": 74,
+    "curiosity_gap_score": 77,
+    "darkness_score": 69,
+    "educational_value": 71,
+    "estimated_short_retention": 73,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "candle soot",
+      "lung cancer",
+      "indoor air pollution",
+      "paraffin candles",
+      "hidden carcinogen"
+    ],
+    "overlap_check_hash": "bcbff2900701ac6d",
+    "why_this_can_go_viral": "Relatable habit turns dangerous—creates immediate behavior change shareability."
+  },
+  {
+    "unique_id": "health_0032_025_6866c7693f3e11fd",
+    "title": "The Surgeon Who Removed Healthy Breasts in Fake Cancer Scare",
+    "hook": "He told them they had the cancer gene—and convinced 100 women to go under the knife.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 86,
+    "educational_value": 73,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "unnecessary mastectomy",
+      "fake cancer diagnosis",
+      "surgeon fraud",
+      "BRCA scam",
+      "mutilation for profit"
+    ],
+    "overlap_check_hash": "6866c7693f3e11fd",
+    "why_this_can_go_viral": "Exploits fear of cancer—triggers deep distrust in medical testing. High female demographic engagement."
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "tech_hackers_0039_001_5823fc0c487ad411",
+    "title": "The Zero-Day That Turned Smart Blinds Into Silent Surveillance Cameras",
+    "hook": "A hacker discovered that your smart blinds could be used to optically reconstruct everything you type on your laptop.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "smart blinds",
+      "optical surveillance",
+      "keylogging",
+      "IoT exploit"
+    ],
+    "overlap_check_hash": "5823fc0c487ad411",
+    "why_this_can_go_viral": "The idea that a window covering could spy on you is deeply unsettling and incredibly visual — perfect for a 'shock and explain' format."
+  },
+  {
+    "unique_id": "tech_hackers_0039_002_4153da6d33210c87",
+    "title": "The Social Engineer Who Took Over a Social Media Platform by Calling Customer Support",
+    "hook": "One phone call, a fake accent, and a forgotten security question gave a single hacker control over a company's entire database.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 76,
+    "educational_value": 69,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "customer support hack",
+      "SIM swap",
+      "account takeover",
+      "psychological manipulation"
+    ],
+    "overlap_check_hash": "4153da6d33210c87",
+    "why_this_can_go_viral": "People love 'how dumb security is' stories. This plays on the fear that a single employee can undo billions in security spending."
+  },
+  {
+    "unique_id": "tech_hackers_0039_004_80877d2a361200f0",
+    "title": "The Nation-State Hack That Used a City's Smart Benches to Steal Bluetooth Data",
+    "hook": "Park benches equipped with charging ports were secretly harvesting every contact and message from phones that plugged in.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 81,
+    "educational_value": 73,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "nation-state",
+      "smart bench",
+      "bluetooth hack",
+      "juice jacking",
+      "urban surveillance"
+    ],
+    "overlap_check_hash": "80877d2a361200f0",
+    "why_this_can_go_viral": "It's a public utility turned against the public — the betrayal of 'free charging' is a universal relatable hook."
+  },
+  {
+    "unique_id": "tech_hackers_0039_007_5d882f033750e62e",
+    "title": "The Cybercriminal Empire That Turned Your Smart Fridge Into a Botnet Commander",
+    "hook": "A network of hacked fridges was used to launch DDoS attacks that took down a small country's entire banking system.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 75,
+    "educational_value": 79,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "botnet",
+      "smart fridge",
+      "DDoS",
+      "IoT botnet",
+      "cybercrime"
+    ],
+    "overlap_check_hash": "5d882f033750e62e",
+    "why_this_can_go_viral": "The absurdity of a fridge causing a national blackout is a perfect mix of humor and horror — highly shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0039_008_5aaf7cf084194e40",
+    "title": "The Zero-Day That Used Your Smart Light Bulbs to Send Morse Code to Hackers",
+    "hook": "A vulnerability in smart bulbs allowed attackers to exfiltrate your data by flickering the lights in patterns invisible to the naked eye.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 77,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "smart bulb",
+      "morse code",
+      "data exfiltration",
+      "IoT vulnerability"
+    ],
+    "overlap_check_hash": "5aaf7cf084194e40",
+    "why_this_can_go_viral": "The 'hidden signal in plain sight' trope is incredibly compelling. It feels like a spy movie plot that is real."
+  },
+  {
+    "unique_id": "tech_hackers_0039_010_2b3ab1da25d015fd",
+    "title": "The Cyberwar Attack That Used a Hotel's Smart Thermostat to Assassinate a Diplomat",
+    "hook": "A hotel room was turned into a death trap by slowly raising the temperature until the target suffered a fatal heatstroke.",
+    "virality_score": 97,
+    "curiosity_gap_score": 98,
+    "darkness_score": 95,
+    "educational_value": 71,
+    "estimated_short_retention": 96,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "cyber assassination",
+      "smart thermostat",
+      "IoT murder",
+      "covert kill",
+      "cyberwar"
+    ],
+    "overlap_check_hash": "2b3ab1da25d015fd",
+    "why_this_can_go_viral": "The 'murder by appliance' concept is deeply cinematic and taps into the fear of surrounded smart devices being weaponized."
+  },
+  {
+    "unique_id": "tech_hackers_0039_011_d8fcab0f8a2e46b9",
+    "title": "The AI That Learned to Hack Your Password by Listening to Your Keyboard Clicks",
+    "hook": "Researchers trained an AI to identify keystrokes from audio recordings, achieving 95% accuracy from a phone 10 feet away.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 77,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "acoustic attack",
+      "AI hacking",
+      "keyboard listening",
+      "side-channel attack",
+      "password cracking"
+    ],
+    "overlap_check_hash": "d8fcab0f8a2e46b9",
+    "why_this_can_go_viral": "Creepy and immediately actionable fear — 'someone can hear your password' is a primal security concern."
+  },
+  {
+    "unique_id": "tech_hackers_0039_012_0c56e7d7b699fb5f",
+    "title": "The Dark Web Coder Who Built a Ransomware That Locks Your Car Doors While Driving",
+    "hook": "A hacker created malware that could lock car doors at highway speeds and demand a ransom to unlock them before the crash.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 91,
+    "educational_value": 74,
+    "estimated_short_retention": 94,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "dark web coder",
+      "car ransomware",
+      "vehicle hack",
+      "ransomware",
+      "IoT extortion"
+    ],
+    "overlap_check_hash": "0c56e7d7b699fb5f",
+    "why_this_can_go_viral": "Life-or-death stakes + a tech threat = explosive virality. The visual of being trapped in a moving car is terrifying."
+  },
+  {
+    "unique_id": "tech_hackers_0039_013_e1830a23b4010d3a",
+    "title": "The Nation-State Hack That Used a City's Smart Grid to Stage a False Flag Attack",
+    "hook": "Hackers disguised a cyberattack on a power plant as an accidental failure, pinning the blame on a rival nation's engineers.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 81,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "nation-state",
+      "false flag",
+      "smart grid",
+      "cyber warfare",
+      "industrial attack"
+    ],
+    "overlap_check_hash": "e1830a23b4010d3a",
+    "why_this_can_go_viral": "The 'who really did it?' conspiracy angle is a viral magnet, especially with the high-stakes backdrop of international conflict."
+  },
+  {
+    "unique_id": "tech_hackers_0039_014_006298455bb436df",
+    "title": "The Zero-Day That Let Hackers Exploit Your Smart Microwaves to Melt Electronics",
+    "hook": "A vulnerability in a microwave's magnetron control allowed attackers to overload nearby devices, frying circuit boards through walls.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 72,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "microwave hack",
+      "EMP effect",
+      "IoT weaponization",
+      "hardware hack"
+    ],
+    "overlap_check_hash": "006298455bb436df",
+    "why_this_can_go_viral": "Using a kitchen appliance to fry electronics feels like a sci-fi concept made real — absurd but credible."
+  },
+  {
+    "unique_id": "tech_hackers_0039_015_aaa56b219d0fd43d",
+    "title": "The Cybercriminal Empire That Hacked Smart Razors to Blackmail Men",
+    "hook": "Smart razors with microphones were recording private conversations in bathrooms and selling the audio to blackmailers.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 82,
+    "educational_value": 66,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "smart razor",
+      "IoT blackmail",
+      "audio surveillance",
+      "privacy hack",
+      "cybercrime"
+    ],
+    "overlap_check_hash": "aaa56b219d0fd43d",
+    "why_this_can_go_viral": "The intimate setting of the bathroom + a smart gadget = maximum creep factor. High 'WTF' shareability."
+  },
+  {
+    "unique_id": "tech_hackers_0039_016_0264ac86095a9728",
+    "title": "The Surveillance System That Used Your Smart Fridge's Cameras to Count Your Calories for Insurance",
+    "hook": "Insurance companies bought access to smart fridge cameras to adjust premiums based on what you eat — even your midnight snacks.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "smart fridge",
+      "insurance surveillance",
+      "food tracking",
+      "privacy violation",
+      "data sale"
+    ],
+    "overlap_check_hash": "0264ac86095a9728",
+    "why_this_can_go_viral": "The 'they're watching what you eat' hook is universally relatable and fuels the 'dystopian capitalism' narrative."
+  },
+  {
+    "unique_id": "tech_hackers_0039_017_92e1471ca4d124a4",
+    "title": "The Social Engineer Who Stole a Billion by Convincing Employees He Was the CEO's Son",
+    "hook": "He called 50 employees, pretending to be the boss's son stuck in a foreign country — and transferred millions before anyone verified.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 78,
+    "educational_value": 71,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "CEO fraud",
+      "wire transfer scam",
+      "psychological manipulation",
+      "corporate hack"
+    ],
+    "overlap_check_hash": "92e1471ca4d124a4",
+    "why_this_can_go_viral": "Pure psychological manipulation with a jaw-dropping payout — it's a cautionary tale that feels like a heist movie."
+  },
+  {
+    "unique_id": "tech_hackers_0039_018_162d9e6121a4a436",
+    "title": "The AI That Learned to Hack Your Smart Speaker to Listen Even When Turned Off",
+    "hook": "An AI exploit used the speaker's physical power line as an antenna, capturing audio even when the device was unplugged.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 89,
+    "educational_value": 78,
+    "estimated_short_retention": 93,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI exploit",
+      "smart speaker hack",
+      "always listening",
+      "power line attack",
+      "audio surveillance"
+    ],
+    "overlap_check_hash": "162d9e6121a4a436",
+    "why_this_can_go_viral": "The fear that your phone can't be fully turned off is already huge — adding 'even when unplugged' is next-level paranoia."
+  },
+  {
+    "unique_id": "tech_hackers_0039_019_682018f88da3ee5e",
+    "title": "The Cyberwar Attack That Used a City's Smart Streetlights to Blind Emergency Responders",
+    "hook": "Hackers remotely turned all streetlights to maximum brightness and strobe mode, blinding police and ambulances during a coordinated heist.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "cyberwar",
+      "smart streetlights",
+      "emergency disruption",
+      "urban attack",
+      "heist coordination"
+    ],
+    "overlap_check_hash": "682018f88da3ee5e",
+    "why_this_can_go_viral": "The 'weaponizing a city against itself' angle is cinematic and terrifying. Great for speculative storytelling."
+  },
+  {
+    "unique_id": "tech_hackers_0039_020_eabaae4b886c3c16",
+    "title": "The Dark Web Marketplace That Sold Your Smart TV's Recordings to Strangers",
+    "hook": "Hackers were selling clips from hacked smart TVs — intimate moments captured by the camera you forgot was there.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 94,
+    "educational_value": 73,
+    "estimated_short_retention": 94,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "dark web",
+      "smart TV hacking",
+      "camera invasion",
+      "peeping tom",
+      "IoT sale"
+    ],
+    "overlap_check_hash": "eabaae4b886c3c16",
+    "why_this_can_go_viral": "The 'someone is watching you right now' horror is universal. The dark web marketplace detail adds a layer of organized creepiness."
+  },
+  {
+    "unique_id": "tech_hackers_0039_021_380fcacc742940e1",
+    "title": "The Nation-State Hack That Used a Country's Smart Billboards to Spread Disinformation",
+    "hook": "Hackers took over digital billboards in a capital city, flashing fake emergency messages that caused widespread panic and traffic chaos.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 79,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "nation-state",
+      "smart billboard",
+      "disinformation",
+      "public panic",
+      "city attack"
+    ],
+    "overlap_check_hash": "380fcacc742940e1",
+    "why_this_can_go_viral": "The 'nobody can trust public signs' fear is immediate and visual. Perfect for the 'boiling frog' dystopia narrative."
+  },
+  {
+    "unique_id": "tech_hackers_0039_022_bf81e5dfe340b232",
+    "title": "The Zero-Day That Hacked Your Smart Speaker's Ultrasonic Waves to Control Devices Around You",
+    "hook": "Attackers used a zero-day to emit inaudible ultrasonic commands from your speaker, unlocking doors and starting your car from your living room.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "ultrasonic attack",
+      "smart speaker",
+      "device takeover",
+      "IoT chain attack"
+    ],
+    "overlap_check_hash": "bf81e5dfe340b232",
+    "why_this_can_go_viral": "Inaudible commands that control your entire home is pure nightmare fuel. High curiosity gap on 'how does the sound work?'."
+  },
+  {
+    "unique_id": "tech_hackers_0039_023_f33486f19fe03926",
+    "title": "The Social Engineer Who Hacked a Prison by Pretending to Be a Prisoner's Lawyer",
+    "hook": "He walked into a maximum-security prison, convinced the warden he was a defense attorney, and walked out with a USB drive full of inmate data.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "prison hack",
+      "impersonation",
+      "security breach",
+      "physical infiltration"
+    ],
+    "overlap_check_hash": "f33486f19fe03926",
+    "why_this_can_go_viral": "High-stakes physical infiltration into a prison is inherently dramatic. The 'fake lawyer' angle is clever and audacious."
+  },
+  {
+    "unique_id": "tech_hackers_0039_024_a7fcf914b0090473",
+    "title": "The Cybercriminal Empire That Hacked Your Smart Water Meter to Frame You for Water Theft",
+    "hook": "A gang remotely manipulated smart water meters to show massive usage, then demanded you pay them to 'fix' the false readings.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 76,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "smart meter hack",
+      "water theft",
+      "extortion",
+      "utility fraud",
+      "cybercrime"
+    ],
+    "overlap_check_hash": "a7fcf914b0090473",
+    "why_this_can_go_viral": "A new angle on utility hacking. The 'gaslighting the victim into paying' twist adds psychological depth."
+  },
+  {
+    "unique_id": "tech_hackers_0039_025_d02ab2df2be71377",
+    "title": "The AI That Learned to Hack Your Smart Home by Mimicking Your Pet's Microchip",
+    "hook": "An AI cloned the RFID signal from your cat's microchip, tricking your smart pet door into unlocking the entire house for thieves.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 77,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI hacking",
+      "RFID cloning",
+      "pet microchip",
+      "smart home exploit",
+      "IoT security"
+    ],
+    "overlap_check_hash": "d02ab2df2be71377",
+    "why_this_can_go_viral": "Cute + terrifying is a viral sweet spot. The idea that your pet could be used as a key for burglars is deeply unsettling."
+  }
+]

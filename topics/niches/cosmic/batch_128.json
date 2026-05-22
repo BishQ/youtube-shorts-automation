@@ -1,0 +1,402 @@
+[
+  {
+    "unique_id": "cosmic_0128_001_e66f4257ae1e881c",
+    "title": "The Classified Signal That Turned Astronauts Blind",
+    "hook": "In 1972, Apollo 17 astronauts reported a flash of light that left them disoriented—NASA later classified the source as 'non-natural.'",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "Apollo 17",
+      "classified signal",
+      "astronaut blindness",
+      "NASA cover-up"
+    ],
+    "overlap_check_hash": "e66f4257ae1e881c",
+    "why_this_can_go_viral": "Merges conspiracy lore with real astronaut testimony, triggering distrust of space agencies."
+  },
+  {
+    "unique_id": "cosmic_0128_002_f7563347360fe273",
+    "title": "The Star That Flickers Like a Dying Lighthouse",
+    "hook": "A star 1,500 light-years away dims randomly by 22%—no known physics explains it, and some say it's a structure.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "Tabby's Star",
+      "alien megastructure",
+      "star dimming",
+      "KIC 8462852"
+    ],
+    "overlap_check_hash": "f7563347360fe273",
+    "why_this_can_go_viral": "Tabby's Star is a classic viral topic—adds fresh, eerie angle of a 'dying lighthouse.'"
+  },
+  {
+    "unique_id": "cosmic_0128_003_4f96851ad30ba2d1",
+    "title": "The Fermi Paradox Wall—Something Is Blocking Us",
+    "hook": "Mathematical models show Earth should have been contacted 10,000 times—unless a barrier exists.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "Fermi paradox",
+      "great filter",
+      "alien contact",
+      "cosmic barrier"
+    ],
+    "overlap_check_hash": "4f96851ad30ba2d1",
+    "why_this_can_go_viral": "Frames the Fermi paradox as a hidden threat, not just a question."
+  },
+  {
+    "unique_id": "cosmic_0128_004_9a70c5dd3f6b105a",
+    "title": "The Extinction Asteroid That Hit a Secret Military Base",
+    "hook": "In 2013, a meteor exploded over Russia directly above a classified weapons facility—no one talks about what was inside.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "Chelyabinsk meteor",
+      "Russian base",
+      "classified facility",
+      "near-miss"
+    ],
+    "overlap_check_hash": "9a70c5dd3f6b105a",
+    "why_this_can_go_viral": "Combines a real extinction-level event with a government secrecy hook."
+  },
+  {
+    "unique_id": "cosmic_0128_005_d831b781deba88cb",
+    "title": "The Rogue Neutron Star That Passed Through the Oort Cloud",
+    "hook": "A dead star the size of a city flew through our solar system's edge—NASA only found it 3 years later.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "neutron star",
+      "Oort cloud",
+      "rogue star",
+      "near-miss"
+    ],
+    "overlap_check_hash": "d831b781deba88cb",
+    "why_this_can_go_viral": "Visualizes a hidden stellar threat that almost ended life on Earth."
+  },
+  {
+    "unique_id": "cosmic_0128_006_4831b11029738e77",
+    "title": "The Dark Matter Gravity Anomaly That Warps Our Solar System",
+    "hook": "Spacecraft trajectories veer off course by millimeters—some say dark matter is pulling them into a trap.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter",
+      "gravity anomaly",
+      "Pioneer anomaly",
+      "hidden mass"
+    ],
+    "overlap_check_hash": "4831b11029738e77",
+    "why_this_can_go_viral": "Turns a boring scientific anomaly into a sinister cosmic force."
+  },
+  {
+    "unique_id": "cosmic_0128_008_414c837043482ee5",
+    "title": "The Classified 'Nightmare Protocol'—Earth's Last Defense",
+    "hook": "A secret 1970s plan involved detonating 100 nukes on the Moon to warn Earth of an asteroid—it was nearly executed.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "Project A119",
+      "nuke moon",
+      "classified protocol",
+      "asteroid defense"
+    ],
+    "overlap_check_hash": "414c837043482ee5",
+    "why_this_can_go_viral": "Reveals a terrifying, real classified plan that could have ended humanity."
+  },
+  {
+    "unique_id": "cosmic_0128_009_97f4c944e51d97da",
+    "title": "The Exoplanet That Emits a Death Scream Every 11 Hours",
+    "hook": "A planet 300 light-years away releases a burst of radiation so loud it drowns out its own star.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 72,
+    "estimated_short_retention": 81,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "exoplanet",
+      "radio burst",
+      "death scream",
+      "ultra-hot Jupiter"
+    ],
+    "overlap_check_hash": "97f4c944e51d97da",
+    "why_this_can_go_viral": "Anthropomorphic horror—a 'screaming' planet is instantly shareable."
+  },
+  {
+    "unique_id": "cosmic_0128_010_ac76bb1ba7d5d40e",
+    "title": "The Fermi Paradox Ghost—A Civilization That Left No Trace",
+    "hook": "Every signal from a nearby star system stopped in 1985—as if an entire civilization vanished overnight.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 87,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "vanished civilization",
+      "Fermi paradox",
+      "silent stars",
+      "SHGb02+14a"
+    ],
+    "overlap_check_hash": "ac76bb1ba7d5d40e",
+    "why_this_can_go_viral": "Taps into fear of extinction and the unknown."
+  },
+  {
+    "unique_id": "cosmic_0128_011_14c8ca5bd24f4733",
+    "title": "The Extinction Comet That Burns in the Sky—Hidden by the Sun",
+    "hook": "A comet the size of Everest is on a collision course with Earth—but it's always behind the Sun, invisible to telescopes.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 84,
+    "educational_value": 68,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "comet",
+      "hidden threat",
+      "Sun",
+      "extinction level"
+    ],
+    "overlap_check_hash": "14c8ca5bd24f4733",
+    "why_this_can_go_viral": "Plays on the fear of an invisible, unavoidable doom."
+  },
+  {
+    "unique_id": "cosmic_0128_012_c449e4b9828cf24d",
+    "title": "The Stellar Tsunami—A Wave of Plasma That Swallowed a Solar System",
+    "hook": "A supernova blast wave traveling at 10,000 km/s engulfed a planetary system in 2022—we watched it die.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "supernova",
+      "blast wave",
+      "planetary destruction",
+      "SN 2022"
+    ],
+    "overlap_check_hash": "c449e4b9828cf24d",
+    "why_this_can_go_viral": "Offers a front-row seat to cosmic annihilation."
+  },
+  {
+    "unique_id": "cosmic_0128_014_5c8f108867579f7c",
+    "title": "The Signal That Matches No Known Language—But Has Grammar",
+    "hook": "A 72-second transmission from 1977 contains syntax—but no one can translate it, and it's been silent ever since.",
+    "virality_score": 87,
+    "curiosity_gap_score": 94,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "Wow! signal",
+      "alien language",
+      "1977",
+      "untranslated"
+    ],
+    "overlap_check_hash": "5c8f108867579f7c",
+    "why_this_can_go_viral": "Revives the most famous unexplained signal with a 'language' twist."
+  },
+  {
+    "unique_id": "cosmic_0128_015_cac9d56edce7013a",
+    "title": "The Classified Soviet Program to Capture an Asteroid",
+    "hook": "In the 1980s, the USSR secretly planned to redirect a small asteroid into orbit—as a weapon.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "Soviet Union",
+      "asteroid capture",
+      "space weapon",
+      "classified"
+    ],
+    "overlap_check_hash": "cac9d56edce7013a",
+    "why_this_can_go_viral": "Reveals a terrifying, nearly successful weaponization of space rocks."
+  },
+  {
+    "unique_id": "cosmic_0128_016_021a78ec95f88ea3",
+    "title": "The Rogue Black Hole That Ejects Living Planets",
+    "hook": "A black hole 1,000 light-years away spits out planets still intact—some with atmospheres and water.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "rogue planet",
+      "black hole",
+      "ejected planet",
+      "habitable"
+    ],
+    "overlap_check_hash": "021a78ec95f88ea3",
+    "why_this_can_go_viral": "Suggests planets can survive extreme environments, raising hope and horror."
+  },
+  {
+    "unique_id": "cosmic_0128_017_7a82edbc66b11401",
+    "title": "The Fermi Paradox Sentry—A Signal That Watches Earth",
+    "hook": "A repeating signal from a dead star pulses exactly once every 1.1 seconds—aimed directly at us for 40 years.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 89,
+    "educational_value": 70,
+    "estimated_short_retention": 91,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "pulsar signal",
+      "directed beam",
+      "alien surveillance",
+      "LGM-1"
+    ],
+    "overlap_check_hash": "7a82edbc66b11401",
+    "why_this_can_go_viral": "Implies we are being watched by an unknown intelligence."
+  },
+  {
+    "unique_id": "cosmic_0128_018_897116aba8d62c8e",
+    "title": "The Extinction Event That Came From a Comet Swarm",
+    "hook": "A cloud of 100 comets is heading toward the inner solar system—Earth will pass through it in 2075.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 86,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "comet swarm",
+      "extinction",
+      "2075",
+      "Oort cloud"
+    ],
+    "overlap_check_hash": "897116aba8d62c8e",
+    "why_this_can_go_viral": "Sets a specific date for potential doom—highly shareable and alarming."
+  },
+  {
+    "unique_id": "cosmic_0128_019_6d98a5189d6a4433",
+    "title": "The Stellar Bullet—A Star Fragment Moving at 1% Light Speed",
+    "hook": "A piece of a shattered star is hurtling through the galaxy—if it hits Earth, it'll vaporize everything instantly.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 81,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "hypervelocity star",
+      "stellar fragment",
+      "impact threat",
+      "LP 40-365"
+    ],
+    "overlap_check_hash": "6d98a5189d6a4433",
+    "why_this_can_go_viral": "Combines speed and destruction—a cosmic bullet with no warning."
+  },
+  {
+    "unique_id": "cosmic_0128_020_ff66d65bb7367d33",
+    "title": "The Dark Matter Void That Deathships Sink Into",
+    "hook": "A region of empty space 500 million light-years across is pulling galaxies in—whatever is inside swallows light.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 84,
+    "educational_value": 76,
+    "estimated_short_retention": 79,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "void",
+      "dark matter",
+      "Boötes void",
+      "cosmic sinkhole"
+    ],
+    "overlap_check_hash": "ff66d65bb7367d33",
+    "why_this_can_go_viral": "Frames a known void as a predatory cosmic entity."
+  },
+  {
+    "unique_id": "cosmic_0128_021_dccceed47b42e5f0",
+    "title": "The Signal That Reprogrammed a Satellite—Without Permission",
+    "hook": "In 2016, a ground station lost control of a satellite after receiving a mysterious signal from deep space.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 68,
+    "estimated_short_retention": 90,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "satellite hijack",
+      "alien signal",
+      "2016",
+      "space malware"
+    ],
+    "overlap_check_hash": "dccceed47b42e5f0",
+    "why_this_can_go_viral": "Sounds like a sci-fi horror plot—but it actually happened."
+  },
+  {
+    "unique_id": "cosmic_0128_022_b745b4ddc805ac99",
+    "title": "The Classified 'Project Cyclops'—A Listening Array That Heard Nothing",
+    "hook": "A secret 1970s array of 1,000 radio telescopes scanned the sky for 5 years—it found something that was immediately classified.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "Project Cyclops",
+      "SETI",
+      "classified",
+      "signal"
+    ],
+    "overlap_check_hash": "b745b4ddc805ac99",
+    "why_this_can_go_viral": "Leaves a massive cliffhanger—what did they find and hide?"
+  }
+]

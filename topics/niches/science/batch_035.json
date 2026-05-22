@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "science_0035_001_8061cee74b75a24b",
+    "title": "The Chemist Who Discovered a Poison That Has No Antidote",
+    "hook": "What if the deadliest substance ever created has no cure, and it was found by accident?",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "deadly poison",
+      "no antidote",
+      "accidental discovery",
+      "chemistry horror",
+      "toxic compound"
+    ],
+    "overlap_check_hash": "8061cee74b75a24b",
+    "why_this_can_go_viral": "The fear of invisible, incurable toxins triggers primal survival instincts, and the 'accidental' angle makes it a shocking revelation."
+  },
+  {
+    "unique_id": "science_0035_002_e51c9b06bccf9642",
+    "title": "The Neuroscientist Who Stimulated a Brain and Unlocked a Hidden Language",
+    "hook": "A patient suddenly spoke an ancient language they never learned after a tiny brain shock.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain stimulation",
+      "hidden language",
+      "neuroscience experiment",
+      "forgotten knowledge",
+      "electrical shock"
+    ],
+    "overlap_check_hash": "e51c9b06bccf9642",
+    "why_this_can_go_viral": "The idea that our brains may contain dormant 'programs' taps into deep fascination with untapped human potential and hidden memories."
+  },
+  {
+    "unique_id": "science_0035_004_02df64ea139ab78a",
+    "title": "The Physicist Who Proved That Light Can Be Stopped Dead",
+    "hook": "For a fraction of a second, light froze inside a crystal, rewriting the laws of physics.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 40,
+    "educational_value": 80,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "frozen light",
+      "slow light",
+      "quantum physics",
+      "Bose-Einstein condensate",
+      "speed of light"
+    ],
+    "overlap_check_hash": "02df64ea139ab78a",
+    "why_this_can_go_viral": "Stopping light feels like magic; it challenges our everyday understanding and triggers high curiosity about how the universe really works."
+  },
+  {
+    "unique_id": "science_0035_005_1640a9aeed50f8c0",
+    "title": "The Researcher Who Faked a Study Proving That Genes Control Your Future",
+    "hook": "A sweeping claim about genetic destiny turned out to be a deliberate fabrication that fooled the world for years.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "genetic determinism",
+      "fraudulent study",
+      "data fabrication",
+      "scientific misconduct",
+      "false hope"
+    ],
+    "overlap_check_hash": "1640a9aeed50f8c0",
+    "why_this_can_go_viral": "Exposing a lie that affected public policy and personal identity creates distrust and a thirst for the real truth."
+  },
+  {
+    "unique_id": "science_0035_007_a131e2c417673935",
+    "title": "The Chemist Who Made a Polymer That Never Decomposes—Ever",
+    "hook": "A plastic so stable it will outlast the Earth, and we have no way to destroy it.",
+    "virality_score": 82,
+    "curiosity_gap_score": 84,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "indestructible polymer",
+      "forever plastic",
+      "environmental disaster",
+      "chemistry accident",
+      "waste crisis"
+    ],
+    "overlap_check_hash": "a131e2c417673935",
+    "why_this_can_go_viral": "The horror of creating something that cannot be undone resonates with environmental anxiety and the fear of irreversible consequences."
+  },
+  {
+    "unique_id": "science_0035_009_4db67210c7b0a5b3",
+    "title": "The Neuroscientist Who Made a Person Hallucinate an Entire World",
+    "hook": "A tiny electrode in the brain triggered a vivid, alternate reality that the patient believed was real.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 77,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain electrode",
+      "induced hallucination",
+      "artificial reality",
+      "neural stimulation",
+      "perception hacking"
+    ],
+    "overlap_check_hash": "4db67210c7b0a5b3",
+    "why_this_can_go_viral": "The idea that reality is just a neural construction that can be hacked is deeply unsettling and mind-bending."
+  },
+  {
+    "unique_id": "science_0035_010_e9d4ded08cbb3e4c",
+    "title": "The Lab That Unleashed a Fungus That Eats Rubber and Metal",
+    "hook": "A harmless mold mutated in the lab and began devouring industrial materials, threatening global infrastructure.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 84,
+    "educational_value": 60,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "mutant fungus",
+      "material-eating mold",
+      "lab leak",
+      "infrastructure threat",
+      "biodegradation horror"
+    ],
+    "overlap_check_hash": "e9d4ded08cbb3e4c",
+    "why_this_can_go_viral": "The idea of an invisible, slow-moving biological apocalypse that eats our modern world hits close to home."
+  },
+  {
+    "unique_id": "science_0035_011_af04af2a3d77c6c2",
+    "title": "The Physicist Who Created a Material That Weighs Nothing but Is Stronger Than Steel",
+    "hook": "A lattice of pure nothingness that holds up under pressure—a material that defies our understanding of mass.",
+    "virality_score": 77,
+    "curiosity_gap_score": 82,
+    "darkness_score": 30,
+    "educational_value": 82,
+    "estimated_short_retention": 74,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "lightest material",
+      "aerogel",
+      "nanostructure",
+      "material science",
+      "defying gravity"
+    ],
+    "overlap_check_hash": "af04af2a3d77c6c2",
+    "why_this_can_go_viral": "The contrast between zero weight and extreme strength is a jaw-dropping fact that demands a click."
+  },
+  {
+    "unique_id": "science_0035_014_bd4827f7d8f0a106",
+    "title": "The Chemist Who Discovered a Liquid That Burns Forever Underwater",
+    "hook": "A compound so reactive it ignites even in the deep ocean, creating hellfire beneath the waves.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 55,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "underwater fire",
+      "hypergolic liquid",
+      "self-igniting",
+      "chemical anomaly",
+      "dangerous compound"
+    ],
+    "overlap_check_hash": "bd4827f7d8f0a106",
+    "why_this_can_go_viral": "The visual paradox of fire underwater is instantly captivating and scientifically terrifying."
+  },
+  {
+    "unique_id": "science_0035_015_9c14511750508322",
+    "title": "The Neuroscientist Who Found That Your Brain Creates a 'Self' That Doesn't Exist",
+    "hook": "Brain scans reveal that the feeling of 'you' is just a narrative your brain tells to make sense of chaos.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "ego illusion",
+      "brain narrative",
+      "self delusion",
+      "consciousness hack",
+      "neuroscience truth"
+    ],
+    "overlap_check_hash": "9c14511750508322",
+    "why_this_can_go_viral": "The implication that identity is a fragile illusion is deeply existential and highly shareable among deep thinkers."
+  },
+  {
+    "unique_id": "science_0035_016_a3849be2bae31ba4",
+    "title": "The Lab That Accidentally Created a Parasite That Loves Clean Rooms",
+    "hook": "A super-sterile environment bred a parasite that only thrives where humans try to kill all germs.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "clean room parasite",
+      "sterile horror",
+      "lab accident",
+      "reverse evolution",
+      "hygiene paradox"
+    ],
+    "overlap_check_hash": "a3849be2bae31ba4",
+    "why_this_can_go_viral": "It upends our belief that cleanliness is safety, revealing an ironic, terrifying biological trap."
+  },
+  {
+    "unique_id": "science_0035_017_b96733ca8bc62012",
+    "title": "The Physicist Who Spent 10 Years Proving That the Vacuum of Space Is Alive",
+    "hook": "Empty space isn't empty—it's seething with exotic particles that can be 'killed' with enough energy.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 55,
+    "educational_value": 80,
+    "estimated_short_retention": 73,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "quantum vacuum",
+      "virtual particles",
+      "space alive",
+      "quantum field theory",
+      "nothingness"
+    ],
+    "overlap_check_hash": "b96733ca8bc62012",
+    "why_this_can_go_viral": "The poetic idea of a 'living vacuum' blurs science and philosophy, appealing to a broad audience."
+  },
+  {
+    "unique_id": "science_0035_019_5852cc2fc66d8019",
+    "title": "The Researcher Who Faked a Study Showing That Humans Can Regrow Limbs",
+    "hook": "A decade of false hope for amputees destroyed when a single whistleblower checked the raw data.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "limb regeneration",
+      "fraudulent study",
+      "amputee hope",
+      "data manipulation",
+      "whistleblower"
+    ],
+    "overlap_check_hash": "5852cc2fc66d8019",
+    "why_this_can_go_viral": "Exploiting vulnerable people's hope for profit and fame is a high-emotion, high-outrage story that drives shares."
+  },
+  {
+    "unique_id": "science_0035_020_4cf49739b11d5543",
+    "title": "The Soviet Lab That Tried to Resurrect a Frozen Mammoth by Implanting Its DNA Into an Elephant",
+    "hook": "They didn't just want to clone it—they wanted to birth a living mammoth from a surrogate mother.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "mammoth resurrection",
+      "de-extinction",
+      "Soviet genetics",
+      "frozen DNA",
+      "elephant surrogate"
+    ],
+    "overlap_check_hash": "4cf49739b11d5543",
+    "why_this_can_go_viral": "The dream (and nightmare) of bringing back extinct creatures is a perennial viral topic with a dark Soviet twist."
+  },
+  {
+    "unique_id": "science_0035_021_6fcd24f6d15a707e",
+    "title": "The Chemist Who Made a Gas That Turns People Aggressive Instantly",
+    "hook": "A single breath of this chemical transforms a calm person into a rage-fueled attacker.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 92,
+    "educational_value": 55,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "rage gas",
+      "chemical weapon",
+      "behavior control",
+      "aggression compound",
+      "mind-altering gas"
+    ],
+    "overlap_check_hash": "6fcd24f6d15a707e",
+    "why_this_can_go_viral": "The fear of losing control over one's own mind and actions is a deep, primal horror that elicits strong reactions."
+  },
+  {
+    "unique_id": "science_0035_022_57f311579b402e85",
+    "title": "The Neuroscientist Who Found a Drug That Makes You Forget Your Own Language",
+    "hook": "Subjects woke up unable to understand a single word of their native tongue, but fluent in gibberish.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 89,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "language loss",
+      "memory drug",
+      "neural hack",
+      "forgetting native tongue",
+      "experimental compound"
+    ],
+    "overlap_check_hash": "57f311579b402e85",
+    "why_this_can_go_viral": "Losing the ability to communicate is a terrifying thought; the specificity of the effect makes it endlessly discussable."
+  },
+  {
+    "unique_id": "science_0035_023_8700f91142617411",
+    "title": "The Lab That Unleashed a Bacteria That Only Grows in Zero Gravity",
+    "hook": "It's harmless on Earth, but in space, it turns into a flesh-eating nightmare.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "space bacteria",
+      "zero gravity horror",
+      "flesh-eating microbe",
+      "ISS danger",
+      "microgravity mutation"
+    ],
+    "overlap_check_hash": "8700f91142617411",
+    "why_this_can_go_viral": "The combination of space exploration and uncontrollable biological life is a classic sci-fi horror that feels plausible."
+  },
+  {
+    "unique_id": "science_0035_024_59e915180eb90de2",
+    "title": "The Physicist Who Found a Particle That Disappears When You Confirm It Exists",
+    "hook": "The more precisely you measure it, the more it seems to vanish from reality itself.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 45,
+    "educational_value": 82,
+    "estimated_short_retention": 74,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "vanishing particle",
+      "quantum measurement",
+      "elusive particle",
+      "reality glitch",
+      "uncertainty principle"
+    ],
+    "overlap_check_hash": "59e915180eb90de2",
+    "why_this_can_go_viral": "The poetic paradox of something that only exists when you don't look is a mind-bending hook that invites deep thought."
+  },
+  {
+    "unique_id": "science_0035_025_6a9134c7167cbaed",
+    "title": "The Chemist Who Discovered a Polymer That, Once Set, Cannot Be Unset",
+    "hook": "A chemical bond so permanent that if you make a mistake, the material is ruined forever.",
+    "virality_score": 74,
+    "curiosity_gap_score": 79,
+    "darkness_score": 68,
+    "educational_value": 70,
+    "estimated_short_retention": 72,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "irreversible polymer",
+      "permanent bond",
+      "chemical mistake",
+      "forever material",
+      "chemistry horror"
+    ],
+    "overlap_check_hash": "6a9134c7167cbaed",
+    "why_this_can_go_viral": "The dread of an irreversible error resonates with anyone who has ever made a mistake, making it universally relatable."
+  }
+]

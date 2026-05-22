@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "facts_0196_001_9a013252257f777e",
+    "title": "The Animal That Pee Through Its Skin and Burns You on Contact",
+    "hook": "A creature so toxic that touching it makes your skin peel off—and it doesn't even have a bladder.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "toxic animal",
+      "skin burns",
+      "poisonous frog",
+      "defense mechanism",
+      "animal horror"
+    ],
+    "overlap_check_hash": "9a013252257f777e",
+    "why_this_can_go_viral": "Excretory horror + 'you can die from touching' creates immediate disgust and share impulse."
+  },
+  {
+    "unique_id": "facts_0196_002_038be317e59636b4",
+    "title": "Your Own Bones Can Creep Out of Your Joints While You Sleep",
+    "hook": "No pain, no warning—just waking up with your hip bone sliding out of its socket overnight.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "bone dislocation",
+      "sleep horror",
+      "hip joint",
+      "nighttime body failure",
+      "medical mystery"
+    ],
+    "overlap_check_hash": "038be317e59636b4",
+    "why_this_can_go_viral": "Body horror about something that happens while you're unconscious—universal fear."
+  },
+  {
+    "unique_id": "facts_0196_004_73bda81b712923c9",
+    "title": "Why Spiders Can Crawl Into Your Ear and Never Come Out",
+    "hook": "Your ear canal is the perfect temperature, dark, and moist—spiders treat it like a hotel.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 95,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "spider in ear",
+      "ear canal",
+      "arachnophobia",
+      "sleep danger",
+      "insect invasion"
+    ],
+    "overlap_check_hash": "73bda81b712923c9",
+    "why_this_can_go_viral": "Deeply unsettling + relatable (everyone sleeps) + triggers primal fear of bugs in orifices."
+  },
+  {
+    "unique_id": "facts_0196_006_1d27372df70e163d",
+    "title": "The Brain Parasite That Rewrites Your Fear of Heights",
+    "hook": "A microscopic invader that flips your survival instinct—suddenly, falling feels like flying.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 78,
+    "estimated_short_retention": 93,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "brain parasite",
+      "fear manipulation",
+      "height obsession",
+      "mind control",
+      "toxoplasma"
+    ],
+    "overlap_check_hash": "1d27372df70e163d",
+    "why_this_can_go_viral": "Mind control narrative + primal fear of losing self-control—high shareability."
+  },
+  {
+    "unique_id": "facts_0196_007_abe82386c892ba07",
+    "title": "How Your Own White Blood Cells Can Give You a Heart Attack",
+    "hook": "Your body's defenders can turn on you—inflaming arteries until they burst from the inside.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 86,
+    "educational_value": 80,
+    "estimated_short_retention": 86,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "white blood cells",
+      "heart attack cause",
+      "inflammation",
+      "immune betrayal",
+      "artery rupture"
+    ],
+    "overlap_check_hash": "abe82386c892ba07",
+    "why_this_can_go_viral": "Friendly fire from your own body—universal betrayal theme with medical precision."
+  },
+  {
+    "unique_id": "facts_0196_008_4bc7be2ee829f16b",
+    "title": "The Forest Where Trees Explode With Flammable Gas",
+    "hook": "A single spark in this forest turns the air into a fireball—trees are ticking bombs.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 91,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "exploding trees",
+      "flammable forest",
+      "gas plant",
+      "wildfire danger",
+      "deadly vegetation"
+    ],
+    "overlap_check_hash": "4bc7be2ee829f16b",
+    "why_this_can_go_viral": "Explosive imagery + 'common plant = bomb'—visually cinematic and terrifying."
+  },
+  {
+    "unique_id": "facts_0196_009_0a8afb1a62776195",
+    "title": "Why Walking Into a Cloud of Flour Can Kill You Instantly",
+    "hook": "A fine powder turns the air into a bomb—bakers die in explosions that look like magic.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 82,
+    "estimated_short_retention": 88,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "flour explosion",
+      "dust combustion",
+      "kitchen death",
+      "chemical reaction",
+      "baker danger"
+    ],
+    "overlap_check_hash": "0a8afb1a62776195",
+    "why_this_can_go_viral": "Everyday ingredient = deadly weapon—surprise factor + stunning explosion visuals."
+  },
+  {
+    "unique_id": "facts_0196_010_fb82c3da32cb48f0",
+    "title": "The Fish That Crawls on Land to Eat Your Livestock Whole",
+    "hook": "A fish that crawls out of water, drags itself across fields, and swallows a sheep whole.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 94,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "walking fish",
+      "sheep eater",
+      "invasive species",
+      "snakehead",
+      "land fish horror"
+    ],
+    "overlap_check_hash": "fb82c3da32cb48f0",
+    "why_this_can_go_viral": "Breaking the 'fish stay in water' assumption + monster-movie realness—instant share."
+  },
+  {
+    "unique_id": "facts_0196_011_90c408b7cc8c7220",
+    "title": "Your Own Saliva Can Digest Your Lips While You Sleep",
+    "hook": "The enzymes that break down food don't stop—they slowly eat your skin every night.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 84,
+    "educational_value": 73,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "saliva digestion",
+      "lip erosion",
+      "sleep body horror",
+      "enzyme damage",
+      "mouth chemistry"
+    ],
+    "overlap_check_hash": "90c408b7cc8c7220",
+    "why_this_can_go_viral": "Gross + intimate—your own spit is slowly consuming you. Disgust drives shares."
+  },
+  {
+    "unique_id": "facts_0196_012_22ed5000c7afca5f",
+    "title": "The Mountain That Flips Gravity and Makes Water Run Uphill",
+    "hook": "A place where physics breaks—rivers flow backward and rocks fall upward into the sky.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 65,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "gravity anomaly",
+      "water uphill",
+      "mountain mystery",
+      "optical illusion",
+      "physics break"
+    ],
+    "overlap_check_hash": "22ed5000c7afca5f",
+    "why_this_can_go_viral": "Visual paradox—footage of water defying gravity—perfect for 'wait what' loops."
+  },
+  {
+    "unique_id": "facts_0196_013_9bacf942de45ff59",
+    "title": "Why Your Mattress Gains 10 Pounds of Dead Skin Every Decade",
+    "hook": "You sleep on a growing graveyard of your own cells—every night you breathe them in.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "dead skin",
+      "mattress horror",
+      "dust mites",
+      "bed hygiene",
+      "hidden filth"
+    ],
+    "overlap_check_hash": "9bacf942de45ff59",
+    "why_this_can_go_viral": "Grimy reality of 'clean' homes—people will immediately want to buy new mattresses."
+  },
+  {
+    "unique_id": "facts_0196_014_6497c17c41d6c5e0",
+    "title": "The Insect That Burrows Into Your Skin and Grows a Shell Over Your Wound",
+    "hook": "A fly that turns your open cut into a sealed nursery—maggots grow under a bony helmet.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 92,
+    "educational_value": 72,
+    "estimated_short_retention": 94,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "maggot shell",
+      "skin burrow",
+      "botfly horror",
+      "wound infestation",
+      "parasite growth"
+    ],
+    "overlap_check_hash": "6497c17c41d6c5e0",
+    "why_this_can_go_viral": "Body horror peak—'they grow armor on your flesh'—visceral revulsion = high share."
+  },
+  {
+    "unique_id": "facts_0196_015_ed83dfca55f32d51",
+    "title": "The Lake That Turns Your Hair Into Brittle Glass Strands",
+    "hook": "Swim in this water and your hair crystallizes—brush it and it shatters like fiberglass.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 76,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "glass hair",
+      "toxic lake",
+      "crystallization",
+      "soda lake",
+      "chemical burn"
+    ],
+    "overlap_check_hash": "ed83dfca55f32d51",
+    "why_this_can_go_viral": "Beautiful + horrifying—hair turning to glass is a surreal image that demands sharing."
+  },
+  {
+    "unique_id": "facts_0196_016_29914efb89878d83",
+    "title": "Why Your Vacuum Cleaner Can Explode and Spray Burning Plastic Everywhere",
+    "hook": "The machine you trust to clean your home can turn into a flamethrower in seconds.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 74,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "vacuum explosion",
+      "house fire",
+      "appliance danger",
+      "battery failure",
+      "home hazard"
+    ],
+    "overlap_check_hash": "29914efb89878d83",
+    "why_this_can_go_viral": "Everyday object = hidden bomb—people love warnings about common items."
+  },
+  {
+    "unique_id": "facts_0196_018_a12a5e4c4388d3ad",
+    "title": "Why Your Reflection in a Mirror Is Actually 2 Seconds Behind You",
+    "hook": "Light takes time to travel—the 'you' staring back is actually a ghost of your past.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 88,
+    "estimated_short_retention": 87,
+    "niche_name": "facts",
+    "subcategory": "cognitive reality gaps",
+    "keywords": [
+      "mirror delay",
+      "light speed",
+      "time lag",
+      "reflection truth",
+      "physics perception"
+    ],
+    "overlap_check_hash": "a12a5e4c4388d3ad",
+    "why_this_can_go_viral": "Philosophical + scientific—'your reflection is a time traveler'—mind-bending share bait."
+  },
+  {
+    "unique_id": "facts_0196_019_fbccbe7337e16517",
+    "title": "The Animal That Vomits Its Own Stomach Out to Scare Predators",
+    "hook": "It pukes up its entire stomach, waves it like a flag, and then swallows it back down.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 93,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "stomach vomiting",
+      "sea cucumber",
+      "defense mechanism",
+      "animal freak",
+      "regurgitation"
+    ],
+    "overlap_check_hash": "fbccbe7337e16517",
+    "why_this_can_go_viral": "Gross + absurd—'ejects own organ as decoy'—sounds fake but isn't."
+  },
+  {
+    "unique_id": "facts_0196_020_165c8abcf87afb15",
+    "title": "The River That Carves Stone Faster Than Your Fingernails Grow",
+    "hook": "Water moving at the right speed cuts through bedrock like butter—you can watch canyons form.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 60,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "river erosion",
+      "fast canyon",
+      "stone cutting",
+      "geomorphology",
+      "water power"
+    ],
+    "overlap_check_hash": "165c8abcf87afb15",
+    "why_this_can_go_viral": "Time-lapse-ready visual concept—'geology happening in real time' is fascinating."
+  },
+  {
+    "unique_id": "facts_0196_021_062dfbb24527f6bc",
+    "title": "Why Your Own Gut Bacteria Can Change Your Cravings Without You Knowing",
+    "hook": "Microbes in your intestines send signals to your brain—they decide what you want to eat.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 72,
+    "educational_value": 86,
+    "estimated_short_retention": 88,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "gut bacteria",
+      "cravings control",
+      "brain manipulation",
+      "microbiome",
+      "food desires"
+    ],
+    "overlap_check_hash": "062dfbb24527f6bc",
+    "why_this_can_go_viral": "Loss of free will trope—'your cravings aren't yours'—deeply unsettling and relatable."
+  },
+  {
+    "unique_id": "facts_0196_022_a8bb88acf21ed6c9",
+    "title": "The Paradise Island Where the Sand Breathes Poison and Burns Your Feet",
+    "hook": "Beautiful white sand that releases toxic gas when stepped on—paradise hides a killer.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 89,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "toxic sand",
+      "poison island",
+      "hidden danger",
+      "beach death",
+      "volcanic gas"
+    ],
+    "overlap_check_hash": "a8bb88acf21ed6c9",
+    "why_this_can_go_viral": "Beauty vs. danger contrast—'vacation spot that kills' triggers FOMO and shock."
+  },
+  {
+    "unique_id": "facts_0196_023_0a672edcf24951ca",
+    "title": "Why Half the Oxygen You Breathe Actually Comes From a Single Ocean Microbe",
+    "hook": "One invisible organism keeps half of humanity alive—and it's dying faster than we think.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 74,
+    "educational_value": 90,
+    "estimated_short_retention": 84,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "ocean microbe",
+      "oxygen source",
+      "prochlorococcus",
+      "climate threat",
+      "life support"
+    ],
+    "overlap_check_hash": "0a672edcf24951ca",
+    "why_this_can_go_viral": "Fragile dependency—'tiny thing keeps us alive'—existential awareness with urgency."
+  },
+  {
+    "unique_id": "facts_0196_025_196ad259a8856872",
+    "title": "Why Bananas Are Radioactive Enough to Trigger a Geiger Counter",
+    "hook": "Your breakfast is emitting radiation—eat enough and you'll set off nuclear alarms.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 68,
+    "educational_value": 83,
+    "estimated_short_retention": 82,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "banana radiation",
+      "potassium-40",
+      "geiger counter",
+      "food radiation",
+      "hidden danger"
+    ],
+    "overlap_check_hash": "196ad259a8856872",
+    "why_this_can_go_viral": "Everyday fruit = radioactive—'your snack is a tiny bomb'—shock + science."
+  }
+]

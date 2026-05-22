@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "science_0092_003_538a2f4f33ac6171",
+    "title": "The Neuroscientist Who Wiped a Rat's Entire Memory",
+    "hook": "He erased every trace of its past — and the rat forgot how to be alive.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory erasure",
+      "rat experiment",
+      "neuroscience",
+      "brain manipulation",
+      "identity loss"
+    ],
+    "overlap_check_hash": "538a2f4f33ac6171",
+    "why_this_can_go_viral": "Taps into the deep fear of losing oneself — a dark twist on memory manipulation that feels like sci-fi horror."
+  },
+  {
+    "unique_id": "science_0092_004_eab4fe9a72a295e0",
+    "title": "The Forbidden Experiment Where a Baby Was Raised by Robots",
+    "hook": "A scientist wanted to see if a machine could teach a child to be human.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "robot caretaker",
+      "child experiment",
+      "forbidden experiment",
+      "AI parenting",
+      "human development"
+    ],
+    "overlap_check_hash": "eab4fe9a72a295e0",
+    "why_this_can_go_viral": "The ethical horror of replacing human touch with machines sparks debate and morbid curiosity about the outcome."
+  },
+  {
+    "unique_id": "science_0092_005_f8d3401b38e284ed",
+    "title": "The Physics Anomaly Where a Particle Exploded in a Vacuum",
+    "hook": "Nothing should explode in empty space — but this particle did, tearing a hole in the lab.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 74,
+    "educational_value": 80,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "particle explosion",
+      "vacuum",
+      "physics anomaly",
+      "lab accident",
+      "spontaneous reaction"
+    ],
+    "overlap_check_hash": "f8d3401b38e284ed",
+    "why_this_can_go_viral": "Defies basic physics intuition — viewers will be stunned that a vacuum can't stop destruction."
+  },
+  {
+    "unique_id": "science_0092_006_50d6e54a14ad18d9",
+    "title": "The Chemist Who Made a Gas That Turns Blood Into Foam",
+    "hook": "One breath and your blood starts frothing inside your veins.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 72,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "toxic gas",
+      "blood foam",
+      "chemistry disaster",
+      "deadly chemical",
+      "lab accident"
+    ],
+    "overlap_check_hash": "50d6e54a14ad18d9",
+    "why_this_can_go_viral": "Visceral biological horror meets chemistry — the bodily transformation angle is unforgettable and shareable."
+  },
+  {
+    "unique_id": "science_0092_007_8d33cf6f0014321b",
+    "title": "The Biolab That Accidentally Created a Superbug That Eats Antibiotics",
+    "hook": "It wasn't just immune to drugs — it was feeding on them to grow stronger.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 85,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "superbug",
+      "antibiotic resistance",
+      "biolab accident",
+      "bacteria",
+      "medical nightmare"
+    ],
+    "overlap_check_hash": "8d33cf6f0014321b",
+    "why_this_can_go_viral": "Antibiotic resistance is a real global fear — the idea of bacteria evolving beyond our solutions is terrifying and topical."
+  },
+  {
+    "unique_id": "science_0092_008_e1898e96983278d0",
+    "title": "The Neuroscientist Who Made People Forget Their Native Language",
+    "hook": "A simple electrical pulse and suddenly, English became as foreign as Martian.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 77,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain stimulation",
+      "language loss",
+      "memory manipulation",
+      "neuroscience",
+      "identity crisis"
+    ],
+    "overlap_check_hash": "e1898e96983278d0",
+    "why_this_can_go_viral": "The horror of losing the ability to speak your own tongue is deeply unsettling and triggers 'what if' dread."
+  },
+  {
+    "unique_id": "science_0092_009_eaef2a8d91647c1e",
+    "title": "The Forbidden Experiment That Put a Human Heart in a Vat of Chemicals",
+    "hook": "It kept beating for weeks — alone and alive inside a glass tank.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 91,
+    "educational_value": 73,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human heart",
+      "organ experiment",
+      "forbidden science",
+      "life support",
+      "biological horror"
+    ],
+    "overlap_check_hash": "eaef2a8d91647c1e",
+    "why_this_can_go_viral": "Gothic horror meets real science — the image of a disembodied heart pumping in a tank is unforgettable."
+  },
+  {
+    "unique_id": "science_0092_015_fccb3449a5e7db86",
+    "title": "The Physics Anomaly Where Atoms Were Linked Across the Lab Instantly",
+    "hook": "They shouldn't have been connected — but they reacted as one, across empty space.",
+    "virality_score": 76,
+    "curiosity_gap_score": 84,
+    "darkness_score": 60,
+    "educational_value": 83,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "atom linkage",
+      "quantum connection",
+      "physics anomaly",
+      "entanglement",
+      "particle behavior"
+    ],
+    "overlap_check_hash": "fccb3449a5e7db86",
+    "why_this_can_go_viral": "Taps into the eerie connectedness of quantum mechanics — mind-bending enough to make viewers question reality."
+  },
+  {
+    "unique_id": "science_0092_017_9c7eb6dd04446fbb",
+    "title": "The Forbidden Experiment That Gave a Monkey a Dog's Heartbeat",
+    "hook": "The heart beat strong — but the monkey started acting like a different animal.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "cross-species transplant",
+      "animal experiment",
+      "heart transplant",
+      "forbidden science",
+      "identity change"
+    ],
+    "overlap_check_hash": "9c7eb6dd04446fbb",
+    "why_this_can_go_viral": "Blurs the line between species — the psychological horror of becoming 'other' drives engagement."
+  },
+  {
+    "unique_id": "science_0092_018_ee2c7d998cc3e044",
+    "title": "The Lab Catastrophe Where a Laser Accidentally Vaporized a Diamond",
+    "hook": "The hardest known material turned into a puff of smoke in milliseconds.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 71,
+    "educational_value": 81,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "laser accident",
+      "diamond vaporization",
+      "lab disaster",
+      "high energy",
+      "material failure"
+    ],
+    "overlap_check_hash": "ee2c7d998cc3e044",
+    "why_this_can_go_viral": "The destruction of something unbreakable is mesmerizing — viewers will watch for the 'how' and 'why'."
+  },
+  {
+    "unique_id": "science_0092_019_8368168e9ebd5622",
+    "title": "The Chemistry Disaster That Created a Polymer That Never Dries",
+    "hook": "It stayed sticky for decades, trapping everything that touched it forever.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 77,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "polymer",
+      "sticky disaster",
+      "chemistry accident",
+      "industrial hazard",
+      "forever material"
+    ],
+    "overlap_check_hash": "8368168e9ebd5622",
+    "why_this_can_go_viral": "The 'forever' aspect triggers curiosity — viewers imagine a world where nothing can be cleaned."
+  },
+  {
+    "unique_id": "science_0092_020_3ed445b1af6f654a",
+    "title": "The Quantum Paradox Where Time Ran Backward for a Single Atom",
+    "hook": "It reversed its own decay — breaking one of the universe's strictest rules.",
+    "virality_score": 82,
+    "curiosity_gap_score": 92,
+    "darkness_score": 68,
+    "educational_value": 85,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time reversal",
+      "quantum decay",
+      "atomic paradox",
+      "physics rule break",
+      "entropy violation"
+    ],
+    "overlap_check_hash": "3ed445b1af6f654a",
+    "why_this_can_go_viral": "Time travel at the atomic level is a mind-blowing concept that challenges our understanding of cause and effect."
+  },
+  {
+    "unique_id": "science_0092_021_c5f8ec0b29fe52eb",
+    "title": "The Biolab That Accidentally Grew a Fungus That Eats Plastic in Minutes",
+    "hook": "It was supposed to be a solution for pollution — until it started eating the lab itself.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 79,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fungus",
+      "plastic eating",
+      "biolab accident",
+      "environmental disaster",
+      "uncontrollable growth"
+    ],
+    "overlap_check_hash": "c5f8ec0b29fe52eb",
+    "why_this_can_go_viral": "The promise of a solution turning into a threat is a classic 'science gone wrong' narrative."
+  },
+  {
+    "unique_id": "science_0092_022_f861943495eb4d75",
+    "title": "The Neuroscientist Who Proved That Your Brain Can Be Controlled by Light",
+    "hook": "A single beam of light made a rat run in circles — against its own will.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "optogenetics",
+      "brain control",
+      "light stimulation",
+      "neuroscience",
+      "behavior manipulation"
+    ],
+    "overlap_check_hash": "f861943495eb4d75",
+    "why_this_can_go_viral": "The idea of being puppeteered by light is both fascinating and terrifying — it's a real-life mind control tool."
+  },
+  {
+    "unique_id": "science_0092_024_c355fe078c16ab80",
+    "title": "The Physics Anomaly Where a Crystal Produced Light for 100 Years",
+    "hook": "It was locked in a drawer — yet it kept glowing, day and night, for a century.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "persistent luminescence",
+      "crystal anomaly",
+      "physics mystery",
+      "light emission",
+      "long decay"
+    ],
+    "overlap_check_hash": "c355fe078c16ab80",
+    "why_this_can_go_viral": "The 'forever glow' is a visual marvel that sparks wonder and disbelief about what materials can do."
+  },
+  {
+    "unique_id": "science_0092_025_0996e1f9f0f6c12f",
+    "title": "The Scientific Fraud Who Faked a Study That Made Bacteria Communicate",
+    "hook": "He claimed they spoke in chemical whispers — but the data was a lie from the start.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 74,
+    "educational_value": 81,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "bacteria communication",
+      "quorum sensing",
+      "fraud",
+      "fake research",
+      "scientific misconduct"
+    ],
+    "overlap_check_hash": "0996e1f9f0f6c12f",
+    "why_this_can_go_viral": "The idea of bacterial 'language' is fascinating — the betrayal of fabricated data adds a scandal layer."
+  }
+]

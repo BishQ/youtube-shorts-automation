@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0041_001_70207f405fcce5fd",
+    "title": "The Physicist Who Discovered That Consciousness Can Collapse Reality",
+    "hook": "What if your thoughts literally shape the universe—and scientists have proven it?",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 75,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "consciousness",
+      "quantum mechanics",
+      "reality collapse",
+      "observer effect",
+      "mind over matter"
+    ],
+    "overlap_check_hash": "70207f405fcce5fd",
+    "why_this_can_go_viral": "Taps into the ultimate philosophical fear that our perception isn't passive—we're actively destroying possibilities every second."
+  },
+  {
+    "unique_id": "science_0041_002_b2c58ec1dde8940f",
+    "title": "The Lab That Grew a Human Brain and It Began Dreaming",
+    "hook": "Neuroscientists grew a brain in a petri dish—and its electrical activity showed REM sleep patterns.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 80,
+    "educational_value": 78,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "organoid",
+      "brain in a dish",
+      "REM sleep",
+      "consciousness",
+      "lab grown brain"
+    ],
+    "overlap_check_hash": "b2c58ec1dde8940f",
+    "why_this_can_go_viral": "The idea of a disembodied brain experiencing dreams is deeply unsettling and triggers immediate existential dread."
+  },
+  {
+    "unique_id": "science_0041_004_2553ba35823d1009",
+    "title": "The Neuroscientist Who Found That Your Brain Encrypts Traumatic Memories",
+    "hook": "Your mind locks away horrors in a biochemical vault—and some scientists have found the key.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 82,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "trauma",
+      "memory encryption",
+      "repressed memories",
+      "brain biochemistry",
+      "PTSD"
+    ],
+    "overlap_check_hash": "2553ba35823d1009",
+    "why_this_can_go_viral": "Everyone has wondered if suppressed memories are real—this promises the dark science behind the mechanism."
+  },
+  {
+    "unique_id": "science_0041_005_c5f6c84eb000908a",
+    "title": "The Physicist Who Cracked a Parallel Universe Signal",
+    "hook": "A quantum anomaly in a Swiss tunnel may have been a message from another dimension—and it was covered up.",
+    "virality_score": 90,
+    "curiosity_gap_score": 96,
+    "darkness_score": 78,
+    "educational_value": 74,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "parallel universe",
+      "quantum signal",
+      "CERN anomaly",
+      "multiverse communication",
+      "hidden dimensions"
+    ],
+    "overlap_check_hash": "c5f6c84eb000908a",
+    "why_this_can_go_viral": "Conspiracy + real science = explosive virality. The idea that someone else is reaching out from another reality is irresistible."
+  },
+  {
+    "unique_id": "science_0041_006_7d529532cc0dd471",
+    "title": "The Lab That Unleashed a Virus That Turns Hosts Into Salt Statues",
+    "hook": "A failed virology experiment created a pathogen that crystallizes soft tissue into brittle mineral.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "salt virus",
+      "crystallization",
+      "mineralization",
+      "lab leak",
+      "bio-horror"
+    ],
+    "overlap_check_hash": "7d529532cc0dd471",
+    "why_this_can_go_viral": "Body horror meets real science panic. The visual of a human turning into a salt statue is nightmare fuel."
+  },
+  {
+    "unique_id": "science_0041_007_e15897706f80c54c",
+    "title": "The Soviet Experiment That Gave Prisoners Hyper-Senses for 72 Hours",
+    "hook": "A secret USSR project temporarily gave subjects superhuman vision and hearing—before their brains burned out.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "Soviet experiments",
+      "hyper-senses",
+      "brain enhancement",
+      "human guinea pigs",
+      "KGB science"
+    ],
+    "overlap_check_hash": "e15897706f80c54c",
+    "why_this_can_go_viral": "Superpowers with a horrific cost—a dark twist on the 'what if you could see everything' fantasy."
+  },
+  {
+    "unique_id": "science_0041_008_21524b1db0317617",
+    "title": "The Chemist Who Accidentally Synthesized a Black Hole in a Flask",
+    "hook": "A lab mishap with ultra-dense matter created a microscopic gravitational singularity that nearly consumed the building.",
+    "virality_score": 92,
+    "curiosity_gap_score": 98,
+    "darkness_score": 82,
+    "educational_value": 72,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "micro black hole",
+      "lab accident",
+      "singularity",
+      "gravitational collapse",
+      "particle physics"
+    ],
+    "overlap_check_hash": "21524b1db0317617",
+    "why_this_can_go_viral": "The ultimate 'oops' story—creating a black hole in the lab sounds like science fiction, and viewers need to know if it's real."
+  },
+  {
+    "unique_id": "science_0041_009_b93864207829a1b0",
+    "title": "The Researcher Who Faked a Study Proving That Empathy Is a Weakness",
+    "hook": "A fraudulent paper claimed compassion makes you dumber—and it was used to justify cruel policies.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 86,
+    "educational_value": 80,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fake study",
+      "empathy debunked",
+      "policy manipulation",
+      "bad science",
+      "moral corruption"
+    ],
+    "overlap_check_hash": "b93864207829a1b0",
+    "why_this_can_go_viral": "Taps into cynicism about science being weaponized—audiences love stories of corruption in plain sight."
+  },
+  {
+    "unique_id": "science_0041_010_f0e95db6c436bd04",
+    "title": "The Neuroscientist Who Discovered a Frequency That Erases Fear Permanently",
+    "hook": "A specific brainwave pulse wiped out phobias in rats—and then they stopped fearing death itself.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 79,
+    "educational_value": 84,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "fear erasure",
+      "brainwave frequency",
+      "amygdala",
+      "phobia cure",
+      "emotion control"
+    ],
+    "overlap_check_hash": "f0e95db6c436bd04",
+    "why_this_can_go_viral": "Everyone wants to be fearless—but the idea of losing the survival instinct is terrifyingly dark."
+  },
+  {
+    "unique_id": "science_0041_012_b772015aaa77596a",
+    "title": "The Lab That Created a Fungus That Digests Plastic in Minutes—Then Escaped",
+    "hook": "A bio-engineered mold designed to clean up waste mutated and started eating through lab walls.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 84,
+    "educational_value": 76,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "plastic eating fungus",
+      "bio-engineered",
+      "lab escape",
+      "mutant mold",
+      "environmental disaster"
+    ],
+    "overlap_check_hash": "b772015aaa77596a",
+    "why_this_can_go_viral": "The 'intelligent solution becomes the monster' trope is classic horror—adds real bio-risk anxiety."
+  },
+  {
+    "unique_id": "science_0041_014_6a120034641d9b07",
+    "title": "The Quantum Physicist Who Found That the Future Can Influence the Past",
+    "hook": "A delayed-choice experiment showed that what happens tomorrow can decide what happened yesterday.",
+    "virality_score": 86,
+    "curiosity_gap_score": 94,
+    "darkness_score": 70,
+    "educational_value": 90,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "retrocausality",
+      "time reversal",
+      "quantum eraser",
+      "delayed choice",
+      "future affecting past"
+    ],
+    "overlap_check_hash": "6a120034641d9b07",
+    "why_this_can_go_viral": "Breaks the fundamental arrow of time—makes viewers question if their choices are even their own."
+  },
+  {
+    "unique_id": "science_0041_015_7fb1524187c794a5",
+    "title": "The Neuroscientist Who Found That Your Brain Can Be Hacked by a Color You Cannot See",
+    "hook": "An invisible ultraviolet pattern triggers seizures and paranoia in subjects who swear nothing happened.",
+    "virality_score": 88,
+    "curiosity_gap_score": 95,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "invisible color",
+      "brain hacking",
+      "UV manipulation",
+      "subliminal attack",
+      "neural weapon"
+    ],
+    "overlap_check_hash": "7fb1524187c794a5",
+    "why_this_can_go_viral": "Invisible threats are terrifying—viewers will worry about being manipulated by stimuli they can't perceive."
+  },
+  {
+    "unique_id": "science_0041_016_0aa4a409eda3f5b7",
+    "title": "The Soviet Lab That Tried to Revive Dead Cells and Created a Screaming Mass",
+    "hook": "A reanimation experiment with post-mortem tissue produced cellular activity that emitted electrical screams.",
+    "virality_score": 94,
+    "curiosity_gap_score": 99,
+    "darkness_score": 96,
+    "educational_value": 65,
+    "estimated_short_retention": 96,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "Soviet reanimation",
+      "dead tissue revival",
+      "electrical screams",
+      "undead cells",
+      "forbidden science"
+    ],
+    "overlap_check_hash": "0aa4a409eda3f5b7",
+    "why_this_can_go_viral": "Zombie science meets Soviet secrecy—the pure horror of 'life after death' in a jar is guaranteed to haunt viewers."
+  },
+  {
+    "unique_id": "science_0041_017_dfd33b1246692874",
+    "title": "The Physicist Who Discovered That Gravity Bleeds Through Dimensions",
+    "hook": "Gravity may be leaking from a parallel universe—and it's why we can't explain dark matter.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 68,
+    "educational_value": 82,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "gravity leakage",
+      "extra dimensions",
+      "dark matter",
+      "parallel gravity",
+      "brane theory"
+    ],
+    "overlap_check_hash": "dfd33b1246692874",
+    "why_this_can_go_viral": "Solves a cosmic mystery with a mind-bending twist—feels like a secret reveal about the fabric of reality."
+  },
+  {
+    "unique_id": "science_0041_018_ed5630c6c74f46a6",
+    "title": "The Lab That Unleashed a Bacterium That Makes Metal Rust Instantly",
+    "hook": "A corrosion-accelerating microbe escaped containment and began eating through steel reinforcement in buildings.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 79,
+    "educational_value": 74,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "metal eating bacteria",
+      "rust accelerator",
+      "bio-corrosion",
+      "lab escape",
+      "infrastructure threat"
+    ],
+    "overlap_check_hash": "ed5630c6c74f46a6",
+    "why_this_can_go_viral": "Slow-motion apocalypse where our cities rot from within—combines sci-fi horror with real infrastructure fear."
+  },
+  {
+    "unique_id": "science_0041_019_04498b1677612356",
+    "title": "The Chemist Who Made a Foam That Absorbs All Kinetic Energy—and Never Stops Expanding",
+    "hook": "A polymer that turns impacts into heat kept growing until it filled an entire containment room.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 71,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "self-expanding foam",
+      "kinetic energy absorption",
+      "runaway polymer",
+      "lab disaster",
+      "containment failure"
+    ],
+    "overlap_check_hash": "04498b1677612356",
+    "why_this_can_go_viral": "The 'unstoppable goo' trope from sci-fi made real—visually compelling and deeply unsettling."
+  },
+  {
+    "unique_id": "science_0041_020_8db921031b8124b5",
+    "title": "The Neuroscientist Who Found That Your Brain Can Be Forced to Love a Stranger",
+    "hook": "By stimulating a specific circuit, scientists made subjects feel intense romantic attachment to a random face.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "love hacking",
+      "brain stimulation",
+      "forced attachment",
+      "emotion control",
+      "neural manipulation"
+    ],
+    "overlap_check_hash": "8db921031b8124b5",
+    "why_this_can_go_viral": "Love is supposed to be sacred—the idea it can be manufactured in a lab feels like a violation of humanity."
+  },
+  {
+    "unique_id": "science_0041_021_d9ab87cfeb35ed52",
+    "title": "The Quantum Physicist Who Found That Reality Is a Projection From a 2D Surface",
+    "hook": "The holographic principle suggests our 3D world is a simulation encoded on a flat boundary—and experiments back it.",
+    "virality_score": 89,
+    "curiosity_gap_score": 96,
+    "darkness_score": 77,
+    "educational_value": 86,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "holographic universe",
+      "2D projection",
+      "reality simulation",
+      "black hole information",
+      "quantum gravity"
+    ],
+    "overlap_check_hash": "d9ab87cfeb35ed52",
+    "why_this_can_go_viral": "The ultimate existential shudder—we might be living in a cosmic illusion. This idea spreads like wildfire."
+  },
+  {
+    "unique_id": "science_0041_023_a802df35e22f471d",
+    "title": "The Physicist Who Found a Material That Vibrates Faster When Cooled",
+    "hook": "A crystalline compound breaks thermodynamic laws—its atoms speed up as temperature drops toward zero.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 66,
+    "educational_value": 87,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "negative thermal expansion",
+      "atomic vibration",
+      "thermodynamic anomaly",
+      "cooling paradox",
+      "crystal physics"
+    ],
+    "overlap_check_hash": "a802df35e22f471d",
+    "why_this_can_go_viral": "Defies common sense—things are supposed to slow when cold—makes people feel like they're learning a secret rule."
+  },
+  {
+    "unique_id": "science_0041_024_76b6b54df16b379a",
+    "title": "The Lab That Unleashed a Parasite That Hijacks Pain Receptors for Pleasure",
+    "hook": "A modified hookworm turned agony into ecstasy—and infected researchers didn't want to be cured.",
+    "virality_score": 92,
+    "curiosity_gap_score": 97,
+    "darkness_score": 93,
+    "educational_value": 68,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "pain to pleasure",
+      "parasite modification",
+      "addictive infection",
+      "body horror",
+      "bio-engineering nightmare"
+    ],
+    "overlap_check_hash": "76b6b54df16b379a",
+    "why_this_can_go_viral": "The ultimate body horror—a parasite that makes you love your own suffering. Extremely shareable for its shock value."
+  },
+  {
+    "unique_id": "science_0041_025_9492efd16b64831f",
+    "title": "The Chemist Who Accidentally Created a Compound That Makes You See Ghosts",
+    "hook": "A synthetic alkaloid induced vivid hallucinations of dead relatives—and users reported shared visions.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "ghost compound",
+      "hallucinogen",
+      "shared vision",
+      "death perception",
+      "alkaloid accident"
+    ],
+    "overlap_check_hash": "9492efd16b64831f",
+    "why_this_can_go_viral": "Blurs the line between chemistry and the paranormal—everyone is curious about what happens after death."
+  }
+]

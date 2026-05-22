@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "health_0026_001_5ea3f4bf237c3c8e",
+    "title": "The Doctor Who Painted His Patients' Skin with Radioactive Paint",
+    "hook": "In the 1950s, a dermatologist thought radium-laced paint would cure skin conditions—instead, he gave his patients bone cancer from the inside out.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "radioactive paint",
+      "radium poisoning",
+      "doctor scandal",
+      "1950s medicine",
+      "skin cancer cover-up"
+    ],
+    "overlap_check_hash": "5ea3f4bf237c3c8e",
+    "why_this_can_go_viral": "Combines vintage horror with a trusted authority figure betraying patients, tapping into fear of invisible toxins."
+  },
+  {
+    "unique_id": "health_0026_002_ac0cce84c02d0f33",
+    "title": "The Pharmaceutical Company That Sold Expired Blood to Hospitals",
+    "hook": "A major drug distributor knowingly shipped blood that had been sitting in warehouses for years, and patients died from septic shock—but the company kept selling.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 82,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "expired blood",
+      "blood scandal",
+      "pharma corruption",
+      "hospital deaths",
+      "septic shock"
+    ],
+    "overlap_check_hash": "ac0cce84c02d0f33",
+    "why_this_can_go_viral": "Blood is universally understood as life-saving; learning it was deliberately contaminated triggers visceral outrage and shareability."
+  },
+  {
+    "unique_id": "health_0026_004_bd1120ae5bc31ef6",
+    "title": "The 'Cure' That Turned Patients Into Involuntary Drug Addicts",
+    "hook": "A doctor promised to cure alcoholism with a new injection—but the shot contained pure heroin, and patients became addicted to the treatment itself.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 93,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "heroin cure",
+      "alcoholism treatment",
+      "addiction scam",
+      "fake cure",
+      "doctor addiction"
+    ],
+    "overlap_check_hash": "bd1120ae5bc31ef6",
+    "why_this_can_go_viral": "The irony of a cure causing the exact same problem it claimed to fix is darkly compelling and highly shareable."
+  },
+  {
+    "unique_id": "health_0026_006_5a53e7a76635c5d9",
+    "title": "The Makeup Brand That Used Ground-Up Human Bones as Pigment",
+    "hook": "A luxury cosmetics company sourced bone meal from unmarked graves to give their eyeshadows a shimmer—and the 'glow' was actually pulverized human remains.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "human bones in makeup",
+      "cosmetics scandal",
+      "grave robbing",
+      "toxic beauty products",
+      "bone meal pigment"
+    ],
+    "overlap_check_hash": "5a53e7a76635c5d9",
+    "why_this_can_go_viral": "The gothic horror of wearing dead people on your face is instantly shocking and triggers a disgust reaction that drives shares."
+  },
+  {
+    "unique_id": "health_0026_008_af17054083a17dee",
+    "title": "The FDA-Approved Painkiller That Melted Patients' Kidneys",
+    "hook": "Phenacetin was sold for decades as a safe headache remedy—until doctors realized it was quietly dissolving kidney tissue from the inside out.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 91,
+    "educational_value": 79,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "phenacetin",
+      "kidney failure",
+      "FDA approved dangerous",
+      "painkiller scandal",
+      "kidney melting"
+    ],
+    "overlap_check_hash": "af17054083a17dee",
+    "why_this_can_go_viral": "Visual metaphor of 'melting organs' is memorable, and the idea of a common pill causing hidden damage taps into daily medication fears."
+  },
+  {
+    "unique_id": "health_0026_009_8ba601b18057daa6",
+    "title": "The Surgeon Who Removed Organs to Sell Them on eBay",
+    "hook": "A licensed transplant surgeon was caught listing human kidneys, livers, and hearts for sale on an online auction site—and some came from living donors who didn't know.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 99,
+    "educational_value": 77,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "organ harvesting",
+      "eBay organs",
+      "surgeon crime",
+      "black market organs",
+      "transplant scandal"
+    ],
+    "overlap_check_hash": "8ba601b18057daa6",
+    "why_this_can_go_viral": "The dark absurdity of buying human organs like collectibles creates both shock and morbid curiosity."
+  },
+  {
+    "unique_id": "health_0026_011_e50edbd177934555",
+    "title": "The Pharmaceutical Giant That Poisoned Its Own Diabetes Drug",
+    "hook": "A top insulin manufacturer was caught adding a cheap chemical filler that caused severe liver damage in thousands of patients—to save 3 cents per vial.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 82,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "insulin poisoning",
+      "diabetes drug scandal",
+      "pharma filler",
+      "liver damage",
+      "drug contamination"
+    ],
+    "overlap_check_hash": "e50edbd177934555",
+    "why_this_can_go_viral": "Affects a massive population (diabetics) and highlights corporate greed over human life."
+  },
+  {
+    "unique_id": "health_0026_013_afffdb0c6cd6428a",
+    "title": "The Experiment Where Patients Were Fed Radioactive Breakfast Cereal",
+    "hook": "In the 1950s, researchers fed mentally disabled children radioactive iron-laced cereal to study digestion—without consent, and the radiation stayed in their bones for life.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 83,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "radioactive cereal",
+      "human radiation experiments",
+      "disabled children",
+      "1950s research",
+      "unethical feeding"
+    ],
+    "overlap_check_hash": "afffdb0c6cd6428a",
+    "why_this_can_go_viral": "Mixing childhood innocence with radioactive poisoning creates a powerful, gut-wrenching narrative."
+  },
+  {
+    "unique_id": "health_0026_014_74dc9dd756a52325",
+    "title": "The 'Natural' Supplement That Contained Shredded Styrofoam",
+    "hook": "A bestselling 'herbal' supplement was found to be 70% ground-up Styrofoam packaging—and it had been on shelves for 8 years before anyone tested it.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 89,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "fake supplements",
+      "Styrofoam pills",
+      "herbal scam",
+      "toxic health products",
+      "supplement fraud"
+    ],
+    "overlap_check_hash": "74dc9dd756a52325",
+    "why_this_can_go_viral": "The absurdity of eating packaging material disguised as health food generates disbelief and shares."
+  },
+  {
+    "unique_id": "health_0026_015_99e1e8d88c84a074",
+    "title": "The Disease Cover-Up: They Knew the Tap Water Contained Arsenic for 40 Years",
+    "hook": "A city's water supply tested positive for arsenic in 1972—but officials suppressed the results for four decades, and thousands developed cancer.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "arsenic in water",
+      "water contamination cover-up",
+      "city water scandal",
+      "cancer cluster",
+      "long-term poisoning"
+    ],
+    "overlap_check_hash": "99e1e8d88c84a074",
+    "why_this_can_go_viral": "Every viewer drinks tap water, making this a universal horror with a hidden timeline."
+  },
+  {
+    "unique_id": "health_0026_016_5a327d8ec7a0c54d",
+    "title": "The FDA-Approved Drug That Gave Patients Uncontrollable Gambling Urges",
+    "hook": "A Parkinson's medication caused some patients to develop sudden, compulsive gambling addictions—some lost their life savings before anyone connected the dots.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 81,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "Parkinson's drug gambling",
+      "compulsive gambling side effect",
+      "FDA approved addiction",
+      "pramipexole",
+      "unexpected side effects"
+    ],
+    "overlap_check_hash": "5a327d8ec7a0c54d",
+    "why_this_can_go_viral": "The strange link between a neurological drug and gambling behavior is both fascinating and terrifying."
+  },
+  {
+    "unique_id": "health_0026_017_04dea9debda5071b",
+    "title": "The Dentist Who Used Asbestos Floss—and Told Patients It Was 'Safe'",
+    "hook": "A dentist sold asbestos-impregnated dental floss for 15 years, claiming it 'strengthened gums'—patients later developed mesothelioma from flossing.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 97,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "asbestos floss",
+      "dental floss cancer",
+      "mesothelioma",
+      "dentist scandal",
+      "toxic dental products"
+    ],
+    "overlap_check_hash": "04dea9debda5071b",
+    "why_this_can_go_viral": "Something as mundane as flossing becomes deadly, and the betrayal by a trusted dentist amplifies the shock."
+  },
+  {
+    "unique_id": "health_0026_018_f660d29a8f0e8637",
+    "title": "The Hospital That Sterilized HIV-Positive Women Without Their Knowledge",
+    "hook": "In South Africa, a state hospital performed forced hysterectomies on HIV-positive women during routine C-sections, telling them it was 'standard procedure.'",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "forced sterilization",
+      "HIV women",
+      "South Africa hospital",
+      "human rights abuse",
+      "medical apartheid"
+    ],
+    "overlap_check_hash": "f660d29a8f0e8637",
+    "why_this_can_go_viral": "Combines systemic racism, gender-based violence, and medical abuse in a story that demands justice."
+  },
+  {
+    "unique_id": "health_0026_019_2eef7d0593ad2d08",
+    "title": "The Pharmaceutical Company That Recycled Expired Pills into New Bottles",
+    "hook": "A major drug manufacturer was caught scraping expiration dates off returned pills, repackaging them, and selling them as fresh—some had been sitting in warehouses for 6 years.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 79,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "expired pills recycled",
+      "pharma fraud",
+      "drug expiration scam",
+      "repackaging drugs",
+      "dangerous medicine"
+    ],
+    "overlap_check_hash": "2eef7d0593ad2d08",
+    "why_this_can_go_viral": "The idea of taking medicine that has been sitting around for years taps into everyday fears about drug quality."
+  },
+  {
+    "unique_id": "health_0026_020_ab85b71899bfb64a",
+    "title": "The Doctor Who Injected Patients with Horse Serum — and Called It a Vaccine",
+    "hook": "A 1920s physician believed horse blood could cure tuberculosis and injected it directly into children's veins, causing massive immune reactions that killed them.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "horse serum injection",
+      "tuberculosis cure",
+      "1920s medical horror",
+      "quack doctor",
+      "deadly vaccine"
+    ],
+    "overlap_check_hash": "ab85b71899bfb64a",
+    "why_this_can_go_viral": "The grotesque visual of animal blood injected into humans is both historically fascinating and viscerally disturbing."
+  },
+  {
+    "unique_id": "health_0026_021_e805c72c09b8ee2c",
+    "title": "The 'Breast Cancer Awareness' Campaign That Funded Poisonous Mammograms",
+    "hook": "A major cancer charity was found to be using old, faulty mammography machines that emitted 4x the safe radiation dose—and they knew for years.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 83,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "cancer charity scandal",
+      "faulty mammograms",
+      "radiation overexposure",
+      "breast cancer fraud",
+      "medical charity corruption"
+    ],
+    "overlap_check_hash": "e805c72c09b8ee2c",
+    "why_this_can_go_viral": "The irony of a charity meant to save lives actually causing cancer creates a deeply cynical and shareable narrative."
+  },
+  {
+    "unique_id": "health_0026_022_e367e3b51613ec9d",
+    "title": "The FDA-Approved Sleep Aid That Caused Night Terrors — and Amnesia",
+    "hook": "Zolpidem-based sleep drugs were linked to patients sleepwalking, sleep-eating, sleep-driving—and waking up with no memory, sometimes covered in blood.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "zolpidem",
+      "sleep aid amnesia",
+      "sleepwalking horror",
+      "Ambien side effects",
+      "night terror drug"
+    ],
+    "overlap_check_hash": "e367e3b51613ec9d",
+    "why_this_can_go_viral": "The idea of losing control while asleep and doing dangerous things is a primal fear."
+  },
+  {
+    "unique_id": "health_0026_023_5b5e429cb31baf13",
+    "title": "The Skincare Line That Used Formaldehyde as a Preservative — and Called It 'Natural'",
+    "hook": "A popular organic skincare brand used formaldehyde-releasing chemicals in their 'all-natural' moisturizers, causing allergic reactions and long-term skin damage.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 89,
+    "educational_value": 76,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "formaldehyde in skincare",
+      "natural brand scandal",
+      "toxic cosmetics",
+      "allergic reactions",
+      "preservative cover-up"
+    ],
+    "overlap_check_hash": "5b5e429cb31baf13",
+    "why_this_can_go_viral": "Targets the growing clean beauty movement, exposing hypocrisy and hidden chemicals in everyday products."
+  },
+  {
+    "unique_id": "health_0026_024_14ab6c63cae4dd63",
+    "title": "The Surgeon Who Operated on Patients While Drunk — and Was Never Stopped",
+    "hook": "A renowned cardiac surgeon performed open-heart surgeries with a blood alcohol level of 0.29. He had been drinking on the job for 20 years before anyone reported him.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "drunk surgeon",
+      "cardiac surgery drunk",
+      "surgeon alcohol abuse",
+      "hospital negligence",
+      "open-heart horror"
+    ],
+    "overlap_check_hash": "14ab6c63cae4dd63",
+    "why_this_can_go_viral": "The terrifying thought of a drunk person cutting into your chest while you're helpless is instantly viral."
+  },
+  {
+    "unique_id": "health_0026_025_4d5c6260af479b4b",
+    "title": "The 'Miracle Weight Loss' Tea That Contained Rat Venom",
+    "hook": "A detox tea brand went viral on social media for rapid weight loss, but the secret ingredient was brodifacoum—a rodenticide that causes internal bleeding.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 96,
+    "educational_value": 81,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "rat poison tea",
+      "detox tea scam",
+      "weight loss poison",
+      "brodifacoum",
+      "viral health scam"
+    ],
+    "overlap_check_hash": "4d5c6260af479b4b",
+    "why_this_can_go_viral": "Combines influencer culture, weight loss desperation, and literal poisoning for a modern horror story."
+  }
+]

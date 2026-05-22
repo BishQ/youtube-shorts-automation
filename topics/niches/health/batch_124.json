@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "health_0124_003_9736485f1b0e81c4",
+    "title": "The Doctor Who Injected 200 Patients with Liquid Mercury",
+    "hook": "He claimed mercury injections cured syphilis. Instead, it destroyed their nervous systems—and he got a medical award.",
+    "virality_score": 85,
+    "curiosity_gap_score": 82,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "mercury injection",
+      "historical medicine",
+      "syphilis cure",
+      "doctor horror",
+      "toxic treatment"
+    ],
+    "overlap_check_hash": "9736485f1b0e81c4",
+    "why_this_can_go_viral": "The sheer grotesqueness of liquid mercury being injected paired with historical malpractice creates morbid curiosity."
+  },
+  {
+    "unique_id": "health_0124_006_4ac3be9cc5d7c7eb",
+    "title": "The 'Morning Sickness Pill' That Gave 10,000 Babies No Arms",
+    "hook": "A drug prescribed to millions of pregnant women caused phocomelia in thousands of newborns. The company hid the data for 5 years.",
+    "virality_score": 93,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "thalidomide",
+      "birth defects",
+      "morning sickness",
+      "pharma fraud",
+      "drug scandal"
+    ],
+    "overlap_check_hash": "4ac3be9cc5d7c7eb",
+    "why_this_can_go_viral": "Thalidomide is known, but reframing it as a 'morning sickness pill' and focusing on the cover-up makes it fresh and horrifying."
+  },
+  {
+    "unique_id": "health_0124_007_1b27daa20428d70b",
+    "title": "The Surgeon Who Removed Healthy Organs for 'Practice'",
+    "hook": "This surgeon removed kidneys, spleens, and gallbladders from patients who never needed surgery—just to stay sharp.",
+    "virality_score": 84,
+    "curiosity_gap_score": 80,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "unnecessary surgery",
+      "organ removal",
+      "surgeon horror",
+      "medical malpractice",
+      "unethical doctor"
+    ],
+    "overlap_check_hash": "1b27daa20428d70b",
+    "why_this_can_go_viral": "The idea that a doctor would treat you as a practice dummy is a primal surgical fear."
+  },
+  {
+    "unique_id": "health_0124_008_f7d79c321e93a135",
+    "title": "The Hospital That Painted Over Black Mold and Called It Clean",
+    "hook": "A hospital painted over toxic black mold for 15 years. 200 patients died from lung infections. The CEO got a bonus.",
+    "virality_score": 82,
+    "curiosity_gap_score": 79,
+    "darkness_score": 86,
+    "educational_value": 70,
+    "estimated_short_retention": 77,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "hospital mold",
+      "patient death",
+      "cover-up",
+      "toxic hospital",
+      "healthcare negligence"
+    ],
+    "overlap_check_hash": "f7d79c321e93a135",
+    "why_this_can_go_viral": "The visual of painting over toxic mold combined with corporate profit motive is a vivid, anger-inducing story."
+  },
+  {
+    "unique_id": "health_0124_010_12bf9e645cd1d5ef",
+    "title": "The Clinical Trial That Gave Patients Ground Glass Instead of Medicine",
+    "hook": "A pharmaceutical company filled their 'miracle drug' capsules with crushed glass. Patients' throats bled for months.",
+    "virality_score": 89,
+    "curiosity_gap_score": 87,
+    "darkness_score": 93,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "clinical trial horror",
+      "glass pills",
+      "pharma negligence",
+      "toxic medicine",
+      "experiment gone wrong"
+    ],
+    "overlap_check_hash": "12bf9e645cd1d5ef",
+    "why_this_can_go_viral": "The physical sensation of swallowing glass is viscerally horrifying, making it instantly shareable."
+  },
+  {
+    "unique_id": "health_0124_012_1e2dc127bd13ac87",
+    "title": "The CDC Covered Up That a Vaccine Gave 5,000 Kids Narcolepsy",
+    "hook": "The swine flu vaccine triggered narcolepsy in thousands of children. The CDC buried the data for 3 years.",
+    "virality_score": 91,
+    "curiosity_gap_score": 89,
+    "darkness_score": 87,
+    "educational_value": 84,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "narcolepsy vaccine",
+      "cdc cover-up",
+      "swine flu",
+      "vaccine injury",
+      "government scandal"
+    ],
+    "overlap_check_hash": "1e2dc127bd13ac87",
+    "why_this_can_go_viral": "Narcolepsy is a bizarre, dramatic side effect (falling asleep mid-sentence) that makes the story highly visual and memeable."
+  },
+  {
+    "unique_id": "health_0124_013_a53c8b83bf5aa03e",
+    "title": "The Doctor Who Sold HIV-Infected Bone Grafts to 500 Hospitals",
+    "hook": "He harvested bone from HIV-positive cadavers and sold it as 'sterile' grafts. 500 hospitals bought it.",
+    "virality_score": 86,
+    "curiosity_gap_score": 83,
+    "darkness_score": 91,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "bone graft",
+      "hiv transmission",
+      "cadaver",
+      "hospital scandal",
+      "infected tissue"
+    ],
+    "overlap_check_hash": "a53c8b83bf5aa03e",
+    "why_this_can_go_viral": "The idea of a donated bone giving you HIV combines medical horror and trust betrayal."
+  },
+  {
+    "unique_id": "health_0124_014_30561c772fbf4acb",
+    "title": "The Suppressed $3 Cream That Reversed 100% of Psoriasis in Trials",
+    "hook": "A cheap topical cream cured severe psoriasis in every single trial patient. The patent was bought and locked in a vault.",
+    "virality_score": 94,
+    "curiosity_gap_score": 92,
+    "darkness_score": 86,
+    "educational_value": 85,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "psoriasis cure",
+      "suppressed treatment",
+      "big pharma",
+      "cheap cure",
+      "cream scam"
+    ],
+    "overlap_check_hash": "30561c772fbf4acb",
+    "why_this_can_go_viral": "Chronic skin conditions are incredibly common; the idea of a cheap cure being hidden feeds massive audience anger."
+  },
+  {
+    "unique_id": "health_0124_015_f29ee2e53ccc01f1",
+    "title": "The 'Flu Shot' That Was Actually a Live Anthrax Injection",
+    "hook": "A batch of 'flu vaccines' contained live anthrax spores. 200 people got sick. The company blamed 'labeling error.'",
+    "virality_score": 88,
+    "curiosity_gap_score": 86,
+    "darkness_score": 92,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "flu shot",
+      "anthrax",
+      "vaccine error",
+      "bioweapon fear",
+      "pharma screw-up"
+    ],
+    "overlap_check_hash": "f29ee2e53ccc01f1",
+    "why_this_can_go_viral": "The word 'anthrax' triggers immediate fear, and the idea of getting it from a 'safe' flu shot is nightmare fuel."
+  },
+  {
+    "unique_id": "health_0124_016_e8091266901da300",
+    "title": "The Hospital That Let a Patient Rot in Bed for 40 Days",
+    "hook": "A patient was left in the same bed for 40 days. His sheets fused to his skin. The staff just walked past every day.",
+    "virality_score": 80,
+    "curiosity_gap_score": 77,
+    "darkness_score": 90,
+    "educational_value": 60,
+    "estimated_short_retention": 76,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "patient neglect",
+      "hospital horror",
+      "bed sores",
+      "medical abuse",
+      "elderly care"
+    ],
+    "overlap_check_hash": "e8091266901da300",
+    "why_this_can_go_viral": "The visceral imagery of a human being decaying while alive in a hospital is unforgettable."
+  },
+  {
+    "unique_id": "health_0124_017_b2dd7f6acc1fc4d8",
+    "title": "The Eye Surgeon Who Used Industrial-Grade Superglue on Corneas",
+    "hook": "To save money, this surgeon used hardware-store superglue on patients' eyes. Several went permanently blind.",
+    "virality_score": 83,
+    "curiosity_gap_score": 81,
+    "darkness_score": 87,
+    "educational_value": 68,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "eye surgery",
+      "superglue",
+      "cornea damage",
+      "surgeon malpractice",
+      "blindness"
+    ],
+    "overlap_check_hash": "b2dd7f6acc1fc4d8",
+    "why_this_can_go_viral": "The visual of superglue being dropped into an open eye is a sensory trigger that makes people wince and share."
+  },
+  {
+    "unique_id": "health_0124_018_2cadb7e44565a9c4",
+    "title": "The Vitamin Company That Sold Arsenic as 'Mineral Supplement'",
+    "hook": "A top-selling 'mineral supplement' was almost pure arsenic. The CEO claimed it was 'naturally occurring.'",
+    "virality_score": 87,
+    "curiosity_gap_score": 85,
+    "darkness_score": 86,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "arsenic supplement",
+      "vitamin scam",
+      "toxic mineral",
+      "health fraud",
+      "poison pill"
+    ],
+    "overlap_check_hash": "2cadb7e44565a9c4",
+    "why_this_can_go_viral": "The word 'arsenic' is universally known as poison, making the cognitive dissonance with 'mineral supplement' extremely shareable."
+  },
+  {
+    "unique_id": "health_0124_019_5c7a185d2d30b794",
+    "title": "The Doctor Who Prescribed Chemo for 20 Years to a Healthy Patient",
+    "hook": "A woman went to chemotherapy every month for 20 years. She never had cancer. The doctor just wanted her insurance payments.",
+    "virality_score": 92,
+    "curiosity_gap_score": 90,
+    "darkness_score": 93,
+    "educational_value": 75,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake chemo",
+      "healthcare fraud",
+      "insurance scam",
+      "doctor evil",
+      "medical abuse"
+    ],
+    "overlap_check_hash": "5c7a185d2d30b794",
+    "why_this_can_go_viral": "The sheer duration—20 years of unnecessary chemo—is a mind-blowing scale of evil."
+  },
+  {
+    "unique_id": "health_0124_020_844652a09099a725",
+    "title": "The Clinical Trial That Injected Patients with Grinded Fetal Tissue",
+    "hook": "A biotech company injected Parkinson's patients with ground-up fetal brain tissue. The results were kept secret.",
+    "virality_score": 85,
+    "curiosity_gap_score": 82,
+    "darkness_score": 94,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "fetal tissue",
+      "parkinson's",
+      "human experiment",
+      "biotech horror",
+      "experimental treatment"
+    ],
+    "overlap_check_hash": "844652a09099a725",
+    "why_this_can_go_viral": "The biological and ethical shock value of fetal tissue injection creates strong emotional reaction."
+  },
+  {
+    "unique_id": "health_0124_021_0a785ad5494c8661",
+    "title": "The Hospital That Dumped Surgical Waste in a Children's Playground",
+    "hook": "For years, a hospital dumped bloody surgical waste into a dumpster next to a park. Kids played near infected needles.",
+    "virality_score": 81,
+    "curiosity_gap_score": 78,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 75,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "medical waste",
+      "needle hazard",
+      "hospital negligence",
+      "public health",
+      "environmental crime"
+    ],
+    "overlap_check_hash": "0a785ad5494c8661",
+    "why_this_can_go_viral": "The idea of children playing near biohazard waste is a powerful emotional trigger that drives outrage."
+  },
+  {
+    "unique_id": "health_0124_022_d4646130edfc07d5",
+    "title": "The 'Miracle Diabetes Drug' That Caused Patients' Bladders to Explode",
+    "hook": "A blockbuster diabetes drug caused patients' bladders to rupture spontaneously. The FDA ignored 1,500 internal reports.",
+    "virality_score": 90,
+    "curiosity_gap_score": 88,
+    "darkness_score": 89,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "diabetes drug",
+      "bladder rupture",
+      "fda failure",
+      "pharma danger",
+      "drug side effect"
+    ],
+    "overlap_check_hash": "d4646130edfc07d5",
+    "why_this_can_go_viral": "The phrase 'bladder explode' is so visceral and shocking that it guarantees pause-and-click."
+  },
+  {
+    "unique_id": "health_0124_023_67af39101f0c3c07",
+    "title": "The Doctor Who Deliberately Gave Patients Mad Cow Disease",
+    "hook": "This doctor used growth hormone harvested from cadavers with Creutzfeldt-Jakob disease. Dozens died slow brain deaths.",
+    "virality_score": 84,
+    "curiosity_gap_score": 81,
+    "darkness_score": 93,
+    "educational_value": 76,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "mad cow",
+      "growth hormone",
+      "cadaver",
+      "brain disease",
+      "medical horror"
+    ],
+    "overlap_check_hash": "67af39101f0c3c07",
+    "why_this_can_go_viral": "Mad Cow disease is already terrifying; the idea of it being deliberately injected is deeply unsettling."
+  },
+  {
+    "unique_id": "health_0124_025_feedf067e9d7bd68",
+    "title": "The 'Allergy Shot' That Was 100% Industrial Bleach",
+    "hook": "A clinic gave patients 'allergy desensitization shots' that were just bleach. 50 patients died from internal chemical burns.",
+    "virality_score": 91,
+    "curiosity_gap_score": 89,
+    "darkness_score": 94,
+    "educational_value": 76,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "bleach injection",
+      "allergy shot",
+      "clinic horror",
+      "chemical burn",
+      "medical murder"
+    ],
+    "overlap_check_hash": "feedf067e9d7bd68",
+    "why_this_can_go_viral": "Bleach is universally known as a poison; injecting it is a level of insanity that demands to be seen."
+  }
+]

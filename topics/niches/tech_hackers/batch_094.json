@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "tech_hackers_0094_001_034ea9ed1b1b8b12",
+    "title": "The Dark Web Lab That Hacked Your Brainwaves to Steal Passwords",
+    "hook": "A hidden cybercriminal ring built a device that reads your neural signals through a gaming headset to extract your bank login—and they sold the data on the dark web.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "brainwave hacking",
+      "neural data theft",
+      "gaming headset exploit",
+      "dark web lab",
+      "password extraction"
+    ],
+    "overlap_check_hash": "034ea9ed1b1b8b12",
+    "why_this_can_go_viral": "The idea that a gaming headset could silently steal your passwords taps into primal fear of invisible surveillance and mind control."
+  },
+  {
+    "unique_id": "tech_hackers_0094_002_846509770d3a1c87",
+    "title": "The Zero-Day That Turned Electric Car Chargers Into Fire Bombs",
+    "hook": "A nation-state hacker found a flaw in public EV chargers that let them remotely overheat batteries—causing cars to explode while charging.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "EV charger exploit",
+      "battery fire hack",
+      "nation-state sabotage",
+      "zero-day vulnerability",
+      "car bomb"
+    ],
+    "overlap_check_hash": "846509770d3a1c87",
+    "why_this_can_go_viral": "Combines the growing EV trend with a visceral fear of fire and explosions, making it highly shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0094_004_8729a537d8e06146",
+    "title": "The AI That Hacked a Drone to Deliver Stolen Credit Cards to Your Door",
+    "hook": "A dark web empire trained an AI drone to intercept mail trucks, scan for credit cards, and fly the numbers to a drop point—all without human control.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI drone theft",
+      "mail interception",
+      "credit card hack",
+      "autonomous delivery",
+      "dark web AI"
+    ],
+    "overlap_check_hash": "8729a537d8e06146",
+    "why_this_can_go_viral": "Autonomous AI stealing your mail is a sci-fi nightmare becoming real, driving clicks through sheer novelty."
+  },
+  {
+    "unique_id": "tech_hackers_0094_006_9792fa947e6bf693",
+    "title": "The Cybercriminal Empire That Hacked Voice Assistants to Record You While You Sleep",
+    "hook": "A syndicate used a zero-day in smart speakers to activate microphones at 3 AM—capturing conversations, snoring, and even nightmares to blackmail victims.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "smart speaker hack",
+      "voice assistant spy",
+      "nocturnal recording",
+      "blackmail operation",
+      "zero-day exploit"
+    ],
+    "overlap_check_hash": "9792fa947e6bf693",
+    "why_this_can_go_viral": "The intimate violation of being recorded in your sleep is universally terrifying and highly relatable."
+  },
+  {
+    "unique_id": "tech_hackers_0094_008_32d4a58d80bfb748",
+    "title": "The Zero-Day That Hacked a City's Traffic Cameras to Create Fake Accidents for Insurance Fraud",
+    "hook": "A criminal ring found a flaw in smart traffic cameras—they altered footage to show collisions that never happened, then filed millions in fake claims.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 74,
+    "educational_value": 68,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "traffic camera hack",
+      "insurance fraud",
+      "fake accident",
+      "video manipulation",
+      "zero-day"
+    ],
+    "overlap_check_hash": "32d4a58d80bfb748",
+    "why_this_can_go_viral": "The idea that your dashcam footage could be faked to frame you is a paranoid but compelling hook."
+  },
+  {
+    "unique_id": "tech_hackers_0094_009_3b2a40d2ad613b03",
+    "title": "The Dark Web Service That Hacked Your AirPods to Listen Through Your Ear Wax",
+    "hook": "A hacker collective created a malware that used the accelerometer in wireless earbuds to detect your jaw movements—reconstructing everything you whispered.",
+    "virality_score": 83,
+    "curiosity_gap_score": 90,
+    "darkness_score": 81,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "AirPod hacking",
+      "accelerometer spy",
+      "jaw movement reading",
+      "eavesdropping malware",
+      "dark web service"
+    ],
+    "overlap_check_hash": "3b2a40d2ad613b03",
+    "why_this_can_go_viral": "The absurd but terrifying specificity of ear wax listening makes it bizarre enough to go viral."
+  },
+  {
+    "unique_id": "tech_hackers_0094_010_2b1a8f27728479fd",
+    "title": "The Social Engineer Who Hacked a Nuclear Bunker by Sending a Fake Pizza to the Guard",
+    "hook": "He called the bunker's front desk, impersonated a delivery driver, and got the guard to open the blast door—then walked in and photographed classified war plans.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 89,
+    "educational_value": 82,
+    "estimated_short_retention": 94,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "nuclear bunker breach",
+      "pizza delivery hack",
+      "social engineering",
+      "classified documents",
+      "infiltration"
+    ],
+    "overlap_check_hash": "2b1a8f27728479fd",
+    "why_this_can_go_viral": "Epic heist story with a pizza twist—perfect for short-form viral engagement and reenactments."
+  },
+  {
+    "unique_id": "tech_hackers_0094_011_c348e4bc8722cb0d",
+    "title": "The AI That Hacked a Smart Watch to Send Fake Heart Attack Alerts to 911",
+    "hook": "A rogue AI trained on your biometric data spoofed a cardiac event—and while ambulances were diverted, hackers emptied your bank account.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 86,
+    "educational_value": 74,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "smart watch hack",
+      "fake heart attack",
+      "AI spoofing",
+      "bank account theft",
+      "emergency diversion"
+    ],
+    "overlap_check_hash": "c348e4bc8722cb0d",
+    "why_this_can_go_viral": "Exploits trust in health wearables and fear of false emergencies—high emotional impact."
+  },
+  {
+    "unique_id": "tech_hackers_0094_012_2b2e92ffddb73cc7",
+    "title": "The Surveillance System That Tracked Your Eye Movements in Stores to Judge Your Income",
+    "hook": "Retail chains secretly installed cameras that analyzed pupil dilation and gaze patterns—then used that data to adjust prices in real time for each shopper.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "eye tracking surveillance",
+      "dynamic pricing",
+      "retail hacking",
+      "pupil analysis",
+      "income profiling"
+    ],
+    "overlap_check_hash": "2b2e92ffddb73cc7",
+    "why_this_can_go_viral": "The idea of stores spying on your eyes to charge you more is universally infuriating and shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0094_013_d0d454f348291b47",
+    "title": "The Cybercriminal Empire That Hacked Lab-Grown Meat Vats to Inject Poison into Supply Chains",
+    "hook": "A criminal group breached a bioreactor facility's control system—adding a toxin that only activated after cooking, causing mass food poisoning across a country.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "lab-grown meat hack",
+      "bioreactor poisoning",
+      "food supply attack",
+      "toxin injection",
+      "cyber sabotage"
+    ],
+    "overlap_check_hash": "d0d454f348291b47",
+    "why_this_can_go_viral": "Taps into fears about lab-grown food and bioterrorism—high emotional and health-related stakes."
+  },
+  {
+    "unique_id": "tech_hackers_0094_014_00ce0e8cd644c0b9",
+    "title": "The Nation-State Hack That Used a Country's Own Solar Panels to Black Out the Grid",
+    "hook": "A cyberattack targeted inverter firmware on solar farms—turning the panels into power sinks that drained the national grid during peak demand.",
+    "virality_score": 77,
+    "curiosity_gap_score": 83,
+    "darkness_score": 79,
+    "educational_value": 80,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "solar panel hack",
+      "inverter exploit",
+      "grid blackout",
+      "renewable energy attack",
+      "nation-state sabotage"
+    ],
+    "overlap_check_hash": "00ce0e8cd644c0b9",
+    "why_this_can_go_viral": "Renewable energy is a hot topic; turning it into a weapon is a fresh, shocking angle."
+  },
+  {
+    "unique_id": "tech_hackers_0094_015_a3d8af459d9897ea",
+    "title": "The Zero-Day That Hacked a City's Automated Garbage Trucks to Dump Trash on VIP's Lawn",
+    "hook": "A hacker exploited a flaw in smart waste management—the trucks autonomously swerved off route and emptied tons of rotting garbage at a mayor's mansion.",
+    "virality_score": 72,
+    "curiosity_gap_score": 80,
+    "darkness_score": 60,
+    "educational_value": 60,
+    "estimated_short_retention": 76,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "garbage truck hack",
+      "smart waste exploit",
+      "automated dump",
+      "public humiliation",
+      "zero-day"
+    ],
+    "overlap_check_hash": "a3d8af459d9897ea",
+    "why_this_can_go_viral": "Absurd and visual—perfect for comedy-adjacent viral videos with a dark twist."
+  },
+  {
+    "unique_id": "tech_hackers_0094_016_719a1f565f4e0500",
+    "title": "The Dark Web Network That Hacked VR Worlds to Induce PTSD in Users",
+    "hook": "A sadistic group modified virtual reality games to flash subliminal trauma triggers—leaving players with real psychological scars that required therapy.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "VR PTSD hack",
+      "subliminal trauma",
+      "dark web VR",
+      "psychological attack",
+      "virtual reality weapon"
+    ],
+    "overlap_check_hash": "719a1f565f4e0500",
+    "why_this_can_go_viral": "The line between virtual and real violence is blurred—creates deep unease and discussion."
+  },
+  {
+    "unique_id": "tech_hackers_0094_017_1abfef23f5f82829",
+    "title": "The Social Engineer Who Hacked a Space Agency's Mission Control by Posing as a Janitor (Again)",
+    "hook": "He used a fake cleaning schedule to enter the control room during a satellite launch—and swapped a single cable that sent the rocket off course into the ocean.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 87,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "space agency hack",
+      "mission control breach",
+      "janitor ruse",
+      "satellite sabotage",
+      "rocket destruction"
+    ],
+    "overlap_check_hash": "1abfef23f5f82829",
+    "why_this_can_go_viral": "Combines space exploration grandeur with a low-tech infiltration—high contrast and shock value."
+  },
+  {
+    "unique_id": "tech_hackers_0094_018_418fb4b929820309",
+    "title": "The AI That Hacked a Smart Lock to Learn Your Walking Pattern and Predict When You Leave",
+    "hook": "An AI analyzed the floor vibration signatures of your footsteps—and cracked your deadbolt by calculating the exact second you'd be out of range.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 77,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI smart lock bypass",
+      "footstep pattern hack",
+      "predictive burglary",
+      "floor vibration analysis",
+      "home security breach"
+    ],
+    "overlap_check_hash": "418fb4b929820309",
+    "why_this_can_go_viral": "Turns a mundane daily action (walking) into a security vulnerability—high relatability and fear."
+  },
+  {
+    "unique_id": "tech_hackers_0094_019_20b89a8886d921f1",
+    "title": "The Surveillance System That Tracked Your Sweat Glands at the Gym to Guess Your Health Secrets",
+    "hook": "Fitness center cameras used thermal imaging to detect sweat patterns—then sold that data to insurers who raised your premiums for 'stress-prone' habits.",
+    "virality_score": 75,
+    "curiosity_gap_score": 82,
+    "darkness_score": 81,
+    "educational_value": 70,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "thermal surveillance",
+      "sweat tracking",
+      "gym privacy",
+      "insurance discrimination",
+      "health data abuse"
+    ],
+    "overlap_check_hash": "20b89a8886d921f1",
+    "why_this_can_go_viral": "Combines health paranoia with gym culture—highly shareable among fitness enthusiasts."
+  },
+  {
+    "unique_id": "tech_hackers_0094_020_c04b8c8ba6176827",
+    "title": "The Cybercriminal Empire That Hacked Electric Scooters to Create a 'Zombie' Traffic Jam",
+    "hook": "A gang took control of a city's rental scooters—sending them all to a single intersection to block emergency vehicles during a heist.",
+    "virality_score": 74,
+    "curiosity_gap_score": 79,
+    "darkness_score": 68,
+    "educational_value": 62,
+    "estimated_short_retention": 77,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "electric scooter hack",
+      "IoT vandalism",
+      "traffic obstruction",
+      "heist tactic",
+      "smart city attack"
+    ],
+    "overlap_check_hash": "c04b8c8ba6176827",
+    "why_this_can_go_viral": "Visual absurdity of scooters swarming a street makes it perfect for looping video clips."
+  },
+  {
+    "unique_id": "tech_hackers_0094_021_169adc5adc00923c",
+    "title": "The Nation-State Hack That Turned a Country's Own Weather Radar Into a Directed Energy Weapon",
+    "hook": "A cyber operation modified the phased array radar of a national weather service—focusing its beams to overheat a specific building and start a fire.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 91,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "weather radar weapon",
+      "directed energy hack",
+      "phased array attack",
+      "nation-state cyber",
+      "thermal weapon"
+    ],
+    "overlap_check_hash": "169adc5adc00923c",
+    "why_this_can_go_viral": "Sci-fi concept turned real—'they weaponized the weather' is an irresistible headline."
+  },
+  {
+    "unique_id": "tech_hackers_0094_022_ac261c3e427ac2d4",
+    "title": "The Zero-Day That Hacked a City's Subway Turnstiles to Let Anyone Ride Free Forever",
+    "hook": "A teenager found a flaw in the magnetic stripe reader—he cloned a single fare card that worked on every train, and sold unlimited copies on the dark web.",
+    "virality_score": 73,
+    "curiosity_gap_score": 78,
+    "darkness_score": 55,
+    "educational_value": 70,
+    "estimated_short_retention": 75,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "subway turnstile hack",
+      "fare card clone",
+      "zero-day transit",
+      "dark web sales",
+      "teen hacker"
+    ],
+    "overlap_check_hash": "ac261c3e427ac2d4",
+    "why_this_can_go_viral": "Robin Hood vs. authority narrative—'hacker gives free rides' is a feel-good viral hook."
+  },
+  {
+    "unique_id": "tech_hackers_0094_023_a926caa02b277828",
+    "title": "The Dark Web Market That Sold Your Own Passwords Back to You as NFTs",
+    "hook": "A cybercriminal collective scraped leaked credentials, minted them as non-fungible tokens, and blackmailed executives into buying their own passwords at auction.",
+    "virality_score": 82,
+    "curiosity_gap_score": 89,
+    "darkness_score": 84,
+    "educational_value": 76,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "password NFT",
+      "dark web auction",
+      "credential blackmail",
+      "crypto extortion",
+      "leaked data monetization"
+    ],
+    "overlap_check_hash": "a926caa02b277828",
+    "why_this_can_go_viral": "Combines NFT hype with personal data theft—a perfect storm of modern anxieties."
+  },
+  {
+    "unique_id": "tech_hackers_0094_025_c6791bf52bb3f301",
+    "title": "The AI That Hacked a Child's Toy to Whisper Instructions During a Custody Battle",
+    "hook": "A parent used an AI-powered doll to speak hidden commands to their child—coaching them to say specific phrases that would sway the judge in court.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI doll hack",
+      "child coaching",
+      "custody manipulation",
+      "smart toy weapon",
+      "covert audio"
+    ],
+    "overlap_check_hash": "c6791bf52bb3f301",
+    "why_this_can_go_viral": "Exploitation of children through 'innocent' toys is a universally triggering and shareable outrage."
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "facts_0130_002_9d61a334f8d4224b",
+    "title": "The Moth That Drinks the Tears of Sleeping Birds",
+    "hook": "While birds sleep, a moth lands on their eye and sips their tears — a protein-rich drink that costs the bird its eyesight.",
+    "virality_score": 76,
+    "curiosity_gap_score": 84,
+    "darkness_score": 72,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "moth",
+      "tears",
+      "bird",
+      "parasite",
+      "sleep"
+    ],
+    "overlap_check_hash": "9d61a334f8d4224b",
+    "why_this_can_go_viral": "Gross, intimate animal behavior that feels like a horror movie — highly clickable."
+  },
+  {
+    "unique_id": "facts_0130_003_26b9cad2b75bd547",
+    "title": "Your Own Tears Can Burn Holes in Your Corneas",
+    "hook": "If your tear chemistry shifts by one pH point, your own tears become acid that eats through your eye's surface in minutes.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "tears",
+      "cornea",
+      "acid",
+      "eye",
+      "burn"
+    ],
+    "overlap_check_hash": "26b9cad2b75bd547",
+    "why_this_can_go_viral": "Reveals a hidden vulnerability in a common bodily fluid — shocking and personal."
+  },
+  {
+    "unique_id": "facts_0130_004_83fa5c4fd7b12612",
+    "title": "The Tree That Drops Cyanide Bombs on Animals Below",
+    "hook": "A tree in Africa releases cyanide from its leaves when chewed, killing everything that eats it within 15 minutes.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "tree",
+      "cyanide",
+      "poison",
+      "Africa",
+      "death"
+    ],
+    "overlap_check_hash": "83fa5c4fd7b12612",
+    "why_this_can_go_viral": "Nature weaponry that sounds like a chemical warfare agent — taps into primal fear of plants."
+  },
+  {
+    "unique_id": "facts_0130_005_6163fc61f1212fb8",
+    "title": "The Statistic That 7% of All Humans Were Killed by Mosquitoes",
+    "hook": "Mosquitoes have killed more humans than all wars combined — roughly half a trillion people throughout history.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "mosquito",
+      "death",
+      "statistic",
+      "history",
+      "war"
+    ],
+    "overlap_check_hash": "6163fc61f1212fb8",
+    "why_this_can_go_viral": "Massive, almost unbelievable number that reframes a common pest as humanity's greatest killer."
+  },
+  {
+    "unique_id": "facts_0130_007_30404a1e4aca9b91",
+    "title": "The Place Where the Sun Gives You Instant Skin Cancer",
+    "hook": "In the Atacama Desert, UV radiation is so intense that 10 minutes of exposure can cause irreversible DNA damage.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 79,
+    "educational_value": 72,
+    "estimated_short_retention": 77,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "Atacama",
+      "UV",
+      "cancer",
+      "desert",
+      "radiation"
+    ],
+    "overlap_check_hash": "30404a1e4aca9b91",
+    "why_this_can_go_viral": "Extreme geography that turns a normally safe activity lethal — taps into travel fear."
+  },
+  {
+    "unique_id": "facts_0130_008_19da1a6940e14715",
+    "title": "Your Own Spit Contains a Poison That Kills Frogs",
+    "hook": "Human saliva is toxic to amphibians — a single lick can cause paralysis and death in frogs within seconds.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 74,
+    "educational_value": 68,
+    "estimated_short_retention": 81,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "saliva",
+      "frog",
+      "poison",
+      "toxic",
+      "amphibian"
+    ],
+    "overlap_check_hash": "19da1a6940e14715",
+    "why_this_can_go_viral": "Surprising fact that repositions humans as a biological threat — triggers curiosity and disgust."
+  },
+  {
+    "unique_id": "facts_0130_009_b93c0a5303e708dd",
+    "title": "The Fish That Inflates Its Stomach to Push Out Predators",
+    "hook": "A small fish swallows water until its stomach expands to three times its size, then vomits it out to blast predators away.",
+    "virality_score": 74,
+    "curiosity_gap_score": 80,
+    "darkness_score": 68,
+    "educational_value": 65,
+    "estimated_short_retention": 76,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "fish",
+      "inflate",
+      "stomach",
+      "predator",
+      "defense"
+    ],
+    "overlap_check_hash": "b93c0a5303e708dd",
+    "why_this_can_go_viral": "Gross, counterintuitive survival tactic that feels like a biological cheat code."
+  },
+  {
+    "unique_id": "facts_0130_010_7412e9ec8bd87c5d",
+    "title": "The Statistic That Your Bed Has 10 Million Dust Mites Eating You Alive Right Now",
+    "hook": "Every night, millions of microscopic mites crawl onto your skin, feed on dead cells, and defecate on your pillow.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "dust mites",
+      "bed",
+      "skin",
+      "allergy",
+      "microscopic"
+    ],
+    "overlap_check_hash": "7412e9ec8bd87c5d",
+    "why_this_can_go_viral": "Personal and disgusting — forces viewers to re-evaluate a familiar, safe space."
+  },
+  {
+    "unique_id": "facts_0130_011_1fee9fd74927a3bf",
+    "title": "The Cave Where Bats Drown in Their Own Guano Gas",
+    "hook": "In a cave in Cameroon, bat guano releases hydrogen sulfide gas that forms a deadly fog — killing everything inside within hours.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 84,
+    "educational_value": 73,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "cave",
+      "bat",
+      "guano",
+      "gas",
+      "death"
+    ],
+    "overlap_check_hash": "1fee9fd74927a3bf",
+    "why_this_can_go_viral": "Combines claustrophobia, poison gas, and animal horror — perfect for dark curiosity."
+  },
+  {
+    "unique_id": "facts_0130_012_d43bf46809d72b13",
+    "title": "The Sound That Makes You Lose Control of Your Bladder",
+    "hook": "A low-frequency hum at 30 hertz can trigger involuntary urination by vibrating the pelvic floor muscles.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 70,
+    "educational_value": 68,
+    "estimated_short_retention": 79,
+    "niche_name": "facts",
+    "subcategory": "cognitive reality gaps",
+    "keywords": [
+      "sound",
+      "bladder",
+      "frequency",
+      "involuntary",
+      "hum"
+    ],
+    "overlap_check_hash": "d43bf46809d72b13",
+    "why_this_can_go_viral": "Embarrassing and weird — viewers will share to warn others, driving engagement."
+  },
+  {
+    "unique_id": "facts_0130_014_c60b556ab3f5697c",
+    "title": "Your Own Hair Can Grow Inside Your Skin and Kill You",
+    "hook": "Ingrown hairs can burrow so deep they puncture arteries, causing internal bleeding and septic shock.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 87,
+    "educational_value": 76,
+    "estimated_short_retention": 83,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "hair",
+      "ingrown",
+      "artery",
+      "infection",
+      "death"
+    ],
+    "overlap_check_hash": "c60b556ab3f5697c",
+    "why_this_can_go_viral": "Extreme body horror from a mundane phenomenon — instantly relatable and disturbing."
+  },
+  {
+    "unique_id": "facts_0130_016_5d985f002eef44de",
+    "title": "The Animal That Can Reverse Its Own Aging Process",
+    "hook": "The immortal jellyfish can revert to its juvenile stage after injury, essentially becoming younger forever.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 68,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "jellyfish",
+      "immortal",
+      "aging",
+      "reverse",
+      "biology"
+    ],
+    "overlap_check_hash": "5d985f002eef44de",
+    "why_this_can_go_viral": "Defies fundamental human limits — taps into fantasy of eternal youth."
+  },
+  {
+    "unique_id": "facts_0130_017_c78e54a7a3972eb7",
+    "title": "The Fog That Contains Acid That Dissolves Metal Bridges",
+    "hook": "Coastal fog in Norway carries sulfuric acid from sea spray, corroding steel bridges faster than any rust.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 77,
+    "educational_value": 71,
+    "estimated_short_retention": 76,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "fog",
+      "acid",
+      "bridge",
+      "corrode",
+      "Norway"
+    ],
+    "overlap_check_hash": "c78e54a7a3972eb7",
+    "why_this_can_go_viral": "Invisible destructive force in a beautiful setting — dramatic and visually compelling."
+  },
+  {
+    "unique_id": "facts_0130_019_2ac35ff66b79b933",
+    "title": "The Bird That Uses Its Own Nest as a Weapon to Kill Rivals",
+    "hook": "A bird called the kea drops stones from its nest onto competitors below, crushing skulls with precision.",
+    "virality_score": 77,
+    "curiosity_gap_score": 82,
+    "darkness_score": 76,
+    "educational_value": 69,
+    "estimated_short_retention": 78,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "kea",
+      "bird",
+      "weapon",
+      "stone",
+      "kill"
+    ],
+    "overlap_check_hash": "2ac35ff66b79b933",
+    "why_this_can_go_viral": "Tool use turned violent — human-like behavior in animals always fascinates."
+  },
+  {
+    "unique_id": "facts_0130_021_bcdf34e586a8d4ab",
+    "title": "The Cave Where Light Causes Instant Blindness",
+    "hook": "In a cave in Mexico, UV light reflects off crystalline walls at an angle that burns retinas in under a second.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 73,
+    "estimated_short_retention": 79,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "cave",
+      "light",
+      "blindness",
+      "UV",
+      "Mexico"
+    ],
+    "overlap_check_hash": "bcdf34e586a8d4ab",
+    "why_this_can_go_viral": "Combines beauty with sudden danger — perfect for dark documentary style."
+  },
+  {
+    "unique_id": "facts_0130_024_ec7975da5d35460f",
+    "title": "Your Own Tears Can Drown You If You Cry While Lying Down",
+    "hook": "When lying on your back, tears can flow into your nasal cavity and lungs, causing aspiration pneumonia.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 81,
+    "educational_value": 76,
+    "estimated_short_retention": 81,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "tears",
+      "drown",
+      "lying",
+      "aspiration",
+      "lungs"
+    ],
+    "overlap_check_hash": "ec7975da5d35460f",
+    "why_this_can_go_viral": "Relatable emotional moment turned lethal — dark and surprising."
+  },
+  {
+    "unique_id": "facts_0130_025_082422721a812f64",
+    "title": "The Statistic That 50% of All Earth's Oxygen Comes From Algae That Can Kill You",
+    "hook": "Cyanobacteria produce half the oxygen you breathe, but also release toxins that cause liver failure and death.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 77,
+    "educational_value": 79,
+    "estimated_short_retention": 82,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "algae",
+      "oxygen",
+      "toxin",
+      "cyanobacteria",
+      "death"
+    ],
+    "overlap_check_hash": "082422721a812f64",
+    "why_this_can_go_viral": "Reveals a dual-edged dependency in nature — mind-blowing and shareable."
+  }
+]

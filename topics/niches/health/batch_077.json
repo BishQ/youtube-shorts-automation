@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "health_0077_001_4a1a161639453676",
+    "title": "The Doctor Who Burned 500 Tumors With a $2 Device—Then Was Silenced",
+    "hook": "A cheap handheld device cured cancer in clinical trials, until a pharmaceutical conglomerate bought the patent and buried it forever.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "suppressed cure",
+      "cancer device",
+      "buried patent",
+      "pharma conspiracy",
+      "alternative treatment"
+    ],
+    "overlap_check_hash": "4a1a161639453676",
+    "why_this_can_go_viral": "Combines hope (a cheap miracle cure) with immediate betrayal (corporate suppression), triggering outrage and shareability."
+  },
+  {
+    "unique_id": "health_0077_002_189c88cf3a2db3ae",
+    "title": "The FDA-Approved Vaccine That Gave 1 in 500 Kids a Permanent Tick",
+    "hook": "Thousands of children developed uncontrollable muscle spasms after this routine shot—the FDA knew and kept it on shelves for years.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "vaccine side effects",
+      "FDA failure",
+      "child injury",
+      "drug scandal",
+      "neurological damage"
+    ],
+    "overlap_check_hash": "189c88cf3a2db3ae",
+    "why_this_can_go_viral": "Tap into vaccine hesitancy and parental fear—high emotion, high sharing among concerned families."
+  },
+  {
+    "unique_id": "health_0077_003_435f7cb547cb55b5",
+    "title": "The Hospital That Harvested Organs From 300 'Brain-Dead' Patients Who Were Still Alive",
+    "hook": "Inside a major hospital, surgeons removed hearts and livers from people who showed signs of consciousness on the operating table.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 96,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "organ harvesting",
+      "brain death controversy",
+      "hospital horror",
+      "medical murder",
+      "transplant scandal"
+    ],
+    "overlap_check_hash": "435f7cb547cb55b5",
+    "why_this_can_go_viral": "Ultimate body horror and ethical violation—viewers will be horrified and compelled to share the unbelievable revelation."
+  },
+  {
+    "unique_id": "health_0077_004_8d34bd5d7d46b447",
+    "title": "The Pharmaceutical Company That Sold Chemo Drugs Cut with Antifreeze",
+    "hook": "Dozens of cancer patients died not from their disease, but from the toxic chemical mixed into their 'medicine' to save costs.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 78,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "contaminated drugs",
+      "chemo poisoning",
+      "pharma crime",
+      "antifreeze scandal",
+      "patient deaths"
+    ],
+    "overlap_check_hash": "8d34bd5d7d46b447",
+    "why_this_can_go_viral": "Shows the ultimate betrayal of trust—people being killed by the treatment meant to save them. Strong outrage driver."
+  },
+  {
+    "unique_id": "health_0077_005_61fe02ab04e34183",
+    "title": "The Experiment That Kept 50 Infants in Isolation for 18 Months to Test 'Love'",
+    "hook": "Scientists raised babies without any human touch or affection to see if love was necessary for survival—the results were devastating.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 97,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "infant experiment",
+      "isolation study",
+      "unethical research",
+      "touch deprivation",
+      "baby tragedy"
+    ],
+    "overlap_check_hash": "61fe02ab04e34183",
+    "why_this_can_go_viral": "Extreme cruelty to the most vulnerable triggers massive emotional reaction and moral outrage—high shareability."
+  },
+  {
+    "unique_id": "health_0077_006_34467892da67dd44",
+    "title": "The Toxic Laundry Detergent That Gave 1 in 20 Families Unexplained Rashes and Cancer",
+    "hook": "A hidden chemical in your laundry room has been linked to skyrocketing rates of childhood leukemia—and the manufacturer knew for decades.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 81,
+    "educational_value": 85,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "laundry detergent danger",
+      "hidden chemicals",
+      "cancer link",
+      "household toxin",
+      "cover-up"
+    ],
+    "overlap_check_hash": "34467892da67dd44",
+    "why_this_can_go_viral": "Directly relevant to every household—viewers will feel personally at risk and share to warn others. High practical fear."
+  },
+  {
+    "unique_id": "health_0077_007_c094dd222f640d55",
+    "title": "The Disease Cover-Up: How 'Dry January' Caused a 300% Rise in Alcohol Poisoning",
+    "hook": "After public health campaigns encouraged people to stop drinking for a month, emergency rooms saw a deadly spike—here’s why.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 82,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "dry january danger",
+      "alcohol rebound",
+      "health campaign failure",
+      "unintended consequences",
+      "public health scandal"
+    ],
+    "overlap_check_hash": "c094dd222f640d55",
+    "why_this_can_go_viral": "Challenges a popular health trend with counterintuitive data—people love 'the thing you think is healthy is actually bad' stories."
+  },
+  {
+    "unique_id": "health_0077_010_afbec52310326bc4",
+    "title": "The Doctor Who Told 200 Pregnant Women They Had 'Fatal Fetal Defects' to Sell Abortions",
+    "hook": "Every single baby was perfectly healthy—but the doctor forged ultrasound results to cash in on unnecessary terminations.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 71,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "false diagnosis",
+      "abortion fraud",
+      "doctor lies",
+      "ultrasound scam",
+      "fetal defect scam"
+    ],
+    "overlap_check_hash": "afbec52310326bc4",
+    "why_this_can_go_viral": "Extremely emotionally charged topic—high controversy and moral outrage guarantees shares across all audiences."
+  },
+  {
+    "unique_id": "health_0077_011_06e3a1e28f0a80a8",
+    "title": "The Pharmaceutical Giant That Spiked Their Insulin with a Chemical That Caused Blindness",
+    "hook": "To make their insulin last longer on shelves, a major company added a preservative that slowly destroyed patients' eyesight.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 79,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "insulin crisis",
+      "blindness caused by drug",
+      "preservative danger",
+      "diabetes scandal",
+      "pharma cover-up"
+    ],
+    "overlap_check_hash": "06e3a1e28f0a80a8",
+    "why_this_can_go_viral": "Millions of diabetics depend on insulin—this hits a huge demographic with direct personal risk and betrayal."
+  },
+  {
+    "unique_id": "health_0077_012_7ce844168616a9ac",
+    "title": "The Experiment That Convinced 100 Healthy People They Had Schizophrenia",
+    "hook": "Researchers used psychological manipulation so powerful that volunteers developed full-blown psychotic episodes—and were never deprogrammed.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 73,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "psychological experiment",
+      "schizophrenia induced",
+      "unethical research",
+      "mind control",
+      "volunteer harmed"
+    ],
+    "overlap_check_hash": "7ce844168616a9ac",
+    "why_this_can_go_viral": "Fascinating and terrifying—plays on fear of losing one's mind and the power of suggestion. High curiosity factor."
+  },
+  {
+    "unique_id": "health_0077_013_8635fa368cc38da6",
+    "title": "The Toxic Air Freshener That Gave 1 in 10 Office Workers Chronic Asthma",
+    "hook": "That 'clean' scent in your office bathroom is actually a chemical cocktail that's been proven to cause irreversible lung damage.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 86,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "air freshener danger",
+      "office toxin",
+      "asthma trigger",
+      "chemical exposure",
+      "indoor pollution"
+    ],
+    "overlap_check_hash": "8635fa368cc38da6",
+    "why_this_can_go_viral": "Everyone encounters air fresheners daily—high relatability and practical fear. Easy to share with colleagues."
+  },
+  {
+    "unique_id": "health_0077_014_3f102d4bc02947a1",
+    "title": "The Disease Cover-Up: How Laptop Heat Caused 40% of Male Infertility Cases",
+    "hook": "Doctors noticed a mysterious rise in infertility—the culprit was the heat from laptops on laps, and no one warned men about it.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 75,
+    "educational_value": 84,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "laptop infertility",
+      "heat damage",
+      "male fertility",
+      "hidden epidemic",
+      "tech health risk"
+    ],
+    "overlap_check_hash": "3f102d4bc02947a1",
+    "why_this_can_go_viral": "Surprising and actionable—men will immediately change their behavior and share the warning. Strong 'I didn't know that' factor."
+  },
+  {
+    "unique_id": "health_0077_015_7eac6568937a7cc4",
+    "title": "The Hospital That Billed 1,000 Patients for 'C-Sections' They Never Had",
+    "hook": "Women walked out of the hospital without giving birth—only to find $50,000 charges for a surgery that never happened.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 84,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "medical billing fraud",
+      "fake c-section",
+      "hospital scam",
+      "insurance fraud",
+      "patient cheated"
+    ],
+    "overlap_check_hash": "7eac6568937a7cc4",
+    "why_this_can_go_viral": "Combines financial exploitation with medical betrayal—highly relatable in the broken US healthcare system. Fury and shareability."
+  },
+  {
+    "unique_id": "health_0077_017_52ed69148c0ec1cf",
+    "title": "The Doctor Who Harvested Skin From Dead Patients to Graft Onto Burn Victims—Without Consent",
+    "hook": "Bodies were stripped of skin in the morgue without families knowing—and the surgeon was celebrated as a 'miracle worker.'",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 69,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "body harvesting",
+      "skin graft scandal",
+      "consent violation",
+      "morgue horror",
+      "unethical surgeon"
+    ],
+    "overlap_check_hash": "52ed69148c0ec1cf",
+    "why_this_can_go_viral": "Gothic horror in a hospital setting—violation of the dead is a primal fear. Extremely shareable morbid curiosity."
+  },
+  {
+    "unique_id": "health_0077_018_b968f04c6fdd4046",
+    "title": "The Pharmaceutical Company That Invented a Fake Disease to Sell a $1,000-a-Month Drug",
+    "hook": "There was no medical condition—until a pharma company created a syndrome, marketed the fear, and sold the 'cure' for billions.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 85,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "disease mongering",
+      "fake syndrome",
+      "pharma scam",
+      "drug marketing",
+      "manufactured illness"
+    ],
+    "overlap_check_hash": "b968f04c6fdd4046",
+    "why_this_can_go_viral": "Reveals the cynical profit machine behind 'illnesses'—high outrage and 'I knew it' satisfaction. Very shareable."
+  },
+  {
+    "unique_id": "health_0077_019_8efd6ad47562031a",
+    "title": "The Experiment That Fed 50 Children Radioactive Breakfast Cereal to Study Digestion",
+    "hook": "Scientists gave kids glowing oatmeal to 'see how food travels'—the atomic cereal was never recalled, and the kids were never tracked.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "radioactive experiment",
+      "children test subjects",
+      "atomic cereal",
+      "unethical research",
+      "cold war science"
+    ],
+    "overlap_check_hash": "8efd6ad47562031a",
+    "why_this_can_go_viral": "Shocking visual imagery and child endangerment—combines Cold War paranoia with innocent victims. High shock value."
+  },
+  {
+    "unique_id": "health_0077_020_d7100d4aa17f8f65",
+    "title": "The Toxic Shampoo That Caused Scalp Sores and Hair Loss in 1 in 500 Users—And Stayed on Shelves",
+    "hook": "A popular brand caused chemical burns on customers' scalps—but instead of a recall, they quietly changed the formula and never admitted fault.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 79,
+    "educational_value": 78,
+    "estimated_short_retention": 77,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "shampoo danger",
+      "hair loss product",
+      "chemical burns",
+      "cover-up",
+      "consumer protection"
+    ],
+    "overlap_check_hash": "d7100d4aa17f8f65",
+    "why_this_can_go_viral": "Everyone uses shampoo—high personal risk. The corporate silence angle drives anger and sharing among beauty-conscious viewers."
+  },
+  {
+    "unique_id": "health_0077_021_abaaedeb2a23e043",
+    "title": "The Disease Cover-Up: How Microwave Popcorn Caused 'Popcorn Lung' in 1 in 100 Regular Eaters",
+    "hook": "The buttery smell you love contains a chemical that destroys your lungs—and the FDA allowed it in food for decades.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 86,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "popcorn lung",
+      "microwave danger",
+      "butter flavor chemical",
+      "lung disease",
+      "FDA failure"
+    ],
+    "overlap_check_hash": "abaaedeb2a23e043",
+    "why_this_can_go_viral": "Plays on a common snack—viewers will be shocked that something so innocent causes permanent damage. High shareability."
+  },
+  {
+    "unique_id": "health_0077_022_e4a0d24e96a809ec",
+    "title": "The Doctor Who Gave 200 Patients Fake Chemotherapy to Keep Them Paying for Treatment",
+    "hook": "He poured saline into IV bags and told desperate cancer patients it was life-saving medicine—while cashing their insurance checks.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 96,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "fake chemo",
+      "cancer fraud",
+      "saline scam",
+      "doctor arrested",
+      "patient betrayal"
+    ],
+    "overlap_check_hash": "e4a0d24e96a809ec",
+    "why_this_can_go_viral": "Ultimate exploitation of the most vulnerable—cancer patients. Pure evil villain story drives massive anger and shares."
+  },
+  {
+    "unique_id": "health_0077_023_310dbebf8b394290",
+    "title": "The FDA-Approved Antidepressant That Caused Users to Lose Every Memory of the Past 5 Years",
+    "hook": "Patients woke up one day with no recollection of their marriages, children, or careers—and the drug maker called it a 'rare side effect.'",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 77,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "antidepressant memory loss",
+      "drug side effect",
+      "amnesia",
+      "pharma negligence",
+      "mental health"
+    ],
+    "overlap_check_hash": "310dbebf8b394290",
+    "why_this_can_go_viral": "Terrifying and personal—loss of identity is a primal fear. Millions on antidepressants will share in disbelief and concern."
+  },
+  {
+    "unique_id": "health_0077_025_cdac19cfd6c8db21",
+    "title": "The Hospital That Sewed 50 Patients' Incisions With Unsterilized Fishing Line to Save Money",
+    "hook": "Surgical wounds rotted from the inside out because the hospital bought $2 fishing line instead of $50 sterile sutures.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 71,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "hospital cost cutting",
+      "infected sutures",
+      "fishing line surgery",
+      "patient harm",
+      "medical negligence"
+    ],
+    "overlap_check_hash": "cdac19cfd6c8db21",
+    "why_this_can_go_viral": "Shocking penny-pinching that caused horrific suffering—visual and visceral. Easy to understand and share."
+  }
+]

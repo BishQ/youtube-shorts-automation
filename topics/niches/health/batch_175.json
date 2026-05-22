@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "health_0175_002_97031d527018233d",
+    "title": "The Hospital That Painted Moldy Walls With Perfume—Patients Died From Fungus Lungs",
+    "hook": "Instead of cleaning black mold, administrators sprayed it with floral scent—autopsies showed fungal colonies growing inside patients' lungs.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "hospital mold",
+      "fungal infection",
+      "patient deaths",
+      "negligence",
+      "autopsy findings"
+    ],
+    "overlap_check_hash": "97031d527018233d",
+    "why_this_can_go_viral": "Shocking visual of perfume on mold plus grotesque medical outcome triggers disgust and outrage sharing."
+  },
+  {
+    "unique_id": "health_0175_003_4644c921dd28dbcb",
+    "title": "The Pharmaceutical Giant That Sold a 'Cold Cure'—It Was Liquid Glass",
+    "hook": "Millions took what they thought was medicine, but it was actually soluble glass that shredded their intestines from the inside.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "liquid glass medicine",
+      "cold cure scam",
+      "intestinal shredding",
+      "pharma scandal",
+      "toxic cold remedies"
+    ],
+    "overlap_check_hash": "4644c921dd28dbcb",
+    "why_this_can_go_viral": "Extreme betrayal of trust—people ingesting literal glass—creates visceral horror and high shareability."
+  },
+  {
+    "unique_id": "health_0175_005_84a40c7553c7a857",
+    "title": "The Surgeon Who Operated on Patients While High on Cocaine—26 Died on the Table",
+    "hook": "He was known for 'steady hands,' but those hands were shaking from cocaine binges—his patients bled out while he laughed.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 86,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "cocaine surgeon",
+      "surgery deaths",
+      "impaired doctor",
+      "operating room scandal",
+      "medical malpractice"
+    ],
+    "overlap_check_hash": "84a40c7553c7a857",
+    "why_this_can_go_viral": "Shocking juxtaposition of a professional operating under influence, combined with gruesome death count."
+  },
+  {
+    "unique_id": "health_0175_006_fc54c0d80eef553f",
+    "title": "The 'Vitamin Water' That Gave Everyone Kidney Stones—Made From Concrete Dust",
+    "hook": "It was marketed as 'alkalizing hydration'—but the calcium source was crushed construction concrete, which crystallized into stones inside kidneys.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 74,
+    "educational_value": 72,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "concrete vitamin water",
+      "kidney stones",
+      "alkaline water scam",
+      "toxic supplements",
+      "health drink danger"
+    ],
+    "overlap_check_hash": "fc54c0d80eef553f",
+    "why_this_can_go_viral": "Relatable everyday product turned poisonous—viewers will check their own water bottles."
+  },
+  {
+    "unique_id": "health_0175_008_b2c7f3b5069d5229",
+    "title": "The Government That Gave Children 'Flu Medicine'—It Was Rat Poison",
+    "hook": "To 'test resistance,' a state health department replaced kids' flu syrup with warfarin—dozens died of internal bleeding before anyone noticed.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "rat poison flu medicine",
+      "child experiments",
+      "warfarin poisoning",
+      "government testing",
+      "internal bleeding deaths"
+    ],
+    "overlap_check_hash": "b2c7f3b5069d5229",
+    "why_this_can_go_viral": "Children as pawns, poison disguised as medicine—unbearable moral violation drives shares and anger."
+  },
+  {
+    "unique_id": "health_0175_011_da9ca0555bc8f058",
+    "title": "The Drug Company That Adulterated Insulin With Meat—1,000 Diabetics Died",
+    "hook": "To save money, they mixed animal protein into human insulin—patients' immune systems attacked the foreign protein, shutting down their organs.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 93,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake insulin",
+      "meat adulteration",
+      "diabetic deaths",
+      "pharma fraud",
+      "immune reaction deaths"
+    ],
+    "overlap_check_hash": "da9ca0555bc8f058",
+    "why_this_can_go_viral": "Insulin is a life-or-death necessity—corruption of a trusted drug sparks immediate fear and outrage."
+  },
+  {
+    "unique_id": "health_0175_012_036ada790bc96e6c",
+    "title": "The Doctor Who Diagnosed Healthy People With 'Sleep Sickness'—Then Lobotomized Them",
+    "hook": "He claimed 'proto-parasites' caused fatigue, then drilled into patients' brains to 'release them'—hundreds were left vegetables.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 89,
+    "educational_value": 68,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "fake sleep sickness",
+      "lobotomy scandal",
+      "unnecessary brain surgery",
+      "doctor fraud",
+      "parasite hoax"
+    ],
+    "overlap_check_hash": "036ada790bc96e6c",
+    "why_this_can_go_viral": "The idea of being diagnosed with a made-up disease and then permanently disabled is deeply unsettling."
+  },
+  {
+    "unique_id": "health_0175_013_794d11ed6f309695",
+    "title": "The Face Cream That Contained Radium—Women's Jaws Rot Off",
+    "hook": "A 'radiant glow' cream used radioactive ore—women's bones became brittle, jaws crumbled, and teeth fell out years after the last application.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 77,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "radium face cream",
+      "jaw rot",
+      "radioactive cosmetics",
+      "beauty product danger",
+      "bone decay"
+    ],
+    "overlap_check_hash": "794d11ed6f309695",
+    "why_this_can_go_viral": "Cosmetic vanity leading to horrific disfigurement—a cautionary tale with strong visual shock value."
+  },
+  {
+    "unique_id": "health_0175_014_19e8f6b6c84837ec",
+    "title": "The Government That Hid Cholera in Drinking Water—As a 'Population Control' Experiment",
+    "hook": "A colonial administration secretly added cholera bacteria to village wells, claiming it was 'typhoid vaccine'—thousands died within weeks.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "cholera water experiment",
+      "population control",
+      "colonial crimes",
+      "bioterrorism",
+      "vaccine cover-up"
+    ],
+    "overlap_check_hash": "19e8f6b6c84837ec",
+    "why_this_can_go_viral": "Genocidal scale, government deception, and a 'medical' cover—extreme moral horror drives virality."
+  },
+  {
+    "unique_id": "health_0175_015_0e30cab89cb98437",
+    "title": "The 'Breathable' Vitamin That Gave Users Permanent Lung Scarring",
+    "hook": "Marketed as a 'vitamin inhaler,' the powder was actually micro-glass fibers that embedded in lung tissue—breathing became a lifetime of pain.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 86,
+    "educational_value": 73,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "vitamin inhaler",
+      "glass fibers",
+      "lung scarring",
+      "FDA failure",
+      "respiratory damage"
+    ],
+    "overlap_check_hash": "0e30cab89cb98437",
+    "why_this_can_go_viral": "A supposed wellness product causing irreversible internal damage—irony and fear combine for high shares."
+  },
+  {
+    "unique_id": "health_0175_016_6543109d2e7518f2",
+    "title": "The Nurse Who Replaced Babies' Formula With Bleach—For 'Purity'",
+    "hook": "She believed bleach 'purified' the milk—newborns in the neonatal unit started vomiting blood and their esophagi dissolved within hours.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "bleach baby formula",
+      "newborn deaths",
+      "nurse murder",
+      "hospital negligence",
+      "infant poisoning"
+    ],
+    "overlap_check_hash": "6543109d2e7518f2",
+    "why_this_can_go_viral": "Innocence of newborns plus extreme method—unbearable cruelty that viewers will share in disbelief."
+  },
+  {
+    "unique_id": "health_0175_018_902a2d509b005393",
+    "title": "The Hospital That Used Patients' Bodies as Fertilizer—Without Telling Families",
+    "hook": "Unclaimed bodies were ground up and sold to a nursery. Families came to visit graves, but their loved ones were growing in flower beds.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 60,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "body fertilizer",
+      "hospital scandal",
+      "corpse disposal",
+      "family betrayal",
+      "medical ethics violation"
+    ],
+    "overlap_check_hash": "902a2d509b005393",
+    "why_this_can_go_viral": "Morbid curiosity + emotional devastation—families visiting graves is a universally relatable trigger."
+  },
+  {
+    "unique_id": "health_0175_019_399ac6c7c717c6ba",
+    "title": "The Doctor Who Claimed Vaccines Caused Autism—And Sold His Own 'Cure' Made From Bleach",
+    "hook": "He built a fortune by terrifying parents, then 'treated' their children with industrial bleach injections that caused seizures and brain damage.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "autism cure scam",
+      "bleach injections",
+      "vaccine fraud",
+      "fake treatments",
+      "predatory doctor"
+    ],
+    "overlap_check_hash": "399ac6c7c717c6ba",
+    "why_this_can_go_viral": "Exploiting parental fear for profit, combined with a dangerous 'cure'—outrage and concern drive shares."
+  },
+  {
+    "unique_id": "health_0175_020_4fe6d6b6971cc81a",
+    "title": "The Government That Sprayed DDT on Pregnant Women—Called It 'Prenatal Care'",
+    "hook": "Women in rural areas were told it was vitamins—decades later, their children had a 400% higher rate of leukemia and birth defects.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 87,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "DDT pregnant women",
+      "prenatal poisoning",
+      "birth defects",
+      "leukemia",
+      "government experiment"
+    ],
+    "overlap_check_hash": "4fe6d6b6971cc81a",
+    "why_this_can_go_viral": "Mothers and children as victims of systemic deception—powerful emotional hook with long-term consequences."
+  },
+  {
+    "unique_id": "health_0175_021_48f1134c797f1fb7",
+    "title": "The 'Antibiotic' That Made Patients' Bones Turn Black and Brittle",
+    "hook": "A prescription antibiotic for common infections—it chelated calcium in bones, turning them black like charcoal and snapping like chalk.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 84,
+    "educational_value": 74,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "black bone antibiotic",
+      "bone decay",
+      "side effect horror",
+      "FDA approved danger",
+      "medication risk"
+    ],
+    "overlap_check_hash": "48f1134c797f1fb7",
+    "why_this_can_go_viral": "Visual shock of black bones and the idea of a routine drug causing horrifying damage—high disgust factor."
+  },
+  {
+    "unique_id": "health_0175_022_0571b4cc8ebb4742",
+    "title": "The Supplement Company That Sold 'Ginseng'—It Was Pesticide-Soaked Radish",
+    "hook": "Cheap radishes were dyed, shaped, and laced with banned pesticides to mimic ginseng—users developed neurological disorders and tremors.",
+    "virality_score": 75,
+    "curiosity_gap_score": 79,
+    "darkness_score": 76,
+    "educational_value": 72,
+    "estimated_short_retention": 77,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "fake ginseng",
+      "pesticide radish",
+      "supplement fraud",
+      "neurological damage",
+      "herbal scam"
+    ],
+    "overlap_check_hash": "0571b4cc8ebb4742",
+    "why_this_can_go_viral": "Everyday supplement users realize they could be consuming poison—immediate personal relevance."
+  },
+  {
+    "unique_id": "health_0175_023_ccc89aa1d63385a7",
+    "title": "The Company That Put Cyanide in Baby Teething Gels—For 'Pain Relief'",
+    "hook": "Cyanide derivatives were used as 'natural sedatives'—infants who used it stopped crying permanently because their nervous systems shut down.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "cyanide teething gel",
+      "baby poison",
+      "pain relief scam",
+      "infant deaths",
+      "pharma negligence"
+    ],
+    "overlap_check_hash": "ccc89aa1d63385a7",
+    "why_this_can_go_viral": "Babies + poison + trusted product—a combination that creates maximum emotional impact and outrage."
+  },
+  {
+    "unique_id": "health_0175_024_7ce6f8a8db3cc428",
+    "title": "The Hospital That Diagnosed Dead Patients—Then Billed Their Families for 'Treatment'",
+    "hook": "Patients were declared dead on arrival, but administrators kept them 'alive' in the system for weeks, charging families for phantom surgeries.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 81,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "dead patient billing",
+      "hospital fraud",
+      "phantom surgeries",
+      "financial abuse",
+      "medical billing scam"
+    ],
+    "overlap_check_hash": "7ce6f8a8db3cc428",
+    "why_this_can_go_viral": "Combines grief exploitation with greed—everyone fears being financially drained by a system they trust."
+  },
+  {
+    "unique_id": "health_0175_025_3351efac931c193b",
+    "title": "The Doctor Who Injected Chemo Into Healthy Patients—To 'Prevent Cancer'",
+    "hook": "He convinced wealthy clients that 'preemptive chemo' would keep them immortal—they got toxic poisoning instead, dying younger than they would have.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "preemptive chemo",
+      "healthy patient poisoning",
+      "doctor scam",
+      "cancer prevention fraud",
+      "toxic medicine"
+    ],
+    "overlap_check_hash": "3351efac931c193b",
+    "why_this_can_go_viral": "Irony of seeking health and getting poisoned, plus the absurdity of 'chemo for immortality'—darkly shareable."
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "survival_0174_002_7e532457b63a9d83",
+    "title": "The Expedition That Found a River of Boiling Mud",
+    "hook": "One step and your skin would melt off—yet someone survived walking through it.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "boiling mud",
+      "geothermal",
+      "expedition",
+      "burns",
+      "survival"
+    ],
+    "overlap_check_hash": "7e532457b63a9d83",
+    "why_this_can_go_viral": "Impossible terrain horror triggers both awe and dread—viewers need to know how anyone made it out."
+  },
+  {
+    "unique_id": "survival_0174_003_2ea4d1513be84592",
+    "title": "The Survivor Who Ate Glow-in-the-Dark Fish and His Blood Became Radioactive",
+    "hook": "He glowed at night, but that wasn't the worst part.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "radioactive",
+      "glowing fish",
+      "mutant",
+      "radiation poisoning",
+      "bizarre survival"
+    ],
+    "overlap_check_hash": "2ea4d1513be84592",
+    "why_this_can_go_viral": "The idea of glowing like a nightlight while your body slowly fails is a nightmare that sells itself."
+  },
+  {
+    "unique_id": "survival_0174_004_e9e171aa6443cc3c",
+    "title": "The Group Trapped in a Cave Where the Water Made Them Forget Each Other",
+    "hook": "They drank from the same stream, then stared at each other like strangers.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "cave",
+      "amnesia",
+      "water contamination",
+      "psychological horror",
+      "stranded"
+    ],
+    "overlap_check_hash": "e9e171aa6443cc3c",
+    "why_this_can_go_viral": "Loss of identity in a survival group is a terrifying social collapse—viewers fear isolation within a crowd."
+  },
+  {
+    "unique_id": "survival_0174_005_87779b539110c3f2",
+    "title": "The Castaway Who Survived on an Island Where the Crabs Ate Everything—Including His Boat",
+    "hook": "He couldn't leave because the crabs were dismantling his raft faster than he could build it.",
+    "virality_score": 83,
+    "curiosity_gap_score": 81,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 77,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "crab island",
+      "castaway",
+      "boat destruction",
+      "stranded",
+      "invertebrates"
+    ],
+    "overlap_check_hash": "87779b539110c3f2",
+    "why_this_can_go_viral": "The absurdity of being defeated by crustaceans creates a darkly comic yet horrifying trap."
+  },
+  {
+    "unique_id": "survival_0174_007_4776115bf3929b5d",
+    "title": "The Survivor Who Crawled Through a Desert Where the Sand Was Sharp as Glass",
+    "hook": "Every crawl left trails of blood, but stopping meant a slower death.",
+    "virality_score": 79,
+    "curiosity_gap_score": 77,
+    "darkness_score": 86,
+    "educational_value": 55,
+    "estimated_short_retention": 75,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "sharp sand",
+      "desert survival",
+      "glass-like terrain",
+      "crawling",
+      "dehydration"
+    ],
+    "overlap_check_hash": "4776115bf3929b5d",
+    "why_this_can_go_viral": "The sensory horror of flesh being shredded by the ground itself is primal and deeply uncomfortable."
+  },
+  {
+    "unique_id": "survival_0174_008_6480abaceac060db",
+    "title": "The Diver Who Found a Sunken Ship Where the Bodies Were Perfectly Preserved",
+    "hook": "They looked like they were still alive—until he saw their eyes.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "sunken ship",
+      "preserved bodies",
+      "deep sea",
+      "horror",
+      "underwater discovery"
+    ],
+    "overlap_check_hash": "6480abaceac060db",
+    "why_this_can_go_viral": "Macabre preservation of human remains in the deep ocean taps into universal curiosity about death underwater."
+  },
+  {
+    "unique_id": "survival_0174_009_e01af9cddbf845be",
+    "title": "The Explorer Who Survived 30 Days in a Blizzard by Sleeping in Animal Burrows",
+    "hook": "He crawled into bear dens and fox holes—one time, something was already inside.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 73,
+    "estimated_short_retention": 84,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "blizzard",
+      "animal burrow",
+      "survival shelter",
+      "bear den",
+      "arctic"
+    ],
+    "overlap_check_hash": "e01af9cddbf845be",
+    "why_this_can_go_viral": "The constant threat of encountering a predator in the dark creates a claustrophobic tension that hooks immediately."
+  },
+  {
+    "unique_id": "survival_0174_010_69799520ed8aba5b",
+    "title": "The Group Stranded on a Mountain Where the Snow Began to Burn",
+    "hook": "The white powder they trusted to keep them alive turned into acid.",
+    "virality_score": 81,
+    "curiosity_gap_score": 83,
+    "darkness_score": 84,
+    "educational_value": 62,
+    "estimated_short_retention": 79,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "burning snow",
+      "volcanic ash",
+      "mountain survival",
+      "acidic",
+      "chemical reaction"
+    ],
+    "overlap_check_hash": "69799520ed8aba5b",
+    "why_this_can_go_viral": "Subverting a basic survival instinct—trusting snow—creates a shocking twist that viewers will need to understand."
+  },
+  {
+    "unique_id": "survival_0174_011_0bbe7703375f91b2",
+    "title": "The Castaway Who Survived by Making Clothes from His Own Skin",
+    "hook": "He needed protection from the sun, so he peeled off his own dead tissue and wove it.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 60,
+    "estimated_short_retention": 89,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "self-harm",
+      "skin clothing",
+      "castaway",
+      "extreme survival",
+      "desperation"
+    ],
+    "overlap_check_hash": "0bbe7703375f91b2",
+    "why_this_can_go_viral": "The gruesome ingenuity of using your own discarded flesh as fabric is both repulsive and unforgettable."
+  },
+  {
+    "unique_id": "survival_0174_012_9809f8a786f6f9bf",
+    "title": "The Shipwrecked Sailor Who Survived in a Lifeboat That Was Leaking Oil",
+    "hook": "He drank his own urine to stay alive—and the oil kept the sharks at bay.",
+    "virality_score": 80,
+    "curiosity_gap_score": 78,
+    "darkness_score": 81,
+    "educational_value": 68,
+    "estimated_short_retention": 76,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "lifeboat",
+      "oil leak",
+      "sharks",
+      "urine",
+      "desperate measures"
+    ],
+    "overlap_check_hash": "9809f8a786f6f9bf",
+    "why_this_can_go_viral": "The irony of a toxic spill becoming a shield against predators is a survival paradox viewers will discuss."
+  },
+  {
+    "unique_id": "survival_0174_013_67f5621c130adc01",
+    "title": "The Survivor Who Lived in a Forest Where the Trees Exuded Poison Sap",
+    "hook": "Every breath burned, every touch blistered—but leaving meant certain death.",
+    "virality_score": 83,
+    "curiosity_gap_score": 85,
+    "darkness_score": 89,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "poison sap",
+      "toxic forest",
+      "skin burns",
+      "survival",
+      "chemical warfare"
+    ],
+    "overlap_check_hash": "67f5621c130adc01",
+    "why_this_can_go_viral": "The idea of a forest actively attacking you flips the safe haven of nature into a hostile entity."
+  },
+  {
+    "unique_id": "survival_0174_014_eda8fba35fb8c7d1",
+    "title": "The Expedition That Watched Its Guide Get Swallowed by Quicksand—Then Kept Walking",
+    "hook": "No one could save him, and stopping meant the same fate.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 93,
+    "educational_value": 66,
+    "estimated_short_retention": 84,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "quicksand",
+      "expedition",
+      "leader death",
+      "cold decision",
+      "survival instinct"
+    ],
+    "overlap_check_hash": "eda8fba35fb8c7d1",
+    "why_this_can_go_viral": "The cold pragmatism of abandoning a comrade to die triggers intense moral debate and emotional shock."
+  },
+  {
+    "unique_id": "survival_0174_016_ebde4e72883ad621",
+    "title": "The Survivor Who Washed Up on a Beach Covered in Tar",
+    "hook": "The black goo sealed his wounds—but also sealed him to the sand.",
+    "virality_score": 77,
+    "curiosity_gap_score": 75,
+    "darkness_score": 80,
+    "educational_value": 58,
+    "estimated_short_retention": 73,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "tar pit",
+      "beach",
+      "immobilized",
+      "chemical burns",
+      "survival"
+    ],
+    "overlap_check_hash": "ebde4e72883ad621",
+    "why_this_can_go_viral": "Being trapped by a substance that both heals and imprisons is a unique, visceral horror concept."
+  },
+  {
+    "unique_id": "survival_0174_018_96f15c53c747128e",
+    "title": "The Group Stranded on a Raft Where Saltwater Crystals Grew in Their Wounds",
+    "hook": "They thought the ocean would clean their cuts—instead, it crystallized inside them.",
+    "virality_score": 82,
+    "curiosity_gap_score": 80,
+    "darkness_score": 87,
+    "educational_value": 71,
+    "estimated_short_retention": 79,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "saltwater wounds",
+      "crystallization",
+      "raft",
+      "infection",
+      "ocean survival"
+    ],
+    "overlap_check_hash": "96f15c53c747128e",
+    "why_this_can_go_viral": "The physical horror of salt crystals forming inside human flesh is grotesque and visually potent."
+  },
+  {
+    "unique_id": "survival_0174_019_1ea68d0ce25140ff",
+    "title": "The Survivor Who Lived in a Cave Where the Bats Drank His Blood at Night",
+    "hook": "He couldn't stop them—but their bites kept him awake enough to survive.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 91,
+    "educational_value": 69,
+    "estimated_short_retention": 82,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "vampire bats",
+      "cave survival",
+      "blood loss",
+      "sleep deprivation",
+      "symbiosis"
+    ],
+    "overlap_check_hash": "1ea68d0ce25140ff",
+    "why_this_can_go_viral": "The twisted trade-off of being drained but kept alert is a survival paradox that fascinates and repulses."
+  },
+  {
+    "unique_id": "survival_0174_020_411b29b664615020",
+    "title": "The Castaway Who Drifted to an Island Where All the Plants Were Carnivorous",
+    "hook": "He couldn't touch a single leaf without losing a piece of his flesh.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 73,
+    "estimated_short_retention": 80,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "carnivorous plants",
+      "island",
+      "flesh-eating",
+      "botanical horror",
+      "survival"
+    ],
+    "overlap_check_hash": "411b29b664615020",
+    "why_this_can_go_viral": "A world where the vegetation actively hunts you is a classic but rarely grounded horror premise."
+  },
+  {
+    "unique_id": "survival_0174_021_8685f7e90cda027b",
+    "title": "The Shipwrecked Sailor Who Survived by Killing a Shark With His Bare Hands",
+    "hook": "He didn't eat it—he wore its skin to protect himself from the sun.",
+    "virality_score": 80,
+    "curiosity_gap_score": 78,
+    "darkness_score": 76,
+    "educational_value": 74,
+    "estimated_short_retention": 77,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "shark attack",
+      "bare hands",
+      "skin suit",
+      "improvisation",
+      "ocean"
+    ],
+    "overlap_check_hash": "8685f7e90cda027b",
+    "why_this_can_go_viral": "Becoming the apex predator and using your kill as gear is a primal power fantasy that commands attention."
+  },
+  {
+    "unique_id": "survival_0174_023_59175296c29426ce",
+    "title": "The Diver Who Found an Underwater Oil Rig Where the Pressure Should Have Killed Him",
+    "hook": "He shouldn't have been able to breathe down there—but something was keeping him alive.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "survival",
+    "subcategory": "near-death escape stories",
+    "keywords": [
+      "oil rig",
+      "deep sea",
+      "pressure anomaly",
+      "survival",
+      "mystery"
+    ],
+    "overlap_check_hash": "59175296c29426ce",
+    "why_this_can_go_viral": "The contradiction of surviving impossible physics triggers curiosity and conspiracy theories."
+  },
+  {
+    "unique_id": "survival_0174_024_e74b8b81d95e2295",
+    "title": "The Expedition That Watched Its Members Stop Sleeping One by One",
+    "hook": "After 7 days awake, they started talking to people who weren't there.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 77,
+    "estimated_short_retention": 84,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "sleep deprivation",
+      "expedition",
+      "hallucination",
+      "breakdown",
+      "group madness"
+    ],
+    "overlap_check_hash": "e74b8b81d95e2295",
+    "why_this_can_go_viral": "The slow unraveling of a group into shared psychosis is a psychological horror that feels disturbingly real."
+  },
+  {
+    "unique_id": "survival_0174_025_ec2f13dfa2438843",
+    "title": "The Castaway Who Survived on an Island Where the Tide Rose Into the Trees",
+    "hook": "He had to climb higher every hour—until he ran out of branches.",
+    "virality_score": 81,
+    "curiosity_gap_score": 79,
+    "darkness_score": 83,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "tidal wave",
+      "climbing",
+      "island",
+      "drowning",
+      "rising water"
+    ],
+    "overlap_check_hash": "ec2f13dfa2438843",
+    "why_this_can_go_viral": "The slow, inescapable rise of the ocean creates a countdown tension that keeps viewers hooked to the end."
+  }
+]

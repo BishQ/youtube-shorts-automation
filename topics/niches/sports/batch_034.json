@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "sports_0034_001_82274fc1229f364c",
+    "title": "The Doctor Who Gave Cyclists 'Bovine Blood' for Mountain Climbing",
+    "hook": "They were vomiting on the descents, but their oxygen levels were off the charts.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "blood doping",
+      "cyclists",
+      "bovine blood",
+      "oxygen",
+      "mountains"
+    ],
+    "overlap_check_hash": "82274fc1229f364c",
+    "why_this_can_go_viral": "Mixing animal blood with human athletes triggers disgust and intrigue, perfect for the 'forbidden experiment' shock factor."
+  },
+  {
+    "unique_id": "sports_0034_002_57b9196c2b7ecec7",
+    "title": "The Ref Who Fixed Olympic Boxing by Wearing a Microphone",
+    "hook": "Every 'accidental' headbutt was actually a signal to his betting syndicate.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "boxing",
+      "referee",
+      "microphone",
+      "betting",
+      "olympic"
+    ],
+    "overlap_check_hash": "57b9196c2b7ecec7",
+    "why_this_can_go_viral": "The idea of a ref using a hidden mic to orchestrate moves feels like a spy thriller, making viewers question every official they see."
+  },
+  {
+    "unique_id": "sports_0034_003_ab734573bce91ea2",
+    "title": "The Mob Boss Who Owned a Soccer Club to Launder Drug Money",
+    "hook": "He didn't care about goals—he cared about kilograms of cocaine hidden in the team bus.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "mafia",
+      "soccer",
+      "money laundering",
+      "cocaine",
+      "club owner"
+    ],
+    "overlap_check_hash": "ab734573bce91ea2",
+    "why_this_can_go_viral": "Combines organized crime with a beloved sport; people love the 'behind the curtain' reveal of corruption in their favorite teams."
+  },
+  {
+    "unique_id": "sports_0034_008_78162364fea2055c",
+    "title": "The Businessman Who Sold 'Lucky' Jockstraps Made from Prison Uniforms",
+    "hook": "They believed the 'bad energy' of convicts gave them an edge on the field.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 74,
+    "educational_value": 60,
+    "estimated_short_retention": 76,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "jockstrap",
+      "prison",
+      "luck",
+      "businessman",
+      "superstition"
+    ],
+    "overlap_check_hash": "78162364fea2055c",
+    "why_this_can_go_viral": "The absurdity of wearing a convict's underwear for luck is bizarre enough to make people ask 'Is this real?' and share it."
+  },
+  {
+    "unique_id": "sports_0034_009_6a161c77736c2503",
+    "title": "The Referee Who Fixed Cricket by Changing the Wicket's Angle",
+    "hook": "A millimeter difference in the stumps meant millions of dollars in illegal bets.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 76,
+    "educational_value": 70,
+    "estimated_short_retention": 79,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "cricket",
+      "wicket",
+      "referee",
+      "fixing",
+      "angle"
+    ],
+    "overlap_check_hash": "6a161c77736c2503",
+    "why_this_can_go_viral": "Subtle manipulation of the game's physical structure is a clever twist, appealing to cricket fans and conspiracy lovers."
+  },
+  {
+    "unique_id": "sports_0034_010_785cc55adaf6b66d",
+    "title": "The Doctor Who Gave Football Players 'Lung Boosters' Made from Sheep Tissue",
+    "hook": "They could run for 90 minutes without gasping—but their lungs were slowly rotting.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 73,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "football",
+      "lung",
+      "sheep",
+      "tissue",
+      "injection"
+    ],
+    "overlap_check_hash": "785cc55adaf6b66d",
+    "why_this_can_go_viral": "Animal-to-human transplants in sports feels like a forbidden science experiment; the rotting detail adds horror."
+  },
+  {
+    "unique_id": "sports_0034_011_73bd3fca7decb598",
+    "title": "The Coach Who Made Teen Athletes Sleep in Coffins to 'Build Mental Toughness'",
+    "hook": "He said if they could handle a coffin, they could handle any opponent.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 91,
+    "educational_value": 65,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "coffin",
+      "sleep",
+      "teens",
+      "mental toughness",
+      "coach"
+    ],
+    "overlap_check_hash": "73bd3fca7decb598",
+    "why_this_can_go_viral": "Coffins and teens is an automatic shock factor; people will watch to see the psychological damage."
+  },
+  {
+    "unique_id": "sports_0034_012_70d0b8c9e500be5e",
+    "title": "The Mafia That Fixed Tennis by Sabotaging the Court's Net Height",
+    "hook": "A half-inch difference on one side made the favorite's serve useless.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 75,
+    "educational_value": 68,
+    "estimated_short_retention": 77,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "tennis",
+      "net",
+      "height",
+      "mafia",
+      "fixing"
+    ],
+    "overlap_check_hash": "70d0b8c9e500be5e",
+    "why_this_can_go_viral": "Physical sabotage of equipment is a classic trick that feels easy to imagine, making viewers wonder how often it happens."
+  },
+  {
+    "unique_id": "sports_0034_013_4723b195225be7bd",
+    "title": "The Lab That Tried to Give Marathon Runners 'Gills' by Implanting Tubes",
+    "hook": "They hoped the tubes would let them breathe underwater during rest breaks.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "marathon",
+      "gills",
+      "implant",
+      "tubes",
+      "lab"
+    ],
+    "overlap_check_hash": "4723b195225be7bd",
+    "why_this_can_go_viral": "The 'human fish' concept is sci-fi horror come to life; viewers will click to see the grotesque prototype."
+  },
+  {
+    "unique_id": "sports_0034_014_60cc144a2c5dd9c5",
+    "title": "The Businessman Who Sold 'Champion's Farts' in Cans for Good Luck",
+    "hook": "He claimed the air from a winning sprinter could transfer victory to the buyer.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 70,
+    "educational_value": 55,
+    "estimated_short_retention": 83,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "farts",
+      "luck",
+      "business",
+      "sprinter",
+      "can"
+    ],
+    "overlap_check_hash": "60cc144a2c5dd9c5",
+    "why_this_can_go_viral": "Gross-out humor mixed with superstition is a guaranteed share; people will tag friends and laugh."
+  },
+  {
+    "unique_id": "sports_0034_016_7603e75ac08c65c2",
+    "title": "The Doctor Who Harvested Bone Marrow from Orphans for Athlete Recovery",
+    "hook": "The orphans were told it was a 'vaccination'—but the marrow went to injured champions.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 77,
+    "estimated_short_retention": 92,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "bone marrow",
+      "orphans",
+      "recovery",
+      "doctor",
+      "exploitation"
+    ],
+    "overlap_check_hash": "7603e75ac08c65c2",
+    "why_this_can_go_viral": "Exploitation of children for athletic gain is maximum darkness; outrage will drive massive shares and comments."
+  },
+  {
+    "unique_id": "sports_0034_017_9a6a976374318222",
+    "title": "The Psychologist Who Made a Golfer Think His Clubs Were Cursed by a Rival",
+    "hook": "Every missed putt was blamed on a hex—until the golfer smashed his bag in rage.",
+    "virality_score": 77,
+    "curiosity_gap_score": 81,
+    "darkness_score": 72,
+    "educational_value": 62,
+    "estimated_short_retention": 79,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "golfer",
+      "curse",
+      "clubs",
+      "psychologist",
+      "hex"
+    ],
+    "overlap_check_hash": "9a6a976374318222",
+    "why_this_can_go_viral": "Golf's calm image vs. psychological sabotage creates a funny yet dark contrast; golf fans will love the drama."
+  },
+  {
+    "unique_id": "sports_0034_018_6942c6731925b52a",
+    "title": "The Mafia That Used Ball Boys to Pass Coded Messages in Tennis",
+    "hook": "A ball tossed high meant bet on the first player; low meant bet on the second.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 81,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "ball boys",
+      "tennis",
+      "coded messages",
+      "mafia",
+      "betting"
+    ],
+    "overlap_check_hash": "6942c6731925b52a",
+    "why_this_can_go_viral": "Kids as unwitting conspirators is a chilling angle; viewers will look at ball boys differently during matches."
+  },
+  {
+    "unique_id": "sports_0034_019_24b3c0f74f9e79e2",
+    "title": "The Lab That Tried to Make Weightlifters 'Bone Density' Like Elephants",
+    "hook": "They injected calcium compounds directly into their spines—and two never walked again.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 87,
+    "educational_value": 74,
+    "estimated_short_retention": 83,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "weightlifters",
+      "bone",
+      "injection",
+      "elephant",
+      "lab"
+    ],
+    "overlap_check_hash": "24b3c0f74f9e79e2",
+    "why_this_can_go_viral": "Extreme body modification for strength is both fascinating and horrifying; the spinal damage detail is gripping."
+  },
+  {
+    "unique_id": "sports_0034_020_0df5d7c48148ac23",
+    "title": "The Coach Who Made Soccer Players Train with Live Bullets Fired Near Them",
+    "hook": "He said dodging bullets would make them faster on the pitch—but one player was hit.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "soccer",
+      "bullets",
+      "training",
+      "coach",
+      "abuse"
+    ],
+    "overlap_check_hash": "0df5d7c48148ac23",
+    "why_this_can_go_viral": "Real danger in training is shocking; the 'one hit' detail makes it feel like a true crime story."
+  },
+  {
+    "unique_id": "sports_0034_021_483d0360cc3adea5",
+    "title": "The Doctor Who Gave Boxers 'Rhino Hormones' for Unstoppable Rage",
+    "hook": "They became ferocious in the ring—but also aggressive outside, attacking their own trainers.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 71,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "boxers",
+      "rhino",
+      "hormones",
+      "rage",
+      "doctor"
+    ],
+    "overlap_check_hash": "483d0360cc3adea5",
+    "why_this_can_go_viral": "Animal hormone experiments in humans is a primal fear; the loss of control angle is compelling."
+  },
+  {
+    "unique_id": "sports_0034_022_d8f21e6e35210244",
+    "title": "The Businessman Who Sold 'Winning Tears' from Defeated Opponents",
+    "hook": "He collected tears from losing athletes and sold them as a 'potion' to their next rivals.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 73,
+    "educational_value": 58,
+    "estimated_short_retention": 75,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "tears",
+      "defeat",
+      "potion",
+      "businessman",
+      "luck"
+    ],
+    "overlap_check_hash": "d8f21e6e35210244",
+    "why_this_can_go_viral": "The concept of selling emotional suffering is macabre and unique; viewers will debate its morality."
+  },
+  {
+    "unique_id": "sports_0034_023_0b618a0d371e2e50",
+    "title": "The Referee Who Fixed MMA by Pretending to Check the Cage",
+    "hook": "He loosened a single bolt—and the champion fell through the door in the third round.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 69,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "MMA",
+      "cage",
+      "bolt",
+      "referee",
+      "fix"
+    ],
+    "overlap_check_hash": "0b618a0d371e2e50",
+    "why_this_can_go_viral": "Physical sabotage in a violent sport is cinematic; viewers will imagine the chaos of a collapsing cage."
+  },
+  {
+    "unique_id": "sports_0034_024_b1546cdc39056f3a",
+    "title": "The Psychologist Who Made a Swimmer Believe the Lane Lines Were Sharks",
+    "hook": "She broke the national record—but refused to get in the pool ever again.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 64,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "swimmer",
+      "sharks",
+      "lanes",
+      "fear",
+      "psychologist"
+    ],
+    "overlap_check_hash": "b1546cdc39056f3a",
+    "why_this_can_go_viral": "Fear of sharks is universal; the idea of a coach weaponizing that fear for performance is dark and emotional."
+  },
+  {
+    "unique_id": "sports_0034_025_634b0f3b52e45a63",
+    "title": "The Mafia That Fixed Baseball by Replacing the Bat with a Lighter One",
+    "hook": "The slugger couldn't hit a single pitch—and the mob made millions on the underdog.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 76,
+    "educational_value": 70,
+    "estimated_short_retention": 79,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "baseball",
+      "bat",
+      "weight",
+      "mafia",
+      "fixing"
+    ],
+    "overlap_check_hash": "634b0f3b52e45a63",
+    "why_this_can_go_viral": "Simple equipment swap is a relatable trick; baseball fans will ponder how often their game is rigged."
+  }
+]

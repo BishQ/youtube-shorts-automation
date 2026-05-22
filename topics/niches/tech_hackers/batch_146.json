@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "tech_hackers_0146_001_57237b9c8b2be18c",
+    "title": "The Zero-Day That Hacked Smart Hearing Aids to Whistle Assassination Orders",
+    "hook": "A hitman didn't need a phone—he just played a silent frequency through a victim's own hearing aid.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "hearing aid hack",
+      "acoustic attack",
+      "assassination frequency",
+      "IoT vulnerability",
+      "targeted killing"
+    ],
+    "overlap_check_hash": "57237b9c8b2be18c",
+    "why_this_can_go_viral": "Combines medical device horror with real assassination techniques—creates immediate 'could I be next?' fear."
+  },
+  {
+    "unique_id": "tech_hackers_0146_002_5caf651900624376",
+    "title": "The Dark Web Lab That Hacked Smart Pacemakers to Deliver Fatal Shocks on Demand",
+    "hook": "A cardiac patient died mid-sentence—autopsy showed a perfect shock from a device the hospital never touched.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "pacemaker hack",
+      "remote kill switch",
+      "IoT murder",
+      "medical device exploit",
+      "cyber assassination"
+    ],
+    "overlap_check_hash": "5caf651900624376",
+    "why_this_can_go_viral": "Taps into deep fear of medical device manipulation—proven attack vector with high shock value."
+  },
+  {
+    "unique_id": "tech_hackers_0146_003_b12694b1f8bfec2b",
+    "title": "The AI That Hacked Smart Baby Scales to Predict and Dox Expecting Mothers",
+    "hook": "A woman got a spam text congratulating her on a pregnancy she hadn't even announced—the scale told on her.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI inference",
+      "pregnancy data",
+      "smart scale leak",
+      "predictive doxxing",
+      "health privacy"
+    ],
+    "overlap_check_hash": "b12694b1f8bfec2b",
+    "why_this_can_go_viral": "Relatable privacy nightmare—everyone with a smart device sees themselves in this story."
+  },
+  {
+    "unique_id": "tech_hackers_0146_006_f4c51a243f63dab7",
+    "title": "The Surveillance System That Hacked Smart Glasses to Livestream Your Retina Scan",
+    "hook": "You thought you were just trying on glasses—but the frame was already mapping your iris to a criminal database.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 84,
+    "educational_value": 68,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "smart glasses hack",
+      "retina theft",
+      "biometric tracking",
+      "AR spyware",
+      "identity cloning"
+    ],
+    "overlap_check_hash": "f4c51a243f63dab7",
+    "why_this_can_go_viral": "Fuses wearable tech anxiety with biometric theft—very current as AR glasses roll out."
+  },
+  {
+    "unique_id": "tech_hackers_0146_007_a834f4bdfb92bb35",
+    "title": "The Social Engineer Who Hacked a Police Station by Posing as a Smart Lock Vendor",
+    "hook": "He walked in with a tablet and a lanyard—three hours later, every cell door in the precinct had a backdoor.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering cops",
+      "IoT lock hack",
+      "police station breach",
+      "physical penetration test",
+      "vendor impersonation"
+    ],
+    "overlap_check_hash": "a834f4bdfb92bb35",
+    "why_this_can_go_viral": "Audacious real-world con story—viewers love tales of hackers outsmarting entire institutions face-to-face."
+  },
+  {
+    "unique_id": "tech_hackers_0146_008_138d85bbee8013f9",
+    "title": "The Cyberwar History Event Where a Hacked Smart Pipeline Caused a River Fire",
+    "hook": "The river caught fire because a pipeline control system was told the pressure was fine—when it was already bursting.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 86,
+    "educational_value": 78,
+    "estimated_short_retention": 79,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "pipeline cyberattack",
+      "industrial sabotage",
+      "SCADA hack",
+      "environmental disaster",
+      "OT security"
+    ],
+    "overlap_check_hash": "138d85bbee8013f9",
+    "why_this_can_go_viral": "Dramatic visual (river on fire) plus infrastructure vulnerability—bridges news and conspiracy alike."
+  },
+  {
+    "unique_id": "tech_hackers_0146_009_a5ca195ab03a3b31",
+    "title": "The Zero-Day That Hacked Smart Blinds to Spell Out Room Numbers for Snipers",
+    "hook": "A hotel guest drew the curtains—and unwittingly signaled the exact floor and window to a marksman across the street.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 96,
+    "educational_value": 71,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart blind hack",
+      "sniper targeting",
+      "IoT signaling",
+      "physical world exploit",
+      "hotel assassination"
+    ],
+    "overlap_check_hash": "a5ca195ab03a3b31",
+    "why_this_can_go_viral": "Unforgettable visual of curtains spelling doom—pure 'smart home kills you' horror."
+  },
+  {
+    "unique_id": "tech_hackers_0146_010_df2924512267564d",
+    "title": "The AI That Hacked Smart Doorbells to Learn Your Home Layout for Burglars",
+    "hook": "The burglar never cased your house—his AI did, using the motion logs from your own doorbell camera.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 69,
+    "estimated_short_retention": 81,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI crime prediction",
+      "smart doorbell leak",
+      "burglary mapping",
+      "home security betrayal",
+      "IoT recon"
+    ],
+    "overlap_check_hash": "df2924512267564d",
+    "why_this_can_go_viral": "Ominous twist on a device marketed as protection—massive cognitive dissonance for owners."
+  },
+  {
+    "unique_id": "tech_hackers_0146_011_5fdd33156c69543e",
+    "title": "The Dark Web Lab That Hacked Smart Pregnancy Tests to Leak Conception Dates",
+    "hook": "The test said 'pregnant'—and within minutes, her employer knew she'd be taking maternity leave in 9 months.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 82,
+    "educational_value": 63,
+    "estimated_short_retention": 77,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "pregnancy test hack",
+      "health data leak",
+      "employer surveillance",
+      "IoT privacy",
+      "reproductive tracking"
+    ],
+    "overlap_check_hash": "5fdd33156c69543e",
+    "why_this_can_go_viral": "Highly personal violation—taps into fears about data-hungry corporations and reproductive rights."
+  },
+  {
+    "unique_id": "tech_hackers_0146_013_70a91a6e2d632b70",
+    "title": "The Social Engineer Who Hacked a Nuclear Lab by Posing as a Smart HVAC Technician",
+    "hook": "He had a clipboard and a thermal camera—by lunch, he'd cloned the badge of every scientist in the building.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 77,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "nuclear facility hack",
+      "HVAC scam",
+      "badge cloning",
+      "physical penetration",
+      "high-security breach"
+    ],
+    "overlap_check_hash": "70a91a6e2d632b70",
+    "why_this_can_go_viral": "Extreme stakes (nuclear lab) combined with absurdly simple method—'this actually worked?' shock."
+  },
+  {
+    "unique_id": "tech_hackers_0146_014_bbfe24166d76e2dc",
+    "title": "The Cybercriminal Empire That Hacked Smart Luggage to Track Rich Travelers for Theft",
+    "hook": "Your suitcase was telling the entire airport exactly when you left your hotel room—and what you packed.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 79,
+    "educational_value": 64,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "smart luggage hack",
+      "traveler tracking",
+      "airport theft ring",
+      "GPS exploit",
+      "luxury targeting"
+    ],
+    "overlap_check_hash": "bbfe24166d76e2dc",
+    "why_this_can_go_viral": "Affects frequent flyers directly—combines travel anxiety with the creepiness of being physically followed."
+  },
+  {
+    "unique_id": "tech_hackers_0146_015_bef6be1279c91627",
+    "title": "The Surveillance System That Hacked Smart Streetlights to Record Every Face in a City",
+    "hook": "The city installed 'energy-saving' lights—every one of them was silently building a facial recognition database for a foreign power.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 71,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "smart streetlight spy",
+      "facial recognition hack",
+      "city-wide surveillance",
+      "foreign intelligence",
+      "public IoT"
+    ],
+    "overlap_check_hash": "bef6be1279c91627",
+    "why_this_can_go_viral": "Disturbing 'they're watching you through the lamp post' vibe—feeds into mass surveillance paranoia."
+  },
+  {
+    "unique_id": "tech_hackers_0146_016_91727754a900cd1f",
+    "title": "The Zero-Day That Hacked Smart Power Strips to Burn Down Houses at Night",
+    "hook": "A family woke up to smoke—their smart power strip had been told to overload itself while they slept.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 93,
+    "educational_value": 68,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart plug fire",
+      "IoT arson",
+      "remote overload",
+      "home burning hack",
+      "electrical sabotage"
+    ],
+    "overlap_check_hash": "91727754a900cd1f",
+    "why_this_can_go_viral": "Primordial fear of fire in your sleep—plus 'your own device is the weapon' twist."
+  },
+  {
+    "unique_id": "tech_hackers_0146_017_eb01281fe94b8cc6",
+    "title": "The AI That Hacked Smart Security Cameras to Deepfake Your Alibi",
+    "hook": "The footage showed you sleeping peacefully at home—but your phone's GPS put you at the crime scene across town.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 73,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "deepfake alibi",
+      "camera manipulation",
+      "AI frame editing",
+      "evidence tampering",
+      "digital gaslighting"
+    ],
+    "overlap_check_hash": "eb01281fe94b8cc6",
+    "why_this_can_go_viral": "Courtroom nightmare—who do you believe when every camera lies? High paranoia and legal relevance."
+  },
+  {
+    "unique_id": "tech_hackers_0146_021_d15555df1377c548",
+    "title": "The Cyberwar History Event Where a Hacked Smart Dam Release Drowned a Town",
+    "hook": "The alarms never sounded—because the dam's sensors had been hijacked to report 'normal water levels' as the wall broke.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 80,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "dam hack",
+      "flood disaster",
+      "OT sabotage",
+      "infrastructure weaponization",
+      "cyber warfare casualty"
+    ],
+    "overlap_check_hash": "d15555df1377c548",
+    "why_this_can_go_viral": "Apocalyptic scale—a town wiped out by a hack. Combines natural disaster dread with cyber betrayal."
+  },
+  {
+    "unique_id": "tech_hackers_0146_022_1dc16038a14e98f5",
+    "title": "The Zero-Day That Hacked Smart Electric Blankets to Overheat and Cause Comas",
+    "hook": "She felt cozy and fell asleep—her smart blanket had been turned up to a temperature that would slowly cook her organs.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 94,
+    "educational_value": 67,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "electric blanket kill",
+      "IoT hyperthermia",
+      "smart home murder",
+      "temperature weaponization",
+      "sleeping death"
+    ],
+    "overlap_check_hash": "1dc16038a14e98f5",
+    "why_this_can_go_viral": "Horrifically intimate—killed by the comfort of your own bed. Unforgettable mental image."
+  },
+  {
+    "unique_id": "tech_hackers_0146_023_06a85d22212fbbaa",
+    "title": "The AI That Hacked Smart Speaker Voice Profiles to Clone Your Voice for Fraud",
+    "hook": "Your mother got a phone call from 'you' begging for money—but you were sitting right next to her, silent.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 88,
+    "educational_value": 74,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "voice cloning scam",
+      "smart speaker theft",
+      "AI vocal mimicry",
+      "family fraud",
+      "social engineering AI"
+    ],
+    "overlap_check_hash": "06a85d22212fbbaa",
+    "why_this_can_go_viral": "Emotional gut punch—voice of a loved one weaponized. Extremely high shareability across age groups."
+  },
+  {
+    "unique_id": "tech_hackers_0146_024_7bbe446e3dcc8fc1",
+    "title": "The Cybercriminal Empire That Hacked Smart Yoga Mats to Livestream Your Home Workouts",
+    "hook": "You thought you were in downward dog alone—but a dark web site was charging subscriptions to watch you stretch.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 76,
+    "educational_value": 58,
+    "estimated_short_retention": 76,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "yoga mat hack",
+      "home workout spy",
+      "IoT voyeurism",
+      "fitness privacy",
+      "livestream theft"
+    ],
+    "overlap_check_hash": "7bbe446e3dcc8fc1",
+    "why_this_can_go_viral": "Unexpected device turned into spy cam—darkly humorous but genuinely creepy. Great for viral discussion."
+  },
+  {
+    "unique_id": "tech_hackers_0146_025_26b60284885c0eec",
+    "title": "The Surveillance System That Hacked Smart Trash Bins to Profile What You Throw Away",
+    "hook": "The city's smart bins catalogued your discarded credit card receipts, pill bottles, and love letters—and sold the data.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 81,
+    "educational_value": 70,
+    "estimated_short_retention": 79,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "smart bin surveillance",
+      "trash profiling",
+      "municipal data mining",
+      "privacy violation",
+      "waste IoT"
+    ],
+    "overlap_check_hash": "26b60284885c0eec",
+    "why_this_can_go_viral": "Everyone throws things away—realization that your garbage tells your deepest secrets. High shock factor."
+  }
+]

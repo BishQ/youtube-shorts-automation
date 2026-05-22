@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "sports_0068_001_f9e04007eaab378a",
+    "title": "The Doctor Who Sold Paralysis Gene Therapy to Olympic Sprinter",
+    "hook": "A prestigious doctor secretly administered a gene that shut down muscle fatigue forever—until it started shutting down everything else.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 45,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "gene doping",
+      "Olympic scandal",
+      "paralysis",
+      "sprinter",
+      "forbidden science"
+    ],
+    "overlap_check_hash": "f9e04007eaab378a",
+    "why_this_can_go_viral": "Combines the horror of irreversible medical experimentation with the allure of secret Olympic tech, hitting both the body-horror and conspiracy instincts."
+  },
+  {
+    "unique_id": "sports_0068_002_634d02204473aaae",
+    "title": "The Mafia That Bribed Umpires with Coded New York Pizza Orders",
+    "hook": "Every slice of pepperoni meant something different—and the umpire knew exactly which pitch to call wrong before the delivery even arrived.",
+    "virality_score": 83,
+    "curiosity_gap_score": 91,
+    "darkness_score": 78,
+    "educational_value": 35,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "baseball corruption",
+      "mafia betting",
+      "coded orders",
+      "umpire bribes",
+      "organized crime"
+    ],
+    "overlap_check_hash": "634d02204473aaae",
+    "why_this_can_go_viral": "The bizarre specificity of pizza-as-coded-message creates instant shareability and disbelief, perfect for retelling."
+  },
+  {
+    "unique_id": "sports_0068_003_f47fe94faf732c87",
+    "title": "The Referee Who Fixed Fights by Blinding Boxers with a Retinal Flash",
+    "hook": "During a title bout, the referee triggered a hidden strobe that hit the fighter's retina at exactly the wrong millisecond—and the knockout looked legal.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 89,
+    "educational_value": 40,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "blind referee",
+      "boxing rigged",
+      "retinal flash",
+      "fight fixing",
+      "hidden weapon"
+    ],
+    "overlap_check_hash": "f47fe94faf732c87",
+    "why_this_can_go_viral": "The violation of trust in a referee and the invisible weapon angle triggers deep outrage and awe, ideal for short-form."
+  },
+  {
+    "unique_id": "sports_0068_004_67ced0d207e8e5a6",
+    "title": "The Doping Lab That Kept Teen Swimmers in Hypoxic Chambers for Months",
+    "hook": "Parents thought their kids were at a prestigious training camp—but the lab was slowly suffocating them to trigger superhuman red blood cell counts.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 50,
+    "estimated_short_retention": 92,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "hypoxic chamber",
+      "child abuse",
+      "blood doping",
+      "swimming scandal",
+      "hidden camp"
+    ],
+    "overlap_check_hash": "67ced0d207e8e5a6",
+    "why_this_can_go_viral": "Combines parental betrayal, body horror, and a real medical mechanism—deeply emotional and scientifically fascinating."
+  },
+  {
+    "unique_id": "sports_0068_005_543a35c173638a78",
+    "title": "The Businessman Who Sold 'Winning Scents' That Gave Rivals Asthma Attacks",
+    "hook": "He marketed a cologne that supposedly boosted confidence—but the aerosol contained a fine powder that triggered bronchial spasms in competitors.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 35,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "sabotage",
+      "asthma attack",
+      "winning scent",
+      "business corruption",
+      "sports commerce"
+    ],
+    "overlap_check_hash": "543a35c173638a78",
+    "why_this_can_go_viral": "The 'cologne weapon' is outrageous enough to be retold instantly, while the medical detail adds chilling credibility."
+  },
+  {
+    "unique_id": "sports_0068_006_4a79477505c73240",
+    "title": "The Psychologist Who Implanted a False Memory of Abuse to Control a Gymnast",
+    "hook": "She didn't need to threaten the athlete—she just made her believe she had already been broken, and the gymnast obeyed without knowing why.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 94,
+    "educational_value": 55,
+    "estimated_short_retention": 93,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "false memory",
+      "gymnastics abuse",
+      "mind control",
+      "psychologist",
+      "implanted trauma"
+    ],
+    "overlap_check_hash": "4a79477505c73240",
+    "why_this_can_go_viral": "False memory implantation is a deeply unsettling psychological concept that feels like sci-fi but is real, perfect for dark curiosity."
+  },
+  {
+    "unique_id": "sports_0068_009_ad9bba979ee2582c",
+    "title": "The Coach Who Gave His Runners 'Mountain Blood' from Altitude-Aborted Fetuses",
+    "hook": "He harvested umbilical cord blood from high-altitude miscarriages and injected it into his athletes to give them natural oxygen advantage.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 97,
+    "educational_value": 45,
+    "estimated_short_retention": 95,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "fetal blood",
+      "altitude doping",
+      "running scandal",
+      "forbidden medicine",
+      "umbilical cord"
+    ],
+    "overlap_check_hash": "ad9bba979ee2582c",
+    "why_this_can_go_viral": "The sheer taboo and horror of the source material makes this almost impossible to look away from—maximum shock value with a pseudo-scientific veneer."
+  },
+  {
+    "unique_id": "sports_0068_010_a2d2bfb5269e9949",
+    "title": "The Lab That Tried to Lengthen Basketball Players' Achilles with Surgical Screws",
+    "hook": "They promised an extra six inches of vertical leap—but the screws tore through the tendon during the first game, leaving the player crippled on the court.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 50,
+    "estimated_short_retention": 89,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "Achilles lengthening",
+      "basketball surgery",
+      "failed experiment",
+      "vertical leap",
+      "permanent injury"
+    ],
+    "overlap_check_hash": "a2d2bfb5269e9949",
+    "why_this_can_go_viral": "Graphic medical horror meets the dream of athletic superhuman performance—catastrophic failure is deeply engaging."
+  },
+  {
+    "unique_id": "sports_0068_011_59e856b86403474b",
+    "title": "The Doctor Who Injected Boxers with Cobra Venom to Build Pain Tolerance",
+    "hook": "The venom didn't kill them—it just made them feel nothing, until the first punch caused their blood to coagulate inside their veins.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 50,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "cobra venom",
+      "boxing torture",
+      "pain suppression",
+      "dangerous injection",
+      "death ring"
+    ],
+    "overlap_check_hash": "59e856b86403474b",
+    "why_this_can_go_viral": "Cobra venom as a performance enhancer is both exotic and terrifying, with immediate visual and physiological horror."
+  },
+  {
+    "unique_id": "sports_0068_013_12e35ff51842fd59",
+    "title": "The Mafia That Replaced a Tennis Player's Strings with Dissolving Gut",
+    "hook": "The racket felt perfect at warm-up—but halfway through the match, the strings snapped one by one, and the player had no idea why.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 76,
+    "educational_value": 35,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "tennis sabotage",
+      "mafia betting",
+      "rigged racket",
+      "dissolving strings",
+      "match fix"
+    ],
+    "overlap_check_hash": "12e35ff51842fd59",
+    "why_this_can_go_viral": "Subtle sabotage that unfolds during the match is a perfect narrative arc for a short video—suspenseful and shocking."
+  },
+  {
+    "unique_id": "sports_0068_014_825f556e734d1774",
+    "title": "The Doping Ring That Used Breast Milk from Pregnant Drug Users",
+    "hook": "They believed the steroids passed through lactation were untraceable—until the babies tested positive and the entire network collapsed.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 40,
+    "estimated_short_retention": 94,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "breast milk doping",
+      "infant harm",
+      "steroid ring",
+      "untraceable drugs",
+      "scandal"
+    ],
+    "overlap_check_hash": "825f556e734d1774",
+    "why_this_can_go_viral": "Extreme ethical violation involving infants and athletes creates outrage and morbid curiosity—highly shareable."
+  },
+  {
+    "unique_id": "sports_0068_015_2d2562703f0c1b40",
+    "title": "The Referee Who Fixed Cricket by Tampering with the Pitch Roller",
+    "hook": "He soaked one end of the roller in water so the pitch would crumble unevenly, making spin bowlers unplayable—and the fix looked like nature.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 72,
+    "educational_value": 45,
+    "estimated_short_retention": 81,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "cricket fix",
+      "pitch tampering",
+      "referee crime",
+      "match fixing",
+      "pitch roller"
+    ],
+    "overlap_check_hash": "2d2562703f0c1b40",
+    "why_this_can_go_viral": "The seemingly innocent act of rolling the pitch becomes a tool of corruption—intriguing for cricket fans and outsiders alike."
+  },
+  {
+    "unique_id": "sports_0068_016_43e5a73fcc2aea7c",
+    "title": "The Businessman Who Sold 'Oxygenated Water' That Gave Cyclists Lung Lesions",
+    "hook": "It promised to supercharge blood oxygen—but the dissolved gas bubbles created micro-tears in the lungs, and the cyclists couldn't breathe on climbs.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 50,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "oxygen water scam",
+      "cycling fraud",
+      "lung damage",
+      "pseudoscience",
+      "performance scam"
+    ],
+    "overlap_check_hash": "43e5a73fcc2aea7c",
+    "why_this_can_go_viral": "A product that sounds plausible but causes irreversible damage—perfect warning story with dark business undertones."
+  },
+  {
+    "unique_id": "sports_0068_017_970e11aebd629cda",
+    "title": "The Coach Who Forced His Wrestlers to Sweat in a Sauna Full of Ammonia",
+    "hook": "He said it would 'purify' them for weight cutting—but the ammonia burned their corneas, and two wrestlers went blind before a match.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 40,
+    "estimated_short_retention": 89,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "wrestling abuse",
+      "ammonia sauna",
+      "blind athletes",
+      "weight cutting",
+      "torture training"
+    ],
+    "overlap_check_hash": "970e11aebd629cda",
+    "why_this_can_go_viral": "Extreme and preventable injury in the name of 'toughness'—combines body horror with outrage at systematic abuse."
+  },
+  {
+    "unique_id": "sports_0068_020_3ddaef7d745a9c11",
+    "title": "The Doping Lab That Used Radioactive Waste to Stimulate Red Blood Cells",
+    "hook": "They thought low-dose radiation would trigger a survival response—but it gave the athletes bone cancer, and the medals came with a death sentence.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 55,
+    "estimated_short_retention": 91,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "radioactive doping",
+      "bone cancer",
+      "radiation therapy",
+      "hidden lab",
+      "death sentence"
+    ],
+    "overlap_check_hash": "3ddaef7d745a9c11",
+    "why_this_can_go_viral": "The chilling irony of trading gold for cancer is deeply tragic and shocking—powerful emotional hook with a conspiracy angle."
+  },
+  {
+    "unique_id": "sports_0068_021_bd5e5430a9bf07ff",
+    "title": "The Mafia That Owned a Horse Racing Track's Starting Gate Mechanic",
+    "hook": "A single jammed gate at the start could give one horse a three-length advantage—and the mechanic got paid more than the winning jockey.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 71,
+    "educational_value": 35,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "horse racing fix",
+      "starting gate",
+      "mechanic bribe",
+      "mafia racing",
+      "hidden advantage"
+    ],
+    "overlap_check_hash": "bd5e5430a9bf07ff",
+    "why_this_can_go_viral": "The low-tech, high-impact sabotage is easy to visualize and understand, making it a perfect 'how it works' exposé."
+  },
+  {
+    "unique_id": "sports_0068_022_94af319b07ed2550",
+    "title": "The Referee Who Fixed Rugby by Kicking a Player in the Leg During a Ruck",
+    "hook": "No one saw the referee's boot connect—but the player's hamstring tore, and the penalty against his team sealed the bet.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 79,
+    "educational_value": 30,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "rugby fix",
+      "referee assault",
+      "hamstring injury",
+      "hidden attack",
+      "match fixing"
+    ],
+    "overlap_check_hash": "94af319b07ed2550",
+    "why_this_can_go_viral": "The idea of a referee physically injuring a player under the guise of officiating is a shocking violation of trust."
+  },
+  {
+    "unique_id": "sports_0068_023_60aa6d6a1d09a51e",
+    "title": "The Businessman Who Sold 'Championship Mattresses' That Induced Paralysis During Sleep",
+    "hook": "Customers woke up unable to move—the foam released a nerve agent at night, turning 'deep sleep' into permanent muscle damage.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 40,
+    "estimated_short_retention": 89,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "paralysis mattress",
+      "nerve agent",
+      "product sabotage",
+      "recovery scam",
+      "sports fraud"
+    ],
+    "overlap_check_hash": "60aa6d6a1d09a51e",
+    "why_this_can_go_viral": "A horror-movie concept disguised as a legitimate product—extreme consumer betrayal that feels terrifyingly plausible."
+  },
+  {
+    "unique_id": "sports_0068_024_d119608d8a6da792",
+    "title": "The Psychologist Who Made an Entire Soccer Team Believe Their Coach Was a Spy",
+    "hook": "The players stopped listening to instructions, passed the ball to the wrong team, and lost six matches in a row—all because of one planted rumor.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 45,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "team sabotage",
+      "planted rumor",
+      "soccer psychologist",
+      "mind manipulation",
+      "coach spy"
+    ],
+    "overlap_check_hash": "d119608d8a6da792",
+    "why_this_can_go_viral": "Team-wide psychological collapse from a single whisper is a masterclass in manipulation—compelling and easy to retell."
+  }
+]

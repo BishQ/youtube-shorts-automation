@@ -1,0 +1,275 @@
+[
+  {
+    "unique_id": "tech_hackers_0120_001_d71bb506d2a8e61a",
+    "title": "The Dark Web Lab That Hacked Pacemakers to Stop Hearts Remotely",
+    "hook": "A hidden lab on the dark web was selling exploits that could turn any pacemaker into a kill switch from across the world.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 100,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "pacemaker hack",
+      "medical device exploit",
+      "remote kill",
+      "IoT assassination",
+      "dark web lab"
+    ],
+    "overlap_check_hash": "d71bb506d2a8e61a",
+    "why_this_can_go_viral": "Combines real fear of medical device hacking with pure evil — viewers will share out of shock and personal safety concern."
+  },
+  {
+    "unique_id": "tech_hackers_0120_007_9ce9d5bebd1cbb0e",
+    "title": "The Cyberwar Hack That Turned a Country's Power Plant Into a Bomb",
+    "hook": "By manipulating safety parameters remotely, hackers turned a nuclear reactor's cooling system into a ticking steam explosion.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 98,
+    "educational_value": 82,
+    "estimated_short_retention": 93,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "nuclear plant hack",
+      "steam explosion",
+      "safety system exploit",
+      "cyber sabotage",
+      "critical infrastructure"
+    ],
+    "overlap_check_hash": "9ce9d5bebd1cbb0e",
+    "why_this_can_go_viral": "Nuclear disaster fear is universal. The idea that code could cause a Chernobyl-level event will drive massive shares."
+  },
+  {
+    "unique_id": "tech_hackers_0120_008_fc618c8cb232fb85",
+    "title": "The Dark Web Marketplace That Sold Zero-Days to Anyone With Bitcoin",
+    "hook": "For as little as $5,000 in Bitcoin, you could buy a zero-day exploit to break into any Android phone on earth.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "zero-day marketplace",
+      "Android exploit",
+      "cyber weapon sale",
+      "dark web economy",
+      "Bitcoin crime"
+    ],
+    "overlap_check_hash": "fc618c8cb232fb85",
+    "why_this_can_go_viral": "The low price point — $5,000 for global access — is shocking and makes people realize how cheap their privacy is."
+  },
+  {
+    "unique_id": "tech_hackers_0120_010_8471af0f08975e23",
+    "title": "The Zero-Day That Hacked Your TV to Film You Through the Screen Reflection",
+    "hook": "A zero-day exploit used the glossy screen of smart TVs as a mirror to capture your image from across the room.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 86,
+    "educational_value": 74,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart TV spying",
+      "screen reflection hack",
+      "remote filming",
+      "visual exploit",
+      "home surveillance"
+    ],
+    "overlap_check_hash": "8471af0f08975e23",
+    "why_this_can_go_viral": "It's a clever, unexpected attack vector. People will look at their TV differently after watching."
+  },
+  {
+    "unique_id": "tech_hackers_0120_013_91f5c8f6379e9fa5",
+    "title": "The Surveillance System That Tracked Your Car's Vibration to Know When You Have Sex",
+    "hook": "A smart parking lot system used vibration sensors to detect 'suspicious activity' — including intimate moments in parked cars.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "vibration surveillance",
+      "car intimacy detection",
+      "parking lot spying",
+      "sensor abuse",
+      "privacy violation"
+    ],
+    "overlap_check_hash": "91f5c8f6379e9fa5",
+    "why_this_can_go_viral": "High shock and humor value mixed with outrage. Viewers will share because of the sheer awkwardness and overreach."
+  },
+  {
+    "unique_id": "tech_hackers_0120_017_7ad3e9a6ef4ba35a",
+    "title": "The Cyberwar History: The Hack That Made Enemy Soldiers See Ghosts",
+    "hook": "A nation-state used hacked AR displays on military helmets to project phantom figures onto the battlefield, causing mass panic.",
+    "virality_score": 91,
+    "curiosity_gap_score": 97,
+    "darkness_score": 94,
+    "educational_value": 76,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "AR warfare",
+      "phantom soldiers",
+      "helmet hack",
+      "psychological warfare",
+      "battlefield illusion"
+    ],
+    "overlap_check_hash": "7ad3e9a6ef4ba35a",
+    "why_this_can_go_viral": "Combines sci-fi horror with real military tech. The idea of fighting ghosts created by code is uniquely terrifying."
+  },
+  {
+    "unique_id": "tech_hackers_0120_018_ea9763d465addeba",
+    "title": "The Dark Web Lab That Hacked Smart Smoke Detectors to Fake House Fires",
+    "hook": "A lab sold a tool that triggered smart smoke alarms in hundreds of homes simultaneously, sending fire trucks on wild goose chases.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 81,
+    "educational_value": 73,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smoke detector hack",
+      "fake fire alarm",
+      "emergency service disruption",
+      "IoT weaponization",
+      "dark web tool"
+    ],
+    "overlap_check_hash": "ea9763d465addeba",
+    "why_this_can_go_viral": "High panic potential. Viewers will imagine their home filling with smoke they can't trust — a primal fear."
+  },
+  {
+    "unique_id": "tech_hackers_0120_019_f697caf9622303a5",
+    "title": "The AI That Hacked Your Electric Blanket to Overheat While You Slept",
+    "hook": "An AI exploit turned smart electric blankets into silent heaters that raised body temperature to dangerous levels overnight.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 71,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "electric blanket hack",
+      "overheating attack",
+      "sleep danger",
+      "IoT weaponization",
+      "home AI exploit"
+    ],
+    "overlap_check_hash": "f697caf9622303a5",
+    "why_this_can_go_viral": "Visceral and intimate — you're most vulnerable while sleeping. The idea of your bed turning against you is nightmare fuel."
+  },
+  {
+    "unique_id": "tech_hackers_0120_020_bb00f643aa5c1c9c",
+    "title": "The Surveillance System That Hacked Restroom Mirrors to Record Video",
+    "hook": "Smart mirrors in public restrooms were secretly sending video feeds to a private server — all hidden behind the reflective glass.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 92,
+    "educational_value": 68,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "smart mirror hack",
+      "restroom spying",
+      "hidden camera",
+      "public surveillance",
+      "glass exploit"
+    ],
+    "overlap_check_hash": "bb00f643aa5c1c9c",
+    "why_this_can_go_viral": "Invades ultimate private space. Outrage and voyeurism fear will drive massive shares and discussion."
+  },
+  {
+    "unique_id": "tech_hackers_0120_021_268e65317d5a281c",
+    "title": "The Nation-State Hack That Poisoned Online Maps to Send Soldiers Into Swamps",
+    "hook": "A state actor altered GPS map data for a military convoy, redirecting them into a marsh where vehicles got stuck and ambushed.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 91,
+    "educational_value": 79,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "GPS manipulation",
+      "map poisoning",
+      "military ambush",
+      "digital terrain attack",
+      "convoy sabotage"
+    ],
+    "overlap_check_hash": "268e65317d5a281c",
+    "why_this_can_go_viral": "Turns a trusted navigation tool into a weapon. Viewers will question every digital map they use."
+  },
+  {
+    "unique_id": "tech_hackers_0120_023_8debb7bfacaae847",
+    "title": "The Zero-Day That Hacked Your Vape Pen to Inhale Your Personal Data",
+    "hook": "A zero-day in smart vape pens let attackers siphon your contacts, messages, and location data through the device's Bluetooth.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 77,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "vape hack",
+      "Bluetooth exploit",
+      "personal data theft",
+      "IoT vaping",
+      "smart device attack"
+    ],
+    "overlap_check_hash": "8debb7bfacaae847",
+    "why_this_can_go_viral": "Relatable for millions of vapers. The absurd combination of vaping and hacking catches attention immediately."
+  },
+  {
+    "unique_id": "tech_hackers_0120_024_8eb3aa91ac5f7cfa",
+    "title": "The Social Engineer Who Hacked a Casino by Making Slot Machines 'Jackpot' on Command",
+    "hook": "He didn't hack the code — he hacked the technician's ego, convincing him to reveal the master reset code over a beer.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 74,
+    "educational_value": 80,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "casino exploit",
+      "slot machine hack",
+      "technician manipulation",
+      "jackpot trick",
+      "social engineering"
+    ],
+    "overlap_check_hash": "8eb3aa91ac5f7cfa",
+    "why_this_can_go_viral": "Combines the allure of casino heists with pure psychological manipulation. Viewers love the 'how did he do that?' factor."
+  },
+  {
+    "unique_id": "tech_hackers_0120_025_29ec711aa34f10b5",
+    "title": "The Cyberwar History: The Hack That Deleted a Country's Entire Tax Database",
+    "hook": "A single remote command erased a decade of tax records for an entire nation, collapsing its economy for months.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 93,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "tax database wipe",
+      "economic collapse",
+      "data deletion",
+      "national sabotage",
+      "cyberwar consequence"
+    ],
+    "overlap_check_hash": "29ec711aa34f10b5",
+    "why_this_can_go_viral": "High stakes, huge scale, and visceral real-world impact. The idea that a few keystrokes can cripple a country is terrifying."
+  }
+]

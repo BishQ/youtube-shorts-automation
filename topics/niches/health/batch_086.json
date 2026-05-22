@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "health_0086_001_f7b1143bf736deaf",
+    "title": "The Drug Company That Made Millions From a Placebo",
+    "hook": "What if the blockbuster drug millions rely on was just sugar pills dressed as medicine?",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "placebo",
+      "fake drug",
+      "pharma scam",
+      "sugar pill",
+      "corruption"
+    ],
+    "overlap_check_hash": "f7b1143bf736deaf",
+    "why_this_can_go_viral": "Exposes a massive fraud that affects millions, sparking outrage and disbelief."
+  },
+  {
+    "unique_id": "health_0086_003_34e09eeaab954e51",
+    "title": "The Toxic Antifreeze Ingredient Hiding in Your Ice Cream",
+    "hook": "That sweet, creamy scoop contains a chemical used to de-ice airplanes—and it's FDA-approved.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "antifreeze",
+      "ice cream",
+      "propylene glycol",
+      "food additive",
+      "FDA"
+    ],
+    "overlap_check_hash": "34e09eeaab954e51",
+    "why_this_can_go_viral": "Shock factor about everyday food, drives shares among health-conscious audiences."
+  },
+  {
+    "unique_id": "health_0086_004_85c320a744895542",
+    "title": "The Doctor Who Injected 100 Patients with Bee Venom to 'Cure' Cancer",
+    "hook": "He said it was a miracle cure, but the patients swelled up and died from anaphylaxis.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "bee venom",
+      "cancer cure",
+      "quack",
+      "patient deaths",
+      "alternative medicine"
+    ],
+    "overlap_check_hash": "85c320a744895542",
+    "why_this_can_go_viral": "Bizarre, horrifying, and visually grotesque—perfect for shock-reaction loops."
+  },
+  {
+    "unique_id": "health_0086_006_3acf6079d3c6e8f6",
+    "title": "The Suppressed $2 Drug That Reversed 90% of Lung Cancer in Mice",
+    "hook": "Big Pharma buried this cheap compound because it couldn't be patented.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "cancer cure",
+      "suppressed",
+      "big pharma",
+      "generic drug",
+      "mice study"
+    ],
+    "overlap_check_hash": "3acf6079d3c6e8f6",
+    "why_this_can_go_viral": "Taps into deep distrust of pharma and hope for cheap cures."
+  },
+  {
+    "unique_id": "health_0086_007_7164272d0b30bba0",
+    "title": "The Hospital That Let 50 Patients Die to Study 'Natural Death'",
+    "hook": "They had cures on hand, but the study protocol said: let them die naturally.",
+    "virality_score": 96,
+    "curiosity_gap_score": 99,
+    "darkness_score": 99,
+    "educational_value": 80,
+    "estimated_short_retention": 97,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "natural death",
+      "experiment",
+      "hospital scandal",
+      "ethics",
+      "negligence"
+    ],
+    "overlap_check_hash": "7164272d0b30bba0",
+    "why_this_can_go_viral": "Unthinkable betrayal of trust—will be shared with disbelief and horror."
+  },
+  {
+    "unique_id": "health_0086_008_3bcc9afb231b4d70",
+    "title": "The Toxic Sunscreen That Gave 1 in 10 Users Thyroid Cancer",
+    "hook": "You applied it to protect your skin, but it was silently destroying your thyroid.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "sunscreen",
+      "thyroid cancer",
+      "toxic",
+      "chemicals",
+      "cover-up"
+    ],
+    "overlap_check_hash": "3bcc9afb231b4d70",
+    "why_this_can_go_viral": "Summer product scare—drives massive fear-based sharing among beachgoers."
+  },
+  {
+    "unique_id": "health_0086_009_859dc59560271a7a",
+    "title": "The Doctor Who Diagnosed 500 Healthy Women With 'Hysteria' for Experiments",
+    "hook": "A single diagnosis label turned ordinary women into unwilling lab rats.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 75,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "hysteria",
+      "women",
+      "experiment",
+      "misdiagnosis",
+      "historical abuse"
+    ],
+    "overlap_check_hash": "859dc59560271a7a",
+    "why_this_can_go_viral": "Feminist outrage and historical horror combine for explosive engagement."
+  },
+  {
+    "unique_id": "health_0086_010_2f790b55f81e9157",
+    "title": "The Disease Cover-Up: How 'Heartburn' Was a Symptom of a Leaky Gas Stove",
+    "hook": "That burning chest feeling wasn't acid—it was carbon monoxide poisoning from your kitchen.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 76,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "heartburn",
+      "gas stove",
+      "carbon monoxide",
+      "misdiagnosis",
+      "cover-up"
+    ],
+    "overlap_check_hash": "2f790b55f81e9157",
+    "why_this_can_go_viral": "Relatable symptom redefined as environmental danger—drives home safety checks."
+  },
+  {
+    "unique_id": "health_0086_012_add386188382de6b",
+    "title": "The Pharmaceutical Company That Hired Actors to Fake Patient Testimonials",
+    "hook": "Those 'real people' who claimed the drug saved their lives—they were paid extras.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 79,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake testimonials",
+      "actors",
+      "pharma fraud",
+      "deception",
+      "marketing"
+    ],
+    "overlap_check_hash": "add386188382de6b",
+    "why_this_can_go_viral": "Revealing the staged nature of drug ads triggers outrage and calls for regulation."
+  },
+  {
+    "unique_id": "health_0086_013_4b519b3b937a5e37",
+    "title": "The Experiment That Left 30 Men Paralyzed to Test a New Vaccine",
+    "hook": "The scientists knew the risk, but injected the virus anyway, just to see what would happen.",
+    "virality_score": 97,
+    "curiosity_gap_score": 99,
+    "darkness_score": 99,
+    "educational_value": 90,
+    "estimated_short_retention": 98,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "paralysis",
+      "vaccine experiment",
+      "unethical",
+      "men",
+      "polio"
+    ],
+    "overlap_check_hash": "4b519b3b937a5e37",
+    "why_this_can_go_viral": "Extreme suffering and deliberate harm—viral due to sheer abhorrence."
+  },
+  {
+    "unique_id": "health_0086_014_3d01a780f9600516",
+    "title": "The Hospital That Charged Families for Cremation of Patients Who Were Still Alive",
+    "hook": "They billed for funeral services before the patient even stopped breathing.",
+    "virality_score": 94,
+    "curiosity_gap_score": 98,
+    "darkness_score": 96,
+    "educational_value": 70,
+    "estimated_short_retention": 95,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "billing fraud",
+      "cremation",
+      "alive",
+      "hospital crime",
+      "families"
+    ],
+    "overlap_check_hash": "3d01a780f9600516",
+    "why_this_can_go_viral": "Unbelievable greed and callousness, perfect for shareable anger."
+  },
+  {
+    "unique_id": "health_0086_015_6b2be6e577a72f8e",
+    "title": "The Toxic Cookware Coating That Caused 1 in 50 Users to Develop Liver Disease",
+    "hook": "Non-stick pans made your cooking easier, but your liver had to pay the price.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 81,
+    "educational_value": 83,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "cookware",
+      "liver disease",
+      "non-stick",
+      "Teflon",
+      "chemicals"
+    ],
+    "overlap_check_hash": "6b2be6e577a72f8e",
+    "why_this_can_go_viral": "Household item turned silent killer—drives kitchen panic and shares."
+  },
+  {
+    "unique_id": "health_0086_016_68cbaffe6785b7b0",
+    "title": "The Disease Cover-Up: How 'ADHD' Was a Symptom of Wi-Fi Radiation",
+    "hook": "Your child's inability to focus wasn't a disorder—it was an invisible frequency disrupting their brain.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 74,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "ADHD",
+      "Wi-Fi",
+      "radiation",
+      "children",
+      "environmental cause"
+    ],
+    "overlap_check_hash": "68cbaffe6785b7b0",
+    "why_this_can_go_viral": "Controversial angle on a common diagnosis—sparks debate and parental concern."
+  },
+  {
+    "unique_id": "health_0086_017_e4984aea1789ec8c",
+    "title": "The Doctor Who Operated on Patients While High on Their Own Drugs",
+    "hook": "He was hallucinating during surgery, but the scalpel never stopped moving.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "surgeon",
+      "drugs",
+      "operating",
+      "high",
+      "patient safety"
+    ],
+    "overlap_check_hash": "e4984aea1789ec8c",
+    "why_this_can_go_viral": "Bizarre, shocking, and deeply unsettling—guarantees high completion rate."
+  },
+  {
+    "unique_id": "health_0086_018_c91e8518ee77f331",
+    "title": "The Suppressed $4 Cream That Healed 70% of Third-Degree Burns",
+    "hook": "A topical ointment cheaper than a sandwich could have saved thousands from scarring—but it was banned.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 77,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "burn cream",
+      "cheap cure",
+      "suppressed",
+      "scarring",
+      "pharma"
+    ],
+    "overlap_check_hash": "c91e8518ee77f331",
+    "why_this_can_go_viral": "Combines the injustice of suppression with a clear, tangible benefit."
+  },
+  {
+    "unique_id": "health_0086_021_4de2ba6af03bc446",
+    "title": "The Toxic Laundry Detergent That Caused 1 in 100 Users to Develop Chemical Burns",
+    "hook": "Your clothes came out clean, but your skin was being stripped raw by a hidden acid.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "detergent",
+      "chemical burns",
+      "toxic",
+      "skin damage",
+      "cover-up"
+    ],
+    "overlap_check_hash": "4de2ba6af03bc446",
+    "why_this_can_go_viral": "Everyday product causing physical harm—drives household product checks."
+  },
+  {
+    "unique_id": "health_0086_022_19dde479e7eaaf70",
+    "title": "The Disease Cover-Up: How 'Psoriasis' Was Actually an Allergic Reaction to a Common Food Dye",
+    "hook": "That red, flaky skin wasn't autoimmune—it was a chemical dye in your favorite snacks.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 72,
+    "educational_value": 84,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "psoriasis",
+      "food dye",
+      "allergy",
+      "misdiagnosis",
+      "diet"
+    ],
+    "overlap_check_hash": "19dde479e7eaaf70",
+    "why_this_can_go_viral": "Offers hope to sufferers while exposing corporate food manipulation."
+  },
+  {
+    "unique_id": "health_0086_024_2336441fedfaa423",
+    "title": "The Doctor Who Implanted 200 Patients with Unapproved Devices for 'Research'",
+    "hook": "He told them it was cutting-edge tech, but the devices had never been tested on humans.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 94,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "implant",
+      "unapproved",
+      "research",
+      "patients",
+      "medical device"
+    ],
+    "overlap_check_hash": "2336441fedfaa423",
+    "why_this_can_go_viral": "Body horror combined with unethical science—perfect for dark curiosity."
+  },
+  {
+    "unique_id": "health_0086_025_c59b748773be1dd9",
+    "title": "The Suppressed $7 Mineral That Reversed 80% of Chronic Pain Cases",
+    "hook": "Big Pharma buried this natural compound because a single bottle cost less than one pill of their painkiller.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 81,
+    "educational_value": 79,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "chronic pain",
+      "mineral",
+      "natural cure",
+      "suppressed",
+      "pharma"
+    ],
+    "overlap_check_hash": "c59b748773be1dd9",
+    "why_this_can_go_viral": "Taps into chronic pain community's desperation and anti-pharma sentiment."
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "cults_0030_001_87f3b4a271073175",
+    "title": "The Cult That Harvested Members' Pineal Glands",
+    "hook": "They believed the third eye was a physical organ—so they cut it out.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "cults",
+    "subcategory": "cult crimes",
+    "keywords": [
+      "pineal gland",
+      "organ harvesting",
+      "cult surgery",
+      "third eye",
+      "body mutilation"
+    ],
+    "overlap_check_hash": "87f3b4a271073175",
+    "why_this_can_go_viral": "Combines pseudoscience with extreme body horror, triggering both disgust and morbid curiosity."
+  },
+  {
+    "unique_id": "cults_0030_002_406e190db25ff94a",
+    "title": "The Leader Who Made Followers Forget Their Own Names",
+    "hook": "Before joining, every member submitted to a procedure that erased their identity—starting with their name.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "cults",
+    "subcategory": "identity destruction methods",
+    "keywords": [
+      "identity erasure",
+      "name replacement",
+      "cult brainwashing",
+      "memory loss",
+      "selfhood destruction"
+    ],
+    "overlap_check_hash": "406e190db25ff94a",
+    "why_this_can_go_viral": "Plays on the universal fear of losing oneself, a core psychological horror."
+  },
+  {
+    "unique_id": "cults_0030_003_fd444b055671808c",
+    "title": "The Mass Suicide Where They Drank Liquid Light",
+    "hook": "The leader convinced 300 followers that swallowing a glowing chemical would turn them into immortal beings.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 68,
+    "estimated_short_retention": 92,
+    "niche_name": "cults",
+    "subcategory": "mass suicide psychology",
+    "keywords": [
+      "mass suicide",
+      "liquid light",
+      "chemical poisoning",
+      "immortality promise",
+      "cult ritual"
+    ],
+    "overlap_check_hash": "fd444b055671808c",
+    "why_this_can_go_viral": "Visually striking premise with a 'did this really happen?' hook that drives searches."
+  },
+  {
+    "unique_id": "cults_0030_004_2e62fd7e5dd83621",
+    "title": "The Online Cult That Tracked Your Sleep to Gauge Loyalty",
+    "hook": "Miss one night of sleep? The algorithm flagged you as a potential traitor.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "cults",
+    "subcategory": "online cult radicalization",
+    "keywords": [
+      "sleep tracking",
+      "digital surveillance",
+      "online cult",
+      "algorithmic control",
+      "loyalty scoring"
+    ],
+    "overlap_check_hash": "2e62fd7e5dd83621",
+    "why_this_can_go_viral": "Relatable tech anxiety combined with cult dynamics feels disturbingly plausible."
+  },
+  {
+    "unique_id": "cults_0030_005_7fe2400071a6f8e2",
+    "title": "The Escape Who Fled by Faking Her Own Decomposition",
+    "hook": "She coated herself in a chemical that made her smell dead for three days—the guards wouldn't touch her.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "cults",
+    "subcategory": "escaping cults",
+    "keywords": [
+      "cult escape",
+      "faking death",
+      "decomposition smell",
+      "chemical defense",
+      "survival tactic"
+    ],
+    "overlap_check_hash": "7fe2400071a6f8e2",
+    "why_this_can_go_viral": "Extreme survival story with a visceral, unforgettable detail that begs retelling."
+  },
+  {
+    "unique_id": "cults_0030_006_433acb5cb05b9d2b",
+    "title": "The Cult Doctor Who 'Cured' Free Will by Lesioning the Prefrontal Cortex",
+    "hook": "He called it a 'personality alignment surgery'—patients left without the ability to say no.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 78,
+    "estimated_short_retention": 93,
+    "niche_name": "cults",
+    "subcategory": "brainwashing techniques",
+    "keywords": [
+      "prefrontal cortex",
+      "lobotomy",
+      "free will destruction",
+      "cult doctor",
+      "forced surgery"
+    ],
+    "overlap_check_hash": "433acb5cb05b9d2b",
+    "why_this_can_go_viral": "Merges medical horror with philosophical dread about autonomy and consent."
+  },
+  {
+    "unique_id": "cults_0030_007_3ec4079d6231b439",
+    "title": "The Cult That Made Members Donate Their Saliva—For a 'Truth Pool'",
+    "hook": "They believed lies left a chemical trace in spit—so they built a pool to 'purify' it.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 80,
+    "educational_value": 60,
+    "estimated_short_retention": 78,
+    "niche_name": "cults",
+    "subcategory": "financial cult exploitation",
+    "keywords": [
+      "saliva donation",
+      "truth ritual",
+      "cult financial scam",
+      "body fluid",
+      "pseudoscience"
+    ],
+    "overlap_check_hash": "3ec4079d6231b439",
+    "why_this_can_go_viral": "Bizarre pseudo-scientific premise that sounds too strange to be true, driving shares."
+  },
+  {
+    "unique_id": "cults_0030_008_352712bc870d86f9",
+    "title": "The Leader Who Programmed Followers to Wake at 3:33 AM Every Night",
+    "hook": "He called it 'the hour of soul alignment'—but it was actually a sleep deprivation control technique.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "cults",
+    "subcategory": "cult leader manipulation",
+    "keywords": [
+      "sleep deprivation",
+      "3 am ritual",
+      "mind control",
+      "subliminal programming",
+      "behavioral conditioning"
+    ],
+    "overlap_check_hash": "352712bc870d86f9",
+    "why_this_can_go_viral": "Relatable sleep disruption combined with manipulation reveals a hidden mechanism."
+  },
+  {
+    "unique_id": "cults_0030_011_7f08319dd07bcf7e",
+    "title": "The Cult Doctor Who 'Cured' Sadness by Severing the Optic Nerve",
+    "hook": "He believed if you couldn't see the world's suffering, you couldn't feel it.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 74,
+    "estimated_short_retention": 88,
+    "niche_name": "cults",
+    "subcategory": "brainwashing techniques",
+    "keywords": [
+      "optic nerve",
+      "blindness treatment",
+      "cult surgery",
+      "emotional control",
+      "sensory deprivation"
+    ],
+    "overlap_check_hash": "7f08319dd07bcf7e",
+    "why_this_can_go_viral": "Disturbing medical logic that feels both absurd and terrifyingly plausible."
+  },
+  {
+    "unique_id": "cults_0030_014_93ffd0fec5f7320b",
+    "title": "The Cult That Made Members Donate Their Blood—To a 'Collective Pulse'",
+    "hook": "Every month, they drained a pint from each member and mixed it in a vat they called 'the heartbeat of the group.'",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 66,
+    "estimated_short_retention": 86,
+    "niche_name": "cults",
+    "subcategory": "financial cult exploitation",
+    "keywords": [
+      "blood donation",
+      "collective pulse",
+      "cult ritual",
+      "blood vat",
+      "group identity"
+    ],
+    "overlap_check_hash": "93ffd0fec5f7320b",
+    "why_this_can_go_viral": "Visceral body horror with a 'what happened to that blood?' mystery hook."
+  },
+  {
+    "unique_id": "cults_0030_018_bab0f22a67bdbdc3",
+    "title": "The Escape Who Fled by Replacing the Cult's Tracking Chip With a Grain of Rice",
+    "hook": "She used a needle to swap the RFID chip under her skin with a grain soaked in iodine—the scanner read it as 'active.'",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 76,
+    "educational_value": 68,
+    "estimated_short_retention": 83,
+    "niche_name": "cults",
+    "subcategory": "escaping cults",
+    "keywords": [
+      "RFID chip",
+      "tracking removal",
+      "cult escape",
+      "improvised trick",
+      "microchip implant"
+    ],
+    "overlap_check_hash": "bab0f22a67bdbdc3",
+    "why_this_can_go_viral": "Ingenious low-tech hack against high-tech surveillance appeals to maker and survival audiences."
+  },
+  {
+    "unique_id": "cults_0030_019_fc6d1cf175c1c245",
+    "title": "The Leader Who Made Followers Donate Their Baby Teeth—To a 'Milky Way Archive'",
+    "hook": "He claimed teeth contained 'ancestral memories'—and used the DNA to forge genealogies that kept members trapped.",
+    "virality_score": 77,
+    "curiosity_gap_score": 82,
+    "darkness_score": 79,
+    "educational_value": 72,
+    "estimated_short_retention": 78,
+    "niche_name": "cults",
+    "subcategory": "cult leader manipulation",
+    "keywords": [
+      "baby teeth",
+      "DNA archive",
+      "genealogy fraud",
+      "ancestral control",
+      "cult manipulation"
+    ],
+    "overlap_check_hash": "fc6d1cf175c1c245",
+    "why_this_can_go_viral": "Weird and unsettling premise that feels like a cult horror movie."
+  },
+  {
+    "unique_id": "cults_0030_020_b061cbb25b08f0b9",
+    "title": "The Cult That Made Members Donate Their Digestive Bacteria—To a 'Gut of Unity'",
+    "hook": "They believed sharing gut flora created a spiritual bond—actually it caused a outbreak that killed eight people.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "cults",
+    "subcategory": "cult crimes",
+    "keywords": [
+      "gut bacteria",
+      "fecal transplant",
+      "cult outbreak",
+      "infection",
+      "biomedical horror"
+    ],
+    "overlap_check_hash": "b061cbb25b08f0b9",
+    "why_this_can_go_viral": "Combines trendy microbiome science with a deadly outcome."
+  },
+  {
+    "unique_id": "cults_0030_021_67db5c4cfdf0e739",
+    "title": "The Mass Suicide Where the Leader Said 'Your Fat Will Fuel My Lamps'",
+    "hook": "The bodies were found drained of fat—rendered into oil that burned in the leader's private chambers for months.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 99,
+    "educational_value": 73,
+    "estimated_short_retention": 96,
+    "niche_name": "cults",
+    "subcategory": "mass suicide psychology",
+    "keywords": [
+      "body rendering",
+      "fat oil",
+      "human lamps",
+      "mass suicide",
+      "biofuel horror"
+    ],
+    "overlap_check_hash": "67db5c4cfdf0e739",
+    "why_this_can_go_viral": "Extreme shock value that triggers both disgust and disbelief—high shareability."
+  },
+  {
+    "unique_id": "cults_0030_022_e3b29f91c2cf13b7",
+    "title": "The Online Cult That Made You 'Donate' Your Browser History—To a 'Soul Scan'",
+    "hook": "They said your search history revealed your sins—then used it for blackmail to prevent leaving.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 86,
+    "educational_value": 80,
+    "estimated_short_retention": 86,
+    "niche_name": "cults",
+    "subcategory": "online cult radicalization",
+    "keywords": [
+      "browser history",
+      "digital blackmail",
+      "online cult",
+      "soul scan",
+      "privacy violation"
+    ],
+    "overlap_check_hash": "e3b29f91c2cf13b7",
+    "why_this_can_go_viral": "Combines everyday digital behavior with terrifying real-world consequences."
+  },
+  {
+    "unique_id": "cults_0030_023_e5a6dbef227cb54d",
+    "title": "The Cult Doctor Who 'Cured' Jealousy by Damaging the Amygdala",
+    "hook": "Patients stopped feeling jealousy—but also stopped recognizing their own spouses.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 82,
+    "estimated_short_retention": 89,
+    "niche_name": "cults",
+    "subcategory": "identity destruction methods",
+    "keywords": [
+      "amygdala damage",
+      "jealousy cure",
+      "cult surgery",
+      "emotional destruction",
+      "identity loss"
+    ],
+    "overlap_check_hash": "e5a6dbef227cb54d",
+    "why_this_can_go_viral": "High medical horror with a tragic emotional side effect that sticks with viewers."
+  },
+  {
+    "unique_id": "cults_0030_024_1430c234fc71be65",
+    "title": "The Escape Who Fled by Replacing the Cult's 'Holy Water' With Distilled Vinegar",
+    "hook": "The cult's daily purification ritual became a slow acid burn—she used the chaos to slip through the fence.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 77,
+    "educational_value": 60,
+    "estimated_short_retention": 81,
+    "niche_name": "cults",
+    "subcategory": "escaping cults",
+    "keywords": [
+      "holy water",
+      "vinegar swap",
+      "cult escape",
+      "chemical burn",
+      "ritual disruption"
+    ],
+    "overlap_check_hash": "1430c234fc71be65",
+    "why_this_can_go_viral": "Creative sabotage story with a visceral, almost funny outcome."
+  }
+]

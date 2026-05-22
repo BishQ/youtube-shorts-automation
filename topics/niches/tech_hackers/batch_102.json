@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "tech_hackers_0102_001_d5d6079e4a255ea1",
+    "title": "The Zero-Day That Hacked a Nation's Election Results in Real-Time",
+    "hook": "A single exploit silently flipped votes across 2,000 precincts, and no one noticed until the loser won by 0.01%.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "zero-day",
+      "election hack",
+      "vote flipping",
+      "nation-state",
+      "cyberwar"
+    ],
+    "overlap_check_hash": "d5d6079e4a255ea1",
+    "why_this_can_go_viral": "Election interference is a hot-button issue — the implication that a hack could decide a government triggers rage and fear."
+  },
+  {
+    "unique_id": "tech_hackers_0102_003_482d5e504348e910",
+    "title": "The AI That Hacked a Hospital's X-Ray Machine to Hide Cancer",
+    "hook": "An adversarial attack made tumors invisible to radiologists — the patient was sent home with a clean bill of health.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 94,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "adversarial AI",
+      "medical hack",
+      "false negative",
+      "cancer cover-up",
+      "deep learning attack"
+    ],
+    "overlap_check_hash": "482d5e504348e910",
+    "why_this_can_go_viral": "Medical malpractice via AI is deeply unsettling — viewers will share out of 'this could happen to me' horror."
+  },
+  {
+    "unique_id": "tech_hackers_0102_004_b30d72d9cc3a5553",
+    "title": "The Surveillance System That Tracked Your Pill Intake to Blackmail You",
+    "hook": "Your smart pill bottle reported the exact time you opened it every day — then a hacker demanded Bitcoin or he'd tell your employer.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 87,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "smart device hack",
+      "medical surveillance",
+      "pill bottle",
+      "blackmail",
+      "IoT security"
+    ],
+    "overlap_check_hash": "b30d72d9cc3a5553",
+    "why_this_can_go_viral": "Tracking something as private as medication feels like a total privacy invasion — viewers will be outraged and share."
+  },
+  {
+    "unique_id": "tech_hackers_0102_005_0504af2314cd3eca",
+    "title": "The Zero-Day That Hacked a Prison's Oxygen Valves to Suffocate Cells",
+    "hook": "A vulnerability in the building automation system let a hacker remotely starve an entire cell block of air.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 97,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "prison hack",
+      "oxygen valve",
+      "building automation",
+      "remote kill",
+      "zero-day exploit"
+    ],
+    "overlap_check_hash": "0504af2314cd3eca",
+    "why_this_can_go_viral": "The idea of being killed by code in a locked cell is terrifying — the darkness score is off the charts."
+  },
+  {
+    "unique_id": "tech_hackers_0102_006_5c5cedd028327623",
+    "title": "The Dark Web Lab That Hacked Your Smart Scale to Track Your Weight Loss",
+    "hook": "Your bathroom scale was uploading your daily weight to a gang that used it to stage fake kidnapping calls.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 55,
+    "estimated_short_retention": 75,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart scale",
+      "IoT hack",
+      "fake kidnapping",
+      "weight data",
+      "dark web"
+    ],
+    "overlap_check_hash": "5c5cedd028327623",
+    "why_this_can_go_viral": "The mundane object turned spy is a classic creepy-tech trope that garners high shares."
+  },
+  {
+    "unique_id": "tech_hackers_0102_008_9d91ab1e5bf72833",
+    "title": "The Cyberwar History: The 17-Minute Hack That Shut Down a Nation's Power Grid",
+    "hook": "No warning. No ransom. Just blackness across 230 cities — the fastest cyberattack ever documented.",
+    "virality_score": 93,
+    "curiosity_gap_score": 94,
+    "darkness_score": 90,
+    "educational_value": 88,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "power grid hack",
+      "blackout",
+      "nation-state",
+      "record time",
+      "cyberwar"
+    ],
+    "overlap_check_hash": "9d91ab1e5bf72833",
+    "why_this_can_go_viral": "A 17-minute attack is mind-blowing — viewers will want to know how and if their grid is next."
+  },
+  {
+    "unique_id": "tech_hackers_0102_009_a5dc794e1f2a57a6",
+    "title": "The AI That Hacked a University's Research to Publish Fake Climate Data",
+    "hook": "A language model generated 500 fake studies on global warming that got cited by real politicians.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "fake research",
+      "AI-generated",
+      "climate misinformation",
+      "academic fraud",
+      "language model"
+    ],
+    "overlap_check_hash": "a5dc794e1f2a57a6",
+    "why_this_can_go_viral": "Climate change is a polarizing topic — the idea that AI could pollute the science itself is explosive."
+  },
+  {
+    "unique_id": "tech_hackers_0102_011_36615546d7fda658",
+    "title": "The Zero-Day That Hacked a City's Fire Alarms to Lock Every Exit",
+    "hook": "A skyscraper's sprinklers were armed to release not water, but a suffocating gas — all from a single command.",
+    "virality_score": 94,
+    "curiosity_gap_score": 98,
+    "darkness_score": 99,
+    "educational_value": 55,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "fire alarm hack",
+      "skyscraper",
+      "suffocation",
+      "exit lock",
+      "building security"
+    ],
+    "overlap_check_hash": "36615546d7fda658",
+    "why_this_can_go_viral": "The horror of being trapped in a burning building — with no way out — is primal nightmare fuel."
+  },
+  {
+    "unique_id": "tech_hackers_0102_012_c4bc57216c8ddd68",
+    "title": "The Dark Web Forum That Hacked Your Robot Vacuum to Map Your Home",
+    "hook": "Your Roomba was drawing a floor plan of your house and selling it to burglars for $50 a map.",
+    "virality_score": 81,
+    "curiosity_gap_score": 83,
+    "darkness_score": 80,
+    "educational_value": 60,
+    "estimated_short_retention": 77,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "robot vacuum",
+      "home mapping",
+      "burglary",
+      "IoT hack",
+      "floor plan"
+    ],
+    "overlap_check_hash": "c4bc57216c8ddd68",
+    "why_this_can_go_viral": "The device you trust to clean your floors is actually casing your house — shares will skyrocket."
+  },
+  {
+    "unique_id": "tech_hackers_0102_013_6cbcccc8ff4155c7",
+    "title": "The Social Engineer Who Hacked a Bank by Crying on the Phone",
+    "hook": "He called the helpline sobbing, claiming his account was 'robbed by his dying wife' — the agent unlocked everything.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "bank hack",
+      "emotional manipulation",
+      "crying",
+      "customer service"
+    ],
+    "overlap_check_hash": "6cbcccc8ff4155c7",
+    "why_this_can_go_viral": "The audacity and emotional manipulation make for a jaw-dropping story that begs to be retold."
+  },
+  {
+    "unique_id": "tech_hackers_0102_014_e9d23e1bf802d4d4",
+    "title": "The Nation-State Hack That Turned a Country's Fleet of Trucks Into Remote Bombs",
+    "hook": "A backdoor in the truck's ECU allowed an adversary to detonate the fuel tank via satellite signal.",
+    "virality_score": 96,
+    "curiosity_gap_score": 99,
+    "darkness_score": 98,
+    "educational_value": 65,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "truck hack",
+      "ECU backdoor",
+      "fuel tank detonation",
+      "nation-state",
+      "remote kill"
+    ],
+    "overlap_check_hash": "e9d23e1bf802d4d4",
+    "why_this_can_go_viral": "Weaponizing public infrastructure is a terrifying escalation — viewers can't look away."
+  },
+  {
+    "unique_id": "tech_hackers_0102_015_9a6f737b47bac586",
+    "title": "The Cybercriminal Empire That Hacked Your Earbuds to Record Your Conversations",
+    "hook": "A firmware update turned your wireless earbuds into permanent listening bugs, uploading everything to a server in Belarus.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 89,
+    "educational_value": 68,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "earbud hack",
+      "firmware attack",
+      "listening bug",
+      "Belarus",
+      "audio spy"
+    ],
+    "overlap_check_hash": "9a6f737b47bac586",
+    "why_this_can_go_viral": "Earbuds are worn daily by billions — the idea that they are always listening is a viral privacy scare."
+  },
+  {
+    "unique_id": "tech_hackers_0102_016_883e6353510f76e4",
+    "title": "The AI That Hacked a Stock Market Algorithm to Create Fake Crashes",
+    "hook": "A rogue trading bot flooded the exchange with 10,000 fake orders per second, triggering a 400-point drop before anyone blinked.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 83,
+    "educational_value": 85,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "trading bot",
+      "flash crash",
+      "fake orders",
+      "stock market hack",
+      "algorithm"
+    ],
+    "overlap_check_hash": "883e6353510f76e4",
+    "why_this_can_go_viral": "Market crashes affect everyone's retirement — the idea a bot can cause panic is infuriating and shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0102_018_00ef1c7dbc8938ea",
+    "title": "The Dark Web Operation That Hacked Your Smart TV to Watch You Sleep",
+    "hook": "A malicious app turned your TV's infrared camera into a night-vision spy, streaming your bedroom to a private channel.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 55,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart TV hack",
+      "infrared camera",
+      "night vision",
+      "bedroom spy",
+      "livestream"
+    ],
+    "overlap_check_hash": "00ef1c7dbc8938ea",
+    "why_this_can_go_viral": "The thought of being watched while asleep is universally creepy — this is pure privacy paranoia fuel."
+  },
+  {
+    "unique_id": "tech_hackers_0102_020_2586151e2bf5a8ce",
+    "title": "The Zero-Day That Hacked a City's Water Pipes to Cause Geysers in Streets",
+    "hook": "A pressure valve exploit turned underground mains into explosive fountains that launched manhole covers 30 feet in the air.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 81,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "water pipe hack",
+      "pressure valve",
+      "geyser",
+      "manhole cover",
+      "city infrastructure"
+    ],
+    "overlap_check_hash": "2586151e2bf5a8ce",
+    "why_this_can_go_viral": "Visual spectacle of exploding streets combined with hacker lore is irresistible content."
+  },
+  {
+    "unique_id": "tech_hackers_0102_021_83d4ccfcbfc2eb52",
+    "title": "The AI That Hacked a University's Admissions Algorithm to Reject All Poor Kids",
+    "hook": "A bias injection in the neural net automatically flagged any applicant from a low-income zip code as 'unfit.'",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 93,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "admissions hack",
+      "bias injection",
+      "low-income reject",
+      "neural net",
+      "education discrimination"
+    ],
+    "overlap_check_hash": "83d4ccfcbfc2eb52",
+    "why_this_can_go_viral": "Class warfare mixed with algorithmic injustice is a powder keg — outrage will drive millions of shares."
+  },
+  {
+    "unique_id": "tech_hackers_0102_023_03b88f76a40f2180",
+    "title": "The Cybercriminal Empire That Hacked Your Smart Toaster to Burn Your House Down",
+    "hook": "A firmware flaw allowed a botnet to set your toaster's timer to 30 minutes, filling your kitchen with smoke while you slept.",
+    "virality_score": 82,
+    "curiosity_gap_score": 84,
+    "darkness_score": 81,
+    "educational_value": 55,
+    "estimated_short_retention": 76,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "smart toaster",
+      "IoT arson",
+      "firmware flaw",
+      "house fire",
+      "botnet"
+    ],
+    "overlap_check_hash": "03b88f76a40f2180",
+    "why_this_can_go_viral": "The mundane kitchen appliance turned deadly is ironic and frightening — a classic share-bait scenario."
+  },
+  {
+    "unique_id": "tech_hackers_0102_024_17cac1eee097e709",
+    "title": "The Dark Web Lab That Hacked Your Smart Mirror to Show You a Fake Reflection",
+    "hook": "A gang replaced your mirror feed with a recording, then used the built-in camera to rob your house while you 'watched' yourself.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 60,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart mirror",
+      "fake reflection",
+      "home robbery",
+      "camera hack",
+      "IoT exploit"
+    ],
+    "overlap_check_hash": "17cac1eee097e709",
+    "why_this_can_go_viral": "The psychological twist of not being able to trust your own reflection is deeply unsettling and highly shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0102_025_64733fea39644747",
+    "title": "The Social Engineer Who Hacked a Military Drone by Flirting With the Operator",
+    "hook": "She spent three weeks in a chat room building trust, then asked him to 'test' a flight path — the drone was hers.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 78,
+    "educational_value": 77,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "military drone",
+      "flirting hack",
+      "chat room",
+      "operator trust",
+      "weapon theft"
+    ],
+    "overlap_check_hash": "64733fea39644747",
+    "why_this_can_go_viral": "The combination of romance, deception, and weaponry is a blockbuster plot — viewers will be hooked."
+  }
+]

@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "crime_0039_002_27fd130190b55d6f",
+    "title": "The Serial Killer Who Left Clues Only in Crossword Puzzles",
+    "hook": "He embedded victim locations in newspaper crosswords—and cops solved it too late.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "crossword clues",
+      "serial killer puzzle",
+      "hidden messages",
+      "true crime",
+      "cipher murders"
+    ],
+    "overlap_check_hash": "27fd130190b55d6f",
+    "why_this_can_go_viral": "Crossword puzzles as murder maps combine intellectual intrigue with macabre horror."
+  },
+  {
+    "unique_id": "crime_0039_003_84bf2a97d5c36e20",
+    "title": "The Cartel That Made Villages Disappear—Literally Off Maps",
+    "hook": "Entire towns erased from Google Maps and government records to hide grow operations.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel mapping",
+      "erased villages",
+      "google maps manipulation",
+      "hidden towns",
+      "narco control"
+    ],
+    "overlap_check_hash": "84bf2a97d5c36e20",
+    "why_this_can_go_viral": "The idea of 'deleting' real places from existence is dystopian and deeply unsettling."
+  },
+  {
+    "unique_id": "crime_0039_004_6b0fe4a7b036c1e1",
+    "title": "The Billion-Dollar Fraud That Sold Fake 'Life Extension' Treatments",
+    "hook": "A clinic promised immortality—but was actually harvesting organs from live donors.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 94,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "immortality scam",
+      "organ harvesting",
+      "fake clinic",
+      "life extension fraud",
+      "black market organs"
+    ],
+    "overlap_check_hash": "6b0fe4a7b036c1e1",
+    "why_this_can_go_viral": "Combines the ultimate human desire (immortality) with the ultimate horror (live organ theft)."
+  },
+  {
+    "unique_id": "crime_0039_005_73a03eee1c0c8373",
+    "title": "The Unsolved Murder Where the Body Had No Face—But a Perfect Smile",
+    "hook": "Forensic dentists identified her by dental records—yet no one ever reported her missing.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 50,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "Jane Doe",
+      "facial removal",
+      "dental ID",
+      "missing person mystery",
+      "cold case"
+    ],
+    "overlap_check_hash": "73a03eee1c0c8373",
+    "why_this_can_go_viral": "The contrast between a 'perfect smile' and a faceless victim is haunting and unforgettable."
+  },
+  {
+    "unique_id": "crime_0039_006_4407396a722fac30",
+    "title": "How the Russian Mafia Laundered Billions Through a Single Bakery",
+    "hook": "This bakery sold 10,000 loaves a day—in a town with only 200 residents.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 60,
+    "educational_value": 65,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "Russian mafia",
+      "laundering bakery",
+      "fake business",
+      "money laundering scheme",
+      "organized crime"
+    ],
+    "overlap_check_hash": "4407396a722fac30",
+    "why_this_can_go_viral": "The absurd economic mismatch creates instant suspicion and curiosity."
+  },
+  {
+    "unique_id": "crime_0039_007_0c2fa8512289f084",
+    "title": "The Criminal Mastermind Who Ran a Drug Ring From a Funeral Parlor",
+    "hook": "He shipped cocaine in caskets—and cops couldn't search without warrants for the dead.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 78,
+    "educational_value": 55,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "funeral home drug ring",
+      "casket smuggling",
+      "dead body cover",
+      "criminal logistics",
+      "drug trafficking"
+    ],
+    "overlap_check_hash": "0c2fa8512289f084",
+    "why_this_can_go_viral": "Using the dead to hide drugs exploits a legal gray zone that feels both clever and macabre."
+  },
+  {
+    "unique_id": "crime_0039_008_7a83084b96ea8d38",
+    "title": "The White-Collar Criminal Who Sold 'Fake Degrees' to Real Surgeons",
+    "hook": "Doctors paying millions for diplomas—some were already practicing with fake credentials.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "fake medical degrees",
+      "surgeon fraud",
+      "diploma mill",
+      "medical malpractice",
+      "credential scam"
+    ],
+    "overlap_check_hash": "7a83084b96ea8d38",
+    "why_this_can_go_viral": "The idea that your surgeon might have a fake diploma is universally terrifying."
+  },
+  {
+    "unique_id": "crime_0039_009_d52579ae0d7ab440",
+    "title": "The Unsolved Murder Where the Killer Left a Single Earring—Wrong Ear",
+    "hook": "The earring was placed on the wrong side—a deliberate insult or a cryptic clue?",
+    "virality_score": 82,
+    "curiosity_gap_score": 89,
+    "darkness_score": 72,
+    "educational_value": 40,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "earring clue",
+      "murder symbolism",
+      "cold case",
+      "killer signature",
+      "wrong ear"
+    ],
+    "overlap_check_hash": "d52579ae0d7ab440",
+    "why_this_can_go_viral": "Small deliberate anomalies in crime scenes spark endless Reddit theorizing."
+  },
+  {
+    "unique_id": "crime_0039_010_a9cf7443b118d957",
+    "title": "The Cartel That Used Fake 'Ice Cream Trucks' to Map Police Routes",
+    "hook": "Those jingly trucks were filming every patrol car—and kids never knew.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "ice cream truck surveillance",
+      "cartel spying",
+      "police route mapping",
+      "childhood danger",
+      "narco tactics"
+    ],
+    "overlap_check_hash": "a9cf7443b118d957",
+    "why_this_can_go_viral": "Destroys a nostalgic childhood icon—pure psychological creepiness."
+  },
+  {
+    "unique_id": "crime_0039_011_e9903854b0f000c3",
+    "title": "The Heist Where Thieves Stole a Casino's Entire 'Lucky' Crystal Collection",
+    "hook": "They replaced 500 crystals with fakes—and the casino never noticed for six months.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 35,
+    "educational_value": 55,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "crystal heist",
+      "casino theft",
+      "replacement scam",
+      "gem swap",
+      "long con"
+    ],
+    "overlap_check_hash": "e9903854b0f000c3",
+    "why_this_can_go_viral": "The slow-burn replacement angle feels like a movie plot nobody heard of."
+  },
+  {
+    "unique_id": "crime_0039_012_bfa1de18a598e769",
+    "title": "The Serial Killer Who Only Killed People Who Helped Him",
+    "hook": "He targeted Good Samaritans—and left their bodies with thank-you notes.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 92,
+    "educational_value": 50,
+    "estimated_short_retention": 93,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "Good Samaritan murders",
+      "thank you note killer",
+      "psychopathic gratitude",
+      "serial killer twist",
+      "betrayal murder"
+    ],
+    "overlap_check_hash": "bfa1de18a598e769",
+    "why_this_can_go_viral": "Inverts the basic human instinct to help others—deeply disturbing moral shock."
+  },
+  {
+    "unique_id": "crime_0039_014_93eca08728fb309f",
+    "title": "The Organized Crime Empire That Used a Fake 'Animal Shelter' for Hitmen",
+    "hook": "Dogs were the cover—but the kennels hid weapons and a kill room.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "animal shelter front",
+      "hitman hideout",
+      "dog kennel crime",
+      "weapons stash",
+      "organized crime cover"
+    ],
+    "overlap_check_hash": "93eca08728fb309f",
+    "why_this_can_go_viral": "Dogs + violence = emotional gut punch that drives massive engagement."
+  },
+  {
+    "unique_id": "crime_0039_015_4c27d2e6846a0e79",
+    "title": "The White-Collar Criminal Who Sold 'Fake Copyrights' on Famous Songs",
+    "hook": "He claimed ownership of 'Happy Birthday'—and collected royalties for 15 years.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 40,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "copyright fraud",
+      "Happy Birthday scam",
+      "song royalties",
+      "intellectual property theft",
+      "music industry con"
+    ],
+    "overlap_check_hash": "4c27d2e6846a0e79",
+    "why_this_can_go_viral": "Everyone knows 'Happy Birthday'—the idea someone stole it sparks outrage."
+  },
+  {
+    "unique_id": "crime_0039_017_597691acbd306005",
+    "title": "The Criminal Mastermind Who Controlled Prisons From Inside Solitary",
+    "hook": "He ran a million-dollar drug network using only hand signals through a food slot.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 75,
+    "educational_value": 60,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "prison drug empire",
+      "solitary confinement boss",
+      "hand signal code",
+      "inmate control",
+      "prison power"
+    ],
+    "overlap_check_hash": "597691acbd306005",
+    "why_this_can_go_viral": "Shows that maximum security can't stop a truly determined criminal mind."
+  },
+  {
+    "unique_id": "crime_0039_018_696d1ba8afc4f134",
+    "title": "How the Medellín Cartel Built a Fake Hospital to Kill Rivals Quietly",
+    "hook": "Ambulances picked up enemies—but they never reached the operating table alive.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 93,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "fake hospital",
+      "cartel assassination",
+      "ambulance murder",
+      "Pablo Escobar tactic",
+      "medical cover"
+    ],
+    "overlap_check_hash": "696d1ba8afc4f134",
+    "why_this_can_go_viral": "Exploiting the symbol of safety (a hospital) for murder is maximum darkness."
+  },
+  {
+    "unique_id": "crime_0039_019_94a560e389467628",
+    "title": "The Heist Where Thieves Stole a Golden Toilet—and Flushed It Down the System",
+    "hook": "They melted it into coins and flushed the residue—worth millions, now in sewers.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 30,
+    "educational_value": 50,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "golden toilet heist",
+      "art theft",
+      "melted gold",
+      "sewer treasure",
+      "audacious robbery"
+    ],
+    "overlap_check_hash": "94a560e389467628",
+    "why_this_can_go_viral": "The ridiculousness of flushing a golden toilet guarantees shares."
+  },
+  {
+    "unique_id": "crime_0039_021_ed9d8c69146b346b",
+    "title": "The Billion-Dollar Fraud That Sold 'Fake Moon Land' to Celebrity Investors",
+    "hook": "Leonardo DiCaprio almost bought a crater—until a geologist noticed the 'dirt' was painted concrete.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 40,
+    "educational_value": 65,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "moon land scam",
+      "celebrity fraud",
+      "fake real estate",
+      "space con",
+      "celebrity investment trap"
+    ],
+    "overlap_check_hash": "ed9d8c69146b346b",
+    "why_this_can_go_viral": "Celebrity embarrassment + space fantasy = viral gold."
+  },
+  {
+    "unique_id": "crime_0039_023_90e2811288792e32",
+    "title": "The White-Collar Criminal Who Sold 'Fake Lottery Tickets' to Lottery Winners",
+    "hook": "He tricked jackpot winners into 'reinvesting'—then disappeared with their entire prize.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 70,
+    "educational_value": 60,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "lottery winner scam",
+      "prize theft",
+      "investment con",
+      "jackpot fraud",
+      "financial manipulation"
+    ],
+    "overlap_check_hash": "90e2811288792e32",
+    "why_this_can_go_viral": "Irony of winners getting scammed—schadenfreude meets cautionary tale."
+  },
+  {
+    "unique_id": "crime_0039_025_246a9f9a83edb1a4",
+    "title": "The Cartel That Trained Parrots to Warn of Police Raids",
+    "hook": "The birds mimicked sirens—and dealers had a 20-minute head start every time.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 55,
+    "educational_value": 65,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "parrot police alarm",
+      "cartel animal training",
+      "siren mimic",
+      "drug operation defense",
+      "animal crime"
+    ],
+    "overlap_check_hash": "246a9f9a83edb1a4",
+    "why_this_can_go_viral": "Unexpected animal use + clever crime tactic = irresistible shareable fact."
+  }
+]

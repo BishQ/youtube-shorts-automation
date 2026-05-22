@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "crime_0061_002_27f78bdc126104f5",
+    "title": "The Unsolved Murder Where the Killer Left a Voice Note Inside a Teddy Bear",
+    "hook": "Police found a child's toy at the crime scene — inside was a recording of the victim begging for her life.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "teddy bear",
+      "voice recording",
+      "unsolved",
+      "killer message",
+      "cold case"
+    ],
+    "overlap_check_hash": "27f78bdc126104f5",
+    "why_this_can_go_viral": "Disturbing twist on a childhood object — emotional shock value drives shares."
+  },
+  {
+    "unique_id": "crime_0061_003_54083c6dab9bb18f",
+    "title": "The Criminal Mastermind Who Faked a Whole University to Sell Diplomas",
+    "hook": "He built a fake campus, hired actors as professors, and issued degrees for $50,000 — all from a rented warehouse.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake university",
+      "diploma scam",
+      "actors",
+      "mastermind",
+      "education fraud"
+    ],
+    "overlap_check_hash": "54083c6dab9bb18f",
+    "why_this_can_go_viral": "Exposes how easily institutions can be faked — triggers disbelief and curiosity."
+  },
+  {
+    "unique_id": "crime_0061_004_40be964491593b71",
+    "title": "The Serial Killer Who Only Targeted People Who Solved His Puzzles",
+    "hook": "He posted cryptic riddles online — the first person to solve each one became his next victim.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 93,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "puzzles",
+      "riddles",
+      "serial killer",
+      "online traps",
+      "psychology"
+    ],
+    "overlap_check_hash": "40be964491593b71",
+    "why_this_can_go_viral": "Interactive horror concept — viewers imagine themselves solving and being hunted."
+  },
+  {
+    "unique_id": "crime_0061_005_e9f9785ea11441ee",
+    "title": "The Heist Where Thieves Stole a Bank Vault by Lowering It Through the Roof",
+    "hook": "They cut a hole in the ceiling, attached cables to a 20-ton vault, and lifted it out like a suitcase.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 65,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "bank heist",
+      "vault theft",
+      "roof heist",
+      "cables",
+      "engineering crime"
+    ],
+    "overlap_check_hash": "e9f9785ea11441ee",
+    "why_this_can_go_viral": "Engineering feat meets crime — viewers love the audacity and mechanics."
+  },
+  {
+    "unique_id": "crime_0061_008_858a3a9c9ae19393",
+    "title": "The Unsolved Murder Where the Victim's Last Meal Was a Poisoned Fortune Cookie",
+    "hook": "The cookie said 'You will meet a stranger' — inside was a toxin that killed her in 30 minutes.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 87,
+    "educational_value": 62,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "fortune cookie",
+      "poison",
+      "unsolved",
+      "last meal",
+      "mystery"
+    ],
+    "overlap_check_hash": "858a3a9c9ae19393",
+    "why_this_can_go_viral": "Bizarre and creepy — food poisoning with a narrative twist drives engagement."
+  },
+  {
+    "unique_id": "crime_0061_009_709ffa40856875d7",
+    "title": "The Mob That Used a Pet Crematorium to Dispose of Bodies",
+    "hook": "They told families their loved ones were 'lost in transit' — the truth was ash mixed with dog remains.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 93,
+    "educational_value": 66,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "pet crematorium",
+      "body disposal",
+      "mob",
+      "ash",
+      "crime cover-up"
+    ],
+    "overlap_check_hash": "709ffa40856875d7",
+    "why_this_can_go_viral": "Extreme depravity mixed with dark humor — viewers can't look away."
+  },
+  {
+    "unique_id": "crime_0061_012_1b7c0829f8d3f90a",
+    "title": "The Cartel That Used a Zoo to Feed Victims to the Animals",
+    "hook": "They had an arrangement with a private zoo owner — the big cats didn't need feeding for weeks after each 'visit'.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 58,
+    "estimated_short_retention": 95,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "zoo",
+      "victims",
+      "big cats",
+      "cartel",
+      "body disposal"
+    ],
+    "overlap_check_hash": "1b7c0829f8d3f90a",
+    "why_this_can_go_viral": "Shock value is off the charts — animals as weapons is a primal fear trigger."
+  },
+  {
+    "unique_id": "crime_0061_013_db8218d1fb9259e7",
+    "title": "The White-Collar Criminal Who Stole $60M by Faking a Space Tourism Company",
+    "hook": "He sold tickets to 'orbit Earth' from a cardboard mock-up in a desert — and 200 millionaires believed him.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 68,
+    "educational_value": 76,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "space tourism",
+      "fake",
+      "millionaires",
+      "scam",
+      "desert mock-up"
+    ],
+    "overlap_check_hash": "db8218d1fb9259e7",
+    "why_this_can_go_viral": "Blends sci-fi dreams with ruthless deception — viewers love the audacity."
+  },
+  {
+    "unique_id": "crime_0061_015_a88e74b81556e850",
+    "title": "The Criminal Mastermind Who Stole a Casino's Entire Chip Supply by Faking a Currency",
+    "hook": "He printed fake chips that passed UV tests — then cashed them out at the same casino over 6 months.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 74,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "casino chips",
+      "fake currency",
+      "UV test",
+      "counterfeit",
+      "mastermind"
+    ],
+    "overlap_check_hash": "a88e74b81556e850",
+    "why_this_can_go_viral": "Underdog grift against a casino — satisfying revenge narrative."
+  },
+  {
+    "unique_id": "crime_0061_018_30272d285dd75714",
+    "title": "The Heist Where Thieves Stole a Gold Bar by Using a 3D-Printed Replica in 30 Seconds",
+    "hook": "They swapped a 12-kg gold bar for a plastic one painted gold — and security didn't notice for a week.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 60,
+    "educational_value": 77,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "gold bar",
+      "3D printed",
+      "swap",
+      "heist",
+      "security fail"
+    ],
+    "overlap_check_hash": "30272d285dd75714",
+    "why_this_can_go_viral": "Tech meets old-school theft — shows how criminals exploit modern tools."
+  },
+  {
+    "unique_id": "crime_0061_019_f2093a00fd5c5d66",
+    "title": "The Cartel That Used a Water Treatment Plant to Export Cocaine in Sewage Pipes",
+    "hook": "They mixed cocaine into liquid sludge, pumped it through city pipes, and extracted it at a facility 200 miles away.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "sewage",
+      "cocaine",
+      "water treatment",
+      "smuggling",
+      "cartel"
+    ],
+    "overlap_check_hash": "f2093a00fd5c5d66",
+    "why_this_can_go_viral": "Gross and ingenious — viewers are disgusted yet amazed at the method."
+  },
+  {
+    "unique_id": "crime_0061_020_a65777aef58221c7",
+    "title": "The White-Collar Criminal Who Stole $90M by Faking a Celebrity Charity Gala",
+    "hook": "He rented a mansion, hired lookalikes for A-list stars, and asked billionaires to 'donate' — then disappeared.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 71,
+    "educational_value": 73,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "celebrity gala",
+      "fake",
+      "charity",
+      "billionaires",
+      "scam"
+    ],
+    "overlap_check_hash": "a65777aef58221c7",
+    "why_this_can_go_viral": "Glamour meets grift — viewers love seeing the rich fooled."
+  },
+  {
+    "unique_id": "crime_0061_021_1015ffa5519026de",
+    "title": "The Unsolved Murder Where the Killer Used a Laser Pointer to Lure the Victim",
+    "hook": "She saw a red dot on her balcony, went to investigate — and was never seen alive again.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 84,
+    "educational_value": 63,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "laser pointer",
+      "lure",
+      "unsolved",
+      "balcony",
+      "mystery"
+    ],
+    "overlap_check_hash": "1015ffa5519026de",
+    "why_this_can_go_viral": "Simple, terrifying trap — viewers feel the vulnerability."
+  },
+  {
+    "unique_id": "crime_0061_022_54f76a358b1c0c7d",
+    "title": "The Criminal Mastermind Who Faked a Nuclear War to Steal $500M",
+    "hook": "He hacked emergency broadcast systems, simulated an incoming missile, and evacuated a city — then looted the banks.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 88,
+    "educational_value": 74,
+    "estimated_short_retention": 96,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "nuclear war",
+      "fake",
+      "emergency broadcast",
+      "heist",
+      "mastermind"
+    ],
+    "overlap_check_hash": "54f76a358b1c0c7d",
+    "why_this_can_go_viral": "Apocalyptic scale — viewers are hooked by the sheer audacity and chaos."
+  },
+  {
+    "unique_id": "crime_0061_023_37d186e7de27d05b",
+    "title": "The Mob That Used a Laundromat Chain to Launder $300M — Literally",
+    "hook": "They washed money in industrial machines with dye, then claimed it as 'stained' returns to insurance companies.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 66,
+    "educational_value": 76,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "laundromat",
+      "money laundering",
+      "insurance fraud",
+      "mob",
+      "cash"
+    ],
+    "overlap_check_hash": "37d186e7de27d05b",
+    "why_this_can_go_viral": "Pun-tastic but real — viewers enjoy the literal interpretation of 'laundering'."
+  },
+  {
+    "unique_id": "crime_0061_024_0d17384c0faefde0",
+    "title": "The Serial Killer Who Only Killed on Public Transit — and Never Got Caught",
+    "hook": "He used subways and buses as hunting grounds, striking in 30-second windows between stations.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "public transit",
+      "serial killer",
+      "subway",
+      "bus",
+      "hunting ground"
+    ],
+    "overlap_check_hash": "0d17384c0faefde0",
+    "why_this_can_go_viral": "Everyday fear — viewers imagine themselves in the same scenario."
+  }
+]

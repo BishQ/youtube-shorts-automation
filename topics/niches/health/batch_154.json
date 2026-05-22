@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "health_0154_001_17af69433b59a468",
+    "title": "The Hospital That Grew Tumors in Patients to Test Chemo",
+    "hook": "Doctors injected live cancer cells into terminal patients without their knowledge to see if chemo could catch up.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "cancer injection",
+      "chemo test",
+      "unethical trials",
+      "terminal patients",
+      "medical horror"
+    ],
+    "overlap_check_hash": "17af69433b59a468",
+    "why_this_can_go_viral": "The visual of injecting cancer into a living person triggers visceral shock and immediate sharing."
+  },
+  {
+    "unique_id": "health_0154_002_184c3e6081f1534a",
+    "title": "The FDA-Approved Baby Medicine That Caused Organ Failure",
+    "hook": "It was marketed as a gentle cold remedy for infants—but inside, it was quietly destroying their kidneys.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 82,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "baby medicine",
+      "kidney failure",
+      "FDA approval",
+      "toxic drug",
+      "infant deaths"
+    ],
+    "overlap_check_hash": "184c3e6081f1534a",
+    "why_this_can_go_viral": "Parents are the most vigilant audience; anything harming babies triggers outrage and massive shares."
+  },
+  {
+    "unique_id": "health_0154_004_ea9ea99f9bdf278e",
+    "title": "The 'Natural' Baby Oil That Was Industrial Grease",
+    "hook": "It smelled like lavender and promised gentle skin—but it was just recycled motor oil in a fancy bottle.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "baby oil scam",
+      "industrial grease",
+      "toxic skincare",
+      "product fraud",
+      "chemical cover-up"
+    ],
+    "overlap_check_hash": "ea9ea99f9bdf278e",
+    "why_this_can_go_viral": "The contrast between 'natural baby product' and 'motor oil' creates disgust-driven curiosity."
+  },
+  {
+    "unique_id": "health_0154_005_27924011e1492ced",
+    "title": "The Government That Gave Children Poisoned Milk for Science",
+    "hook": "They wanted to study malnutrition—so they fed orphaned kids milk laced with radioactive isotopes for months.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 97,
+    "educational_value": 79,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "orphan experiments",
+      "radioactive milk",
+      "government cover-up",
+      "child poisoning",
+      "malnutrition study"
+    ],
+    "overlap_check_hash": "27924011e1492ced",
+    "why_this_can_go_viral": "Children + radiation + government secrecy is a guaranteed viral cocktail for outrage and shock."
+  },
+  {
+    "unique_id": "health_0154_006_2d79db2e4aa71d3c",
+    "title": "The Cancer Drug That Was Just Sugar Water—Priced at $15,000",
+    "hook": "Patients sold their houses to afford it—while the company knew it contained zero active ingredients.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 83,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake cancer drug",
+      "sugar water scam",
+      "pharma fraud",
+      "price gouging",
+      "false hope"
+    ],
+    "overlap_check_hash": "2d79db2e4aa71d3c",
+    "why_this_can_go_viral": "The intersection of financial ruin, fake medicine, and life-threatening disease creates explosive empathy."
+  },
+  {
+    "unique_id": "health_0154_007_fcfc54ba959155b7",
+    "title": "The Hospital That Let a Curable Disease Kill 200 Patients—to Save Money",
+    "hook": "They had the antibiotics in stock. But administrators refused to release them to 'avoid waste.'",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 94,
+    "educational_value": 80,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "hospital neglect",
+      "preventable deaths",
+      "antibiotic withholding",
+      "corporate greed",
+      "patient fatalities"
+    ],
+    "overlap_check_hash": "fcfc54ba959155b7",
+    "why_this_can_go_viral": "The sheer insanity of letting people die over a budget line triggers righteous anger and shares."
+  },
+  {
+    "unique_id": "health_0154_008_e51fed7e5774ead5",
+    "title": "The Diet Pill That Made People's Hair Fall Out—and Eyes Bleed",
+    "hook": "It promised rapid weight loss, but within weeks, users were bald, blind in one eye, and hemorrhaging internally.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 92,
+    "educational_value": 77,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "diet pill disaster",
+      "hair loss",
+      "eye hemorrhage",
+      "weight loss scam",
+      "toxic supplement"
+    ],
+    "overlap_check_hash": "e51fed7e5774ead5",
+    "why_this_can_go_viral": "Body horror combined with weight loss desperation creates a high-shock, high-retention narrative."
+  },
+  {
+    "unique_id": "health_0154_009_9a953993fc83699a",
+    "title": "The Vaccine That Was Tested on Prisoners—Then Buried Forever",
+    "hook": "It worked. It prevented the disease completely. But the company destroyed the data because it wasn't profitable.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 81,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "buried vaccine",
+      "suppressed cure",
+      "prisoner testing",
+      "pharma conspiracy",
+      "profitable sickness"
+    ],
+    "overlap_check_hash": "9a953993fc83699a",
+    "why_this_can_go_viral": "The cure suppression narrative is one of the most powerful conspiracy-adjacent truths people crave."
+  },
+  {
+    "unique_id": "health_0154_010_948be1ef4bee03f5",
+    "title": "The Doctor Who Poisoned 50 Patients—Then Blamed Their Families",
+    "hook": "He injected insulin into non-diabetic patients, watched them seize, and told relatives they died of natural causes.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 96,
+    "educational_value": 74,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "serial killer doctor",
+      "insulin murder",
+      "medical homicide",
+      "patient poisoning",
+      "fake diagnosis"
+    ],
+    "overlap_check_hash": "948be1ef4bee03f5",
+    "why_this_can_go_viral": "Doctor-as-killer is a primal fear; the villain disguise makes every viewer question their own trust."
+  },
+  {
+    "unique_id": "health_0154_011_a12259644c8d5059",
+    "title": "The Soap Company That Used Human Fat in Its 'All-Natural' Bars",
+    "hook": "They claimed it was 'rendered from organic sources'—the source was corpses from unclaimed bodies at the morgue.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 93,
+    "educational_value": 76,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "human fat soap",
+      "corpse product",
+      "morgue scandal",
+      "organic fraud",
+      "body trafficking"
+    ],
+    "overlap_check_hash": "a12259644c8d5059",
+    "why_this_can_go_viral": "The 'you've been washing with dead people' twist is inherently viral and disgustingly memorable."
+  },
+  {
+    "unique_id": "health_0154_012_d59c8a9e0295d72a",
+    "title": "The Hospital That Gave Patients Fake Chemo—for 14 Years",
+    "hook": "Nurses mixed saline with food coloring, hung it on IV poles, and watched patients believe they were fighting cancer.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 79,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "fake chemotherapy",
+      "saline scam",
+      "cancer fraud",
+      "hospital crime",
+      "patient deception"
+    ],
+    "overlap_check_hash": "d59c8a9e0295d72a",
+    "why_this_can_go_viral": "The betrayal of cancer patients—already vulnerable—creates a fury-driven share loop."
+  },
+  {
+    "unique_id": "health_0154_013_ce0acb704bc5ad69",
+    "title": "The Eye Drops That Turned People Blind—Permanently",
+    "hook": "It was a generic brand found in every pharmacy. But one contaminated batch was actually diluted battery acid.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 89,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "blindness from eye drops",
+      "contaminated product",
+      "battery acid",
+      "generic drug danger",
+      "vision loss"
+    ],
+    "overlap_check_hash": "ce0acb704bc5ad69",
+    "why_this_can_go_viral": "Eye-related harm triggers intense visceral disgust; plus it's a product everyone uses."
+  },
+  {
+    "unique_id": "health_0154_014_cc09f5e84d15bf60",
+    "title": "The Government That Fed Prisoners Radioactive Breakfasts for a Year",
+    "hook": "They claimed it was a 'nutrition study.' The real goal was measuring how long it took for internal organs to fail.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 98,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "prisoner experiment",
+      "radioactive food",
+      "government atrocity",
+      "nutrition study lie",
+      "radiation poisoning"
+    ],
+    "overlap_check_hash": "cc09f5e84d15bf60",
+    "why_this_can_go_viral": "Prisoners + radiation + secret death tracking is a dark triad that hooks conspiracy and true crime audiences."
+  },
+  {
+    "unique_id": "health_0154_015_360fd682651961ca",
+    "title": "The 'Pain-Free' Surgery Drug That Woke Patients Up—Paralyzed",
+    "hook": "They could hear the saw cutting their bones, feel the scalpel—but couldn't move or scream because of the paralytic.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 82,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "anesthesia awareness",
+      "paralyzed awake",
+      "surgery horror",
+      "painkiller failure",
+      "medical trauma"
+    ],
+    "overlap_check_hash": "360fd682651961ca",
+    "why_this_can_go_viral": "The 'alive during surgery' fear is universal, triggering deep psychological terror and immediate engagement."
+  },
+  {
+    "unique_id": "health_0154_018_16e59fcfa17d38df",
+    "title": "The Disease Cover-Up That Affected 50,000 People—and Was Blamed on 'Stress'",
+    "hook": "Doctors insisted it was anxiety. Meanwhile, a leaking chemical plant was slowly poisoning the entire town.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 84,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "chemical poisoning",
+      "disease misdiagnosis",
+      "stress blame",
+      "environmental cover-up",
+      "town sickness"
+    ],
+    "overlap_check_hash": "16e59fcfa17d38df",
+    "why_this_can_go_viral": "The 'gaslighting by doctors' angle fuels outrage and resonates with anyone who felt dismissed."
+  },
+  {
+    "unique_id": "health_0154_019_236cd0a9c1049b50",
+    "title": "The 'Miracle' Arthritis Cream That Was Pure Morphine",
+    "hook": "Patients felt better instantly. That's because it was 40% morphine—with zero painkiller listed on the label.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 79,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "morphine cream",
+      "arthritis scam",
+      "hidden opioid",
+      "pain relief fraud",
+      "drug label lie"
+    ],
+    "overlap_check_hash": "236cd0a9c1049b50",
+    "why_this_can_go_viral": "The hidden-opioid angle connects to the addiction crisis, making it timely and shareable."
+  },
+  {
+    "unique_id": "health_0154_020_7cf482e87dc26332",
+    "title": "The Hospital Where Nurses Systematically Overdosed Patients for Quiet Shifts",
+    "hook": "They called it 'sleepy juice.' A mix of sedatives that stopped patients' breathing so the night shift was easier.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 76,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "nurse overdose",
+      "sleepy juice",
+      "hospital murder",
+      "night shift crime",
+      "patient euthanasia"
+    ],
+    "overlap_check_hash": "7cf482e87dc26332",
+    "why_this_can_go_viral": "The 'caregiver as killer' twist taps into medical horror and True Crime audiences simultaneously."
+  },
+  {
+    "unique_id": "health_0154_021_69ee352351e9c36f",
+    "title": "The FDA-Approved Sunscreen That Caused Third-Degree Burns",
+    "hook": "It was SPF 100 and water-resistant. But sunlight turned the chemicals into acid on people's skin.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 87,
+    "educational_value": 80,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "sunscreen burn",
+      "chemical acid",
+      "SPF danger",
+      "FDA failure",
+      "skin damage"
+    ],
+    "overlap_check_hash": "69ee352351e9c36f",
+    "why_this_can_go_viral": "Summer + sunscreen + horror is seasonal and shareable; everyone uses sunscreen."
+  },
+  {
+    "unique_id": "health_0154_022_45d9aa94823d1985",
+    "title": "The Company That Knew Its Antidepressant Caused Suicidal Thoughts—and Hid It",
+    "hook": "Internal memos showed executives plotting to 'bury' the data while millions of teenagers took the pills.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 83,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "antidepressant suicide",
+      "teen deaths",
+      "data suppression",
+      "pharma cover-up",
+      "mental health fraud"
+    ],
+    "overlap_check_hash": "45d9aa94823d1985",
+    "why_this_can_go_viral": "Mental health is a massive conversation; exposing corporate greed in that space drives shares and debate."
+  },
+  {
+    "unique_id": "health_0154_024_2e34dda35302ea0a",
+    "title": "The 'All-Natural' Cold Remedy That Was Pure Rat Poison",
+    "hook": "It was sold at health food stores as a 'gentle herbal tincture.' Lab tests found it was 100% anticoagulant pesticide.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 89,
+    "educational_value": 81,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "rat poison remedy",
+      "herbal scam",
+      "toxic tincture",
+      "health food danger",
+      "pesticide ingestion"
+    ],
+    "overlap_check_hash": "2e34dda35302ea0a",
+    "why_this_can_go_viral": "The 'natural = safe' myth destroyed in one sentence; this triggers both anger and protective sharing."
+  },
+  {
+    "unique_id": "health_0154_025_63cf539d96f3de91",
+    "title": "The Government That Deliberately Infected a City with a Deadly Fungus",
+    "hook": "They sprayed a mist over 200 homes, claiming it was 'pest control.' The fungus ate people's lungs from the inside.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 81,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "fungal attack",
+      "lung disease",
+      "government experiment",
+      "city poisoning",
+      "bioweapon cover-up"
+    ],
+    "overlap_check_hash": "63cf539d96f3de91",
+    "why_this_can_go_viral": "The 'they sprayed us on purpose' fear narrative is a cultural touchstone for distrust in authority."
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "science_0096_001_fc504f179fe4b5d7",
+    "title": "The Chemist Who Accidentally Created a Self-Replicating Poison",
+    "hook": "In a Swiss lab, a chemist synthesized a molecule that wasn't supposed to exist—and it started copying itself inside the human bloodstream.",
+    "virality_score": 88,
+    "curiosity_gap_score": 85,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "self-replicating poison",
+      "molecular error",
+      "chemistry accident",
+      "toxic molecule",
+      "lab catastrophe"
+    ],
+    "overlap_check_hash": "fc504f179fe4b5d7",
+    "why_this_can_go_viral": "Combines the horror of an unstoppable poison with the mystery of accidental creation, triggering fear and fascination."
+  },
+  {
+    "unique_id": "science_0096_002_99a663965ba1808a",
+    "title": "The Forbidden Experiment That Gave a Human Permanent Night Vision",
+    "hook": "A renegade researcher injected a subject with a retinal compound that let them see in the dark—but the side effects were never fully documented.",
+    "virality_score": 91,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "night vision",
+      "human experiment",
+      "retinal injection",
+      "forbidden science",
+      "body modification"
+    ],
+    "overlap_check_hash": "99a663965ba1808a",
+    "why_this_can_go_viral": "The idea of gaining a superpower with dark consequences is irresistible clickbait."
+  },
+  {
+    "unique_id": "science_0096_003_ac042372e198a618",
+    "title": "The Physics Anomaly Where a Black Hole Formed in a Particle Collider",
+    "hook": "Physicists at CERN detected a gravitational anomaly lasting 0.0003 seconds—enough to suggest they briefly created a microscopic black hole.",
+    "virality_score": 93,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "micro black hole",
+      "CERN",
+      "particle collider",
+      "gravitational anomaly",
+      "quantum gravity"
+    ],
+    "overlap_check_hash": "ac042372e198a618",
+    "why_this_can_go_viral": "Black holes are perpetually viral; the 'we almost destroyed the world' angle drives massive engagement."
+  },
+  {
+    "unique_id": "science_0096_004_438f7155a896bd7d",
+    "title": "The Biolab That Accidentally Created a Fungus That Grows on Human Tears",
+    "hook": "A contamination in a petri dish sprouted a fungal strain that feeds exclusively on the proteins in human tears—and it's spreading in the lab.",
+    "virality_score": 86,
+    "curiosity_gap_score": 84,
+    "darkness_score": 92,
+    "educational_value": 68,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "tear-eating fungus",
+      "lab contamination",
+      "bioweapon",
+      "eye infection",
+      "fungal horror"
+    ],
+    "overlap_check_hash": "438f7155a896bd7d",
+    "why_this_can_go_viral": "Highly visceral and body-horror oriented; viewers will imagine the sensation on their own eyes."
+  },
+  {
+    "unique_id": "science_0096_005_66f1fb92fc47cc2d",
+    "title": "The Scientific Fraud Who Faked the Discovery of a New Organ",
+    "hook": "He claimed to have found the 'eleventh organ' in the human body—and the medical community believed him for three years.",
+    "virality_score": 87,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fake organ",
+      "medical fraud",
+      "phantom discovery",
+      "hoax",
+      "biology scam"
+    ],
+    "overlap_check_hash": "66f1fb92fc47cc2d",
+    "why_this_can_go_viral": "Betrayal of trust in science and the 'how could they be fooled' element create high shareability."
+  },
+  {
+    "unique_id": "science_0096_008_aa31cdbe108419bf",
+    "title": "The Chemistry Disaster That Made a Building Dissolve Into Slime",
+    "hook": "A chemical spill in a warehouse dissolved concrete, steel, and plastic into a gooey black sludge within hours—and no one knows how to reverse it.",
+    "virality_score": 85,
+    "curiosity_gap_score": 82,
+    "darkness_score": 87,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "building dissolution",
+      "chemical sludge",
+      "industrial accident",
+      "environmental disaster",
+      "uncontrolled reaction"
+    ],
+    "overlap_check_hash": "aa31cdbe108419bf",
+    "why_this_can_go_viral": "Visual imagery of a building turning to slime is grotesque and shareable."
+  },
+  {
+    "unique_id": "science_0096_009_907f109cce50625f",
+    "title": "The Biolab That Bred a Parasite That Makes Its Host Seek Water",
+    "hook": "A hidden parasite was engineered to hijack the host's brain, driving it to drown itself—perfecting a real-life 'zombie ant' mechanism in mammals.",
+    "virality_score": 94,
+    "curiosity_gap_score": 91,
+    "darkness_score": 96,
+    "educational_value": 74,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "zombie parasite",
+      "mind control",
+      "drowning instinct",
+      "biological weapon",
+      "brain hijack"
+    ],
+    "overlap_check_hash": "907f109cce50625f",
+    "why_this_can_go_viral": "Combines 'zombie' pop culture with real science horror; extreme darkness drives shares."
+  },
+  {
+    "unique_id": "science_0096_010_b135db1ff6d74933",
+    "title": "The Forbidden Experiment That Tried to Give a Rat Human Brain Cells",
+    "hook": "Scientists implanted human glial cells into rat brains—and the rats started solving mazes faster than any normal rodent ever had.",
+    "virality_score": 89,
+    "curiosity_gap_score": 87,
+    "darkness_score": 84,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human-rat hybrid",
+      "glial cells",
+      "intelligence boost",
+      "chimera",
+      "bioethics"
+    ],
+    "overlap_check_hash": "b135db1ff6d74933",
+    "why_this_can_go_viral": "Blurs the line between species and raises ethical horror; 'super rat' is a strong hook."
+  },
+  {
+    "unique_id": "science_0096_011_5f171e787f7870c0",
+    "title": "The Physics Anomaly Where Antimatter Fell Up Instead of Down",
+    "hook": "In a groundbreaking experiment, antimatter particles appeared to defy gravity—suggesting antigravity might be real.",
+    "virality_score": 92,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 85,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "antigravity",
+      "antimatter",
+      "gravity reversal",
+      "CERN",
+      "fundamental physics"
+    ],
+    "overlap_check_hash": "5f171e787f7870c0",
+    "why_this_can_go_viral": "Antigravity taps into sci-fi fantasies; the 'physics is broken' narrative drives curiosity."
+  },
+  {
+    "unique_id": "science_0096_012_1569fd0bf2af2290",
+    "title": "The Neuroscientist Who Made a Man Hallucinate His Own Double",
+    "hook": "Stimulating a single spot in the brain made a patient see a perfect copy of himself standing next to him—and the copy spoke to him.",
+    "virality_score": 88,
+    "curiosity_gap_score": 86,
+    "darkness_score": 89,
+    "educational_value": 77,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "doppelgänger",
+      "brain stimulation",
+      "hallucination",
+      "self-awareness",
+      "neural illusion"
+    ],
+    "overlap_check_hash": "1569fd0bf2af2290",
+    "why_this_can_go_viral": "Doppelgänger myths meet hard science; viewers love 'what if it happened to me' scenarios."
+  },
+  {
+    "unique_id": "science_0096_014_dbfa1c0c79d2e66e",
+    "title": "The Chemistry Disaster That Released a Gas That Made People Forget the Last Hour",
+    "hook": "A lab leak of an experimental anesthetic caused an entire facility to lose 60 minutes of memory—with no physical trace.",
+    "virality_score": 87,
+    "curiosity_gap_score": 85,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "memory loss gas",
+      "anesthetic leak",
+      "amnesia",
+      "chemical weapon",
+      "lab accident"
+    ],
+    "overlap_check_hash": "dbfa1c0c79d2e66e",
+    "why_this_can_go_viral": "Frightening and mysterious; the idea of losing time triggers existential dread."
+  },
+  {
+    "unique_id": "science_0096_016_ba3798c1ff971eed",
+    "title": "The Forbidden Experiment That Kept a Human in Total Darkness for Six Months",
+    "hook": "A volunteer lived in an underground bunker with zero light to study circadian collapse—and emerged with a completely changed personality.",
+    "virality_score": 86,
+    "curiosity_gap_score": 84,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "darkness experiment",
+      "isolation",
+      "personality change",
+      "circadian rhythm",
+      "human endurance"
+    ],
+    "overlap_check_hash": "ba3798c1ff971eed",
+    "why_this_can_go_viral": "Extreme human isolation taps into fear of the void and sensory deprivation."
+  },
+  {
+    "unique_id": "science_0096_017_dc6139a6411e7e83",
+    "title": "The Neuroscientist Who Proved That Your Brain Predicts the Future",
+    "hook": "Brain scans revealed that your visual cortex shows what it expects to see 300 milliseconds before it actually happens.",
+    "virality_score": 85,
+    "curiosity_gap_score": 83,
+    "darkness_score": 76,
+    "educational_value": 84,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "predictive brain",
+      "time delay",
+      "visual illusion",
+      "consciousness",
+      "reality perception"
+    ],
+    "overlap_check_hash": "dc6139a6411e7e83",
+    "why_this_can_go_viral": "Makes viewers question if their experience of reality is real-time or reconstructed."
+  },
+  {
+    "unique_id": "science_0096_019_22329f30bd0f3627",
+    "title": "The Chemistry Disaster That Created a Perpetual Fire That Burns Underwater",
+    "hook": "A cocktail of reactive chemicals ignited a flame that consumes oxygen from water itself—and it has been burning for 17 years.",
+    "virality_score": 90,
+    "curiosity_gap_score": 88,
+    "darkness_score": 86,
+    "educational_value": 78,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "underwater fire",
+      "perpetual flame",
+      "chemical reaction",
+      "uncontrollable burn",
+      "elemental anomaly"
+    ],
+    "overlap_check_hash": "22329f30bd0f3627",
+    "why_this_can_go_viral": "Visual spectacle of fire underwater violates basic intuitions; highly shareable."
+  },
+  {
+    "unique_id": "science_0096_021_55a924f9b550dfb4",
+    "title": "The Biolab That Bred a Bacterium That Eats Its Own Offspring",
+    "hook": "A bacterial strain evolved in a petri dish to devour its daughter cells for nutrients—a real-life cellular cannibalism.",
+    "virality_score": 85,
+    "curiosity_gap_score": 83,
+    "darkness_score": 89,
+    "educational_value": 71,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "bacterial cannibalism",
+      "offspring consumption",
+      "evolution experiment",
+      "microbiology horror",
+      "self-destruction"
+    ],
+    "overlap_check_hash": "55a924f9b550dfb4",
+    "why_this_can_go_viral": "Disturbing and unnatural; taps into parental instinct and biological taboo."
+  },
+  {
+    "unique_id": "science_0096_023_9abb37629ecdc8b0",
+    "title": "The Neuroscientist Who Gave a Man Phantom Limb Pain in His Entire Body",
+    "hook": "A botched neural stimulation caused a patient to feel intense pain from a body he didn't have—a full-body phantom experience.",
+    "virality_score": 87,
+    "curiosity_gap_score": 85,
+    "darkness_score": 92,
+    "educational_value": 73,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "phantom body",
+      "neural stimulation error",
+      "pain illusion",
+      "body horror",
+      "brain trick"
+    ],
+    "overlap_check_hash": "9abb37629ecdc8b0",
+    "why_this_can_go_viral": "Extreme body horror; highly visceral and memorable."
+  },
+  {
+    "unique_id": "science_0096_024_8dcea71abf95364c",
+    "title": "The Chemistry Disaster That Made a Lake Turn Into Acid Overnight",
+    "hook": "A mining waste spill triggered a chain reaction that dropped a lake's pH to battery acid levels—killing every living thing in 24 hours.",
+    "virality_score": 86,
+    "curiosity_gap_score": 83,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "acid lake",
+      "environmental catastrophe",
+      "mine spill",
+      "pH crash",
+      "chemical disaster"
+    ],
+    "overlap_check_hash": "8dcea71abf95364c",
+    "why_this_can_go_viral": "Dramatic before/after imagery and the speed of destruction make for gripping content."
+  },
+  {
+    "unique_id": "science_0096_025_c5f8ffd4a4fa51e8",
+    "title": "The Forbidden Experiment That Tried to Make a Human Hibernate Like a Bear",
+    "hook": "A scientist attempted to induce hibernation in a human by injecting a compound found in bear blood—the subject never fully woke up the same.",
+    "virality_score": 88,
+    "curiosity_gap_score": 86,
+    "darkness_score": 87,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human hibernation",
+      "bear blood",
+      "cryogenics",
+      "experimental therapy",
+      "consciousness alteration"
+    ],
+    "overlap_check_hash": "c5f8ffd4a4fa51e8",
+    "why_this_can_go_viral": "Blends sci-fi dreams with a real, dark outcome; 'never woke up the same' is a powerful hook."
+  }
+]

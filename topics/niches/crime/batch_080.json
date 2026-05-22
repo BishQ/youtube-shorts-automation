@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "crime_0080_001_9d7dc04f70c0a926",
+    "title": "The Mob Accountant Who Kept a Ledger of 47 Murders—In Plain Sight",
+    "hook": "He recorded every hit like a business expense, and when the IRS found it, they didn't call the cops—they called it 'tax evasion.'",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob accountant",
+      "murder ledger",
+      "IRS",
+      "organized crime",
+      "hidden evidence"
+    ],
+    "overlap_check_hash": "9d7dc04f70c0a926",
+    "why_this_can_go_viral": "The absurdity of a killer using bookkeeping logic triggers morbid curiosity and the 'hidden in plain sight' storytelling is highly shareable."
+  },
+  {
+    "unique_id": "crime_0080_002_6a77d7c7a6349ab7",
+    "title": "The Heist Where Thieves Stole a Diamond by Replacing It With a Deadly Insect",
+    "hook": "The guards found the spider first. The diamond was already in another country.",
+    "virality_score": 85,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "diamond heist",
+      "deadly insect",
+      "distraction",
+      "jewel theft",
+      "bold heist"
+    ],
+    "overlap_check_hash": "6a77d7c7a6349ab7",
+    "why_this_can_go_viral": "Animals in heists are rare and shocking—combining danger with clever deception is irresistible clickbait."
+  },
+  {
+    "unique_id": "crime_0080_003_2a60c59d4366706c",
+    "title": "The Serial Killer Who Only Killed on Full Moons—And Left Lunar Maps on Bodies",
+    "hook": "Every victim had a star chart carved into their skin. Police thought it was ritual—until an astronomer cracked the code.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 94,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "full moon killer",
+      "lunar maps",
+      "astronomer",
+      "serial killer",
+      "body code"
+    ],
+    "overlap_check_hash": "2a60c59d4366706c",
+    "why_this_can_go_viral": "Lunar mythology + serial killer psychology = a dark mystery that begs for a solution. The puzzle element drives comments and shares."
+  },
+  {
+    "unique_id": "crime_0080_005_4eb6a7611e3a7eb3",
+    "title": "The Cartel That Used a Funeral Home to Smuggle Cocaine in Coffins",
+    "hook": "The families thought they were burying their loved ones. They were actually shipping drugs through customs.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel funeral",
+      "cocaine coffins",
+      "drug smuggling",
+      "hidden compartments",
+      "funeral home front"
+    ],
+    "overlap_check_hash": "4eb6a7611e3a7eb3",
+    "why_this_can_go_viral": "Taboo violation (using death for crime) instantly repulses and fascinates. The 'hidden in plain sight' reveal is powerful."
+  },
+  {
+    "unique_id": "crime_0080_006_181f5fa70af75547",
+    "title": "The White-Collar Criminal Who Sold a Fake Bridge—To a Foreign Government",
+    "hook": "He didn't just sell the Brooklyn Bridge. He sold a bridge that didn't exist—and they paid $200 million.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "fake bridge",
+      "government scam",
+      "white-collar",
+      "international fraud",
+      "infrastructure con"
+    ],
+    "overlap_check_hash": "181f5fa70af75547",
+    "why_this_can_go_viral": "Classic 'bridge seller' trope elevated to geopolitical scale. 'How did they fall for that?' drives watch time."
+  },
+  {
+    "unique_id": "crime_0080_009_08d8873f48eb1a13",
+    "title": "The Mob That Controlled a City's Recycling Plant—To Shred Bodies With Trash",
+    "hook": "The trucks picked up garbage by day. By night, they picked up people.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 96,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob body disposal",
+      "recycling plant",
+      "hidden crime",
+      "industrial murder",
+      "organized crime"
+    ],
+    "overlap_check_hash": "08d8873f48eb1a13",
+    "why_this_can_go_viral": "Garbage-to-death pipeline is viscerally dark. The 'everyday facility as murder tool' twist is shocking."
+  },
+  {
+    "unique_id": "crime_0080_011_09f7aa51e4c19c29",
+    "title": "The Unsolved Murder Where the Killer Left a Self-Portrait—Drawn in the Victim's Blood",
+    "hook": "The face in the blood painting matched no one in any database. But the victim's daughter recognized the eyes.",
+    "virality_score": 92,
+    "curiosity_gap_score": 98,
+    "darkness_score": 97,
+    "educational_value": 55,
+    "estimated_short_retention": 96,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "blood portrait",
+      "unsolved murder",
+      "killer signature",
+      "disturbing evidence",
+      "missing person"
+    ],
+    "overlap_check_hash": "09f7aa51e4c19c29",
+    "why_this_can_go_viral": "Artistic killer + unsolved mystery = psychological horror. The 'recognition' cliffhanger forces viewers to imagine the reveal."
+  },
+  {
+    "unique_id": "crime_0080_012_74d6088b77c8f94d",
+    "title": "The Cartel That Built a Fake Island Resort—To Refuel Drug Submarines",
+    "hook": "Tourists booked vacations on a paradise island. They didn't know the pool was a submarine dock.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel island",
+      "fake resort",
+      "drug submarines",
+      "hidden dock",
+      "tourist front"
+    ],
+    "overlap_check_hash": "74d6088b77c8f94d",
+    "why_this_can_go_viral": "Hawaii-style vacation + narco submarine = jarring contrast. 'You've been to a cartel base' triggers FOMO and shock."
+  },
+  {
+    "unique_id": "crime_0080_013_ddeddf954dccf235",
+    "title": "The Criminal Mastermind Who Faked an Earthquake—To Rob a Vault",
+    "hook": "He set off explosives timed to seismic readings. The building swayed. The vault door opened. The city blamed nature.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 93,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake earthquake",
+      "vault heist",
+      "seismic explosives",
+      "mastermind",
+      "nature cover"
+    ],
+    "overlap_check_hash": "ddeddf954dccf235",
+    "why_this_can_go_viral": "Natural disaster used as alibi is genius-level criminality. The 'villain outsmarts science' angle is irresistible."
+  },
+  {
+    "unique_id": "crime_0080_014_9f25a722e2f2c259",
+    "title": "The Heist Where Thieves Stole a Pharaoh's Crown—By Replacing It With a 3D Print",
+    "hook": "The museum had laser sensors. The thieves had a drone, a resin printer, and one night alone with the artifact.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 74,
+    "educational_value": 68,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "pharaoh crown",
+      "3D print heist",
+      "museum theft",
+      "artifact swap",
+      "tech heist"
+    ],
+    "overlap_check_hash": "9f25a722e2f2c259",
+    "why_this_can_go_viral": "Ancient artifact + modern tech = compelling contrast. The 'perfect swap' trope always fascinates."
+  },
+  {
+    "unique_id": "crime_0080_016_99f6e1b6ed445f1b",
+    "title": "The Mob That Used a Candy Factory to Package Heroin—As Gummy Bears",
+    "hook": "Kids ate them. The mob didn't care. The FDA found out when a child got sick at school.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "drug candy",
+      "heroin gummy bears",
+      "mob factory",
+      "child poison",
+      "organized crime"
+    ],
+    "overlap_check_hash": "99f6e1b6ed445f1b",
+    "why_this_can_go_viral": "Children + drugs = maximum outrage and horror. The visual of 'drug gummy bears' is disgusting and clickable."
+  },
+  {
+    "unique_id": "crime_0080_017_a27cd0de55c82d3a",
+    "title": "The Unsolved Murder Where the Victim's Body Was Found With a Note: 'This Is My Last Kill'",
+    "hook": "The writing matched the victim's handwriting. But the victim died two hours before the note was written.",
+    "virality_score": 91,
+    "curiosity_gap_score": 97,
+    "darkness_score": 96,
+    "educational_value": 50,
+    "estimated_short_retention": 95,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "impossible note",
+      "last kill",
+      "handwriting mystery",
+      "unsolved murder",
+      "forensic anomaly"
+    ],
+    "overlap_check_hash": "a27cd0de55c82d3a",
+    "why_this_can_go_viral": "Impossible timeline puzzles immediately engage the audience. 'How?' is the only thought in the viewer's mind."
+  },
+  {
+    "unique_id": "crime_0080_018_94aed840774a9891",
+    "title": "The White-Collar Criminal Who Stole a Country's Entire Pension Fund—By Faking a Royal Wedding",
+    "hook": "He convinced the government to invest in a wedding that never happened. The king was dead. The money was gone.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 76,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "pension theft",
+      "fake wedding",
+      "royal scam",
+      "government fraud",
+      "national theft"
+    ],
+    "overlap_check_hash": "94aed840774a9891",
+    "why_this_can_go_viral": "Royalty + pension + total collapse of due diligence = pure chaos. The audacity of the lie is jaw-dropping."
+  },
+  {
+    "unique_id": "crime_0080_021_06f76802179ea059",
+    "title": "The Heist Where Thieves Stole a Plane Engine—By Dismantling It on the Runway",
+    "hook": "They wore mechanic uniforms, had fake FAA badges, and walked out with a $10 million engine in parts—under airport security.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "plane engine theft",
+      "runway heist",
+      "fake mechanics",
+      "airport security",
+      "airline fraud"
+    ],
+    "overlap_check_hash": "06f76802179ea059",
+    "why_this_can_go_viral": "High-value object + low-tech disguise = 'how did no one notice?' drives comments and shares."
+  },
+  {
+    "unique_id": "crime_0080_022_c6f4c5d6da214fd1",
+    "title": "The Cartel That Used a Zoo to Hide Narcotics—Inside Live Animals",
+    "hook": "The monkeys were carrying drugs. The zookeepers were cartel employees. The visitors were unwitting mules during feeding time.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "zoo drug cartel",
+      "animal mules",
+      "narcotics in animals",
+      "hidden drugs",
+      "cartel zoo"
+    ],
+    "overlap_check_hash": "c6f4c5d6da214fd1",
+    "why_this_can_go_viral": "Animals + drugs is bizarre and uncomfortable. The 'innocent zoo visitor' twist adds relatable horror."
+  },
+  {
+    "unique_id": "crime_0080_023_fabcd559f90ea2bf",
+    "title": "The White-Collar Criminal Who Stole a Museum's Endowment—By Faking a Picasso Sale",
+    "hook": "The painting was a known forgery. But the appraiser was paid. The board approved. The money vanished overnight.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 74,
+    "educational_value": 75,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "Picasso fraud",
+      "museum endowment",
+      "art forgery",
+      "white-collar crime",
+      "board scam"
+    ],
+    "overlap_check_hash": "fabcd559f90ea2bf",
+    "why_this_can_go_viral": "Art world corruption + millions stolen = intellectual satisfaction. The 'how did the board not check?' question is engaging."
+  },
+  {
+    "unique_id": "crime_0080_024_bcb73b4cee645b4b",
+    "title": "The Unsolved Murder Where the Victim's Phone Called Itself—After Burial",
+    "hook": "The phone pinged from inside the grave. The call lasted 47 seconds. No one spoke. But the voicemail had a whisper.",
+    "virality_score": 93,
+    "curiosity_gap_score": 99,
+    "darkness_score": 98,
+    "educational_value": 45,
+    "estimated_short_retention": 98,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "phone from grave",
+      "unsolved murder",
+      "haunted call",
+      "postmortem ping",
+      "disturbing voicemail"
+    ],
+    "overlap_check_hash": "bcb73b4cee645b4b",
+    "why_this_can_go_viral": "Supernatural + forensic mystery = unbeatable virality. The 'whisper' hook forces viewers to imagine the content."
+  },
+  {
+    "unique_id": "crime_0080_025_0981f720ad34bd69",
+    "title": "The Serial Killer Who Left Victims With a Single Rose—All From the Same Garden",
+    "hook": "The roses were traced to a greenhouse that was locked. But the owner had been dead for 20 years.",
+    "virality_score": 90,
+    "curiosity_gap_score": 96,
+    "darkness_score": 93,
+    "educational_value": 55,
+    "estimated_short_retention": 94,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "rose killer",
+      "garden murders",
+      "serial killer signature",
+      "dead greenhouse",
+      "cold case"
+    ],
+    "overlap_check_hash": "0981f720ad34bd69",
+    "why_this_can_go_viral": "Poetic signature + impossible origin = dark fairy tale mystery. The 'dead owner' twist adds supernatural intrigue."
+  }
+]

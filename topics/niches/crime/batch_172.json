@@ -1,0 +1,317 @@
+[
+  {
+    "unique_id": "crime_0172_001_9196b3b70a4e7746",
+    "title": "The Mob That Used a City's Mail System to Deliver Poison to Witnesses",
+    "hook": "When a federal witness opened their mailbox, the letter inside contained a rare toxin that killed them within seconds—and the postmark traced back to a dead letter carrier.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mail poison",
+      "witness intimidation",
+      "organized crime",
+      "rare toxin",
+      "dead letter carrier"
+    ],
+    "overlap_check_hash": "9196b3b70a4e7746",
+    "why_this_can_go_viral": "Combines fear of everyday systems (mail) with a hidden mob tactic, triggers paranoia and curiosity about how deep the conspiracy went."
+  },
+  {
+    "unique_id": "crime_0172_002_d6256ec194375ad9",
+    "title": "The Unsolved Murder Where the Killer Left a Diary—Written in Code",
+    "hook": "A diary found beside the victim's body contained 47 pages of an unknown cipher—decrypted 20 years later, it revealed the killer's confession and a location that no longer exists.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "cipher diary",
+      "unsolved murder",
+      "decrypted confession",
+      "cold case",
+      "hidden location"
+    ],
+    "overlap_check_hash": "d6256ec194375ad9",
+    "why_this_can_go_viral": "True crime fans love puzzles; the idea of a killer deliberately leaving a coded confession creates a mystery that feels solvable by viewers."
+  },
+  {
+    "unique_id": "crime_0172_004_55c4a3f836670332",
+    "title": "The Heist Where Thieves Stole a Plane by Replacing It With a Decoy—at an Air Force Base",
+    "hook": "Under cover of a routine maintenance shift, the team swapped a parked C-130 with a painted shell made of plywood and tarps—the real plane flew out 20 minutes later.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 94,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "plane heist",
+      "air force base",
+      "decoy aircraft",
+      "plywood shell",
+      "military theft"
+    ],
+    "overlap_check_hash": "55c4a3f836670332",
+    "why_this_can_go_viral": "Absurd yet plausible; the audacity of stealing a military plane using a prop triggers disbelief and intense curiosity about how it was pulled off."
+  },
+  {
+    "unique_id": "crime_0172_005_ad13f07f5f6afbb0",
+    "title": "The Billion-Dollar Fraud That Sold 'Ghost Oil Wells'—Pumping Nothing but Air",
+    "hook": "Investors bought shares in oil wells that appeared active on satellite imagery—but the pumps were just decoys, and the 'crude' was recycled motor oil from a single truck.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 72,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "ghost oil wells",
+      "fake oil scam",
+      "satellite decoy",
+      "investor fraud",
+      "recycled motor oil"
+    ],
+    "overlap_check_hash": "ad13f07f5f6afbb0",
+    "why_this_can_go_viral": "Taps into skepticism about big investments and the feeling that 'nothing is real'—viewers love seeing how sophisticated scams are engineered."
+  },
+  {
+    "unique_id": "crime_0172_006_0489f6c0189835b6",
+    "title": "The Cartel That Used a Chain of Ice Cream Trucks to Move Fentanyl in Dry Ice",
+    "hook": "The ice cream was real, but beneath the frozen treats, a layer of dry ice kept fentanyl bricks at a temperature that fooled both dogs and thermal scanners.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "ice cream cartel",
+      "fentanyl smuggling",
+      "dry ice trick",
+      "thermal scanner bypass",
+      "drug mules"
+    ],
+    "overlap_check_hash": "0489f6c0189835b6",
+    "why_this_can_go_viral": "Juxtaposes a nostalgic symbol (ice cream truck) with lethal cargo, creating a strong 'urban legend' feel that begs to be shared."
+  },
+  {
+    "unique_id": "crime_0172_008_51f21818df5e32c3",
+    "title": "The Criminal Mastermind Who Built a Fake Hospital to Bill Insurance for Ghost Patients",
+    "hook": "The building had operating rooms, ICU beds, and a pharmacy—but no real doctors, no real patients, and the 'nurses' were actors paid to push fake paperwork.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 82,
+    "educational_value": 76,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake hospital",
+      "insurance fraud",
+      "ghost patients",
+      "actors as nurses",
+      "medical scam"
+    ],
+    "overlap_check_hash": "51f21818df5e32c3",
+    "why_this_can_go_viral": "The sheer scale of building a fake medical facility triggers outrage and fascination—viewers will ask 'how did no one notice?'"
+  },
+  {
+    "unique_id": "crime_0172_014_a5e977baab1da846",
+    "title": "The Criminal Mastermind Who Used a Fake Immigration Office to Steal Passports—and Identities",
+    "hook": "He rented a storefront near the real immigration office, installed fake signage, and processed 'renewals'—clients handed over their passports and never saw them again.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 76,
+    "educational_value": 73,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake immigration office",
+      "passport theft",
+      "identity fraud",
+      "storefront scam",
+      "renewal trick"
+    ],
+    "overlap_check_hash": "a5e977baab1da846",
+    "why_this_can_go_viral": "Plays on fears of bureaucracy and identity theft; viewers will question which official-looking offices are real."
+  },
+  {
+    "unique_id": "crime_0172_015_15b80539fd52fa06",
+    "title": "The Mob That Used a City's Prison Laundry Service to Smuggle Drugs to Inmates",
+    "hook": "They won the prison laundry contract with a low bid, then sewed drug packets into the hem of every uniform—inmates simply tore the thread and swallowed the evidence.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 77,
+    "educational_value": 68,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "prison laundry smuggling",
+      "drug packets",
+      "uniform hem",
+      "inmate delivery",
+      "contract scam"
+    ],
+    "overlap_check_hash": "15b80539fd52fa06",
+    "why_this_can_go_viral": "The 'low bid' angle shows how mobsters exploit legitimate systems; viewers love seeing the hidden logistics inside prisons."
+  },
+  {
+    "unique_id": "crime_0172_016_cc640f7f590e8a65",
+    "title": "The Billion-Dollar Fraud That Sold 'Space Burial Plots'—on a Non-Existent Rocket",
+    "hook": "Thousands paid to have their ashes launched into orbit, believing they'd seen a live stream of the launch—but the rocket was a CGI animation, and the 'ashes' were never collected.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 71,
+    "educational_value": 74,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "space burial scam",
+      "fake rocket launch",
+      "CGI animation",
+      "ashes fraud",
+      "grief exploitation"
+    ],
+    "overlap_check_hash": "cc640f7f590e8a65",
+    "why_this_can_go_viral": "Exploitation of grief + space fantasy = huge emotional hook; the CGI trick feels like a plot from a dystopian thriller."
+  },
+  {
+    "unique_id": "crime_0172_018_ea2ca7f65c0a3fed",
+    "title": "The Heist Where Thieves Stole a Museum's Entire Gem Collection by Replacing the Security Guard With a Wax Figure",
+    "hook": "They drugged the night guard, posed his unconscious body elsewhere, and installed a hyper-realistic wax replica in his chair—motion sensors saw 'him' sitting still for hours.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 73,
+    "educational_value": 69,
+    "estimated_short_retention": 95,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "wax figure heist",
+      "museum theft",
+      "replica guard",
+      "motion sensor bypass",
+      "gem collection"
+    ],
+    "overlap_check_hash": "ea2ca7f65c0a3fed",
+    "why_this_can_go_viral": "The image of a wax guard fooling high-tech security is instantly viral—viewers will share it as 'the ultimate heist trick'."
+  },
+  {
+    "unique_id": "crime_0172_019_cfcff45251ba9d7f",
+    "title": "The Cartel That Used a Chain of Dental Clinics to Move Cocaine Inside False Teeth",
+    "hook": "Patients received free dental implants—but the crowns contained a hollow compartment packed with cocaine, sealed with medical-grade resin that X-rays couldn't penetrate.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 71,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "dental clinic cartel",
+      "false teeth cocaine",
+      "hollow crowns",
+      "X-ray proof",
+      "medical smuggling"
+    ],
+    "overlap_check_hash": "cfcff45251ba9d7f",
+    "why_this_can_go_viral": "Medical violation + dental anxiety + cartel creativity; the 'free treatment' bait makes the story feel disturbingly plausible."
+  },
+  {
+    "unique_id": "crime_0172_022_359bbb2b973d198b",
+    "title": "The Criminal Mastermind Who Built a Fake Weather Station to Steal Satellite Data",
+    "hook": "He erected a 'research antenna' in a remote field, complete with fake NOAA logos—then piggybacked on government satellites to intercept encrypted communications for three years.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 75,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake weather station",
+      "satellite interception",
+      "NOAA impersonation",
+      "encrypted data theft",
+      "remote antenna"
+    ],
+    "overlap_check_hash": "359bbb2b973d198b",
+    "why_this_can_go_viral": "Spy-tech appeal: the idea of stealing government data with a fake weather station feels like a real-world Q branch mission."
+  },
+  {
+    "unique_id": "crime_0172_023_8a5d3d2da25ae5ff",
+    "title": "The Mob That Used a City's Library Late Fee System to Track Police Movements",
+    "hook": "They bribed a librarian to embed RFID readers in library cards given to officers—then tracked the check-in timestamps to know when cops were inside or away from their beats.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 76,
+    "educational_value": 69,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "library card tracking",
+      "police surveillance",
+      "RFID readers",
+      "bribed librarian",
+      "mob intelligence"
+    ],
+    "overlap_check_hash": "8a5d3d2da25ae5ff",
+    "why_this_can_go_viral": "Turns a mundane library system into a surveillance network; viewers will see their own public services in a new, paranoid light."
+  },
+  {
+    "unique_id": "crime_0172_024_16f715eeedc482e0",
+    "title": "The Serial Killer Who Chose Victims Based on Their Recycling Bin Contents",
+    "hook": "He walked neighborhoods before dawn, checking recycling bins for brand-name boxes—then targeted houses with expensive purchases, knowing the owners were likely home alone.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "recycling bin killer",
+      "brand-name targeting",
+      "home alone victims",
+      "bin profiling",
+      "predator logic"
+    ],
+    "overlap_check_hash": "16f715eeedc482e0",
+    "why_this_can_go_viral": "Extremely relatable—everyone puts out recycling; the idea that your trash could mark you as a target is deeply unsettling."
+  },
+  {
+    "unique_id": "crime_0172_025_cc221cc8818f9781",
+    "title": "The Billion-Dollar Fraud That Sold 'Earthquake-Proof' Houses—Made of Styrofoam and Plaster",
+    "hook": "Thousands bought homes in a 'seismic-safe' development—but the structures were built with foam blocks coated in a thin plaster shell; the first real tremor collapsed an entire street.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 77,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "earthquake-proof scam",
+      "styrofoam houses",
+      "plaster shell",
+      "fake safety",
+      "collapse disaster"
+    ],
+    "overlap_check_hash": "cc221cc8818f9781",
+    "why_this_can_go_viral": "Life-or-death stakes + consumer outrage; the visual of a whole street pancaking because of greed is unforgettable."
+  }
+]

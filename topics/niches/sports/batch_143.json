@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "sports_0143_001_b4b2641b21bf5fd2",
+    "title": "The Referee Who Fixed a Boxing Match by Gluing His Gloves Shut",
+    "hook": "Before the opening bell, the referee shook the fighter's hand—and sealed his fate permanently.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "boxing",
+      "referee corruption",
+      "match fixing",
+      "glove tampering",
+      "mafia boxing"
+    ],
+    "overlap_check_hash": "b4b2641b21bf5fd2",
+    "why_this_can_go_viral": "Combines physical sabotage with a trusted figure, triggering outrage and disbelief."
+  },
+  {
+    "unique_id": "sports_0143_002_2044640c4aef339b",
+    "title": "The Doping Lab That Used Goat Blood to Give Runners Superhuman Lung Capacity",
+    "hook": "They believed goat hemoglobin could carry five times more oxygen than human blood.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "goat blood",
+      "doping",
+      "lung capacity",
+      "endurance",
+      "blood doping"
+    ],
+    "overlap_check_hash": "2044640c4aef339b",
+    "why_this_can_go_viral": "Bizarre animal-based experiment taps into body horror and forbidden science vibes."
+  },
+  {
+    "unique_id": "sports_0143_005_c4a7a567de807bb6",
+    "title": "The Lab That Injected Athletes with Scorpion Venom to Speed Up Neural Reactions",
+    "hook": "They wanted reflexes faster than any human—and the scorpion delivered.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "scorpion venom",
+      "neural reflexes",
+      "performance experiment",
+      "speed",
+      "black market science"
+    ],
+    "overlap_check_hash": "c4a7a567de807bb6",
+    "why_this_can_go_viral": "Poison as performance enhancer is instantly shareable and conversation-starting."
+  },
+  {
+    "unique_id": "sports_0143_006_c4681c8c7ba298da",
+    "title": "The Psychologist Who Made a Runner Believe His Own Teammate Was a Saboteur",
+    "hook": "He stopped trusting everyone—including the one person trying to help him win.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "runner",
+      "psychological manipulation",
+      "teammate sabotage",
+      "mental breakdown",
+      "sports psychology abuse"
+    ],
+    "overlap_check_hash": "c4681c8c7ba298da",
+    "why_this_can_go_viral": "Relatable fear of betrayal twisted into a real psychological weapon."
+  },
+  {
+    "unique_id": "sports_0143_007_3bddb82d2e0e81d5",
+    "title": "The Referee Who Fixed a Baseball Game by Replacing the Ball with a Frozen One",
+    "hook": "The pitcher threw it—but the ball didn't bounce like it should.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 72,
+    "educational_value": 67,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "baseball",
+      "frozen ball",
+      "referee corruption",
+      "match fixing",
+      "ball tampering"
+    ],
+    "overlap_check_hash": "3bddb82d2e0e81d5",
+    "why_this_can_go_viral": "Simple, visual tampering that fans can immediately picture and debate."
+  },
+  {
+    "unique_id": "sports_0143_008_dd153a5b3716519a",
+    "title": "The Doping Network That Used Horse Embryo Cells to Rejuvenate Aging Athletes",
+    "hook": "They promised eternal youth—but the cells didn't know where to stop growing.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 79,
+    "educational_value": 74,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "horse cells",
+      "rejuvenation",
+      "aging athletes",
+      "doping",
+      "stem cell scam"
+    ],
+    "overlap_check_hash": "dd153a5b3716519a",
+    "why_this_can_go_viral": "Anti-aging hype meets horror—exploits fear of unregulated biohacking."
+  },
+  {
+    "unique_id": "sports_0143_009_1814c19d6bce8ad9",
+    "title": "The Mafia That Forced a Team to Lose by Cutting Their Bus Brakes the Night Before",
+    "hook": "They didn't lose the game—they lost the will to drive to the stadium.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 86,
+    "educational_value": 60,
+    "estimated_short_retention": 93,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "bus sabotage",
+      "mafia",
+      "team intimidation",
+      "match fixing",
+      "organized crime sports"
+    ],
+    "overlap_check_hash": "1814c19d6bce8ad9",
+    "why_this_can_go_viral": "Real-world danger merged with sports—immediate tension and suspense."
+  },
+  {
+    "unique_id": "sports_0143_010_78b05c212e3436ac",
+    "title": "The Coach Who Locked Wrestlers in a Sauna for Hours to 'Purify Their Souls'",
+    "hook": "It started as discipline—ended with bodies unable to sweat anymore.",
+    "virality_score": 83,
+    "curiosity_gap_score": 85,
+    "darkness_score": 91,
+    "educational_value": 66,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "wrestling",
+      "sauna abuse",
+      "coach abuse",
+      "heat exposure",
+      "mental conditioning"
+    ],
+    "overlap_check_hash": "78b05c212e3436ac",
+    "why_this_can_go_viral": "Thermal horror disguised as spiritual discipline—powerful visual and emotional hook."
+  },
+  {
+    "unique_id": "sports_0143_012_622860fe2d8e1461",
+    "title": "The Psychologist Who Brainwashed a Boxer into Thinking His Opponent Was His Abuser",
+    "hook": "He fought with rage he didn't understand—and nearly killed a man in the ring.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "boxing",
+      "false memory",
+      "psychological manipulation",
+      "abuser",
+      "brainwashing"
+    ],
+    "overlap_check_hash": "622860fe2d8e1461",
+    "why_this_can_go_viral": "Deeply personal trauma weaponized—hooks viewers emotionally and ethically."
+  },
+  {
+    "unique_id": "sports_0143_013_a696e0ad77da5276",
+    "title": "The Referee Who Fixed a Cricket Match by Soaking the Pitch Overnight",
+    "hook": "The ball barely bounced—and the batsmen never knew until it was too late.",
+    "virality_score": 77,
+    "curiosity_gap_score": 80,
+    "darkness_score": 71,
+    "educational_value": 68,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "cricket",
+      "pitch tampering",
+      "referee",
+      "match fixing",
+      "water sabotage"
+    ],
+    "overlap_check_hash": "a696e0ad77da5276",
+    "why_this_can_go_viral": "Subtle, almost invisible manipulation—makes fans paranoid about every match."
+  },
+  {
+    "unique_id": "sports_0143_014_4f497b60f6e5d620",
+    "title": "The Doping Lab That Used Pig Brain Extracts to Boost Focus in Esports Players",
+    "hook": "They said it sharpened the mind—but it also blurred the line between human and animal.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 76,
+    "educational_value": 73,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "pig brain",
+      "esports",
+      "focus enhancement",
+      "doping",
+      "cognitive enhancers"
+    ],
+    "overlap_check_hash": "4f497b60f6e5d620",
+    "why_this_can_go_viral": "Esports doping is a fresh, growing niche—plus animal brain extract is uniquely disturbing."
+  },
+  {
+    "unique_id": "sports_0143_015_4ba64810bd8298c7",
+    "title": "The Mafia That Owned the Ice Cream Trucks Outside Stadiums to Signal Players",
+    "hook": "When the music played, a bet was won—and a game was lost.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 83,
+    "educational_value": 62,
+    "estimated_short_retention": 92,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "ice cream truck",
+      "mafia",
+      "signaling",
+      "match fixing",
+      "betting syndicate"
+    ],
+    "overlap_check_hash": "4ba64810bd8298c7",
+    "why_this_can_go_viral": " Innocent childhood symbol turned criminal tool—incredibly shareable contrast."
+  },
+  {
+    "unique_id": "sports_0143_016_69549e2401664a60",
+    "title": "The Coach Who Starved Gymnasts for Days Before Competition to Make Them 'Light as Air'",
+    "hook": "They floated through routines—but their organs were shutting down one by one.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 93,
+    "educational_value": 67,
+    "estimated_short_retention": 92,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "gymnastics",
+      "starvation",
+      "coach abuse",
+      "eating disorder",
+      "weight control"
+    ],
+    "overlap_check_hash": "69549e2401664a60",
+    "why_this_can_go_viral": "Extreme body control narrative—horrifying, visual, and emotionally charged."
+  },
+  {
+    "unique_id": "sports_0143_017_1488cedf59d35712",
+    "title": "The Lab That Tried to Give Cyclists Lizard DNA to Improve Oxygen Efficiency",
+    "hook": "They believed reptiles could breathe better—so they made the athletes less human.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 79,
+    "educational_value": 74,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "lizard DNA",
+      "cycling",
+      "oxygen efficiency",
+      "gene doping",
+      "transhumanism sports"
+    ],
+    "overlap_check_hash": "1488cedf59d35712",
+    "why_this_can_go_viral": "Sci-fi horror meets real sports—triggers fascination with genetic modification."
+  },
+  {
+    "unique_id": "sports_0143_019_02e40d7a1c3519e1",
+    "title": "The Referee Who Fixed a Snooker Final by Replacing the Cue Ball with a Magnet",
+    "hook": "The players aimed perfectly—but the ball followed a force they couldn't see.",
+    "virality_score": 76,
+    "curiosity_gap_score": 79,
+    "darkness_score": 70,
+    "educational_value": 66,
+    "estimated_short_retention": 81,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "snooker",
+      "magnetic ball",
+      "referee corruption",
+      "match fixing",
+      "cue ball tampering"
+    ],
+    "overlap_check_hash": "02e40d7a1c3519e1",
+    "why_this_can_go_viral": "Invisible, high-tech cheating—makes viewers rethink every close shot they've seen."
+  },
+  {
+    "unique_id": "sports_0143_020_8716f4b9ebe2c30f",
+    "title": "The Doping Network That Used Leech Saliva to Thin Blood for Marathon Runners",
+    "hook": "They ran faster because their blood flowed like water—but they couldn't stop bleeding.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 77,
+    "educational_value": 71,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "leech saliva",
+      "marathon",
+      "blood thinner",
+      "doping",
+      "endurance"
+    ],
+    "overlap_check_hash": "8716f4b9ebe2c30f",
+    "why_this_can_go_viral": "Gross, medically fascinating, and completely unexpected method—perfect for shock value."
+  },
+  {
+    "unique_id": "sports_0143_021_14d2afe510183ad1",
+    "title": "The Mafia That Bought a Horse Racing Track's Water Troughs to Sedate Rival Horses",
+    "hook": "The horses ran—but they were already half-asleep before the starting gate opened.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 89,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "horse racing",
+      "water trough",
+      "sedation",
+      "mafia",
+      "race fixing"
+    ],
+    "overlap_check_hash": "14d2afe510183ad1",
+    "why_this_can_go_viral": "Animals caught in crime—triggers outrage and curiosity about hidden corruption."
+  },
+  {
+    "unique_id": "sports_0143_022_99f90168defba7a5",
+    "title": "The Coach Who Forced Swimmers to Train in Freezing Water to 'Toughen Their Lungs'",
+    "hook": "It wasn't just cold—it was a slow, calculated way to break their resistance.",
+    "virality_score": 82,
+    "curiosity_gap_score": 84,
+    "darkness_score": 88,
+    "educational_value": 66,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "swimming",
+      "freezing water",
+      "coach abuse",
+      "lung training",
+      "hypothermia"
+    ],
+    "overlap_check_hash": "99f90168defba7a5",
+    "why_this_can_go_viral": "Extreme physical suffering disguised as discipline—visceral and emotionally powerful."
+  },
+  {
+    "unique_id": "sports_0143_023_f5671932080926d4",
+    "title": "The Lab That Used Electric Shocks to 'Reset' Athletes' Pain Thresholds",
+    "hook": "They felt nothing after the treatment—including the damage they were doing to themselves.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 84,
+    "educational_value": 73,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "electric shock",
+      "pain threshold",
+      "extreme experiment",
+      "numbing",
+      "athlete abuse"
+    ],
+    "overlap_check_hash": "f5671932080926d4",
+    "why_this_can_go_viral": "Torture-like training combined with scientific ambition—dark and shareable."
+  },
+  {
+    "unique_id": "sports_0143_024_9e905b9c595e8988",
+    "title": "The Psychologist Who Convinced a High Jumper the Bar Was Lower Than It Was",
+    "hook": "She cleared heights she never trained for—because her mind was tricked into believing.",
+    "virality_score": 77,
+    "curiosity_gap_score": 80,
+    "darkness_score": 74,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "high jump",
+      "perception trick",
+      "psychological manipulation",
+      "mental barrier",
+      "sports psychology abuse"
+    ],
+    "overlap_check_hash": "9e905b9c595e8988",
+    "why_this_can_go_viral": "Mind-over-matter twist with a dark core—intriguing and relatable to anyone who competes."
+  },
+  {
+    "unique_id": "sports_0143_025_161e36b6f8723486",
+    "title": "The Betting Syndicate That Bought an Arena's Sound System to Play Distracting Frequencies",
+    "hook": "The home team heard their cue—the visitors heard only static and noise.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 79,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "sound system",
+      "betting syndicate",
+      "arena sabotage",
+      "frequency manipulation",
+      "dark business"
+    ],
+    "overlap_check_hash": "161e36b6f8723486",
+    "why_this_can_go_viral": "Tech-based cheating feels modern and unsettling—exploits trust in the stadium environment."
+  }
+]

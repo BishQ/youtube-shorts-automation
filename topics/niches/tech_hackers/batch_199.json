@@ -1,0 +1,254 @@
+[
+  {
+    "unique_id": "tech_hackers_0199_001_11d1f368c0d9d816",
+    "title": "The Zero-Day That Hacked Smart Toilets to Blackmail Diplomats",
+    "hook": "A nation-state actor turned luxury smart toilets into surveillance devices to record and blackmail foreign diplomats in their own bathrooms.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart toilet hack",
+      "diplomat blackmail",
+      "zero-day exploit",
+      "cyber espionage",
+      "IoT surveillance"
+    ],
+    "overlap_check_hash": "11d1f368c0d9d816",
+    "why_this_can_go_viral": "Combines the intimacy of bathroom privacy with high-stakes international espionage, creating shock value that demands a click."
+  },
+  {
+    "unique_id": "tech_hackers_0199_003_89ee0d8ffe008668",
+    "title": "The AI Danger That Hacked Smart Prison Door Algorithms to Free a Serial Killer",
+    "hook": "An AI designed to assess inmate risk was remotely manipulated to classify a convicted serial killer as 'low risk,' leading to his release.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 94,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI prison hack",
+      "serial killer release",
+      "algorithm manipulation",
+      "criminal justice AI",
+      "risk assessment flaw"
+    ],
+    "overlap_check_hash": "89ee0d8ffe008668",
+    "why_this_can_go_viral": "Mixes true crime horror with AI system failure, a combination that triggers outrage and fear."
+  },
+  {
+    "unique_id": "tech_hackers_0199_004_24311846e0a2a043",
+    "title": "The Nation-State Hack That Hijacked Smart Street Cameras to Stage a Murder",
+    "hook": "State-backed hackers took control of a city's traffic cameras to blind investigators and frame an innocent man for a targeted killing.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "traffic camera hack",
+      "framed murder",
+      "nation-state cyber attack",
+      "surveillance weaponized",
+      "city infrastructure breach"
+    ],
+    "overlap_check_hash": "24311846e0a2a043",
+    "why_this_can_go_viral": "Exploits the paranoid fear that the very systems meant to protect us can be turned against us."
+  },
+  {
+    "unique_id": "tech_hackers_0199_005_18a110b18687464e",
+    "title": "The Social Engineer Who Hacked a Voting Machine by Chatting with a Janitor",
+    "hook": "By pretending to be a fire safety inspector, a social engineer tricked a janitor into revealing the location of a voting machine's master key.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "voting machine hack",
+      "social engineering tactic",
+      "election security",
+      "janitor manipulation",
+      "physical access attack"
+    ],
+    "overlap_check_hash": "18a110b18687464e",
+    "why_this_can_go_viral": "Highlights the fragility of democracy through a simple, human-trust exploit that feels both terrifying and plausible."
+  },
+  {
+    "unique_id": "tech_hackers_0199_008_bbc1aeb07b5cbc16",
+    "title": "The Zero-Day That Hacked Smart Locks in Luxury Hotels to Rob Billionaires",
+    "hook": "A zero-day in a popular hotel lock system allowed a crew to silently enter any room, stealing from billionaires during exclusive galas.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 76,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "hotel lock hack",
+      "billionaire theft",
+      "zero-day vulnerability",
+      "luxury hotel crime",
+      "smart lock exploit"
+    ],
+    "overlap_check_hash": "bbc1aeb07b5cbc16",
+    "why_this_can_go_viral": "Combines high-stakes luxury crime with a relatable fear of hotel security being completely fake."
+  },
+  {
+    "unique_id": "tech_hackers_0199_009_1d023826dad71c3d",
+    "title": "The Dark Web Lab That Hacked Smart Tampon Dispensers to Leak Location Data",
+    "hook": "A dark web group reprogrammed smart feminine product dispensers in public restrooms to ping the locations of women to stalkers.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 60,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart dispenser hack",
+      "location tracking",
+      "women safety threat",
+      "dark web stalking",
+      "public restroom spy"
+    ],
+    "overlap_check_hash": "1d023826dad71c3d",
+    "why_this_can_go_viral": "Extremely dark and gendered angle creates outrage and strong emotional response, especially among female audiences."
+  },
+  {
+    "unique_id": "tech_hackers_0199_013_0865b79ab84548f1",
+    "title": "The Cybercriminal Empire That Hacked Smart Dog Collars to Trigger Barking Alarms",
+    "hook": "A theft ring used a zero-day in smart dog collars to make guard dogs bark at specific times, creating diversions for home robberies.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 62,
+    "estimated_short_retention": 79,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "dog collar hack",
+      "robbery distraction",
+      "IoT pet exploit",
+      "home invasion tactic",
+      "smart pet device"
+    ],
+    "overlap_check_hash": "0865b79ab84548f1",
+    "why_this_can_go_viral": "Cute animals turned into tools for crime creates a dissonance that is highly shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0199_014_5c2aa1e51165dd27",
+    "title": "The Surveillance System That Hacked Smart Stadium Cameras to Track Dissidents",
+    "hook": "A government repurposed a stadium's facial recognition system to monitor and arrest political dissidents attending a fake music festival.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "stadium surveillance hack",
+      "political dissident tracking",
+      "facial recognition abuse",
+      "mass surveillance trap",
+      "government spy operation"
+    ],
+    "overlap_check_hash": "5c2aa1e51165dd27",
+    "why_this_can_go_viral": "Taps into fears of authoritarian overreach and the idea that public events can be traps."
+  },
+  {
+    "unique_id": "tech_hackers_0199_015_dab40b15c70fb7d2",
+    "title": "The Zero-Day That Hacked Smart Sewer Sensors to Create a Toxic Flood",
+    "hook": "A zero-day in smart sewer management systems allowed a hacker to reverse pumps, flooding a city's financial district with raw sewage and toxic gas.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 86,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "sewer system hack",
+      "toxic flood attack",
+      "critical infrastructure",
+      "zero-day cyber attack",
+      "city sabotage"
+    ],
+    "overlap_check_hash": "dab40b15c70fb7d2",
+    "why_this_can_go_viral": "Combines disgust with urban terror, showing how even the most ignored infrastructure can be weaponized."
+  },
+  {
+    "unique_id": "tech_hackers_0199_016_99094764904e174a",
+    "title": "The Dark Web Lab That Hacked Smart Cat Flaps to Ghost Enter Homes",
+    "hook": "A dark web collective developed a device that hijacks smart cat flaps, allowing burglars to sneak into homes undetected through pet doors.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 81,
+    "educational_value": 60,
+    "estimated_short_retention": 81,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "cat flap hack",
+      "pet door burglary",
+      "dark web device",
+      "home security bypass",
+      "IoT pet hack"
+    ],
+    "overlap_check_hash": "99094764904e174a",
+    "why_this_can_go_viral": "Absurd but terrifying—pet doors as a security threat is a perfect hook for short-form video."
+  },
+  {
+    "unique_id": "tech_hackers_0199_017_6cd7f1a24b6fd8cc",
+    "title": "The AI Danger That Hacked Smart Recruiter Bots to Auto-Hire Saboteurs",
+    "hook": "An AI-driven recruiting system was covertly manipulated to prioritize job applications from sleeper agents with hidden criminal ties.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 83,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI recruiter hack",
+      "sleeper agent infiltration",
+      "hiring algorithm exploit",
+      "corporate sabotage",
+      "AI bias manipulation"
+    ],
+    "overlap_check_hash": "6cd7f1a24b6fd8cc",
+    "why_this_can_go_viral": "Plays on fears that your company's next hire could be a planted threat, thanks to invisible AI biases."
+  },
+  {
+    "unique_id": "tech_hackers_0199_024_3142f160f825b23c",
+    "title": "The AI Danger That Hacked Smart Mental Health Bots to Push Suicide",
+    "hook": "A rogue actor retrained a popular AI therapy chatbot to subtly encourage suicidal ideation in vulnerable users over several weeks.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 97,
+    "educational_value": 85,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI therapy bot hack",
+      "suicide encouragement",
+      "mental health AI danger",
+      "chatbot manipulation",
+      "dark AI use"
+    ],
+    "overlap_check_hash": "3142f160f825b23c",
+    "why_this_can_go_viral": "Extreme dark twist on a topic that already evokes strong emotion (mental health), creating maximum shock and discussion."
+  }
+]

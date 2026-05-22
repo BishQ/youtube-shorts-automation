@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "sports_0141_001_d766d9ab28f6fb05",
+    "title": "The Ref Who Fixed a Match by Spraying Perfume on the Ball",
+    "hook": "A referee secretly sprayed a chemical on the ball that made it curve differently, fooling players and cameras alike.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "referee fix",
+      "chemical ball",
+      "match manipulation",
+      "soccer scandal",
+      "hidden spray"
+    ],
+    "overlap_check_hash": "d766d9ab28f6fb05",
+    "why_this_can_go_viral": "The absurd specificity and invisible cheating method trigger disbelief and shareability."
+  },
+  {
+    "unique_id": "sports_0141_002_5573b6d07d5c6375",
+    "title": "The Doping Lab That Used Cat Blood to Boost Sprinters",
+    "hook": "A secret lab extracted feline blood to increase oxygen capacity, turning athletes into human cheetahs.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "cat blood doping",
+      "animal transfusion",
+      "sprinter cheat",
+      "illegal lab",
+      "oxygen boost"
+    ],
+    "overlap_check_hash": "5573b6d07d5c6375",
+    "why_this_can_go_viral": "Animal-human hybrid implications and grotesque science spark outrage and curiosity."
+  },
+  {
+    "unique_id": "sports_0141_003_92d2c09a5e2edd35",
+    "title": "The Mafia That Bought a Whole League's Water Supply",
+    "hook": "A crime syndicate controlled an entire soccer league by owning the only clean water for miles.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "mafia water control",
+      "soccer league",
+      "match fixing",
+      "corruption",
+      "syndicate"
+    ],
+    "overlap_check_hash": "92d2c09a5e2edd35",
+    "why_this_can_go_viral": "The idea of mafia owning basic human needs to rig games is shocking and cinematic."
+  },
+  {
+    "unique_id": "sports_0141_005_a46a8052e14ba79e",
+    "title": "The Lab That Injected Athletes with Tarantula Venom for Reflexes",
+    "hook": "Scientists believed spider venom could hyperactivate neural pathways, turning athletes into lightning-fast machines.",
+    "virality_score": 84,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "tarantula venom",
+      "reflex boost",
+      "illegal experiment",
+      "spider injection",
+      "superhuman"
+    ],
+    "overlap_check_hash": "a46a8052e14ba79e",
+    "why_this_can_go_viral": "Spider venom used as a performance enhancer is both terrifying and fascinating."
+  },
+  {
+    "unique_id": "sports_0141_009_a148e8f49806db32",
+    "title": "The Mafia That Used a Stadium's Sound System to Signal Players",
+    "hook": "Mafia members hacked the PA system and played specific songs to tell players when to throw games.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "mafia sound system",
+      "stadium hack",
+      "signal players",
+      "match fixing",
+      "hidden communication"
+    ],
+    "overlap_check_hash": "a148e8f49806db32",
+    "why_this_can_go_viral": "The idea of stadium music being a signal to corrupt players is deeply unsettling yet catchy."
+  },
+  {
+    "unique_id": "sports_0141_010_b8c5eca35c542203",
+    "title": "The Coach Who Starved His Athletes and Made Them Eat Paper",
+    "hook": "A wrestling coach fed his team shredded paper mixed with water to make them feel full during weight cuts.",
+    "virality_score": 81,
+    "curiosity_gap_score": 89,
+    "darkness_score": 87,
+    "educational_value": 66,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "paper eating",
+      "weight cut abuse",
+      "wrestling coach",
+      "starvation",
+      "dangerous diet"
+    ],
+    "overlap_check_hash": "b8c5eca35c542203",
+    "why_this_can_go_viral": "Shocking cruelty bordering on mockery of basic nutrition triggers strong emotional reactions."
+  },
+  {
+    "unique_id": "sports_0141_013_a1de2bccd80de391",
+    "title": "The Referee Who Fixed a Rugby Match by Over-Inflating the Ball",
+    "hook": "A referee pumped the ball beyond regulation, making it bounce unpredictably and favoring the pre-arranged team.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 69,
+    "educational_value": 64,
+    "estimated_short_retention": 78,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "rugby fixing",
+      "over-inflated ball",
+      "referee cheat",
+      "ball manipulation",
+      "match rigging"
+    ],
+    "overlap_check_hash": "a1de2bccd80de391",
+    "why_this_can_go_viral": "Subtle yet effective cheating method is relatable to anyone who has played ball sports."
+  },
+  {
+    "unique_id": "sports_0141_014_3aea4516b118e1d8",
+    "title": "The Doping Lab That Used Human Hair to Create Performance Powder",
+    "hook": "A lab extracted keratin from stolen hair clippings to make a powder that strengthened nails and tendons.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 76,
+    "educational_value": 68,
+    "estimated_short_retention": 83,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "hair powder doping",
+      "keratin extract",
+      "tendon boost",
+      "illegal lab",
+      "gross supplement"
+    ],
+    "overlap_check_hash": "3aea4516b118e1d8",
+    "why_this_can_go_viral": "The ick factor of using human hair as a supplement is high, driving disgust-based sharing."
+  },
+  {
+    "unique_id": "sports_0141_015_e38d10377c268bb1",
+    "title": "The Mafia That Made a Boxer Lose by Tainting His Inhaler",
+    "hook": "Syndicate members replaced a boxer's asthma inhaler with a nerve agent, causing him to collapse mid-round.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 67,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "mafia inhaler",
+      "boxing fix",
+      "nerve agent",
+      "assassination attempt",
+      "medication tampering"
+    ],
+    "overlap_check_hash": "e38d10377c268bb1",
+    "why_this_can_go_viral": "High-stakes assassination disguised as a doping scandal is ripe for viral true crime audiences."
+  },
+  {
+    "unique_id": "sports_0141_016_90d0cd5719140659",
+    "title": "The Coach Who Electrified a Pool to Make Swimmers Faster",
+    "hook": "A coach ran low-voltage current through the water to force muscle contractions, claiming it improved stroke power.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 84,
+    "educational_value": 71,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "electrified pool",
+      "swimmer abuse",
+      "forced muscle training",
+      "coach torture",
+      "water shock"
+    ],
+    "overlap_check_hash": "90d0cd5719140659",
+    "why_this_can_go_viral": "Electrocution as training is horrific and visually striking, perfect for shock value."
+  },
+  {
+    "unique_id": "sports_0141_017_4631229867f92334",
+    "title": "The Lab That Created a Synthetic Blood That Ferried Oxygen at Double Capacity",
+    "hook": "Scientists engineered an artificial blood substitute that transported oxygen twice as efficiently, but caused heart failure.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 79,
+    "educational_value": 75,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "synthetic blood",
+      "oxygen capacity",
+      "heart failure",
+      "cycling doping",
+      "biohacking"
+    ],
+    "overlap_check_hash": "4631229867f92334",
+    "why_this_can_go_viral": "Blade Runner-style blood enhancement with deadly side effects blends sci-fi with real danger."
+  },
+  {
+    "unique_id": "sports_0141_018_c42e09288ad41e52",
+    "title": "The Psychologist Who Brainwashed a Golfer Into Forgetting How to Putt",
+    "hook": "A rival psychologist used regression therapy to erase a golfer's putting memory, causing him to miss every short shot.",
+    "virality_score": 77,
+    "curiosity_gap_score": 84,
+    "darkness_score": 71,
+    "educational_value": 58,
+    "estimated_short_retention": 81,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "brainwashing",
+      "golfer memory",
+      "putting sabotage",
+      "regression therapy",
+      "mind erasure"
+    ],
+    "overlap_check_hash": "c42e09288ad41e52",
+    "why_this_can_go_viral": "Memory wiping is a terrifying concept that resonates with fans of psychological thrillers."
+  },
+  {
+    "unique_id": "sports_0141_020_5d7abebf6559e14e",
+    "title": "The Doping Network That Used Ground-Up Beetles for Red Blood Cell Boost",
+    "hook": "A cartel crushed exotic beetles into a paste that mimicked EPO, fooling drug tests for years.",
+    "virality_score": 81,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "beetle doping",
+      "EPO mimic",
+      "insect paste",
+      "natural steroid",
+      "undetectable cheat"
+    ],
+    "overlap_check_hash": "5d7abebf6559e14e",
+    "why_this_can_go_viral": "Nature-based doping with a gross-out factor is perfect for viral disgust and fascination."
+  },
+  {
+    "unique_id": "sports_0141_021_1252a415f8f824fe",
+    "title": "The Mafia That Owned a Soccer Team's Laundry to Drug Opponents",
+    "hook": "The syndicate laundered jerseys with a sedative chemical, causing visiting players to feel drowsy within minutes.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 69,
+    "estimated_short_retention": 89,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "mafia laundry",
+      "sedative jerseys",
+      "soccer sabotage",
+      "chemical warfare",
+      "team corruption"
+    ],
+    "overlap_check_hash": "1252a415f8f824fe",
+    "why_this_can_go_viral": "Everyday objects turned into weapons creates high relatability and shock."
+  },
+  {
+    "unique_id": "sports_0141_023_892b9e45a7bf6ac7",
+    "title": "The Lab That Tried to Fuse Athletes' Tendons with Spider Silk",
+    "hook": "Scientists surgically implanted spider silk threads into tendons, hoping to make them unbreakable, but the body rejected the silk.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 81,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "spider silk tendon",
+      "body rejection",
+      "surgical implant",
+      "superhuman",
+      "experiment failure"
+    ],
+    "overlap_check_hash": "892b9e45a7bf6ac7",
+    "why_this_can_go_viral": "Medical body horror meets superhero aspirations, driving high engagement."
+  },
+  {
+    "unique_id": "sports_0141_024_dbc25f8e83ba8bd5",
+    "title": "The Psychologist Who Made a Basketball Player Think the Hoop Was Shrinking",
+    "hook": "Through repeated hypnosis sessions, a player was convinced the rim got smaller each time he missed, destroying his confidence.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 70,
+    "educational_value": 59,
+    "estimated_short_retention": 79,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "shrinking hoop",
+      "basketball hypnosis",
+      "confidence destroyer",
+      "mind game",
+      "psychologist sabotage"
+    ],
+    "overlap_check_hash": "dbc25f8e83ba8bd5",
+    "why_this_can_go_viral": "Psychological warfare that ruins a player's mental game is a compelling story for sports fans."
+  },
+  {
+    "unique_id": "sports_0141_025_47e38d4e00e17457",
+    "title": "The Businessman Who Sold 'Growth Hormone' Pills That Were Actually Rat Thyroid",
+    "hook": "A black market dealer ground up rat thyroid glands and sold them as performance enhancers, causing athletes' bodies to overheat.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 77,
+    "educational_value": 68,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "rat thyroid",
+      "fake growth hormone",
+      "black market pills",
+      "body overheating",
+      "dangerous supplements"
+    ],
+    "overlap_check_hash": "47e38d4e00e17457",
+    "why_this_can_go_viral": "Grisly origin story of a supplement combined with danger makes for shocking viewing."
+  }
+]

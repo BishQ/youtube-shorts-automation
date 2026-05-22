@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0045_002_150b0a1e26b88214",
+    "title": "The Chemist Who Created a Flame That Burns Underwater—and Cannot Be Extinguished",
+    "hook": "They thought they'd made a stable new compound—until it ignited in a swimming pool and kept burning for days.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "underwater fire",
+      "chemical reaction",
+      "unquenchable flame",
+      "lab accident",
+      "pyrophoric"
+    ],
+    "overlap_check_hash": "150b0a1e26b88214",
+    "why_this_can_go_viral": "Defies normal physics expectations—people love seeing fire where it logically shouldn't exist."
+  },
+  {
+    "unique_id": "science_0045_003_286f5028496976bf",
+    "title": "The Neuroscientist Who Found That Your Brain Can Be Hacked to Forget Your Own Name",
+    "hook": "With a precise electromagnetic pulse, you can erase a specific memory—and subjects couldn't even recall who they were.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory erasure",
+      "TMS",
+      "identity loss",
+      "brain hacking",
+      "forgetting"
+    ],
+    "overlap_check_hash": "286f5028496976bf",
+    "why_this_can_go_viral": "Taps into primal fear of losing your sense of self, with a 'this could happen to you' angle."
+  },
+  {
+    "unique_id": "science_0045_004_09a1069a15b01eb4",
+    "title": "The Physicist Who Proved That a Single Particle Can Exist in Two Places at Once—in Different Universes",
+    "hook": "They tracked an electron that split into two distinct paths, each leading to a different outcome in parallel realities.",
+    "virality_score": 87,
+    "curiosity_gap_score": 94,
+    "darkness_score": 65,
+    "educational_value": 82,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "parallel universes",
+      "quantum superposition",
+      "many-worlds",
+      "electron split",
+      "reality"
+    ],
+    "overlap_check_hash": "09a1069a15b01eb4",
+    "why_this_can_go_viral": "Quantum mechanics already fascinates; the idea that alternate selves exist in real time is mind-bending."
+  },
+  {
+    "unique_id": "science_0045_005_b24c80e735a9bc57",
+    "title": "The Biologist Who Accidentally Created a Fungus That Turns Ants Into Zombies—and Then It Jumped Species",
+    "hook": "A lab strain of Ophiocordyceps mutated, and soon rats were climbing to high points and dying with spores bursting from their skulls.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 95,
+    "educational_value": 68,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "zombie fungus",
+      "species jump",
+      "Ophiocordyceps",
+      "mind control",
+      "pandemic"
+    ],
+    "overlap_check_hash": "b24c80e735a9bc57",
+    "why_this_can_go_viral": "Combines real parasitic horror with 'what if it affects us' dread—perfect for dark science storytelling."
+  },
+  {
+    "unique_id": "science_0045_006_53c830d2f4216165",
+    "title": "The Soviet Lab That Tried to Revive Dead Dogs by Transfusing Them With Blood From Living Humans",
+    "hook": "After clinical death, a Russian scientist pumped warm human blood into a corpse—and its eyes snapped open.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 55,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "Soviet experiments",
+      "resurrection",
+      "blood transfusion",
+      "dog",
+      "Bogdanov"
+    ],
+    "overlap_check_hash": "53c830d2f4216165",
+    "why_this_can_go_viral": "Shock factor of human-animal blood mixing and failed immortality quests generates immediate clicks."
+  },
+  {
+    "unique_id": "science_0045_007_86b6e2cc19d5025a",
+    "title": "The Chemist Who Made a Polymer That Absorbs All Sound—and Then the Room Began to Hum",
+    "hook": "The material cancelled every echo, but after 48 hours, a low-frequency drone emerged from nowhere—and no one knows why.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 72,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "sound absorption",
+      "polymer",
+      "acoustic anomaly",
+      "humming",
+      "material science"
+    ],
+    "overlap_check_hash": "86b6e2cc19d5025a",
+    "why_this_can_go_viral": "Creepy unexplained phenomenon in a seemingly mundane scientific discovery—great for mystery hooks."
+  },
+  {
+    "unique_id": "science_0045_009_6c5d10f8a091ef14",
+    "title": "The Researcher Who Faked a Study Showing That Your Name Determines How You Will Die",
+    "hook": "He published a paper linking the first letter of your name with cause of death—and journalists never bothered to fact-check.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fake study",
+      "name prediction",
+      "fraud",
+      "death",
+      "journalism"
+    ],
+    "overlap_check_hash": "6c5d10f8a091ef14",
+    "why_this_can_go_viral": "Combines superstition with scandal—viewers will check their own names and share in disbelief."
+  },
+  {
+    "unique_id": "science_0045_010_2e34ef6601d9a7dd",
+    "title": "The Lab That Unleashed a Virus That Makes You Forgive Your Worst Enemy",
+    "hook": "A genetically engineered pathogen erased grudges and hatred—but also removed the ability to feel self-defense.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 84,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "empathy virus",
+      "behavioral modification",
+      "genetic engineering",
+      "forgiveness",
+      "mind control"
+    ],
+    "overlap_check_hash": "2e34ef6601d9a7dd",
+    "why_this_can_go_viral": "Terrifying 'too good to be safe' concept—emotional manipulation via biology is deeply unsettling."
+  },
+  {
+    "unique_id": "science_0045_011_c6e35c2a1f27204d",
+    "title": "The Neuroscientist Who Found That Your Brain Emits a Signal Just Before You Die—and It Can Be Broadcast to Others",
+    "hook": "In the final seconds, a burst of gamma waves escaped a dying brain—and nearby subjects reported seeing a white light.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 94,
+    "educational_value": 70,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "near-death experience",
+      "gamma wave",
+      "death signal",
+      "brain broadcast",
+      "NED"
+    ],
+    "overlap_check_hash": "c6e35c2a1f27204d",
+    "why_this_can_go_viral": "Directly taps into obsession with death and afterlife—scientific evidence for the 'white light' phenomenon."
+  },
+  {
+    "unique_id": "science_0045_012_d593b1acb46fda21",
+    "title": "The Quantum Physicist Who Found That a Particle Can Be in Two States Simultaneously—Forever",
+    "hook": "They trapped a beryllium ion in a superposition that never collapsed—even after years of continuous measurement.",
+    "virality_score": 79,
+    "curiosity_gap_score": 88,
+    "darkness_score": 55,
+    "educational_value": 82,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "superposition",
+      "beryllium ion",
+      "quantum stability",
+      "forever",
+      "measurement"
+    ],
+    "overlap_check_hash": "d593b1acb46fda21",
+    "why_this_can_go_viral": "Breaks the 'observation collapses the wavefunction' rule—challenges basic quantum understanding."
+  },
+  {
+    "unique_id": "science_0045_013_79fc56dd5ff82d84",
+    "title": "The Chemist Who Accidentally Created a Gel That Absorbs Radiation—and Then Began Multiplying",
+    "hook": "The substance was designed to clean up nuclear waste, but it started replicating like a living organism in the dark.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 76,
+    "educational_value": 68,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "self-replicating gel",
+      "nuclear waste",
+      "radiation",
+      "grey goo",
+      "polymer"
+    ],
+    "overlap_check_hash": "79fc56dd5ff82d84",
+    "why_this_can_go_viral": "Echoes the 'grey goo' nightmare scenario—nanotech horror with a chemical twist."
+  },
+  {
+    "unique_id": "science_0045_014_af94d642cf5b84e3",
+    "title": "The Physicist Who Proved That Empty Space Is Full of Particles That Erase Information",
+    "hook": "Virtual particles in a vacuum were found to 'scramble' light signals—meaning the universe itself has a built-in censorship filter.",
+    "virality_score": 81,
+    "curiosity_gap_score": 89,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "virtual particles",
+      "information loss",
+      "vacuum",
+      "censorship",
+      "quantum fluctuation"
+    ],
+    "overlap_check_hash": "af94d642cf5b84e3",
+    "why_this_can_go_viral": "Implies a cosmic conspiracy—that reality actively hides things from us."
+  },
+  {
+    "unique_id": "science_0045_015_621b6e8ec58265ee",
+    "title": "The Soviet Lab That Crossed a Human With a Chimp—and the Result Learned to Speak",
+    "hook": "In a secret institute, they fused human and primate embryos—and the hybrid produced recognizable words before dying.",
+    "virality_score": 97,
+    "curiosity_gap_score": 99,
+    "darkness_score": 98,
+    "educational_value": 50,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human-chimp hybrid",
+      "Soviet experiment",
+      "speaking",
+      "Ilia Ivanov",
+      "chimera"
+    ],
+    "overlap_check_hash": "621b6e8ec58265ee",
+    "why_this_can_go_viral": "Extreme taboo and 'what if it worked' horror—guaranteed to trigger shock and shares."
+  },
+  {
+    "unique_id": "science_0045_016_f0bd1c72d65a4c1c",
+    "title": "The Researcher Who Faked a Study Showing That Your Dreams Predict Earthquakes",
+    "hook": "He claimed to have 10,000 diary entries matching dream content to seismic events—but every single one was fabricated.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 68,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "dream prediction",
+      "earthquake",
+      "fake data",
+      "fraud",
+      "parapsychology"
+    ],
+    "overlap_check_hash": "f0bd1c72d65a4c1c",
+    "why_this_can_go_viral": "Taps into the universal desire to believe in precognitive dreams—then reveals the betrayal."
+  },
+  {
+    "unique_id": "science_0045_017_9a15877c23ec5820",
+    "title": "The Lab That Unleashed a Bacterium That Breaks Down Plastic—and Then Started Eating Rubber",
+    "hook": "The engineered microbe evolved a taste for car tires, conveyor belts, and eventually the seals on the lab doors.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "plastic-eating bacteria",
+      "evolution",
+      "rubber",
+      "bioremediation",
+      "runaway evolution"
+    ],
+    "overlap_check_hash": "9a15877c23ec5820",
+    "why_this_can_go_viral": "Good intentions gone catastrophically wrong—classic 'chasing the cure creates the monster' narrative."
+  },
+  {
+    "unique_id": "science_0045_018_b7a51f2801b0d4e3",
+    "title": "The Physicist Who Found That Gravity Can Be Repulsive—Not Just Attractive",
+    "hook": "A new experiment with ultra-cold atoms revealed a ‘negative mass’ that pushes things away instead of pulling them in.",
+    "virality_score": 80,
+    "curiosity_gap_score": 91,
+    "darkness_score": 48,
+    "educational_value": 85,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "negative mass",
+      "repulsive gravity",
+      "Bose-Einstein condensate",
+      "anti-gravity",
+      "cold atoms"
+    ],
+    "overlap_check_hash": "b7a51f2801b0d4e3",
+    "why_this_can_go_viral": "Upends simple 'gravity pulls' narrative—feels like sci-fi becoming real."
+  },
+  {
+    "unique_id": "science_0045_019_6a5286517519bc17",
+    "title": "The Chemist Who Made a Glue That Bonds to Everything—Including Living Tissue",
+    "hook": "He was trying to make a super-adhesive for industry, but it permanently fused a surgical glove to a rabbit's heart.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 74,
+    "educational_value": 60,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "super glue",
+      "living tissue",
+      "medical disaster",
+      "adhesive",
+      "animal testing"
+    ],
+    "overlap_check_hash": "6a5286517519bc17",
+    "why_this_can_go_viral": "Gory and sticky—visual horror of permanent bonding is easy to imagine and share."
+  },
+  {
+    "unique_id": "science_0045_021_a1f9f7679948dac1",
+    "title": "The Quantum Physicist Who Found That Entanglement Allows Messages to Travel Backward in Time",
+    "hook": "They entangled two photons, measured one, and the other seemed to ‘know’ the result before the measurement occurred.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 60,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum entanglement",
+      "time travel",
+      "retrocausality",
+      "photon",
+      "information"
+    ],
+    "overlap_check_hash": "a1f9f7679948dac1",
+    "why_this_can_go_viral": "Suggests time travel is real—the ultimate clickbait for science enthusiasts."
+  },
+  {
+    "unique_id": "science_0045_022_955691385af47932",
+    "title": "The Lab That Unleashed a Fungus That Consumes Carbon Dioxide—and Then Began Consuming Oxygen",
+    "hook": "A genetically modified mold designed to fight climate change started breathing in the air we need to survive.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "climate change",
+      "fungus",
+      "oxygen depletion",
+      "genetic modification",
+      "backfire"
+    ],
+    "overlap_check_hash": "955691385af47932",
+    "why_this_can_go_viral": "Ironic twist on eco-solutions—turns a savior into a silent killer."
+  },
+  {
+    "unique_id": "science_0045_023_59de9e906bc411d0",
+    "title": "The Physicist Who Discovered That the Universe Has a Background Hum—and It’s Getting Louder",
+    "hook": "Gravitational wave detectors picked up a constant, low-frequency rumble from deep space—and the amplitude is rising.",
+    "virality_score": 83,
+    "curiosity_gap_score": 92,
+    "darkness_score": 72,
+    "educational_value": 76,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "background hum",
+      "gravitational waves",
+      "universe",
+      "cosmic sound",
+      "mystery"
+    ],
+    "overlap_check_hash": "59de9e906bc411d0",
+    "why_this_can_go_viral": "Sound-based mystery with ominous implications—‘the universe is speaking’ hook is irresistible."
+  },
+  {
+    "unique_id": "science_0045_024_acaeb657bd8663e9",
+    "title": "The Researcher Who Faked a Study Proving That Drinking Bleach Cures COVID",
+    "hook": "A paper with forged signatures and made-up patient data went viral, leading to dozens of poisonings before retraction.",
+    "virality_score": 92,
+    "curiosity_gap_score": 88,
+    "darkness_score": 94,
+    "educational_value": 74,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "bleach",
+      "COVID",
+      "fake study",
+      "poisoning",
+      "fraud"
+    ],
+    "overlap_check_hash": "acaeb657bd8663e9",
+    "why_this_can_go_viral": "Combines pandemic anxiety with deadly misinformation—a real-world horror story."
+  }
+]

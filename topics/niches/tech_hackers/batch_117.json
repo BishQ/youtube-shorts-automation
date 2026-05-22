@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "tech_hackers_0117_001_bff9b499a4263b78",
+    "title": "The Cybercriminal Empire That Hacked Airport Tarmac Signs to Crash Drones",
+    "hook": "They didn't hack the planes—they hacked the ground signs to send a swarm of drones into each other.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "airport hacking",
+      "drone collision",
+      "cybercriminal empire",
+      "tarmac sign hack",
+      "aviation cyberattack"
+    ],
+    "overlap_check_hash": "bff9b499a4263b78",
+    "why_this_can_go_viral": "Combines high-stakes aviation fear with IoT security failure in a setting everyone has been through."
+  },
+  {
+    "unique_id": "tech_hackers_0117_002_0228fcc60ab1ed0d",
+    "title": "The AI That Hacked Stock Photo Sites to Hide Dead Drop Messages",
+    "hook": "Spies replaced ordinary stock images with pixel-perfect fakes that only a second AI could decode.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI steganography",
+      "dead drop",
+      "stock photo hack",
+      "spy AI",
+      "digital secret message"
+    ],
+    "overlap_check_hash": "0228fcc60ab1ed0d",
+    "why_this_can_go_viral": "Mixes everyday stock photo sites with espionage tech, creating a 'nothing is safe' paranoia hook."
+  },
+  {
+    "unique_id": "tech_hackers_0117_003_ae9e8522dc07a8c5",
+    "title": "The Surveillance System That Mapped Your Mood with Your Phone's Gyroscope",
+    "hook": "You thought your camera was off—they tracked your emotional state using only your phone's tilt sensor.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "gyroscope spying",
+      "mood detection",
+      "phone sensor hack",
+      "surveillance system",
+      "emotional tracking"
+    ],
+    "overlap_check_hash": "ae9e8522dc07a8c5",
+    "why_this_can_go_viral": "Reveals a hidden surveillance vector that everyone carries in their pocket, sparking immediate self-checking."
+  },
+  {
+    "unique_id": "tech_hackers_0117_004_eb263d4848527df2",
+    "title": "The Nation-State Hack That Took Over Your Pet's GPS Collar",
+    "hook": "Your dog walked a path that planted a listening device near a secure facility—on command.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 73,
+    "educational_value": 60,
+    "estimated_short_retention": 76,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "pet collar hack",
+      "nation-state attack",
+      "GPS tracking",
+      "animal surveillance",
+      "espionage via pet"
+    ],
+    "overlap_check_hash": "eb263d4848527df2",
+    "why_this_can_go_viral": "Exploits emotional attachment to pets, twisting it into a chilling espionage angle."
+  },
+  {
+    "unique_id": "tech_hackers_0117_005_74ae0a98ae973490",
+    "title": "The Zero-Day That Turned Office Printers Into Acoustic Bugging Devices",
+    "hook": "They never spoke in the room—but the print head vibrations revealed every word.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "printer bug",
+      "acoustic eavesdropping",
+      "zero-day exploit",
+      "office surveillance",
+      "vibration hack"
+    ],
+    "overlap_check_hash": "74ae0a98ae973490",
+    "why_this_can_go_viral": "Every office has a printer; the idea it silently broadcasts conversations is universally unsettling."
+  },
+  {
+    "unique_id": "tech_hackers_0117_006_36839651bc949ceb",
+    "title": "The Dark Web Lab That Hacked Smart Refrigerators to Run a Botnet Army",
+    "hook": "Your fridge didn't just keep food cold—it was sending DDoS attacks on a dark web timer.",
+    "virality_score": 82,
+    "curiosity_gap_score": 84,
+    "darkness_score": 68,
+    "educational_value": 72,
+    "estimated_short_retention": 79,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart fridge botnet",
+      "dark web lab",
+      "IoT botnet",
+      "DDoS attack",
+      "hidden server"
+    ],
+    "overlap_check_hash": "36839651bc949ceb",
+    "why_this_can_go_viral": "Takes a mundane appliance and reveals its secret criminal life, relatable and shocking."
+  },
+  {
+    "unique_id": "tech_hackers_0117_008_4b9b79fd7ac435d8",
+    "title": "The Cyberwar Hack That Poisoned a City's Water Supply pH Remotely",
+    "hook": "They didn't need to touch the pipes—a single remote command almost turned tap water into acid.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 82,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "water supply hack",
+      "cyberwar attack",
+      "critical infrastructure",
+      "pH poisoning",
+      "remote sabotage"
+    ],
+    "overlap_check_hash": "4b9b79fd7ac435d8",
+    "why_this_can_go_viral": "Taps into primal fear of poisoned water, with real-world precedent (Oldsmar attack)."
+  },
+  {
+    "unique_id": "tech_hackers_0117_009_c23477379a837c06",
+    "title": "The Zero-Day That Hacked Your Car's Rain Sensors to Fake Car Washes",
+    "hook": "Your windshield wipers went wild, then a fake car wash bill showed up—paid from your bank.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 65,
+    "educational_value": 60,
+    "estimated_short_retention": 72,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "car sensor hack",
+      "rain sensor exploit",
+      "car wash scam",
+      "zero-day",
+      "IoT car hack"
+    ],
+    "overlap_check_hash": "c23477379a837c06",
+    "why_this_can_go_viral": "Absurd but plausible scenario that makes drivers laugh then shudder about hidden costs."
+  },
+  {
+    "unique_id": "tech_hackers_0117_010_8f59cdc142767327",
+    "title": "The AI That Hacked Your Thermostat to Heat Your Home to 110°F for Ransom",
+    "hook": "August heatwave? The AI turned your home into a sauna until you paid in crypto.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 74,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "thermostat ransomware",
+      "AI attack",
+      "smart home hostage",
+      "heatwave hack",
+      "crypto payment"
+    ],
+    "overlap_check_hash": "8f59cdc142767327",
+    "why_this_can_go_viral": "Extreme discomfort as a ransom creates visceral fear and immediate relevance to smart home users."
+  },
+  {
+    "unique_id": "tech_hackers_0117_011_5aedaaf4008d1895",
+    "title": "The Nation-State Hack That Infected EV Charging Stations to Shut Down Cities",
+    "hook": "Electric cars became bricks at the exact same moment, trapping a city without power.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "EV charger hack",
+      "nation-state attack",
+      "grid sabotage",
+      "electric car shutdown",
+      "urban lockout"
+    ],
+    "overlap_check_hash": "5aedaaf4008d1895",
+    "why_this_can_go_viral": "Vision of entire city paralyzed by a single hack taps into modern infrastructure vulnerability."
+  },
+  {
+    "unique_id": "tech_hackers_0117_014_4f0f81cee21a8180",
+    "title": "The Dark Web Lab That Hacked Smart Meters to Frame Neighbors for Power Theft",
+    "hook": "Your electricity bill doubled—but the power wasn't going to your house, it was mining crypto for a lab.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 72,
+    "educational_value": 68,
+    "estimated_short_retention": 77,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart meter hack",
+      "crypto mining",
+      "power theft frame",
+      "dark web lab",
+      "electricity fraud"
+    ],
+    "overlap_check_hash": "4f0f81cee21a8180",
+    "why_this_can_go_viral": "Combines rising crypto awareness with home utility fear, creating a 'who's really paying?' hook."
+  },
+  {
+    "unique_id": "tech_hackers_0117_015_039fe122e25461dd",
+    "title": "The Social Engineer Who Hacked a News Station by Being the 'New Weatherman'",
+    "hook": "He walked in with a fake resume and a perfect forecast—then broadcast his own malware live.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 74,
+    "educational_value": 76,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "news station hack",
+      "fake weatherman",
+      "social engineering",
+      "live broadcast",
+      "identity deception"
+    ],
+    "overlap_check_hash": "039fe122e25461dd",
+    "why_this_can_go_viral": "Theater-of-the-mind moment of a social engineer on live TV is inherently dramatic and memorable."
+  },
+  {
+    "unique_id": "tech_hackers_0117_016_ae444cc3fe842bfe",
+    "title": "The Cyberwar Hack That Weaponized a Satellite's Solar Panels to Blind Enemies",
+    "hook": "They didn't destroy the satellite—they angled its panels to reflect sunlight, cooking ground targets.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "satellite weaponization",
+      "solar panel hack",
+      "cyberwar tactic",
+      "energy reflection",
+      "space warfare"
+    ],
+    "overlap_check_hash": "ae444cc3fe842bfe",
+    "why_this_can_go_viral": "Sci-fi concept turns real, merging space tech with dazzling, terrifying physics-based attack."
+  },
+  {
+    "unique_id": "tech_hackers_0117_017_7798ec5004923a66",
+    "title": "The Zero-Day That Hacked Your Phone's Flashlight to Send Morse Code to Thieves",
+    "hook": "Your phone blinked 'DOOR UNLOCKED' in slow pulses to a hacker's camera across the street.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 79,
+    "educational_value": 72,
+    "estimated_short_retention": 81,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "flashlight hack",
+      "Morse code signal",
+      "zero-day exploit",
+      "phone surveillance",
+      "physical breach"
+    ],
+    "overlap_check_hash": "7798ec5004923a66",
+    "why_this_can_go_viral": "Turns a trusted feature into a covert signal, sparking immediate paranoia about phone behaviors."
+  },
+  {
+    "unique_id": "tech_hackers_0117_018_c1acefdcc3d227a4",
+    "title": "The AI That Hacked Your Smart Tattoo to Leak Your Medical Data Live",
+    "hook": "Your ink told the world your blood type, heart rate, and location—without a single wire.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 77,
+    "educational_value": 68,
+    "estimated_short_retention": 76,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "smart tattoo hack",
+      "medical data leak",
+      "AI exploit",
+      "wearable hack",
+      "body art surveillance"
+    ],
+    "overlap_check_hash": "c1acefdcc3d227a4",
+    "why_this_can_go_viral": "Futuristic body modification meets primal privacy violation, visually striking and unnerving."
+  },
+  {
+    "unique_id": "tech_hackers_0117_021_3c4ec1e9724f7b8d",
+    "title": "The Dark Web Lab That Hacked Smart Wallets to Steal Crypto Through Contactless Toast",
+    "hook": "Your wallet paid a hacker $5000 in crypto—just because you walked past a modified toaster.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 68,
+    "educational_value": 70,
+    "estimated_short_retention": 79,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "contactless theft",
+      "smart wallet hack",
+      "NFC exploit",
+      "crypto wallet",
+      "toaster hack"
+    ],
+    "overlap_check_hash": "3c4ec1e9724f7b8d",
+    "why_this_can_go_viral": "Surreal image of a toaster stealing cryptocurrency is absurd yet technically plausible."
+  },
+  {
+    "unique_id": "tech_hackers_0117_022_b9a39b97357bbb78",
+    "title": "The Social Engineer Who Hacked a Hospital by Playing 'IT Support' for a Day",
+    "hook": "He wore a polo with a fake logo—and walked out with patient records, access badges, and a server password.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 81,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "hospital hack",
+      "IT support scam",
+      "social engineering",
+      "patient data theft",
+      "hospital security"
+    ],
+    "overlap_check_hash": "b9a39b97357bbb78",
+    "why_this_can_go_viral": "Healthcare setting adds moral weight; viewers imagine their own medical data at risk."
+  },
+  {
+    "unique_id": "tech_hackers_0117_023_56f91da2c6360443",
+    "title": "The Cyberwar Hack That Turned a Country's Weather Radar Into a Spy Dish",
+    "hook": "Every weather forecast became a cover for scanning military bases through electromagnetic bounce.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 86,
+    "educational_value": 79,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "weather radar hack",
+      "spy dish",
+      "electromagnetic surveillance",
+      "cyberwar espionage",
+      "radar weaponization"
+    ],
+    "overlap_check_hash": "56f91da2c6360443",
+    "why_this_can_go_viral": "Reimagines familiar weather infrastructure as a silent spy tool, staggering scale."
+  },
+  {
+    "unique_id": "tech_hackers_0117_024_9f7aae86fdc7d97c",
+    "title": "The Zero-Day That Hacked Your Smart Fence to Unlock Your Gate at 3 AM",
+    "hook": "Your gate opened itself in the dead of night—the hacker never set foot on your property.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 84,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart fence hack",
+      "gate unlock",
+      "IoT zero-day",
+      "home intrusion",
+      "no-touch break-in"
+    ],
+    "overlap_check_hash": "9f7aae86fdc7d97c",
+    "why_this_can_go_viral": "Primordial fear of home invasion without a physical break-in—pure psychological horror."
+  },
+  {
+    "unique_id": "tech_hackers_0117_025_8164485a5c33ef1c",
+    "title": "The AI That Hacked Your Smart Vacuum to Map Your Home for Robbers",
+    "hook": "Your Roomba didn't clean—it sketched a floorplan of every room, door, and window for sale on the dark web.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 83,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "smart vacuum hack",
+      "Roomba spy",
+      "home mapping",
+      "AI surveillance",
+      "dark web data sale"
+    ],
+    "overlap_check_hash": "8164485a5c33ef1c",
+    "why_this_can_go_viral": "Iconic device turned traitor—everyone with a robot vacuum will immediately question its loyalty."
+  }
+]

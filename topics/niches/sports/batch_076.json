@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "sports_0076_002_30fcf0c2dd27f14b",
+    "title": "The Ref Who Fixed Basketball Games by Deflating Balls Mid-Play",
+    "hook": "A tiny valve twist no one noticed — until players couldn't make a single shot.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 70,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "NBA scandal",
+      "deflated basketball",
+      "referee fix",
+      "betting rings",
+      "equipment sabotage"
+    ],
+    "overlap_check_hash": "30fcf0c2dd27f14b",
+    "why_this_can_go_viral": "Low-tech sabotage feels like a heist movie — basketball fans will argue about this for days."
+  },
+  {
+    "unique_id": "sports_0076_003_fd6897638d55e91f",
+    "title": "The Mafia Doctor Who Used Athletes as Organ Farms",
+    "hook": "You sign up to run — they harvest your kidney in a basement clinic.",
+    "virality_score": 94,
+    "curiosity_gap_score": 90,
+    "darkness_score": 99,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "organ harvesting",
+      "mafia doctor",
+      "athlete trafficking",
+      "black market surgery",
+      "sports cartel"
+    ],
+    "overlap_check_hash": "fd6897638d55e91f",
+    "why_this_can_go_viral": "Unthinkable horror combined with real-world crime — the visceral shock fuels shares and comments."
+  },
+  {
+    "unique_id": "sports_0076_004_619a9b3e6227f223",
+    "title": "The Doping Lab That Used Radioactive Water to 'Renew' Muscles",
+    "hook": "Drink this and your cells regenerate — until your chromosomes start breaking apart.",
+    "virality_score": 87,
+    "curiosity_gap_score": 85,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "radioactive doping",
+      "tritium water",
+      "lab experiments",
+      "steroid alternatives",
+      "cancer coverup"
+    ],
+    "overlap_check_hash": "619a9b3e6227f223",
+    "why_this_can_go_viral": "Radioactive horror fits the Chernobyl-era shock aesthetic — viewers click for the science horror."
+  },
+  {
+    "unique_id": "sports_0076_005_1748a5d911f9d7e2",
+    "title": "The Psychologist Who Programmed a Boxer to Lose on Cue",
+    "hook": "One whispered word before the bell — and the fighter forgot how to throw a punch.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "boxing fix",
+      "trigger word",
+      "hypnosis in sports",
+      "fighter manipulation",
+      "psychology abuse"
+    ],
+    "overlap_check_hash": "1748a5d911f9d7e2",
+    "why_this_can_go_viral": "Mind-control angle hooks true-crime audiences — people love the idea of hidden triggers."
+  },
+  {
+    "unique_id": "sports_0076_006_7c56251f7f0653c3",
+    "title": "The Betting Ring That Used Live Fish to Signal Match Fixes",
+    "hook": "No phones, no radios — just a fish tank in a betting parlor that meant everything.",
+    "virality_score": 76,
+    "curiosity_gap_score": 79,
+    "darkness_score": 65,
+    "educational_value": 55,
+    "estimated_short_retention": 75,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "fish signals",
+      "match fixing",
+      "animal codes",
+      "betting syndicate",
+      "old school fix"
+    ],
+    "overlap_check_hash": "7c56251f7f0653c3",
+    "why_this_can_go_viral": "Bizarre method is instantly shareable — people love absurd crime tactics."
+  },
+  {
+    "unique_id": "sports_0076_007_445c4895a93ed2cc",
+    "title": "The Lab That Tried to Make Cyclists' Blood Self-Oxygenating",
+    "hook": "Inject this molecule and your blood carries oxygen like a whale — until your heart explodes.",
+    "virality_score": 85,
+    "curiosity_gap_score": 83,
+    "darkness_score": 88,
+    "educational_value": 77,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "artificial blood",
+      "cycling doping",
+      "Tour de France scandal",
+      "oxygen boost",
+      "fatal experiment"
+    ],
+    "overlap_check_hash": "445c4895a93ed2cc",
+    "why_this_can_go_viral": "Body modification meets sports — the 'superhuman' angle triggers both awe and horror."
+  },
+  {
+    "unique_id": "sports_0076_008_a1584f02ba02ef6d",
+    "title": "The Businessman Who Sold 'Growth Accelerators' Made of Ground Human Bones",
+    "hook": "Grind up the dead, feed it to the living — and call it a performance supplement.",
+    "virality_score": 90,
+    "curiosity_gap_score": 89,
+    "darkness_score": 97,
+    "educational_value": 72,
+    "estimated_short_retention": 91,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "bone supplement",
+      "human remains",
+      "black market",
+      "growth scam",
+      "athlete fraud"
+    ],
+    "overlap_check_hash": "a1584f02ba02ef6d",
+    "why_this_can_go_viral": "Cannibalism-lite horror triggers immediate disgust-share — the taboo factor is massive."
+  },
+  {
+    "unique_id": "sports_0076_009_254a067383dd0746",
+    "title": "The Mafia That Controlled a Cricket Team Through Poisoned Tea",
+    "hook": "One cup before the match — and the entire batting lineup couldn't see straight.",
+    "virality_score": 79,
+    "curiosity_gap_score": 80,
+    "darkness_score": 78,
+    "educational_value": 60,
+    "estimated_short_retention": 77,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "cricket fix",
+      "poison plot",
+      "mafia cricket",
+      "team sabotage",
+      "Indian betting syndicate"
+    ],
+    "overlap_check_hash": "254a067383dd0746",
+    "why_this_can_go_viral": "Cultural specificity hooks cricket fans — the 'tea poisoning' detail feels like a mafia movie."
+  },
+  {
+    "unique_id": "sports_0076_010_06c3b95a6d29831f",
+    "title": "The Coach Who Forced His Runners to Train in a Gas Chamber",
+    "hook": "Not altitude — actual poison gas. They called it 'tolerance' training.",
+    "virality_score": 88,
+    "curiosity_gap_score": 87,
+    "darkness_score": 93,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "gas chamber training",
+      "runner abuse",
+      "East German sports",
+      "toxic training",
+      "athlete torture"
+    ],
+    "overlap_check_hash": "06c3b95a6d29831f",
+    "why_this_can_go_viral": "Gas chamber imagery is instantly evocative — viewers brace for Holocaust-level horror in sports."
+  },
+  {
+    "unique_id": "sports_0076_012_1e1c96e5bfe4a431",
+    "title": "The Doping Ring That Recycled Athlete Blood in a Secret Hospital Wing",
+    "hook": "Your own blood, oxygenated, reinjected — until the hospital became a doping factory.",
+    "virality_score": 81,
+    "curiosity_gap_score": 76,
+    "darkness_score": 83,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "blood doping",
+      "Olympic scandal",
+      "secret hospital",
+      "medical doping",
+      "cycling blood bags"
+    ],
+    "overlap_check_hash": "1e1c96e5bfe4a431",
+    "why_this_can_go_viral": "Medical setting adds realism — viewers feel they're uncovering a hidden wing of hell."
+  },
+  {
+    "unique_id": "sports_0076_014_677fec0ed84f687d",
+    "title": "The Betting Syndicate That Used Morse Code Coughs During Live TV",
+    "hook": "Every cough from the commentator was a dollar sign for the mob.",
+    "virality_score": 82,
+    "curiosity_gap_score": 81,
+    "darkness_score": 76,
+    "educational_value": 62,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "morse code betting",
+      "cough signals",
+      "live TV fix",
+      "commentator corruption",
+      "betting syndicate"
+    ],
+    "overlap_check_hash": "677fec0ed84f687d",
+    "why_this_can_go_viral": "TV conspiracy angle hooks media-savvy viewers — everyone loves hidden codes in plain sight."
+  },
+  {
+    "unique_id": "sports_0076_015_a754eee8fb6e1cc7",
+    "title": "The Lab That Implanted Electrodes in Athletes' Brains for 'Focus'",
+    "hook": "They said it was meditation. It was brain surgery with a drill.",
+    "virality_score": 91,
+    "curiosity_gap_score": 89,
+    "darkness_score": 96,
+    "educational_value": 78,
+    "estimated_short_retention": 92,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "brain implant",
+      "electrode surgery",
+      "sports experiment",
+      "focus chip",
+      "neural doping"
+    ],
+    "overlap_check_hash": "a754eee8fb6e1cc7",
+    "why_this_can_go_viral": "Cyberpunk horror in real life — the brain surgery detail is unforgettable and shareable."
+  },
+  {
+    "unique_id": "sports_0076_016_bf6d6034711b7f1a",
+    "title": "The Mafia That Owned a Boxer's Contract by Controlling His Prison Sentence",
+    "hook": "Fight for us or go back to prison for a crime you didn't commit.",
+    "virality_score": 86,
+    "curiosity_gap_score": 84,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "boxing mafia",
+      "prison contract",
+      "fighter slavery",
+      "mafia control",
+      "criminal boxer"
+    ],
+    "overlap_check_hash": "bf6d6034711b7f1a",
+    "why_this_can_go_viral": "Prison-to-fight pipeline is a raw nerve — combines criminal justice outrage with sports drama."
+  },
+  {
+    "unique_id": "sports_0076_017_0b7cfcaa8bb6c976",
+    "title": "The Businessman Who Sold 'Muscle Relaxant Patches' That Paralyzed Athletes",
+    "hook": "Slap it on and feel the tension melt — until you can't lift your arms to block.",
+    "virality_score": 77,
+    "curiosity_gap_score": 74,
+    "darkness_score": 79,
+    "educational_value": 58,
+    "estimated_short_retention": 76,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "paralytic patch",
+      "muscle relaxant scam",
+      "fighter sabotage",
+      "black market drugs",
+      "athlete paralysis"
+    ],
+    "overlap_check_hash": "0b7cfcaa8bb6c976",
+    "why_this_can_go_viral": "The 'patch' prop is visual and scary — viewers imagine the betrayal instantly."
+  },
+  {
+    "unique_id": "sports_0076_018_143dcab9de096088",
+    "title": "The Coach Who Made His Swimmers Train in Ice Water Until Organs Failed",
+    "hook": "They thought it was toughness training. Their kidneys thought it was death.",
+    "virality_score": 89,
+    "curiosity_gap_score": 86,
+    "darkness_score": 94,
+    "educational_value": 73,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "ice water torture",
+      "swimming abuse",
+      "cold training",
+      "organ failure",
+      "coach sadism"
+    ],
+    "overlap_check_hash": "143dcab9de096088",
+    "why_this_can_go_viral": "Cold water shock is universally feared — the organ failure detail pushes it into nightmare territory."
+  },
+  {
+    "unique_id": "sports_0076_020_d3adb112d87713e4",
+    "title": "The Doping Lab That Used Scorpion Venom to 'Enhance' Reflexes",
+    "hook": "One sting of agony — and your reaction time becomes superhuman, until your nerves burn out.",
+    "virality_score": 86,
+    "curiosity_gap_score": 84,
+    "darkness_score": 89,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "scorpion venom",
+      "reflex doping",
+      "nerve enhancement",
+      "dangerous drugs",
+      "animal toxin"
+    ],
+    "overlap_check_hash": "d3adb112d87713e4",
+    "why_this_can_go_viral": "Venom doping is visually vivid and scientifically wild — the 'burnout' horror finishes the hook."
+  },
+  {
+    "unique_id": "sports_0076_021_9918f9fb06a85725",
+    "title": "The Psychologist Who Convinced a Football Team They Were Possessed",
+    "hook": "One session of 'cleansing' — and the players started seeing demons on the field.",
+    "virality_score": 80,
+    "curiosity_gap_score": 82,
+    "darkness_score": 78,
+    "educational_value": 60,
+    "estimated_short_retention": 81,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "possession hoax",
+      "football mind control",
+      "psychologist abuse",
+      "sports superstition",
+      "team breakdown"
+    ],
+    "overlap_check_hash": "9918f9fb06a85725",
+    "why_this_can_go_viral": "Supernatural horror meets psychology — viewers love stories of manufactured madness."
+  },
+  {
+    "unique_id": "sports_0076_022_223cab651cd7d5f1",
+    "title": "The Betting Ring That Used Pigeon Releases to Signal Rugby Results",
+    "hook": "When the birds flew east, the bookies cashed — before the final whistle blew.",
+    "virality_score": 74,
+    "curiosity_gap_score": 77,
+    "darkness_score": 62,
+    "educational_value": 54,
+    "estimated_short_retention": 73,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "pigeon signals",
+      "rugby fix",
+      "animal messaging",
+      "betting ring",
+      "old school crime"
+    ],
+    "overlap_check_hash": "223cab651cd7d5f1",
+    "why_this_can_go_viral": "Pigeons as espionage tools feel like a spy novel — the vintage crime angle is charming and dark."
+  },
+  {
+    "unique_id": "sports_0076_023_c202a32a59a12a12",
+    "title": "The Lab That Tried to Make Baseball Pitchers' Arms Bend Backward",
+    "hook": "They wanted a 120-mph pitch. They got shattered elbows instead.",
+    "virality_score": 84,
+    "curiosity_gap_score": 81,
+    "darkness_score": 87,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "pitch speed experiment",
+      "arm surgery",
+      "baseball lab",
+      "elbow damage",
+      "unnatural motion"
+    ],
+    "overlap_check_hash": "c202a32a59a12a12",
+    "why_this_can_go_viral": "Body horror meets America's pastime — the 'backward' detail is grotesque and unforgettable."
+  },
+  {
+    "unique_id": "sports_0076_024_65f4c3e53b327d7c",
+    "title": "The Mafia That Used a Soccer Club's Youth Academy as a Recruitment Farm",
+    "hook": "Signed at twelve. Trained in football. Deployed for murder at sixteen.",
+    "virality_score": 95,
+    "curiosity_gap_score": 93,
+    "darkness_score": 100,
+    "educational_value": 78,
+    "estimated_short_retention": 94,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "youth recruitment",
+      "soccer mafia",
+      "child soldiers",
+      "academy abuse",
+      "criminal pipeline"
+    ],
+    "overlap_check_hash": "65f4c3e53b327d7c",
+    "why_this_can_go_viral": "The child soldier angle is the darkest possible — outrage, moral shock, and real-world relevance."
+  },
+  {
+    "unique_id": "sports_0076_025_b72cde694419ad97",
+    "title": "The Businessman Who Sold 'Recovery Pills' Made from Expired Chemotherapy Drugs",
+    "hook": "They promised healing. The pills were designed to break down your immune system.",
+    "virality_score": 88,
+    "curiosity_gap_score": 86,
+    "darkness_score": 93,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "fake recovery pills",
+      "chemotherapy scam",
+      "athlete poisoning",
+      "black market pharma",
+      "sports fraud"
+    ],
+    "overlap_check_hash": "b72cde694419ad97",
+    "why_this_can_go_viral": "Exploiting cancer drugs for profit is maximum evil — viewers feel visceral disgust and anger."
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "business_0141_001_886ea4ef9cb31dac",
+    "title": "The CEO Who Bought a Dead Town—Then Sold Its Water Rights for Billions",
+    "hook": "He purchased an abandoned town for pennies, then made billions selling water that belonged to no one.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "water rights monopoly",
+      "ghost town scam",
+      "corporate water theft",
+      "resource hoarding",
+      "capitalist exploitation"
+    ],
+    "overlap_check_hash": "886ea4ef9cb31dac",
+    "why_this_can_go_viral": "Water scarcity is a growing global fear; exposing how a corporation legally stole a region's water supply triggers outrage and curiosity."
+  },
+  {
+    "unique_id": "business_0141_003_0e8c2898bd631693",
+    "title": "The Startup That Sold 'Pet-to-Human' Translation—It Was a Random Word Generator",
+    "hook": "They raised $50 million from pet owners desperate to talk to their dogs—but the app just spat out gibberish.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 95,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "pet tech scam",
+      "fake AI startup",
+      "venture capital fraud",
+      "consumer deception",
+      "gimmick product"
+    ],
+    "overlap_check_hash": "0e8c2898bd631693",
+    "why_this_can_go_viral": "Pet owners + tech fraud = emotional hook. People love seeing overhyped startups exposed as nonsense."
+  },
+  {
+    "unique_id": "business_0141_004_c38bc4cc986bc76f",
+    "title": "The Corporate Spy Who Faked a Car Crash to Access a Rival's R&D Lab",
+    "hook": "She staged a near-fatal accident to get rushed into the competitor's private hospital wing—where their prototype was stored.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 90,
+    "educational_value": 60,
+    "estimated_short_retention": 96,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "industrial espionage",
+      "fake accident spy",
+      "R&D theft",
+      "corporate sabotage",
+      "undercover spy"
+    ],
+    "overlap_check_hash": "c38bc4cc986bc76f",
+    "why_this_can_go_viral": "A spy thriller in real life—extreme risk and deception make this perfect for viral 'true story' content."
+  },
+  {
+    "unique_id": "business_0141_005_418927c6df22f79c",
+    "title": "The Dark Marketing Firm That Used Funeral Notices to Sell Life Insurance",
+    "hook": "They scraped obituaries in real time, then called grieving families to sell them policies—before the body was cold.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 91,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "grief marketing",
+      "obituary scraping",
+      "predatory insurance",
+      "dark advertising",
+      "emotional manipulation"
+    ],
+    "overlap_check_hash": "418927c6df22f79c",
+    "why_this_can_go_viral": "Morbid and morally repugnant—viewers love uncovering the most unethical marketing tactics in existence."
+  },
+  {
+    "unique_id": "business_0141_006_7ba3a1e0ce5ca002",
+    "title": "The Supply Chain Secret of 'Alaskan' King Crab—It Was Imitation Crab Sprayed with Brine",
+    "hook": "That $100 'Alaskan King Crab' leg? It's processed fish paste molded and dyed in a Chinese factory.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "seafood fraud",
+      "fake king crab",
+      "imitation seafood",
+      "food supply scam",
+      "luxury food fake"
+    ],
+    "overlap_check_hash": "7ba3a1e0ce5ca002",
+    "why_this_can_go_viral": "Seafood fraud is underreported but shocking—people pay premiums for premium food, and this exposes the lie."
+  },
+  {
+    "unique_id": "business_0141_007_d29692622d935619",
+    "title": "The Industry Cover-Up of 'Hypoallergenic' Cosmetics—They Were Causing Skin Burns",
+    "hook": "The FDA rarely tests cosmetics—so one company sold 'hypoallergenic' creams that chemically burned customers' faces.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 87,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "cosmetic fraud",
+      "hypoallergenic lie",
+      "FDA loophole",
+      "skin damage cover-up",
+      "beauty industry scam"
+    ],
+    "overlap_check_hash": "d29692622d935619",
+    "why_this_can_go_viral": "Beauty products are personal; exposing that 'safe' labels are meaningless triggers fear and shareability."
+  },
+  {
+    "unique_id": "business_0141_009_c79b3a7b085bf6f1",
+    "title": "The Corporate Spy Who Infiltrated a Vegan Food Expo as a 'Raw Food Guru'—Then Stole 12 Recipes",
+    "hook": "She preached 'organic enlightenment' while secretly filming the production lines of every plant-based meat startup.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 84,
+    "educational_value": 65,
+    "estimated_short_retention": 94,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "food industry spy",
+      "vegan recipe theft",
+      "plant-based corporate espionage",
+      "expo infiltration",
+      "industrial sabotage"
+    ],
+    "overlap_check_hash": "c79b3a7b085bf6f1",
+    "why_this_can_go_viral": "The contrast between 'enlightened' vegan culture and ruthless corporate theft is deeply ironic and shareable."
+  },
+  {
+    "unique_id": "business_0141_011_f64fc43c13fc1c69",
+    "title": "The Startup That Sold 'Space Debris Cleanup' Tech—It Was a Net on a Stick",
+    "hook": "They raised $200 million from investors who thought they were saving orbit—but the prototype was a literal fishing net.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 76,
+    "educational_value": 70,
+    "estimated_short_retention": 91,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "space tech scam",
+      "fake clean tech",
+      "space debris fraud",
+      "investor deception",
+      "startup gimmick"
+    ],
+    "overlap_check_hash": "f64fc43c13fc1c69",
+    "why_this_can_go_viral": "Space is hot; exposing a ridiculous scam in the 'new space race' triggers both laughter and outrage."
+  },
+  {
+    "unique_id": "business_0141_012_a58c116729716f0c",
+    "title": "The Dark Marketing Firm That Used Migrant Worker IDs to Open Fake Credit Accounts",
+    "hook": "They signed up thousands of undocumented workers for 'financial inclusion'—then used their identities to launder money.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 78,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "identity theft marketing",
+      "migrant exploitation",
+      "financial fraud",
+      "predatory lending",
+      "human trafficking finance"
+    ],
+    "overlap_check_hash": "a58c116729716f0c",
+    "why_this_can_go_viral": "Human rights abuse + financial crime = high emotional impact. Viewers share content that exposes systemic evil."
+  },
+  {
+    "unique_id": "business_0141_013_3db85d14eaf07629",
+    "title": "The Supply Chain Secret of 'Sustainable' Palm Oil—It Was Grown in a Deforested National Park",
+    "hook": "That 'certified sustainable' label? It came from trees planted on land where an entire rainforest was burned down.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 85,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "palm oil fraud",
+      "false sustainability",
+      "deforestation cover-up",
+      "eco-label scam",
+      "rainforest destruction"
+    ],
+    "overlap_check_hash": "3db85d14eaf07629",
+    "why_this_can_go_viral": "Sustainability is a huge consumer concern; exposing that 'green' labels are lies sparks eco-anger and activism."
+  },
+  {
+    "unique_id": "business_0141_014_5b02b2df865aede1",
+    "title": "The CEO Who Built a 'Carbon Neutral' Factory—Then Piped Emissions into a Vacant Lot",
+    "hook": "His net-zero claim was based on a pipe that pumped CO₂ into an abandoned field next door—which was 'offset' land.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "carbon offset fraud",
+      "fake net zero",
+      "greenwashing",
+      "emission cheating",
+      "environmental scam"
+    ],
+    "overlap_check_hash": "5b02b2df865aede1",
+    "why_this_can_go_viral": "Climate hypocrisy triggers strong reactions—this is a perfect 'gotcha' story that exposes corporate lies."
+  },
+  {
+    "unique_id": "business_0141_015_5d0c6bad71c76e81",
+    "title": "The Corporate Spy Who Used a Fake 'Funeral Wreath' to Smuggle Bugged Flowers into an Office",
+    "hook": "The wreath arrived with a sympathy card—but the flowers contained microphones that recorded every board meeting.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 86,
+    "educational_value": 60,
+    "estimated_short_retention": 94,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "bugged flowers",
+      "espionage wreath",
+      "corporate listening devices",
+      "boardroom spying",
+      "industrial espionage trick"
+    ],
+    "overlap_check_hash": "5d0c6bad71c76e81",
+    "why_this_can_go_viral": "Extremely creative espionage method—audiences love 'how did they get away with that?' stories."
+  },
+  {
+    "unique_id": "business_0141_016_04a79374f99d034f",
+    "title": "The Monopoly That Bought Every Dry Cleaner—Then Made 'Organic' Cleaning Cost $50 per Shirt",
+    "hook": "They cornered the market, then redefined 'organic dry cleaning' as a luxury service—marking up solvent by 1,000%.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "dry cleaning monopoly",
+      "price gouging",
+      "organic cleaning scam",
+      "service monopoly",
+      "consumer exploitation"
+    ],
+    "overlap_check_hash": "04a79374f99d034f",
+    "why_this_can_go_viral": "Everyone uses dry cleaners; exposing a hidden monopoly on an everyday service is highly relatable."
+  },
+  {
+    "unique_id": "business_0141_017_b950eb8a8c5a5791",
+    "title": "The Trader Who Faked a 'Tsunami Warning' to Sink a Competitor's Shipping Stock",
+    "hook": "He sent a fake NOAA alert that a tsunami would hit a major port—then shorted the shipping company's stock.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 95,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "fake tsunami stock manipulation",
+      "shipping stock sabotage",
+      "NOAA hoax",
+      "natural disaster trading",
+      "market fraud"
+    ],
+    "overlap_check_hash": "b950eb8a8c5a5791",
+    "why_this_can_go_viral": "Combining disaster fear with financial crime is incredibly engaging—viewers will ask 'how is this legal?'"
+  },
+  {
+    "unique_id": "business_0141_018_f8654f3cd82a6613",
+    "title": "The Startup That Sold 'Telepathic' Messaging—It Was a Button That Sent Random Emoji",
+    "hook": "They claimed brain implants could transmit thoughts—but users were just hitting a button that sent a preset emoji to friends.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 74,
+    "educational_value": 68,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "brain implant scam",
+      "telepathy app fraud",
+      "neurotech hoax",
+      "fake AI communication",
+      "tech grift"
+    ],
+    "overlap_check_hash": "f8654f3cd82a6613",
+    "why_this_can_go_viral": "Brain-computer interfaces are trending; exposing a simple scam behind a 'revolutionary' product is perfect viral fuel."
+  },
+  {
+    "unique_id": "business_0141_019_9d66d6550e7b5272",
+    "title": "The Dark Marketing Firm That Used Prison Call Recordings to Sell Legal Services",
+    "hook": "They bought recordings of inmates' phone calls, then called their families to sell overpriced 'appeal packages.'",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 75,
+    "estimated_short_retention": 92,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "prison marketing scam",
+      "inmate exploitation",
+      "legal service fraud",
+      "predatory marketing",
+      "incarceration profiteering"
+    ],
+    "overlap_check_hash": "9d66d6550e7b5272",
+    "why_this_can_go_viral": "Vulnerable populations + predatory marketing = high moral outrage. Viewers share stories of systemic exploitation."
+  },
+  {
+    "unique_id": "business_0141_021_7203077bfef52ed4",
+    "title": "The CEO Who Faked His Company's Customer Reviews for 10 Years—Then Sold It for $1 Billion",
+    "hook": "Every single five-star review was written by his marketing team. The buyer only found out after the check cleared.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 82,
+    "educational_value": 72,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "fake reviews scam",
+      "customer review fraud",
+      "billion dollar deception",
+      "online reputation manipulation",
+      "corporate fraud"
+    ],
+    "overlap_check_hash": "7203077bfef52ed4",
+    "why_this_can_go_viral": "Everyone trusts reviews—exposing that even billion-dollar companies use fake reviews is deeply satisfying."
+  },
+  {
+    "unique_id": "business_0141_022_1e07b8a31ae54f89",
+    "title": "The Corporate Spy Who Posed as a Flight Attendant—Then Stole a Competitor's Passenger Data",
+    "hook": "He got hired by the rival airline, accessed their CRM system mid-flight, and downloaded 2 million customer profiles.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 83,
+    "educational_value": 65,
+    "estimated_short_retention": 94,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "airline espionage",
+      "customer data theft",
+      "fake flight attendant",
+      "corporate infiltration",
+      "CRM hacking"
+    ],
+    "overlap_check_hash": "1e07b8a31ae54f89",
+    "why_this_can_go_viral": "High-risk, high-creativity spy story—viewers love 'how they pulled it off' narratives."
+  },
+  {
+    "unique_id": "business_0141_023_300bdbf7b6fd6ece",
+    "title": "The Trader Who Used a Fake 'Royal Wedding' Announcement to Manipulate Luxury Goods Stocks",
+    "hook": "A single deepfake tweet about a royal engagement sent luxury handbag stocks soaring—then he cashed out.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 96,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "royal wedding stock scam",
+      "deepfake market manipulation",
+      "luxury stock fraud",
+      "social media trading",
+      "celebrity hoax finance"
+    ],
+    "overlap_check_hash": "300bdbf7b6fd6ece",
+    "why_this_can_go_viral": "Royalty + deepfake + stock market = irresistible drama. Audiences love seeing how fragile markets really are."
+  },
+  {
+    "unique_id": "business_0141_024_ad09ede6ff431f62",
+    "title": "The Startup That Sold 'Water-from-Air' Devices—They Were Dehumidifiers from a Hardware Store",
+    "hook": "They slapped a 'space technology' sticker on $50 dehumidifiers and sold them as $5,000 'atmospheric water generators.'",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 78,
+    "educational_value": 74,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "water generator scam",
+      "fake tech startup",
+      "dehumidifier fraud",
+      "climate tech grift",
+      "investor deception"
+    ],
+    "overlap_check_hash": "ad09ede6ff431f62",
+    "why_this_can_go_viral": "Water scarcity is a hot topic—exposing a 'miracle device' as a cheap repackaged product is deeply satisfying."
+  },
+  {
+    "unique_id": "business_0141_025_756952e147d0d3b7",
+    "title": "The Industry Cover-Up of 'Child-Safe' Furniture—It Was Glued with Formaldehyde-Laced Adhesive",
+    "hook": "The 'non-toxic' cribs sold to millions of parents were held together with glue that slowly released cancer-causing fumes.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 98,
+    "educational_value": 85,
+    "estimated_short_retention": 95,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "furniture formaldehyde",
+      "child safety scam",
+      "toxic cribs",
+      "baby product cover-up",
+      "formaldehyde cancer risk"
+    ],
+    "overlap_check_hash": "756952e147d0d3b7",
+    "why_this_can_go_viral": "Threats to children trigger the highest emotional response—parents will share this to warn others."
+  }
+]

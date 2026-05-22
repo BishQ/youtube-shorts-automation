@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "crime_0021_002_257fca27b14d26e4",
+    "title": "The Bank Heist That Used a Dance-Off as a Distraction",
+    "hook": "Thieves staged a flash mob in the lobby to hypnotize guards, while a second team drilled the vault from the ceiling.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 60,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "flash mob heist",
+      "dance distraction",
+      "vault drill",
+      "Brazil bank robbery",
+      "ceiling entry"
+    ],
+    "overlap_check_hash": "257fca27b14d26e4",
+    "why_this_can_go_viral": "Combines two dopamine triggers: public dance crazes and high-stakes robbery planning; it's a 'how did they think of that?' moment."
+  },
+  {
+    "unique_id": "crime_0021_003_ce1dee007c4b4ce7",
+    "title": "The Murder That Was Solved by a Wilted Flower",
+    "hook": "A single orchid left in a locked room told detectives the killer had been there hours before the body was cold.",
+    "virality_score": 84,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "flower forensics",
+      "botanical evidence",
+      "locked room mystery",
+      "orchid murder",
+      "timeline clue"
+    ],
+    "overlap_check_hash": "ce1dee007c4b4ce7",
+    "why_this_can_go_viral": "A tiny botanical detail that rewrites a whole case — the Sherlock Holmes factor is strong and shareable."
+  },
+  {
+    "unique_id": "crime_0021_004_9504f4425c05ce9d",
+    "title": "The Mafia Boss Who Recorded His Own Tapes—Then the FBI Played Them Back at His Funeral",
+    "hook": "He secretly recorded his crew for 20 years, and the FBI used those tapes as evidence—then played them at his wake to humiliate the family.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mafia tapes",
+      "FBI recording",
+      "funeral sting",
+      "mob boss betrayal",
+      "organized crime evidence"
+    ],
+    "overlap_check_hash": "9504f4425c05ce9d",
+    "why_this_can_go_viral": "The combination of secret recording, betrayal, and posthumous humiliation is emotionally charged and feels like a movie plot."
+  },
+  {
+    "unique_id": "crime_0021_005_9f716ff8664de3a4",
+    "title": "The Serial Killer Who Used a Church Bell to Drown Out Screams",
+    "hook": "He arranged his kills to coincide with the church bells so neighbors never heard a thing—for 15 years.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 66,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "church bell killer",
+      "sound masking",
+      "serial killer tactics",
+      "auditory forensics",
+      "neighborhood predator"
+    ],
+    "overlap_check_hash": "9f716ff8664de3a4",
+    "why_this_can_go_viral": "The creepy exploitation of a sacred, everyday sound to hide evil makes for a chilling, unforgettable visual hook."
+  },
+  {
+    "unique_id": "crime_0021_006_ad2ca341d3eb1329",
+    "title": "The Cartel That Used Skeleton Keys to Open Every Prison Door in Mexico",
+    "hook": "They bribed a locksmith to create master keys that opened 80% of prison cells nationwide—and freed 200 inmates in one night.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 82,
+    "educational_value": 71,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "prison break",
+      "skeleton key",
+      "Mexican cartel",
+      "mass escape",
+      "corrupt locksmith"
+    ],
+    "overlap_check_hash": "ad2ca341d3eb1329",
+    "why_this_can_go_viral": "The scale—200 inmates in one coordinated move—is jaw-dropping, and the skeleton key concept is instantly understandable."
+  },
+  {
+    "unique_id": "crime_0021_008_80a7fe8fc1ebd9b9",
+    "title": "The White-Collar Criminal Who Faked a Meteorite Crash to Claim Insurance",
+    "hook": "He flew a drone into his own warehouse, lit the wreckage on fire, and told investigators a space rock caused the explosion.",
+    "virality_score": 77,
+    "curiosity_gap_score": 84,
+    "darkness_score": 50,
+    "educational_value": 63,
+    "estimated_short_retention": 76,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "insurance fraud",
+      "meteorite scam",
+      "drone arson",
+      "fake space rock",
+      "warehouse fire"
+    ],
+    "overlap_check_hash": "80a7fe8fc1ebd9b9",
+    "why_this_can_go_viral": "The absurd cover story (space rock!) combined with modern drone tech makes it a head-scratcher people will share."
+  },
+  {
+    "unique_id": "crime_0021_010_8cadbbd587bcf714",
+    "title": "The Unsolved Murder Where the Killer Stacked Coins on the Victim's Eyes",
+    "hook": "A ritualistic detail that has never been explained—the coins were all minted before the victim was born, and none were stolen.",
+    "virality_score": 80,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 62,
+    "estimated_short_retention": 81,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "coin eyes",
+      "ritual murder",
+      "unsolved case",
+      "odd detail",
+      "forensic symbolism"
+    ],
+    "overlap_check_hash": "8cadbbd587bcf714",
+    "why_this_can_go_viral": "The eerie, unexplained ritualistic element taps into true-crime mystery obsession; viewers will debate meaning in comments."
+  },
+  {
+    "unique_id": "crime_0021_011_9df453dd231a3063",
+    "title": "The Cartel That Used a Dentist's Chair for Interrogation",
+    "hook": "They modified a dental chair to drill into victims' teeth without anesthesia—until the FBI found the chair's serial number.",
+    "virality_score": 87,
+    "curiosity_gap_score": 88,
+    "darkness_score": 95,
+    "educational_value": 69,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "dentist chair torture",
+      "cartel interrogation",
+      "FBI dental forensics",
+      "serial number tracking",
+      "cartel brutality"
+    ],
+    "overlap_check_hash": "9df453dd231a3063",
+    "why_this_can_go_viral": "The medical horror angle combined with a clever forensic solve (serial number) gives both shock and resolution."
+  },
+  {
+    "unique_id": "crime_0021_012_2b18768305df9b57",
+    "title": "The Mob Accountant Who Laundered Millions Through a Pet Cemetery",
+    "hook": "He buried cash inside empty pet caskets, then resold the plots to grieving owners who unknowingly guarded his money.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 76,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "pet cemetery money laundering",
+      "mob accountant",
+      "cash burial",
+      "pet casket scam",
+      "organized crime finance"
+    ],
+    "overlap_check_hash": "2b18768305df9b57",
+    "why_this_can_go_viral": "The emotional manipulation of grieving pet owners to hide cash is both twisted and darkly clever; highly shareable irony."
+  },
+  {
+    "unique_id": "crime_0021_013_61b7c49fb6cbe315",
+    "title": "The Serial Killer Who Kept a Diary in the Victim's Own Handwriting",
+    "hook": "He forced his last victim to write a 'diary' of her final days—then left it for police as his signature.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 68,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "forced diary",
+      "serial killer signature",
+      "victim handwriting",
+      "psychological torture",
+      "notebook evidence"
+    ],
+    "overlap_check_hash": "61b7c49fb6cbe315",
+    "why_this_can_go_viral": "The concept of a killer making a victim document her own demise is deeply unsettling and psychologically rich; perfect for dark crime fans."
+  },
+  {
+    "unique_id": "crime_0021_014_5b69b000f450ec16",
+    "title": "The Criminal Mastermind Who Stole a Jet by Changing the Tail Number at an Airport Cafe",
+    "hook": "He printed a fake tail number on a napkin, swapped it with the real one, and flew a $20 million jet out of a busy airport.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 62,
+    "educational_value": 73,
+    "estimated_short_retention": 81,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "jet theft",
+      "tail number swap",
+      "airport heist",
+      "fake identity",
+      "aviation crime"
+    ],
+    "overlap_check_hash": "5b69b000f450ec16",
+    "why_this_can_go_viral": "The low-tech solution (paper napkin) versus high-value target (jet) creates a 'genius or insane?' debate that fuels engagement."
+  },
+  {
+    "unique_id": "crime_0021_015_f9d1ba7ed2881a79",
+    "title": "The Heist Where Thieves Stole a Casino's Slot Machines by Replacing Them with Fakes",
+    "hook": "They swapped 20 slot machines with identical wooden replicas overnight—and the casino didn't notice for three days.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 58,
+    "educational_value": 69,
+    "estimated_short_retention": 79,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "casino heist",
+      "slot machine swap",
+      "wooden replica",
+      "fake slot machines",
+      "overnight theft"
+    ],
+    "overlap_check_hash": "f9d1ba7ed2881a79",
+    "why_this_can_go_viral": "The sheer brazenness and the casino's delayed discovery is funny and shocking; great for 'dumb criminals gone smart' narrative."
+  },
+  {
+    "unique_id": "crime_0021_016_8409ad84c12fb14e",
+    "title": "The Billion-Dollar Fraud That Sold Fake Moon Rocks to Space Agencies",
+    "hook": "A geologist faked lunar samples so well that even NASA's own experts were fooled—until they tested the dust for pollution particles.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 70,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fake moon rocks",
+      "NASA fraud",
+      "lunar sample scam",
+      "geologist con",
+      "space agency hoax"
+    ],
+    "overlap_check_hash": "8409ad84c12fb14e",
+    "why_this_can_go_viral": "Mixing space exploration with high-stakes forgery triggers curiosity; 'How do you fake a moon rock?' is a powerful search hook."
+  },
+  {
+    "unique_id": "crime_0021_017_408688986af70646",
+    "title": "The Unsolved Murder Where the Killer Left a Video Camera Pointed at a Blank Wall",
+    "hook": "The killer filmed nothing but a wall for six hours—except the audio revealed the exact moment and method of the murder.",
+    "virality_score": 82,
+    "curiosity_gap_score": 89,
+    "darkness_score": 86,
+    "educational_value": 64,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "blank camera murder",
+      "audio evidence",
+      "unsolved case",
+      "killer camera setup",
+      "forensic audio"
+    ],
+    "overlap_check_hash": "408688986af70646",
+    "why_this_can_go_viral": "The paradox of a blank video containing the whole crime story is a clickbait goldmine; audio forensics is a rising curiosity niche."
+  },
+  {
+    "unique_id": "crime_0021_018_28fe0daed7d0db18",
+    "title": "The Cartel That Built a Fake Soccer Field to Land Drug Planes",
+    "hook": "They dug a runway under the grass, then lowered floodlights and goalposts to cover it every time a plane landed.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 72,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "soccer field runway",
+      "drug plane landing",
+      "cartel airstrip",
+      "retractable runway",
+      "narco soccer"
+    ],
+    "overlap_check_hash": "28fe0daed7d0db18",
+    "why_this_can_go_viral": "The ingenuity of hiding a runway under a sports field is visually spectacular and instantly shareable on short-form video."
+  },
+  {
+    "unique_id": "crime_0021_020_5c6bf9a4cc8487b0",
+    "title": "The Serial Killer Who Only Killed During Power Outages",
+    "hook": "He mapped the city's blackout schedules and used the dark to stalk—neighbors thought the screams were just the wind.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 90,
+    "educational_value": 67,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "power outage killer",
+      "blackout murder",
+      "urban predator",
+      "darkness tactic",
+      "grid mapping killer"
+    ],
+    "overlap_check_hash": "5c6bf9a4cc8487b0",
+    "why_this_can_go_viral": "Exploits a primal fear (darkness) and a common annoyance (blackouts) into a chillingly plausible horror story; high comment potential."
+  },
+  {
+    "unique_id": "crime_0021_021_c3b1e7aa55544e70",
+    "title": "The Heist Where Thieves Stole a Gold Vault by Digging Through a Sewage Pipe",
+    "hook": "They spent six months crawling through raw sewage to reach the vault floor, then pushed gold bars back through the same pipe.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 74,
+    "educational_value": 71,
+    "estimated_short_retention": 81,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "sewage tunnel heist",
+      "gold vault theft",
+      "pipe crawl",
+      "Brazil vault robbery",
+      "filthy heist"
+    ],
+    "overlap_check_hash": "c3b1e7aa55544e70",
+    "why_this_can_go_viral": "The disgust factor (raw sewage) combined with extreme dedication and gold creates a visceral, unforgettable story."
+  },
+  {
+    "unique_id": "crime_0021_022_94107cd2947e62ef",
+    "title": "The Mafia That Used a Funeral Home to Wiretap the FBI",
+    "hook": "They buried listening devices inside caskets with the deceased, then picked up FBI signals from the cemetery for years.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "funeral home wiretap",
+      "mafia surveillance",
+      "FBI bugging",
+      "cemetery listening post",
+      "mob counter-intelligence"
+    ],
+    "overlap_check_hash": "94107cd2947e62ef",
+    "why_this_can_go_viral": "The morbid irony of using dead bodies to spy on the living is darkly fascinating and feels like a spy thriller twist."
+  },
+  {
+    "unique_id": "crime_0021_023_587541d5cdbda2a1",
+    "title": "The Fraudster Who Sold Fake Oceanfront Property in Kansas",
+    "hook": "He photoshopped beaches onto farmland, sold 'ocean view' lots to investors, and vanished before they realized the tide never came in.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 45,
+    "educational_value": 65,
+    "estimated_short_retention": 74,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fake oceanfront",
+      "land scam",
+      "Kansas fraud",
+      "photoshopped real estate",
+      "property con"
+    ],
+    "overlap_check_hash": "587541d5cdbda2a1",
+    "why_this_can_go_viral": "The absurd geography of oceanfront in a landlocked state is funny and maddening; perfect for 'greedy investor' schadenfreude."
+  },
+  {
+    "unique_id": "crime_0021_024_b2d0e19ef7b44d15",
+    "title": "The Unsolved Murder Where the Killer Left a Map Showing Where the Body Was—Before the Body Was Found",
+    "hook": "A hand-drawn map arrived at the police station three days before the victim was reported missing—and it led exactly to the grave.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 91,
+    "educational_value": 66,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "map before murder",
+      "pre-crime map",
+      "unsolved mystery",
+      "killer prediction",
+      "forensic timeline"
+    ],
+    "overlap_check_hash": "b2d0e19ef7b44d15",
+    "why_this_can_go_viral": "The time paradox—a map delivered before the crime—creates massive curiosity and supernatural speculation that drives shares."
+  },
+  {
+    "unique_id": "crime_0021_025_0e78230004bb4323",
+    "title": "The Criminal Mastermind Who Robbed a Bank by Dressing as a Statue—and Not Moving for 8 Hours",
+    "hook": "He stood frozen in the lobby as a 'statue' until the bank closed, then walked out with the vault code he memorized off the manager's desk.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 58,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "statue robber",
+      "bank heist disguise",
+      "living statue crime",
+      "frozen thief",
+      "patience heist"
+    ],
+    "overlap_check_hash": "0e78230004bb4323",
+    "why_this_can_go_viral": "The 'human statue' visual is instantly shareable; the idea of extreme patience and stillness as a weapon is a fascinating psychological hook."
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "business_0108_001_1416130ee4a92251",
+    "title": "The Pesticide Company That Patented a Bee-Killing Virus to Sell More Spray",
+    "hook": "A major agrochemical firm secretly engineered a virus that wiped out bee colonies, then marketed the pesticide as a 'solution' to the problem they created.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "bee genocide",
+      "pesticide conspiracy",
+      "agrochemical fraud",
+      "patented virus",
+      "ecological crime"
+    ],
+    "overlap_check_hash": "1416130ee4a92251",
+    "why_this_can_go_viral": "Combines environmental outrage with a hidden corporate crime that created a problem to sell a cure — rage-bait with a jaw-dropping reveal."
+  },
+  {
+    "unique_id": "business_0108_002_4395099ffe64f467",
+    "title": "The Trader Who Paid a Fisherman to Release a Dead Whale to Crash Oil Prices",
+    "hook": "A rogue trader bribed a fisherman to tow a dead sperm whale into a shipping lane, triggering a spill panic that nuked crude futures — and netted millions.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "dead whale scam",
+      "oil price crash",
+      "futures manipulation",
+      "maritime fraud",
+      "trader scheme"
+    ],
+    "overlap_check_hash": "4395099ffe64f467",
+    "why_this_can_go_viral": "Absurd, gruesome, and financially clever — the perfect shock-and-awe hook for a market manipulation story."
+  },
+  {
+    "unique_id": "business_0108_003_dc5f728b1ff6ccd7",
+    "title": "The Startup That Sold 'AI Headshots' for LinkedIn—They Were Prisoners in a Photo Studio",
+    "hook": "A Silicon Valley darling promised AI-generated professional portraits — but behind the scenes, inmates in a county jail were Photoshop-ing mugshots into corporate headshots.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 92,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "AI fake",
+      "prison labor",
+      "LinkedIn scam",
+      "startup fraud",
+      "photo exploitation"
+    ],
+    "overlap_check_hash": "dc5f728b1ff6ccd7",
+    "why_this_can_go_viral": "The bait-and-switch from 'AI' to 'prison labor' is ethically explosive and instantly shareable — outrage plus disbelief."
+  },
+  {
+    "unique_id": "business_0108_004_12f0c3d65308126f",
+    "title": "The Monopoly That Bought Every Dentist in a City — Then Invented 'Cavity of the Month'",
+    "hook": "After acquiring 80% of local dental clinics, a private equity firm created a fake disease to justify quarterly fillings — and patients believed it for years.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 94,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "dental monopoly",
+      "fake diagnosis",
+      "private equity scam",
+      "cavity fraud",
+      "medical monopoly"
+    ],
+    "overlap_check_hash": "12f0c3d65308126f",
+    "why_this_can_go_viral": "Everyone fears the dentist — revealing they invented a disease to profit is visceral, personal, and rage-inducing."
+  },
+  {
+    "unique_id": "business_0108_005_89a9c511e1683492",
+    "title": "The Spy Who Stole a Lipstick Formula by Swapping a Lab's Hand Sanitizer",
+    "hook": "A corporate spy replaced the hand sanitizer in a cosmetics lab with an alcohol-free dupe, making the chemists sloppy and leaving their formulas exposed in plain sight.",
+    "virality_score": 74,
+    "curiosity_gap_score": 79,
+    "darkness_score": 65,
+    "educational_value": 65,
+    "estimated_short_retention": 72,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "cosmetic spy",
+      "formula theft",
+      "hand sanitizer trick",
+      "industrial espionage",
+      "beauty lab hack"
+    ],
+    "overlap_check_hash": "89a9c511e1683492",
+    "why_this_can_go_viral": "The low-tech, psychological manipulation angle is fascinating — a spy weaponizing hygiene habits feels like a heist movie."
+  },
+  {
+    "unique_id": "business_0108_006_b1237d3dcceaf96e",
+    "title": "The Ad That Detected Your Heartbeat Through a Webcam — Then Sold You Funeral Plans",
+    "hook": "A dark marketing firm used a browser permission trick to measure your pulse from facial micro-blushes, then targeted ads for burial insurance to people with elevated heart rates.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 93,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "heartbeat detection",
+      "predatory ads",
+      "webcam tracking",
+      "death marketing",
+      "biometric exploitation"
+    ],
+    "overlap_check_hash": "b1237d3dcceaf96e",
+    "why_this_can_go_viral": "The invasive, creepy precision of targeting based on health signals is terrifying — and feels like a Black Mirror episode come to life."
+  },
+  {
+    "unique_id": "business_0108_007_aa56095b663a82a8",
+    "title": "The Factory That Sold 'Fresh' Salmon—It Was 3-Year-Old Frozen Fish Reanimated with Pig Fat",
+    "hook": "A major seafood processor injected thawed, rotten salmon with lard and red dye to make it look fresh — and sold it to grocery chains for a decade.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "fake salmon",
+      "fish fraud",
+      "pig fat injection",
+      "seafood scandal",
+      "rotten fish cover-up"
+    ],
+    "overlap_check_hash": "aa56095b663a82a8",
+    "why_this_can_go_viral": "Gross-out factor plus health betrayal drives massive shares — everyone who eats salmon will feel disgusted and betrayed."
+  },
+  {
+    "unique_id": "business_0108_008_458a0ed37acb5526",
+    "title": "The Industry Cover-Up of 'Biodegradable' Phone Cases That Released Microplastics in Sunlight",
+    "hook": "A popular eco-friendly phone case brand knew their product disintegrated into toxic microplastic dust within weeks in sunlight — but blamed customers for 'improper disposal'.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 76,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "biodegradable scam",
+      "phone case fraud",
+      "microplastic cover-up",
+      "greenwashing",
+      "eco-lie"
+    ],
+    "overlap_check_hash": "458a0ed37acb5526",
+    "why_this_can_go_viral": "Greenwashing outrage is highly shareable — especially when the 'solution' is worse than the problem."
+  },
+  {
+    "unique_id": "business_0108_009_b84acbc09d2e3d69",
+    "title": "The Trader Who Used a Fake 'Ship Hijacking' Radio Call to Crash Coffee Futures",
+    "hook": "A speculator faked a distress call from a cargo ship carrying 20% of the world's arabica beans, sent coffee futures soaring — then shorted the market before the 'rescue'.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "coffee crash",
+      "fake hijacking",
+      "commodity manipulation",
+      "ship radio fraud",
+      "futures scam"
+    ],
+    "overlap_check_hash": "b84acbc09d2e3d69",
+    "why_this_can_go_viral": "The audacity of faking a crisis for a breakfast commodity is both hilarious and horrifying — perfect cocktail for virality."
+  },
+  {
+    "unique_id": "business_0108_010_c3cfe7ce35561160",
+    "title": "The Startup That Sold 'AI Lawyers' — They Were Paralegals in a Soundproofed Container Ship",
+    "hook": "A legal-tech unicorn claimed AI drafted contracts — actually, they crammed 200 underpaid paralegals into a refurbished shipping container off the coast of Panama.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 87,
+    "educational_value": 60,
+    "estimated_short_retention": 91,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "AI lawyer scam",
+      "container ship labor",
+      "legal-tech fraud",
+      "paralegal exploitation",
+      "unicorn lie"
+    ],
+    "overlap_check_hash": "c3cfe7ce35561160",
+    "why_this_can_go_viral": "The 'AI is actually humans' trope is popular, but the shipping container twist is uniquely shocking and visual."
+  },
+  {
+    "unique_id": "business_0108_012_0db058fc0f35cce8",
+    "title": "The Spy Who Stole a Chocolate Recipe by Replacing a Factory's High-Vis Vests",
+    "hook": "An industrial spy swapped the reflective vests in a Swiss chocolate factory with ones lined with scent-absorbing fabric, then analyzed the cocoa aroma captured during production.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 68,
+    "educational_value": 70,
+    "estimated_short_retention": 74,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "chocolate spy",
+      "scent theft",
+      "Swiss recipe",
+      "vest hack",
+      "industrial espionage"
+    ],
+    "overlap_check_hash": "0db058fc0f35cce8",
+    "why_this_can_go_viral": "The absurd specificity and sensory angle (smell) make it memorable and shareable — a delicious crime."
+  },
+  {
+    "unique_id": "business_0108_015_661b8b1919ad434a",
+    "title": "The Industry Cover-Up of 'Recycled' Plastic Bottles That Were Melting into Drinking Water",
+    "hook": "A major bottled water company knew their '100% recycled' bottles leached estrogen-mimicking compounds after three days in sunlight — they bribed labs to suppress the study.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 82,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "plastic cover-up",
+      "water bottle poison",
+      "recycled scam",
+      "estrogen leach",
+      "lab bribery"
+    ],
+    "overlap_check_hash": "661b8b1919ad434a",
+    "why_this_can_go_viral": "Combines environmental hypocrisy with health risk — a perfect storm of anger, fear, and shareability."
+  },
+  {
+    "unique_id": "business_0108_016_9ab29e9e6df0d333",
+    "title": "The Trader Who Faked a 'River on Fire' Video to Crash Chemical Stocks",
+    "hook": "A speculator staged a fake chemical spill by dumping diesel into a river and lighting it, then shorted competitor stocks before the footage went viral.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 88,
+    "educational_value": 60,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "river fire scam",
+      "chemical stock crash",
+      "fake disaster",
+      "environmental fraud",
+      "shorting scheme"
+    ],
+    "overlap_check_hash": "9ab29e9e6df0d333",
+    "why_this_can_go_viral": "The visual of a burning river is cinematic and shocking — plus the financial manipulation layer adds depth."
+  },
+  {
+    "unique_id": "business_0108_017_fb4a097d905ebad3",
+    "title": "The Startup That Sold 'AI Landlords' — They Were Night Guards with Walkie-Talkies",
+    "hook": "A proptech startup promised AI-driven property management — actually, they hired homeless night guards to patrol buildings and respond to tenants via a voice app.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 84,
+    "educational_value": 55,
+    "estimated_short_retention": 87,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "AI landlord scam",
+      "homeless workers",
+      "property tech fraud",
+      "fake AI",
+      "tenant trap"
+    ],
+    "overlap_check_hash": "fb4a097d905ebad3",
+    "why_this_can_go_viral": "The 'AI is exploited humans' trope gets a fresh, urban-savvy twist — plus it critiques the housing crisis."
+  },
+  {
+    "unique_id": "business_0108_018_3e26abdea8a84719",
+    "title": "The Monopoly That Bought All the Seed Banks — Then Made Farmers Pay to Plant Rain",
+    "hook": "An agri-conglomerate patented seeds that only germinated in response to a specific chemical spray — then bought all the weather data to charge farmers for 'rain activation'.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "seed monopoly",
+      "rain patent",
+      "farmer slavery",
+      "agri-cartel",
+      "weather exploitation"
+    ],
+    "overlap_check_hash": "3e26abdea8a84719",
+    "why_this_can_go_viral": "The dystopian concept of charging for rain is universally shocking and ties into food system paranoia — huge share potential."
+  },
+  {
+    "unique_id": "business_0108_020_37193c68b772edc3",
+    "title": "The Ad That Detected Your Breakup via Social Media Silence — Then Sold You Revenge Services",
+    "hook": "A marketing firm scraped your 'digital silence' (no posts, story views dropped) to algorithmically predict breakups — then targeted ads for fake social media accounts to make exes jealous.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 89,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "breakup detection",
+      "revenge ads",
+      "social media silence",
+      "jealousy marketing",
+      "emotion tracking"
+    ],
+    "overlap_check_hash": "37193c68b772edc3",
+    "why_this_can_go_viral": "Manipulating heartbreak for profit is universally relatable and ethically disgusting — emotional engagement drives shares."
+  },
+  {
+    "unique_id": "business_0108_021_e9e9122201e74341",
+    "title": "The Factory That Sold 'Wild Mushrooms' — They Were Cultivated on Hospital Waste",
+    "hook": "A gourmet mushroom supplier grew organic fungi on medical waste — used bandages, expired IV bags — and sold to high-end restaurants as 'foraged'.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 65,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "medical waste mushrooms",
+      "foraged fraud",
+      "hospital fungus",
+      "gourmet scam",
+      "biohazard food"
+    ],
+    "overlap_check_hash": "e9e9122201e74341",
+    "why_this_can_go_viral": "The gross-out factor is extreme, and the betrayal of upscale diners makes it a perfect rage-share story."
+  },
+  {
+    "unique_id": "business_0108_022_aa570a6d042e3eab",
+    "title": "The Industry Cover-Up of 'Non-Toxic' Nail Polish That Contained Brain-Damaging Solvents",
+    "hook": "A major cosmetics brand labeled nail polish as '5-free' (no toxic chemicals) for a decade — but independent tests found it contained a solvent linked to Parkinson's disease.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "nail polish poison",
+      "5-free scam",
+      "Parkinson's cover-up",
+      "cosmetic fraud",
+      "toxic solvents"
+    ],
+    "overlap_check_hash": "aa570a6d042e3eab",
+    "why_this_can_go_viral": "Beauty products are deeply trusted and personal — exposing hidden neurotoxins triggers fear and anger in a massive audience."
+  },
+  {
+    "unique_id": "business_0108_023_b8196e58789ccb21",
+    "title": "The Trader Who Used a Fake 'Volcano Eruption' Sound to Crash Aviation Stocks on Earnings Day",
+    "hook": "A trader spliced old eruption audio into a fake news broadcast, convinced trading bots an ash cloud was grounding flights, and shorted airline stocks for a $40M windfall.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 81,
+    "educational_value": 65,
+    "estimated_short_retention": 81,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "fake volcano",
+      "audio stock hack",
+      "aviation crash",
+      "trading bot scam",
+      "audio manipulation"
+    ],
+    "overlap_check_hash": "b8196e58789ccb21",
+    "why_this_can_go_viral": "The low-tech audio trick vs. high-frequency trading bots is a David and Goliath story with a dark twist."
+  },
+  {
+    "unique_id": "business_0108_024_246322b29dc3f29c",
+    "title": "The CEO Who Sold 'AI Meditation' — They Were Sleep-Deprived Monks on a Loop",
+    "hook": "A wellness unicorn claimed AI guided million-dollar meditation sessions — in reality, they hired 50 monks and kept them awake for 72 hours to record hypnotic scripts.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 86,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "AI monk scam",
+      "meditation fraud",
+      "wellness unicorn",
+      "sleep deprivation",
+      "ethical nightmare"
+    ],
+    "overlap_check_hash": "246322b29dc3f29c",
+    "why_this_can_go_viral": "The irony of using tortured monks to sell 'calm' is darkly hilarious — perfect for outrage and memes."
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "crime_0075_001_9bb2fd70df46502f",
+    "title": "The Mob That Controlled a City's Elevators—To Trap Witnesses",
+    "hook": "Witnesses kept dying in elevator accidents until someone noticed all the repairs were done by the same company—owned by the mob.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob",
+      "elevators",
+      "witness intimidation",
+      "organized crime",
+      "city control"
+    ],
+    "overlap_check_hash": "9bb2fd70df46502f",
+    "why_this_can_go_viral": "Combines urban paranoia with a concrete, hidden mechanism of control that viewers can imagine happening in their own building."
+  },
+  {
+    "unique_id": "crime_0075_002_e5aabd2dcd9f21b8",
+    "title": "The Heist Where Thieves Stole a Statue's Eyes—And Left a Ransom Note",
+    "hook": "They didn't take the statue itself. They took only its sapphire eyes, then mailed a note demanding the museum pay for the code to re-enter their own vault.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 60,
+    "educational_value": 45,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "heist",
+      "sapphire",
+      "ransom note",
+      "museum",
+      "vault code"
+    ],
+    "overlap_check_hash": "e5aabd2dcd9f21b8",
+    "why_this_can_go_viral": "Peculiar, almost artistic crime with a puzzle element. People love stories where criminals play psychological games with their victims."
+  },
+  {
+    "unique_id": "crime_0075_003_b6caf02afcf1f29f",
+    "title": "The Serial Killer Who Only Left Victims Near Police Stations",
+    "hook": "Every body was found within 200 meters of a police precinct, always on the same day of the week—and no one ever caught him.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 93,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "police stations",
+      "taunting",
+      "unsolved",
+      "pattern"
+    ],
+    "overlap_check_hash": "b6caf02afcf1f29f",
+    "why_this_can_go_viral": "The sheer audacity of killing near police creates outrage and fascination. The unsolved nature makes it a perfect mystery rabbit hole."
+  },
+  {
+    "unique_id": "crime_0075_004_f492a3f2d83d5f8e",
+    "title": "The Cartel That Smuggled Cocaine Inside Funeral Wreaths",
+    "hook": "They shipped hundreds of funeral wreaths across the border—each one held a kilo of cocaine baked into the foam base, sealed in wax.",
+    "virality_score": 78,
+    "curiosity_gap_score": 81,
+    "darkness_score": 74,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "funeral",
+      "smuggling",
+      "wreaths",
+      "border"
+    ],
+    "overlap_check_hash": "f492a3f2d83d5f8e",
+    "why_this_can_go_viral": "The macabre disrespect of using death as a cover story shocks viewers and makes the story highly shareable."
+  },
+  {
+    "unique_id": "crime_0075_005_22a987bc2704edfc",
+    "title": "The White-Collar Criminal Who Stole a Country's Air Traffic Control",
+    "hook": "He rerouted flights for months, charging planes fake landing fees—until one pilot noticed his GPS said he was over a country he'd never entered.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 72,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "air traffic control",
+      "fake fees",
+      "flight rerouting",
+      "white-collar",
+      "GPS anomaly"
+    ],
+    "overlap_check_hash": "22a987bc2704edfc",
+    "why_this_can_go_viral": "High-concept fraud with real-world danger. Viewers will share because 'imagine your plane being rerouted by a criminal' is a universal fear."
+  },
+  {
+    "unique_id": "crime_0075_007_fe7035d1d1b6f3a0",
+    "title": "The Criminal Mastermind Who Sold a Fake Subway System to a City",
+    "hook": "He faked government contracts, built subway entrances that led nowhere, and pocketed $600M—before anyone noticed no trains ever ran.",
+    "virality_score": 90,
+    "curiosity_gap_score": 96,
+    "darkness_score": 70,
+    "educational_value": 68,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake subway",
+      "city fraud",
+      "infrastructure",
+      "mastermind",
+      "$600M"
+    ],
+    "overlap_check_hash": "fe7035d1d1b6f3a0",
+    "why_this_can_go_viral": "The scale of the deception is almost comical, yet deeply unsettling. People love stories of 'how did nobody notice?'"
+  },
+  {
+    "unique_id": "crime_0075_008_729d34aae205ab23",
+    "title": "The Billion-Dollar Fraud That Sold Fake Desalination Plants to Drought Countries",
+    "hook": "Countries paid billions for plants that were just empty buildings with pipes leading into the ocean—the water never came.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "desalination",
+      "fraud",
+      "drought",
+      "empty buildings",
+      "billions"
+    ],
+    "overlap_check_hash": "729d34aae205ab23",
+    "why_this_can_go_viral": "Exploits a desperate need, making the crime feel especially cruel. The visual of 'fake plant' is easy to animate and share."
+  },
+  {
+    "unique_id": "crime_0075_009_d1af5a6690de79ad",
+    "title": "The Mob That Used a Nursing Home as a Money Laundry—With Patients as Employees",
+    "hook": "They listed comatose patients as employees, paid them salaries, and pocketed the refunds—for 12 years, no auditor ever checked a patient's pulse.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 63,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "nursing home",
+      "money laundering",
+      "comatose",
+      "patients",
+      "audit"
+    ],
+    "overlap_check_hash": "d1af5a6690de79ad",
+    "why_this_can_go_viral": "Deeply unsettling exploitation of the vulnerable. The morbid detail of 'comatose employees' shocks and angers viewers, driving shares."
+  },
+  {
+    "unique_id": "crime_0075_010_abd5b13fa4fee084",
+    "title": "The Serial Killer Who Used an Ice Cream Truck Jingle to Select Victims",
+    "hook": "He drove through neighborhoods playing the jingle—and the children who ran toward the music were the ones he took.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 95,
+    "educational_value": 40,
+    "estimated_short_retention": 96,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "ice cream truck",
+      "jingle",
+      "children",
+      "predator",
+      "lure"
+    ],
+    "overlap_check_hash": "abd5b13fa4fee084",
+    "why_this_can_go_viral": "Subverts a universally beloved childhood memory. The emotional gut-punch ensures high retention and discussion."
+  },
+  {
+    "unique_id": "crime_0075_011_d3b78ca966a500a0",
+    "title": "The Heist Where Thieves Stole a Bridge—Piece by Piece, Over a Year",
+    "hook": "They dismantled a 200-ton iron bridge at night, sold it as scrap, and replaced each section with wooden fakes painted to look like iron.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 55,
+    "educational_value": 62,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "bridge theft",
+      "scrap metal",
+      "fake iron",
+      "dismantle",
+      "night"
+    ],
+    "overlap_check_hash": "d3b78ca966a500a0",
+    "why_this_can_go_viral": "The audacity and slow-burn nature of the crime is fascinating. Visual storytelling of a bridge disappearing is inherently shareable."
+  },
+  {
+    "unique_id": "crime_0075_013_67e805f151945698",
+    "title": "The White-Collar Criminal Who Stole $900M by Faking a City's Traffic Light Contracts",
+    "hook": "He convinced the city to pay for traffic lights that were never installed—he just sent them photos of the same intersection from different angles.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 65,
+    "educational_value": 68,
+    "estimated_short_retention": 81,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "traffic lights",
+      "fake contracts",
+      "city fraud",
+      "photos",
+      "$900M"
+    ],
+    "overlap_check_hash": "67e805f151945698",
+    "why_this_can_go_viral": "The lazy audacity of using the same photo is comedic yet enraging. People love tagging their local government in comments."
+  },
+  {
+    "unique_id": "crime_0075_014_8a84d1ca50bdf954",
+    "title": "The Criminal Mastermind Who Faked a School to Embezzle Education Funds",
+    "hook": "He built a 'school' with empty classrooms, fake teachers, and no students—yet collected $200M in government funding for 15 years.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 76,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake school",
+      "embezzlement",
+      "education funds",
+      "empty classrooms",
+      "long con"
+    ],
+    "overlap_check_hash": "8a84d1ca50bdf954",
+    "why_this_can_go_viral": "Taps into frustration with government waste. The 'fake school' concept is simple enough to explain in seconds but shocking in scale."
+  },
+  {
+    "unique_id": "crime_0075_017_4fc59c5337304553",
+    "title": "The Serial Killer Who Left Victims in Their Own Cars—With the Engine Running",
+    "hook": "He staged each scene to look like a suicide by carbon monoxide, but the victims had no access to the pedals—and the doors were locked from the outside.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "car",
+      "engine running",
+      "staged suicide",
+      "locked doors",
+      "serial killer"
+    ],
+    "overlap_check_hash": "4fc59c5337304553",
+    "why_this_can_go_viral": "The detail 'locked from outside' proves it was murder. Viewers will be hooked by the dark cleverness of the setup."
+  },
+  {
+    "unique_id": "crime_0075_018_bd97c3efe3ffc71a",
+    "title": "The Heist Where Thieves Stole a Museum's Air—And Held It for Ransom",
+    "hook": "They didn't take paintings. They sealed the climate control system and demanded $10M for the 'safe return of the museum's breathable atmosphere.'",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 45,
+    "educational_value": 35,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "museum",
+      "air",
+      "climate control",
+      "ransom",
+      "unusual heist"
+    ],
+    "overlap_check_hash": "bd97c3efe3ffc71a",
+    "why_this_can_go_viral": "Absurdly creative crime that people will share for its sheer weirdness. The concept of 'stealing air' is inherently conversation-starting."
+  },
+  {
+    "unique_id": "crime_0075_019_819751b36d2711b4",
+    "title": "The Mob That Ran a City's Ambulance Service—To Choose Who Lived",
+    "hook": "They owned the only private ambulance company, and if you owed them money, your emergency call was answered with 'Sorry, all units busy.'",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 94,
+    "educational_value": 72,
+    "estimated_short_retention": 96,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "ambulance",
+      "mob",
+      "life or death",
+      "city control",
+      "emergency"
+    ],
+    "overlap_check_hash": "819751b36d2711b4",
+    "why_this_can_go_viral": "Visceral horror of life-or-death control. The concept infuriates and fascinates equally, driving massive engagement and commentary."
+  },
+  {
+    "unique_id": "crime_0075_022_dbc3ada71cba889b",
+    "title": "The Criminal Mastermind Who Faked an Entire Airport to Steal Planes",
+    "hook": "He built a fake control tower, hired actors as air traffic controllers, and diverted cargo planes to his 'airport'—where they were stripped and sold.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 72,
+    "educational_value": 68,
+    "estimated_short_retention": 97,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake airport",
+      "control tower",
+      "actors",
+      "plane theft",
+      "cargo"
+    ],
+    "overlap_check_hash": "dbc3ada71cba889b",
+    "why_this_can_go_viral": "Incredible scale and movie-like premise. The idea of a fake airport is so audacious that it feels fictional, making it perfectly shareable."
+  },
+  {
+    "unique_id": "crime_0075_023_7af1617d845bcf4e",
+    "title": "The Unsolved Murder Where the Victim's Eye Was Replaced with a Glass Marble",
+    "hook": "After death, someone removed one of her eyes and put a blue marble in the socket—forensics found it was from a specific board game, but no one ever found the set.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 45,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "eye",
+      "marble",
+      "board game",
+      "unsolved",
+      "ritualistic"
+    ],
+    "overlap_check_hash": "7af1617d845bcf4e",
+    "why_this_can_go_viral": "Disturbing, specific detail that begs for explanation. Viewers will speculate and share, creating organic discussion threads."
+  }
+]

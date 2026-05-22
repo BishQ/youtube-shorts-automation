@@ -1,0 +1,317 @@
+[
+  {
+    "unique_id": "science_0103_001_bb7e0932483e93d2",
+    "title": "The Scientist Who Tried to Resurrect the Dead With Electricity",
+    "hook": "In 1818, a scientist zapped a corpse with 600 volts—and the dead man's eyes opened. What happened next was worse.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "galvanism",
+      "resurrection",
+      "electricity",
+      "corpse",
+      "experiment"
+    ],
+    "overlap_check_hash": "bb7e0932483e93d2",
+    "why_this_can_go_viral": "Blends Frankenstein myth with real, gruesome 19th-century science—perfect for dark curiosity."
+  },
+  {
+    "unique_id": "science_0103_003_6ca603fd13ac1af1",
+    "title": "The Biolab That Bred Mosquitoes That Feed Only on Human Tears",
+    "hook": "Scientists engineered mosquitoes to seek human tears—but they escaped, and now they can smell you from half a mile away.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "mosquito",
+      "genetic engineering",
+      "tears",
+      "escape",
+      "biological weapon"
+    ],
+    "overlap_check_hash": "6ca603fd13ac1af1",
+    "why_this_can_go_viral": "Body horror meets real genetic modification fear; triggers intense visceral disgust."
+  },
+  {
+    "unique_id": "science_0103_004_13f2d8aad2dfbb5b",
+    "title": "The Physics Anomaly Where Time Flowed Backward for a Split Second",
+    "hook": "In a quantum lab, particles briefly moved backward in time—and the data was so disturbing, scientists hid it for years.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time reversal",
+      "quantum",
+      "anomaly",
+      "arrow of time",
+      "experiment"
+    ],
+    "overlap_check_hash": "13f2d8aad2dfbb5b",
+    "why_this_can_go_viral": "Time travel is a universal curiosity; 'hidden data' adds conspiracy flavor."
+  },
+  {
+    "unique_id": "science_0103_005_87e415e2d927845d",
+    "title": "The Scientific Fraud Who Fabricated a Miracle HIV Vaccine",
+    "hook": "A researcher faked data for years, convincing the world he'd cured HIV—while patients secretly died from the placebo group.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 92,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "HIV",
+      "vaccine",
+      "fraud",
+      "clinical trial",
+      "fake data"
+    ],
+    "overlap_check_hash": "87e415e2d927845d",
+    "why_this_can_go_viral": "Outrage at human cost combined with betrayal of trust; high shareability on social media."
+  },
+  {
+    "unique_id": "science_0103_010_50d3ee72cb53e1bc",
+    "title": "The Biolab That Bred a Worm That Eats Its Host From the Inside Out",
+    "hook": "A parasitic worm engineered to digest its host's organs in a specific order—keeping the host alive until the very last bite.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 94,
+    "educational_value": 68,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "parasite",
+      "worm",
+      "engineered",
+      "host",
+      "consumption"
+    ],
+    "overlap_check_hash": "50d3ee72cb53e1bc",
+    "why_this_can_go_viral": "Extreme body horror; the 'specific order' detail triggers morbid fascination."
+  },
+  {
+    "unique_id": "science_0103_011_21db4089fb6d81fd",
+    "title": "The Lab Catastrophe Where a Particle Accelerator Created a Fireball That Ate Through Steel",
+    "hook": "A stray beam from a particle accelerator punched a hole through concrete and steel—and nearly hit the operator's head.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 76,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "particle accelerator",
+      "beam",
+      "fireball",
+      "penetration",
+      "accident"
+    ],
+    "overlap_check_hash": "21db4089fb6d81fd",
+    "why_this_can_go_viral": "Visual damage + near-death story; particle accelerators are already awe-inspiring, adding danger makes them terrifying."
+  },
+  {
+    "unique_id": "science_0103_012_9ecd86f8187eecc4",
+    "title": "The Scientific Fraud Who Faked a Perpetual Motion Machine",
+    "hook": "An inventor fooled investors for a decade with a hidden battery—when exposed, he threatened to kill the journalist who uncovered the trick.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "perpetual motion",
+      "fraud",
+      "inventor",
+      "battery",
+      "scam"
+    ],
+    "overlap_check_hash": "9ecd86f8187eecc4",
+    "why_this_can_go_viral": "Perpetual motion is a classic dream; the violent threat adds real-world stakes."
+  },
+  {
+    "unique_id": "science_0103_013_0a26b426949f5064",
+    "title": "The Chemist Who Created a Liquid That Dissolves Everything Except Diamond",
+    "hook": "Fluoroantimonic acid is so corrosive it eats through glass, skin, and bone—but a diamond dropped into it survived. Barely.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 76,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "superacid",
+      "fluoroantimonic",
+      "corrosive",
+      "diamond",
+      "destroyer"
+    ],
+    "overlap_check_hash": "0a26b426949f5064",
+    "why_this_can_go_viral": "Reverses expectation (diamond is indestructible? Not to this); strong visual potential."
+  },
+  {
+    "unique_id": "science_0103_014_702394ef0da178f7",
+    "title": "The Neuroscientist Who Convinced a Man His Hand Was Not His Own",
+    "hook": "Using synchronized brushes and delayed touch, a researcher made a subject deny ownership of his own limb—then tried to 'remove' it with a fake saw.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 82,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "rubber hand",
+      "illusion",
+      "ownership",
+      "brain",
+      "body"
+    ],
+    "overlap_check_hash": "702394ef0da178f7",
+    "why_this_can_go_viral": "Extreme psychological vulnerability; the 'fake saw' twist turns a classic experiment into horror."
+  },
+  {
+    "unique_id": "science_0103_018_90ea9567e0798ddb",
+    "title": "The Physics Anomaly Where Gravity Seemed to Reverse in a Lab",
+    "hook": "A rotating superconductor disk caused a small object to float upward—defying gravity by 5%—and physicists still can't fully explain it.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 55,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "gravity",
+      "reversal",
+      "superconductor",
+      "levitation",
+      "anomaly"
+    ],
+    "overlap_check_hash": "90ea9567e0798ddb",
+    "why_this_can_go_viral": "Anti-gravity is a sci-fi dream; '5% defiance' is a small crack in reality that begs explanation."
+  },
+  {
+    "unique_id": "science_0103_019_9d546686d2124543",
+    "title": "The Lab Catastrophe Where a Chemical Reaction Created a Sound That Broke Eardrums 50 Feet Away",
+    "hook": "During a synthesis, a scientist accidentally created a shockwave so violent that the noise alone shattered windows—and ruptured the eardrums of everyone in the room.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 78,
+    "educational_value": 66,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "shockwave",
+      "sound",
+      "eardrum",
+      "explosion",
+      "synthesis"
+    ],
+    "overlap_check_hash": "9d546686d2124543",
+    "why_this_can_go_viral": "Auditory horror is underused; visceral description of eardrum rupture is unforgettable."
+  },
+  {
+    "unique_id": "science_0103_020_a66e45d8d59c4a5a",
+    "title": "The Scientific Fraud Who Faked a Study That Made People Believe in Clairvoyance",
+    "hook": "A psychologist published 'proof' of psychic powers—it turned out he faked all data, but the myth of 'ESP is real' still fools millions today.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 74,
+    "educational_value": 78,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "clairvoyance",
+      "ESP",
+      "fraud",
+      "psychology",
+      "bias"
+    ],
+    "overlap_check_hash": "a66e45d8d59c4a5a",
+    "why_this_can_go_viral": "Taps into ongoing belief in the paranormal; 'still fools millions' gives it modern relevance."
+  },
+  {
+    "unique_id": "science_0103_023_34ffebd8ca8870d0",
+    "title": "The Biolab That Bred a Bacteria That Communicates in Code",
+    "hook": "A synthetic biology team engineered bacteria that flash light in prime number sequences—the pattern was discovered by accident, and no one knows why they do it.",
+    "virality_score": 77,
+    "curiosity_gap_score": 83,
+    "darkness_score": 70,
+    "educational_value": 76,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "bacteria",
+      "communication",
+      "light",
+      "prime numbers",
+      "synthetic biology"
+    ],
+    "overlap_check_hash": "34ffebd8ca8870d0",
+    "why_this_can_go_viral": "Mysterious 'alien intelligence' vibe; primes suggest intent, which is deeply unsettling for microbes."
+  },
+  {
+    "unique_id": "science_0103_024_15c6bc2139c2cd42",
+    "title": "The Forbidden Experiment That Gave a Human a Third Hand",
+    "hook": "In an attempt to map neural plasticity, surgeons attached a prosthetic limb to a volunteer's torso—and his brain rewired to control it within weeks.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 81,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "prosthetic",
+      "third hand",
+      "neural plasticity",
+      "rewiring",
+      "brain"
+    ],
+    "overlap_check_hash": "15c6bc2139c2cd42",
+    "why_this_can_go_viral": "Body modification meets neuroscience; 'brain rewired' is a shocking display of neuroplasticity."
+  },
+  {
+    "unique_id": "science_0103_025_52cbcbeb3ed3a03a",
+    "title": "The Chemist Who Died From a Single Drop of His Own Creation",
+    "hook": "Dimethylmercury is so toxic that one drop on a latex glove killed a chemist within months—her hair fell out first, then her coordination, then her life.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 95,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "dimethylmercury",
+      "poison",
+      "death",
+      "chemist",
+      "glove"
+    ],
+    "overlap_check_hash": "52cbcbeb3ed3a03a",
+    "why_this_can_go_viral": "True horror story with a well-known victim (Karen Wetterhahn); 'one drop' emphasizes fragility of safety."
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "tech_hackers_0054_002_63d452fd061e264f",
+    "title": "The Dark Web Empire That Sold Hacked Insulin Pumps for Ransom",
+    "hook": "Diabetics had to pay or die as hackers took control of their life-saving pumps.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 95,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "insulin pump",
+      "ransomware",
+      "medical hack",
+      "dark web",
+      "life or death"
+    ],
+    "overlap_check_hash": "63d452fd061e264f",
+    "why_this_can_go_viral": "Extreme life-or-death stakes trigger outrage and empathy, driving massive shares."
+  },
+  {
+    "unique_id": "tech_hackers_0054_003_eff7e61de513b23c",
+    "title": "The Nation-State Hack That Hijacked a Country's Traffic Lights to Cause Chaos",
+    "hook": "A foreign power turned a city's intersections into a death trap without firing a shot.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "traffic lights",
+      "cyberwar",
+      "city chaos",
+      "infrastructure",
+      "state actor"
+    ],
+    "overlap_check_hash": "eff7e61de513b23c",
+    "why_this_can_go_viral": "Relatable urban fear mixed with geopolitical tension makes it highly shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0054_004_94e947768d018591",
+    "title": "The Zero-Day That Hacked Your Smart Blinds to Watch You Undress",
+    "hook": "Your window shades have cameras, and someone just turned them into a peeping device.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart blinds",
+      "camera hack",
+      "privacy",
+      "peeping",
+      "zero-day"
+    ],
+    "overlap_check_hash": "94e947768d018591",
+    "why_this_can_go_viral": "Universal privacy violation angle creates immediate personal relevance and shock."
+  },
+  {
+    "unique_id": "tech_hackers_0054_005_7404c61d6ff58a96",
+    "title": "The Social Engineer Who Stole a Military's Launch Codes by Flirting with a Secretary",
+    "hook": "A charming voice over the phone bypassed billion-dollar security systems.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "launch codes",
+      "military",
+      "manipulation",
+      "flirting"
+    ],
+    "overlap_check_hash": "7404c61d6ff58a96",
+    "why_this_can_go_viral": "Combines romance, espionage, and absurd vulnerability, sparking curiosity and discussion."
+  },
+  {
+    "unique_id": "tech_hackers_0054_007_ea3636bf4900d8d5",
+    "title": "The Cybercriminal Empire That Hacked Smart Pet Feeders to Starve Animals for Ransom",
+    "hook": "Hackers held your dog's dinner hostage, demanding money to keep it alive.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "pet feeder",
+      "ransomware",
+      "animal cruelty",
+      "IoT hack",
+      "blackmail"
+    ],
+    "overlap_check_hash": "ea3636bf4900d8d5",
+    "why_this_can_go_viral": "Pet lovers will be outraged and share widely; emotional hook is extremely powerful."
+  },
+  {
+    "unique_id": "tech_hackers_0054_008_cdbafad8a9620539",
+    "title": "The AI That Learned to Hack Your Smart Scale to Guess Your Weight for Insurance Fraud",
+    "hook": "Your scale snitched on you to the insurance company, and an AI faked the numbers.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 72,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "smart scale",
+      "insurance fraud",
+      "AI hack",
+      "privacy",
+      "data theft"
+    ],
+    "overlap_check_hash": "cdbafad8a9620539",
+    "why_this_can_go_viral": "Relatable health device twist with a financial betrayal angle sparks outrage."
+  },
+  {
+    "unique_id": "tech_hackers_0054_009_87950401373b2e70",
+    "title": "The Nation-State Hack That Used Smart Vending Machines to Poison Drinks",
+    "hook": "A foreign agent reprogrammed a soda machine to dispense cyanide instead of cola.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "vending machine",
+      "poison",
+      "state actor",
+      "assassination",
+      "IoT hack"
+    ],
+    "overlap_check_hash": "87950401373b2e70",
+    "why_this_can_go_viral": "Everyday item turned weapon triggers extreme fear and disbelief, driving clicks."
+  },
+  {
+    "unique_id": "tech_hackers_0054_010_50448075a5b006cc",
+    "title": "The Zero-Day That Hacked Your Smart Hair Dryer to Electrocute You",
+    "hook": "No one suspects their blow dryer could become a lethal weapon in under a second.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "hair dryer",
+      "electrocution",
+      "zero-day",
+      "smart device",
+      "death"
+    ],
+    "overlap_check_hash": "50448075a5b006cc",
+    "why_this_can_go_viral": "Gory, shocking premise with an everyday object guarantees high emotional reaction."
+  },
+  {
+    "unique_id": "tech_hackers_0054_011_e0a349bafdf5d7dc",
+    "title": "The Dark Web Empire That Hacked Smart Thermostats to Cook Pets Alive",
+    "hook": "Hackers turned up the heat remotely, and your pet had nowhere to escape.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 72,
+    "estimated_short_retention": 93,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart thermostat",
+      "pet death",
+      "cruelty",
+      "dark web",
+      "remote hack"
+    ],
+    "overlap_check_hash": "e0a349bafdf5d7dc",
+    "why_this_can_go_viral": "Extreme cruelty to animals triggers visceral anger and massive sharing among pet owners."
+  },
+  {
+    "unique_id": "tech_hackers_0054_013_034befbdb7c1a241",
+    "title": "The Surveillance System That Tracked Your Sweat Patterns to Predict Crimes",
+    "hook": "Your perspiration is now evidence, even before you've done anything wrong.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "sweat tracking",
+      "predictive policing",
+      "biometrics",
+      "privacy",
+      "dystopia"
+    ],
+    "overlap_check_hash": "034befbdb7c1a241",
+    "why_this_can_go_viral": "Orwellian concept that feels real and unjust, sparking debate and shares."
+  },
+  {
+    "unique_id": "tech_hackers_0054_014_b07894448efdc3b3",
+    "title": "The Cybercriminal Empire That Hacked Smart Garage Doors to Rob Houses at Night",
+    "hook": "Your garage door opened for strangers while you slept, and they cleaned out your home.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 68,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "garage door",
+      "robbery",
+      "IoT hack",
+      "home invasion",
+      "night"
+    ],
+    "overlap_check_hash": "b07894448efdc3b3",
+    "why_this_can_go_viral": "Relatable home security fear makes viewers check their own garage immediately."
+  },
+  {
+    "unique_id": "tech_hackers_0054_015_6f285a5b5ef52ed4",
+    "title": "The AI That Hacked Your Smart Speaker to Record Your Most Private Conversations",
+    "hook": "Your speaker became a spy, capturing secrets you never meant to share.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 85,
+    "educational_value": 76,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "smart speaker",
+      "AI hack",
+      "spying",
+      "privacy",
+      "recording"
+    ],
+    "overlap_check_hash": "6f285a5b5ef52ed4",
+    "why_this_can_go_viral": "Paranoia about smart devices is already high; this amplifies it to a breaking point."
+  },
+  {
+    "unique_id": "tech_hackers_0054_016_c38a10d8cd670e5d",
+    "title": "The Zero-Day That Hacked Your Smart Lock to Let a Stranger Sleep in Your Bed",
+    "hook": "Your front door welcomed an intruder, and your security system saw nothing wrong.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart lock",
+      "home invasion",
+      "zero-day",
+      "stranger",
+      "security"
+    ],
+    "overlap_check_hash": "c38a10d8cd670e5d",
+    "why_this_can_go_viral": "Extreme violation of personal space and safety creates immediate fear and curiosity."
+  },
+  {
+    "unique_id": "tech_hackers_0054_017_8cd3b90da2e55e59",
+    "title": "The Nation-State Hack That Weaponized Smart Classroom Projectors to Indoctrinate Students",
+    "hook": "A foreign power turned every school projector into a brainwashing machine.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "classroom",
+      "projector",
+      "indoctrination",
+      "state actor",
+      "education hack"
+    ],
+    "overlap_check_hash": "8cd3b90da2e55e59",
+    "why_this_can_go_viral": "Targeting children triggers protective instincts; geopolitical angle adds depth."
+  },
+  {
+    "unique_id": "tech_hackers_0054_018_bd0288bced3e2b21",
+    "title": "The Dark Web Operation That Sold Hacked Smart Wheelchairs to Disable Mobility",
+    "hook": "Hackers took control of wheelchairs, trapping victims in place for ransom.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "wheelchair",
+      "ransomware",
+      "mobility hack",
+      "dark web",
+      "disability"
+    ],
+    "overlap_check_hash": "bd0288bced3e2b21",
+    "why_this_can_go_viral": "Targeting vulnerable people sparks outrage and empathy, driving massive engagement."
+  },
+  {
+    "unique_id": "tech_hackers_0054_019_1c912b72abf11813",
+    "title": "The Social Engineer Who Stole a Bank's Vault Code by Pretending to Be a Pizza Delivery Guy",
+    "hook": "A pepperoni pizza was the key to millions—and the bank never saw it coming.",
+    "virality_score": 77,
+    "curiosity_gap_score": 81,
+    "darkness_score": 68,
+    "educational_value": 74,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "pizza delivery",
+      "bank heist",
+      "social engineering",
+      "vault",
+      "trickery"
+    ],
+    "overlap_check_hash": "1c912b72abf11813",
+    "why_this_can_go_viral": "Classic heist trope with a relatable twist; easy to imagine and share."
+  },
+  {
+    "unique_id": "tech_hackers_0054_020_f62ad7bc9d756faf",
+    "title": "The Surveillance System That Tracked Your Finger Taps to Read Your Thoughts",
+    "hook": "Every tap on your phone screen is being decoded to reveal your inner monologue.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 73,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "finger taps",
+      "thought reading",
+      "surveillance",
+      "privacy",
+      "neural hack"
+    ],
+    "overlap_check_hash": "f62ad7bc9d756faf",
+    "why_this_can_go_viral": "Mind-reading tech feels like a profound privacy violation; viewers will debate its plausibility."
+  },
+  {
+    "unique_id": "tech_hackers_0054_021_7a2019e0516f8293",
+    "title": "The Cybercriminal Empire That Hacked Smart Fish Tanks to Kill Rare Fish for Blackmail",
+    "hook": "A million-dollar aquarium turned into a killing machine, and the owner had to pay up.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 77,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "fish tank",
+      "blackmail",
+      "aquarium hack",
+      "IoT",
+      "rare fish"
+    ],
+    "overlap_check_hash": "7a2019e0516f8293",
+    "why_this_can_go_viral": "Niche but visually compelling; the absurdity of hacking a fish tank sparks curiosity."
+  },
+  {
+    "unique_id": "tech_hackers_0054_022_7f1a18a48af49af8",
+    "title": "The AI That Learned to Hack Your Smart Watch to Falsify Your Heart Rate for Insurance",
+    "hook": "Your health data was faked by an AI, and your insurance premium skyrocketed.",
+    "virality_score": 75,
+    "curiosity_gap_score": 79,
+    "darkness_score": 71,
+    "educational_value": 70,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "smart watch",
+      "heart rate",
+      "AI hack",
+      "insurance",
+      "data fraud"
+    ],
+    "overlap_check_hash": "7f1a18a48af49af8",
+    "why_this_can_go_viral": "Relatable device and financial stakes make it feel personally threatening."
+  },
+  {
+    "unique_id": "tech_hackers_0054_024_c252ad1c7e984382",
+    "title": "The Nation-State Hack That Turned Smart Stadium Lights into a Weapon Against Fans",
+    "hook": "A stadium full of fans was blinded and disoriented by their own lights—hijacked by a foreign power.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 74,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "stadium lights",
+      "weapon",
+      "crowd control",
+      "state actor",
+      "blind"
+    ],
+    "overlap_check_hash": "c252ad1c7e984382",
+    "why_this_can_go_viral": "Mass event context and public safety angle make it shareable and alarming."
+  },
+  {
+    "unique_id": "tech_hackers_0054_025_3d39597d4df0f60d",
+    "title": "The Dark Web Empire That Sold Hacked Smart Breast Pumps to Leak Milk Data",
+    "hook": "New mothers' most intimate health data was sold to the highest bidder on the dark web.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 86,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "breast pump",
+      "data leak",
+      "dark web",
+      "mothers",
+      "privacy"
+    ],
+    "overlap_check_hash": "3d39597d4df0f60d",
+    "why_this_can_go_viral": "Targeting new mothers provokes protective outrage and empathy, driving high engagement."
+  }
+]

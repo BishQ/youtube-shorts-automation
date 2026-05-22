@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "crime_0137_001_c2d999a0da65e3aa",
+    "title": "The Chef Who Cooked Witnesses into Gourmet Meals",
+    "hook": "A Michelin-starred chef didn't just kill his victims—he served them to his most loyal customers.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "cannibal chef",
+      "murder gourmet",
+      "witness disposal",
+      "fine dining crime",
+      "hidden bodies"
+    ],
+    "overlap_check_hash": "c2d999a0da65e3aa",
+    "why_this_can_go_viral": "Combines high-status culinary world with extreme taboo of cannibalism—viewers will be horrified yet unable to look away."
+  },
+  {
+    "unique_id": "crime_0137_002_0ca51748d43a4d0e",
+    "title": "The Heist Where Thieves Stole a Building's Memory",
+    "hook": "They didn't take money or gold—they stole the building's CCTV footage and erased 10 years of history.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "memory heist",
+      "CCTV theft",
+      "digital erasure",
+      "unsolved robbery",
+      "building data"
+    ],
+    "overlap_check_hash": "0ca51748d43a4d0e",
+    "why_this_can_go_viral": "The concept of stealing 'memory' rather than physical objects is mind-bending and sparks philosophical curiosity."
+  },
+  {
+    "unique_id": "crime_0137_003_152fae05af4adcca",
+    "title": "The Unsolved Murder Where the Victim's Bones Were Rearranged Into a Cipher",
+    "hook": "Detectives found the body posed like a puzzle—the killer left a message only a cryptographer could read.",
+    "virality_score": 85,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "bone cipher",
+      "posed body",
+      "cryptic murder",
+      "unsolved mystery",
+      "message killer"
+    ],
+    "overlap_check_hash": "152fae05af4adcca",
+    "why_this_can_go_viral": "True crime fans love puzzles—the idea of a killer communicating through a victim's remains is deeply unsettling and intriguing."
+  },
+  {
+    "unique_id": "crime_0137_006_584f35c61bb2755f",
+    "title": "The Criminal Mastermind Who Stole a 'Radio Station's Frequency' to Broadcast His Own Trial",
+    "hook": "While awaiting sentencing, he hijacked the airwaves and convinced listeners he was innocent—live.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 72,
+    "educational_value": 68,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "radio hijack",
+      "trial broadcast",
+      "prisoner propaganda",
+      "frequency theft",
+      "media manipulation"
+    ],
+    "overlap_check_hash": "584f35c61bb2755f",
+    "why_this_can_go_viral": "The sheer audacity of a criminal controlling his own narrative from jail is a psychological thrill that compels viewers to watch."
+  },
+  {
+    "unique_id": "crime_0137_007_48c92b264f2546d2",
+    "title": "The Mob That Controlled a City's 'Pest Control'—to Bug Every Home",
+    "hook": "They didn't kill rats—they planted listening devices in thousands of houses under the guise of extermination.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "pest control bugging",
+      "mob surveillance",
+      "wiretap operation",
+      "organized crime tech",
+      "citywide spying"
+    ],
+    "overlap_check_hash": "48c92b264f2546d2",
+    "why_this_can_go_viral": "The idea that a mafia could secretly wiretap an entire city through a legitimate business taps into primal fears about privacy."
+  },
+  {
+    "unique_id": "crime_0137_008_81d6add638678daa",
+    "title": "The Serial Killer Who Only Killed in 'Dead Zones'—Where Phones Didn't Work",
+    "hook": "He studied cell tower maps like a predator studies prey—his hunting grounds were places no one could call for help.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 73,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "dead zone killer",
+      "cell tower murder",
+      "phone signal death",
+      "tech predator",
+      "no service murder"
+    ],
+    "overlap_check_hash": "81d6add638678daa",
+    "why_this_can_go_viral": "Combines modern tech fears with classic serial killer horror—everyone has experienced a dead zone, making it deeply relatable."
+  },
+  {
+    "unique_id": "crime_0137_009_a22495e9c6db16b6",
+    "title": "The Heist Where Thieves Stole a 'Casino's Luck'—by Rigging the House Algorithm",
+    "hook": "They didn't cheat at a single game—they reprogrammed the entire casino's probability engine and bled it dry for weeks.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 65,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "casino algorithm hack",
+      "probability rig",
+      "house edge theft",
+      "casino heist tech",
+      "gambling fraud"
+    ],
+    "overlap_check_hash": "a22495e9c6db16b6",
+    "why_this_can_go_viral": "The idea of stealing 'luck' itself is a brilliant hook, and tech-savvy viewers will love the algorithmic angle."
+  },
+  {
+    "unique_id": "crime_0137_010_d81f98afc7576536",
+    "title": "The Billion-Dollar Fraud That Sold 'Invisible Employees' to Fortune 500 Companies",
+    "hook": "He created 12,000 fake workers with fake salaries, fake taxes, and fake identities—and nobody noticed for years.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "ghost employees",
+      "fake workforce scam",
+      "corporate fraud",
+      "phantom payroll",
+      "billion dollar con"
+    ],
+    "overlap_check_hash": "d81f98afc7576536",
+    "why_this_can_go_viral": "The scale of the deception is mind-blowing—viewers will be fascinated by how one person outsmarted entire corporate systems."
+  },
+  {
+    "unique_id": "crime_0137_011_57769f7b0c275ca9",
+    "title": "The Cartel That Used a 'Swimming Pool'—to Refine Pure Cocaine in Plain Sight",
+    "hook": "Neighbors saw a backyard pool being built. They never knew it was actually a floating chemistry lab for processing drugs.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "pool drug lab",
+      "cocaine refinery",
+      "cartel chemistry",
+      "hidden lab",
+      "suburban drug operation"
+    ],
+    "overlap_check_hash": "57769f7b0c275ca9",
+    "why_this_can_go_viral": "The 'hidden in plain sight' element is universally compelling—viewers love stories about secret operations in everyday places."
+  },
+  {
+    "unique_id": "crime_0137_013_08b231b8dd96522e",
+    "title": "The Unsolved Murder Where the Killer Left a 'Reverse Confession'—a Note That Denied It Perfectly",
+    "hook": "The note said 'I did not kill this person'—but forensic linguists proved it was written to sound innocent, revealing guilt.",
+    "virality_score": 84,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 76,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "reverse confession",
+      "linguistic analysis",
+      "killer note",
+      "psychological evidence",
+      "unsolved case"
+    ],
+    "overlap_check_hash": "08b231b8dd96522e",
+    "why_this_can_go_viral": "The psychological cat-and-mouse game between the killer and investigators is fascinating, and language analysis appeals to smart viewers."
+  },
+  {
+    "unique_id": "crime_0137_014_60b4403a01d31ea0",
+    "title": "The Criminal Mastermind Who Faked a 'Citywide Blackout'—to Rob 47 Banks Simultaneously",
+    "hook": "He didn't rob one bank—he cut power to the entire financial district and had crews hit every vault in the dark.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 93,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "blackout heist",
+      "simultaneous bank robbery",
+      "power grid crime",
+      "citywide theft",
+      "coordinated heist"
+    ],
+    "overlap_check_hash": "60b4403a01d31ea0",
+    "why_this_can_go_viral": "The scale and coordination of robbing 47 banks in one blackout feels like a movie plot, ensuring massive curiosity and shares."
+  },
+  {
+    "unique_id": "crime_0137_016_3655c52f56ffc52a",
+    "title": "The Serial Killer Who Used 'Weather Forecasts'—to Predict When No One Would Hear Screams",
+    "hook": "He studied wind patterns and storm schedules so that the sound of murder was drowned out by nature itself.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 89,
+    "educational_value": 66,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "weather killer",
+      "storm murder",
+      "acoustic camouflage",
+      "forecast predator",
+      "nature weapon"
+    ],
+    "overlap_check_hash": "3655c52f56ffc52a",
+    "why_this_can_go_viral": "The killer's tactical use of weather is eerie and intelligent—viewers will be fascinated by the cold calculation involved."
+  },
+  {
+    "unique_id": "crime_0137_017_4d50b3df07ae30d4",
+    "title": "The Heist Where Thieves Stole a 'Museum's Security System'—Then Returned It After Robbing It",
+    "hook": "They didn't just steal the art—they stole the cameras, alarms, and locks, then brought them back after the heist was done.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 68,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "security system theft",
+      "museum heist",
+      "returned evidence",
+      "brazen robbery",
+      "audacious crime"
+    ],
+    "overlap_check_hash": "4d50b3df07ae30d4",
+    "why_this_can_go_viral": "The audacity of stealing and returning security equipment is so bizarre that viewers will click to understand the logic."
+  },
+  {
+    "unique_id": "crime_0137_018_8bd69e66e7ce3d78",
+    "title": "The Billion-Dollar Fraud That Sold 'Invisible Wifi'—to the Entire Country of Somalia",
+    "hook": "He promised high-speed internet across a nation—but there were no satellites, no cables, and no signal at all.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 72,
+    "educational_value": 78,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fake wifi scam",
+      "Somalia fraud",
+      "internet con",
+      "billionaire liar",
+      "ghost network"
+    ],
+    "overlap_check_hash": "8bd69e66e7ce3d78",
+    "why_this_can_go_viral": "The sheer scale of defrauding an entire country with a non-existent service is both shocking and darkly comedic."
+  },
+  {
+    "unique_id": "crime_0137_020_de3b60863a82020b",
+    "title": "The White-Collar Criminal Who Stole a 'Country's Passport Database'—and Sold Diplomatic Immunity",
+    "hook": "He hacked the government's identity system and issued real diplomatic passports to criminals for $2 million each.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 79,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "passport theft",
+      "diplomatic immunity scam",
+      "government hack",
+      "identity fraud",
+      "criminal passports"
+    ],
+    "overlap_check_hash": "de3b60863a82020b",
+    "why_this_can_go_viral": "The idea of buying diplomatic immunity is a shocking breach of trust that will spark outrage and deep curiosity."
+  },
+  {
+    "unique_id": "crime_0137_021_79ab94ea2a5b5389",
+    "title": "The Unsolved Murder Where the Victim Was Found in a 'Room With No Doors'",
+    "hook": "The room was sealed from the outside—yet the body was inside, and the only way in or out was through a wall that had never been opened.",
+    "virality_score": 90,
+    "curiosity_gap_score": 96,
+    "darkness_score": 93,
+    "educational_value": 62,
+    "estimated_short_retention": 94,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "impossible crime",
+      "sealed room mystery",
+      "unsolved death",
+      "locked room puzzle",
+      "no entrance murder"
+    ],
+    "overlap_check_hash": "79ab94ea2a5b5389",
+    "why_this_can_go_viral": "Impossible crime scenes are universally fascinating—viewers will debate how the killer did it and theories will explode in comments."
+  },
+  {
+    "unique_id": "crime_0137_022_7cd70e3e5f52ce3a",
+    "title": "The Criminal Mastermind Who Faked a 'Plane Crash'—to Disappear With $400 Million",
+    "hook": "He didn't just vanish—he staged a crash, left charred remains, and lived on a private island for a decade before they found him.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake plane crash",
+      "disappearance con",
+      "million dollar escape",
+      "staged death",
+      "fugitive island"
+    ],
+    "overlap_check_hash": "7cd70e3e5f52ce3a",
+    "why_this_can_go_viral": "The 'fake your own death' trope is endlessly popular, and the plane crash angle adds a layer of cinematic drama."
+  },
+  {
+    "unique_id": "crime_0137_024_3e5c5f2e0a8a64e7",
+    "title": "The Serial Killer Who Left a 'Diary'—Written by His Victims, Dictated at Gunpoint",
+    "hook": "He forced each victim to write their own death story—then left the journals at the crime scene as his signature.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "victim diary",
+      "forced confession",
+      "serial killer signature",
+      "psychological torture",
+      "crime journal"
+    ],
+    "overlap_check_hash": "3e5c5f2e0a8a64e7",
+    "why_this_can_go_viral": "The psychological horror of forcing victims to write their own epitaphs is deeply disturbing and will generate intense discussion."
+  },
+  {
+    "unique_id": "crime_0137_025_45cfde2c7f86b2f8",
+    "title": "The Heist Where Thieves Stole a 'Bank's Reputation'—by Robbing It and Donating the Money",
+    "hook": "They didn't keep a dollar—they stole $50 million and gave it all to the bank's poorest customers, exposing its greed.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 65,
+    "educational_value": 74,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "robin hood heist",
+      "bank donation robbery",
+      "reputation theft",
+      "moral crime",
+      "bank exposure"
+    ],
+    "overlap_check_hash": "45cfde2c7f86b2f8",
+    "why_this_can_go_viral": "The moral twist—criminals as anti-heroes—creates a powerful narrative that viewers will share and debate passionately."
+  }
+]

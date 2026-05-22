@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "mythology_0100_002_8ddba549fa37a9b6",
+    "title": "The Cursed Amulet That Made Wearers Forget Their Own Names",
+    "hook": "Archaeologists found an amulet that ancient texts claimed would erase your identity — and those who touched it reported sudden memory loss.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "mythology",
+    "subcategory": "cursed artifacts",
+    "keywords": [
+      "memory loss",
+      "ancient amulet",
+      "identity erasure",
+      "cursed jewelry",
+      "forgotten self"
+    ],
+    "overlap_check_hash": "8ddba549fa37a9b6",
+    "why_this_can_go_viral": "Memory loss is universally frightening; the real-world mystery aspect drives engagement."
+  },
+  {
+    "unique_id": "mythology_0100_005_12818647dd4962bc",
+    "title": "The Ancient Trauma in the Myth of the Minotaur — A Memory of Bull-Headed Executioners",
+    "hook": "The labyrinth wasn't just a story — it was a coded memory of Bronze Age kings who wore bull masks while executing prisoners.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "mythology",
+    "subcategory": "ancient trauma in myth",
+    "keywords": [
+      "Minotaur trauma",
+      "bull mask",
+      "Bronze Age execution",
+      "labyrinth truth",
+      "Minoan horror"
+    ],
+    "overlap_check_hash": "12818647dd4962bc",
+    "why_this_can_go_viral": "Revealing a beloved myth as a cover for state violence creates powerful cognitive dissonance."
+  },
+  {
+    "unique_id": "mythology_0100_007_d771aef8fe5de6c7",
+    "title": "The Corrupted Legend of the Kraken — It Was a Memory of Whales Covered in Barnacles",
+    "hook": "When sailors first saw a whale's barnacle-encrusted head break the surface, they didn't see an animal — they saw a monster with eyes like islands.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 60,
+    "educational_value": 88,
+    "estimated_short_retention": 85,
+    "niche_name": "mythology",
+    "subcategory": "corrupted legends",
+    "keywords": [
+      "Kraken real origin",
+      "whale barnacles",
+      "sea monster truth",
+      "sailor myth",
+      "misidentified animal"
+    ],
+    "overlap_check_hash": "d771aef8fe5de6c7",
+    "why_this_can_go_viral": "The visual mismatch between myth and reality creates a satisfying 'aha' moment."
+  },
+  {
+    "unique_id": "mythology_0100_008_201ce0d350890ab2",
+    "title": "The Forgotten God of the Piercings Who Was Worshipped By Hooking Flesh to Trees",
+    "hook": "In a lost Siberian tradition, worshippers would pierce their skin with hooks and hang from birch trees to speak to the spirit of the wind.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 89,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "mythology",
+    "subcategory": "forgotten gods",
+    "keywords": [
+      "Siberian wind god",
+      "flesh hook ritual",
+      "body suspension",
+      "shamanic worship",
+      "forgotten deity"
+    ],
+    "overlap_check_hash": "201ce0d350890ab2",
+    "why_this_can_go_viral": "Body modification culture makes this immediately relatable and gruesomely fascinating."
+  },
+  {
+    "unique_id": "mythology_0100_010_90c37f8e6654ecae",
+    "title": "The Real Myth of the Werewolf — A Memory of Rabies Victims Who Tried to Bite",
+    "hook": "Medieval werewolf sightings were actually descriptions of rabid humans — foaming mouths, biting, and uncontrollable aggression.",
+    "virality_score": 80,
+    "curiosity_gap_score": 81,
+    "darkness_score": 75,
+    "educational_value": 92,
+    "estimated_short_retention": 87,
+    "niche_name": "mythology",
+    "subcategory": "myth real-world origins",
+    "keywords": [
+      "werewolf rabies",
+      "rabid humans",
+      "werewolf real explanation",
+      "medieval disease",
+      "lycanthropy truth"
+    ],
+    "overlap_check_hash": "90c37f8e6654ecae",
+    "why_this_can_go_viral": "The medical debunking of a classic monster is both educational and shocking."
+  },
+  {
+    "unique_id": "mythology_0100_011_df52bf5680a5dab5",
+    "title": "The Demon That Was Born From a Priest Who Slept With a Corpse",
+    "hook": "In Japanese folklore, a demon called the 'Kasha' was born when a corrupted priest committed the ultimate taboo — and now it steals bodies from funerals.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 94,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "mythology",
+    "subcategory": "demonology history",
+    "keywords": [
+      "Kasha demon",
+      "Japanese corpse demon",
+      "necrophagy taboo",
+      "funeral theft",
+      "corrupted priest"
+    ],
+    "overlap_check_hash": "df52bf5680a5dab5",
+    "why_this_can_go_viral": "The taboo subject matter and cultural specificity make it uniquely horrifying and shareable."
+  },
+  {
+    "unique_id": "mythology_0100_012_c7c2dfe7ac61a2be",
+    "title": "The Ancient Trauma in the Myth of the Sphinx — A Memory of Women Strangled by Gangs",
+    "hook": "The riddle of the Sphinx wasn't about intelligence — it was a coded warning about gangs of women who would strangle travelers and leave their bodies in the desert.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 87,
+    "educational_value": 75,
+    "estimated_short_retention": 91,
+    "niche_name": "mythology",
+    "subcategory": "ancient trauma in myth",
+    "keywords": [
+      "Sphinx dark truth",
+      "woman strangler",
+      "ancient gangs",
+      "Greek myth trauma",
+      "riddle cover-up"
+    ],
+    "overlap_check_hash": "c7c2dfe7ac61a2be",
+    "why_this_can_go_viral": "Flipping a beloved story into a memory of real violence creates powerful re-framing."
+  },
+  {
+    "unique_id": "mythology_0100_013_a5db0c0a0e152459",
+    "title": "The Secret Society That Worshipped by Burning Children Alive in Bronze Bulls",
+    "hook": "A Carthaginian cult would place children inside a hollow bronze bull and light a fire beneath — and called it the 'purification of the innocent.'",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 99,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "mythology",
+    "subcategory": "myth-based secret societies",
+    "keywords": [
+      "Carthaginian child sacrifice",
+      "bronze bull",
+      "Moloch cult",
+      "ancient burning",
+      "secret death ritual"
+    ],
+    "overlap_check_hash": "a5db0c0a0e152459",
+    "why_this_can_go_viral": "The absolute moral horror combined with historical accuracy is guaranteed to provoke strong reactions and shares."
+  },
+  {
+    "unique_id": "mythology_0100_014_f9cd85510088a495",
+    "title": "The Corrupted Legend of the Leviathan — It Was a Memory of a Prehistoric Whale",
+    "hook": "Ancient mariners didn't invent the Leviathan — they passed down oral memories of a 40-foot whale with teeth like daggers that hunted other whales.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 62,
+    "educational_value": 89,
+    "estimated_short_retention": 86,
+    "niche_name": "mythology",
+    "subcategory": "corrupted legends",
+    "keywords": [
+      "Leviathan real animal",
+      "prehistoric whale",
+      "Basilosaurus",
+      "ancient sea monster",
+      "memory of megafauna"
+    ],
+    "overlap_check_hash": "f9cd85510088a495",
+    "why_this_can_go_viral": "The 'real animal behind myth' reveal is a proven viral format in this niche."
+  },
+  {
+    "unique_id": "mythology_0100_015_212d958030850d57",
+    "title": "The Forgotten God of the Maggots Who Was Worshipped By Letting Worms Devour Your Flesh While Alive",
+    "hook": "A forgotten Aztec deity required priests to lie still while maggots consumed their living bodies — as an offering for the harvest.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 97,
+    "educational_value": 65,
+    "estimated_short_retention": 81,
+    "niche_name": "mythology",
+    "subcategory": "forgotten gods",
+    "keywords": [
+      "Aztec maggot god",
+      "living sacrifice",
+      "flesh eating worms",
+      "harvest ritual",
+      "forgotten deity"
+    ],
+    "overlap_check_hash": "212d958030850d57",
+    "why_this_can_go_viral": "The extreme physical horror is unmatched — viewers will stop scrolling out of sheer shock."
+  },
+  {
+    "unique_id": "mythology_0100_016_71dee32c50122d82",
+    "title": "The Cursed Lamp That Lit Itself in the Presence of Anyone Who Would Die Within a Week",
+    "hook": "A Roman death-lamp was said to flicker to life when someone doomed to die entered the room — and it was found intact in a sealed tomb.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "mythology",
+    "subcategory": "cursed artifacts",
+    "keywords": [
+      "Roman death lamp",
+      "self-lighting lamp",
+      "omen of death",
+      "cursed artifact",
+      "tomb discovery"
+    ],
+    "overlap_check_hash": "71dee32c50122d82",
+    "why_this_can_go_viral": "The combination of 'cursed object' and 'predicts death' is a proven psychological trigger."
+  },
+  {
+    "unique_id": "mythology_0100_019_d6c0fede6ee7b558",
+    "title": "The Ancient Trauma in the Myth of Medusa — A Memory of Women Who Were Gang-Raped and Blamed",
+    "hook": "Medusa wasn't born a monster — the story is a coded memory of women who were sexually assaulted, then punished for their own violation.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 85,
+    "estimated_short_retention": 92,
+    "niche_name": "mythology",
+    "subcategory": "ancient trauma in myth",
+    "keywords": [
+      "Medusa trauma",
+      "sexual assault myth",
+      "blamed woman",
+      "ancient rape culture",
+      "victim blaming origin"
+    ],
+    "overlap_check_hash": "d6c0fede6ee7b558",
+    "why_this_can_go_viral": "The feminist reinterpretation of a classic monster is both emotionally powerful and highly shareable."
+  },
+  {
+    "unique_id": "mythology_0100_020_83e48cf69f3965ea",
+    "title": "The Secret Society That Worshipped by Cutting Out the Hearts of Living Kings",
+    "hook": "A hidden order in pre-Columbian Peru believed that removing a king's heart while he was still alive ensured the sun would rise the next day.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 95,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "mythology",
+    "subcategory": "myth-based secret societies",
+    "keywords": [
+      "Peruvian heart cult",
+      "living king sacrifice",
+      "sun ritual",
+      "secret order",
+      "heart removal"
+    ],
+    "overlap_check_hash": "83e48cf69f3965ea",
+    "why_this_can_go_viral": "The combination of royalty, ritual murder, and hidden societies is a guaranteed click magnet."
+  },
+  {
+    "unique_id": "mythology_0100_021_d73908cfb7cc0074",
+    "title": "The Corrupted Legend of the Griffin — It Was a Memory of Dinosaur Fossils in the Gobi Desert",
+    "hook": "Scythian gold traders found Protoceratops skulls with beaks and four legs — and described them as lion-eagle hybrids guarding gold.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 58,
+    "educational_value": 90,
+    "estimated_short_retention": 87,
+    "niche_name": "mythology",
+    "subcategory": "corrupted legends",
+    "keywords": [
+      "Griffin dinosaur",
+      "Protoceratops fossil",
+      "Scythian myth",
+      "fossil misidentification",
+      "Gobi desert"
+    ],
+    "overlap_check_hash": "d73908cfb7cc0074",
+    "why_this_can_go_viral": "The dinosaur-myth connection is visually striking and scientifically satisfying."
+  },
+  {
+    "unique_id": "mythology_0100_022_378eeef882d9d292",
+    "title": "The Forgotten God of the Asphyxiation Who Was Worshipped by Strangling Worshippers Until They Saw Visions",
+    "hook": "A forgotten god in ancient Greece required priests to choke devotees with a rope until they passed out — and the visions were considered divine messages.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 91,
+    "educational_value": 66,
+    "estimated_short_retention": 82,
+    "niche_name": "mythology",
+    "subcategory": "forgotten gods",
+    "keywords": [
+      "asphyxiation god",
+      "strangulation ritual",
+      "Greek death cult",
+      "vision seeking",
+      "forgotten deity"
+    ],
+    "overlap_check_hash": "378eeef882d9d292",
+    "why_this_can_go_viral": "The extreme nature of the ritual combined with its Greek origin creates high shock value."
+  },
+  {
+    "unique_id": "mythology_0100_023_35735e1e466fe1a6",
+    "title": "The Cursed Statue That Made Anyone Who Touched Its Feet Develop Gangrene",
+    "hook": "A bronze statue in an ancient temple was covered in a toxic patina — and those who kissed its feet for blessings would have their toes rot off.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 79,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "mythology",
+    "subcategory": "cursed artifacts",
+    "keywords": [
+      "toxic statue",
+      "gangrene curse",
+      "ancient poison",
+      "bronze patina",
+      "temple danger"
+    ],
+    "overlap_check_hash": "35735e1e466fe1a6",
+    "why_this_can_go_viral": "The intersection of science (toxic metals) and superstition creates a satisfying debunk-reveal."
+  },
+  {
+    "unique_id": "mythology_0100_024_5ca6300587f900d9",
+    "title": "The Real Myth of the Succubus — A Memory of Women Who Suffered From Sleep Paralysis",
+    "hook": "Medieval women who woke up unable to move, feeling a weight on their chest, were described as being visited by a demon lover — it was a neurological condition.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 72,
+    "educational_value": 91,
+    "estimated_short_retention": 89,
+    "niche_name": "mythology",
+    "subcategory": "myth real-world origins",
+    "keywords": [
+      "succubus sleep paralysis",
+      "demon lover myth",
+      "neurological explanation",
+      "medieval women",
+      "night hag"
+    ],
+    "overlap_check_hash": "5ca6300587f900d9",
+    "why_this_can_go_viral": "Sleep paralysis is universally relatable — and the demonic framing makes it extra shareable."
+  },
+  {
+    "unique_id": "mythology_0100_025_bbe0ef4d5d5ef71c",
+    "title": "The Cult That Worshipped by Drinking the Blood of Wounded Gladiators in the Arena Sand",
+    "hook": "A secret cult of Roman women would sneak into arenas after games and drink the blood-soaked sand, believing it would make them immortal.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "mythology",
+    "subcategory": "dark mythology",
+    "keywords": [
+      "Roman blood cult",
+      "gladiator blood drinking",
+      "arena sand ritual",
+      "immortality myth",
+      "women cult"
+    ],
+    "overlap_check_hash": "bbe0ef4d5d5ef71c",
+    "why_this_can_go_viral": "The visceral image of drinking blood-soaked dirt is unforgettable and deeply unsettling."
+  }
+]

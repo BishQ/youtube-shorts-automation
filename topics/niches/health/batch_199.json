@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "health_0199_003_ccbd5ab56a777219",
+    "title": "The Hospital That Burned Alive Patients for 'Energy Healing'",
+    "hook": "They were strapped to beds while flames consumed the ward—'supernatural' cure.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 96,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "fire cure",
+      "hospital fire",
+      "alternative medicine",
+      "patient death",
+      "quackery"
+    ],
+    "overlap_check_hash": "ccbd5ab56a777219",
+    "why_this_can_go_viral": "Shockingly absurd premise combined with real tragedy creates cognitive dissonance."
+  },
+  {
+    "unique_id": "health_0199_004_7164cc42d078577c",
+    "title": "The Pharmaceutical CEO Who Poisoned a City’s Water Supply",
+    "hook": "One company dumped carcinogens into the river—then doctors diagnosed the cancer.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 84,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "water poisoning",
+      "cancer cluster",
+      "pharma crime",
+      "corporate murder",
+      "environmental crime"
+    ],
+    "overlap_check_hash": "7164cc42d078577c",
+    "why_this_can_go_viral": "Environmental justice + corporate villainy = high shareability among activist audiences."
+  },
+  {
+    "unique_id": "health_0199_005_b4acfd9a3a823e82",
+    "title": "The Government That Injected Smallpox into Healthy Children",
+    "hook": "They called it a 'vaccine trial'—but there was no virus in the vial, just death.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 80,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "smallpox experiment",
+      "child trials",
+      "government crime",
+      "vaccine horror",
+      "medical ethics"
+    ],
+    "overlap_check_hash": "b4acfd9a3a823e82",
+    "why_this_can_go_viral": "Deliberate infection of children taps into deepest parental fear and moral outrage."
+  },
+  {
+    "unique_id": "health_0199_007_45a4b2a01a409a9a",
+    "title": "The Doctor Who Planted Cancer in Healthy Patients—for Fame",
+    "hook": "He injected malignant cells into 65 people. Then published a 'breakthrough' paper.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 76,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "cancer injection",
+      "doctor evil",
+      "fame crime",
+      "research fraud",
+      "patient harm"
+    ],
+    "overlap_check_hash": "45a4b2a01a409a9a",
+    "why_this_can_go_viral": "Makes viewers feel complicit—'could I be a victim?'—drives massive curiosity."
+  },
+  {
+    "unique_id": "health_0199_008_46ff7c3cc6af34be",
+    "title": "The Drug Company That Bribed Doctors to Say Side Effects Were 'Imaginary'",
+    "hook": "Patients were screaming in pain—but the script said 'it's all in your head.'",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 83,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "bribery",
+      "gaslighting patients",
+      "side effect cover-up",
+      "pharma lies",
+      "doctor corruption"
+    ],
+    "overlap_check_hash": "46ff7c3cc6af34be",
+    "why_this_can_go_viral": "Gaslighting narrative resonates deeply with mainstream audiences—high emotional share."
+  },
+  {
+    "unique_id": "health_0199_011_279cc0a3ce8c1680",
+    "title": "The Mental Institution That Sold Patients Into Slavery",
+    "hook": "Diagnosed 'incurable'? They shipped you to a farm where you worked until death.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "mental institution",
+      "modern slavery",
+      "patient exploitation",
+      "asylum horror",
+      "forced labor"
+    ],
+    "overlap_check_hash": "279cc0a3ce8c1680",
+    "why_this_can_go_viral": "Historical parallel to modern trafficking—outrage and disbelief fuel shares."
+  },
+  {
+    "unique_id": "health_0199_012_d2fd15195d6e4381",
+    "title": "The Dentist Who Secretly Pulled Teeth to Collect Insurance",
+    "hook": "Patients came in for a cleaning. They left with missing molars and a bill.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 77,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "dentist fraud",
+      "tooth theft",
+      "insurance scam",
+      "unnecessary surgery",
+      "dental horror"
+    ],
+    "overlap_check_hash": "d2fd15195d6e4381",
+    "why_this_can_go_viral": "Everyday fear of the dentist made nightmarish—relatable and horrifying."
+  },
+  {
+    "unique_id": "health_0199_013_000e1318d270f1a6",
+    "title": "The Company That Sold 'Lead Elixir' as a Cure for Cough",
+    "hook": "It tasted sweet. It killed babies in two weeks. It was sold for 30 years.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 85,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "lead poisoning",
+      "baby deaths",
+      "medicine scandal",
+      "toxic syrup",
+      "historical crime"
+    ],
+    "overlap_check_hash": "000e1318d270f1a6",
+    "why_this_can_go_viral": "Infant mortality + corporate greed = high emotional charge and warning value."
+  },
+  {
+    "unique_id": "health_0199_014_2471de737fc9a794",
+    "title": "The Doctor Who Diagnosed 1,000 Women with a Disease That Didn't Exist",
+    "hook": "He invented a syndrome, charged for treatment, and 'cured' them with sugar pills.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 88,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "fake disease",
+      "medical fraud",
+      "sugar pill cure",
+      "invented syndrome",
+      "woman harm"
+    ],
+    "overlap_check_hash": "2471de737fc9a794",
+    "why_this_can_go_viral": "False diagnosis fear is universal—women especially will share to warn others."
+  },
+  {
+    "unique_id": "health_0199_015_ccecf30bf9b3470b",
+    "title": "The Chemo Drug That Was Just Salt Water—Billed at $50,000 per Dose",
+    "hook": "Patients believed they were fighting cancer. They were fighting saline and debt.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 86,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake chemo",
+      "saline scam",
+      "cancer fraud",
+      "drug price",
+      "patient exploitation"
+    ],
+    "overlap_check_hash": "ccecf30bf9b3470b",
+    "why_this_can_go_viral": "Combines cancer vulnerability with financial ruin—rage and pity drive shares."
+  },
+  {
+    "unique_id": "health_0199_016_0ce2888a7e8cb364",
+    "title": "The Asylum That Lobotomized 3,000 People—for Being 'Too Emotional'",
+    "hook": "One ice pick, one hammer, and you were a 'different person'—forever.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 96,
+    "educational_value": 79,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "lobotomy",
+      "asylum horror",
+      "forced surgery",
+      "mental health abuse",
+      "medical atrocity"
+    ],
+    "overlap_check_hash": "0ce2888a7e8cb364",
+    "why_this_can_go_viral": "Grisly procedure + massive scale = shock value and historical awe."
+  },
+  {
+    "unique_id": "health_0199_017_0985263542022e84",
+    "title": "The 'Energy Drink' That Put Teens in Comas",
+    "hook": "It promised focus and performance. Instead, it stopped their hearts.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 89,
+    "educational_value": 83,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "energy drink danger",
+      "teen coma",
+      "FDA warning",
+      "caffeine toxicity",
+      "heart attack"
+    ],
+    "overlap_check_hash": "0985263542022e84",
+    "why_this_can_go_viral": "Young audience directly affected—high personal relevance sharing."
+  },
+  {
+    "unique_id": "health_0199_018_809968cd85c9b1d1",
+    "title": "The Government That Gave Leprosy Patients Deadly Placebos",
+    "hook": "They promised a cure. They gave sugar pills. Patients rotted alive for science.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 81,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "leprosy experiment",
+      "placebo death",
+      "government crime",
+      "medical racism",
+      "research abuse"
+    ],
+    "overlap_check_hash": "809968cd85c9b1d1",
+    "why_this_can_go_viral": "Grotesque suffering + scientific betrayal = highest interest among true-crime audience."
+  },
+  {
+    "unique_id": "health_0199_020_6abec534f2709851",
+    "title": "The Drug That Gave Patients Hallucinations of Being Eaten Alive",
+    "hook": "They saw bugs crawling under their skin. The drug said 'non-psychoactive.'",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "hallucination drug",
+      "skin crawlers",
+      "FDA mistake",
+      "psychiatric side effect",
+      "drug horror"
+    ],
+    "overlap_check_hash": "6abec534f2709851",
+    "why_this_can_go_viral": "Body horror + medical gaslighting = highly shareable disgust factor."
+  },
+  {
+    "unique_id": "health_0199_022_7479e6e3cfbb467a",
+    "title": "The Pharmaceutical Company That Patented a Plant and Made It Illegal to Grow",
+    "hook": "A natural cure that worked—until a corporation bought the patent and buried it.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 86,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "patented plant",
+      "natural cure",
+      "corporate monopoly",
+      "suppressed medicine",
+      "pharma conspiracy"
+    ],
+    "overlap_check_hash": "7479e6e3cfbb467a",
+    "why_this_can_go_viral": "David vs. Goliath narrative—natural health advocates will passionately share."
+  },
+  {
+    "unique_id": "health_0199_023_ffc0b3d1292e5781",
+    "title": "The Doctor Who Convinced 50 Couples to Swap Spouses—for 'Health'",
+    "hook": "He called it 'sexual therapy.' It was really an experiment on jealousy and control.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 91,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "swap experiment",
+      "sexual therapy",
+      "doctor manipulation",
+      "couple control",
+      "research abuse"
+    ],
+    "overlap_check_hash": "ffc0b3d1292e5781",
+    "why_this_can_go_viral": "Taboo sex + betrayal by authority = gossip-worthy shock content."
+  },
+  {
+    "unique_id": "health_0199_025_ac49075fc617a83f",
+    "title": "The Antibiotic That Caused Blindness—and Was Prescribed for Pink Eye",
+    "hook": "It was supposed to heal. Instead, children woke up unable to see.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 94,
+    "educational_value": 82,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "antibiotic blindness",
+      "pink eye treatment",
+      "FDA oversight",
+      "child harm",
+      "drug disaster"
+    ],
+    "overlap_check_hash": "ac49075fc617a83f",
+    "why_this_can_go_viral": "Common treatment turned nightmarish—every parent will stop and watch."
+  }
+]

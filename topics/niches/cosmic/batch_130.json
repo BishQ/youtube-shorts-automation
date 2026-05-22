@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "cosmic_0130_003_d24b8195e10f9eb5",
+    "title": "The Rogue Planet That Steals Our Comets",
+    "hook": "A hidden world in the Oort cloud is yanking icy bodies toward Earth, and we only found it by accident.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "rogue planet",
+      "Oort cloud",
+      "hidden planet",
+      "comet threat",
+      "gravitational anomaly"
+    ],
+    "overlap_check_hash": "d24b8195e10f9eb5",
+    "why_this_can_go_viral": "Suggests a secret menace lurking at the edge of the solar system, feeding fears of unseen cosmic dangers."
+  },
+  {
+    "unique_id": "cosmic_0130_004_23f8225a71399d25",
+    "title": "The Star That Cannibalized Its Own Solar System",
+    "hook": "A white dwarf was caught devouring the remains of its own planets, leaving a graveyard of metal and rock.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "cannibal star",
+      "white dwarf",
+      "planet destruction",
+      "metal pollution",
+      "cosmic graveyard"
+    ],
+    "overlap_check_hash": "23f8225a71399d25",
+    "why_this_can_go_viral": "Anthropomorphic horror of a star eating its children; visceral and scientifically shocking."
+  },
+  {
+    "unique_id": "cosmic_0130_005_1658934372306c02",
+    "title": "The Dark Matter Signal That Vanished Instantly",
+    "hook": "A brief flash from an underground detector could have been dark matter—or something far stranger that erased itself.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 72,
+    "educational_value": 60,
+    "estimated_short_retention": 78,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter signal",
+      "vanishing anomaly",
+      "particle detector",
+      "null result",
+      "hidden universe"
+    ],
+    "overlap_check_hash": "1658934372306c02",
+    "why_this_can_go_viral": "The mystery of a fleeting, unexplained detection plays on the 'almost found it' psychological tension."
+  },
+  {
+    "unique_id": "cosmic_0130_006_b522c8f005b09506",
+    "title": "The Extinction Event That Left a Scar on the Ocean Floor",
+    "hook": "A massive impact crater under the Pacific is linked to a near-extinction, but no one knows where the asteroid went.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 83,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "ocean crater",
+      "impact event",
+      "missing asteroid",
+      "near extinction",
+      "hidden catastrophe"
+    ],
+    "overlap_check_hash": "b522c8f005b09506",
+    "why_this_can_go_viral": "A geological ghost story—evidence of destruction without a weapon—fuels conspiracy and disaster fascination."
+  },
+  {
+    "unique_id": "cosmic_0130_007_49c10733c67ed2d9",
+    "title": "The Classified 'NRO Satellite 47'—A Black Budget Telescope",
+    "hook": "A spy satellite turned out to be the most powerful telescope ever built, aimed not at Earth but at deep space threats.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 85,
+    "educational_value": 55,
+    "estimated_short_retention": 87,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "NRO spy satellite",
+      "classified telescope",
+      "black budget",
+      "deep space surveillance",
+      "hidden mission"
+    ],
+    "overlap_check_hash": "49c10733c67ed2d9",
+    "why_this_can_go_viral": "Reveals secret government technology used for cosmic monitoring, blending espionage with astronomy."
+  },
+  {
+    "unique_id": "cosmic_0130_009_85561a64ec6f870a",
+    "title": "The Rogue Star That's Heading Straight for Us",
+    "hook": "A hypervelocity star is on a collision course with the solar system—and it will arrive within 5,000 years.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "rogue star",
+      "hypervelocity",
+      "collision course",
+      "star threat",
+      "doomsday star"
+    ],
+    "overlap_check_hash": "85561a64ec6f870a",
+    "why_this_can_go_viral": "Imminent stellar impact triggers primal fear of celestial annihilation with a tangible timeline."
+  },
+  {
+    "unique_id": "cosmic_0130_010_2e8cd95120130507",
+    "title": "The Fermi Paradox Tomb—A Message That Died Mid-Transmission",
+    "hook": "Astronomers caught a signal that cut off abruptly, followed by silence—as if the sender was killed while broadcasting.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 50,
+    "estimated_short_retention": 89,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "dead signal",
+      "interrupted transmission",
+      "alien demise",
+      "Fermi paradox",
+      "cosmic murder"
+    ],
+    "overlap_check_hash": "2e8cd95120130507",
+    "why_this_can_go_viral": "Murder mystery in space—the story of a civilization that may have been silenced mid-sentence."
+  },
+  {
+    "unique_id": "cosmic_0130_011_064c8bd725825d19",
+    "title": "The Star That Spits Out Antimatter Bullets",
+    "hook": "A neutron star fires jets of antimatter that explode on contact with normal matter—and one barely missed us.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 83,
+    "educational_value": 72,
+    "estimated_short_retention": 81,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "antimatter bullets",
+      "neutron star",
+      "jet stream",
+      "near miss",
+      "annihilation radiation"
+    ],
+    "overlap_check_hash": "064c8bd725825d19",
+    "why_this_can_go_viral": "Antimatter is inherently terrifying; the idea of invisible bullets from space is pure sci-fi horror."
+  },
+  {
+    "unique_id": "cosmic_0130_012_370ae47d91c705ae",
+    "title": "The Dark Matter Node That Warps Our GPS",
+    "hook": "GPS satellites keep glitching over a specific patch of ocean—scientists think a clump of dark matter is bending time.",
+    "virality_score": 83,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 79,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "GPS glitch",
+      "dark matter clump",
+      "time distortion",
+      "ocean anomaly",
+      "navigation failure"
+    ],
+    "overlap_check_hash": "370ae47d91c705ae",
+    "why_this_can_go_viral": "Blends everyday technology failure with an invisible cosmic cause—relatable and mind-bending."
+  },
+  {
+    "unique_id": "cosmic_0130_013_c433b1374d3b18e0",
+    "title": "The Asteroid That Hit a Nuclear Waste Dump",
+    "hook": "A small asteroid struck a classified waste facility—releasing radiation that could be mistaken for a nuclear attack.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 92,
+    "educational_value": 55,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "asteroid strike",
+      "nuclear waste",
+      "radiation leak",
+      "false alarm",
+      "catastrophic coincidence"
+    ],
+    "overlap_check_hash": "c433b1374d3b18e0",
+    "why_this_can_go_viral": "Nightmare scenario of cosmic event triggering a man-made disaster; high drama and dread."
+  },
+  {
+    "unique_id": "cosmic_0130_014_c993fc366b0a6fcd",
+    "title": "The Extinction Comet That Came From Another Solar System",
+    "hook": "Oumuamua's twin was not a rock—it was a comet from interstellar space that nearly ended all life 10,000 years ago.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 86,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "interstellar comet",
+      "extinction impact",
+      "Oumuamua",
+      "near death",
+      "alien origin"
+    ],
+    "overlap_check_hash": "c993fc366b0a6fcd",
+    "why_this_can_go_viral": "Connects a real visitor to a forgotten apocalypse—bridges mystery with historical disaster."
+  },
+  {
+    "unique_id": "cosmic_0130_015_eac87724ab048a36",
+    "title": "The Classified 'Project Orion'—A Starship Powered by Nukes",
+    "hook": "In the 1960s, the US secretly designed a spaceship that would ride atomic explosions—until it was buried forever.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "Project Orion",
+      "nuclear pulse propulsion",
+      "secret spaceship",
+      "cold war tech",
+      "suppressed project"
+    ],
+    "overlap_check_hash": "eac87724ab048a36",
+    "why_this_can_go_viral": "Audacious, dangerous, and hidden—humanity's most powerful rocket idea taps into forbidden tech fascination."
+  },
+  {
+    "unique_id": "cosmic_0130_017_7fffe4ae3fd9eb12",
+    "title": "The Fermi Paradox Scream—A Signal of Pure Terror",
+    "hook": "A broadcast from a distant galaxy contains a pattern of rising panic—as if a civilization was recording its own end.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 40,
+    "estimated_short_retention": 91,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "panic signal",
+      "death broadcast",
+      "alien scream",
+      "civilization collapse",
+      "Fermi horror"
+    ],
+    "overlap_check_hash": "7fffe4ae3fd9eb12",
+    "why_this_can_go_viral": "Elicits existential dread and empathy for a dying alien race—emotionally charged and unforgettable."
+  },
+  {
+    "unique_id": "cosmic_0130_018_4d95482b1d063605",
+    "title": "The Rogue Black Hole That Eats from the Inside Out",
+    "hook": "A black hole is devouring its host galaxy from the core—and it's moving toward the Milky Way faster than we thought.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 68,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "rogue black hole",
+      "galactic destruction",
+      "Milky Way threat",
+      "supermassive",
+      "gravitational predator"
+    ],
+    "overlap_check_hash": "4d95482b1d063605",
+    "why_this_can_go_viral": "An unstoppable cosmic predator heading our way—pure sci-fi nightmare that is scientifically real."
+  },
+  {
+    "unique_id": "cosmic_0130_019_919f75bc00df5e86",
+    "title": "The Star That Blinks Like a Cosmic Lighthouse—But Something Controls It",
+    "hook": "A star dims and brightens with perfect precision every 2.3 hours—as if an artificial object is orbiting it.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 76,
+    "educational_value": 55,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "blinking star",
+      "artificial orbit",
+      "Dyson sphere",
+      "alien megastructure",
+      "stellar anomaly"
+    ],
+    "overlap_check_hash": "919f75bc00df5e86",
+    "why_this_can_go_viral": "Reignites the 'alien megastructure' obsession with a new, more precise example—mystery that demands explanation."
+  },
+  {
+    "unique_id": "cosmic_0130_020_1a74ccfbc33cadeb",
+    "title": "The Extinction Meteor That Was a Sniper Shot",
+    "hook": "Analysis shows an extinction-level impact was aimed from a specific direction—as if it was deliberately guided.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 93,
+    "educational_value": 60,
+    "estimated_short_retention": 87,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "targeted impact",
+      "guided asteroid",
+      "intelligent direction",
+      "extinction weapon",
+      "cosmic sniper"
+    ],
+    "overlap_check_hash": "1a74ccfbc33cadeb",
+    "why_this_can_go_viral": "Suggests cosmic assassination—an extinction event with intent, terrifyingly plausible."
+  },
+  {
+    "unique_id": "cosmic_0130_021_6d7b2d2266346659",
+    "title": "The Classified 'Project Wintermark'—A Secret Moon Base",
+    "hook": "Declassified documents reveal a joint US-Soviet plan to build a military outpost on the dark side of the moon in 1972.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 82,
+    "educational_value": 50,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "secret moon base",
+      "Project Wintermark",
+      "cold war space",
+      "dark side",
+      "hidden colony"
+    ],
+    "overlap_check_hash": "6d7b2d2266346659",
+    "why_this_can_go_viral": "Romance of the forbidden moon base—taps into the enduring myth of a hidden lunar presence."
+  },
+  {
+    "unique_id": "cosmic_0130_022_1e55a8dff8fd2a30",
+    "title": "The Dark Matter That Stole the Stars",
+    "hook": "A cluster of stars vanished from view overnight—dark matter absorbed their light, and we don't know why.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 79,
+    "educational_value": 62,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "vanishing stars",
+      "dark matter absorption",
+      "star cluster",
+      "light theft",
+      "invisible void"
+    ],
+    "overlap_check_hash": "1e55a8dff8fd2a30",
+    "why_this_can_go_viral": "Borrows from 'disappearance' mystery genre applied to space—creates a cosmic whodunit."
+  },
+  {
+    "unique_id": "cosmic_0130_023_e42cac81017eea12",
+    "title": "The Signal That Was a Silent Movie",
+    "hook": "A radio signal from Proxima Centauri contained a visual sequence—a grainy film showing a planet dying.",
+    "virality_score": 96,
+    "curiosity_gap_score": 99,
+    "darkness_score": 94,
+    "educational_value": 35,
+    "estimated_short_retention": 95,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "alien movie",
+      "visual signal",
+      "dying planet",
+      "Proxima",
+      "extraterrestrial film"
+    ],
+    "overlap_check_hash": "e42cac81017eea12",
+    "why_this_can_go_viral": "Combines signal mystery with visual storytelling—a cosmic snuff film that shocks and fascinates."
+  },
+  {
+    "unique_id": "cosmic_0130_024_2bd6b8cbfdc86fe4",
+    "title": "The Fermi Paradox Algorithm—A Formula That Predicts Our Death",
+    "hook": "A mathematician created a model that calculates exactly when a civilization destroys itself—and we're past the deadline.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 96,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "doom formula",
+      "civilization death",
+      "predictive model",
+      "Fermi paradox",
+      "self destruction"
+    ],
+    "overlap_check_hash": "2bd6b8cbfdc86fe4",
+    "why_this_can_go_viral": "Appeals to apocalyptic curiosity and data-driven fear—a 'clock is ticking' narrative that feels urgent."
+  },
+  {
+    "unique_id": "cosmic_0130_025_03202cac2c300c61",
+    "title": "The Asteroid That Appeared and Disappeared in One Hour",
+    "hook": "A near-Earth object materialized on radar, then vanished an hour later—as if it was never there.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 74,
+    "educational_value": 50,
+    "estimated_short_retention": 83,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "disappearing asteroid",
+      "radar ghost",
+      "transient object",
+      "vanishing rock",
+      "space illusion"
+    ],
+    "overlap_check_hash": "03202cac2c300c61",
+    "why_this_can_go_viral": "Mysterious appearance and disappearance creates a 'glitch in the matrix' effect—instantly shareable."
+  }
+]

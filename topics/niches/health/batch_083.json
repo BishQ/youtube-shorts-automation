@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "health_0083_001_8250934d67249088",
+    "title": "The Doctor Who Sold Cancer Patients Fake DNA to Frame Them for Murders",
+    "hook": "A doctor framed 50 cancer patients for crimes they didn't commit—using their own medical samples.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "doctor",
+      "frame",
+      "cancer",
+      "DNA",
+      "crime"
+    ],
+    "overlap_check_hash": "8250934d67249088",
+    "why_this_can_go_viral": "Combines medical betrayal with criminal injustice—extreme shock value and moral outrage."
+  },
+  {
+    "unique_id": "health_0083_002_67f5dcff9224b91e",
+    "title": "The Pharmaceutical Company That Sold a Cure for Malaria—That Gave Patients Kidney Failure",
+    "hook": "They promised to save millions, but the drug slowly shut down their kidneys.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "malaria",
+      "kidney failure",
+      "drug",
+      "pharma",
+      "cover-up"
+    ],
+    "overlap_check_hash": "67f5dcff9224b91e",
+    "why_this_can_go_viral": "Classic betrayal of trust—life-saving cure turns deadly, perfect for outrage sharing."
+  },
+  {
+    "unique_id": "health_0083_003_a3e3f3739e3de8fd",
+    "title": "The Experiment That Starved 100 Orphans to Study Malnutrition—Then Let Them Die",
+    "hook": "Researchers withheld food from children for months, documenting their slow decline.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 100,
+    "educational_value": 85,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "orphan",
+      "starvation",
+      "experiment",
+      "malnutrition",
+      "children"
+    ],
+    "overlap_check_hash": "a3e3f3739e3de8fd",
+    "why_this_can_go_viral": "Unspeakable cruelty to children—guaranteed emotional reaction and shock."
+  },
+  {
+    "unique_id": "health_0083_004_8859c5edf5bb1cf3",
+    "title": "The Suppressed Cure: 50-Cent Lemon Balm Tea Reversed 70% of Herpes Outbreaks",
+    "hook": "A common herb outperformed $500 antiviral drugs—but no one told you.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 60,
+    "educational_value": 95,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "herpes",
+      "lemon balm",
+      "cure",
+      "natural",
+      "suppressed"
+    ],
+    "overlap_check_hash": "8859c5edf5bb1cf3",
+    "why_this_can_go_viral": "High educational value with a strong 'they don't want you to know' angle."
+  },
+  {
+    "unique_id": "health_0083_005_cadb675c909ec9e5",
+    "title": "The Hospital That Billed Families for Surgeries on Patients Who Were Already Brain-Dead",
+    "hook": "They kept bodies on life support for weeks, charging families while the patient had no brain activity.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "hospital",
+      "brain dead",
+      "billing",
+      "fraud",
+      "life support"
+    ],
+    "overlap_check_hash": "cadb675c909ec9e5",
+    "why_this_can_go_viral": "Horrifying financial exploitation of grieving families—deeply unethical and shareable."
+  },
+  {
+    "unique_id": "health_0083_007_3103c31ccdb4e6cb",
+    "title": "The Disease Cover-Up: How 'Chronic Fatigue' Was Invented to Hide a Toxic Mold Epidemic",
+    "hook": "Millions were told it was all in their heads—while mold in their walls was destroying their bodies.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 90,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "chronic fatigue",
+      "mold",
+      "cover-up",
+      "epidemic",
+      "toxic"
+    ],
+    "overlap_check_hash": "3103c31ccdb4e6cb",
+    "why_this_can_go_viral": "Relatable chronic condition meets systemic cover-up—powerful conspiracy angle."
+  },
+  {
+    "unique_id": "health_0083_009_1d7ae13edebf2a53",
+    "title": "The Doctor Who Harvested Organs From 200 Living Patients and Told Them It Was Surgery",
+    "hook": "They went in for routine operations and woke up missing a kidney or part of their liver.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 80,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "organ harvest",
+      "living patients",
+      "doctor",
+      "surgery",
+      "crime"
+    ],
+    "overlap_check_hash": "1d7ae13edebf2a53",
+    "why_this_can_go_viral": "Body horror meets medical betrayal—high shock and outrage."
+  },
+  {
+    "unique_id": "health_0083_010_d444992b3dd92d8c",
+    "title": "The Pharmaceutical Company That Hid a $2 Generic Drug That Worked Better Than Their $5,000 One",
+    "hook": "They bought the patent and buried it—so they could keep selling the expensive version.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "generic",
+      "patent",
+      "price",
+      "pharma",
+      "cover-up"
+    ],
+    "overlap_check_hash": "d444992b3dd92d8c",
+    "why_this_can_go_viral": "Classic 'big pharma greed' story—easy to understand and share."
+  },
+  {
+    "unique_id": "health_0083_011_0b69ead5fd4fadac",
+    "title": "The Experiment That Deliberately Infected 50 Children With Polio to Test a Vaccine",
+    "hook": "They gave healthy kids polio—then watched to see if the vaccine would save them.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "polio",
+      "children",
+      "infected",
+      "experiment",
+      "vaccine"
+    ],
+    "overlap_check_hash": "0b69ead5fd4fadac",
+    "why_this_can_go_viral": "Extreme ethical violation involving children—mass emotional impact."
+  },
+  {
+    "unique_id": "health_0083_013_50443ccf3f639b28",
+    "title": "The Hospital System That Forced Nurses to Reuse Single-Use Syringes—Causing 1,000 Infections",
+    "hook": "To save $0.10 per syringe, they gave patients HIV and hepatitis.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "syringe",
+      "reuse",
+      "HIV",
+      "hepatitis",
+      "hospital"
+    ],
+    "overlap_check_hash": "50443ccf3f639b28",
+    "why_this_can_go_viral": "Profit over patient safety—clear villain story with devastating后果."
+  },
+  {
+    "unique_id": "health_0083_015_fd370f65fc39f0bb",
+    "title": "The Disease Cover-Up: How 'Sinus Infections' Were Actually Caused by a Common Household Cleaner",
+    "hook": "For 30 years, millions were told they had allergies—while a chemical in their cleaning spray was rotting their sinuses.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 88,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "sinus",
+      "cleaner",
+      "toxic",
+      "allergy",
+      "cover-up"
+    ],
+    "overlap_check_hash": "fd370f65fc39f0bb",
+    "why_this_can_go_viral": "Relatable health issue with a shocking hidden cause—viral 'check your home' angle."
+  },
+  {
+    "unique_id": "health_0083_016_7d5c1c2c3d11be3e",
+    "title": "The FDA-Approved Blood Thinner That Caused 1 in 50 Users to Bleed to Death Internally",
+    "hook": "It was marketed as 'safer than aspirin'—until patients started dying from invisible bleeds.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 93,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "blood thinner",
+      "bleeding",
+      "death",
+      "FDA",
+      "approved"
+    ],
+    "overlap_check_hash": "7d5c1c2c3d11be3e",
+    "why_this_can_go_viral": "Common medication with hidden deadly risk—high relevance to older viewers."
+  },
+  {
+    "unique_id": "health_0083_017_6f0d0817faba6ab7",
+    "title": "The Doctor Who Convinced 500 Patients They Had 'Rare Genetic Diseases'—Then Billed for Expensive Gene Therapy",
+    "hook": "He manipulated genetic test results to make healthy people believe they were dying.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "genetic",
+      "disease",
+      "fraud",
+      "gene therapy",
+      "doctor"
+    ],
+    "overlap_check_hash": "6f0d0817faba6ab7",
+    "why_this_can_go_viral": "Fear-based manipulation for profit—extremely relatable to anyone who's gotten genetic testing."
+  },
+  {
+    "unique_id": "health_0083_019_62f5403b7a798806",
+    "title": "The Experiment That Kept 40 Newborns in Complete Darkness for the First Year of Life",
+    "hook": "Scientists wanted to see if humans could develop without vision—the results were horrifying.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "newborn",
+      "darkness",
+      "experiment",
+      "sensory",
+      "deprivation"
+    ],
+    "overlap_check_hash": "62f5403b7a798806",
+    "why_this_can_go_viral": "Unimaginable cruelty to infants—guaranteed shock and outrage."
+  },
+  {
+    "unique_id": "health_0083_020_2f12117478e734c4",
+    "title": "The Suppressed Cure: $5 Vitamin C IV Drip Reversed 60% of Septic Shock Cases—But ERs Won't Use It",
+    "hook": "A cheap, safe vitamin could save thousands—but hospitals prefer a $20,000 drug cocktail.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 90,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "vitamin C",
+      "sepsis",
+      "IV",
+      "hospital",
+      "suppressed"
+    ],
+    "overlap_check_hash": "2f12117478e734c4",
+    "why_this_can_go_viral": "Life-saving cheap solution ignored by system—powerful 'they don't want you to know' angle."
+  },
+  {
+    "unique_id": "health_0083_021_0aebe3458356943a",
+    "title": "The Hospital That Sterilized 1,000 Women Without Their Knowledge During Childbirth",
+    "hook": "While giving birth, doctors tied their tubes—then told them it was 'routine'.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "sterilization",
+      "women",
+      "childbirth",
+      "hospital",
+      "non-consent"
+    ],
+    "overlap_check_hash": "0aebe3458356943a",
+    "why_this_can_go_viral": "Reproductive rights violation—huge emotional and political resonance."
+  },
+  {
+    "unique_id": "health_0083_022_3f73f7f4b78e010c",
+    "title": "The Toxic Plastic Water Bottle That Gave 1 in 100 Users Breast Cancer",
+    "hook": "It was marketed as 'BPA-free'—but the replacement chemical was just as deadly.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "water bottle",
+      "BPA",
+      "cancer",
+      "plastic",
+      "toxic"
+    ],
+    "overlap_check_hash": "3f73f7f4b78e010c",
+    "why_this_can_go_viral": "Everyone uses plastic bottles—personal relevance drives mass sharing."
+  },
+  {
+    "unique_id": "health_0083_023_906efe582de178f4",
+    "title": "The Disease Cover-Up: How 'IBS' Was a Symptom of a Widespread Pesticide Poisoning",
+    "hook": "Millions were told they had an incurable gut disorder—when a chemical in their food was the real cause.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 83,
+    "educational_value": 90,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "IBS",
+      "pesticide",
+      "poisoning",
+      "food",
+      "cover-up"
+    ],
+    "overlap_check_hash": "906efe582de178f4",
+    "why_this_can_go_viral": "Relatable chronic condition with a shocking industrial cause—high shareability."
+  },
+  {
+    "unique_id": "health_0083_024_e384960600462571",
+    "title": "The FDA-Approved Sleep Aid That Caused 1 in 30 Users to Sleepwalk Off Balconies",
+    "hook": "They thought they were just getting rest—instead, their brains shut down their danger instincts.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "sleep aid",
+      "sleepwalk",
+      "death",
+      "FDA",
+      "approved"
+    ],
+    "overlap_check_hash": "e384960600462571",
+    "why_this_can_go_viral": "Bizarre and terrifying side effect—highly shareable and memorable."
+  },
+  {
+    "unique_id": "health_0083_025_b53625444576cb78",
+    "title": "The Doctor Who Used 100 Patients as 'Human Shields' in a War Zone to Save Himself",
+    "hook": "He hid behind sick children while bullets flew, then billed their families for 'protective care'.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 97,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "war",
+      "doctor",
+      "children",
+      "shield",
+      "crime"
+    ],
+    "overlap_check_hash": "b53625444576cb78",
+    "why_this_can_go_viral": "Extreme moral depravity—shock value and outrage combine for viral sharing."
+  }
+]

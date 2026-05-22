@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "science_0033_002_2300220ea1bdcf06",
+    "title": "The Physicist Who Watched a Particle Exist in Two Places at Once",
+    "hook": "They fired a single atom through a barrier with two slits. It went through both. Then they observed it—and it chose one. Reality itself seemed to flinch.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 60,
+    "educational_value": 85,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "double slit",
+      "quantum mechanics",
+      "observation",
+      "wave function collapse",
+      "reality"
+    ],
+    "overlap_check_hash": "2300220ea1bdcf06",
+    "why_this_can_go_viral": "The double-slit experiment is the most mind-bending concept in physics; framing it as a 'watched particle' triggers deep existential curiosity."
+  },
+  {
+    "unique_id": "science_0033_003_16bb4540f093ecf7",
+    "title": "The Chemist Who Discovered a Liquid That Burns Skin on Contact",
+    "hook": "He synthesized a clear liquid in a beaker. A single drop splashed onto his glove. Within seconds, the glove dissolved. His hand was next.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "chemical burn",
+      "corrosive liquid",
+      "lab accident",
+      "fluorine",
+      "synthesis"
+    ],
+    "overlap_check_hash": "16bb4540f093ecf7",
+    "why_this_can_go_viral": "Immediate danger and bodily harm create high emotional arousal; the 'accidental discovery' angle feeds voyeuristic fear."
+  },
+  {
+    "unique_id": "science_0033_004_0527c3ced5bbe347",
+    "title": "The Neuroscientist Who Made a Patient Forget His Own Face",
+    "hook": "A routine brain surgery to stop seizures. When the patient woke up, he looked in the mirror and screamed. He had no idea who that person was.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "face blindness",
+      "prosopagnosia",
+      "brain surgery",
+      "identity",
+      "self recognition"
+    ],
+    "overlap_check_hash": "0527c3ced5bbe347",
+    "why_this_can_go_viral": "Losing the ability to recognize your own face taps into fundamental fears about identity and selfhood."
+  },
+  {
+    "unique_id": "science_0033_005_6e15709d2d07a6e0",
+    "title": "The Soviet Scientist Who Tried to Cross a Human With an Ape",
+    "hook": "In the 1920s, Stalin secretly funded a plan to create a hybrid soldier. The scientist used human sperm and female chimpanzees. The results were never disclosed.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "Soviet",
+      "human ape hybrid",
+      "Ilya Ivanov",
+      "Stalin",
+      "eugenics"
+    ],
+    "overlap_check_hash": "6e15709d2d07a6e0",
+    "why_this_can_go_viral": "Forbidden hybrid experiments combine Cold War secrecy with moral horror—an irresistible click magnet."
+  },
+  {
+    "unique_id": "science_0033_006_5385e52eb8b21f79",
+    "title": "The Lab That Caused a Plague That Killed Only Pregnant Women",
+    "hook": "A lab studying fetal development accidentally released a pathogen. It targeted a single hormone. Pregnant women started dying. No one knew why.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "pathogen",
+      "pregnancy",
+      "lab leak",
+      "hormone",
+      "outbreak"
+    ],
+    "overlap_check_hash": "5385e52eb8b21f79",
+    "why_this_can_go_viral": "Biological horror with a specific, vulnerable target group creates maximum emotional impact and moral outrage."
+  },
+  {
+    "unique_id": "science_0033_008_1baf34270563da9c",
+    "title": "The Chemist Who Blew Up His Lab Trying to Make a New Explosive",
+    "hook": "He was mixing a compound in a fume hood. A static spark jumped from his glove. The explosion threw him through a wall. The lab was gone.",
+    "virality_score": 75,
+    "curiosity_gap_score": 78,
+    "darkness_score": 75,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "explosion",
+      "lab accident",
+      "synthesis",
+      "energetic material",
+      "static electricity"
+    ],
+    "overlap_check_hash": "1baf34270563da9c",
+    "why_this_can_go_viral": "Explosions are universally captivating; the 'static spark' detail adds a haunting how-it-happened narrative."
+  },
+  {
+    "unique_id": "science_0033_009_ca588e8e29015cc9",
+    "title": "The Neuroscientist Who Electrified a Brain and Made a Person See God",
+    "hook": "She touched an electrode to the temporal lobe of a conscious patient. The patient suddenly felt a divine presence in the room. She had found the 'God spot.'",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "God spot",
+      "temporal lobe",
+      "electrical stimulation",
+      "religious experience",
+      "consciousness"
+    ],
+    "overlap_check_hash": "ca588e8e29015cc9",
+    "why_this_can_go_viral": "The idea that spirituality can be manufactured in a lab is deeply unsettling and challenges core beliefs."
+  },
+  {
+    "unique_id": "science_0033_010_df53666f34320d63",
+    "title": "The Physicist Who Proved That Time Exists as a Loop Not a Line",
+    "hook": "Einstein said time is a dimension. But what if it curves back on itself? This physicist found a mathematical proof that past, present, and future coexist.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 65,
+    "educational_value": 80,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time loop",
+      "block universe",
+      "Einstein",
+      "special relativity",
+      "determinism"
+    ],
+    "overlap_check_hash": "df53666f34320d63",
+    "why_this_can_go_viral": "Time loops are a sci-fi staple; claiming mathematical proof elevates it from fiction to unsettling possibility."
+  },
+  {
+    "unique_id": "science_0033_011_00934ecc7b8b300f",
+    "title": "The Scientist Who Faked a Study Showing Vaccines Cause Autism",
+    "hook": "He published a paper that changed the world. Millions refused vaccines. But he had manipulated every data point. The retraction came too late.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 85,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "Andrew Wakefield",
+      "vaccine autism",
+      "fraud",
+      "retraction",
+      "public health"
+    ],
+    "overlap_check_hash": "00934ecc7b8b300f",
+    "why_this_can_go_viral": "One of the most consequential scientific frauds in history; the human cost of deception drives intense engagement."
+  },
+  {
+    "unique_id": "science_0033_013_756dc5449e3f600c",
+    "title": "The Chemist Who Made a Polymer That Stops Bullets Cold",
+    "hook": "He designed a liquid that hardens on impact. A bullet fired at it stops dead—mid-flight. The material is classified by the military. You'll never see it.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 70,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "bulletproof",
+      "polymer",
+      "shear thickening",
+      "military",
+      "classified"
+    ],
+    "overlap_check_hash": "756dc5449e3f600c",
+    "why_this_can_go_viral": "Classified military tech with 'you'll never see it' creates a conspiratorial hook—high curiosity gap."
+  },
+  {
+    "unique_id": "science_0033_015_f62b7e1153a9bafb",
+    "title": "The Neuroscientist Who Implanted a False Memory of a Crime",
+    "hook": "She told a volunteer a detailed story about a childhood shoplifting incident. The volunteer believed it—even added details. It never happened.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "false memory",
+      "memory implantation",
+      "Loftus",
+      "eyewitness testimony",
+      "suggestion"
+    ],
+    "overlap_check_hash": "f62b7e1153a9bafb",
+    "why_this_can_go_viral": "The idea that your entire past could be fabricated by suggestion is terrifying and directly challenges self-trust."
+  },
+  {
+    "unique_id": "science_0033_016_c83ddee439fff186",
+    "title": "The Soviet Experiment That Tried to Create a Human With No Pain",
+    "hook": "KGB scientists injected newborns with a viral vector designed to sever pain nerves. Most died. Survivors couldn't feel a knife wound. They were used for experiments.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 72,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "Soviet",
+      "pain",
+      "experiment",
+      "newborns",
+      "KGB"
+    ],
+    "overlap_check_hash": "c83ddee439fff186",
+    "why_this_can_go_viral": "Extreme cruelty, secret state experiments, and medical horror—this is the apex of forbidden science content."
+  },
+  {
+    "unique_id": "science_0033_018_73aaa4fae4057ee9",
+    "title": "The Chemist Who Invented a Gas That Makes You Tell the Truth",
+    "hook": "A clear, odorless gas. Inhale it, and your inhibitions vanish. You cannot lie. Intelligence agencies used it. Some say they still do.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "truth serum",
+      "gas",
+      "CIA",
+      "intelligence",
+      "interrogation"
+    ],
+    "overlap_check_hash": "73aaa4fae4057ee9",
+    "why_this_can_go_viral": "Conspiracy-adjacent chemistry with a 'they still use it' hook—triggers paranoia and curiosity."
+  },
+  {
+    "unique_id": "science_0033_019_cea0f441aecb8277",
+    "title": "The Physicist Who Showed That Empty Space Is Full of Virtual Particles",
+    "hook": "He calculated that even a perfect vacuum isn't empty. It's boiling with particles that pop in and out of existence. Nothingness is a lie.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 60,
+    "educational_value": 82,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "virtual particles",
+      "quantum field",
+      "vacuum energy",
+      "Casimir effect",
+      "nothingness"
+    ],
+    "overlap_check_hash": "cea0f441aecb8277",
+    "why_this_can_go_viral": "The idea that 'empty space' is a lie is a paradigm-shifting teaser that taps into quantum curiosity."
+  },
+  {
+    "unique_id": "science_0033_020_c707336da55a3c19",
+    "title": "The Researcher Who Faked a Paper About a New Element and Got Published",
+    "hook": "He invented an element that doesn't exist—complete with fake data, false spectrograms, and a name. The journal accepted it. For a year, it was real.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fake element",
+      "fraudulent paper",
+      "peer review",
+      "publish or perish",
+      "scandal"
+    ],
+    "overlap_check_hash": "c707336da55a3c19",
+    "why_this_can_go_viral": "Exposing a major fraud in the sacred institution of science triggers outrage and 'I knew it wasn't perfect' schadenfreude."
+  },
+  {
+    "unique_id": "science_0033_023_9a0d95fcef4e4412",
+    "title": "The Chemist Who Discovered a Substance That Burns Underground for Decades",
+    "hook": "A coal seam caught fire near a chemical waste dump. Toxic fumes leaked for 40 years. Scientists couldn't extinguish it. It's still burning today.",
+    "virality_score": 74,
+    "curiosity_gap_score": 78,
+    "darkness_score": 80,
+    "educational_value": 68,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "coal fire",
+      "underground burn",
+      "toxic fumes",
+      "Centralia",
+      "environmental disaster"
+    ],
+    "overlap_check_hash": "9a0d95fcef4e4412",
+    "why_this_can_go_viral": "The idea of an unstoppable underground fire is inherently dramatic and visually evocative."
+  },
+  {
+    "unique_id": "science_0033_024_78c1e1bcbc99f56a",
+    "title": "The Quantum Computer That Communicated with Its Parallel Self",
+    "hook": "A quantum processor made a calculation that returned an answer faster than light could travel. The only explanation: it borrowed computing power from another universe.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 70,
+    "educational_value": 82,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum computing",
+      "parallel universe",
+      "many worlds",
+      "faster than light",
+      "communication"
+    ],
+    "overlap_check_hash": "78c1e1bcbc99f56a",
+    "why_this_can_go_viral": "Parallel universe theory meets experimental evidence—the ultimate clickbait for science and sci-fi fans."
+  }
+]

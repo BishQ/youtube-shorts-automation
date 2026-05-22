@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "crime_0086_001_88fd1c80e7069120",
+    "title": "The Coroner Who Sold Murder Victims' Organs on the Black Market",
+    "hook": "A trusted medical examiner was secretly harvesting organs from autopsies and selling them to wealthy transplant tourists.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "organ trafficking",
+      "coroner crime",
+      "black market organs",
+      "medical corruption",
+      "transplant fraud"
+    ],
+    "overlap_check_hash": "88fd1c80e7069120",
+    "why_this_can_go_viral": "Combines medical taboo, betrayal of public trust, and grotesque details—perfect for morbid curiosity and outrage sharing."
+  },
+  {
+    "unique_id": "crime_0086_002_f496782a71afc4f1",
+    "title": "The Heist Where Thieves Stole a River—And Redirected Gold Mining Claims",
+    "hook": "They didn't steal gold—they stole the entire riverbed by building a fake dam, then diverted all claims to themselves.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "river theft",
+      "gold mining heist",
+      "fake dam",
+      "claim jumping",
+      "environmental crime"
+    ],
+    "overlap_check_hash": "f496782a71afc4f1",
+    "why_this_can_go_viral": "The absurd originality of stealing a natural resource no one thinks can be stolen makes this irresistibly shareable."
+  },
+  {
+    "unique_id": "crime_0086_004_13394e0225ea8b76",
+    "title": "The Cartel That Used a Bee Farm—To Sting Victims to Death to Avoid Gunfire Evidence",
+    "hook": "They bred Africanized killer bees and released them into interrogation rooms, leaving no ballistic trace.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 55,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel bees",
+      "killer bee murders",
+      "biological weapon cartel",
+      "evidence-free killing",
+      "apiary torture"
+    ],
+    "overlap_check_hash": "13394e0225ea8b76",
+    "why_this_can_go_viral": "The combination of nature weaponized and cartel ingenuity creates shock value and strong visual storytelling."
+  },
+  {
+    "unique_id": "crime_0086_005_21809a5facb6541b",
+    "title": "The Unsolved Murder Where the Killer Wrote the Victim's Eulogy—And Delivered It at the Funeral",
+    "hook": "Detectives only realized the murderer had spoken at his own victim's service when they compared handwriting on the note.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 92,
+    "educational_value": 50,
+    "estimated_short_retention": 95,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "funeral killer",
+      "eulogy murderer",
+      "unsolved murder case",
+      "brazen killer",
+      "hidden in plain sight"
+    ],
+    "overlap_check_hash": "21809a5facb6541b",
+    "why_this_can_go_viral": "The audacity and psychological depth of a killer inserting himself into the mourning ritual is deeply unsettling and unforgettable."
+  },
+  {
+    "unique_id": "crime_0086_006_7c75cd8e1bc87695",
+    "title": "The Criminal Mastermind Who Sold Fake Tornado Shelters—That Were Actually Mass Graves",
+    "hook": "He charged families $15,000 for storm bunkers, then sealed them underground with no oxygen—and no escape.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake tornado shelter",
+      "mass grave scam",
+      "buried alive",
+      "shelter murders",
+      "prepper fraud"
+    ],
+    "overlap_check_hash": "7c75cd8e1bc87695",
+    "why_this_can_go_viral": "Exploits primal fear of being buried alive and prepper culture, creating visceral horror and moral outrage."
+  },
+  {
+    "unique_id": "crime_0086_007_4c9ca4718678e500",
+    "title": "The Mob That Controlled a City's Trash Collection—To Hide Bodies in Landfill Compactors",
+    "hook": "They owned the garbage trucks, so nobody questioned the weekly pickup of 'industrial waste'—which was human remains.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 91,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob garbage",
+      "body disposal landfill",
+      "waste management crime",
+      "organized crime sanitation",
+      "trash truck murders"
+    ],
+    "overlap_check_hash": "4c9ca4718678e500",
+    "why_this_can_go_viral": "The mundane horror of everyday garbage collection being a cover for murder creates powerful cognitive dissonance."
+  },
+  {
+    "unique_id": "crime_0086_008_67e3a095104033fa",
+    "title": "The Billion-Dollar Fraud That Sold Fake Volcano Insurance—To Towns Living Near Real Eruptions",
+    "hook": "He collected premiums from 40 villages for a policy that never existed—and when the volcano erupted, everyone lost everything.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fake insurance",
+      "volcano scam",
+      "disaster fraud",
+      "premium theft",
+      "eruption victims"
+    ],
+    "overlap_check_hash": "67e3a095104033fa",
+    "why_this_can_go_viral": "Exploits fear of natural disaster in a uniquely cruel way, provoking anger and fascination with the scam's scale."
+  },
+  {
+    "unique_id": "crime_0086_009_5f6dd3f19edc3b27",
+    "title": "The White-Collar Criminal Who Stole a Country's National Art Collection—By Replacing Every Painting Overnight",
+    "hook": "He swapped 147 masterpieces with perfect forgeries over a single weekend, making the entire national gallery a fake.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 72,
+    "educational_value": 80,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "art forgery heist",
+      "national gallery swap",
+      "fake paintings",
+      "art theft scam",
+      "museum fraud"
+    ],
+    "overlap_check_hash": "5f6dd3f19edc3b27",
+    "why_this_can_go_viral": "The sheer scale and audacity of replacing an entire collection captivates art lovers and crime fans alike."
+  },
+  {
+    "unique_id": "crime_0086_010_df664c9e08d14ad8",
+    "title": "The Heist Where Thieves Stole a Train—By Laying Fake Tracks for 2 Miles",
+    "hook": "They built an entire parallel railway spur overnight, diverted the train onto it, and stripped it in the woods.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 65,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "train heist",
+      "fake railway",
+      "train diversion",
+      "rail robbery",
+      "infrastructure crime"
+    ],
+    "overlap_check_hash": "df664c9e08d14ad8",
+    "why_this_can_go_viral": "The engineering audacity of building miles of track in secret makes for an incredible 'how did they do that?' story."
+  },
+  {
+    "unique_id": "crime_0086_011_e0a8c1c8d0e4d44b",
+    "title": "The Unsolved Murder Where the Victim Was Killed by a Piano Wire—Tuned to a Specific Musical Note",
+    "hook": "The killer tightened the wire to a perfect C-sharp, turning the murder weapon into an instrument of precise torture.",
+    "virality_score": 87,
+    "curiosity_gap_score": 94,
+    "darkness_score": 90,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "piano wire murder",
+      "tuned weapon",
+      "musical murder",
+      "unsolved music case",
+      "precision killing"
+    ],
+    "overlap_check_hash": "e0a8c1c8d0e4d44b",
+    "why_this_can_go_viral": "The fusion of artistry and murder creates a haunting, poetic darkness that viewers will obsess over."
+  },
+  {
+    "unique_id": "crime_0086_012_348710b494432ae2",
+    "title": "The Criminal Mastermind Who Built a Fake Emergency Room—To Steal Organs from Accident Victims",
+    "hook": "He bribed ambulance drivers to bring crash victims to his unlicensed clinic, where he harvested and sold their organs.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 68,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake ER",
+      "organ harvesting",
+      "ambulance scam",
+      "black market surgery",
+      "medical trafficking"
+    ],
+    "overlap_check_hash": "348710b494432ae2",
+    "why_this_can_go_viral": "Taps into deep medical mistrust and fear of vulnerability—one of the darkest real-world criminal operations ever uncovered."
+  },
+  {
+    "unique_id": "crime_0086_013_7c1ebf44796398bd",
+    "title": "The Mob That Used a Retirement Home—To Run a Heroin Empire from Bingo Nights",
+    "hook": "Elderly residents were unwitting mules, and the bingo caller was the drug kingpin—until one grandmother cracked the code.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 76,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "bingo drug ring",
+      "retirement home cartel",
+      "elderly drug mules",
+      "mob nursing home",
+      "senior crime"
+    ],
+    "overlap_check_hash": "7c1ebf44796398bd",
+    "why_this_can_go_viral": "The unexpected setting and inversion of innocence (grandmas as drug couriers) creates high shareability."
+  },
+  {
+    "unique_id": "crime_0086_014_93c9d611e3ffde25",
+    "title": "The Serial Killer Who Only Targeted People Who Gave Him Perfect Alibis",
+    "hook": "He chose victims who had just checked into hotels, bought plane tickets, or attended events—making himself invisible.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 89,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "alibi killer",
+      "invisible murderer",
+      "perfect alibi murders",
+      "serial killer strategy",
+      "untraceable killings"
+    ],
+    "overlap_check_hash": "93c9d611e3ffde25",
+    "why_this_can_go_viral": "The twisted logic of using victims' own schedules to disappear is a mind-bending concept that fuels discussion."
+  },
+  {
+    "unique_id": "crime_0086_017_1a8c154e4a382802",
+    "title": "The White-Collar Criminal Who Stole a Museum's Entire Mummy Collection—By Replacing Them With Resin Copies",
+    "hook": "He swapped 12 real mummies with hollow resin replicas over months, selling the originals to private collectors.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "mummy theft",
+      "museum replica scam",
+      "artifact fraud",
+      "ancient remains theft",
+      "collector black market"
+    ],
+    "overlap_check_hash": "1a8c154e4a382802",
+    "why_this_can_go_viral": "Combines ancient history, desecration of the dead, and high-stakes art crime for a gripping narrative."
+  },
+  {
+    "unique_id": "crime_0086_018_a59d7a1e214a7397",
+    "title": "The Unsolved Murder Where the Body Was Never Found—But Security Cameras Caught a Shadow Walking the Victim's Route for 3 Years",
+    "hook": "Every day at the same time, a figure matching the victim's gait walked the path where she disappeared—but she was already dead.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 96,
+    "educational_value": 45,
+    "estimated_short_retention": 96,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "ghost walker",
+      "post-mortem shadow",
+      "missing person pattern",
+      "unsolved mystery footage",
+      "phantom gait"
+    ],
+    "overlap_check_hash": "a59d7a1e214a7397",
+    "why_this_can_go_viral": "The eerie 'is it a ghost or a killer?' ambiguity triggers maximum curiosity and supernatural speculation."
+  },
+  {
+    "unique_id": "crime_0086_019_29e4603c8ac7377d",
+    "title": "The Criminal Mastermind Who Faked a Police Raid—To Arrest His Own Rivals and Steal Their Operations",
+    "hook": "He rented SWAT uniforms, fake warrants, and a police station lobby, then 'raided' his enemies to take over their drug network.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 81,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake police raid",
+      "imposter SWAT",
+      "criminal takeover",
+      "false arrest scheme",
+      "gangster disguise"
+    ],
+    "overlap_check_hash": "29e4603c8ac7377d",
+    "why_this_can_go_viral": "The meta-criminality of using police authority to commit crime is intellectually thrilling and darkly humorous."
+  },
+  {
+    "unique_id": "crime_0086_021_9a5e778bb1e9b162",
+    "title": "The Mob That Used a Swimming Pool Company—To Drown Rivals and Frame Them as Accidents",
+    "hook": "They installed pools by day and drowned enemies at night, making every murder look like a tragic homeowner mishap.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "pool murder",
+      "drowning mob",
+      "fake accident killings",
+      "swimming pool crime",
+      "mob front business"
+    ],
+    "overlap_check_hash": "9a5e778bb1e9b162",
+    "why_this_can_go_viral": "The suburban setting of backyard pools turned into murder scenes creates chilling relatability."
+  },
+  {
+    "unique_id": "crime_0086_023_15dc5ad7516d0713",
+    "title": "The Cartel That Used a Children's Book Publisher—To Encrypt Drug Orders in Bedtime Stories",
+    "hook": "Every page had hidden coordinates and quantities embedded in the illustrations, and no customs officer ever noticed.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 79,
+    "educational_value": 68,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "children's book code",
+      "cartel encryption",
+      "hidden messages",
+      "drug smuggling books",
+      "stealth communication"
+    ],
+    "overlap_check_hash": "15dc5ad7516d0713",
+    "why_this_can_go_viral": "The innocence of children's books weaponized for cartel logistics is deeply unsettling and cleverly shocking."
+  },
+  {
+    "unique_id": "crime_0086_024_ade0cb4dfb369120",
+    "title": "The Billion-Dollar Fraud That Sold Fake Carbon Credits—For Forests That Never Existed",
+    "hook": "He sold emissions offsets for 10 million acres of rainforest in a country where the land was actually desert.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 76,
+    "educational_value": 82,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "carbon credit scam",
+      "fake rainforest",
+      "environmental fraud",
+      "climate scam",
+      "offset fraud"
+    ],
+    "overlap_check_hash": "ade0cb4dfb369120",
+    "why_this_can_go_viral": "Exploits the green movement's trust and exposes a massive invisible scam that affects climate policy."
+  }
+]

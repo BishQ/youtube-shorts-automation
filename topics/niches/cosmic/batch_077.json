@@ -1,0 +1,502 @@
+[
+  {
+    "unique_id": "cosmic_0077_001_e6dc6d5a0c343890",
+    "title": "The Declassified NSA File: 'A Cosmic Signal Rewired Our Brains'",
+    "hook": "In 1977, a signal from deep space didn't just beep—it altered the neural patterns of everyone who heard it.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "NSA",
+      "brain alteration",
+      "cosmic signal",
+      "1977",
+      "classified"
+    ],
+    "overlap_check_hash": "e6dc6d5a0c343890",
+    "why_this_can_go_viral": "Combines mind control with a real agency file—unsettling and mysterious."
+  },
+  {
+    "unique_id": "cosmic_0077_002_c61240881453f1f8",
+    "title": "The Rogue Asteroid That 'Carved' Its Name Into the Moon",
+    "hook": "An asteroid struck the Moon in 1953, leaving behind geometric grooves that spell out a symbol never seen on Earth.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 70,
+    "educational_value": 55,
+    "estimated_short_retention": 78,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "asteroid",
+      "Moon",
+      "symbol",
+      "1953",
+      "anomaly"
+    ],
+    "overlap_check_hash": "c61240881453f1f8",
+    "why_this_can_go_viral": "Mysterious carving on the Moon triggers ancient alien speculation."
+  },
+  {
+    "unique_id": "cosmic_0077_003_26c65d5c950ab595",
+    "title": "The Astronomical Anomaly: A Galaxy That 'Disappeared' From Every Telescope",
+    "hook": "In 2019, a galaxy 3 billion light-years away simply vanished—no debris, no black hole, no explanation.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "vanishing galaxy",
+      "telescope",
+      "2019",
+      "disappearance",
+      "void"
+    ],
+    "overlap_check_hash": "26c65d5c950ab595",
+    "why_this_can_go_viral": "A galaxy blinking out of existence is deeply unsettling and sparks endless theories."
+  },
+  {
+    "unique_id": "cosmic_0077_004_1885d177f7cea03e",
+    "title": "The Classified Soviet File: 'We Found a Cosmic Skeleton in the Asteroid Belt'",
+    "hook": "A Soviet probe in 1986 photographed a skeletal structure drifting among the asteroids—then the file was buried.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 50,
+    "estimated_short_retention": 82,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "Soviet",
+      "skeleton",
+      "asteroid belt",
+      "1986",
+      "probe"
+    ],
+    "overlap_check_hash": "1885d177f7cea03e",
+    "why_this_can_go_viral": "Combines Cold War secrecy with alien remains—a conspiracy goldmine."
+  },
+  {
+    "unique_id": "cosmic_0077_005_3e4dbca6e4cdb714",
+    "title": "The Extinction Event That 'Froze' the Earth in Under an Hour",
+    "hook": "635 million years ago, a cosmic blast flash-froze the entire planet—oceans turned to ice in 60 minutes.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "Snowball Earth",
+      "flash freeze",
+      "635 million",
+      "cosmic blast"
+    ],
+    "overlap_check_hash": "3e4dbca6e4cdb714",
+    "why_this_can_go_viral": "Instant global freeze is terrifying and visually dramatic."
+  },
+  {
+    "unique_id": "cosmic_0077_006_98be88708aaae298",
+    "title": "The Stellar Danger: A 'Magnetic' Star That Strips Planets Naked",
+    "hook": "A magnetar 15,000 light-years away peeled the atmosphere off a Jupiter-sized planet in seconds—from across the galaxy.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 76,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "magnetar",
+      "atmosphere stripping",
+      "planet death",
+      "stellar danger"
+    ],
+    "overlap_check_hash": "98be88708aaae298",
+    "why_this_can_go_viral": "Planet getting flayed alive by a star is visceral and scary."
+  },
+  {
+    "unique_id": "cosmic_0077_007_5418b73f529a2f00",
+    "title": "The Dark Matter 'Spiderweb' That Trapped a Galaxy Cluster",
+    "hook": "Astronomers found a dark matter web so dense it's holding an entire cluster of galaxies hostage—unable to escape.",
+    "virality_score": 77,
+    "curiosity_gap_score": 81,
+    "darkness_score": 72,
+    "educational_value": 68,
+    "estimated_short_retention": 74,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter web",
+      "galaxy cluster",
+      "trapped",
+      "astronomy"
+    ],
+    "overlap_check_hash": "5418b73f529a2f00",
+    "why_this_can_go_viral": "Dark matter as a prison is a fresh and eerie concept."
+  },
+  {
+    "unique_id": "cosmic_0077_008_757c46b1ee4cc302",
+    "title": "The Fermi Paradox Answer: 'Earth Is a Reservation—Protected by a Cosmic Force'",
+    "hook": "A declassified paper suggests aliens don't contact us because Earth is quarantined by an intergalactic police force.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 86,
+    "educational_value": 55,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "Fermi paradox",
+      "reservation",
+      "quarantine",
+      "alien police",
+      "classified"
+    ],
+    "overlap_check_hash": "757c46b1ee4cc302",
+    "why_this_can_go_viral": "Makes you feel like a zoo animal—instant existential dread."
+  },
+  {
+    "unique_id": "cosmic_0077_009_72aaea9b48e10e0f",
+    "title": "The Strange Cosmic Signal That 'Played' a Song From 1942",
+    "hook": "In 2015, a radio telescope picked up a signal that perfectly replayed Glenn Miller's 'Moonlight Serenade'—from nowhere.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 71,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "signal",
+      "1942 song",
+      "Glenn Miller",
+      "2015",
+      "mystery"
+    ],
+    "overlap_check_hash": "72aaea9b48e10e0f",
+    "why_this_can_go_viral": "Music from deep space is nostalgic and deeply weird."
+  },
+  {
+    "unique_id": "cosmic_0077_010_0605d5e6358eda5e",
+    "title": "The Rogue Planet That 'Blinked' in and Out of Existence for 50 Years",
+    "hook": "A planet discovered in 1982 vanished, reappeared in 2001, then vanished again—astronomers call it 'the ghost.'",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 74,
+    "educational_value": 62,
+    "estimated_short_retention": 79,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "rogue planet",
+      "ghost planet",
+      "vanishing",
+      "1982",
+      "astronomy"
+    ],
+    "overlap_check_hash": "0605d5e6358eda5e",
+    "why_this_can_go_viral": "A blinking planet feels like a cosmic glitch—highly shareable."
+  },
+  {
+    "unique_id": "cosmic_0077_011_86efff0f703e20a5",
+    "title": "The Classified US Air Force Report: 'We Shot a Missile Into a Cosmic Vortex'",
+    "hook": "In 1964, the US Air Force fired a nuclear missile into a swirling anomaly above the Pacific—it never came back.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 87,
+    "educational_value": 55,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "US Air Force",
+      "nuclear missile",
+      "vortex",
+      "1964",
+      "classified"
+    ],
+    "overlap_check_hash": "86efff0f703e20a5",
+    "why_this_can_go_viral": "Nuclear weapon fired into an anomaly—maximum conspiracy fuel."
+  },
+  {
+    "unique_id": "cosmic_0077_013_5dc9226a406323ef",
+    "title": "The Stellar Danger: A 'Hypernova' That Targets Earth Every 500 Years",
+    "hook": "A star 8,000 light-years away pulses with deadly gamma rays aimed directly at Earth—and it's due any decade.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "hypernova",
+      "gamma ray",
+      "targeted",
+      "Earth",
+      "due"
+    ],
+    "overlap_check_hash": "5dc9226a406323ef",
+    "why_this_can_go_viral": "A ticking cosmic bomb aimed at us—immediate urgency."
+  },
+  {
+    "unique_id": "cosmic_0077_014_3210fe11dd4d2a53",
+    "title": "The Dark Matter 'Ocean' That Drowned a Million Stars",
+    "hook": "A massive dark matter wave swept through a star cluster, extinguishing all nuclear fusion—stars went dark instantly.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 76,
+    "educational_value": 65,
+    "estimated_short_retention": 75,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter ocean",
+      "stars dying",
+      "fusion stopped",
+      "cluster"
+    ],
+    "overlap_check_hash": "3210fe11dd4d2a53",
+    "why_this_can_go_viral": "Stars drowning in invisible matter is a haunting visual."
+  },
+  {
+    "unique_id": "cosmic_0077_015_997b8bb36ed570f8",
+    "title": "The Rogue Object That 'Knocked' Twice on Earth's Atmosphere—Then Left",
+    "hook": "In 2017, an object tapped the edge of our atmosphere twice, sent a radio pulse, and vanished beyond Neptune.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 73,
+    "educational_value": 60,
+    "estimated_short_retention": 81,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "object",
+      "atmosphere",
+      "2017",
+      "radio pulse",
+      "Neptune"
+    ],
+    "overlap_check_hash": "997b8bb36ed570f8",
+    "why_this_can_go_viral": "A polite but ominous knock from deep space—feels like a warning."
+  },
+  {
+    "unique_id": "cosmic_0077_016_0a9dcd5e95b33015",
+    "title": "The Astronomical Anomaly: A Nebula That 'Breathes' Out a Toxic Mist",
+    "hook": "The Pacman Nebula exhales a cloud of cyanide gas every 300 years—it's heading toward the solar system.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 74,
+    "educational_value": 62,
+    "estimated_short_retention": 73,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "Pacman Nebula",
+      "cyanide",
+      "toxic",
+      "solar system",
+      "gas"
+    ],
+    "overlap_check_hash": "0a9dcd5e95b33015",
+    "why_this_can_go_viral": "A poisonous nebula breathing in our direction is cinematic fear."
+  },
+  {
+    "unique_id": "cosmic_0077_017_a190391ffb7a3662",
+    "title": "The Classified NASA Document: 'We Detected a Cosmic 'Mouth' Swallowing Stars'",
+    "hook": "A 1998 NASA report describes an invisible mouth-like structure that consumes stars whole—no black hole detected.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 58,
+    "estimated_short_retention": 83,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "NASA",
+      "cosmic mouth",
+      "stars",
+      "1998",
+      "classified"
+    ],
+    "overlap_check_hash": "a190391ffb7a3662",
+    "why_this_can_go_viral": "A cosmic predator that isn't a black hole is terrifyingly original."
+  },
+  {
+    "unique_id": "cosmic_0077_018_f871a0a2281005c5",
+    "title": "The Strange Cosmic Signal That 'Sent' Us a Blueprint for a Weapon",
+    "hook": "A signal from 2018 contained schematics for a device that could collapse a star—scientists burned the printout.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 90,
+    "educational_value": 55,
+    "estimated_short_retention": 89,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "signal",
+      "blueprint",
+      "weapon",
+      "star collapse",
+      "2018"
+    ],
+    "overlap_check_hash": "f871a0a2281005c5",
+    "why_this_can_go_viral": "Alien weapon design received on Earth is pure dark sci-fi thriller."
+  },
+  {
+    "unique_id": "cosmic_0077_019_538cd8924cfde5fb",
+    "title": "The Rogue Planet That 'Steals' Heat From Nearby Stars",
+    "hook": "A planet 20 light-years away siphons energy from its parent star through an invisible tether—star is cooling fast.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 72,
+    "educational_value": 63,
+    "estimated_short_retention": 76,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "rogue planet",
+      "steals heat",
+      "star cooling",
+      "tether",
+      "energy"
+    ],
+    "overlap_check_hash": "538cd8924cfde5fb",
+    "why_this_can_go_viral": "A vampire planet is instantly memorable and spooky."
+  },
+  {
+    "unique_id": "cosmic_0077_020_921692ac30a749cb",
+    "title": "The Dark Matter 'Fog' That Is Poisoning Our Galaxy's Core",
+    "hook": "A dense fog of dark matter is slowly corrupting the Milky Way's center—stars there are dying faster than expected.",
+    "virality_score": 75,
+    "curiosity_gap_score": 78,
+    "darkness_score": 77,
+    "educational_value": 66,
+    "estimated_short_retention": 72,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter fog",
+      "Milky Way",
+      "core",
+      "stars dying",
+      "poison"
+    ],
+    "overlap_check_hash": "921692ac30a749cb",
+    "why_this_can_go_viral": "The galaxy itself being poisoned feels like a slow apocalypse."
+  },
+  {
+    "unique_id": "cosmic_0077_021_55927e2261001f59",
+    "title": "The Fermi Paradox Answer: 'Aliens Are Asleep—and We Just Woke Them Up'",
+    "hook": "A new theory suggests advanced civilizations hibernate for billions of years—and our radio signals are an alarm clock.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "Fermi paradox",
+      "aliens asleep",
+      "hibernate",
+      "radio signals",
+      "alarm"
+    ],
+    "overlap_check_hash": "55927e2261001f59",
+    "why_this_can_go_viral": "We might have just annoyed a sleeping giant—tension is high."
+  },
+  {
+    "unique_id": "cosmic_0077_022_e87cb8d6d5ac5cac",
+    "title": "The Stellar Danger: A 'Rapidly Cooling' Star That Could Go Hypernova Tonight",
+    "hook": "Betelgeuse is dimming so fast astronomers say it could explode any moment—with enough energy to sterilize half the galaxy.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "Betelgeuse",
+      "hypernova",
+      "cooling",
+      "explosion",
+      "sterilize"
+    ],
+    "overlap_check_hash": "e87cb8d6d5ac5cac",
+    "why_this_can_go_viral": "Imminent star explosion with galaxy-wide consequences is urgent fear."
+  },
+  {
+    "unique_id": "cosmic_0077_023_a3c21f442c363f59",
+    "title": "The Classified ESA File: 'We Found a Cosmic 'Key' in Mars' Orbit'",
+    "hook": "The ESA discovered a metallic key-shaped object orbiting Mars in 2016—then the data was erased.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 52,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "ESA",
+      "key",
+      "Mars orbit",
+      "2016",
+      "erased"
+    ],
+    "overlap_check_hash": "a3c21f442c363f59",
+    "why_this_can_go_viral": "A key in space implies a lock—mystery and conspiracy combine."
+  },
+  {
+    "unique_id": "cosmic_0077_024_433638ec7caf4b2a",
+    "title": "The Strange Cosmic Signal That 'Echoed' From the Future",
+    "hook": "A radio burst in 2020 was detected again in 2021—but the second signal arrived before the first was sent.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 84,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "radio burst",
+      "time reversal",
+      "2020",
+      "echo",
+      "future"
+    ],
+    "overlap_check_hash": "433638ec7caf4b2a",
+    "why_this_can_go_viral": "A signal from the future breaks causality—blows minds instantly."
+  },
+  {
+    "unique_id": "cosmic_0077_025_8808feaf3fe50dd2",
+    "title": "The Extinction Event That 'Shattered' Earth's Magnetic Field for a Year",
+    "hook": "42,000 years ago, a cosmic ray burst broke Earth's magnetic shield—the sky turned red and life was exposed to the void.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 81,
+    "educational_value": 73,
+    "estimated_short_retention": 79,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "magnetic field",
+      "42,000 years",
+      "cosmic ray",
+      "sky red",
+      "exposure"
+    ],
+    "overlap_check_hash": "8808feaf3fe50dd2",
+    "why_this_can_go_viral": "A year without magnetic protection is a horror scenario for all life."
+  }
+]

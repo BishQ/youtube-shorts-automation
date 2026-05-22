@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "science_0109_001_eceaf24d202e4445",
+    "title": "The Scientist Who Froze Himself to Death to Prove a Point",
+    "hook": "In 1974, a cryonics researcher injected himself with a cryoprotectant, then died—allegedly to prove his method worked. But his body was never truly frozen.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "cryonics",
+      "suicide experiment",
+      "frozen body",
+      "cryoprotectant",
+      "death fraud"
+    ],
+    "overlap_check_hash": "eceaf24d202e4445",
+    "why_this_can_go_viral": "Mixes taboo (self-experiment to death) with a dark, unresolved mystery—perfect for morbid curiosity loops."
+  },
+  {
+    "unique_id": "science_0109_002_715f90002cdff914",
+    "title": "The Lab Catastrophe Where a Scientist's Hand Was Dissolved by Acid",
+    "hook": "In 2018, a chemist accidentally spilled a few drops of a common solvent on her glove. Within 30 seconds, the glove melted and the acid began dissolving her hand from the inside.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "chemical burn",
+      "hydrofluoric acid",
+      "lab accident",
+      "dissolved hand",
+      "glove failure"
+    ],
+    "overlap_check_hash": "715f90002cdff914",
+    "why_this_can_go_viral": "Visceral, graphic, and shocking—viewers stay to see the horrifying result."
+  },
+  {
+    "unique_id": "science_0109_003_726a4f529e4cfd2c",
+    "title": "The Biolab That Bred a Parasite That Makes Humans Attracted to Cats",
+    "hook": "Toxoplasma gondii infects half the world's population, but scientists discovered a strain that rewires human attraction—making you literally drawn to feline urine.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "toxoplasma",
+      "mind control",
+      "parasite attraction",
+      "cat urine",
+      "behavioral manipulation"
+    ],
+    "overlap_check_hash": "726a4f529e4cfd2c",
+    "why_this_can_go_viral": "Extremely relatable (cat owners) combined with body horror and mind-control implications."
+  },
+  {
+    "unique_id": "science_0109_004_ad6384ed08194d9b",
+    "title": "The Physics Anomaly Where a Particle Traveled Backward in Time",
+    "hook": "In 2022, researchers at a quantum lab observed a particle 'undo' its own decay—essentially moving backward in time by 27 nanoseconds.",
+    "virality_score": 85,
+    "curiosity_gap_score": 93,
+    "darkness_score": 65,
+    "educational_value": 80,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time reversal",
+      "quantum decay",
+      "backward time",
+      "particle anomaly",
+      "Causality violation"
+    ],
+    "overlap_check_hash": "ad6384ed08194d9b",
+    "why_this_can_go_viral": "Time travel is universally fascinating; the claim it was observed in a lab triggers intense curiosity."
+  },
+  {
+    "unique_id": "science_0109_005_bac4d2ce9c3f8297",
+    "title": "The Scientific Fraud Who Fabricated a 'Gay Gene'—Ruining Lives",
+    "hook": "A disgraced biologist published a study claiming a specific DNA sequence predicted homosexuality. It was fake, but multiple countries used it to justify conversion therapy.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 95,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "gay gene",
+      "fraudulent study",
+      "conversion therapy",
+      "genetic hoax",
+      "pseudoscience"
+    ],
+    "overlap_check_hash": "bac4d2ce9c3f8297",
+    "why_this_can_go_viral": "Touches on a polarizing social issue with a dark, real-world consequence—rage and shock drive shares."
+  },
+  {
+    "unique_id": "science_0109_006_918d1935a3ab4dad",
+    "title": "The Chemist Who Made a Polymer That Absorbs Oxygen—Suffocating Anyone Nearby",
+    "hook": "A postdoc synthesized a plastic that greedily consumed oxygen from the air. Within minutes, the room became unbreathable—he barely escaped with his life.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 68,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "oxygen absorbing polymer",
+      "suffocation risk",
+      "lab accident",
+      "chemical asphyxiation",
+      "synthetic disaster"
+    ],
+    "overlap_check_hash": "918d1935a3ab4dad",
+    "why_this_can_go_viral": "Combines a classic horror trope (invisible deadly threat) with a true story—high visceral impact."
+  },
+  {
+    "unique_id": "science_0109_007_2ec4a7542d02c918",
+    "title": "The Neuroscientist Who Made People Hallucinate Demons by Zapping Their Temple",
+    "hook": "Michael Persinger used a modified helmet to stimulate the temporal lobes—test subjects reported feeling a 'dark presence' behind them, sometimes a demonic figure.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "demon helmet",
+      "temporal lobe stimulation",
+      "hallucinated presence",
+      "Persinger",
+      "God helmet"
+    ],
+    "overlap_check_hash": "2ec4a7542d02c918",
+    "why_this_can_go_viral": "Supernatural demon encounters explained by science—creates a disturbing cognitive dissonance."
+  },
+  {
+    "unique_id": "science_0109_010_ceabe21de4d0adfe",
+    "title": "The Lab Catastrophe Where a Gamma Ray Burst Zapped a Researcher's Brain",
+    "hook": "A physicist leaned into a particle accelerator's beam path—a gamma ray burst hit his left hemisphere. He survived, but could no longer form new memories.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "particle accelerator accident",
+      "gamma ray exposure",
+      "memory loss",
+      "brain damage",
+      "radiation"
+    ],
+    "overlap_check_hash": "ceabe21de4d0adfe",
+    "why_this_can_go_viral": "Makes a complex physics lab feel like a horror movie—shock value plus memory loss is relatable."
+  },
+  {
+    "unique_id": "science_0109_011_6b577c518f8f4aff",
+    "title": "The Biolab That Engineered a Bacteria That Eats Your Bones From Inside",
+    "hook": "A synthetic biology team accidentally created a strain of E. coli that secretes an enzyme dissolving hydroxyapatite—the mineral in human bones.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 68,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "bone-eating bacteria",
+      "synthetic biology accident",
+      "E. coli",
+      "hydroxyapatite",
+      "biohorror"
+    ],
+    "overlap_check_hash": "6b577c518f8f4aff",
+    "why_this_can_go_viral": "Body horror meets synthetic biology—the idea of your skeleton dissolving is viscerally terrifying."
+  },
+  {
+    "unique_id": "science_0109_012_3b6a1ab569834c8c",
+    "title": "The Physics Anomaly Where a Lighter Object Fell Faster Than a Heavier One",
+    "hook": "In a vacuum, all objects fall at the same rate—except when they don't. In 2019, physicists found a scenario where a lighter particle fell measurably faster, breaking 400 years of physics.",
+    "virality_score": 80,
+    "curiosity_gap_score": 89,
+    "darkness_score": 55,
+    "educational_value": 82,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "gravity anomaly",
+      "falling faster",
+      "Galileo overturned",
+      "quantum gravity",
+      "mass discrepancy"
+    ],
+    "overlap_check_hash": "3b6a1ab569834c8c",
+    "why_this_can_go_viral": "Challenges a fundamental law—viewers feel their worldview shaken, which drives engagement."
+  },
+  {
+    "unique_id": "science_0109_013_256f8896969abf91",
+    "title": "The Scientific Fraud Who Fooled the World With a 'Trepanation' Cure for Depression",
+    "hook": "A psychologist convinced thousands that drilling a hole in the skull released 'brain pressure' curing depression. He had no data—but 20,000 people went under the drill.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "trepanation",
+      "brain drilling",
+      "depression cure",
+      "fraud",
+      "pseudoscience"
+    ],
+    "overlap_check_hash": "256f8896969abf91",
+    "why_this_can_go_viral": "Shocking, medical horror with an anti-hero angle—people are fascinated by dangerous self-experimentation."
+  },
+  {
+    "unique_id": "science_0109_014_8e51b37c1e06ab41",
+    "title": "The Chemist Who Mixed Bleach and Ammonia and Created a Weaponized Cloud",
+    "hook": "A high school janitor mixed bleach and ammonia to clean floors. The resulting chloramine gas cloud killed two students and injured 30—but the chemist had warned him.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 89,
+    "educational_value": 75,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "bleach ammonia",
+      "chloramine gas",
+      "toxic cloud",
+      "janitor accident",
+      "chemical weapon"
+    ],
+    "overlap_check_hash": "8e51b37c1e06ab41",
+    "why_this_can_go_viral": "Common household chemicals turned deadly—creates a 'this could happen to me' fear, highly shareable."
+  },
+  {
+    "unique_id": "science_0109_015_461a213e0101f7db",
+    "title": "The Neuroscientist Who Found the 'Death Signal' Neuron—Then Killed It",
+    "hook": "Dr. Josef Parvizi discovered a single neuron in the anterior cingulate that, when stimulated, triggered an overwhelming feeling of imminent death. He then surgically destroyed it.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 93,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "death signal",
+      "anterior cingulate",
+      "neuron stimulation",
+      "fear of death",
+      "brain surgery"
+    ],
+    "overlap_check_hash": "461a213e0101f7db",
+    "why_this_can_go_viral": "Extreme curiosity gap—a 'death neuron' sounds sci-fi but is real; the destruction of it feels like a forbidden act."
+  },
+  {
+    "unique_id": "science_0109_017_45f4e50a80a0e2b0",
+    "title": "The Forbidden Experiment That Transplanted a Dog's Head Onto Another Body",
+    "hook": "In 1959, Soviet surgeon Vladimir Demikhov grafted a puppy's head and front legs onto a full-grown dog. Both heads ate, drank, and barked—for 29 days.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 94,
+    "educational_value": 68,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "head transplant",
+      "Demikhov",
+      "two-headed dog",
+      "Soviet experiment",
+      "animal cruelty"
+    ],
+    "overlap_check_hash": "45f4e50a80a0e2b0",
+    "why_this_can_go_viral": "Gothic horror imagery with real photos—ethical outrage and morbid fascination guarantee high engagement."
+  },
+  {
+    "unique_id": "science_0109_018_bb018d382047f808",
+    "title": "The Biolab That Bred a Fungus That Makes Ants Explode—Then Targeted Humans",
+    "hook": "Ophiocordyceps fungus forces ants to climb plants and burst, releasing spores. In 2024, researchers found a strain that could infect human immune cells in lab dishes.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "zombie ant fungus",
+      "Ophiocordyceps",
+      "human infection",
+      "spore burst",
+      "pathogen jump"
+    ],
+    "overlap_check_hash": "bb018d382047f808",
+    "why_this_can_go_viral": "Taps into pandemic fears and 'The Last of Us' pop culture—visceral and terrifying."
+  },
+  {
+    "unique_id": "science_0109_019_7883d37cd48b4bea",
+    "title": "The Physics Anomaly Where a Laser Beam Bounced Off Nothing",
+    "hook": "In a vacuum chamber, researchers fired a laser at empty space—and light reflected back. The vacuum itself had become a mirror, a quantum effect predicted to be impossible.",
+    "virality_score": 81,
+    "curiosity_gap_score": 90,
+    "darkness_score": 58,
+    "educational_value": 79,
+    "estimated_short_retention": 74,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "vacuum mirror",
+      "quantum reflection",
+      "laser anomaly",
+      "empty space",
+      "photon bounce"
+    ],
+    "overlap_check_hash": "7883d37cd48b4bea",
+    "why_this_can_go_viral": "The idea that 'nothing' can reflect light is conceptually stunning—high curiosity gap."
+  },
+  {
+    "unique_id": "science_0109_020_ade3b3783e5796a2",
+    "title": "The Scientific Fraud Who Convinced Paris That Water Was a Living Creature",
+    "hook": "In 1784, a French scientist claimed water had 'memory' and 'emotions'—his experiments were debunked, but the myth of 'water memory' persists in alternative medicine today.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 78,
+    "estimated_short_retention": 73,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "water memory",
+      "homeopathy",
+      "18th century fraud",
+      "false science",
+      "Benveniste"
+    ],
+    "overlap_check_hash": "ade3b3783e5796a2",
+    "why_this_can_go_viral": "Exposes a still-believed pseudoscience—viewers love feeling 'in the know' about widespread fraud."
+  },
+  {
+    "unique_id": "science_0109_021_9e0206c554db22a4",
+    "title": "The Lab Catastrophe Where a Scientist's Own Blood Became an Explosive",
+    "hook": "A chemist working with nitroglycerin developed a tolerance—his blood absorbed the chemical. When he cut his finger, the blood droplet detonated on the lab floor.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 96,
+    "educational_value": 66,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "explosive blood",
+      "nitroglycerin",
+      "chemist accident",
+      "blood detonation",
+      "biochemical hazard"
+    ],
+    "overlap_check_hash": "9e0206c554db22a4",
+    "why_this_can_go_viral": "Extremely rare, visually vivid, and sounds like a comic book—but it's real. Perfect for shock and share."
+  },
+  {
+    "unique_id": "science_0109_024_de9f6d05c813c64c",
+    "title": "The Forbidden Experiment That Made a Human Embryo Grow for 14 Days—Then a Heartbeat",
+    "hook": "In 2016, scientists grew human embryos to day 14, the legal limit. But in 2023, a lab pushed to day 18—and a primitive heartbeat started to pulse in a petri dish.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 87,
+    "educational_value": 72,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "embryo growing",
+      "day 14 rule",
+      "heartbeat in dish",
+      "ethical boundary",
+      "synthetic life"
+    ],
+    "overlap_check_hash": "de9f6d05c813c64c",
+    "why_this_can_go_viral": "Life-or-death ethical dilemma with literal heartbeat footage—pro-life vs. science debate fuel."
+  }
+]

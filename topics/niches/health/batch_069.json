@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "health_0069_003_3556db5301d3f415",
+    "title": "The Doctor Who Faked 500 Cancer Remissions—for a Book Deal",
+    "hook": "He claimed a secret diet cured his patients, but it was all lies written in a bestselling memoir.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "fake remission",
+      "cancer cure",
+      "book deal",
+      "doctor",
+      "fraud"
+    ],
+    "overlap_check_hash": "3556db5301d3f415",
+    "why_this_can_go_viral": "Mixes hope, betrayal, and greed—a classic medical scam story that triggers anger and fascination."
+  },
+  {
+    "unique_id": "health_0069_006_0056314132ca3671",
+    "title": "The Disease Cover-Up: How Fluorescent Lights Caused 20% of Migraines",
+    "hook": "Office lighting was never tested for chronic effects—until workers started collapsing with blinding headaches.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 76,
+    "educational_value": 82,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "fluorescent lights",
+      "migraines",
+      "cover-up",
+      "office",
+      "health hazard"
+    ],
+    "overlap_check_hash": "0056314132ca3671",
+    "why_this_can_go_viral": "Relatable to millions who suffer from headaches—blaming a common object sparks shareability."
+  },
+  {
+    "unique_id": "health_0069_008_f56d26fc49f60c48",
+    "title": "The Pharmaceutical Giant That Sold a Diabetes Drug Causing Blindness",
+    "hook": "Approved despite warnings, this medication slowly destroyed retinas—and profits went to the top.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 89,
+    "educational_value": 84,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "diabetes",
+      "blindness",
+      "drug",
+      "pharma",
+      "corruption"
+    ],
+    "overlap_check_hash": "f56d26fc49f60c48",
+    "why_this_can_go_viral": "A common disease drug causing a devastating side effect—personal stakes for millions."
+  },
+  {
+    "unique_id": "health_0069_011_6a48a4a62e9be20a",
+    "title": "The Disease Cover-Up: How Office Chairs Caused 30% of Sciatica",
+    "hook": "A hidden foam chemical in ergonomic chairs triggered nerve damage—and manufacturers hid the studies.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 72,
+    "educational_value": 85,
+    "estimated_short_retention": 77,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "office chair",
+      "sciatica",
+      "toxic foam",
+      "cover-up",
+      "nerve damage"
+    ],
+    "overlap_check_hash": "6a48a4a62e9be20a",
+    "why_this_can_go_viral": "Relatable pain source—office workers will share and investigate their own chairs."
+  },
+  {
+    "unique_id": "health_0069_012_9e216a23d735541e",
+    "title": "The Doctor Who Implanted Trackers in 100 Patients Without Consent",
+    "hook": "He said it was for 'medical research'—but the microchips were linked to a private surveillance network.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 75,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "microchip",
+      "tracker",
+      "implant",
+      "doctor",
+      "surveillance"
+    ],
+    "overlap_check_hash": "9e216a23d735541e",
+    "why_this_can_go_viral": "Combines medical betrayal with surveillance paranoia—conspiracy and horror in one story."
+  },
+  {
+    "unique_id": "health_0069_013_c3054955577622e0",
+    "title": "The Suppressed Cure: $3 Apple Cider Vinegar Dissolved 80% of Gallstones",
+    "hook": "A simple pantry ingredient outperformed surgery in clinical trials—but no hospital recommends it.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 86,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "apple cider vinegar",
+      "gallstones",
+      "suppressed",
+      "natural cure",
+      "cheap"
+    ],
+    "overlap_check_hash": "c3054955577622e0",
+    "why_this_can_go_viral": "DIY health enthusiasts love low-cost solutions—challenges the medical establishment."
+  },
+  {
+    "unique_id": "health_0069_014_ea4023659d2f8a15",
+    "title": "The FDA-Approved Allergy Shot That Caused Anaphylaxis in 1 in 50 Users",
+    "hook": "Approved to stop allergies, it triggered deadly reactions in thousands—including children.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 87,
+    "educational_value": 82,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "allergy shot",
+      "anaphylaxis",
+      "FDA",
+      "drug danger",
+      "children"
+    ],
+    "overlap_check_hash": "ea4023659d2f8a15",
+    "why_this_can_go_viral": "Irony of a cure causing the disease—shocking and personal for allergy sufferers."
+  },
+  {
+    "unique_id": "health_0069_015_a5755e6293d3286f",
+    "title": "The Experiment That Gave 200 Orphans Electric Shocks for 'Learning'",
+    "hook": "A famous psychologist zapped children to see if fear improved memory—the results were buried for 50 years.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "electric shock",
+      "orphans",
+      "psychology experiment",
+      "children",
+      "buried results"
+    ],
+    "overlap_check_hash": "a5755e6293d3286f",
+    "why_this_can_go_viral": "Extreme cruelty toward vulnerable children—emotionally explosive and shareable."
+  },
+  {
+    "unique_id": "health_0069_016_4c00041c5241f778",
+    "title": "The Pharmaceutical CEO Who Sold a Pill That Caused Suicidal Thoughts in Teens",
+    "hook": "He knew the clinical data showed a 300% suicide risk—but launched it anyway to hit quarterly targets.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "CEO",
+      "suicide",
+      "teens",
+      "pill",
+      "corruption"
+    ],
+    "overlap_check_hash": "4c00041c5241f778",
+    "why_this_can_go_viral": "Corporate greed causing teen deaths—strong moral outrage and parent sharing."
+  },
+  {
+    "unique_id": "health_0069_018_43bf907b960ff0a5",
+    "title": "The Toxic Candle That Gave 1 in 5 Homes Chronic Lung Inflammation",
+    "hook": "Labeled 'natural and relaxing', these candles released a chemical that scarred lung tissue over time.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 82,
+    "educational_value": 83,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "candle",
+      "lung inflammation",
+      "toxic",
+      "home",
+      "chemical"
+    ],
+    "overlap_check_hash": "43bf907b960ff0a5",
+    "why_this_can_go_viral": "A cozy household item causing harm—high relatability and sharing among home decor lovers."
+  },
+  {
+    "unique_id": "health_0069_019_4f3a41d230353f92",
+    "title": "The Disease Cover-Up: How Toothpaste Caused 25% of Thyroid Disorders",
+    "hook": "A common whitening agent in toothpaste was found to block iodine absorption—and manufacturers knew.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 87,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "toothpaste",
+      "thyroid",
+      "cover-up",
+      "whitening",
+      "iodine"
+    ],
+    "overlap_check_hash": "4f3a41d230353f92",
+    "why_this_can_go_viral": "Everyday product with hidden danger—high potential for mass sharing and skepticism."
+  },
+  {
+    "unique_id": "health_0069_020_28fb8ec74a14a8c6",
+    "title": "The Doctor Who Told 500 Healthy Women They Had HPV—To Sell a Vaccine",
+    "hook": "He ran a private clinic that manufactured positive test results, then pushed a costly treatment no one needed.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "HPV",
+      "false diagnosis",
+      "vaccine scam",
+      "doctor fraud",
+      "women"
+    ],
+    "overlap_check_hash": "28fb8ec74a14a8c6",
+    "why_this_can_go_viral": "Exploits fear of cancer for profit—angers women and raises questions about medical testing."
+  },
+  {
+    "unique_id": "health_0069_021_a6af0bc7d4c514ef",
+    "title": "The Suppressed Cure: $5 Magnesium Spray Eliminated 70% of Muscle Cramps in Athletes",
+    "hook": "Sports medicine journals published the study—then pull quotes were removed after supplement companies complained.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 74,
+    "educational_value": 84,
+    "estimated_short_retention": 77,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "magnesium",
+      "muscle cramps",
+      "athlete",
+      "suppressed",
+      "study"
+    ],
+    "overlap_check_hash": "a6af0bc7d4c514ef",
+    "why_this_can_go_viral": "Athletes and fitness buffs will share—challenges expensive sports drink industry."
+  },
+  {
+    "unique_id": "health_0069_022_a2b3760e796916e3",
+    "title": "The FDA-Approved Antidepressant That Caused Permanent Tinnitus in 100,000 Users",
+    "hook": "Approved for depression, it left a generation with a constant ringing in their ears—and it never stops.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "antidepressant",
+      "tinnitus",
+      "FDA",
+      "permanent",
+      "ringing ears"
+    ],
+    "overlap_check_hash": "a2b3760e796916e3",
+    "why_this_can_go_viral": "A silent epidemic many suffer from—emotional resonance and medical distrust."
+  },
+  {
+    "unique_id": "health_0069_023_a9d02c1603aad785",
+    "title": "The Experiment That Gave 300 Pregnant Women Placebo Vitamins—Causing Birth Defects",
+    "hook": "A study on prenatal nutrition withheld real supplements from a control group—resulting in preventable tragedies.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "pregnant",
+      "placebo",
+      "vitamins",
+      "birth defects",
+      "experiment"
+    ],
+    "overlap_check_hash": "a9d02c1603aad785",
+    "why_this_can_go_viral": "Mothers and parents will react with visceral horror—high shareability and outrage."
+  },
+  {
+    "unique_id": "health_0069_024_169de288c4cfa9ed",
+    "title": "The Pharmaceutical Giant That Hid a Heart Attack Epidemic from Their Weight Loss Drug",
+    "hook": "Internal memos showed 1,000+ cardiac events—but the company buried them for 5 years to protect billions.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 93,
+    "educational_value": 85,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "weight loss",
+      "heart attack",
+      "hidden",
+      "pharma",
+      "billions"
+    ],
+    "overlap_check_hash": "169de288c4cfa9ed",
+    "why_this_can_go_viral": "Weight loss drugs are hugely popular—the betrayal feels personal to millions on diet meds."
+  },
+  {
+    "unique_id": "health_0069_025_51ed5a99592c2da8",
+    "title": "The Hospital That Conducted 'Charity Surgeries' to Practice on Poor Patients",
+    "hook": "Free operations were advertised to the needy—but they were actually training exercises for inexperienced surgeons.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 76,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "charity surgery",
+      "practice",
+      "poor patients",
+      "hospital",
+      "exploitation"
+    ],
+    "overlap_check_hash": "51ed5a99592c2da8",
+    "why_this_can_go_viral": "Exploits the vulnerable under a guise of goodwill—triggers deep moral outrage."
+  }
+]

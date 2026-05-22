@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "business_0155_001_056bd8c3a7cb6b26",
+    "title": "The CEO Who Bought a Debt Collector—Then Used It to Blackmail His Own Employees",
+    "hook": "He owned their mortgages, their car loans, and their silence.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "debt slavery",
+      "employee blackmail",
+      "CEO abuse",
+      "corporate control",
+      "financial trap"
+    ],
+    "overlap_check_hash": "056bd8c3a7cb6b26",
+    "why_this_can_go_viral": "Combines relatable fear of debt with a shocking abuse of power, triggering outrage and shareability."
+  },
+  {
+    "unique_id": "business_0155_002_f96e80ace2903c42",
+    "title": "The Trader Who Used Airport Body Scanners to Predict Tourism Stocks",
+    "hook": "Every passenger was a data point for his illegal profit machine.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "insider trading",
+      "airport data",
+      "tourism stocks",
+      "surveillance loophole",
+      "market fraud"
+    ],
+    "overlap_check_hash": "f96e80ace2903c42",
+    "why_this_can_go_viral": "Reveals a creepy, real-world data exploitation that feels like a spy thriller."
+  },
+  {
+    "unique_id": "business_0155_003_b320248e8513ca89",
+    "title": "The Startup That Sold 'Blood Testing' Kits—They Were Just Glucose Meters with Stolen Branding",
+    "hook": "Investors thought they were funding a revolution; they funded a repackaging scam.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "Theranos copycat",
+      "biotech scam",
+      "fake innovation",
+      "investor deception",
+      "medical fraud"
+    ],
+    "overlap_check_hash": "b320248e8513ca89",
+    "why_this_can_go_viral": "Theranos-level fraud is evergreen; this specific angle feels freshly exposed."
+  },
+  {
+    "unique_id": "business_0155_004_47915a2681d9218a",
+    "title": "The Monopoly That Bought Every Toy Factory—Then Built Toys That Broke Before Christmas",
+    "hook": "They engineered joy to end on December 26th, so you'd buy again.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 95,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "planned obsolescence",
+      "toy industry",
+      "child exploitation",
+      "monopoly power",
+      "consumer trap"
+    ],
+    "overlap_check_hash": "47915a2681d9218a",
+    "why_this_can_go_viral": "Emotionally charged—parents will rage-share about manipulative holiday commercialization."
+  },
+  {
+    "unique_id": "business_0155_006_fb0b3db413b6ec70",
+    "title": "The Dark Marketing Firm That Used Church Parking Lot License Plates to Prey on Grief",
+    "hook": "They targeted the bereaved before they even left the funeral.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 72,
+    "estimated_short_retention": 92,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "grief marketing",
+      "predatory advertising",
+      "church surveillance",
+      "data mining",
+      "ethical violation"
+    ],
+    "overlap_check_hash": "fb0b3db413b6ec70",
+    "why_this_can_go_viral": "Extreme emotional violation—viewers will feel disgust and share to warn others."
+  },
+  {
+    "unique_id": "business_0155_009_24a1cba13f698c79",
+    "title": "The CEO Who Bought a Car Dealership—Then Rigged Airbags to Explode on Test Drives",
+    "hook": "He engineered crashes to sell replacement cars at full price.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 74,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "car dealership scam",
+      "airbag sabotage",
+      "deadly fraud",
+      "CEO psychopath",
+      "consumer death trap"
+    ],
+    "overlap_check_hash": "24a1cba13f698c79",
+    "why_this_can_go_viral": "Shock value is off the charts—moral outrage + near-fantasy villain feels like a movie."
+  },
+  {
+    "unique_id": "business_0155_010_128dde19564b753c",
+    "title": "The Hedge Fund That Used Radioactive Waste Sensors to Predict Factory Shutdowns",
+    "hook": "They bet on disaster by reading the invisible poison in the air.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "hedge fund spying",
+      "radioactive data",
+      "industrial espionage",
+      "betting on disaster",
+      "environmental crime"
+    ],
+    "overlap_check_hash": "128dde19564b753c",
+    "why_this_can_go_viral": "Combines sci-fi tech with Wall Street greed—high curiosity and dark awe."
+  },
+  {
+    "unique_id": "business_0155_011_e7fd0c8249cd2447",
+    "title": "The Startup That Sold 'Solar Power' Backpacks—They Were Just Bags with Fake Panels",
+    "hook": "Kids carried dead weight, and the 'green' company carried their cash to the bank.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 76,
+    "educational_value": 73,
+    "estimated_short_retention": 81,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "fake solar",
+      "greenwashing scam",
+      "backpack fraud",
+      "student exploitation",
+      "environmental lie"
+    ],
+    "overlap_check_hash": "e7fd0c8249cd2447",
+    "why_this_can_go_viral": "Angers eco-conscious viewers and parents—high shareability in sustainability groups."
+  },
+  {
+    "unique_id": "business_0155_012_3ef5de0696059eae",
+    "title": "The Monopoly That Bought Every Shoe Brand—Then Made Soles Disintegrate in 3 Months",
+    "hook": "You thought you bought quality; they designed your shoes to self-destruct.",
+    "virality_score": 83,
+    "curiosity_gap_score": 85,
+    "darkness_score": 80,
+    "educational_value": 77,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "planned obsolescence shoes",
+      "monopoly abuse",
+      "footwear scam",
+      "consumer fraud",
+      "design failure"
+    ],
+    "overlap_check_hash": "3ef5de0696059eae",
+    "why_this_can_go_viral": "Relatable frustration—everyone has had shoes fall apart; this explains the conspiracy."
+  },
+  {
+    "unique_id": "business_0155_013_ca573371e37b9a08",
+    "title": "The Corporate Spy Who Posed as a Therapist—Then Extracted Rival CEOs' Weaknesses",
+    "hook": "He charged $500 an hour for the privilege of ruining his patients' companies.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 71,
+    "estimated_short_retention": 91,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "therapy spy",
+      "CEO manipulation",
+      "industrial espionage",
+      "trust betrayal",
+      "psychological warfare"
+    ],
+    "overlap_check_hash": "ca573371e37b9a08",
+    "why_this_can_go_viral": "Violates deepest trust—therapist as spy is emotionally devastating and endlessly shareable."
+  },
+  {
+    "unique_id": "business_0155_014_12b3ff146d66a6fa",
+    "title": "The Dark Marketing Firm That Used Car Breakdown Hotlines to Sell Predatory Loans",
+    "hook": "Stranded on the highway? They offered help—with 400% interest.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "predatory lending",
+      "desperation marketing",
+      "car breakdown scam",
+      "loan shark",
+      "vulnerability targeting"
+    ],
+    "overlap_check_hash": "12b3ff146d66a6fa",
+    "why_this_can_go_viral": "Relatable fear of being stranded + anger at exploitation = viral moral outrage."
+  },
+  {
+    "unique_id": "business_0155_016_254e90aff43d0e48",
+    "title": "The Industry Cover-Up of 'Recyclable' Coffee Pods—They Were Designed to Jam Sorting Machines",
+    "hook": "Green marketing made you feel good; the engineering made sure it went to landfill.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 83,
+    "educational_value": 86,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "coffee pod fraud",
+      "recycling lie",
+      "greenwashing",
+      "landfill conspiracy",
+      "environmental scam"
+    ],
+    "overlap_check_hash": "254e90aff43d0e48",
+    "why_this_can_go_viral": "Eco-conscious audiences will rage-share; deepens distrust in major brands."
+  },
+  {
+    "unique_id": "business_0155_017_0cb8504937e4b23d",
+    "title": "The CEO Who Bought a TV Station—Then Faked the Weather to Sell Umbrellas",
+    "hook": "He created storms on screen, then sold you the shelter from them.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 89,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "weather manipulation",
+      "fake forecast",
+      "media fraud",
+      "consumer manipulation",
+      "CEO crime"
+    ],
+    "overlap_check_hash": "0cb8504937e4b23d",
+    "why_this_can_go_viral": "Blows the mind—a single man controlling weather and commerce feels like supervillain origin."
+  },
+  {
+    "unique_id": "business_0155_018_c81c849358a3deea",
+    "title": "The Trader Who Used School Bus GPS to Predict Back-to-School Retail Sales",
+    "hook": "He tracked children's commutes to calculate what parents would buy.",
+    "virality_score": 77,
+    "curiosity_gap_score": 82,
+    "darkness_score": 78,
+    "educational_value": 76,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "GPS trading",
+      "retail prediction",
+      "children surveillance",
+      "market insider",
+      "data exploitation"
+    ],
+    "overlap_check_hash": "c81c849358a3deea",
+    "why_this_can_go_viral": "Subtle creepiness—using kids as stock indicators feels wrong and fascinating."
+  },
+  {
+    "unique_id": "business_0155_019_73e11e14dc9494fa",
+    "title": "The Startup That Sold 'Telepathy' Headbands—They Were Just Random Voltage Readers",
+    "hook": "Your thoughts weren't read; your muscles twitched, and they lied about the rest.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 77,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "telepathy scam",
+      "brain-reading fraud",
+      "fake neurotech",
+      "startup lie",
+      "investor deception"
+    ],
+    "overlap_check_hash": "73e11e14dc9494fa",
+    "why_this_can_go_viral": "Sci-fi promise meets cold scam—tech enthusiasts will debunk and share."
+  },
+  {
+    "unique_id": "business_0155_020_6f7b408203122f09",
+    "title": "The Monopoly That Bought Every Bottled Water Brand—Then Made Plastic from Same Oil They Dumped",
+    "hook": "They poisoned the well, then sold you the cure in the same container.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 84,
+    "estimated_short_retention": 94,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "bottled water scam",
+      "plastic conspiracy",
+      "oil company monopoly",
+      "environmental crime",
+      "self-created demand"
+    ],
+    "overlap_check_hash": "6f7b408203122f09",
+    "why_this_can_go_viral": "Perfect storm of outrage—environmental damage + corporate greed + consumer trap."
+  },
+  {
+    "unique_id": "business_0155_021_e344a4c8fc698f64",
+    "title": "The Corporate Spy Who Got a Job as a Pallbearer—Then Stole Rival Funeral Home Price Lists",
+    "hook": "He carried the dead to learn how much the living were overpaying.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 93,
+    "educational_value": 69,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "funeral spy",
+      "death industry",
+      "price fixing",
+      "undercover theft",
+      "morbid espionage"
+    ],
+    "overlap_check_hash": "e344a4c8fc698f64",
+    "why_this_can_go_viral": "Morbid, macabre, and shockingly creative—viewers will be horrified and fascinated."
+  },
+  {
+    "unique_id": "business_0155_022_b36516a580643ae9",
+    "title": "The Dark Marketing Firm That Used Hospital Gift Shop Purchases to Sell Life Insurance",
+    "hook": "Buying a flower for a sick relative? They bought your data for a policy pitch.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 89,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "hospital data mining",
+      "grief insurance",
+      "gift shop spy",
+      "vulnerability targeting",
+      "privacy violation"
+    ],
+    "overlap_check_hash": "b36516a580643ae9",
+    "why_this_can_go_viral": "Emotional manipulation at a vulnerable moment—viewers will feel violated and share."
+  },
+  {
+    "unique_id": "business_0155_023_59a64cbe5c9c170b",
+    "title": "The Supply Chain Secret of Vanilla Extract—It Was Made from Wood Pulp in a Lab",
+    "hook": "That 'natural' flavor was closer to paper than a bean.",
+    "virality_score": 78,
+    "curiosity_gap_score": 80,
+    "darkness_score": 74,
+    "educational_value": 83,
+    "estimated_short_retention": 81,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "fake vanilla",
+      "wood pulp extract",
+      "flavor fraud",
+      "food chemistry lie",
+      "natural label scam"
+    ],
+    "overlap_check_hash": "59a64cbe5c9c170b",
+    "why_this_can_go_viral": "Simple, shocking revelation about a common kitchen item—easy to share and discuss."
+  },
+  {
+    "unique_id": "business_0155_024_467f75bff88e0e29",
+    "title": "The Industry Cover-Up of 'Hypoallergenic' Cosmetics—They Were Packed with Known Allergens",
+    "hook": "The label promised safety; the formula promised rashes for repeat buyers.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 81,
+    "educational_value": 79,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "cosmetics fraud",
+      "fake hypoallergenic",
+      "allergen trap",
+      "beauty industry lies",
+      "skin danger"
+    ],
+    "overlap_check_hash": "467f75bff88e0e29",
+    "why_this_can_go_viral": "Directly affects millions with sensitive skin—personal health + corporate betrayal."
+  },
+  {
+    "unique_id": "business_0155_025_4eb339577bddd41a",
+    "title": "The CEO Who Bought a Dairy Farm—Then Used Hormones to Make Cows Produce Milk That Spoiled Faster",
+    "hook": "He engineered expiration dates to expire sooner—so you'd buy more often.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 79,
+    "estimated_short_retention": 92,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "milk spoilage",
+      "planned obsolescence",
+      "dairy industry scam",
+      "hormone abuse",
+      "consumer manipulation"
+    ],
+    "overlap_check_hash": "4eb339577bddd41a",
+    "why_this_can_go_viral": "Angers grocery shoppers everywhere—milk is a universal staple; this feels like a personal betrayal."
+  }
+]

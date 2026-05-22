@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "edutainment_0054_002_4cd5143b42417197",
+    "title": "The Secret Hospital Room That Stops Time",
+    "hook": "A specialized chamber where patients experience zero sensory input — and minutes feel like hours of pure, silent terror.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "sensory deprivation",
+      "hospital",
+      "time perception",
+      "isolation",
+      "brain"
+    ],
+    "overlap_check_hash": "4cd5143b42417197",
+    "why_this_can_go_viral": "The phrase 'stops time' is irresistibly clickable, and the dark psychological effects create strong emotional engagement."
+  },
+  {
+    "unique_id": "edutainment_0054_003_147ea10cd56ac172",
+    "title": "Why a Single Tree Can Send a Signal to Kill Another",
+    "hook": "Under the forest floor, a hidden underground network allows trees to poison rivals — all triggered by one ancient root.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 65,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "edutainment",
+    "subcategory": "strange science facts",
+    "keywords": [
+      "trees",
+      "roots",
+      "chemical warfare",
+      "forest",
+      "hidden network"
+    ],
+    "overlap_check_hash": "147ea10cd56ac172",
+    "why_this_can_go_viral": "Reveals nature's hidden brutality beneath a peaceful image — creates cognitive dissonance and surprise."
+  },
+  {
+    "unique_id": "edutainment_0054_004_b5bd131cf6b7eadd",
+    "title": "The Underground Vault Where Every Human Voice Is Stored",
+    "hook": "A secret archive in a frozen mountain holds recordings of every language ever spoken — and they never stop listening.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 55,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "edutainment",
+    "subcategory": "secret mechanisms of the world",
+    "keywords": [
+      "voice",
+      "archive",
+      "language",
+      "arctic",
+      "recordings"
+    ],
+    "overlap_check_hash": "b5bd131cf6b7eadd",
+    "why_this_can_go_viral": "Taps into paranoia about surveillance and the eerie concept of eternal storage of human identity."
+  },
+  {
+    "unique_id": "edutainment_0054_005_e05959090ac43196",
+    "title": "The Forbidden Island Where Your Shadow Disappears at Noon",
+    "hook": "At a precise latitude, the sun aligns so perfectly that objects — and people — lose their shadows entirely for 30 seconds.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 35,
+    "educational_value": 90,
+    "estimated_short_retention": 82,
+    "niche_name": "edutainment",
+    "subcategory": "counterintuitive discoveries",
+    "keywords": [
+      "shadow",
+      "sun",
+      "equator",
+      "optical illusion",
+      "geography"
+    ],
+    "overlap_check_hash": "e05959090ac43196",
+    "why_this_can_go_viral": "Visually stunning and sounds supernatural — viewers will immediately want to see proof."
+  },
+  {
+    "unique_id": "edutainment_0054_006_7d16811e3179ed70",
+    "title": "The Secret Society That Measured Your Fear in Microvolts",
+    "hook": "A hidden group of scientists used skin conductivity to map human terror — and they sold the data to advertisers.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 87,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "fear",
+      "biometrics",
+      "advertising",
+      "secret society",
+      "skin conductance"
+    ],
+    "overlap_check_hash": "7d16811e3179ed70",
+    "why_this_can_go_viral": "Combines conspiracy, manipulation, and forbidden tech — viewers feel outraged and enlightened."
+  },
+  {
+    "unique_id": "edutainment_0054_007_906cf310e1102f90",
+    "title": "The Man Who Could Not Lie — Because His Brain Was Missing a Part",
+    "hook": "A rare stroke destroyed the region responsible for deception — leaving him unable to hide a single thought.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 60,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "truth",
+      "brain damage",
+      "lying",
+      "stroke",
+      "neurology"
+    ],
+    "overlap_check_hash": "906cf310e1102f90",
+    "why_this_can_go_viral": "The ultimate moral fantasy — imagining a life without lies — but with a dark, real cost."
+  },
+  {
+    "unique_id": "edutainment_0054_009_218abacb3fc26e8d",
+    "title": "The Secret Subway Tunnel Built by One Man in 10 Years",
+    "hook": "A lone construction worker spent a decade digging a mile-long tunnel beneath a city — and no one knew until his death.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 50,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "tunnel",
+      "secret",
+      "subway",
+      "obsession",
+      "hidden project"
+    ],
+    "overlap_check_hash": "218abacb3fc26e8d",
+    "why_this_can_go_viral": "Inspires awe and disbelief — the scale of one person's secret effort feels like a real-life mystery."
+  },
+  {
+    "unique_id": "edutainment_0054_010_fe74f24321a9a4c9",
+    "title": "The Hidden Chemical That Makes Your Brain Erase Bad Memories",
+    "hook": "A naturally produced molecule in your body can selectively delete traumatic events — but only under extreme stress.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 65,
+    "educational_value": 85,
+    "estimated_short_retention": 88,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "memory",
+      "chemical",
+      "brain",
+      "trauma",
+      "erasure"
+    ],
+    "overlap_check_hash": "fe74f24321a9a4c9",
+    "why_this_can_go_viral": "Universal desire to forget pain meets dark biological reality — feels like a superpower with a catch."
+  },
+  {
+    "unique_id": "edutainment_0054_011_21d48ac4a9f2b9bd",
+    "title": "Why a Single Country's Mail Never Arrives — Deliberately",
+    "hook": "A government runs a secret sorting facility that buries millions of letters in a giant pit, never to be delivered.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "mail",
+      "government",
+      "secret",
+      "pit",
+      "undelivered"
+    ],
+    "overlap_check_hash": "21d48ac4a9f2b9bd",
+    "why_this_can_go_viral": "Outrage and fascination mix — the idea of systematic mail destruction feels dystopian and real."
+  },
+  {
+    "unique_id": "edutainment_0054_013_4fe554aefe3f29b8",
+    "title": "The Secret Room Under the Ocean That Holds the World's Last Clean Air",
+    "hook": "A submerged bunker traps a sample of pre-industrial atmosphere — scientists say opening it could reset our lungs.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 60,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "edutainment",
+    "subcategory": "secret mechanisms of the world",
+    "keywords": [
+      "air",
+      "bunker",
+      "ocean",
+      "clean",
+      "atmosphere"
+    ],
+    "overlap_check_hash": "4fe554aefe3f29b8",
+    "why_this_can_go_viral": "Hope mixed with dread — the idea of pure air as a forbidden treasure resonates with climate anxiety."
+  },
+  {
+    "unique_id": "edutainment_0054_017_e2a2473f368943fc",
+    "title": "The Forbidden Lake Where Water Boils at Room Temperature",
+    "hook": "A geothermal anomaly creates a lake where the water simmers without heat — and anything submerged dissolves instantly.",
+    "virality_score": 77,
+    "curiosity_gap_score": 81,
+    "darkness_score": 60,
+    "educational_value": 80,
+    "estimated_short_retention": 80,
+    "niche_name": "edutainment",
+    "subcategory": "counterintuitive discoveries",
+    "keywords": [
+      "lake",
+      "boiling",
+      "geothermal",
+      "acid",
+      "dissolve"
+    ],
+    "overlap_check_hash": "e2a2473f368943fc",
+    "why_this_can_go_viral": "Defies basic physics as viewers know it — the visual of 'cold boiling water' is mind-bending."
+  },
+  {
+    "unique_id": "edutainment_0054_018_f50951b59953caaf",
+    "title": "The Secret Network of Mirrors That Controls Traffic Lights",
+    "hook": "A nationwide system of hidden optical sensors uses reflected sunlight to time every red light — and it was built in the 1920s.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 30,
+    "educational_value": 85,
+    "estimated_short_retention": 79,
+    "niche_name": "edutainment",
+    "subcategory": "secret mechanisms of the world",
+    "keywords": [
+      "traffic",
+      "mirrors",
+      "sensors",
+      "hidden",
+      "system"
+    ],
+    "overlap_check_hash": "f50951b59953caaf",
+    "why_this_can_go_viral": "Reveals an obsolete but brilliant technology hidden in plain sight — viewers love learning about secret infrastructure."
+  },
+  {
+    "unique_id": "edutainment_0054_020_e2e96d794316a853",
+    "title": "Why a Single Desert Has Sand That Screams When You Walk",
+    "hook": "At certain dunes, shifting sand produces a low-frequency roar so loud it can be heard miles away — and no one knows why.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 45,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "edutainment",
+    "subcategory": "strange science facts",
+    "keywords": [
+      "sand",
+      "desert",
+      "sound",
+      "screaming",
+      "dunes"
+    ],
+    "overlap_check_hash": "e2e96d794316a853",
+    "why_this_can_go_viral": "A genuinely eerie natural phenomenon with an unsolved mystery — the idea of 'screaming sand' is instantly shareable."
+  },
+  {
+    "unique_id": "edutainment_0054_022_e3922422316827ca",
+    "title": "The Forbidden Experiment That Gave Cats a Fear of Heights",
+    "hook": "A cruel 1960s study conditioned kittens to associate vertical space with pain — and the fear never left them.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "cats",
+      "experiment",
+      "fear",
+      "heights",
+      "conditioning"
+    ],
+    "overlap_check_hash": "e3922422316827ca",
+    "why_this_can_go_viral": "Animal suffering mixed with scientific taboo triggers strong emotional reaction and outrage sharing."
+  },
+  {
+    "unique_id": "edutainment_0054_024_626f48308ade4fd1",
+    "title": "The Man Who Could See Germs With His Naked Eye",
+    "hook": "A rare visual acuity allowed him to perceive individual bacteria — but seeing the invisible made him paranoid of everything.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 65,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "germs",
+      "vision",
+      "bacteria",
+      "paranoia",
+      "record"
+    ],
+    "overlap_check_hash": "626f48308ade4fd1",
+    "why_this_can_go_viral": "Transforms a superpower into a curse — the visual of seeing microbes everywhere is visceral and relatable post-pandemic."
+  },
+  {
+    "unique_id": "edutainment_0054_025_238d8d78f7b7e72e",
+    "title": "Why a Single Room in Japan Has a Wall That Listens",
+    "hook": "A chamber built with a membrane so sensitive it can amplify a whisper from across the room — and it was used for surveillance.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 81,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "room",
+      "listening",
+      "Japan",
+      "surveillance",
+      "acoustic"
+    ],
+    "overlap_check_hash": "238d8d78f7b7e72e",
+    "why_this_can_go_viral": "Taps into modern fears of being watched — the idea of a literal 'listening wall' feels like noir spy tech."
+  }
+]

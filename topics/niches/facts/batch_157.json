@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "facts_0157_001_6585b6064dc5da82",
+    "title": "The Lake Where Your Boat Vanishes Without a Trace",
+    "hook": "Hundreds of boats have disappeared in a single lake, and the water shows no signs of struggle.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "lake",
+      "boat",
+      "disappear",
+      "mystery",
+      "sinkhole"
+    ],
+    "overlap_check_hash": "6585b6064dc5da82",
+    "why_this_can_go_viral": "Combines the fear of sudden disappearance with a real geographic anomaly, triggering deep curiosity and a sense of hidden danger."
+  },
+  {
+    "unique_id": "facts_0157_005_c6e67742a4ad3b6e",
+    "title": "The Statistic That Your Toilet Water Is Cleaner Than Your Office Desk",
+    "hook": "The average desk harbors 400 times more bacteria than a toilet seat after flushing.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 72,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "desk",
+      "bacteria",
+      "toilet",
+      "office",
+      "germs"
+    ],
+    "overlap_check_hash": "c6e67742a4ad3b6e",
+    "why_this_can_go_viral": "Statistically shocking contrast that flips a common assumption, highly shareable for workplace and hygiene audiences."
+  },
+  {
+    "unique_id": "facts_0157_006_59d4f850c9df1e0b",
+    "title": "The Physics That Makes a Chewing Gum Wrapper Ignite a Forest",
+    "hook": "A discarded gum wrapper can focus sunlight like a magnifying glass and start a wildfire.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 74,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "gum wrapper",
+      "fire",
+      "sunlight",
+      "ignite",
+      "forest"
+    ],
+    "overlap_check_hash": "59d4f850c9df1e0b",
+    "why_this_can_go_viral": "Shows how a harmless everyday object can become a weapon of mass destruction, triggering fear and awe."
+  },
+  {
+    "unique_id": "facts_0157_007_8e03660af1456c84",
+    "title": "The Cave Where the Walls Digest You",
+    "hook": "The limestone reacts with your sweat to create a acid that slowly eats your skin.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "cave",
+      "acid",
+      "skin",
+      "digest",
+      "limestone"
+    ],
+    "overlap_check_hash": "8e03660af1456c84",
+    "why_this_can_go_viral": "A visceral, body-horror concept that turns a common exploration activity into a life-threatening event."
+  },
+  {
+    "unique_id": "facts_0157_008_71a14fc8995a8d2f",
+    "title": "The Bird That Mimics a Crying Baby to Attract Help",
+    "hook": "When threatened, it perfectly imitates a human infant's distress call to lure adults.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 65,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "bird",
+      "mimic",
+      "crying",
+      "baby",
+      "deception"
+    ],
+    "overlap_check_hash": "71a14fc8995a8d2f",
+    "why_this_can_go_viral": "Eerie and manipulative behavior that blurs the line between animal and human, highly shareable for its unnerving quality."
+  },
+  {
+    "unique_id": "facts_0157_009_65fc83bff010e61c",
+    "title": "Your Own Phone Can Track You Without GPS or Internet",
+    "hook": "Your phone uses accelerometer data and your walking pattern to pinpoint your location within 10 meters.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 82,
+    "educational_value": 85,
+    "estimated_short_retention": 92,
+    "niche_name": "facts",
+    "subcategory": "cognitive reality gaps",
+    "keywords": [
+      "phone",
+      "track",
+      "accelerometer",
+      "privacy",
+      "location"
+    ],
+    "overlap_check_hash": "65fc83bff010e61c",
+    "why_this_can_go_viral": "Reveals a hidden surveillance mechanism that everyone carries, tapping into privacy paranoia and tech skepticism."
+  },
+  {
+    "unique_id": "facts_0157_011_3925c5131eaf32e9",
+    "title": "The Physics That Makes a Paper Cut Hurt as Much as a Stab",
+    "hook": "Paper cuts don't bleed much, but they hit a high density of pain receptors without triggering blood's numbing effect.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 55,
+    "educational_value": 88,
+    "estimated_short_retention": 79,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "paper cut",
+      "pain",
+      "receptors",
+      "stab",
+      "nerve"
+    ],
+    "overlap_check_hash": "3925c5131eaf32e9",
+    "why_this_can_go_viral": "A universally relatable pain explained with a scientific twist, triggering empathy and curiosity about the body's response."
+  },
+  {
+    "unique_id": "facts_0157_013_ba2d71ff4bedd6b1",
+    "title": "The Fish That Changes Sex to Avoid Extinction",
+    "hook": "When males are scarce, female fish spontaneously transform into males to save the population.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 60,
+    "educational_value": 79,
+    "estimated_short_retention": 83,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "fish",
+      "sex change",
+      "extinction",
+      "population",
+      "biology"
+    ],
+    "overlap_check_hash": "ba2d71ff4bedd6b1",
+    "why_this_can_go_viral": "Challenges human assumptions about gender and biology with a bizarre survival mechanism that feels almost sci-fi."
+  },
+  {
+    "unique_id": "facts_0157_014_ed4f4ab4c6670fbe",
+    "title": "The Statistic That 90% of the World's Population Breathes Poison",
+    "hook": "Nine out of ten people on Earth inhale air that exceeds WHO safety limits for pollutants.",
+    "virality_score": 87,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 92,
+    "estimated_short_retention": 86,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "air",
+      "pollution",
+      "health",
+      "WHO",
+      "global"
+    ],
+    "overlap_check_hash": "ed4f4ab4c6670fbe",
+    "why_this_can_go_viral": "A shocking, almost unbelievable statistic that makes viewers immediately question their own environment and health."
+  },
+  {
+    "unique_id": "facts_0157_015_ee668b2c6359e109",
+    "title": "The Physics That Makes a Water Balloon Explode Into a Knife",
+    "hook": "Under high pressure, a water balloon can rupture into shards as sharp as glass.",
+    "virality_score": 76,
+    "curiosity_gap_score": 81,
+    "darkness_score": 64,
+    "educational_value": 74,
+    "estimated_short_retention": 77,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "balloon",
+      "explode",
+      "shards",
+      "pressure",
+      "knife"
+    ],
+    "overlap_check_hash": "ee668b2c6359e109",
+    "why_this_can_go_viral": "A playful object becomes lethal, twisting a childhood memory into a danger zone."
+  },
+  {
+    "unique_id": "facts_0157_018_eabd20277df5055b",
+    "title": "The Plant That Tastes Your Blood and Grows Flesh",
+    "hook": "A rare parasitic plant can absorb animal blood directly through its roots and use it as fertilizer.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 77,
+    "estimated_short_retention": 84,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "plant",
+      "blood",
+      "flesh",
+      "parasitic",
+      "carnivorous"
+    ],
+    "overlap_check_hash": "eabd20277df5055b",
+    "why_this_can_go_viral": "Brings a vampire-like horror to the plant kingdom, challenging the idea that plants are passive."
+  },
+  {
+    "unique_id": "facts_0157_019_0696f5527af0273e",
+    "title": "Your Own Fat Can Poison Your Organs",
+    "hook": "When fat cells die, they release toxic chemicals that can damage your liver and heart.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 80,
+    "educational_value": 88,
+    "estimated_short_retention": 79,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "fat",
+      "toxic",
+      "liver",
+      "heart",
+      "cells"
+    ],
+    "overlap_check_hash": "0696f5527af0273e",
+    "why_this_can_go_viral": "A dark twist on obesity and weight loss, revealing that the body's own storage can turn against it."
+  },
+  {
+    "unique_id": "facts_0157_020_587cee83d2e1eb13",
+    "title": "The Physics That Makes a Garden Hose a Lethal Weapon",
+    "hook": "If a hose bursts, water pressure can propel it with enough force to cut skin and bone.",
+    "virality_score": 77,
+    "curiosity_gap_score": 83,
+    "darkness_score": 72,
+    "educational_value": 76,
+    "estimated_short_retention": 81,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "hose",
+      "water",
+      "pressure",
+      "injury",
+      "cut"
+    ],
+    "overlap_check_hash": "587cee83d2e1eb13",
+    "why_this_can_go_viral": "Turns a mundane household object into a potential killer, capitalizing on the 'hidden danger' trope."
+  },
+  {
+    "unique_id": "facts_0157_022_3e06b2ee0186e4d4",
+    "title": "The Statistic That Your Door Handle Is More Dangerous Than a Gun",
+    "hook": "Door handles cause more injuries annually in homes than accidental firearm discharges.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 84,
+    "estimated_short_retention": 88,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "door handle",
+      "injury",
+      "gun",
+      "danger",
+      "home"
+    ],
+    "overlap_check_hash": "3e06b2ee0186e4d4",
+    "why_this_can_go_viral": "A counterintuitive comparison that reframes risk perception, highly debateable and shareable."
+  },
+  {
+    "unique_id": "facts_0157_023_85f6f88ca7beb6af",
+    "title": "The Physics That Makes a Microwave Oven a Bomb Inside Your Home",
+    "hook": "Certain metals inside a microwave can create plasma arcs that melt the device and ignite fires.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 76,
+    "educational_value": 81,
+    "estimated_short_retention": 83,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "microwave",
+      "metal",
+      "explode",
+      "plasma",
+      "fire"
+    ],
+    "overlap_check_hash": "85f6f88ca7beb6af",
+    "why_this_can_go_viral": "Everyone uses a microwave, making the hidden explosive potential both relatable and terrifying."
+  },
+  {
+    "unique_id": "facts_0157_024_3be619e38c88f634",
+    "title": "The Tree That Drugs Its Pollinators to Keep Them Hooked",
+    "hook": "A species of tree produces nectar containing a mild opioid that makes insects addicted and return compulsively.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 74,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "tree",
+      "nectar",
+      "opioid",
+      "addiction",
+      "insects"
+    ],
+    "overlap_check_hash": "3be619e38c88f634",
+    "why_this_can_go_viral": "Compares plant behavior to human addiction, creating a dark, anthropomorphic narrative that surprises viewers."
+  },
+  {
+    "unique_id": "facts_0157_025_e1e317df32665409",
+    "title": "Your Own Sweat Can Attract a Flesh-Eating Bacteria",
+    "hook": "A common skin bacteria feeds on your sweat and can cause necrotizing fasciitis if it enters a wound.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 86,
+    "estimated_short_retention": 93,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "sweat",
+      "bacteria",
+      "flesh-eating",
+      "infection",
+      "skin"
+    ],
+    "overlap_check_hash": "e1e317df32665409",
+    "why_this_can_go_viral": "Combines a universal bodily function with a graphic, life-threatening disease, maximizing shock and concern."
+  }
+]

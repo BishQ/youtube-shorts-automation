@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "mythology_0020_001_3001d10932791bab",
+    "title": "The Demon That Was Born From a Mother's Scream",
+    "hook": "In ancient Mesopotamia, they believed a mother's scream of pure grief could tear open the fabric of reality and birth a demon.",
+    "virality_score": 82,
+    "curiosity_gap_score": 78,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "mythology",
+    "subcategory": "demonology history",
+    "keywords": [
+      "mesopotamian demon",
+      "grief demon",
+      "ancient horror",
+      "Lamashtu",
+      "scream myth"
+    ],
+    "overlap_check_hash": "3001d10932791bab",
+    "why_this_can_go_viral": "Combines raw human emotion with supernatural horror, making it deeply relatable yet terrifyingly foreign."
+  },
+  {
+    "unique_id": "mythology_0020_002_dcd05b4f17ac69b0",
+    "title": "The Forgotten God Who Was Worshipped With Self-Blinding",
+    "hook": "There was a god so unforgiving that his followers plucked out their own eyes to prove their loyalty.",
+    "virality_score": 88,
+    "curiosity_gap_score": 85,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "mythology",
+    "subcategory": "forgotten gods",
+    "keywords": [
+      "eye sacrifice",
+      "forgotten deity",
+      "blind cult",
+      "ancient ritual",
+      "self-mutilation"
+    ],
+    "overlap_check_hash": "dcd05b4f17ac69b0",
+    "why_this_can_go_viral": "Shock value and the 'would-you-do-this' question drive comments and shares."
+  },
+  {
+    "unique_id": "mythology_0020_003_a27af086a60caf70",
+    "title": "The Corrupted Legend of the Phoenix—It Was a Wound That Burned",
+    "hook": "Before it was a symbol of rebirth, the phoenix was a cursed bird that couldn't stop burning alive.",
+    "virality_score": 84,
+    "curiosity_gap_score": 80,
+    "darkness_score": 75,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "mythology",
+    "subcategory": "corrupted legends",
+    "keywords": [
+      "phoenix dark origin",
+      "bird of fire",
+      "ancient torture",
+      "rebirth myth",
+      "Greek corruption"
+    ],
+    "overlap_check_hash": "a27af086a60caf70",
+    "why_this_can_go_viral": "Subverts a beloved symbol, which triggers emotional intrigue and sharing."
+  },
+  {
+    "unique_id": "mythology_0020_004_e15ddbd06667b4b4",
+    "title": "The Cursed Sword That Forced Its Owner to Kill Family",
+    "hook": "One Viking family passed down a sword that made every new owner murder their own blood.",
+    "virality_score": 86,
+    "curiosity_gap_score": 82,
+    "darkness_score": 90,
+    "educational_value": 68,
+    "estimated_short_retention": 83,
+    "niche_name": "mythology",
+    "subcategory": "cursed artifacts",
+    "keywords": [
+      "cursed sword",
+      "Norse weapon",
+      "family curse",
+      "Viking horror",
+      "bloodbound blade"
+    ],
+    "overlap_check_hash": "e15ddbd06667b4b4",
+    "why_this_can_go_viral": "Family betrayal is universally triggering, and Norse content has high engagement."
+  },
+  {
+    "unique_id": "mythology_0020_005_382bc10a2cd298b0",
+    "title": "The Ancient Trauma Hidden in the Myth of the Chimera",
+    "hook": "The Chimera wasn't a random monster—it was a memory of war experiments that fused man and beast.",
+    "virality_score": 79,
+    "curiosity_gap_score": 76,
+    "darkness_score": 72,
+    "educational_value": 80,
+    "estimated_short_retention": 78,
+    "niche_name": "mythology",
+    "subcategory": "ancient trauma in myth",
+    "keywords": [
+      "chimera trauma",
+      "war experiments",
+      "monster origin",
+      "ancient PTSD",
+      "Lycian myth"
+    ],
+    "overlap_check_hash": "382bc10a2cd298b0",
+    "why_this_can_go_viral": "Taps into the 'hidden truth' genre that feeds curiosity about myth-as-history."
+  },
+  {
+    "unique_id": "mythology_0020_006_8413244b60189654",
+    "title": "The Demon That Was Trapped in a Silver Box Under a Church",
+    "hook": "A demon was exorcised into a silver box and buried beneath a church floor—where it supposedly still waits.",
+    "virality_score": 85,
+    "curiosity_gap_score": 83,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "mythology",
+    "subcategory": "demonology history",
+    "keywords": [
+      "trapped demon",
+      "silver box",
+      "exorcism artifact",
+      "church horror",
+      "demon prison"
+    ],
+    "overlap_check_hash": "8413244b60189654",
+    "why_this_can_go_viral": "Real-world location and 'still there' hook creates a sense of present danger."
+  },
+  {
+    "unique_id": "mythology_0020_007_c7bea62023b69464",
+    "title": "The Forgotten God of the Dead Who Was Erased by His Own Priests",
+    "hook": "His priests didn't just stop worshipping him—they destroyed every statue and burned every prayer to delete him from history.",
+    "virality_score": 87,
+    "curiosity_gap_score": 84,
+    "darkness_score": 80,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "mythology",
+    "subcategory": "forgotten gods",
+    "keywords": [
+      "erased god",
+      "damnatio memoriae",
+      "death deity",
+      "priest betrayal",
+      "lost religion"
+    ],
+    "overlap_check_hash": "c7bea62023b69464",
+    "why_this_can_go_viral": "The 'deleted from history' angle taps into conspiracy and erasure intrigue."
+  },
+  {
+    "unique_id": "mythology_0020_008_b7af707a11d0ed1b",
+    "title": "The Cursed Drum That Made Its Owner Dance Until Death",
+    "hook": "In Siberian folklore, a drum made of human skin could force anyone who heard it to dance until their heart stopped.",
+    "virality_score": 83,
+    "curiosity_gap_score": 79,
+    "darkness_score": 87,
+    "educational_value": 66,
+    "estimated_short_retention": 81,
+    "niche_name": "mythology",
+    "subcategory": "cursed artifacts",
+    "keywords": [
+      "Siberian drum",
+      "dance of death",
+      "human skin",
+      "shaman curse",
+      "folklore horror"
+    ],
+    "overlap_check_hash": "b7af707a11d0ed1b",
+    "why_this_can_go_viral": "High shock factor and visual imagery that's easy to picture and share."
+  },
+  {
+    "unique_id": "mythology_0020_009_59aede9d1db9e8a3",
+    "title": "The Real Myth of the Basilisk—It Was a Cobra With a Crown Infection",
+    "hook": "The basilisk wasn't a magical beast—it was a cobra with a grotesque growth that looked like a crown.",
+    "virality_score": 81,
+    "curiosity_gap_score": 78,
+    "darkness_score": 70,
+    "educational_value": 82,
+    "estimated_short_retention": 79,
+    "niche_name": "mythology",
+    "subcategory": "myth real-world origins",
+    "keywords": [
+      "basilisk origin",
+      "cobra crown",
+      "disease myth",
+      "snake horror",
+      "natural explanation"
+    ],
+    "overlap_check_hash": "59aede9d1db9e8a3",
+    "why_this_can_go_viral": "Myth-busting with a gross-out factor that makes it highly shareable."
+  },
+  {
+    "unique_id": "mythology_0020_011_ec640b184f835eb6",
+    "title": "The Ancient Egyptian Demon That Lived in the Ink of Cursed Scrolls",
+    "hook": "They believed a demon could be trapped in the ink of a scroll—and anyone who read it would go mad.",
+    "virality_score": 84,
+    "curiosity_gap_score": 80,
+    "darkness_score": 82,
+    "educational_value": 74,
+    "estimated_short_retention": 83,
+    "niche_name": "mythology",
+    "subcategory": "demonology history",
+    "keywords": [
+      "Egyptian demon",
+      "cursed scroll",
+      "ink demon",
+      "madness curse",
+      "ancient curse"
+    ],
+    "overlap_check_hash": "ec640b184f835eb6",
+    "why_this_can_go_viral": "Relatable fear of 'cursed media' updated to ancient scrolls—feels like an old-school creepypasta."
+  },
+  {
+    "unique_id": "mythology_0020_012_5f4524adc318e246",
+    "title": "The Corrupted Legend of the Minotaur—It Was a Bull-Headed Execution Mask",
+    "hook": "The Minotaur wasn't a half-man half-bull—it was a king who wore a bull skull to execute prisoners in the dark.",
+    "virality_score": 85,
+    "curiosity_gap_score": 82,
+    "darkness_score": 78,
+    "educational_value": 76,
+    "estimated_short_retention": 82,
+    "niche_name": "mythology",
+    "subcategory": "corrupted legends",
+    "keywords": [
+      "Minotaur truth",
+      "bull mask",
+      "Greek horror",
+      "labyrinth executioner",
+      "myth corruption"
+    ],
+    "overlap_check_hash": "5f4524adc318e246",
+    "why_this_can_go_viral": "Radically subverts a classic myth, which triggers debate and shares."
+  },
+  {
+    "unique_id": "mythology_0020_014_d39f17dcee62e1ad",
+    "title": "The Cursed Jewel That Brought the Plague to Every Owner",
+    "hook": "A single cursed gemstone was passed from hand to hand—and every owner died of the same disease within weeks.",
+    "virality_score": 86,
+    "curiosity_gap_score": 83,
+    "darkness_score": 84,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "mythology",
+    "subcategory": "cursed artifacts",
+    "keywords": [
+      "cursed gem",
+      "plague jewel",
+      "deadly artifact",
+      "disease curse",
+      "historical curse"
+    ],
+    "overlap_check_hash": "d39f17dcee62e1ad",
+    "why_this_can_go_viral": "Combines treasure, death, and a 'chain curse' that feels like a horror movie."
+  },
+  {
+    "unique_id": "mythology_0020_015_cde6330ac0a7e2b1",
+    "title": "The Ancient Trauma in the Myth of the Harpies—They Were War Orphans",
+    "hook": "The harpies weren't monsters—they were the ghosts of children who starved during the siege of a city.",
+    "virality_score": 81,
+    "curiosity_gap_score": 78,
+    "darkness_score": 86,
+    "educational_value": 77,
+    "estimated_short_retention": 80,
+    "niche_name": "mythology",
+    "subcategory": "ancient trauma in myth",
+    "keywords": [
+      "harpy trauma",
+      "war orphans",
+      "siege horror",
+      "starving children",
+      "myth PTSD"
+    ],
+    "overlap_check_hash": "cde6330ac0a7e2b1",
+    "why_this_can_go_viral": "Painfully human explanation for a monster, triggering empathy and outrage."
+  },
+  {
+    "unique_id": "mythology_0020_016_c9c3c364dfac8abc",
+    "title": "The Demon That Was Summoned by Saying Its Name into a Corpse's Ear",
+    "hook": "To summon this demon, you had to whisper its name into the ear of a corpse—then wait for it to answer back.",
+    "virality_score": 87,
+    "curiosity_gap_score": 85,
+    "darkness_score": 93,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "mythology",
+    "subcategory": "demonology history",
+    "keywords": [
+      "corpse summoning",
+      "demon ritual",
+      "necromancy",
+      "whisper demon",
+      "dark ritual"
+    ],
+    "overlap_check_hash": "c9c3c364dfac8abc",
+    "why_this_can_go_viral": "Extremely specific, visual, and terrifying—perfect for sleep-paralysis lore fans."
+  },
+  {
+    "unique_id": "mythology_0020_019_5ced36cfbbe029ff",
+    "title": "The Forgotten God of the Threshold Who Ate Hesitant Souls",
+    "hook": "There was a god who lived in doorways and devoured anyone who hesitated before crossing.",
+    "virality_score": 84,
+    "curiosity_gap_score": 81,
+    "darkness_score": 83,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "mythology",
+    "subcategory": "forgotten gods",
+    "keywords": [
+      "threshold god",
+      "doorway demon",
+      "hesitation death",
+      "Roman god",
+      "liminal horror"
+    ],
+    "overlap_check_hash": "5ced36cfbbe029ff",
+    "why_this_can_go_viral": "Universal fear of thresholds and doorways—everyone can imagine it."
+  },
+  {
+    "unique_id": "mythology_0020_020_032fb86091c25765",
+    "title": "The Cursed Painting That Took 100 Years to Destroy Its Owners",
+    "hook": "A portrait in a Romanian church caused every owner to die of laughter—until they burned it.",
+    "virality_score": 85,
+    "curiosity_gap_score": 82,
+    "darkness_score": 80,
+    "educational_value": 73,
+    "estimated_short_retention": 83,
+    "niche_name": "mythology",
+    "subcategory": "cursed artifacts",
+    "keywords": [
+      "cursed painting",
+      "laughter death",
+      "Romanian curse",
+      "church artifact",
+      "deadly art"
+    ],
+    "overlap_check_hash": "032fb86091c25765",
+    "why_this_can_go_viral": "Ironic death by laughter is bizarre and memorable, perfect for creepy art fans."
+  },
+  {
+    "unique_id": "mythology_0020_021_73fe99f10d6661dc",
+    "title": "The Ancient Trauma in the Myth of the Hydra—It Was a Serial Killer's Legacy",
+    "hook": "The Hydra's many heads weren't a monster—they were a memory of a killer who wore the faces of his victims.",
+    "virality_score": 82,
+    "curiosity_gap_score": 79,
+    "darkness_score": 85,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "mythology",
+    "subcategory": "ancient trauma in myth",
+    "keywords": [
+      "Hydra trauma",
+      "serial killer myth",
+      "multiple faces",
+      "Greek horror",
+      "victim memory"
+    ],
+    "overlap_check_hash": "73fe99f10d6661dc",
+    "why_this_can_go_viral": "Combines true crime with mythology—two huge viral categories."
+  },
+  {
+    "unique_id": "mythology_0020_022_e77d7f0d32b3fa86",
+    "title": "The Demon That Could Only Be Exorcised by Cutting Off Your Shadow",
+    "hook": "This demon didn't possess your body—it possessed your shadow, and the only cure was to cut it away.",
+    "virality_score": 86,
+    "curiosity_gap_score": 84,
+    "darkness_score": 89,
+    "educational_value": 71,
+    "estimated_short_retention": 84,
+    "niche_name": "mythology",
+    "subcategory": "demonology history",
+    "keywords": [
+      "shadow demon",
+      "exorcism ritual",
+      "cut shadow",
+      "dark folklore",
+      "possession myth"
+    ],
+    "overlap_check_hash": "e77d7f0d32b3fa86",
+    "why_this_can_go_viral": "Visual and eerie concept that's easy to explain and impossible to forget."
+  },
+  {
+    "unique_id": "mythology_0020_023_bf86302bd8ab1ac9",
+    "title": "The Real Myth of the Kelpie—It Was a Water Spirit That Drowned Liars",
+    "hook": "The kelpie didn't just drown people—it specifically drowned liars, and it could smell deception on your skin.",
+    "virality_score": 79,
+    "curiosity_gap_score": 76,
+    "darkness_score": 73,
+    "educational_value": 76,
+    "estimated_short_retention": 78,
+    "niche_name": "mythology",
+    "subcategory": "myth real-world origins",
+    "keywords": [
+      "kelpie origin",
+      "water spirit",
+      "liar drowning",
+      "Scottish folklore",
+      "moral monster"
+    ],
+    "overlap_check_hash": "bf86302bd8ab1ac9",
+    "why_this_can_go_viral": "Moral justice twist makes it satisfying and shareable in a 'karma' context."
+  },
+  {
+    "unique_id": "mythology_0020_025_7abbb9d99c9ff923",
+    "title": "The Cursed Bell That Rang Itself Before Every Death in a Village",
+    "hook": "A church bell in a German village would ring on its own the night before someone died—and it never got it wrong.",
+    "virality_score": 84,
+    "curiosity_gap_score": 81,
+    "darkness_score": 79,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "mythology",
+    "subcategory": "cursed artifacts",
+    "keywords": [
+      "cursed bell",
+      "death omen",
+      "self-ringing",
+      "German folklore",
+      "village curse"
+    ],
+    "overlap_check_hash": "7abbb9d99c9ff923",
+    "why_this_can_go_viral": "Subtle horror that's believable enough to creep out viewers and spark discussion."
+  }
+]

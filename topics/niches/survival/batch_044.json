@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "survival_0044_001_7b0314c51433dd5b",
+    "title": "The Diver Who Breathed a Sip of Pure Oxygen—And His Lungs Ignited",
+    "hook": "A single breath of pure oxygen at depth didn't save him—it turned his lungs into a fireball from the inside.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "survival",
+    "subcategory": "near-death escape stories",
+    "keywords": [
+      "diving accident",
+      "oxygen toxicity",
+      "lung fire",
+      "underwater survival",
+      "near-death"
+    ],
+    "overlap_check_hash": "7b0314c51433dd5b",
+    "why_this_can_go_viral": "The paradox of life-giving oxygen causing a fatal internal explosion is viscerally shocking and highly shareable."
+  },
+  {
+    "unique_id": "survival_0044_002_1133a10b4392db3f",
+    "title": "The Stranded Hikers Who Drank from a River of Glacial Melt—And Their Blood Became Slush",
+    "hook": "They thought pure mountain water would save them—instead, it caused their core temperature to drop so fast their blood crystallized.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 78,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "glacial melt",
+      "hypothermia",
+      "blood crystallizing",
+      "hiking disaster",
+      "cold survival"
+    ],
+    "overlap_check_hash": "1133a10b4392db3f",
+    "why_this_can_go_viral": "The contrast between a life-saving resource and its deadly effect triggers strong curiosity and shock."
+  },
+  {
+    "unique_id": "survival_0044_003_f3289572cb9cf96e",
+    "title": "The Shipwrecked Crew That Got Stuck in a Floating Forest—And Were Eaten by Tree Roots",
+    "hook": "They survived the sinking, but the mangrove island they reached started digesting them alive through their skin.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "mangrove forest",
+      "shipwreck",
+      "tree roots",
+      "slow death",
+      "survival horror"
+    ],
+    "overlap_check_hash": "f3289572cb9cf96e",
+    "why_this_can_go_viral": "The idea of being consumed by a living forest after escaping the ocean is a unique, nightmare-inducing twist."
+  },
+  {
+    "unique_id": "survival_0044_004_8d3aa16b7253533d",
+    "title": "The Expedition That Ate a Single Seal—And Developed a Collective Psychosis",
+    "hook": "One seal meat meal gave the entire team a vitamin A overdose that made them hallucinate, peel their own skin, and turn on each other.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 85,
+    "estimated_short_retention": 86,
+    "niche_name": "survival",
+    "subcategory": "disaster psychology",
+    "keywords": [
+      "seal meat",
+      "hypervitaminosis A",
+      "psychosis",
+      "expedition",
+      "poisoning"
+    ],
+    "overlap_check_hash": "8d3aa16b7253533d",
+    "why_this_can_go_viral": "The sudden descent from survival meal to collective madness is deeply disturbing and psychologically gripping."
+  },
+  {
+    "unique_id": "survival_0044_005_99bdd4274ba26b95",
+    "title": "The Miners Trapped for 10 Days in a Pocket of Pure Methane—And Went Deaf from Their Own Heartbeats",
+    "hook": "Surrounded by explosive gas, they couldn't speak, move, or strike a spark—the only sound was their own blood, amplified until it destroyed their ears.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 91,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "survival",
+    "subcategory": "stranded expeditions",
+    "keywords": [
+      "methane pocket",
+      "mining accident",
+      "deafening silence",
+      "explosive gas",
+      "extreme isolation"
+    ],
+    "overlap_check_hash": "99bdd4274ba26b95",
+    "why_this_can_go_viral": "The horror of being trapped in absolute silence except for your own amplified heartbeat is a sensory nightmare."
+  },
+  {
+    "unique_id": "survival_0044_006_7e30b278fc8350ef",
+    "title": "The Survivors Who Drank from a Lake of Iron—And Their Teeth Turned to Rust",
+    "hook": "The water was clear and clean—but so rich in dissolved iron that their teeth oxidized and crumbled within hours.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 82,
+    "educational_value": 72,
+    "estimated_short_retention": 74,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "iron poisoning",
+      "teeth rust",
+      "lake of iron",
+      "toxic water",
+      "survival horror"
+    ],
+    "overlap_check_hash": "7e30b278fc8350ef",
+    "why_this_can_go_viral": "The visual of rusted teeth is grotesque and curiosity-driving, making viewers question what else could go wrong."
+  },
+  {
+    "unique_id": "survival_0044_007_81cf9fa9a2e1dc0a",
+    "title": "The Castaway Who Drank from a Barrel of Silicone—And His Lungs Turned to Rubber",
+    "hook": "He mistook industrial silicone for drinking water—and his lungs slowly solidified into a rubbery mass he couldn't cough out.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 89,
+    "educational_value": 74,
+    "estimated_short_retention": 79,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "silicone poisoning",
+      "lungs turning to rubber",
+      "castaway",
+      "chemical ingestion",
+      "slow death"
+    ],
+    "overlap_check_hash": "81cf9fa9a2e1dc0a",
+    "why_this_can_go_viral": "The body horror of organs turning into an inanimate substance is both fascinating and repulsive."
+  },
+  {
+    "unique_id": "survival_0044_008_2a2882a765c46d6d",
+    "title": "The Climbers Who Froze on a Ledge—But Their Brains Played a Perfect 3D Movie of Rescue",
+    "hook": "As they died of hypothermia, their brains generated a vivid, detailed hallucination of a rescue—and they felt themselves being carried to safety.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "hypothermia hallucination",
+      "terminal lucidity",
+      "climbing accident",
+      "brain simulation",
+      "false rescue"
+    ],
+    "overlap_check_hash": "2a2882a765c46d6d",
+    "why_this_can_go_viral": "The brain's final deception—creating a perfect fantasy of salvation—is deeply emotional and philosophically provocative."
+  },
+  {
+    "unique_id": "survival_0044_009_c089baeb52699889",
+    "title": "The Stranded Group That Aed Their Own Leader—And Used His Bones as Tools",
+    "hook": "When the leader died of injury, they didn't just eat him—they fashioned his femur into a fishhook and his rib into a knife to survive.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "cannibalism",
+      "bone tools",
+      "stranded group",
+      "making tools from human remains",
+      "extreme survival"
+    ],
+    "overlap_check_hash": "c089baeb52699889",
+    "why_this_can_go_viral": "The ultimate taboo—using a loved one's body as equipment—pushes boundaries of morality and survival instinct."
+  },
+  {
+    "unique_id": "survival_0044_010_c9e71efbe6846146",
+    "title": "The Hiker Who Drank from a Spring of Copper—And His Blood Turned Green",
+    "hook": "Copper leached into his system turned his blood the color of antifreeze—and his veins glowed through his skin like green vines.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 86,
+    "educational_value": 76,
+    "estimated_short_retention": 77,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "copper poisoning",
+      "green blood",
+      "toxic spring",
+      "hiking disaster",
+      "body horror"
+    ],
+    "overlap_check_hash": "c9e71efbe6846146",
+    "why_this_can_go_viral": "The alien-like transformation of blood color is visually shocking and raises immediate questions."
+  },
+  {
+    "unique_id": "survival_0044_012_ffe9a9a8a480013d",
+    "title": "The Miners Who Drank from a Pool of Liquid Nitrogen—And Exploded from the Inside",
+    "hook": "It looked like cool water—but when it hit their stomachs, it vaporized instantly, expanding 700 times and blowing their bodies apart.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 94,
+    "educational_value": 79,
+    "estimated_short_retention": 85,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "liquid nitrogen",
+      "internal explosion",
+      "mining accident",
+      "instant death",
+      "volumetric expansion"
+    ],
+    "overlap_check_hash": "ffe9a9a8a480013d",
+    "why_this_can_go_viral": "The idea of drinking something that makes you explode is absurdly terrifying and immediately clickable."
+  },
+  {
+    "unique_id": "survival_0044_013_8a286361fe235222",
+    "title": "The Expedition That Aed a Parrot—And Got a Brain Parasite That Made Them Hum Constantly",
+    "hook": "They ate a colorful bird to survive—but it carried a parasite that burrowed into their brains and made them hum the same melody until they died.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 82,
+    "estimated_short_retention": 88,
+    "niche_name": "survival",
+    "subcategory": "disaster psychology",
+    "keywords": [
+      "brain parasite",
+      "humming",
+      "parrot",
+      "expedition",
+      "behavioral change"
+    ],
+    "overlap_check_hash": "8a286361fe235222",
+    "why_this_can_go_viral": "The combination of eating a parrot and losing control of your own mind to a tune is bizarre and unforgettable."
+  },
+  {
+    "unique_id": "survival_0044_014_182b13ed4d13c999",
+    "title": "The Diver Who Breathed from a Sunken Air Tank—And His Eardrums Burst Outward",
+    "hook": "He found an old air tank at depth—but the pressure inside was so high it ruptured his eardrums by blowing air out of his ears.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 85,
+    "educational_value": 77,
+    "estimated_short_retention": 76,
+    "niche_name": "survival",
+    "subcategory": "near-death escape stories",
+    "keywords": [
+      "diving accident",
+      "ruptured eardrums",
+      "compressed air",
+      "sunken tank",
+      "pressure injury"
+    ],
+    "overlap_check_hash": "182b13ed4d13c999",
+    "why_this_can_go_viral": "The counterintuitive physics—air rushing out instead of in—creates a memorable, shocking moment."
+  },
+  {
+    "unique_id": "survival_0044_015_19c34f39ba3c75f5",
+    "title": "The Cavers Who Got Stuck in a Canyon of Human Bones—And Realized They Were Trapped in a Sacrificial Site",
+    "hook": "They crawled into a narrow passage and found themselves surrounded by thousands of human skeletons—the remains of ancient sacrifices—and the exit had been sealed behind them.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 85,
+    "estimated_short_retention": 92,
+    "niche_name": "survival",
+    "subcategory": "stranded expeditions",
+    "keywords": [
+      "caving",
+      "human bones",
+      "sacrificial site",
+      "trapped in cave",
+      "ancient horror"
+    ],
+    "overlap_check_hash": "19c34f39ba3c75f5",
+    "why_this_can_go_viral": "The discovery of a bone-filled cave combined with being trapped is pure nightmare fuel, blending archaeology and survival horror."
+  },
+  {
+    "unique_id": "survival_0044_016_3b4a31397f498d22",
+    "title": "The Stranded Hikers Who Drank from a Pool of Petroleum—And Their Bodies Started Oozing Crude Oil",
+    "hook": "They mistook an oil seep for clean water—and within days, their skin pores began excreting a black, oily sludge from deep inside their tissues.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 90,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "petroleum poisoning",
+      "oil seep",
+      "body oozing oil",
+      "hiking disaster",
+      "toxic ingestion"
+    ],
+    "overlap_check_hash": "3b4a31397f498d22",
+    "why_this_can_go_viral": "The grotesque image of a person 'sweating' crude oil is disgusting, memorable, and incredibly shareable."
+  },
+  {
+    "unique_id": "survival_0044_017_755fafec5fc73fc5",
+    "title": "The Shipwrecked Sailors Who Drank from a Barrel of Pickling Brine—And Their Lips Dissolved into a Single Slit",
+    "hook": "The brine was so acidic it ate away the soft tissue of their lips, fusing them together into a single, permanent slit like a fish mouth.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 92,
+    "educational_value": 71,
+    "estimated_short_retention": 83,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "pickling brine",
+      "lip dissolution",
+      "acid burn",
+      "shipwreck",
+      "facial deformity"
+    ],
+    "overlap_check_hash": "755fafec5fc73fc5",
+    "why_this_can_go_viral": "The visceral horror of facial disfigurement from a common substance is deeply disturbing and curiosity-inducing."
+  },
+  {
+    "unique_id": "survival_0044_019_f638374bedc5f9ba",
+    "title": "The Survivors Who Drank from a Lake of Borax—And Their Skin Cracked into Geometric Patterns",
+    "hook": "The borax-laced water crystallized in their sweat glands, creating rigid, diamond-shaped cracks across every inch of their skin.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 87,
+    "educational_value": 73,
+    "estimated_short_retention": 78,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "borax poisoning",
+      "crystallized skin",
+      "geometric cracks",
+      "toxic lake",
+      "body horror"
+    ],
+    "overlap_check_hash": "f638374bedc5f9ba",
+    "why_this_can_go_viral": "The unnatural, geometric damage to the skin is both visually striking and scientifically intriguing."
+  },
+  {
+    "unique_id": "survival_0044_020_71b61763925d6564",
+    "title": "The Climbers Who Ran Out of Fuel—And Drank Their Own Urine in a Circle Until Their Kidneys Exploded",
+    "hook": "Recycling urine sounds logical—but each cycle concentrated the toxins until their kidneys swelled like balloons and ruptured inside them.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 94,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "urine recycling",
+      "kidney failure",
+      "climbing disaster",
+      "survival myth busted",
+      "toxin buildup"
+    ],
+    "overlap_check_hash": "71b61763925d6564",
+    "why_this_can_go_viral": "Debunking a common survival myth with graphic, deadly consequences is highly educational and shareable."
+  },
+  {
+    "unique_id": "survival_0044_021_85a22572984c662b",
+    "title": "The Stranded Team That Ate a Frozen Cave Bear—And Their DNA Woke Up an Ancient Virus",
+    "hook": "Eating the preserved meat of an extinct cave bear released a dormant virus that reactivated in their bodies, rewriting their genetic code.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 87,
+    "estimated_short_retention": 91,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "ancient virus",
+      "cave bear",
+      "DNA rewriting",
+      "frozen meat",
+      "paleo virology"
+    ],
+    "overlap_check_hash": "85a22572984c662b",
+    "why_this_can_go_viral": "The idea of resurrecting an ancient pathogen by eating a frozen animal taps into deep fears about unknown biology."
+  },
+  {
+    "unique_id": "survival_0044_023_d4d650f0d14a3fe2",
+    "title": "The Expedition That Aced Its Own Dogs—And Then Built a Raft from Their Hides to Escape",
+    "hook": "They killed and ate their sled dogs one by one—then stitched the frozen hides into a makeshift boat that carried them to rescue.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "eating sled dogs",
+      "dog hide raft",
+      "expedition survival",
+      "antarctic",
+      "resourcefulness"
+    ],
+    "overlap_check_hash": "d4d650f0d14a3fe2",
+    "why_this_can_go_viral": "The combination of emotional betrayal of pets and ingenious engineering creates a powerful, controversial story."
+  },
+  {
+    "unique_id": "survival_0044_024_ad87b79adb566772",
+    "title": "The Miners Who Drank from a Pool of Radioactive Water—And Their Hair Fell Out in a Single Day",
+    "hook": "The water was glowing faintly from dissolved radium—within 24 hours, every hair on their bodies detached and fell out in clumps.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 80,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "radium poisoning",
+      "hair loss",
+      "glowing water",
+      "mining accident",
+      "radiation sickness"
+    ],
+    "overlap_check_hash": "ad87b79adb566772",
+    "why_this_can_go_viral": "The rapid, dramatic symptom of hair loss from invisible radiation is visually powerful and scientifically scary."
+  }
+]

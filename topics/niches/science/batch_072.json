@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "science_0072_001_96d3fc08ab1851b0",
+    "title": "The Scientist Who Bred a Human-Chimp Hybrid in Secret",
+    "hook": "A rogue biologist succeeded in creating a human-chimpanzee embryo in a hidden lab—and then destroyed all evidence before anyone could stop him.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human-chimp hybrid",
+      "forbidden experiments",
+      "humanzee",
+      "rogue scientist",
+      "embryo ethics"
+    ],
+    "overlap_check_hash": "96d3fc08ab1851b0",
+    "why_this_can_go_viral": "Taps into the deep taboo of human-animal hybridization and the mystery of a secret experiment that was destroyed."
+  },
+  {
+    "unique_id": "science_0072_002_12ae4595d634eed7",
+    "title": "The Lab Explosion That Unleashed a Self-Replicating Acid",
+    "hook": "A chemist's miscalculation created a compound that endlessly regenerates, dissolving everything it touches—and it's still spreading underground.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "self-replicating acid",
+      "lab explosion",
+      "chemistry disaster",
+      "uncontainable",
+      "toxic leak"
+    ],
+    "overlap_check_hash": "12ae4595d634eed7",
+    "why_this_can_go_viral": "The concept of an indestructible, self-replicating acid feels like sci-fi horror, triggering fear of scientific hubris."
+  },
+  {
+    "unique_id": "science_0072_005_934fc11bb58798f4",
+    "title": "The Biologist Who Discovered a Fungus That Mimics Human Speech",
+    "hook": "Deep in a cave, researchers found a fungus that perfectly imitates the sound of a human voice—calling out for help in the dark.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "mimic fungus",
+      "human speech",
+      "cave fungus",
+      "bioluminescence",
+      "bioacoustics"
+    ],
+    "overlap_check_hash": "934fc11bb58798f4",
+    "why_this_can_go_viral": "Combines body horror with the uncanny valley of a non-human entity mimicking human distress."
+  },
+  {
+    "unique_id": "science_0072_006_b3f949022223ab01",
+    "title": "The Fraud Scientist Who Faked a Paper That 'Proved' Time Travel",
+    "hook": "A respected physicist published data showing particles moving backward in time—it was all a hoax, but the retraction came too late.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "time travel hoax",
+      "fraud scientist",
+      "retracted paper",
+      "particle physics",
+      "fake data"
+    ],
+    "overlap_check_hash": "b3f949022223ab01",
+    "why_this_can_go_viral": "Time travel is universally fascinating; the idea that someone almost 'proved' it before being exposed is irresistible."
+  },
+  {
+    "unique_id": "science_0072_007_cf1441841d4bd1f0",
+    "title": "The Lab That Leaked a Bacteria That Eats Plastic From the Inside",
+    "hook": "A genetically modified plastic-eating bacteria escaped containment—and now it's slowly devouring every synthetic material in its path.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 85,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "plastic-eating bacteria",
+      "lab leak",
+      "genetic modification",
+      "ecosystem threat",
+      "synthetic material"
+    ],
+    "overlap_check_hash": "cf1441841d4bd1f0",
+    "why_this_can_go_viral": "Environmental fear meets bioengineering horror—a real-world 'grey goo' scenario."
+  },
+  {
+    "unique_id": "science_0072_010_91d54165bca4b6b6",
+    "title": "The Banned Experiment That Tried to Make a Plant Feel Pain",
+    "hook": "In the 1960s, scientists wired a plant to a lie detector and screamed at it—the plant 'screamed' back on the graph.",
+    "virality_score": 85,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "plant pain",
+      "lie detector",
+      "plant consciousness",
+      "banned experiment",
+      "1960s science"
+    ],
+    "overlap_check_hash": "91d54165bca4b6b6",
+    "why_this_can_go_viral": "The idea that plants might feel pain challenges our moral hierarchy and is deeply unsettling."
+  },
+  {
+    "unique_id": "science_0072_012_247d9331d03b7696",
+    "title": "The Fraud Scientist Who Faked a Map of the Human Soul",
+    "hook": "A neuropsychologist claimed to have photographed the soul leaving the body at death—the image was retouched, but believers still exist.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "soul photograph",
+      "fraud scientist",
+      "death image",
+      "soul weight",
+      "paranormal hoax"
+    ],
+    "overlap_check_hash": "247d9331d03b7696",
+    "why_this_can_go_viral": "Mixes science with existential mystery; the idea of 'proving' the soul is universally provocative."
+  },
+  {
+    "unique_id": "science_0072_015_4888ce8ec92766b2",
+    "title": "The Neuroscientist Who Used Magnets to Make People Hallucinate Demons",
+    "hook": "Transcranial magnetic stimulation on a specific spot made subjects see shadowy figures lurking behind them—every single time.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 80,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "demon hallucination",
+      "TMS",
+      "brain stimulation",
+      "shadow figure",
+      "temporal lobe"
+    ],
+    "overlap_check_hash": "4888ce8ec92766b2",
+    "why_this_can_go_viral": "Directly links neuroscience to supernatural experiences, making people question their own perceptions."
+  },
+  {
+    "unique_id": "science_0072_016_f3f798305fcb1442",
+    "title": "The Banned Experiment That Tried to Cross a Human With a Pig",
+    "hook": "A secret project aimed to grow human organs inside pigs—until the embryos started showing human-like facial features.",
+    "virality_score": 96,
+    "curiosity_gap_score": 98,
+    "darkness_score": 97,
+    "educational_value": 72,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human-pig hybrid",
+      "chimera experiment",
+      "organ farming",
+      "banned research",
+      "embryo ethics"
+    ],
+    "overlap_check_hash": "f3f798305fcb1442",
+    "why_this_can_go_viral": "Extreme bioethics horror: the line between human and animal is blurred in a way that feels both monstrous and plausible."
+  },
+  {
+    "unique_id": "science_0072_018_de0007b447c45fe4",
+    "title": "The Lab That Leaked a Parasite That Makes Fish Climb Waterfalls",
+    "hook": "A microscopic parasite invades fish brains, forcing them to leap out of water toward predators—and it almost reached humans.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 86,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "brain parasite",
+      "zombie fish",
+      "behavior manipulation",
+      "lab leak",
+      "toxoplasma"
+    ],
+    "overlap_check_hash": "de0007b447c45fe4",
+    "why_this_can_go_viral": "Parasite mind control is a perennial horror trope; the idea it almost crossed species is chilling."
+  },
+  {
+    "unique_id": "science_0072_019_772c5d4bca3f420a",
+    "title": "The Fraud Scientist Who Faked a Paper on Water Memory",
+    "hook": "A Nobel Prize winner claimed water retains memory of substances even after dilution—the experiment was never replicated, but homeopathy still uses it.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "water memory",
+      "homeopathy fraud",
+      "Nobel prize scandal",
+      "dilution pseudoscience",
+      "Benveniste"
+    ],
+    "overlap_check_hash": "772c5d4bca3f420a",
+    "why_this_can_go_viral": "Touches on the real-world impact of fraud—millions still believe in water memory today."
+  },
+  {
+    "unique_id": "science_0072_020_3aa333592610ea6a",
+    "title": "The Physicist Who Found That Time Stops Inside a Perfect Mirror",
+    "hook": "Two mirrors facing each other create an infinite reflection—but quantum mechanics says the light trapped between them ages differently.",
+    "virality_score": 78,
+    "curiosity_gap_score": 87,
+    "darkness_score": 60,
+    "educational_value": 85,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time dilation",
+      "mirror paradox",
+      "quantum optics",
+      "light trap",
+      "infinite reflection"
+    ],
+    "overlap_check_hash": "3aa333592610ea6a",
+    "why_this_can_go_viral": "A simple, visual concept (two mirrors) hiding a deep, reality-bending truth."
+  },
+  {
+    "unique_id": "science_0072_021_3c5203a7cf7ec4c9",
+    "title": "The Neuroscientist Who Discovered Why Déjà Vu Feels So Real",
+    "hook": "A tiny misfire in the brain's memory center creates a glitch that makes you feel like you've lived this moment before—and it can be triggered artificially.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 72,
+    "educational_value": 88,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "deja vu",
+      "memory glitch",
+      "brain misfire",
+      "temporal lobe",
+      "artificial deja vu"
+    ],
+    "overlap_check_hash": "3c5203a7cf7ec4c9",
+    "why_this_can_go_viral": "Everyone experiences déjà vu; revealing its mechanical, glitch-like nature is universally relatable and unsettling."
+  },
+  {
+    "unique_id": "science_0072_022_6bbf13d4b2d04611",
+    "title": "The Banned Experiment That Tried to Grow a Human Brain in a Jar",
+    "hook": "Scientists kept a clump of human neurons alive for months—it started emitting electrical patterns similar to a conscious brain.",
+    "virality_score": 97,
+    "curiosity_gap_score": 99,
+    "darkness_score": 98,
+    "educational_value": 80,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "brain in a jar",
+      "consciousness experiment",
+      "neural organoid",
+      "artificial brain",
+      "banned research"
+    ],
+    "overlap_check_hash": "6bbf13d4b2d04611",
+    "why_this_can_go_viral": "The ultimate forbidden science: creating a conscious entity trapped in a jar. Ethical horror at its peak."
+  },
+  {
+    "unique_id": "science_0072_023_eb4509dc428fa8d1",
+    "title": "The Lab That Accidentally Created a Self-Healing Metal",
+    "hook": "A cracked platinum sample repaired itself overnight without any intervention—scientists are still trying to explain how.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 60,
+    "educational_value": 82,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "self-healing metal",
+      "platinum anomaly",
+      "material science",
+      "crack repair",
+      "accidental discovery"
+    ],
+    "overlap_check_hash": "eb4509dc428fa8d1",
+    "why_this_can_go_viral": "Defies a basic expectation (metal stays broken) and hints at a new class of materials."
+  },
+  {
+    "unique_id": "science_0072_024_3034e38ef448e702",
+    "title": "The Chemist Who Made a Poison That Leaves No Trace in the Body",
+    "hook": "A perfect undetectable toxin was synthesized in a government lab—it mimics natural metabolic waste and vanishes within hours.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "undetectable poison",
+      "perfect toxin",
+      "chemical weapon",
+      "forensic nightmare",
+      "hidden murder"
+    ],
+    "overlap_check_hash": "3034e38ef448e702",
+    "why_this_can_go_viral": "Taps into a primal fear: the perfect crime made possible by science."
+  }
+]

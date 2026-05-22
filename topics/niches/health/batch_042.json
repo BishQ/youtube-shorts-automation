@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "health_0042_003_bafae2e013dee4d8",
+    "title": "The Hospital That Dumped Medical Waste in Poor Neighborhoods",
+    "hook": "Used needles, amputated limbs, and infectious waste were secretly dumped where no one would ask questions.",
+    "virality_score": 76,
+    "curiosity_gap_score": 74,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "medical waste",
+      "environmental racism",
+      "hospital cover-up",
+      "biohazard",
+      "healthcare corruption"
+    ],
+    "overlap_check_hash": "bafae2e013dee4d8",
+    "why_this_can_go_viral": "Combines environmental justice with medical horror — a powerful, shareable story."
+  },
+  {
+    "unique_id": "health_0042_004_2e6734d8e51c9567",
+    "title": "The Doctor Who Injected Cancer Cells Into Healthy Volunteers",
+    "hook": "He believed cancer was caused by a virus — so he injected live tumor cells into patients without telling them.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "cancer experiment",
+      "unethical research",
+      "Chester Southam",
+      "medical atrocities",
+      "informed consent"
+    ],
+    "overlap_check_hash": "2e6734d8e51c9567",
+    "why_this_can_go_viral": "One of the most horrifying experiments in history — high shock value and moral outrage."
+  },
+  {
+    "unique_id": "health_0042_006_c1e3bb97c80498bc",
+    "title": "The Suppressed Cure: Why a Simple Baking Soda Treatment Was Buried",
+    "hook": "Cheap, available, and effective against some cancers — but the patent-free cure was never funded.",
+    "virality_score": 77,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 75,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "cancer cure",
+      "baking soda treatment",
+      "Big Pharma",
+      "suppressed medicine",
+      "alternative cancer therapy"
+    ],
+    "overlap_check_hash": "c1e3bb97c80498bc",
+    "why_this_can_go_viral": "Taps into deep distrust of the medical industry and the hope of a cheap cure."
+  },
+  {
+    "unique_id": "health_0042_007_4f850aff6c0cbfde",
+    "title": "The Baby Shampoo That Gave Infants Chemical Pneumonia",
+    "hook": "Labeled 'gentle' and 'tear-free' — but the formula caused lung damage when inhaled by babies.",
+    "virality_score": 79,
+    "curiosity_gap_score": 75,
+    "darkness_score": 90,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "baby shampoo",
+      "chemical pneumonia",
+      "toxic products",
+      "baby safety",
+      "corporate cover-up"
+    ],
+    "overlap_check_hash": "4f850aff6c0cbfde",
+    "why_this_can_go_viral": "Parents are a highly emotional, sharing audience — the betrayal is deeply personal."
+  },
+  {
+    "unique_id": "health_0042_008_4e97f2b86ec687c1",
+    "title": "The Disease Cover-Up: They Knew the Deodorant Caused Breast Cancer",
+    "hook": "Studies linked aluminum compounds to breast tumors — but the industry suppressed the data for decades.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "deodorant cancer",
+      "aluminum",
+      "breast cancer",
+      "cover-up",
+      "toxic chemicals"
+    ],
+    "overlap_check_hash": "4e97f2b86ec687c1",
+    "why_this_can_go_viral": "Nearly everyone uses deodorant — the personal risk factor drives massive engagement."
+  },
+  {
+    "unique_id": "health_0042_009_f91027a757eebfd9",
+    "title": "The Doctor Who Deliberately Infected Patients With Malaria for 'Treatment'",
+    "hook": "He believed fever could cure syphilis — so he injected malaria parasites into hundreds of patients.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "malaria therapy",
+      "syphilis",
+      "Wagner-Jauregg",
+      "Nobel Prize horror",
+      "medical experiments"
+    ],
+    "overlap_check_hash": "f91027a757eebfd9",
+    "why_this_can_go_viral": "The sheer madness of the logic — and that it won a Nobel Prize — is unforgettable."
+  },
+  {
+    "unique_id": "health_0042_010_4a30f1cef82818ae",
+    "title": "The Pharmaceutical Company That Sold a Drug That Turned Skin Gray",
+    "hook": "Patients turned permanently gray — but the company kept selling it for 20 more years.",
+    "virality_score": 75,
+    "curiosity_gap_score": 79,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "gray skin",
+      "drug side effects",
+      "argyria",
+      "pharma scandal",
+      "permanent damage"
+    ],
+    "overlap_check_hash": "4a30f1cef82818ae",
+    "why_this_can_go_viral": "Visually shocking transformation — perfect for before-and-after thumbnails."
+  },
+  {
+    "unique_id": "health_0042_011_ec0098d77915a2f2",
+    "title": "The Hospital That Harvested Organs Without Consent for 30 Years",
+    "hook": "Patients went in for routine procedures and woke up missing kidneys — no one asked permission.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 96,
+    "educational_value": 65,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "organ harvesting",
+      "non-consensual surgery",
+      "medical horror",
+      "transplant",
+      "hospital corruption"
+    ],
+    "overlap_check_hash": "ec0098d77915a2f2",
+    "why_this_can_go_viral": "Fear of waking up without an organ is primal — high shock and shareability."
+  },
+  {
+    "unique_id": "health_0042_012_904938f97d33adec",
+    "title": "The FDA-Approved Diet Pill That Caused Heart Valve Failure",
+    "hook": "Millions took it — then doctors found their heart valves were permanently destroyed.",
+    "virality_score": 80,
+    "curiosity_gap_score": 81,
+    "darkness_score": 84,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "diet pill",
+      "heart damage",
+      "Fen-Phen",
+      "FDA failure",
+      "weight loss danger"
+    ],
+    "overlap_check_hash": "904938f97d33adec",
+    "why_this_can_go_viral": "Weight loss is a universal interest — the hidden danger makes it a cautionary tale."
+  },
+  {
+    "unique_id": "health_0042_013_9aa4785597dee4ee",
+    "title": "The Suppressed Cure: How a $3 Iodine Supplement Was Replaced by $300 Drugs",
+    "hook": "Iodine was used successfully for thyroid conditions and infections — until it was branded 'dangerous' by Big Pharma.",
+    "virality_score": 76,
+    "curiosity_gap_score": 84,
+    "darkness_score": 70,
+    "educational_value": 78,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "iodine cure",
+      "suppressed treatment",
+      "Big Pharma",
+      "natural remedy",
+      "thyroid"
+    ],
+    "overlap_check_hash": "9aa4785597dee4ee",
+    "why_this_can_go_viral": "The David vs. Goliath story resonates deeply with audiences skeptical of the medical system."
+  },
+  {
+    "unique_id": "health_0042_014_def2b5d684e86113",
+    "title": "The Company That Sold 'Organic' Supplements Made of Sawdust and Lead",
+    "hook": "The label said 'all-natural' — lab tests showed it was 70% sawdust and 15% toxic heavy metals.",
+    "virality_score": 77,
+    "curiosity_gap_score": 80,
+    "darkness_score": 83,
+    "educational_value": 62,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "fake supplements",
+      "sawdust pills",
+      "heavy metals",
+      "organic scam",
+      "health fraud"
+    ],
+    "overlap_check_hash": "def2b5d684e86113",
+    "why_this_can_go_viral": "Outrage over fake health products drives strong emotional reactions and shares."
+  },
+  {
+    "unique_id": "health_0042_015_641695a9e860c5ef",
+    "title": "The Disease Cover-Up: They Knew the Microwave Caused Blood Cell Damage",
+    "hook": "Decades-old studies showed microwaved food altered blood composition — but the findings were buried.",
+    "virality_score": 79,
+    "curiosity_gap_score": 87,
+    "darkness_score": 74,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "microwave danger",
+      "blood damage",
+      "suppressed science",
+      "radiation",
+      "food safety"
+    ],
+    "overlap_check_hash": "641695a9e860c5ef",
+    "why_this_can_go_viral": "Everyone uses a microwave — the personal relevance creates immediate click-through."
+  },
+  {
+    "unique_id": "health_0042_016_017382d9517f19e4",
+    "title": "The Surgeon Who Removed Healthy Limbs for Experimental Transplants",
+    "hook": "He convinced patients to donate healthy arms and legs — then transplanted them into paralyzed people without approval.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 68,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "limb transplant",
+      "unethical surgery",
+      "body horror",
+      "experimental medicine",
+      "doctor monster"
+    ],
+    "overlap_check_hash": "017382d9517f19e4",
+    "why_this_can_go_viral": "The concept is so grotesque and incomprehensible it demands clicks and shares."
+  },
+  {
+    "unique_id": "health_0042_017_2144d160ac3a98c2",
+    "title": "The Pharmaceutical Company That Paid Doctors to Diagnose Fake Allergies",
+    "hook": "Healthy children were labeled 'allergic' so parents would buy $500/month medications they didn't need.",
+    "virality_score": 78,
+    "curiosity_gap_score": 76,
+    "darkness_score": 82,
+    "educational_value": 64,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake allergies",
+      "pharma bribery",
+      "unnecessary medication",
+      "children",
+      "medical fraud"
+    ],
+    "overlap_check_hash": "2144d160ac3a98c2",
+    "why_this_can_go_viral": "Parents will be furious and share widely — the exploitation of children hits hard."
+  },
+  {
+    "unique_id": "health_0042_018_b008fab8063f3131",
+    "title": "The Hospital That Used Radioactive Waste in Concrete — and Never Told Anyone",
+    "hook": "Patients and staff were exposed to dangerous radiation for decades — the hospital knew and said nothing.",
+    "virality_score": 74,
+    "curiosity_gap_score": 78,
+    "darkness_score": 87,
+    "educational_value": 58,
+    "estimated_short_retention": 77,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "radioactive hospital",
+      "radiation exposure",
+      "cover-up",
+      "building materials",
+      "health scandal"
+    ],
+    "overlap_check_hash": "b008fab8063f3131",
+    "why_this_can_go_viral": "The combination of radiation and institutional betrayal creates a powerful narrative."
+  },
+  {
+    "unique_id": "health_0042_019_bc0817685ca1f9d1",
+    "title": "The Doctor Who Prescribed LSD to Children for 'Behavioral Issues'",
+    "hook": "He believed LSD could 'reboot' a child's brain — and parents trusted him with their kids.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 66,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "LSD children",
+      "unethical psychiatry",
+      "drug experiments",
+      "child abuse",
+      "doctor horror"
+    ],
+    "overlap_check_hash": "bc0817685ca1f9d1",
+    "why_this_can_go_viral": "The thought of children being dosed with psychedelics is deeply disturbing and shareable."
+  },
+  {
+    "unique_id": "health_0042_020_c8d74525b07a0442",
+    "title": "The FDA-Approved Vaccine That Caused Narcolepsy in Teenagers",
+    "hook": "Hundreds of teens fell asleep uncontrollably after vaccination — the government kept it on the market.",
+    "virality_score": 81,
+    "curiosity_gap_score": 83,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "vaccine narcolepsy",
+      "FDA approved",
+      "Pandemrix",
+      "teen health",
+      "vaccine side effects"
+    ],
+    "overlap_check_hash": "c8d74525b07a0442",
+    "why_this_can_go_viral": "Vaccine controversies are inherently polarizing and high-engagement."
+  },
+  {
+    "unique_id": "health_0042_021_b03fbebcd0ea816f",
+    "title": "The Suppressed Cure: How a Simple Liver Cleanse Was Destroyed by Big Pharma",
+    "hook": "A $2 herbal protocol cured hepatitis patients — pharmaceutical companies spent millions to discredit it.",
+    "virality_score": 75,
+    "curiosity_gap_score": 85,
+    "darkness_score": 71,
+    "educational_value": 76,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "liver cleanse",
+      "hepatitis cure",
+      "suppressed medicine",
+      "Big Pharma",
+      "herbal treatment"
+    ],
+    "overlap_check_hash": "b03fbebcd0ea816f",
+    "why_this_can_go_viral": "Taps into the 'they don't want you to know' conspiracy appetite."
+  },
+  {
+    "unique_id": "health_0042_022_98bc656f18a1d24a",
+    "title": "The Company That Sold 'Hypoallergenic' Makeup Made of Ground Glass",
+    "hook": "Women's faces were cut from the inside — the glass particles were invisible to the naked eye.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 90,
+    "educational_value": 58,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "toxic makeup",
+      "ground glass",
+      "hypoallergenic scam",
+      "beauty danger",
+      "face damage"
+    ],
+    "overlap_check_hash": "98bc656f18a1d24a",
+    "why_this_can_go_viral": "Visceral body horror combined with everyday product use — highly shareable."
+  },
+  {
+    "unique_id": "health_0042_023_fd9c7177bb3448c6",
+    "title": "The Disease Cover-Up: They Knew the Dry Cleaning Chemical Caused Parkinson's",
+    "hook": "Decades of studies linked trichloroethylene to Parkinson's — but the industry covered it up.",
+    "virality_score": 77,
+    "curiosity_gap_score": 80,
+    "darkness_score": 79,
+    "educational_value": 68,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "Parkinson's cause",
+      "dry cleaning",
+      "chemical exposure",
+      "trichloroethylene",
+      "cover-up"
+    ],
+    "overlap_check_hash": "fd9c7177bb3448c6",
+    "why_this_can_go_viral": "Explains a mysterious disease — audiences love feeling 'in on' a hidden truth."
+  },
+  {
+    "unique_id": "health_0042_025_6e4966b4eb2d80a3",
+    "title": "The Pharmaceutical Company That Sold Expired Drugs in Developing Countries",
+    "hook": "They shipped pills that had expired years earlier to countries with weak regulations — and called it 'humanitarian aid.'",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 88,
+    "educational_value": 66,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "expired drugs",
+      "pharma corruption",
+      "developing countries",
+      "humanitarian scam",
+      "global health"
+    ],
+    "overlap_check_hash": "6e4966b4eb2d80a3",
+    "why_this_can_go_viral": "Combines corporate greed with exploitation of the poor — a powerful moral outrage trigger."
+  }
+]

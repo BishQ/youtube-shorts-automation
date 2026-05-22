@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "cosmic_0099_002_c4571066e8b8453b",
+    "title": "The Star That Has Been Dimming for 130 Years—And No One Knows Why",
+    "hook": "A star 1,500 light-years away has been fading steadily since 1890—and all proposed explanations have failed.",
+    "virality_score": 85,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "dimming star",
+      "unexplained stellar behavior",
+      "astronomical anomaly",
+      "failed star",
+      "cosmic mystery"
+    ],
+    "overlap_check_hash": "c4571066e8b8453b",
+    "why_this_can_go_viral": "A century-long unsolved mystery about a star fading is deeply unsettling—people love 'scientists are baffled' stories."
+  },
+  {
+    "unique_id": "cosmic_0099_003_4f083ab04c04c82e",
+    "title": "The Classified Satellite That Saw Something on the Dark Side of the Moon",
+    "hook": "A declassified military satellite captured a single image of the Moon's far side—and the object in it was never explained.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 85,
+    "educational_value": 40,
+    "estimated_short_retention": 90,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "dark side moon",
+      "classified satellite",
+      "military space",
+      "lunar anomaly",
+      "hidden object"
+    ],
+    "overlap_check_hash": "4f083ab04c04c82e",
+    "why_this_can_go_viral": "The Moon's far side is already mysterious; add a classified military image and an unidentified object and you have viral alien-conspiracy gold."
+  },
+  {
+    "unique_id": "cosmic_0099_004_abdc1df19bf000e2",
+    "title": "The Timeline When Earth Will Become a Rogue Planet",
+    "hook": "In 1 billion years, the Sun will boil away Earth's oceans—but long before that, a gravitational nudge could send us drifting into deep space.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 75,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "rogue planet",
+      "earth ejected",
+      "solar system instability",
+      "apocalypse timeline",
+      "cosmic drift"
+    ],
+    "overlap_check_hash": "abdc1df19bf000e2",
+    "why_this_can_go_viral": "The idea of Earth becoming a cold, wandering world is existentially terrifying and perfectly fits short-form doomscrolling content."
+  },
+  {
+    "unique_id": "cosmic_0099_005_9248ea020d989621",
+    "title": "The Dark Matter Stream That Changed the Color of Galaxies",
+    "hook": "An invisible stream of dark matter passed through a cluster of galaxies—and every galaxy it touched turned red and died.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 80,
+    "educational_value": 60,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter stream",
+      "galaxy death",
+      "red galaxies",
+      "cosmic extinction",
+      "invisible killer"
+    ],
+    "overlap_check_hash": "9248ea020d989621",
+    "why_this_can_go_viral": "Personifying dark matter as a 'killer' that snuffs out galaxies is a gripping, visual concept that triggers fear of the unseen."
+  },
+  {
+    "unique_id": "cosmic_0099_008_4cf247161758cb5a",
+    "title": "The Object That Entered Our Solar System—And Then Flipped Its Trajectory",
+    "hook": "In 2017, an object from another star system came close to the Sun—then did a U-turn that defies all known physics.",
+    "virality_score": 87,
+    "curiosity_gap_score": 95,
+    "darkness_score": 72,
+    "educational_value": 55,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "interstellar object",
+      "trajectory flip",
+      "oumuamua anomaly",
+      "alien probe theory",
+      "impossible maneuver"
+    ],
+    "overlap_check_hash": "4cf247161758cb5a",
+    "why_this_can_go_viral": "The idea of a 'controlled' alien object changing course is a perfect blend of science and speculation that drives debates."
+  },
+  {
+    "unique_id": "cosmic_0099_009_4412b2b7b0cae6d0",
+    "title": "The Classified Project That Tried to Communicate With Dead Cosmonauts",
+    "hook": "A declassified Soviet file reveals a program that sent radio signals into space to contact cosmonauts who died in orbit.",
+    "virality_score": 90,
+    "curiosity_gap_score": 97,
+    "darkness_score": 88,
+    "educational_value": 50,
+    "estimated_short_retention": 89,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "dead cosmonauts",
+      "soviet space program",
+      "classified radio",
+      "ghost communication",
+      "lost in space"
+    ],
+    "overlap_check_hash": "4412b2b7b0cae6d0",
+    "why_this_can_go_viral": "Mixing death, secrecy, and space instantly hooks viewers—especially the morbid 'did they get a response?' angle."
+  },
+  {
+    "unique_id": "cosmic_0099_010_a93ca4fbde9b7262",
+    "title": "The Void That Contains 100,000 Galaxies—And Nothing Else",
+    "hook": "The Boötes Void is a spherical region 330 million light-years across with almost no stars, gas, or galaxies—just pure, terrifying emptiness.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 60,
+    "estimated_short_retention": 83,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "bootes void",
+      "cosmic void",
+      "empty space",
+      "nothingness",
+      "universe structure"
+    ],
+    "overlap_check_hash": "a93ca4fbde9b7262",
+    "why_this_can_go_viral": "The concept of a 'hole' in the universe that dwarfs everything triggers deep-seated cosmic horror and existential dread."
+  },
+  {
+    "unique_id": "cosmic_0099_011_cdaeceb5e477000d",
+    "title": "The Asteroid That Passed Within 1,000 km of Earth—And We Missed It",
+    "hook": "In 2020, a car-sized asteroid came closer than any on record—and NASA only saw it 6 hours after the closest approach.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 65,
+    "estimated_short_retention": 79,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "near miss asteroid",
+      "undetected threat",
+      "nasa failure",
+      "hazard near earth",
+      "blind spot"
+    ],
+    "overlap_check_hash": "cdaeceb5e477000d",
+    "why_this_can_go_viral": "The 'we almost died and didn't even know it' angle is a proven viral driver for space threat content."
+  },
+  {
+    "unique_id": "cosmic_0099_012_30e0de0a2ebe748c",
+    "title": "The Binary Star That Could Fire a Gamma Ray at Earth at Any Moment",
+    "hook": "Two stars locked in a deadly dance are pointing a gamma-ray beam directly at us—and when they merge, we'll have 8 seconds to prepare.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 58,
+    "estimated_short_retention": 91,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "gamma ray burst",
+      "binary star death",
+      "aimed at earth",
+      "cosmic weapon",
+      "instant extinction"
+    ],
+    "overlap_check_hash": "30e0de0a2ebe748c",
+    "why_this_can_go_viral": "The phrase 'aimed at us' combined with '8 seconds to prepare' creates a ticking-clock terror that is irresistible."
+  },
+  {
+    "unique_id": "cosmic_0099_013_d3fa7e2849e1fc19",
+    "title": "The Signal That Was a Countdown—With Zero at Our Present Time",
+    "hook": "A radio signal from deep space carried a descending sequence of numbers that ended at the exact second it was received.",
+    "virality_score": 94,
+    "curiosity_gap_score": 99,
+    "darkness_score": 87,
+    "educational_value": 45,
+    "estimated_short_retention": 93,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "countdown signal",
+      "alien transmission",
+      "timed arrival",
+      "predetermined message",
+      "cosmic message"
+    ],
+    "overlap_check_hash": "d3fa7e2849e1fc19",
+    "why_this_can_go_viral": "The countdown trope is universally terrifying and mysterious—viewers will immediately wonder 'what happens when it hits zero?'"
+  },
+  {
+    "unique_id": "cosmic_0099_014_b000d8cfa9e33905",
+    "title": "The Extinction That Wiped Out 90% of Life—And It Was Silent",
+    "hook": "The 'Great Dying' wasn't an asteroid—it was a slow, silent suffocation that took 200,000 years, and no one heard it coming.",
+    "virality_score": 77,
+    "curiosity_gap_score": 84,
+    "darkness_score": 81,
+    "educational_value": 68,
+    "estimated_short_retention": 76,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "great dying",
+      "silent extinction",
+      "permian extinction",
+      "slow death",
+      "earth suffocation"
+    ],
+    "overlap_check_hash": "b000d8cfa9e33905",
+    "why_this_can_go_viral": "'Silent death' is a powerful narrative—the idea that most extinctions came quietly, not with a bang, is deeply unsettling."
+  },
+  {
+    "unique_id": "cosmic_0099_015_dec04a779d92ea82",
+    "title": "The Dark Matter Disk That Passed Through the Solar System in 2005",
+    "hook": "In 2005, a disk of dark matter 50,000 km thick passed through our solar system—and it changed the orbits of every comet.",
+    "virality_score": 83,
+    "curiosity_gap_score": 90,
+    "darkness_score": 74,
+    "educational_value": 62,
+    "estimated_short_retention": 81,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter disk",
+      "solar system passage",
+      "comet disruption",
+      "invisible influence",
+      "orbital anomaly"
+    ],
+    "overlap_check_hash": "dec04a779d92ea82",
+    "why_this_can_go_viral": "The idea that invisible matter is bumping into us aligns with the 'hidden danger' archetype that drives cosmic niche views."
+  },
+  {
+    "unique_id": "cosmic_0099_017_29c3a00c16dfc7ca",
+    "title": "The Star That Ejected a Planet—Sending It Into Interstellar Darkness",
+    "hook": "Astronomers watched a star fling a planet out of its system at 30 million km/h—condemning it to an eternity of cold isolation.",
+    "virality_score": 79,
+    "curiosity_gap_score": 87,
+    "darkness_score": 83,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "ejected planet",
+      "rogue world",
+      "star violence",
+      "interstellar exile",
+      "cosmic cruelty"
+    ],
+    "overlap_check_hash": "29c3a00c16dfc7ca",
+    "why_this_can_go_viral": "Anthropomorphizing a planet as 'exiled' and 'condemned' triggers empathy and horror—a short-form emotional hook."
+  },
+  {
+    "unique_id": "cosmic_0099_018_69b784cf25b87ed6",
+    "title": "The Classified Program That Turned the Moon Into a Weapon",
+    "hook": "Declassified documents reveal Project A119—a US plan to detonate a nuclear bomb on the Moon to intimidate the Soviet Union.",
+    "virality_score": 88,
+    "curiosity_gap_score": 95,
+    "darkness_score": 86,
+    "educational_value": 55,
+    "estimated_short_retention": 87,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "project a119",
+      "nuke the moon",
+      "cold war space",
+      "classified military",
+      "lunar bomb"
+    ],
+    "overlap_check_hash": "69b784cf25b87ed6",
+    "why_this_can_go_viral": "The sheer audacity of 'nuking the Moon' is absurd and terrifying—a perfect mix of history and conspiracy."
+  },
+  {
+    "unique_id": "cosmic_0099_019_5690ac88fabc3436",
+    "title": "The Galaxy That Is Being Eaten by a Dark Matter 'Spider'",
+    "hook": "A small galaxy is being torn apart by an invisible dark matter structure that astronomers call 'the spider's web'.",
+    "virality_score": 82,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 58,
+    "estimated_short_retention": 83,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "dark matter spider",
+      "galaxy destruction",
+      "invisible predator",
+      "cosmic web",
+      "galactic death"
+    ],
+    "overlap_check_hash": "5690ac88fabc3436",
+    "why_this_can_go_viral": "The 'spider' metaphor is instantly visual and creepy—anthropomorphizing dark matter as a predator is a strong narrative."
+  },
+  {
+    "unique_id": "cosmic_0099_020_0c6ba8503f21cde7",
+    "title": "The Asteroid That Entered Our Atmosphere—And Left Without Burning Up",
+    "hook": "An asteroid was tracked entering Earth's atmosphere—then it exited on the other side, completely intact, as if it were a ghost.",
+    "virality_score": 89,
+    "curiosity_gap_score": 96,
+    "darkness_score": 77,
+    "educational_value": 50,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "ghost asteroid",
+      "earth grazer",
+      "intact passage",
+      "atmospheric anomaly",
+      "impossible asteroid"
+    ],
+    "overlap_check_hash": "0c6ba8503f21cde7",
+    "why_this_can_go_viral": ""
+  },
+  {
+    "unique_id": "cosmic_0099_021_d13c6bfbd8bf9100",
+    "title": "The Dead Satellite That Woke Up After 40 Years and Sent a Message",
+    "hook": "In 2013, a satellite launched in 1969 suddenly transmitted after four decades of silence—with a signal that wasn't in its original code.",
+    "virality_score": 91,
+    "curiosity_gap_score": 97,
+    "darkness_score": 80,
+    "educational_value": 45,
+    "estimated_short_retention": 90,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "zombie satellite",
+      "dead satellite transmission",
+      "40 year signal",
+      "lsat anomaly",
+      "space ghost"
+    ],
+    "overlap_check_hash": "d13c6bfbd8bf9100",
+    "why_this_can_go_viral": "The 'zombie satellite' trope is viral catnip—unexplained return, altered code, and conspiracy all in one."
+  },
+  {
+    "unique_id": "cosmic_0099_023_2cef59aa71b60c02",
+    "title": "The Fermi Paradox Theory: 'They Are Digital Ghosts in a Dead Network'",
+    "hook": "What if advanced civilizations upload their minds into a simulation—and that simulation is running on a long-dead star's energy?",
+    "virality_score": 87,
+    "curiosity_gap_score": 94,
+    "darkness_score": 86,
+    "educational_value": 50,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "digital afterlife",
+      "simulation theory",
+      "post biological life",
+      "dead star network",
+      "transcendence"
+    ],
+    "overlap_check_hash": "2cef59aa71b60c02",
+    "why_this_can_go_viral": "Combining AI, death, and alien intelligence in a single theory creates a uniquely unsettling and shareable concept."
+  },
+  {
+    "unique_id": "cosmic_0099_025_7b575a37148dae8e",
+    "title": "The Classified 'Space Fence' That Tracks Objects That Aren't There",
+    "hook": "A secret US Space Force radar system detects thousands of objects in orbit—but many of them appear in data and then vanish without a trail.",
+    "virality_score": 89,
+    "curiosity_gap_score": 96,
+    "darkness_score": 84,
+    "educational_value": 50,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "space fence",
+      "phantom satellites",
+      "classified radar",
+      "disappearing objects",
+      "space force secret"
+    ],
+    "overlap_check_hash": "7b575a37148dae8e",
+    "why_this_can_go_viral": "The idea that military radar sees 'ghost' objects that aren't real is a perfect blend of technology, secrecy, and the paranormal."
+  }
+]

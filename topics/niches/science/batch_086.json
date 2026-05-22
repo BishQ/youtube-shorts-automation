@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "science_0086_001_6fb52dd3752e4cb8",
+    "title": "The Psychologist Who Starved Himself to Prove Hunger Is a Lie",
+    "hook": "A 1940s scientist believed hunger was just a mental construct—so he stopped eating for 30 days to prove it.",
+    "virality_score": 85,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "starvation",
+      "psychology experiment",
+      "self-experimentation",
+      "hunger hoax",
+      "dark science"
+    ],
+    "overlap_check_hash": "6fb52dd3752e4cb8",
+    "why_this_can_go_viral": "Extreme self-experimentation and the shocking conclusion that hunger is psychologically suppressed triggers morbid curiosity and debate."
+  },
+  {
+    "unique_id": "science_0086_002_da928e426b215880",
+    "title": "The Lab That Accidentally Made a Chemical That Eats Glass",
+    "hook": "A routine synthesis went wrong—and the product started dissolving the flask, the counter, and the floor.",
+    "virality_score": 88,
+    "curiosity_gap_score": 95,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "acid",
+      "glass-eating",
+      "lab accident",
+      "chemical spill",
+      "unexpected reaction"
+    ],
+    "overlap_check_hash": "da928e426b215880",
+    "why_this_can_go_viral": "Visceral imagery of a substance eating through solid glass is inherently shareable and visually dramatic."
+  },
+  {
+    "unique_id": "science_0086_003_07ee34584e772eed",
+    "title": "The Neuroscientist Who Found a Brain Region That Wipes Your Identity",
+    "hook": "Stimulating one tiny area of the brain can make you forget who you are—permanently.",
+    "virality_score": 90,
+    "curiosity_gap_score": 97,
+    "darkness_score": 92,
+    "educational_value": 85,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain stimulation",
+      "identity loss",
+      "memory wipe",
+      "neurosurgery",
+      "dark neuroscience"
+    ],
+    "overlap_check_hash": "07ee34584e772eed",
+    "why_this_can_go_viral": "The existential horror of losing your sense of self from a simple electrode tap is universally terrifying and deeply shareable."
+  },
+  {
+    "unique_id": "science_0086_004_3acaf328bd5b3e78",
+    "title": "The Quantum Experiment That Proved Reality Is a Simulation",
+    "hook": "In 2017, physicists ran a test that suggests the universe might be running on code—and they found a glitch.",
+    "virality_score": 91,
+    "curiosity_gap_score": 98,
+    "darkness_score": 70,
+    "educational_value": 88,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "simulation hypothesis",
+      "quantum physics",
+      "reality glitch",
+      "Bell test",
+      "unreal universe"
+    ],
+    "overlap_check_hash": "3acaf328bd5b3e78",
+    "why_this_can_go_viral": "The simulation hypothesis is a cultural obsession; claiming proof with a glitch triggers massive curiosity and debate."
+  },
+  {
+    "unique_id": "science_0086_006_fdcc15224178dd40",
+    "title": "The Physics Anomaly Where a Metal Ball Heated Itself in a Vacuum",
+    "hook": "A simple experiment with a metal ball and no energy source—yet the ball got hotter on its own.",
+    "virality_score": 82,
+    "curiosity_gap_score": 93,
+    "darkness_score": 60,
+    "educational_value": 85,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "thermal anomaly",
+      "vacuum",
+      "self-heating",
+      "perpetual motion",
+      "physics mystery"
+    ],
+    "overlap_check_hash": "fdcc15224178dd40",
+    "why_this_can_go_viral": "Seemingly violating the laws of thermodynamics is a clickbait goldmine for science enthusiasts."
+  },
+  {
+    "unique_id": "science_0086_007_3906e66e0ee582b1",
+    "title": "The Fraud Who Faked a Study Claiming Octopuses Are Aliens",
+    "hook": "A respected journal published a paper proving octopuses came from space—but it was all fabricated.",
+    "virality_score": 86,
+    "curiosity_gap_score": 96,
+    "darkness_score": 72,
+    "educational_value": 78,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "octopus alien",
+      "fake study",
+      "retracted paper",
+      "scientific misconduct",
+      "fraud"
+    ],
+    "overlap_check_hash": "3906e66e0ee582b1",
+    "why_this_can_go_viral": "Octopuses are already considered weird; the alien origin claim with a fraud twist is irresistible."
+  },
+  {
+    "unique_id": "science_0086_008_90ee4ae5bb8a3ace",
+    "title": "The Chemistry Disaster That Birthed a Cloud That Eats Paint Off Walls",
+    "hook": "A leak in a chemical plant created a fog that stripped paint, corroded metal, and blinded wildlife for miles.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 77,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "toxic cloud",
+      "chemical leak",
+      "industrial disaster",
+      "paint eater",
+      "environmental catastrophe"
+    ],
+    "overlap_check_hash": "90ee4ae5bb8a3ace",
+    "why_this_can_go_viral": "Apocalyptic visual of a cloud destroying everything in its path is perfect for short-form video."
+  },
+  {
+    "unique_id": "science_0086_010_6dda47963098f62b",
+    "title": "The Lab Catastrophe Where a Virus Leaked and Made Cells Immortal",
+    "hook": "A containment breach created a virus that didn't kill cells—it made them live forever.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "immortal cells",
+      "virus leak",
+      "lab accident",
+      "HeLa",
+      "biological horror"
+    ],
+    "overlap_check_hash": "6dda47963098f62b",
+    "why_this_can_go_viral": "Immortality is a primal desire; a virus that grants it uncontrollably is both terrifying and intriguing."
+  },
+  {
+    "unique_id": "science_0086_012_127cb11dc9543a58",
+    "title": "The Biologist Who Discovered a Fungus That Controls Human Thoughts",
+    "hook": "A common fungus found in soil can latch onto your brain and alter your decisions—without you knowing.",
+    "virality_score": 92,
+    "curiosity_gap_score": 98,
+    "darkness_score": 95,
+    "educational_value": 82,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "mind control",
+      "fungus",
+      "Toxoplasma",
+      "brain parasite",
+      "behavior modification"
+    ],
+    "overlap_check_hash": "127cb11dc9543a58",
+    "why_this_can_go_viral": "The idea that a microbe could be pulling your strings is deeply unsettling and highly shareable."
+  },
+  {
+    "unique_id": "science_0086_013_54ff666c8542d21f",
+    "title": "The Physics Anomaly Where a Pendulum Swung Longer Underwater Than in Air",
+    "hook": "Every law of physics says a pendulum should slow down in water—but this one went faster.",
+    "virality_score": 78,
+    "curiosity_gap_score": 90,
+    "darkness_score": 40,
+    "educational_value": 88,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "pendulum",
+      "fluid dynamics",
+      "physics anomaly",
+      "counterintuitive",
+      "experiment"
+    ],
+    "overlap_check_hash": "54ff666c8542d21f",
+    "why_this_can_go_viral": "Visual demonstration of a seemingly impossible event is perfect for short-form video loops."
+  },
+  {
+    "unique_id": "science_0086_015_7a01e5c126e719fc",
+    "title": "The Fraud Who Faked a Study Proving That Bacteria Can Think",
+    "hook": "A celebrated microbiologist published evidence that bacteria have consciousness—but the data were completely fabricated.",
+    "virality_score": 84,
+    "curiosity_gap_score": 93,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "bacteria intelligence",
+      "faked data",
+      "microbiology fraud",
+      "consciousness",
+      "retracted"
+    ],
+    "overlap_check_hash": "7a01e5c126e719fc",
+    "why_this_can_go_viral": "The concept of microscopic organisms having thoughts is fascinating; the fraud adds a layer of scandal."
+  },
+  {
+    "unique_id": "science_0086_017_49d78022e5fe8c7f",
+    "title": "The Neuroscientist Who Found That Your Brain Can See Without Eyes",
+    "hook": "Blind patients in a study could accurately guess objects in front of them—their brains were seeing without vision.",
+    "virality_score": 86,
+    "curiosity_gap_score": 96,
+    "darkness_score": 75,
+    "educational_value": 88,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "blindsight",
+      "brain vision",
+      "neuroscience",
+      "unconscious perception",
+      "blindness"
+    ],
+    "overlap_check_hash": "49d78022e5fe8c7f",
+    "why_this_can_go_viral": "The idea that consciousness is not needed for vision is a mind-blowing revelation that challenges self-perception."
+  },
+  {
+    "unique_id": "science_0086_019_fea50557b24cfdc6",
+    "title": "The Physics Anomaly Where a Diamond Levitated in Midair",
+    "hook": "A tiny diamond floating in a vacuum started spinning so fast it should have torn apart—but it didn't.",
+    "virality_score": 83,
+    "curiosity_gap_score": 92,
+    "darkness_score": 45,
+    "educational_value": 86,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "levitation",
+      "diamond",
+      "vacuum trap",
+      "quantum levitation",
+      "physics demo"
+    ],
+    "overlap_check_hash": "fea50557b24cfdc6",
+    "why_this_can_go_viral": "Visual magic—something floating with no strings—is inherently mesmerizing for short-form video."
+  },
+  {
+    "unique_id": "science_0086_020_12e21ab2539f6f47",
+    "title": "The Biologist Who Found a Virus That Hides Inside Human Sperm",
+    "hook": "A dormant virus in your DNA can travel inside sperm cells and infect your children—without symptoms.",
+    "virality_score": 89,
+    "curiosity_gap_score": 96,
+    "darkness_score": 92,
+    "educational_value": 84,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "endogenous virus",
+      "sperm infection",
+      "vertical transmission",
+      "hidden pathogen",
+      "genetic horror"
+    ],
+    "overlap_check_hash": "12e21ab2539f6f47",
+    "why_this_can_go_viral": "The idea that your own DNA carries a hidden invader passed to offspring is deeply disturbing and shareable."
+  },
+  {
+    "unique_id": "science_0086_021_1f6e365c6799f192",
+    "title": "The Quantum Paradox Where an Object Existed Without a Location",
+    "hook": "Physicists trapped an atom in a state where it had no position in space—it simply wasn't anywhere.",
+    "virality_score": 87,
+    "curiosity_gap_score": 98,
+    "darkness_score": 60,
+    "educational_value": 89,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "delocalization",
+      "quantum atom",
+      "no position",
+      "quantum mechanics",
+      "impossible physics"
+    ],
+    "overlap_check_hash": "1f6e365c6799f192",
+    "why_this_can_go_viral": "Something existing nowhere is a concept that breaks everyday logic; perfect for mind-bending content."
+  },
+  {
+    "unique_id": "science_0086_022_a226cbbed882cad6",
+    "title": "The Lab Catastrophe Where a Centrifuge Turned Into a Bomb",
+    "hook": "A routine ultracentrifuge spin went critical—the rotor shattered and embedded metal fragments into the walls.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "centrifuge explosion",
+      "lab accident",
+      "rotor failure",
+      "physics disaster",
+      "safety fail"
+    ],
+    "overlap_check_hash": "a226cbbed882cad6",
+    "why_this_can_go_viral": "High-speed machinery failure is visually dramatic and relatable to anyone who's used lab equipment."
+  },
+  {
+    "unique_id": "science_0086_023_5acbfe69a958a24b",
+    "title": "The Chemist Who Made a Liquid That Burns Forever",
+    "hook": "A single beaker of this chemical ignited in 1986—and it's still burning today, impossible to extinguish.",
+    "virality_score": 86,
+    "curiosity_gap_score": 94,
+    "darkness_score": 80,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "eternal flame",
+      "unquenchable fire",
+      "chemical fire",
+      "trichlorosilane",
+      "forever burning"
+    ],
+    "overlap_check_hash": "5acbfe69a958a24b",
+    "why_this_can_go_viral": "The image of a fire that can't be put out is primal and terrifying; the 'still burning today' hook drives clicks."
+  },
+  {
+    "unique_id": "science_0086_025_937d7776de08c262",
+    "title": "The Neuroscientist Who Erased a Memory and Created a New One",
+    "hook": "Using light, scientists deleted a mouse's fear memory and installed a false happy memory in its place.",
+    "virality_score": 90,
+    "curiosity_gap_score": 97,
+    "darkness_score": 88,
+    "educational_value": 87,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory erasure",
+      "false memory",
+      "optogenetics",
+      "brain manipulation",
+      "Eternal Sunshine"
+    ],
+    "overlap_check_hash": "937d7776de08c262",
+    "why_this_can_go_viral": "The sci-fi dream of editing memories is now real; the ethical implications are massive and drive engagement."
+  }
+]

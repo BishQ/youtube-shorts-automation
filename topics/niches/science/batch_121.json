@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "science_0121_001_8d7ea811e7fcdf01",
+    "title": "The Doctor Who Injected Himself with His Own Patients' Tumor",
+    "hook": "He believed cancer was contagious—so he stuck a needle into a dying woman's tumor and plunged it into his own arm.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "self-experimentation",
+      "cancer",
+      "tumor injection",
+      "medical horror",
+      "forbidden science"
+    ],
+    "overlap_check_hash": "8d7ea811e7fcdf01",
+    "why_this_can_go_viral": "Combines body horror with a real doctor's insane self-experiment—irresistible morbid curiosity."
+  },
+  {
+    "unique_id": "science_0121_002_8a4c1cbf13b7f5c1",
+    "title": "The Lab That Leaked a Virus That Made People Howl at the Moon",
+    "hook": "In 1972, a lab accident released a rabies-like pathogen that turned victims into screaming, biting shadows of themselves.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "lab leak",
+      "rabies",
+      "zombie virus",
+      "Soviet accident",
+      "pathogen escape"
+    ],
+    "overlap_check_hash": "8a4c1cbf13b7f5c1",
+    "why_this_can_go_viral": "Taps into the fear of lab-created monsters and real-world 'zombie' outbreaks."
+  },
+  {
+    "unique_id": "science_0121_003_254569d548034c86",
+    "title": "The Biolab That Grew Human Ears on the Backs of Rats",
+    "hook": "Scientists sewed a human ear-shaped scaffold onto a mouse's back and watched living flesh grow around it.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "human ear",
+      "rat experiment",
+      "tissue engineering",
+      "body horror",
+      "bio-art"
+    ],
+    "overlap_check_hash": "254569d548034c86",
+    "why_this_can_go_viral": "Visceral, almost sci-fi image that people can't unsee—perfect for shock value."
+  },
+  {
+    "unique_id": "science_0121_004_648942dbc97823f3",
+    "title": "The Physicist Who Created a Laser That Bends Time",
+    "hook": "He built a laser pulse so fast it seemed to move backward in time—and it broke the laws of causality.",
+    "virality_score": 78,
+    "curiosity_gap_score": 92,
+    "darkness_score": 45,
+    "educational_value": 80,
+    "estimated_short_retention": 70,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time reversal",
+      "laser",
+      "causality",
+      "quantum weirdness",
+      "light pulse"
+    ],
+    "overlap_check_hash": "648942dbc97823f3",
+    "why_this_can_go_viral": "Time travel experiments always hook viewers; the 'bending time' angle feels like a hidden discovery."
+  },
+  {
+    "unique_id": "science_0121_005_5c27b7224c2881b2",
+    "title": "The Scientist Who Faked a 'Cancer Vaccine'—And Patients Died Trusting Him",
+    "hook": "For decades, he peddled a fake vaccine, convincing desperate people to pay for hope—while their cancers raged on.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "cancer scam",
+      "fake vaccine",
+      "medical fraud",
+      "desperate patients",
+      "false hope"
+    ],
+    "overlap_check_hash": "5c27b7224c2881b2",
+    "why_this_can_go_viral": "High emotional punch—betrayal, greed, and death. People love righteous outrage."
+  },
+  {
+    "unique_id": "science_0121_007_0357b9012bbc6cbf",
+    "title": "The Neuroscientist Who Wiped a Rat's Memory—Then Replaced It",
+    "hook": "He erased a rat's fear of a cat, then implanted a false memory of a safe place turning deadly.",
+    "virality_score": 81,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory erasure",
+      "false memory",
+      "rat brain",
+      "optogenetics",
+      "mind control"
+    ],
+    "overlap_check_hash": "0357b9012bbc6cbf",
+    "why_this_can_go_viral": "Taps into the fear of having your mind rewritten—straight out of Black Mirror."
+  },
+  {
+    "unique_id": "science_0121_008_af0dcb19397a8c4a",
+    "title": "The Quantum Paradox Where a Particle's Twin Died—and It Felt Nothing",
+    "hook": "They destroyed one half of an entangled pair—and the other half acted as if its partner never existed.",
+    "virality_score": 74,
+    "curiosity_gap_score": 85,
+    "darkness_score": 40,
+    "educational_value": 85,
+    "estimated_short_retention": 65,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "entanglement",
+      "quantum death",
+      "particle twin",
+      "spooky action",
+      "quantum erasure"
+    ],
+    "overlap_check_hash": "af0dcb19397a8c4a",
+    "why_this_can_go_viral": "The 'death of a particle' metaphor is eerie and tantalizing for science-curious viewers."
+  },
+  {
+    "unique_id": "science_0121_010_24c198929c1f2243",
+    "title": "The Lab Catastrophe Where a Scientist Was Poisoned by Her Own Gloves",
+    "hook": "She thought the gloves were protecting her—but the chemical they were meant to block melted right through.",
+    "virality_score": 77,
+    "curiosity_gap_score": 82,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "lab safety",
+      "chemical burn",
+      "glove failure",
+      "toxic exposure",
+      "lab accident"
+    ],
+    "overlap_check_hash": "24c198929c1f2243",
+    "why_this_can_go_viral": "Invisible danger twist—something meant to protect becomes a weapon. Relatable to anyone in science."
+  },
+  {
+    "unique_id": "science_0121_011_1ecdfb4e6bb947b7",
+    "title": "The Biolab That Created a Bacterium That Eats Its Own DNA",
+    "hook": "They engineered a microbe that devours its own genetic code—and then it started rewriting itself.",
+    "virality_score": 79,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "self-eating bacteria",
+      "synthetic biology",
+      "DNA editing",
+      "genetic anomaly",
+      "living paradox"
+    ],
+    "overlap_check_hash": "1ecdfb4e6bb947b7",
+    "why_this_can_go_viral": "The idea of a cell consuming its own blueprint is unnerving and sparks existential questions."
+  },
+  {
+    "unique_id": "science_0121_012_23eae0af4ef0f207",
+    "title": "The Physicist Who Watched a Particle 'Remember' Its Future",
+    "hook": "The particle behaved differently before it was measured—as if it already knew what the result would be.",
+    "virality_score": 76,
+    "curiosity_gap_score": 90,
+    "darkness_score": 35,
+    "educational_value": 85,
+    "estimated_short_retention": 70,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "quantum memory",
+      "future measurement",
+      "retrocausality",
+      "delayed choice",
+      "quantum weirdness"
+    ],
+    "overlap_check_hash": "23eae0af4ef0f207",
+    "why_this_can_go_viral": "The 'memory of the future' hook sounds like sci-fi—intrigues anyone who loves mind-bending ideas."
+  },
+  {
+    "unique_id": "science_0121_013_90b7e231e68ab8d6",
+    "title": "The Scientist Who Faked Data That Put Thousands on Dangerous Drugs",
+    "hook": "One man's fabricated statistics convinced doctors worldwide to prescribe a drug that caused heart failure.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 96,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "data fabrication",
+      "Vioxx scandal",
+      "drug disaster",
+      "fraudulent research",
+      "pharma crime"
+    ],
+    "overlap_check_hash": "90b7e231e68ab8d6",
+    "why_this_can_go_viral": "Mass harm caused by a single liar—outrage, conspiracy, and life-and-death stakes."
+  },
+  {
+    "unique_id": "science_0121_014_bed88dcb050a1edb",
+    "title": "The Chemist Who Made a Crystal That Explodes When You Touch It",
+    "hook": "He was purifying a new compound—then he tapped the flask and it detonated, shattering his lab in a flash.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "explosive crystal",
+      "nitrogen compound",
+      "lab explosion",
+      "touch sensitive",
+      "chemical danger"
+    ],
+    "overlap_check_hash": "bed88dcb050a1edb",
+    "why_this_can_go_viral": "Explosions are inherently viral; the 'touch it and die' detail adds suspense."
+  },
+  {
+    "unique_id": "science_0121_015_111d33c6b59f1d07",
+    "title": "The Neuroscientist Who Found the 'Rage Center' in the Human Brain",
+    "hook": "He stimulated a tiny spot in a woman's amygdala—and she instantly flew into a screaming, violent fury.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "rage center",
+      "amygdala stimulation",
+      "human aggression",
+      "brain control",
+      "violent switch"
+    ],
+    "overlap_check_hash": "111d33c6b59f1d07",
+    "why_this_can_go_viral": "The idea of a 'rage button' inside us is terrifying and makes people question free will."
+  },
+  {
+    "unique_id": "science_0121_017_2f6b40f65c7eeccd",
+    "title": "The Forbidden Experiment Where a Doctor Starved Babies to Study Death",
+    "hook": "He deliberately withheld food from newborns to observe how long it took for them to die—and published the data.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 99,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "infant starvation",
+      "Nazi experiments",
+      "human vivisection",
+      "medical atrocity",
+      "ethical horror"
+    ],
+    "overlap_check_hash": "2f6b40f65c7eeccd",
+    "why_this_can_go_viral": "Extreme moral violation—unwatchable yet impossible to look away. Maximum darkness score."
+  },
+  {
+    "unique_id": "science_0121_018_8e2d6eb082ef836c",
+    "title": "The Lab Catastrophe Where a Scientist's Hand Turned to Bone",
+    "hook": "She spilled a chemical on her glove—and over weeks, her soft tissues hardened into living bone.",
+    "virality_score": 85,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "ossification",
+      "chemical burn",
+      "bone disease",
+      "fibrodysplasia",
+      "lab horror"
+    ],
+    "overlap_check_hash": "8e2d6eb082ef836c",
+    "why_this_can_go_viral": "Body horror transformation—real medical nightmare that feels like a curse."
+  },
+  {
+    "unique_id": "science_0121_019_f9203bfb426cc064",
+    "title": "The Biolab That Breeded a Scorpion With a Venom That Never Fades",
+    "hook": "They spliced a scorpion gene into a virus—and the venom stayed active inside cells for years after death.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "scorpion venom",
+      "gene splicing",
+      "immortal poison",
+      "bioweapon",
+      "toxin persistence"
+    ],
+    "overlap_check_hash": "f9203bfb426cc064",
+    "why_this_can_go_viral": "The 'venom that never dies' angle is perfect horror—lingering danger feels supernatural."
+  },
+  {
+    "unique_id": "science_0121_020_6309896c3f759069",
+    "title": "The Physicist Who Made a 'Gravity Laser' That Warped Space",
+    "hook": "He fired two laser beams in a vacuum—and the space between them bent, creating a gravitational anomaly.",
+    "virality_score": 75,
+    "curiosity_gap_score": 88,
+    "darkness_score": 40,
+    "educational_value": 80,
+    "estimated_short_retention": 70,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "gravity laser",
+      "space warp",
+      "laboratory anomaly",
+      "laser interaction",
+      "gravity bending"
+    ],
+    "overlap_check_hash": "6309896c3f759069",
+    "why_this_can_go_viral": "Sounds like a device from sci-fi; the 'bending space' claim makes it click-worthy."
+  },
+  {
+    "unique_id": "science_0121_021_d4660b3805678381",
+    "title": "The Scientific Fraud Who Invented a 'Happy Virus'—And People Got Sick",
+    "hook": "He claimed a harmless virus could cure depression—but when injected, it triggered deadly brain inflammation.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fake cure",
+      "gene therapy fraud",
+      "virus injection",
+      "depression scam",
+      "brain inflammation"
+    ],
+    "overlap_check_hash": "d4660b3805678381",
+    "why_this_can_go_viral": "Hope turned into harm—emotional rollercoaster that exposes how trust can be weaponized."
+  },
+  {
+    "unique_id": "science_0121_024_49b606bb5d692122",
+    "title": "The Quantum Paradox Where a Particle 'Chose' Not to Exist",
+    "hook": "They set up an experiment where a particle had to be either wave or particle—and it vanished rather than pick.",
+    "virality_score": 74,
+    "curiosity_gap_score": 88,
+    "darkness_score": 45,
+    "educational_value": 80,
+    "estimated_short_retention": 65,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum suicide",
+      "wave function collapse",
+      "particle disappearance",
+      "quantum choice",
+      "weird physics"
+    ],
+    "overlap_check_hash": "49b606bb5d692122",
+    "why_this_can_go_viral": "The 'choose death' metaphor for a particle is eerie and evokes philosophical debate."
+  },
+  {
+    "unique_id": "science_0121_025_367e3818edcca6a4",
+    "title": "The Forbidden Experiment Where a Scientist Starved Himself to Study Starvation",
+    "hook": "He ate 1,500 calories a day for 6 months—then watched his own mind collapse into obsession, apathy, and rage.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "starvation experiment",
+      "self-experiment",
+      "Minnesota starvation",
+      "psychological collapse",
+      "human limits"
+    ],
+    "overlap_check_hash": "367e3818edcca6a4",
+    "why_this_can_go_viral": "Raw, personal, disturbing descent into madness—viewers empathize and are horrified at the same time."
+  }
+]

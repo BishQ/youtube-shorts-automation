@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "business_0158_001_aed6a120a36726e8",
+    "title": "The CEO Who Bought a Funeral Home—Then Cremated People Alive for Insurance",
+    "hook": "When a funeral home chain quietly acquired crematoriums across states, investigators discovered a chilling pattern—patients declared dead were still breathing.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 100,
+    "educational_value": 65,
+    "estimated_short_retention": 92,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "funeral home fraud",
+      "cremation scam",
+      "insurance murder",
+      "corporate death",
+      "buried secrets"
+    ],
+    "overlap_check_hash": "aed6a120a36726e8",
+    "why_this_can_go_viral": "Combines universal fear of death with corporate betrayal, creating intense emotional shock and shareability."
+  },
+  {
+    "unique_id": "business_0158_002_a3d8d8c3fee59dee",
+    "title": "The Market Manipulator Who Used Drone Swarms to Fake Crop Failures",
+    "hook": "A hedge fund deployed hundreds of drones over rival farms, spraying herbicide in patterns that satellite images showed as 'natural blight'—then shorted grain futures.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "drone manipulation",
+      "agriculture fraud",
+      "futures trading",
+      "crop sabotage",
+      "hedge fund scam"
+    ],
+    "overlap_check_hash": "a3d8d8c3fee59dee",
+    "why_this_can_go_viral": "Feels like a sci-fi thriller but is real; blends tech paranoia with Wall Street greed."
+  },
+  {
+    "unique_id": "business_0158_003_4895bdaf97416576",
+    "title": "The Startup That Sold 'Fertility Bracelets'—They Were Listening to Your Bedroom",
+    "hook": "A wearable startup claimed to track ovulation via skin temperature—until a hacker revealed its microphones were recording entire conversations.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 85,
+    "educational_value": 68,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "fertility tracker",
+      "wearable spy",
+      "privacy breach",
+      "ovulation scam",
+      "audio surveillance"
+    ],
+    "overlap_check_hash": "4895bdaf97416576",
+    "why_this_can_go_viral": "Taps into current privacy fears and the intimate betrayal of a device meant for the bedroom."
+  },
+  {
+    "unique_id": "business_0158_004_304f19dfb7675a2c",
+    "title": "The Monopoly That Bought Every Coffee Chain—Then Served Cement-Grade Beans",
+    "hook": "A holding company acquired 90% of coffee shops in three cities, then switched to beans so low-grade they were once used for industrial filler.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "coffee monopoly",
+      "bean fraud",
+      "food quality crime",
+      "industry capture",
+      "corporate greed"
+    ],
+    "overlap_check_hash": "304f19dfb7675a2c",
+    "why_this_can_go_viral": "Everyone drinks coffee; the idea of being secretly poisoned for profit is universally relatable and rage-inducing."
+  },
+  {
+    "unique_id": "business_0158_005_3c52bea27189329c",
+    "title": "The Corporate Spy Who Faked a Wedding to Infiltrate a Rival's HQ",
+    "hook": "A spy rented a church, hired actors, and 'married' an employee's relative—just to get access to the wedding guest list, which included the CFO's laptop password.",
+    "virality_score": 87,
+    "curiosity_gap_score": 95,
+    "darkness_score": 78,
+    "educational_value": 60,
+    "estimated_short_retention": 91,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "fake wedding",
+      "industrial spy",
+      "social engineering",
+      "password theft",
+      "corporate infiltration"
+    ],
+    "overlap_check_hash": "3c52bea27189329c",
+    "why_this_can_go_viral": "The absurdity of faking a marriage for data feels like Ocean's Eleven—but terrifyingly real."
+  },
+  {
+    "unique_id": "business_0158_006_18464c100d8c7fdb",
+    "title": "The Dark Marketing Firm That Used Funeral Guest Books to Sell Reverse Mortgages",
+    "hook": "A marketing agency paid funeral home employees to copy guest books, then targeted grieving families with high-interest loans disguised as 'final expense help.'",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "grief marketing",
+      "funeral exploitation",
+      "reverse mortgage scam",
+      "predatory lending",
+      "guest book theft"
+    ],
+    "overlap_check_hash": "18464c100d8c7fdb",
+    "why_this_can_go_viral": "Exploiting grief is one of the most universally condemned acts—viewers will be outraged and share to warn others."
+  },
+  {
+    "unique_id": "business_0158_008_ada14d65d68a9f25",
+    "title": "The Industry Cover-Up of 'Biodegradable' Nappies—They're Filled with Absorbent Concrete",
+    "hook": "A major diaper brand claimed 'eco-friendly' materials—a whistleblower revealed the absorbent layer was crushed concrete dust, poisoning soil and babies.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "biodegradable scam",
+      "toxic diapers",
+      "concrete nappies",
+      "baby product fraud",
+      "greenwashing"
+    ],
+    "overlap_check_hash": "ada14d65d68a9f25",
+    "why_this_can_go_viral": "Parents are the most protective audience; exposing harm to infants guarantees emotional investment and shares."
+  },
+  {
+    "unique_id": "business_0158_009_d5069bda0f2e952f",
+    "title": "The Trader Who Used Hospital MRI Noise to Predict Drug Approval Stocks",
+    "hook": "A quant fund placed directional microphones near a pharma company's MRI wing—the machine's hum frequency changed when big trials failed, signaling sell orders.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 82,
+    "educational_value": 85,
+    "estimated_short_retention": 94,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "MRI trading",
+      "acoustic data",
+      "quant fund spy",
+      "pharma insider",
+      "sound arbitrage"
+    ],
+    "overlap_check_hash": "d5069bda0f2e952f",
+    "why_this_can_go_viral": "Feels like a secret episode of Billions; the cleverness of sound-wave trading is both fascinating and unnerving."
+  },
+  {
+    "unique_id": "business_0158_010_62e27676fc5ba21e",
+    "title": "The Startup That Sold 'Kidney Safe' Detox Tea—It Was Bleach and Diuretics",
+    "hook": "A viral wellness brand promised 'gentle kidney cleansing'—users ended up in dialysis after drinking a mix of industrial bleach and horse diuretics.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 98,
+    "educational_value": 82,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "detox tea scam",
+      "kidney failure",
+      "bleach drink",
+      "wellness fraud",
+      "organ damage"
+    ],
+    "overlap_check_hash": "62e27676fc5ba21e",
+    "why_this_can_go_viral": "Wellness is a billion-dollar industry; revealing it can kill triggers fear and outrage across all demographics."
+  },
+  {
+    "unique_id": "business_0158_011_2d02ad3a1e58e9fa",
+    "title": "The Monopoly That Bought Every Denture Lab—Then Used Cemetery Bones for Teeth",
+    "hook": "A dental monopoly acquired all small labs, then source human teeth from unclaimed corpses—patients wore dead strangers' molars.",
+    "virality_score": 96,
+    "curiosity_gap_score": 99,
+    "darkness_score": 100,
+    "educational_value": 70,
+    "estimated_short_retention": 95,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "denture fraud",
+      "human bone teeth",
+      "corpse dental",
+      "dental monopoly",
+      "dead body scam"
+    ],
+    "overlap_check_hash": "2d02ad3a1e58e9fa",
+    "why_this_can_go_viral": "Body horror meets corporate greed—irresistible for shock value and morbid curiosity."
+  },
+  {
+    "unique_id": "business_0158_015_7e84351ecb29bdeb",
+    "title": "The Industry Cover-Up of 'Anti-Aging' Creams—They Contained Ground Human Skin",
+    "hook": "A luxury skincare brand used 'exclusive collagen' from a Swiss lab—it was sourced from unclaimed cadavers, ground and sterilized.",
+    "virality_score": 97,
+    "curiosity_gap_score": 99,
+    "darkness_score": 100,
+    "educational_value": 75,
+    "estimated_short_retention": 96,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "human skin cream",
+      "corpse collagen",
+      "skincare horror",
+      "anti-aging fraud",
+      "cadaver cosmetics"
+    ],
+    "overlap_check_hash": "7e84351ecb29bdeb",
+    "why_this_can_go_viral": "Combines beauty obsession with cannibalistic undertones—unforgettable and utterly shareable."
+  },
+  {
+    "unique_id": "business_0158_016_e77f7d4743030d88",
+    "title": "The Trader Who Used Wind Turbine Vibrations to Predict Manufacturing Slowdowns",
+    "hook": "By monitoring vibration data from wind turbines near factories, a trader could detect production halts before any public filing.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "turbine data",
+      "predictive trading",
+      "manufacturing signals",
+      "industrial espionage",
+      "alt data"
+    ],
+    "overlap_check_hash": "e77f7d4743030d88",
+    "why_this_can_go_viral": "Clever use of environmental data fascinates tech-savvy viewers and feels like a cheat code."
+  },
+  {
+    "unique_id": "business_0158_017_623e23328ae1441c",
+    "title": "The Startup That Sold 'Mental Health' Chatbots—They Were Mining User Trauma for Ad Data",
+    "hook": "A therapy startup's AI collected users' deepest secrets—then sold trauma categories to advertisers targeting vulnerable people.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 91,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "therapy data",
+      "trauma mining",
+      "mental health scam",
+      "AI therapy",
+      "privacy violation"
+    ],
+    "overlap_check_hash": "623e23328ae1441c",
+    "why_this_can_go_viral": "Exploiting mental health for ad revenue is a modern nightmare—triggers outrage and privacy fears."
+  },
+  {
+    "unique_id": "business_0158_019_e661ef009a87b71d",
+    "title": "The Corporate Spy Who Became a Confession Priest to Steal Rival Bank Secrets",
+    "hook": "A former CEO trained as a priest and heard 'confessions' from rival bankers—then bought their bank's stock based on whispered sins.",
+    "virality_score": 89,
+    "curiosity_gap_score": 96,
+    "darkness_score": 86,
+    "educational_value": 55,
+    "estimated_short_retention": 92,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "priest spy",
+      "confession fraud",
+      "bank secrets",
+      "religious deception",
+      "insider trading"
+    ],
+    "overlap_check_hash": "e661ef009a87b71d",
+    "why_this_can_go_viral": "Blasphemy plus high finance equals a story that feels like a Hollywood script."
+  },
+  {
+    "unique_id": "business_0158_020_ee3bf48093e122fc",
+    "title": "The Dark Marketing Firm That Used School Bus GPS to Target Families with Debt Traps",
+    "hook": "A fintech company tracked school bus routes to identify affluent neighborhoods, then bombarded parents with 'loan offers' timed to drop-off.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 76,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "school bus data",
+      "parent targeting",
+      "predatory loans",
+      "debt traps",
+      "GPS marketing"
+    ],
+    "overlap_check_hash": "ee3bf48093e122fc",
+    "why_this_can_go_viral": "Weaponizing children's routines for profit sparks parental fury and privacy panic."
+  },
+  {
+    "unique_id": "business_0158_021_6088f539229aa05e",
+    "title": "The Supply Chain Secret of 'Diamond' Engagement Rings—They Were Moissanite Coated in Cyanide",
+    "hook": "A jewelry chain sold 'natural diamonds' that were actually synthetic stones dipped in cyanide to pass thermal testers.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 85,
+    "educational_value": 74,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "fake diamonds",
+      "cyanide coating",
+      "engagement scam",
+      "jewelry fraud",
+      "thermal test"
+    ],
+    "overlap_check_hash": "6088f539229aa05e",
+    "why_this_can_go_viral": "Romance and poison—a combination that shocks and sparks conversation."
+  },
+  {
+    "unique_id": "business_0158_023_80c2cdd78a74a649",
+    "title": "The Trader Who Used Prison Payphone Data to Predict Crime-Related Stocks",
+    "hook": "A hedge fund bought call records from prison payphones—spikes in calls to lawyers preceded drops in private prison stocks.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 84,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "prison data",
+      "payphone trading",
+      "private prison",
+      "crime stocks",
+      "call analytics"
+    ],
+    "overlap_check_hash": "80c2cdd78a74a649",
+    "why_this_can_go_viral": "The intersection of incarceration and finance feels dystopian and revelatory."
+  },
+  {
+    "unique_id": "business_0158_024_bbb35ee0ed94761a",
+    "title": "The Startup That Sold 'Smart' Pacifiers—They Were Streaming Audio to Advertisers",
+    "hook": "A baby tech startup's pacifiers recorded infant cries and room sounds—then sold the audio clips to brands targeting exhausted parents.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 94,
+    "educational_value": 80,
+    "estimated_short_retention": 94,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "smart pacifier",
+      "baby audio spy",
+      "infant surveillance",
+      "ad targeting",
+      "home audio theft"
+    ],
+    "overlap_check_hash": "bbb35ee0ed94761a",
+    "why_this_can_go_viral": "Tapping babies' cries for ads crosses a moral line that shocks even cynical viewers."
+  },
+  {
+    "unique_id": "business_0158_025_3f67e722f5305a08",
+    "title": "The Monopoly That Bought Every Glass Company—Then Made Bottles That Shatter in Hands",
+    "hook": "A glass conglomerate controlled 80% of bottle production—then secretly weakened glass formulas to force repeat purchases.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 77,
+    "estimated_short_retention": 81,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "glass monopoly",
+      "shattering bottles",
+      "planned obsolescence",
+      "product safety",
+      "manufacturing fraud"
+    ],
+    "overlap_check_hash": "3f67e722f5305a08",
+    "why_this_can_go_viral": "Everyone uses glass products; the idea of them being designed to injure is darkly fascinating."
+  }
+]

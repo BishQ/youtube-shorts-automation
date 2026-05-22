@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "health_0070_001_8dbb2135407333f9",
+    "title": "The Doctor Who Used Cancer Patients as Guinea Pigs for Untested Chemo",
+    "hook": "He told them it was a breakthrough treatment, but the drug was never tested on humans before.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "cancer experiment",
+      "untested chemo",
+      "doctor guinea pigs",
+      "medical horror",
+      "patient abuse"
+    ],
+    "overlap_check_hash": "8dbb2135407333f9",
+    "why_this_can_go_viral": "Combines emotional weight of cancer patients with the shock of deliberate betrayal by a trusted doctor."
+  },
+  {
+    "unique_id": "health_0070_002_937b9f5a5aa2cb96",
+    "title": "The FDA-Approved Painkiller That Turned Patients Addicted in One Dose",
+    "hook": "It was marketed as non-addictive, but the first pill rewired the brain permanently.",
+    "virality_score": 92,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "FDA approved",
+      "painkiller addiction",
+      "one dose addiction",
+      "drug scandal",
+      "pharmaceutical lie"
+    ],
+    "overlap_check_hash": "937b9f5a5aa2cb96",
+    "why_this_can_go_viral": "Taps into the opioid crisis awareness and fear of prescribed drugs causing instant addiction."
+  },
+  {
+    "unique_id": "health_0070_003_1bc7735bb5b7282b",
+    "title": "The Hospital That Kept Terminally Ill Patients Alive Just for Insurance Payouts",
+    "hook": "They were kept in comas for months, while the hospital collected millions per patient.",
+    "virality_score": 94,
+    "curiosity_gap_score": 92,
+    "darkness_score": 98,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "hospital fraud",
+      "insurance scam",
+      "terminally ill abuse",
+      "coma profit",
+      "healthcare crime"
+    ],
+    "overlap_check_hash": "1bc7735bb5b7282b",
+    "why_this_can_go_viral": "Combines greed, suffering, and a system designed to profit from prolonged death."
+  },
+  {
+    "unique_id": "health_0070_005_0994a0cb9073d7aa",
+    "title": "The Toxic Hand Sanitizer That Gave 1 in 10 Kids Permanent Liver Damage",
+    "hook": "It was sold in schools as a safety measure, but the ingredient was pure poison.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "toxic hand sanitizer",
+      "liver damage children",
+      "school poison",
+      "product cover-up",
+      "chemical danger"
+    ],
+    "overlap_check_hash": "0994a0cb9073d7aa",
+    "why_this_can_go_viral": "Targets parent anxiety and the irony of a 'protective' product causing harm."
+  },
+  {
+    "unique_id": "health_0070_009_eb8f5517d936855e",
+    "title": "The Experiment That Gave 100 Orphans TB and Called It a 'Vaccine Trial'",
+    "hook": "They were promised free medical care, but instead were injected with live tuberculosis bacteria.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 100,
+    "educational_value": 72,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "orphan experiment",
+      "TB infection",
+      "vaccine trial horror",
+      "child abuse medical",
+      "unethical research"
+    ],
+    "overlap_check_hash": "eb8f5517d936855e",
+    "why_this_can_go_viral": "Extreme moral outrage over exploiting vulnerable children in a fatal experiment."
+  },
+  {
+    "unique_id": "health_0070_012_d2a226a10548487e",
+    "title": "The Suppressed Cure: $2 Moringa Powder Reversed 60% of Type 2 Diabetes",
+    "hook": "The study was published, then retracted within 24 hours after a 'private request' from a pharma company.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 84,
+    "educational_value": 83,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "moringa diabetes",
+      "suppressed research",
+      "pharma interference",
+      "natural cure",
+      "study retracted"
+    ],
+    "overlap_check_hash": "d2a226a10548487e",
+    "why_this_can_go_viral": "Appeals to diabetics and conspiracy-minded audiences; clear villain in pharma censorship."
+  },
+  {
+    "unique_id": "health_0070_013_cef126f9824fcbea",
+    "title": "The Toxic Dry Shampoo That Caused 1 in 6 Women Permanent Hair Loss",
+    "hook": "It was marketed as a quick fix, but chemical analysis found industrial solvent inside.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "dry shampoo danger",
+      "hair loss product",
+      "toxic cosmetics",
+      "beauty industry scandal",
+      "chemical solvent"
+    ],
+    "overlap_check_hash": "cef126f9824fcbea",
+    "why_this_can_go_viral": "Highly relatable product for women; shocking discovery of hidden poison in everyday item."
+  },
+  {
+    "unique_id": "health_0070_014_44d7d6e3e5d6fc0f",
+    "title": "The Disease Cover-Up: How Artificial Sweeteners Caused 25% of Gut Disorders",
+    "hook": "They were supposed to be healthier than sugar, but they destroyed the microbiome silently.",
+    "virality_score": 85,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 88,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "artificial sweeteners",
+      "gut health",
+      "microbiome damage",
+      "disease cover-up",
+      "diet food scam"
+    ],
+    "overlap_check_hash": "44d7d6e3e5d6fc0f",
+    "why_this_can_go_viral": "Massive audience uses diet products; reveals a hidden health crisis masked as health advice."
+  },
+  {
+    "unique_id": "health_0070_015_7ea37c989c258894",
+    "title": "The Doctor Who Impregnated 20 Patients with His Own Sperm Without Consent",
+    "hook": "He told them they were using anonymous donors, but the DNA matched his own.",
+    "virality_score": 96,
+    "curiosity_gap_score": 99,
+    "darkness_score": 100,
+    "educational_value": 60,
+    "estimated_short_retention": 95,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "fertility fraud",
+      "doctor sperm",
+      "patient impregnation",
+      "medical scandal",
+      "DNA betrayal"
+    ],
+    "overlap_check_hash": "7ea37c989c258894",
+    "why_this_can_go_viral": "Genetic betrayal and violation of reproductive rights; real-life horror story with DNA proof."
+  },
+  {
+    "unique_id": "health_0070_016_56057205cf14f752",
+    "title": "The Pharmaceutical CEO Who Told Employees to 'Sell the Side Effects' to Doctors",
+    "hook": "Internal emails revealed they trained sales reps to hide deadly risks from physicians.",
+    "virality_score": 87,
+    "curiosity_gap_score": 88,
+    "darkness_score": 86,
+    "educational_value": 81,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "pharma CEO",
+      "sell side effects",
+      "hidden risks",
+      "drug sales fraud",
+      "corporate corruption"
+    ],
+    "overlap_check_hash": "56057205cf14f752",
+    "why_this_can_go_viral": "Shows deliberate corporate deception; leaked emails add authenticity and outrage."
+  },
+  {
+    "unique_id": "health_0070_017_2b2c8e782f4012c5",
+    "title": "The Experiment That Gave 400 Psychiatric Patients LSD Without Consent",
+    "hook": "They were told it was a new 'therapy,' but it was a military mind-control test.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 73,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "LSD experiment",
+      "psychiatric patients",
+      "mind control",
+      "MKUltra",
+      "unethical drug test"
+    ],
+    "overlap_check_hash": "2b2c8e782f4012c5",
+    "why_this_can_go_viral": "Ties to famous MKUltra conspiracy; vulnerable subjects make the story deeply disturbing."
+  },
+  {
+    "unique_id": "health_0070_018_6e42d6034d53c59d",
+    "title": "The FDA-Approved Birth Control Pill That Caused Blood Clots in 1 in 100 Women",
+    "hook": "The risk was 100 times higher than claimed, but the approval was fast-tracked by a former pharma exec.",
+    "virality_score": 84,
+    "curiosity_gap_score": 85,
+    "darkness_score": 83,
+    "educational_value": 80,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "birth control pill",
+      "blood clots",
+      "FDA corruption",
+      "women's health",
+      "drug risk cover-up"
+    ],
+    "overlap_check_hash": "6e42d6034d53c59d",
+    "why_this_can_go_viral": "Affects millions of women on birth control; exposes regulatory capture by pharmaceutical industry."
+  },
+  {
+    "unique_id": "health_0070_019_2e4cb60ccc0a57f5",
+    "title": "The Hospital That Faked 500 Cancer Diagnoses to Charge for Chemotherapy",
+    "hook": "Healthy patients were told they had stage 4 cancer, then billed $200,000 for fake treatment.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 98,
+    "educational_value": 72,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "fake cancer diagnosis",
+      "chemotherapy fraud",
+      "hospital scam",
+      "patient exploitation",
+      "medical billing"
+    ],
+    "overlap_check_hash": "2e4cb60ccc0a57f5",
+    "why_this_can_go_viral": "Ultimate violation of trust; combines financial greed with psychological torture."
+  },
+  {
+    "unique_id": "health_0070_020_4712d6aba71429f2",
+    "title": "The Toxic Plastic Water Bottle That Leached Estrogen Into 1 in 3 Users",
+    "hook": "It was sold as BPA-free, but the replacement chemical was just as dangerous.",
+    "virality_score": 82,
+    "curiosity_gap_score": 83,
+    "darkness_score": 76,
+    "educational_value": 84,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "plastic water bottle",
+      "estrogen leaching",
+      "BPA-free scam",
+      "endocrine disruptor",
+      "product danger"
+    ],
+    "overlap_check_hash": "4712d6aba71429f2",
+    "why_this_can_go_viral": "Ubiquitous product with hidden hormonal risk; 'BPA-free' was a lie."
+  },
+  {
+    "unique_id": "health_0070_021_4b80f52766c864e2",
+    "title": "The Disease Cover-Up: How Fluorescent Office Lights Caused 30% of Chronic Fatigue",
+    "hook": "The flicker rate is invisible to the eye, but it triggers a neurological stress response in most people.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 72,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "fluorescent lights",
+      "chronic fatigue",
+      "office health",
+      "light sensitivity",
+      "neurological damage"
+    ],
+    "overlap_check_hash": "4b80f52766c864e2",
+    "why_this_can_go_viral": "Relatable to office workers; hidden cause of exhaustion blamed on lifestyle."
+  },
+  {
+    "unique_id": "health_0070_022_4010a6bd209f5981",
+    "title": "The Doctor Who Sold Fake Stem Cell Treatments to 1,000 Terminally Ill Patients",
+    "hook": "He injected saline solution and charged $50,000 per dose, telling them it was a miracle cure.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 93,
+    "educational_value": 74,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "fake stem cells",
+      "terminally ill scam",
+      "doctor fraud",
+      "miracle cure lie",
+      "false hope"
+    ],
+    "overlap_check_hash": "4010a6bd209f5981",
+    "why_this_can_go_viral": "Preys on desperate patients; combines hope, greed, and ultimate betrayal."
+  },
+  {
+    "unique_id": "health_0070_023_0c836a90c91ac7e5",
+    "title": "The Pharmaceutical Giant That Tested a Heart Drug on Children Without Parental Consent",
+    "hook": "The children were in a hospital for minor procedures, but the drug was designed for adults with heart failure.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 94,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "children drug test",
+      "heart drug experiment",
+      "pharma corruption",
+      "unethical trial",
+      "child safety"
+    ],
+    "overlap_check_hash": "0c836a90c91ac7e5",
+    "why_this_can_go_viral": "Children as test subjects for adult drugs; evokes strong protective outrage."
+  },
+  {
+    "unique_id": "health_0070_024_45a179f7c7ffb027",
+    "title": "The Experiment That Gave 50 Volunteers a 'Memory Drug' That Erased Their Past",
+    "hook": "They signed up for a memory enhancement trial, but woke up unable to recognize their own family.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 97,
+    "educational_value": 70,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "memory drug",
+      "erased memories",
+      "volunteer experiment",
+      "amnesia trial",
+      "brain damage"
+    ],
+    "overlap_check_hash": "45a179f7c7ffb027",
+    "why_this_can_go_viral": "Sci-fi horror made real; taps into fear of losing identity and memories."
+  }
+]

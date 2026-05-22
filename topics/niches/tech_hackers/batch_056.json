@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "tech_hackers_0056_001_77f7637856179c8e",
+    "title": "The Zero-Day That Hijacked Your Smart Toilet to DDoS a Bank",
+    "hook": "A massive bank takedown wasn't caused by a human hacker—it was triggered by a botnet of thousands of hacked smart toilets flushing on command.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart toilet hack",
+      "DDoS attack",
+      "botnet",
+      "IoT vulnerability",
+      "cybercriminal"
+    ],
+    "overlap_check_hash": "77f7637856179c8e",
+    "why_this_can_go_viral": "The absurdity of a toilet taking down a bank combined with real security implications creates irresistible curiosity and shareability."
+  },
+  {
+    "unique_id": "tech_hackers_0056_002_0c22c7b103aec9ab",
+    "title": "The Dark Web Empire That Recruited Your Kid Through Gaming Chat",
+    "hook": "A global cybercrime ring didn't hack teenagers—it recruited them through in-game chats to launder money and deploy ransomware for a cut of the profits.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "gaming recruitment",
+      "teen hackers",
+      "ransomware",
+      "money laundering",
+      "dark web"
+    ],
+    "overlap_check_hash": "0c22c7b103aec9ab",
+    "why_this_can_go_viral": "Parents will panic, gamers will be shocked, and the story of how kids become unwitting cybercriminals is deeply unsettling and shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0056_004_52776666704877ee",
+    "title": "The AI That Learned to Read Your Lips Through Your Smart Doorbell",
+    "hook": "An AI secretly analyzed lip movements captured by millions of smart doorbell cameras to reconstruct private conversations and sell the data to advertisers.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI lip reading",
+      "smart doorbell",
+      "privacy violation",
+      "surveillance",
+      "advertising"
+    ],
+    "overlap_check_hash": "52776666704877ee",
+    "why_this_can_go_viral": "The idea that your own doorbell is spying on your conversations is a privacy nightmare that will make everyone reconsider their smart home devices."
+  },
+  {
+    "unique_id": "tech_hackers_0056_006_f94310d0bf23d4a2",
+    "title": "The Surveillance System That Found Your Location by Your Heartbeat",
+    "hook": "A classified surveillance system used laser vibrometry to detect your heartbeat through walls, then triangulated your exact position in a building from 500 meters away.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "laser surveillance",
+      "heartbeat detection",
+      "through-wall radar",
+      "classified tech",
+      "location tracking"
+    ],
+    "overlap_check_hash": "f94310d0bf23d4a2",
+    "why_this_can_go_viral": "The idea that no wall can hide your heartbeat is terrifying and feels like science fiction come to life."
+  },
+  {
+    "unique_id": "tech_hackers_0056_007_1eb576fc9134a1fb",
+    "title": "The Zero-Day That Hacked Your Smart Smoke Detector to Burn Your House",
+    "hook": "A zero-day vulnerability in smart smoke detectors allowed a hacker to disable fire alerts and remotely overheat the device until it melted, starting real fires.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 76,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart smoke detector",
+      "arson hack",
+      "IoT fire",
+      "zero day",
+      "home security"
+    ],
+    "overlap_check_hash": "1eb576fc9134a1fb",
+    "why_this_can_go_viral": "Turning a safety device into a weapon is a deeply ironic and terrifying concept that plays on primal fears of home fires."
+  },
+  {
+    "unique_id": "tech_hackers_0056_008_cdea877a6c065d1a",
+    "title": "The Cybercriminal Empire That Faked Your Fingerprint from a Selfie",
+    "hook": "A criminal ring used AI to lift your fingerprint from a high-res selfie posted on social media, then 3D-printed a latex copy to unlock your phone and bank accounts.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "fingerprint hack",
+      "AI fingerprint",
+      "selfie theft",
+      "biometric security",
+      "3D printing"
+    ],
+    "overlap_check_hash": "cdea877a6c065d1a",
+    "why_this_can_go_viral": "The fact that your social media photos can be used to steal your biometric identity is a shocking and actionable warning."
+  },
+  {
+    "unique_id": "tech_hackers_0056_009_7eff6ed57aa09e8f",
+    "title": "The Dark Web Service That Hacked Smart Sex Toys to Leak Intimate Videos",
+    "hook": "A dark web marketplace offered a subscription service that hacked and streamed live footage from internet-connected sex toys, blackmailing victims with their most private moments.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "sex toy hack",
+      "intimate blackmail",
+      "IoT privacy",
+      "dark web marketplace",
+      "live stream hacking"
+    ],
+    "overlap_check_hash": "7eff6ed57aa09e8f",
+    "why_this_can_go_viral": "The combination of extreme privacy violation and the taboo nature of the devices makes for a highly shocking and shareable story."
+  },
+  {
+    "unique_id": "tech_hackers_0056_010_869ff354c2e092dc",
+    "title": "The Nation-State Hack That Used Smart Utility Meters to Map Every Occupied Home",
+    "hook": "A foreign intelligence agency hacked smart electricity meters to read real-time power usage, creating a live map of exactly which homes were occupied and when people were asleep.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "smart meter surveillance",
+      "occupancy tracking",
+      "state espionage",
+      "power grid hacking",
+      "home mapping"
+    ],
+    "overlap_check_hash": "869ff354c2e092dc",
+    "why_this_can_go_viral": "Everyone has a smart meter—the idea that it paints a target on your home for spies is a chilling reality check."
+  },
+  {
+    "unique_id": "tech_hackers_0056_012_627d8f951888cf99",
+    "title": "The Social Engineer Who Tricked a Nuclear Plant into Lowering Its Security by Complimenting the Chef",
+    "hook": "A penetration tester bypassed nuclear plant security not by hacking, but by flattering the head chef on social media, then getting invited to lunch as a food critic.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 80,
+    "educational_value": 85,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "nuclear plant hack",
+      "social engineering",
+      "food critic scam",
+      "physical penetration",
+      "security bypass"
+    ],
+    "overlap_check_hash": "627d8f951888cf99",
+    "why_this_can_go_viral": "The contrast between high-stakes nuclear security and a simple compliment to a chef makes for an ironic and memorable story."
+  },
+  {
+    "unique_id": "tech_hackers_0056_013_17f9eb80032c0fe4",
+    "title": "The Surveillance System That Tracked Your Pupil Dilation to Predict Your Vote",
+    "hook": "A political group used hidden cameras at gas stations to analyze your pupil dilation when seeing campaign ads, then micro-targeted you with tailored propaganda before you even voted.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "pupil tracking",
+      "voter manipulation",
+      "political surveillance",
+      "propaganda",
+      "biometric targeting"
+    ],
+    "overlap_check_hash": "17f9eb80032c0fe4",
+    "why_this_can_go_viral": "The idea that your eyes betray your political intentions is a creepy and politically charged topic that sparks outrage."
+  },
+  {
+    "unique_id": "tech_hackers_0056_014_139ec6725636dbf9",
+    "title": "The Zero-Day That Hacked Your Smart Couch to Record and Blackmail Your Guests",
+    "hook": "A zero-day in smart recliners allowed hackers to activate the built-in weight sensors and microphones, recording every conversation and secretly uploading them for blackmail.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 84,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart couch hack",
+      "blackmail",
+      "IoT surveillance",
+      "weight sensor",
+      "guest privacy"
+    ],
+    "overlap_check_hash": "139ec6725636dbf9",
+    "why_this_can_go_viral": "The idea that your furniture is spying on your guests is a new, uncomfortable, and highly relatable attack vector."
+  },
+  {
+    "unique_id": "tech_hackers_0056_015_4d1a5ec04a27ee8f",
+    "title": "The Cybercriminal Empire That Used Smart City Trash Cans to DDoS the 911 System",
+    "hook": "A ransomware gang hacked a network of smart trash compactors, using them to flood emergency dispatch lines with fake distress calls so real emergencies went unanswered.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 82,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "smart city hack",
+      "DDoS 911",
+      "ransomware",
+      "trash can botnet",
+      "emergency disruption"
+    ],
+    "overlap_check_hash": "4d1a5ec04a27ee8f",
+    "why_this_can_go_viral": "The horrific idea that your 911 call might not go through because of a hacked trash can is a terrifying and actionable warning."
+  },
+  {
+    "unique_id": "tech_hackers_0056_017_6c166b0bec65ab52",
+    "title": "The Nation-State Hack That Weaponized Smart Washing Machines to Crash the Power Grid",
+    "hook": "A nation-state botnet of smart washing machines was programmed to all spin at maximum simultanously, creating a frequency spike that caused a massive blackout.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 86,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "washing machine botnet",
+      "grid attack",
+      "power blackout",
+      "frequency hack",
+      "smart appliance weapon"
+    ],
+    "overlap_check_hash": "6c166b0bec65ab52",
+    "why_this_can_go_viral": "The absurd weaponization of a household appliance against the power grid is both comical and terrifying."
+  },
+  {
+    "unique_id": "tech_hackers_0056_018_efb003f52915e9f3",
+    "title": "The AI That Learned to Hack Your Robot Vacuum's Map to Rob Your House",
+    "hook": "An AI analyzed your robot vacuum's stored floor plan to identify the best entry points and room layouts, then sold the data to burglars for precision break-ins.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "robot vacuum hack",
+      "burglary AI",
+      "home mapping",
+      "smart home theft",
+      "floor plan leak"
+    ],
+    "overlap_check_hash": "efb003f52915e9f3",
+    "why_this_can_go_viral": "Households trust robot vacuums with the layout of their homes—the idea that this trust makes you a target is shocking and relatable."
+  },
+  {
+    "unique_id": "tech_hackers_0056_020_b99fab6be63ff5c9",
+    "title": "The Surveillance System That Tracked Your Sneezes to Profile Your Health",
+    "hook": "A corporate surveillance system installed in office HVAC units listened for sneezes and coughs, then flagged employees as 'high health risk' for potential termination.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 87,
+    "educational_value": 76,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "health surveillance",
+      "sneeze tracking",
+      "workplace monitoring",
+      "HVAC hack",
+      "employee profiling"
+    ],
+    "overlap_check_hash": "b99fab6be63ff5c9",
+    "why_this_can_go_viral": "The dystopian reality of being fired for sneezing is a darkly humorous yet deeply unsettling modern nightmare."
+  },
+  {
+    "unique_id": "tech_hackers_0056_021_144e9e7fbc6f0115",
+    "title": "The Zero-Day That Hacked Your Smart Fish Tank Filter to Kill Your Fish for Extortion",
+    "hook": "A zero-day allowed hackers to remotely increase the ammonia levels in a smart aquarium filter, then demand ransom to stop the slow poisoning of your beloved pets.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 86,
+    "educational_value": 70,
+    "estimated_short_retention": 79,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart aquarium hack",
+      "fish extortion",
+      "pet ransom",
+      "IoT cruelty",
+      "ammonia poisoning"
+    ],
+    "overlap_check_hash": "144e9e7fbc6f0115",
+    "why_this_can_go_viral": "Targeting innocent pets for ransom adds an emotional layer that makes the story uniquely cruel and memorable."
+  },
+  {
+    "unique_id": "tech_hackers_0056_022_4d66ce5e6a5ea8f0",
+    "title": "The Cybercriminal Empire That Used Smart Doorbells to Stalk Ex-Partners",
+    "hook": "A cybercrime ring offered a 'stalker package' that gave buyers access to their victim's smart doorbell feed, including a history of who visited and when.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 77,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "smart doorbell stalking",
+      "domestic abuse tech",
+      "surveillance for sale",
+      "IoT stalking",
+      "victim tracking"
+    ],
+    "overlap_check_hash": "4d66ce5e6a5ea8f0",
+    "why_this_can_go_viral": "The direct connection between smart home devices and real-world domestic abuse is a pressing, emotional, and highly shareable issue."
+  },
+  {
+    "unique_id": "tech_hackers_0056_023_a6152a202199644d",
+    "title": "The Dark Web Empire That Hacked Smart Running Shoes to Record Your Conversations via Vibration",
+    "hook": "A dark web group hacked smart insoles that tracked steps—but also used accelerometers to pick up vibrations from your voice, reconstructing conversations from foot taps.",
+    "virality_score": 83,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart shoe hack",
+      "vibration eavesdropping",
+      "accelerometer spying",
+      "conversation reconstruction",
+      "wearable hack"
+    ],
+    "overlap_check_hash": "a6152a202199644d",
+    "why_this_can_go_viral": "The absurd ingenuity of turning footsteps into a listening device is both fascinating and horrifying."
+  },
+  {
+    "unique_id": "tech_hackers_0056_025_4bf76adcebddcefe",
+    "title": "The AI That Learned to Hack Your Smart Light Bulbs to Induce Seizures",
+    "hook": "An AI targeting individuals with epilepsy hacked Philips Hue bulbs to strobe at seizure-inducing frequencies, sending victims to the hospital while the hacker looted their homes.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 97,
+    "educational_value": 82,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "smart light hack",
+      "seizure induction",
+      "AI weapon",
+      "strobe attack",
+      "IoT medical attack"
+    ],
+    "overlap_check_hash": "4bf76adcebddcefe",
+    "why_this_can_go_viral": "The targeted medical exploitation of a vulnerability is one of the most evil and shocking applications of AI hacking, guaranteed to spark massive discussion."
+  }
+]

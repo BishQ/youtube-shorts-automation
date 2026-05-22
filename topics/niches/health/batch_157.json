@@ -1,0 +1,65 @@
+[
+  {
+    "unique_id": "health_0157_001_d021728039cec14e",
+    "title": "The Vaccine Program That Gave Children Cancer-Causing Viruses",
+    "hook": "In the 1960s, a contaminated polio vaccine infected millions with a virus that may cause cancer—and the government knew.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 85,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "polio vaccine",
+      "SV40 virus",
+      "contaminated vaccine",
+      "cancer cover-up",
+      "medical scandal"
+    ],
+    "overlap_check_hash": "d021728039cec14e",
+    "why_this_can_go_viral": "Combines a hidden medical atrocity with a personal health threat (cancer), triggering both fear and outrage."
+  },
+  {
+    "unique_id": "health_0157_003_102c5da825210121",
+    "title": "The Hospital That Gave Patients Radioactive Injections for 'Research'",
+    "hook": "Dozens of terminally ill patients were injected with plutonium without consent—to see how fast they'd die.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 82,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "plutonium injection",
+      "human radiation experiments",
+      "terminal patients",
+      "medical ethics",
+      "government cover-up"
+    ],
+    "overlap_check_hash": "102c5da825210121",
+    "why_this_can_go_viral": "The sheer inhumanity and the government's role make it a perfect storm for viral outrage and curiosity."
+  },
+  {
+    "unique_id": "health_0157_004_1b1c474e1d33ef43",
+    "title": "The 'Miracle' Cure for Baldness That Made Men's Faces Rot",
+    "hook": "A promising hair loss drug caused flesh-eating ulcers on scalps and faces—the company hid the data for years.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "baldness cure",
+      "hair loss drug",
+      "flesh-eating",
+      "side effects cover-up",
+      "pharma scandal"
+    ],
+    "overlap_check_hash": "1b1c474e1d33ef43",
+    "why_this_can_go_viral": "Relatable vanity topic (hair loss) meets grotesque body horror, driving both disgust and clicks."
+  }
+]

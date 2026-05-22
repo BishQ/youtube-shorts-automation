@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "crime_0182_001_0a1fd1b569ce940a",
+    "title": "The Mob Accountant Who Skimmed $500 Million by Changing One Number",
+    "hook": "He altered a single digit in the ledgers and made the entire Sicilian Mafia believe their own empire was broke.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "Mafia",
+      "ledger fraud",
+      "Sicilian Mafia",
+      "accountant",
+      "hidden money"
+    ],
+    "overlap_check_hash": "0a1fd1b569ce940a",
+    "why_this_can_go_viral": "The 'one simple trick' trope applied to the most dangerous men on earth creates extreme cognitive dissonance and shareability."
+  },
+  {
+    "unique_id": "crime_0182_003_f0474f336f3efa3a",
+    "title": "The Serial Killer Who Used a 'Scent Map' to Find Victims — He Could Smell Fear",
+    "hook": "He claimed he could smell the chemical changes in a person's sweat when they were scared — and he was never wrong.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 90,
+    "educational_value": 55,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "scent tracking",
+      "pheromones",
+      "fear chemistry",
+      "hunting method",
+      "olfactory killer"
+    ],
+    "overlap_check_hash": "f0474f336f3efa3a",
+    "why_this_can_go_viral": "The idea of being 'smelled' triggers a primal, visceral fear that makes viewers want to share it as a warning."
+  },
+  {
+    "unique_id": "crime_0182_005_9f9304d2dcbf7b9a",
+    "title": "The Cartel That Used Human Trafficking Victims as Currency — To Buy Missiles",
+    "hook": "They didn't trade drugs or money. They traded people, like stock options, to arm a private army.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 98,
+    "educational_value": 65,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "human currency",
+      "arms trade",
+      "cartel army",
+      "trafficking logic",
+      "black market missiles"
+    ],
+    "overlap_check_hash": "9f9304d2dcbf7b9a",
+    "why_this_can_go_viral": "The dehumanizing financialization of people is so dark and economically bizarre that it demands explanation and outrage."
+  },
+  {
+    "unique_id": "crime_0182_006_80630bf82adb40f5",
+    "title": "The Unsolved Murder Where the Killer Used a 3D Printer — To Frame a Dead Man",
+    "hook": "The fingerprint at the crime scene belonged to a corpse that had been buried for six months.",
+    "virality_score": 94,
+    "curiosity_gap_score": 99,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 95,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "3D printed fingerprint",
+      "frame job",
+      "impossible crime",
+      "forensic paradox",
+      "dead man's print"
+    ],
+    "overlap_check_hash": "80630bf82adb40f5",
+    "why_this_can_go_viral": "The forensic sci-fi angle is perfectly viral — it sounds like a movie plot but was real, triggering disbelief and shares."
+  },
+  {
+    "unique_id": "crime_0182_007_dc9f135f85a48291",
+    "title": "The Criminal Mastermind Who Controlled a Prison by Playing the Pipes",
+    "hook": "He used the building's old plumbing system as a communication network — and organized a riot from solitary confinement.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 78,
+    "educational_value": 60,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "prison riot",
+      "plumbing network",
+      "solitary communication",
+      "inmate organization",
+      "acoustic manipulation"
+    ],
+    "overlap_check_hash": "dc9f135f85a48291",
+    "why_this_can_go_viral": "The MacGyver-esque ingenuity combined with prison hierarchy creates a satisfying 'underdog outsmarts system' narrative."
+  },
+  {
+    "unique_id": "crime_0182_008_70f78eaa808d790f",
+    "title": "The Billion-Dollar Fraud That Sold 'Fake Sky' to Celebrities — To Cure Their Anxiety",
+    "hook": "They painted ceilings with a special 'sky serum' and charged $100,000 per room — claiming it released oxygen that calmed the brain.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 55,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fake sky",
+      "celebrity scam",
+      "anxiety cure",
+      "placebo fraud",
+      "oxygen scam"
+    ],
+    "overlap_check_hash": "70f78eaa808d790f",
+    "why_this_can_go_viral": "The absurd luxury of the scam and the gullibility of billionaires make it a perfect mix of envy and mockery."
+  },
+  {
+    "unique_id": "crime_0182_009_711e569a3260ad2d",
+    "title": "The Heist Where Thieves Stole a Football Stadium — By Buying It",
+    "hook": "They used stolen money to purchase the stadium legally, then sold every seat, every beam, and every blade of grass.",
+    "virality_score": 90,
+    "curiosity_gap_score": 98,
+    "darkness_score": 62,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "stadium theft",
+      "money laundering heist",
+      "asset stripping",
+      "legal loophole crime",
+      "massive scale fraud"
+    ],
+    "overlap_check_hash": "711e569a3260ad2d",
+    "why_this_can_go_viral": "The irony of using the system to 'steal' something so massive that no one noticed is a high-trust, low-attention hack story."
+  },
+  {
+    "unique_id": "crime_0182_011_6f20ef148d588339",
+    "title": "The Crime Boss Who Ran His Empire From a Coma — Using Blinks",
+    "hook": "He was clinically unconscious, but his lieutenants coded a binary language out of eyelid movements to get orders.",
+    "virality_score": 93,
+    "curiosity_gap_score": 98,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "coma communication",
+      "blink code",
+      "mafia boss",
+      "binary orders",
+      "locked-in crime"
+    ],
+    "overlap_check_hash": "6f20ef148d588339",
+    "why_this_can_go_viral": "The sheer absurdity and mechanical genius of running a crime syndicate from a hospital bed is an instant hook."
+  },
+  {
+    "unique_id": "crime_0182_012_f84d12210d362195",
+    "title": "The Cartel That Used Shark Tanks as Disposal — Feeding Cycles Erased Evidence",
+    "hook": "They discovered that tiger sharks digest bone completely in 72 hours, and built a business around the 'cleaning cycle'.",
+    "virality_score": 88,
+    "curiosity_gap_score": 95,
+    "darkness_score": 96,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "shark disposal",
+      "tiger sharks",
+      "forensic dissolution",
+      "cartel method",
+      "oceanic crime scene"
+    ],
+    "overlap_check_hash": "f84d12210d362195",
+    "why_this_can_go_viral": "Combining apex predators with cartel horror creates a deep-seated biological dread that is highly shareable."
+  },
+  {
+    "unique_id": "crime_0182_013_ced96990a58cb8fe",
+    "title": "The Unsolved Murder Where the Victim's Dog Led Police to the Killer — By Running Away From Him",
+    "hook": "The dog wagged its tail at everyone except one person — and it refused to enter the courtroom where that person sat.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 72,
+    "educational_value": 60,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "dog evidence",
+      "animal intuition",
+      "canine witness",
+      "courtroom behavior",
+      "silent testimony"
+    ],
+    "overlap_check_hash": "ced96990a58cb8fe",
+    "why_this_can_go_viral": "The emotional pull of a loyal dog combined with unsolved mystery creates a high-empathy share cycle."
+  },
+  {
+    "unique_id": "crime_0182_014_0e7b9a4472d96023",
+    "title": "The Organized Crime Ring That Stole $2 Billion by Duplicating Casino Chips",
+    "hook": "They didn't rob the casino. They injected counterfeit chips into the system so slowly that the casino itself banked the fake money.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 74,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "casino chip fraud",
+      "counterfeit injection",
+      "invisible heist",
+      "gaming commission loophole",
+      "slow bleed scam"
+    ],
+    "overlap_check_hash": "0e7b9a4472d96023",
+    "why_this_can_go_viral": "The idea of 'invisible theft' from a place designed to catch cheaters is a perfect 'system cracked' story."
+  },
+  {
+    "unique_id": "crime_0182_016_d69a8e8a926e0db8",
+    "title": "The White-Collar Criminal Who Sold 'Fake Inheritance' Letters — To Grieving Widows",
+    "hook": "He scanned obituaries, then sent official-looking letters saying the deceased had a secret insurance policy — and collected the 'processing fee'.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "obituary scams",
+      "grief fraud",
+      "inheritance letter",
+      "widow targeting",
+      "psychological manipulation"
+    ],
+    "overlap_check_hash": "d69a8e8a926e0db8",
+    "why_this_can_go_viral": "Predatory targeting of the grieving triggers intense moral outrage, driving shares as a public service warning."
+  },
+  {
+    "unique_id": "crime_0182_017_78e896d2f62f13e0",
+    "title": "The Serial Killer Who Used a 'Soul Jar' — And Believed He Could Trap Victims' Spirits",
+    "hook": "He kept jars of 'essence' next to each body. He thought if the jar broke, the victim would reanimate and accuse him.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 94,
+    "educational_value": 45,
+    "estimated_short_retention": 81,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "soul jar",
+      "spirit trap",
+      "supernatural delusion",
+      "folklore murder",
+      "ritualistic behavior"
+    ],
+    "overlap_check_hash": "78e896d2f62f13e0",
+    "why_this_can_go_viral": "The folk horror element and the bizarre logic of the killer make it ripe for creepy-pasta sharing."
+  },
+  {
+    "unique_id": "crime_0182_019_d952a9c1b1525316",
+    "title": "The Cartel That Built a Submarine Fleet — Using Toyota Parts",
+    "hook": "They ordered thousands of Corolla alternators and welded them into semi-submersibles that could cross the Atlantic undetected.",
+    "virality_score": 92,
+    "curiosity_gap_score": 98,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "narco submarine",
+      "Toyota parts",
+      "DIY submarine",
+      "Atlantic crossing",
+      "engineering ingenuity"
+    ],
+    "overlap_check_hash": "d952a9c1b1525316",
+    "why_this_can_go_viral": "The 'Jerry-rigged but terrifyingly effective' engineering angle appeals to both gearheads and true crime fans."
+  },
+  {
+    "unique_id": "crime_0182_020_c7e2439abe1f3fa9",
+    "title": "The Unsolved Murder Where the Killer Was Identified by a Single Dust Mite",
+    "hook": "A rare species of mite found only in one neighborhood matched the dust on the victim's collar — but the homeowner had an alibi.",
+    "virality_score": 88,
+    "curiosity_gap_score": 95,
+    "darkness_score": 76,
+    "educational_value": 80,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "dust mite evidence",
+      "forensic entomology",
+      "microscopic clue",
+      "impossible alibi",
+      "cold case breakthrough"
+    ],
+    "overlap_check_hash": "c7e2439abe1f3fa9",
+    "why_this_can_go_viral": "The 'micro-evidence' angle is fascinating because it's both technically complex and deeply unsettling — the killer was so close."
+  },
+  {
+    "unique_id": "crime_0182_021_680d11522babe50c",
+    "title": "The Criminal Mastermind Who Faked a Country — To Get a Passport",
+    "hook": "He created a fictional island nation, printed stamps, opened an 'embassy', and had a diplomat oath — all to get a blank passport template.",
+    "virality_score": 95,
+    "curiosity_gap_score": 99,
+    "darkness_score": 72,
+    "educational_value": 78,
+    "estimated_short_retention": 94,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fictional country",
+      "passport fraud",
+      "embassy scam",
+      "identity fabrication",
+      "global grift"
+    ],
+    "overlap_check_hash": "680d11522babe50c",
+    "why_this_can_go_viral": "The sheer scale of the lie — inventing a nation — is so absurdly ambitious that it becomes legendary."
+  },
+  {
+    "unique_id": "crime_0182_022_4eedef5897320fff",
+    "title": "The Mob That Used Bathtubs as Gambling Tables — And Sunk the Evidence",
+    "hook": "When police raided, they pulled a chain and the entire 'casino' — tables, chairs, cash — dropped into a flooded basement below.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 68,
+    "educational_value": 62,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "sinking casino",
+      "flooded basement",
+      "mob engineering",
+      "evidence destruction",
+      "hidden gambling den"
+    ],
+    "overlap_check_hash": "4eedef5897320fff",
+    "why_this_can_go_viral": "The visual of a room sinking into water is a perfect 'how did they do that?' puzzle that demands a video watch."
+  },
+  {
+    "unique_id": "crime_0182_023_89f19b780e943f32",
+    "title": "The Billion-Dollar Fraud That Sold 'Fake Moonlight' — To Night-Shift Workers",
+    "hook": "They sold lamps that emitted 'lunar wavelengths' claiming it improved sleep — it was just a blue LED with a $5,000 markup.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 68,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "moonlight scam",
+      "blue LED fraud",
+      "sleep hacks",
+      "wellness grift",
+      "fake science product"
+    ],
+    "overlap_check_hash": "89f19b780e943f32",
+    "why_this_can_go_viral": "The commodification of moonlight is so poetic and absurd that it mocks the entire wellness industry, triggering shares."
+  },
+  {
+    "unique_id": "crime_0182_024_51c75fc537615b30",
+    "title": "The White-Collar Criminal Who Sold 'Fake Silence' — To Open-Plan Offices",
+    "hook": "He sold 'acoustic nullifiers' that he claimed could cancel noise — they were just hollow boxes with a fan, but companies paid millions.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 62,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "silence scam",
+      "office noise fraud",
+      "acoustic grift",
+      "corporate waste",
+      "product scam"
+    ],
+    "overlap_check_hash": "51c75fc537615b30",
+    "why_this_can_go_viral": "Everyone hates open-plan offices, so the idea of a company being scammed with fake silence is universally satisfying."
+  },
+  {
+    "unique_id": "crime_0182_025_efae3f837a1d0663",
+    "title": "The Unsolved Murder Where the Victim's Phone GPS Showed a Location That Didn't Exist — Until It Did",
+    "hook": "The phone pinged in the middle of a lake. Two years later, a drought drained it — and exposed a concrete room built underwater.",
+    "virality_score": 96,
+    "curiosity_gap_score": 100,
+    "darkness_score": 93,
+    "educational_value": 72,
+    "estimated_short_retention": 96,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "underwater room",
+      "drought reveal",
+      "GPS anomaly",
+      "concrete cell",
+      "hidden space"
+    ],
+    "overlap_check_hash": "efae3f837a1d0663",
+    "why_this_can_go_viral": "The 'place that didn't exist then appeared' timeline is a perfect mystery structure — it rewards patience with a horrifying payoff."
+  }
+]

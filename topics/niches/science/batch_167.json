@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "science_0167_001_2827454097ef1baa",
+    "title": "The Scientist Who Froze Himself Alive—And They Found His Body Decade Later",
+    "hook": "A cryogenics pioneer had himself frozen after death, but when researchers found his body decades later, it had been cracked open, thawed, and liquefied—and no one wants to admit what went wrong.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "cryogenics",
+      "frozen scientist",
+      "failed freezing",
+      "cryonics disaster",
+      "body found"
+    ],
+    "overlap_check_hash": "2827454097ef1baa",
+    "why_this_can_go_viral": "It taps into morbid curiosity about life extension, the taboo of death, and a hidden failure of a famous experiment—perfect dark-documentary bait."
+  },
+  {
+    "unique_id": "science_0167_002_7a4f6eb2e9b4478f",
+    "title": "The Chemist Who Made a Polymer That Regrows Nerves—Then Became Obsessed",
+    "hook": "He invented a material that could heal spinal cords in hours. Then he locked himself in his lab for three years and stopped answering questions about what he'd done to himself.",
+    "virality_score": 83,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "nerve regeneration",
+      "polymer",
+      "obsessive scientist",
+      "lab isolation",
+      "spinal cord repair"
+    ],
+    "overlap_check_hash": "7a4f6eb2e9b4478f",
+    "why_this_can_go_viral": "The promise of healing paralysis combined with a scientist's descent into madness—creates a visceral, 'what happened to him?' spiral."
+  },
+  {
+    "unique_id": "science_0167_003_1525abfb7a3951a7",
+    "title": "The Biolab That Engineered Rats That Never Sleep—And They Turned Cannibal",
+    "hook": "Scientists deleted a gene that controls sleep cycles in rats. Within two weeks, the rodents stopped sleeping entirely, began attacking each other, and started eating their own offspring alive.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 92,
+    "educational_value": 72,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "sleep deprivation",
+      "genetic engineering",
+      "cannibal rats",
+      "biological horror",
+      "lab experiment gone wrong"
+    ],
+    "overlap_check_hash": "1525abfb7a3951a7",
+    "why_this_can_go_viral": "Extreme biological horror with a 'nature gone feral' angle—highly shareable, shocking imagery, and triggers primal fear of losing sleep."
+  },
+  {
+    "unique_id": "science_0167_004_68bf30d46bc316e1",
+    "title": "The Physicist Who Found a Particle That Vanishes When Observed—Then It Followed Him",
+    "hook": "He detected a particle that only existed when no one was watching. When he tried to prove it to his colleagues, the particle started appearing in his personal belongings—inside his locked office.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 70,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "quantum particle",
+      "observer effect",
+      "vanishing particle",
+      "physics anomaly",
+      "strange phenomena"
+    ],
+    "overlap_check_hash": "68bf30d46bc316e1",
+    "why_this_can_go_viral": "Blends quantum weirdness with a creeping horror story—'the particle that stalks you' is an irresistible sci-fi hook that feels real."
+  },
+  {
+    "unique_id": "science_0167_005_cf54e380fe9c9a3c",
+    "title": "The Scientific Fraud Who Faked Data on Memory—And Destroyed 40 Years of Research",
+    "hook": "One researcher fabricated experiments on how memories are stored. When the fraud was uncovered, entire neuroscience textbooks had to be rewritten and tens of thousands of papers were retracted.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 85,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "memory research",
+      "scientific fraud",
+      "retracted papers",
+      "neuroscience scandal",
+      "fake data"
+    ],
+    "overlap_check_hash": "cf54e380fe9c9a3c",
+    "why_this_can_go_viral": "People love a good 'everything you know is wrong' story, especially about memory—high trust violation and systemic failure."
+  },
+  {
+    "unique_id": "science_0167_007_691ce44039a98157",
+    "title": "The Neuroscientist Who Deleted a Rat's Sense of Self—And It Forgot It Was Alive",
+    "hook": "By targeting a single neural circuit, a researcher made lab rats stop grooming, stop eating, and stop reacting to pain—they essentially became living shells that forgot their own existence.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 79,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "sense of self",
+      "neural deletion",
+      "consciousness",
+      "rat experiment",
+      "self-awareness loss"
+    ],
+    "overlap_check_hash": "691ce44039a98157",
+    "why_this_can_go_viral": "It touches on the ultimate philosophical horror—what if you could erase the 'you' inside you? Dark, existential, and deeply watchable."
+  },
+  {
+    "unique_id": "science_0167_009_f97212cad4ed9cb3",
+    "title": "The Soviet Lab That Kept a Human Head Alive—With a Machine for a Body",
+    "hook": "In a secret Soviet facility, scientists claimed to have kept a decapitated human head functioning for weeks—connected to a machine that pumped blood, oxygen, and nutrients directly into the brain stem.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 68,
+    "estimated_short_retention": 96,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "Soviet experiment",
+      "living head",
+      "decapitation",
+      "brain machine",
+      "secret USSR"
+    ],
+    "overlap_check_hash": "f97212cad4ed9cb3",
+    "why_this_can_go_viral": "Extreme taboo, historical secrecy, and a horrifying mental image—this taps into urban-legend-level curiosity about Soviet science."
+  },
+  {
+    "unique_id": "science_0167_010_7c4ce81b5356fd60",
+    "title": "The Biolab That Created a Fungus That Grows Inside Human Veins",
+    "hook": "A bioengineering team modified a rare fungus to target blood vessels as a delivery system for medicine. But when it escaped containment, infected subjects developed black, branching filaments visible under the skin.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 74,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fungus infection",
+      "vascular fungus",
+      "bioengineering accident",
+      "black filaments",
+      "body horror"
+    ],
+    "overlap_check_hash": "7c4ce81b5356fd60",
+    "why_this_can_go_viral": "Body horror meets real science—visual, visceral, and deeply unsettling. Perfect for viral shock value and shareability."
+  },
+  {
+    "unique_id": "science_0167_011_e0d26165ed7e3e31",
+    "title": "The Physicist Who Broke a Diamond With Sound—And Created a New State of Matter",
+    "hook": "Using focused ultrasound, a physicist shattered a diamond from the inside out—and in the process, created a dense, quasi-stable material that shouldn't exist under normal pressure.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 55,
+    "educational_value": 82,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "diamond shatter",
+      "sound pressure",
+      "new material",
+      "ultrasound physics",
+      "state of matter"
+    ],
+    "overlap_check_hash": "e0d26165ed7e3e31",
+    "why_this_can_go_viral": "The idea of 'breaking the hardest material with sound' is clickable and the discovery of a new state of matter adds prestige depth."
+  },
+  {
+    "unique_id": "science_0167_012_c3166e95f5ce0342",
+    "title": "The Scientific Fraud Who Faked a Brain Implant—And Patients Were Left Hollow",
+    "hook": "A biomedical startup claimed to have a chip that could restore emotions in stroke victims. It was a complete fabrication—and the 40 patients who received it were left with empty skull cavities and permanent damage.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 77,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "brain implant",
+      "fake medical device",
+      "stroke treatment",
+      "fraud scandal",
+      "hollow skull"
+    ],
+    "overlap_check_hash": "c3166e95f5ce0342",
+    "why_this_can_go_viral": "Medical fraud that physically mutilates patients is a high-trust betrayal story—outrage, horror, and a villain narrative drive shares."
+  },
+  {
+    "unique_id": "science_0167_015_0c8ca3c7becfaf90",
+    "title": "The Quantum Computer That Crashed Reality—And Froze the Room's Temperature",
+    "hook": "A quantum computer running a simulation of vacuum decay unexpectedly generated a localized temperature anomaly. The room dropped 15 degrees in seconds and all nearby electronics failed permanently.",
+    "virality_score": 85,
+    "curiosity_gap_score": 93,
+    "darkness_score": 74,
+    "educational_value": 80,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum computer",
+      "reality crash",
+      "temperature anomaly",
+      "vacuum decay",
+      "electronics failure"
+    ],
+    "overlap_check_hash": "0c8ca3c7becfaf90",
+    "why_this_can_go_viral": "The idea that a computer could 'break reality' is pure sci-fi horror—combines quantum fear with a real physical event."
+  },
+  {
+    "unique_id": "science_0167_016_6da257db995117a5",
+    "title": "The Biolab That Made a Muscle That Never Tires—And It Kept Growing on Its Own",
+    "hook": "Engineers created synthetic muscle tissue powered by mitochondria that could contract indefinitely. But when they tried to stop the experiment, the tissue continued growing and consuming nutrients from its container.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "synthetic muscle",
+      "self-growing tissue",
+      "mitochondria",
+      "biological experiment",
+      "uncontrolled growth"
+    ],
+    "overlap_check_hash": "6da257db995117a5",
+    "why_this_can_go_viral": "A 'thing that won't stop growing' is a classic horror trope—pair it with real bioengineering and you get shareable dread."
+  },
+  {
+    "unique_id": "science_0167_017_b613ec8c0923af69",
+    "title": "The Chemist Who Discovered a Solution That Dissolves Hair—And Accidently Used It on His Head",
+    "hook": "He was testing a depilatory compound in the lab when a splash hit his scalp. Within 60 seconds, all his hair dissolved into a black sludge—and the chemical started eating into his skin.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "depilatory",
+      "hair dissolving",
+      "chemistry accident",
+      "skin burn",
+      "lab splash"
+    ],
+    "overlap_check_hash": "b613ec8c0923af69",
+    "why_this_can_go_viral": "Gross, visual, and relatable fear—everyone has imagined a chemical accident. The 'sludge' detail makes it vivid and shareable."
+  },
+  {
+    "unique_id": "science_0167_018_4d3663aac1139168",
+    "title": "The Forbidden Experiment Where Doctors Stitched a Puppy to a Dog—And Watched Them Fuse",
+    "hook": "In the 1950s, Soviet researchers surgically joined a puppy to an adult dog to study 'parabiosis.' The animals' circulatory systems merged—and one started aging at double speed while the other stayed young.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 91,
+    "educational_value": 73,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "parabiosis",
+      "conjoined animals",
+      "Soviet experiment",
+      "aging study",
+      "merged circulation"
+    ],
+    "overlap_check_hash": "4d3663aac1139168",
+    "why_this_can_go_viral": "Graphic, ethically horrifying, and tied to controversial longevity research—it's a 'would you believe it?' story with high shock value."
+  },
+  {
+    "unique_id": "science_0167_019_3f18d8bfb8db70e8",
+    "title": "The Physicist Who Proved That Time Can Run Backward—And Then Unproved It Himself",
+    "hook": "He published a groundbreaking paper showing a system where time's arrow reversed. The scientific community was stunned. Two weeks later, he retracted it—and refused to explain why he'd faked the data.",
+    "virality_score": 79,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 76,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time reversal",
+      "faked data",
+      "physics fraud",
+      "arrow of time",
+      "retracted paper"
+    ],
+    "overlap_check_hash": "3f18d8bfb8db70e8",
+    "why_this_can_go_viral": "The mystery of why someone would fake time-reversal science—part fraud story, part physics puzzle. Leaves viewers asking 'why?'"
+  },
+  {
+    "unique_id": "science_0167_020_e6d0c1381485916c",
+    "title": "The Scientific Fraud Who Faked a Drug That Reverses Aging—And Subjects Aged Faster",
+    "hook": "A biotech CEO claimed a molecule could turn back cellular aging. After raising $200 million, patients in the trial developed rapid-onset progeria—and the CEO was found dead in his garage.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 78,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "anti-aging",
+      "progeria",
+      "fraud",
+      "clinical trial disaster",
+      "rapid aging"
+    ],
+    "overlap_check_hash": "e6d0c1381485916c",
+    "why_this_can_go_viral": "A classic 'hubris meets horror' narrative—young investors, old victims, and a mysterious death. Perfect viral structure."
+  },
+  {
+    "unique_id": "science_0167_021_80adbc42797984bb",
+    "title": "The Neuroscientist Who Wired a Brain to a Computer—And the Computer Started Dreaming",
+    "hook": "A researcher connected a neural interface to a primate's visual cortex to decode images. One night, the system began generating its own images—fractured faces, impossible landscapes, and patterns the animal had never seen.",
+    "virality_score": 84,
+    "curiosity_gap_score": 92,
+    "darkness_score": 77,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain computer",
+      "neural interface",
+      "AI dreaming",
+      "visual cortex",
+      "machine hallucination"
+    ],
+    "overlap_check_hash": "80adbc42797984bb",
+    "why_this_can_go_viral": "The eerie idea of a machine 'dreaming' on its own is both fascinating and unsettling—perfect for the AI hype wave."
+  },
+  {
+    "unique_id": "science_0167_022_405db6ed8665fb2c",
+    "title": "The Quantum Paradox Where Two Particles Shared a Future—Then Erased Each Other",
+    "hook": "Physicists entangled two particles and sent them through separate time-like loops. When they measured them, both particles appeared to have the same future memory—but then both vanished from existence simultaneously.",
+    "virality_score": 83,
+    "curiosity_gap_score": 91,
+    "darkness_score": 68,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum entanglement",
+      "time loops",
+      "future memory",
+      "particle vanishing",
+      "quantum erasure"
+    ],
+    "overlap_check_hash": "405db6ed8665fb2c",
+    "why_this_can_go_viral": "Time-travel-adjacent quantum mystery—viewers love 'shared memory' and 'vanished' hooks. Feels like a sci-fi plot."
+  },
+  {
+    "unique_id": "science_0167_024_004b1b80363e66a9",
+    "title": "The Chemist Who Made a Perfume That Smells Like Death—And Attracted Corpses",
+    "hook": "He synthesized a volatile compound mimicking the exact scent of human decay. When he wore it outside, he was swarmed by flies, carrion beetles, and a police officer who thought he'd found a dead body.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 83,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "death scent",
+      "forensic chemistry",
+      "decay smell",
+      "carrion",
+      "lab accident"
+    ],
+    "overlap_check_hash": "004b1b80363e66a9",
+    "why_this_can_go_viral": "Disgust and curiosity are a powerful mix—the visual of insects swarming a living person is unforgettable and highly shareable."
+  },
+  {
+    "unique_id": "science_0167_025_d0b001c47963a053",
+    "title": "The Forbidden Experiment Where a Baby Was Raised in a White Room—With No Color",
+    "hook": "Psychologists kept an infant in a monochrome environment for the first year of life, hoping to study color perception. When released, the child couldn't distinguish red from green—and screamed every time a rainbow appeared.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "sensory deprivation",
+      "color perception",
+      "monochrome experiment",
+      "infant study",
+      "psychological damage"
+    ],
+    "overlap_check_hash": "d0b001c47963a053",
+    "why_this_can_go_viral": "Sadistic-sounding experiment on a baby—emotionally charged, ethically appalling, and deeply curious about how we perceive the world."
+  }
+]

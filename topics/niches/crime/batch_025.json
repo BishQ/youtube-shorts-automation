@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "crime_0025_002_dcec34a7afb75d36",
+    "title": "The Heist Where Thieves Stole a Cruise Ship—While It Was Sailing",
+    "hook": "A group of criminals hijacked an entire luxury cruise ship, rerouted it, and vanished with 3,000 passengers' valuables.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 72,
+    "educational_value": 50,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "heist",
+      "cruise ship",
+      "maritime crime",
+      "organized theft",
+      "ship hijacking"
+    ],
+    "overlap_check_hash": "dcec34a7afb75d36",
+    "why_this_can_go_viral": "The scale is mind-blowing—stealing a moving cruise ship sounds like a movie plot, making it irresistible clickbait in the true-crime space."
+  },
+  {
+    "unique_id": "crime_0025_003_e3eab716693581f9",
+    "title": "The Cartel That Used a Zoo to Smuggle Endangered Species as Drug Mules",
+    "hook": "They sewed cocaine into live monkeys and tigers, using endangered animals as unwitting drug mules across borders.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "animal smuggling",
+      "drug trafficking",
+      "endangered species",
+      "zoo front"
+    ],
+    "overlap_check_hash": "e3eab716693581f9",
+    "why_this_can_go_viral": "The intersection of animal cruelty, cartel ingenuity, and sheer shock value creates a visceral reaction that drives shares and comments."
+  },
+  {
+    "unique_id": "crime_0025_004_58330418cc766769",
+    "title": "The Unsolved Murder Where the Victim's Ashes Were Sent to 100 Strangers",
+    "hook": "After the murder, the killer mailed the victim's cremated remains to random people across the country—with a note that read 'You're next.'",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 30,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "cremated remains",
+      "psychological terror",
+      "cold case",
+      "taunting killer"
+    ],
+    "overlap_check_hash": "58330418cc766769",
+    "why_this_can_go_viral": "The sheer psychological horror and the bizarre, taunting act create a story that feels lifted from a horror film—guaranteed to provoke curiosity and fear."
+  },
+  {
+    "unique_id": "crime_0025_005_9a1885b03dcbe394",
+    "title": "The White-Collar Criminal Who Sold Fake 'Doomsday Vaults' to Billionaires",
+    "hook": "He convinced the world's richest people to pay millions for personalized underground bunkers—that were just concrete shells filled with sand.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "white-collar crime",
+      "doomsday bunker",
+      "fraud",
+      "billionaire scam",
+      "survival fraud"
+    ],
+    "overlap_check_hash": "9a1885b03dcbe394",
+    "why_this_can_go_viral": "Tapping into billionaires' fears of apocalypse and exposing their gullibility is a satisfying, high-schadenfreude concept that resonates with broad audiences."
+  },
+  {
+    "unique_id": "crime_0025_007_0d19cdd50f2c24f7",
+    "title": "The Organized Crime Empire That Used a Sewer System as a Highway",
+    "hook": "A crime syndicate built an entire underground road network beneath the city—complete with traffic lights—to move drugs and bodies unseen.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 55,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "organized crime",
+      "underground network",
+      "sewer system",
+      "drug trafficking",
+      "hidden infrastructure"
+    ],
+    "overlap_check_hash": "0d19cdd50f2c24f7",
+    "why_this_can_go_viral": "The idea of a secret city beneath our feet, with its own traffic system run by criminals, sparks instant imagination and 'what else is hidden?' curiosity."
+  },
+  {
+    "unique_id": "crime_0025_009_506f0bc56ff626fa",
+    "title": "The Heist Where Thieves Stole a Helicopter—Mid-Flight—by Boarding Another Helicopter",
+    "hook": "In mid-air, criminals rappelled from one chopper into another, subdued the pilot, and flew away with $50 million in cargo.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 68,
+    "educational_value": 45,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "heist",
+      "helicopter theft",
+      "mid-air robbery",
+      "daring heist",
+      "aerial crime"
+    ],
+    "overlap_check_hash": "506f0bc56ff626fa",
+    "why_this_can_go_viral": "It's an action-movie scene that actually happened—the visual of two helicopters interacting mid-air is inherently shareable and jaw-dropping."
+  },
+  {
+    "unique_id": "crime_0025_010_2c541ff88faf99b9",
+    "title": "The Serial Killer Who Left a 'Survivor Kit' at Each Crime Scene",
+    "hook": "He wanted his victims to have a chance—so he left a map, a knife, and a flashlight at every kill site. No one ever escaped.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 35,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "survivor kit",
+      "psychological game",
+      "murder ritual",
+      "cat and mouse"
+    ],
+    "overlap_check_hash": "2c541ff88faf99b9",
+    "why_this_can_go_viral": "The twisted 'fairness' of giving victims a chance while knowing they'll fail creates a chilling, philosophical darkness that audiences will debate endlessly."
+  },
+  {
+    "unique_id": "crime_0025_011_80c57fb054ddb898",
+    "title": "The Unsolved Murder Where the Victim's Last Meal Was Still Cooking",
+    "hook": "Police found a pot of stew still simmering on the stove—the victim had been dead for three days, but someone had been coming back to stir it.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 89,
+    "educational_value": 25,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "disturbing detail",
+      "cold case",
+      "lingering presence",
+      "ceremonial act"
+    ],
+    "overlap_check_hash": "80c57fb054ddb898",
+    "why_this_can_go_viral": "The mundane horror of someone returning to maintain the victim's home routine creates an uncanny, lingering dread that hooks viewers instantly."
+  },
+  {
+    "unique_id": "crime_0025_012_e54907a3ce0b1976",
+    "title": "The White-Collar Criminal Who Sold Fake 'Ocean Cleanup' Technology to Governments",
+    "hook": "He promised to clean the Pacific garbage patch—instead, he dumped the collected plastic back into the water and cashed $800 million in grants.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 76,
+    "educational_value": 62,
+    "estimated_short_retention": 79,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "white-collar crime",
+      "environmental fraud",
+      "ocean cleanup",
+      "government grant scam",
+      "fake technology"
+    ],
+    "overlap_check_hash": "e54907a3ce0b1976",
+    "why_this_can_go_viral": "Environmental fraud hits two emotional chords—anger at the scammer and sadness for the planet—making viewers want to share the outrage."
+  },
+  {
+    "unique_id": "crime_0025_013_cc564f9fed4456c2",
+    "title": "The Cartel That Used a 'Ghost Airport' in the Jungle to Fly Drugs to 12 Countries",
+    "hook": "In the Amazon, a cartel built a fully functional, but entirely hidden, airport—complete with control tower and fake airline company.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 55,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "ghost airport",
+      "jungle smuggling",
+      "drug flights",
+      "hidden infrastructure"
+    ],
+    "overlap_check_hash": "cc564f9fed4456c2",
+    "why_this_can_go_viral": "The scale and secrecy of building an entire illegal airport fascinates viewers—it's like a real-life villain lair hidden in plain sight."
+  },
+  {
+    "unique_id": "crime_0025_014_13994e9eca4ce9bc",
+    "title": "The Criminal Mastermind Who Ran a Crime Ring From Prison—Without Using a Phone",
+    "hook": "He communicated with his gang entirely through trained pigeons and coded drawings on napkins, avoiding all electronic surveillance for 12 years.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 79,
+    "educational_value": 50,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "criminal mastermind",
+      "prison operation",
+      "pigeon communication",
+      "low-tech crime",
+      "surveillance evasion"
+    ],
+    "overlap_check_hash": "13994e9eca4ce9bc",
+    "why_this_can_go_viral": "The low-tech, almost medieval method of running a modern crime empire is so unexpected it feels like a fairy tale—making it incredibly shareable."
+  },
+  {
+    "unique_id": "crime_0025_015_94c678d7b3df8e91",
+    "title": "The Organized Crime Empire That Built a Fake Monastery to Hide a Human Trafficking Ring",
+    "hook": "They dressed victims as monks, built a fake abbey, and used 'religious processions' to move people across borders without suspicion.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 50,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "organized crime",
+      "human trafficking",
+      "fake monastery",
+      "religious front",
+      "border smuggling"
+    ],
+    "overlap_check_hash": "94c678d7b3df8e91",
+    "why_this_can_go_viral": "The exploitation of religious symbols for trafficking creates a deep sense of betrayal and shock, driving emotional engagement and shares."
+  },
+  {
+    "unique_id": "crime_0025_016_cf7e7c5254021f15",
+    "title": "The Billion-Dollar Fraud That Sold Fake 'Miracles' to the Dying",
+    "hook": "A company sold 'healing water' for $10,000 a bottle to terminal patients—and the water was just tap water from a gas station sink.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 58,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fraud",
+      "healing water",
+      "terminal illness scam",
+      "false hope",
+      "miracle scam"
+    ],
+    "overlap_check_hash": "cf7e7c5254021f15",
+    "why_this_can_go_viral": "Preying on the desperate and dying is one of the darkest forms of fraud—viewers feel a mix of anger and pity, which drives high engagement."
+  },
+  {
+    "unique_id": "crime_0025_017_d78077bac2af5f7c",
+    "title": "The Heist Where Thieves Stole a Museum's Entire Collection—And Replaced Everything With Perfect Copies",
+    "hook": "For 6 months, the museum displayed flawless replicas while the real art was already sold to private collectors across the world.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 74,
+    "educational_value": 55,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "heist",
+      "art theft",
+      "perfect replicas",
+      "museum swap",
+      "long con"
+    ],
+    "overlap_check_hash": "d78077bac2af5f7c",
+    "why_this_can_go_viral": "The idea of standing in a museum looking at fakes without knowing it is profoundly unsettling—and the slow-burn nature of the heist is mesmerizing."
+  },
+  {
+    "unique_id": "crime_0025_018_9cefd34da7c44da7",
+    "title": "The Unsolved Murder Where the Killer Left a 100-Page Confession—But No Name",
+    "hook": "A detailed, handwritten manuscript describing the murder in first person was found at the scene—but every identifying detail had been removed.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 86,
+    "educational_value": 35,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "confession manuscript",
+      "anonymous killer",
+      "cold case",
+      "psychological puzzle"
+    ],
+    "overlap_check_hash": "9cefd34da7c44da7",
+    "why_this_can_go_viral": "A killer who wants to confess but stay anonymous creates a paradox that drives intense curiosity and theorizing in the comments."
+  },
+  {
+    "unique_id": "crime_0025_020_febe60c14cd1c387",
+    "title": "The White-Collar Criminal Who Sold Fake 'Pandemic Cures' to Whole Countries",
+    "hook": "He convinced three national governments to buy a 'vaccine' that was actually powdered sugar—and made $600 million before they noticed.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 60,
+    "estimated_short_retention": 81,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "white-collar crime",
+      "pandemic scam",
+      "fake vaccine",
+      "government fraud",
+      "international scam"
+    ],
+    "overlap_check_hash": "febe60c14cd1c387",
+    "why_this_can_go_viral": "Exploiting a global health crisis for profit is both infuriating and fascinating—especially when entire governments fall for it."
+  },
+  {
+    "unique_id": "crime_0025_021_040c15d6cb2e8d6e",
+    "title": "The Cartel That Used a 'Fake Police Force' to Hijack Drug Shipments from Rivals",
+    "hook": "They built a squad of fake cops, complete with uniforms and patrol cars, to stop rival trucks—and steal their product in 'official' raids.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 50,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "fake police",
+      "drug hijacking",
+      "identity theft",
+      "organized crime"
+    ],
+    "overlap_check_hash": "040c15d6cb2e8d6e",
+    "why_this_can_go_viral": "The idea of criminals impersonating police to steal from other criminals is a brilliant, twisted twist on heist logic—viewers love the cleverness."
+  },
+  {
+    "unique_id": "crime_0025_022_0b17f34730de5ea6",
+    "title": "The Criminal Mastermind Who Escaped Prison by Building a Raft from Over 1,000 Tampons",
+    "hook": "He used sanitary products from the infirmary to craft a buoyant raft, paddled across a crocodile-infested river, and vanished for 11 years.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 65,
+    "educational_value": 45,
+    "estimated_short_retention": 93,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "prison escape",
+      "improvised raft",
+      "tampon escape",
+      "genius hack",
+      "survival escape"
+    ],
+    "overlap_check_hash": "0b17f34730de5ea6",
+    "why_this_can_go_viral": "The sheer absurdity and resourcefulness of this escape is almost comedic—yet it's real—making it the perfect bizarre, shareable story."
+  },
+  {
+    "unique_id": "crime_0025_023_d63c1b1a88db4491",
+    "title": "The Heist Where Thieves Stole a Bank's ATM—by Digging a Tunnel From a Sewer",
+    "hook": "They spent three weeks digging a 200-foot tunnel from a sewer drain, popped up inside the bank's ATM room, and stole every machine whole.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 50,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "heist",
+      "ATM theft",
+      "tunnel heist",
+      "bank robbery",
+      "underground approach"
+    ],
+    "overlap_check_hash": "d63c1b1a88db4491",
+    "why_this_can_go_viral": "Classic 'hole-in-the-wall' but upgraded to a sewer tunnel—viewers love the planning and execution details, and the visual of popping up in a bank is legendary."
+  },
+  {
+    "unique_id": "crime_0025_024_6ab1a57e92aff289",
+    "title": "The Unsolved Murder Where the Victim's Diary Predicted Her Own Death—to the Day",
+    "hook": "A teenager wrote in her diary 'If I die tomorrow, check the lake'—and was found drowned the next day with her backpack filled with rocks.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 30,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "prophetic diary",
+      "mysterious death",
+      "cold case",
+      "teen murder"
+    ],
+    "overlap_check_hash": "6ab1a57e92aff289",
+    "why_this_can_go_viral": "The eerie prediction angle blends true crime with a touch of the supernatural—viewers will be obsessed with whether it was a premonition or a forced confession."
+  },
+  {
+    "unique_id": "crime_0025_025_b61d29a05a724c12",
+    "title": "The Organized Crime Empire That Used a 'Cat Cafe' to Pass Encrypted Messages",
+    "hook": "Gang members adopted cats, hid microSD cards in their collars, and used the cafe's 'free play' area to swap data in full view of police.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 52,
+    "estimated_short_retention": 81,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "organized crime",
+      "cat cafe",
+      "hidden messages",
+      "espionage",
+      "creative smuggling"
+    ],
+    "overlap_check_hash": "b61d29a05a724c12",
+    "why_this_can_go_viral": "Cats + crime is a winning combo—the absurdity of using adorable animals for data smuggling makes it highly shareable and memorable."
+  }
+]

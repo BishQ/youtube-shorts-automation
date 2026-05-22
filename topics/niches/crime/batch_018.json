@@ -1,0 +1,65 @@
+[
+  {
+    "unique_id": "crime_0018_002_491c51457a07af3c",
+    "title": "The Jewel Thief Who Swallowed $4 Million in Diamonds",
+    "hook": "He walked out of the store with millions in gems inside his own stomach—and the body scanners couldn't find them.",
+    "virality_score": 88,
+    "curiosity_gap_score": 85,
+    "darkness_score": 65,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "diamond heist",
+      "body smuggling",
+      "jewel thief",
+      "million-dollar heist",
+      "human mule"
+    ],
+    "overlap_check_hash": "491c51457a07af3c",
+    "why_this_can_go_viral": "Extreme physical risk and a nearly impossible feat—body horror meets criminal ingenuity stuns viewers."
+  },
+  {
+    "unique_id": "crime_0018_011_5d77ce2fa5c8199a",
+    "title": "The Fraudster Who Sold Fake Snow to Ski Resorts for 10 Years",
+    "hook": "He shipped truckloads of white powder that looked like snow—but was actually toxic waste. Skiers paid the price.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 82,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fake snow",
+      "ski resort scam",
+      "toxic waste",
+      "environmental fraud",
+      "million-dollar con"
+    ],
+    "overlap_check_hash": "5d77ce2fa5c8199a",
+    "why_this_can_go_viral": "Betrayal of winter sports paradise with hazardous chemicals is equal parts shocking and visually compelling."
+  },
+  {
+    "unique_id": "crime_0018_016_67db9eb71d6471af",
+    "title": "The Mob Boss Who Controlled an Entire Prison from Inside a Cell",
+    "hook": "From a 6x9 cell, he ran his empire with smuggled phones, coded letters, and a network of corrupt guards on payroll.",
+    "virality_score": 84,
+    "curiosity_gap_score": 83,
+    "darkness_score": 80,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "prison boss",
+      "mob empire",
+      "smuggled phones",
+      "corrupt guards",
+      "crime empire"
+    ],
+    "overlap_check_hash": "67db9eb71d6471af",
+    "why_this_can_go_viral": "Power dynamics flipped—the most guarded man in the world still runs the streets fascinates and frightens."
+  }
+]

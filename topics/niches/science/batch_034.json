@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "science_0034_001_cd9cebf701a772b6",
+    "title": "The Lab That Created a Virus That Only Attacks Left-Handed People",
+    "hook": "What if a bioweapon could target you based on which hand you write with?",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "bioweapon",
+      "handedness",
+      "genetic targeting",
+      "forbidden biology",
+      "lab leak"
+    ],
+    "overlap_check_hash": "cd9cebf701a772b6",
+    "why_this_can_go_viral": "Combines identity-based fear with real science of genetic targeting — triggers immediate personal concern and moral outrage."
+  },
+  {
+    "unique_id": "science_0034_002_8db9c9e252c02e50",
+    "title": "The Soviet Scientist Who Tried to Make Humans Hibernate Forever",
+    "hook": "He wanted to put soldiers into suspended animation — but the test subjects never woke up.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "soviet",
+      "hibernation",
+      "human experiments",
+      "cryogenics",
+      "secret lab"
+    ],
+    "overlap_check_hash": "8db9c9e252c02e50",
+    "why_this_can_go_viral": "Taps into Cold War horror and the dark side of military science — unknown details hook the viewer."
+  },
+  {
+    "unique_id": "science_0034_003_2e5433fb0ae2196c",
+    "title": "The Chemist Who Discovered a Liquid That Dissolves Everything But Skin",
+    "hook": "A solvent so powerful it should be impossible — yet it exists.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "super solvent",
+      "dangerous chemistry",
+      "dissolve",
+      "forbidden compound",
+      "lab accident"
+    ],
+    "overlap_check_hash": "2e5433fb0ae2196c",
+    "why_this_can_go_viral": "Visceral 'what if you touched it?' hook — people love imagining the impossible substance."
+  },
+  {
+    "unique_id": "science_0034_004_d462fd090bc0aa6a",
+    "title": "The Neuroscientist Who Erased a Specific Memory From a Human Brain",
+    "hook": "He didn't just block the memory — he made it vanish completely. And the subject knew something was missing.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory erasure",
+      "neuroscience",
+      "brain hacking",
+      "forgetting",
+      "identity crisis"
+    ],
+    "overlap_check_hash": "d462fd090bc0aa6a",
+    "why_this_can_go_viral": "Memory editing is sci-fi made real — viewers immediately imagine losing their own past."
+  },
+  {
+    "unique_id": "science_0034_006_5552c3da0ec19208",
+    "title": "The Lab That Unleashed a Parasite That Makes You Love Your Enemy",
+    "hook": "A single infection can rewrite your deepest loyalties. Who controls the parasite controls you.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "mind control",
+      "parasite",
+      "behavior modification",
+      "biological weapon",
+      "loyalty rewriting"
+    ],
+    "overlap_check_hash": "5552c3da0ec19208",
+    "why_this_can_go_viral": "Biological mind control is a primal fear — and the idea of being forced to love an enemy is deeply unsettling."
+  },
+  {
+    "unique_id": "science_0034_007_74b60c916d276031",
+    "title": "The Danish Experiment That Tried to Make a Human Brain Grow Outside a Body",
+    "hook": "They grew neural tissue in a vat — and it started sending signals no one could decode.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "brain in a vat",
+      "neural tissue",
+      "consciousness",
+      "organoid",
+      "ethical horror"
+    ],
+    "overlap_check_hash": "74b60c916d276031",
+    "why_this_can_go_viral": "Classic sci-fi horror made real — 'Is it thinking?' is the question everyone will ask."
+  },
+  {
+    "unique_id": "science_0034_008_91f43edc80f98fad",
+    "title": "The Chemist Who Accidentally Created a Polymer That Absorbs Sound Completely",
+    "hook": "Silence so absolute it triggers panic in humans. The military wanted it classified.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "silence",
+      "polymer",
+      "sound absorption",
+      "military tech",
+      "sensory deprivation"
+    ],
+    "overlap_check_hash": "91f43edc80f98fad",
+    "why_this_can_go_viral": "Total silence is viscerally disturbing — and the idea of a material that weaponizes quiet is unique."
+  },
+  {
+    "unique_id": "science_0034_009_5b031a75b2f341e5",
+    "title": "The Researcher Who Faked a Study Showing That Pain Is a Delusion",
+    "hook": "He convinced the world that pain was just a trick of the mind — until his subjects started dying.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 90,
+    "educational_value": 68,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fake science",
+      "pain research",
+      "medical fraud",
+      "delusion",
+      "ethical violation"
+    ],
+    "overlap_check_hash": "5b031a75b2f341e5",
+    "why_this_can_go_viral": "Fraud that caused real harm is a powerful narrative — people love exposing dangerous deception."
+  },
+  {
+    "unique_id": "science_0034_010_1fceda7fb1546097",
+    "title": "The Lab That Built a Machine That Reads Your Dreams and Plays Them Back",
+    "hook": "They saw what you dream — and they saw things that should not exist.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 82,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "dream decoding",
+      "brain machine",
+      "privacy violation",
+      "subconscious",
+      "neural imaging"
+    ],
+    "overlap_check_hash": "1fceda7fb1546097",
+    "why_this_can_go_viral": "Dream privacy is the last frontier — the idea that your inner world can be accessed is terrifying and fascinating."
+  },
+  {
+    "unique_id": "science_0034_011_0dff09ac8a5470e6",
+    "title": "The Physicist Who Proved That a Single Atom Can Be in Two Places at Once",
+    "hook": "And that atom was part of a human body. Are we all split without knowing it?",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 75,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "quantum superposition",
+      "atom split",
+      "reality question",
+      "Schrödinger",
+      "identity"
+    ],
+    "overlap_check_hash": "0dff09ac8a5470e6",
+    "why_this_can_go_viral": "Personalizes quantum mechanics — 'am I in two places?' is an irresistible hook."
+  },
+  {
+    "unique_id": "science_0034_012_ff01beb3af30b33d",
+    "title": "The Chemist Who Made a Liquid That Freezes When You Heat It",
+    "hook": "Heat it up — it becomes solid. Cool it down — it flows. Physics inverted.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 60,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "inverse melting",
+      "weird chemistry",
+      "phase change",
+      "impossible liquid",
+      "anomaly"
+    ],
+    "overlap_check_hash": "ff01beb3af30b33d",
+    "why_this_can_go_viral": "Defies basic intuition — viewers will stop scrolling to see something that breaks the rules of ice."
+  },
+  {
+    "unique_id": "science_0034_015_d75c7c4dfd6fdb59",
+    "title": "The Lab That Created a Bacteria That Eats Plastic and Then Keeps Eating",
+    "hook": "It was supposed to save the planet. Instead, it started eating everything synthetic.",
+    "virality_score": 82,
+    "curiosity_gap_score": 84,
+    "darkness_score": 80,
+    "educational_value": 76,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "plastic eating bacteria",
+      "bioerror",
+      "environmental disaster",
+      "uncontrolled mutation",
+      "synthetic threat"
+    ],
+    "overlap_check_hash": "d75c7c4dfd6fdb59",
+    "why_this_can_go_viral": "Solution-gone-wrong narrative — people love the irony of a fix becoming a worse problem."
+  },
+  {
+    "unique_id": "science_0034_019_13e282a2a8ab352a",
+    "title": "The Neuroscientist Who Made a Blind Person See Through Sound",
+    "hook": "He bypassed the eyes entirely — and the brain learned to 'see' with echoes.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 65,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "sensory substitution",
+      "blindness",
+      "echolocation",
+      "brain plasticity",
+      "human upgrade"
+    ],
+    "overlap_check_hash": "13e282a2a8ab352a",
+    "why_this_can_go_viral": "Feels like a superpower — but the implication that reality is just a brain construct is deeply philosophical."
+  },
+  {
+    "unique_id": "science_0034_020_ac4ca606eef89c99",
+    "title": "The Physicist Who Found a Material That Exists in 5 Dimensions",
+    "hook": "It behaves like a crystal, but its properties can only be explained by extra dimensions.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 72,
+    "educational_value": 84,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "extra dimensions",
+      "5D material",
+      "crystal anomaly",
+      "theoretical physics",
+      "reality expansion"
+    ],
+    "overlap_check_hash": "ac4ca606eef89c99",
+    "why_this_can_go_viral": "Extra dimensions are an evergreen curiosity — the idea that a physical object proves them is mind-bending."
+  },
+  {
+    "unique_id": "science_0034_022_a7d0757bf0185f47",
+    "title": "The Soviet Experiment That Tried to Make a Telepathic Radio",
+    "hook": "They wanted to beam thoughts directly into the brain. The results were... not silent.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "soviet telepathy",
+      "mind radio",
+      "brain waves",
+      "psi weapon",
+      "cold war psychic"
+    ],
+    "overlap_check_hash": "a7d0757bf0185f47",
+    "why_this_can_go_viral": "Cold War paranormal tech is a rich vein — the blend of pseudoscience and government secrecy is irresistible."
+  },
+  {
+    "unique_id": "science_0034_023_ccb8fbf6482b7f55",
+    "title": "The Chemist Who Discovered a Crystal That Explodes When Wet",
+    "hook": "A single drop of water turns it into a bomb. And it was found in a classroom.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 79,
+    "educational_value": 74,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "explosive crystal",
+      "water reactive",
+      "dangerous compound",
+      "lab accident",
+      "chemistry shock"
+    ],
+    "overlap_check_hash": "ccb8fbf6482b7f55",
+    "why_this_can_go_viral": "The 'innocent object that could kill you' trope — viewers will be shocked that something so unstable could exist."
+  },
+  {
+    "unique_id": "science_0034_024_42847726368fca55",
+    "title": "The Neuroscientist Who Proved That Free Will Is an Illusion by Measuring Brain Activity",
+    "hook": "Your brain decides before you do. The feeling of choice is a story it tells after.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 85,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "free will illusion",
+      "brain delay",
+      "decision making",
+      "neuroscience bomb",
+      "determinism"
+    ],
+    "overlap_check_hash": "42847726368fca55",
+    "why_this_can_go_viral": "Attacks the core of human identity — everyone will ask 'am I really in control?' and share the existential crisis."
+  },
+  {
+    "unique_id": "science_0034_025_d3a0b782b0f76dab",
+    "title": "The Physicist Who Calculated That the Universe Could End at Any Second",
+    "hook": "A quantum fluctuation could trigger vacuum decay. And we'd never see it coming.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "vacuum decay",
+      "universe end",
+      "quantum apocalypse",
+      "false vacuum",
+      "cosmic death"
+    ],
+    "overlap_check_hash": "d3a0b782b0f76dab",
+    "why_this_can_go_viral": "The ultimate existential threat — immediate, invisible, and unstoppable. The 'could happen right now' angle drives engagement."
+  }
+]

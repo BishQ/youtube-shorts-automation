@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "crime_0051_004_c366499e5932f651",
+    "title": "The Billion-Dollar Fraud That Sold ‘Ghost Oil’ to Governments",
+    "hook": "They sold oil that didn’t exist—and countries paid billions for nothing.",
+    "virality_score": 87,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "ghost oil",
+      "fraud",
+      "government scam",
+      "empty barrels",
+      "billion dollar heist"
+    ],
+    "overlap_check_hash": "c366499e5932f651",
+    "why_this_can_go_viral": "The audacity of selling nothing to entire nations sparks outrage and fascination."
+  },
+  {
+    "unique_id": "crime_0051_005_45650782d9898875",
+    "title": "The Cartel That Used a Zoo to Smuggle Exotic Animals—and Cocaine",
+    "hook": "While zookeepers fed the lions, cartel members fed the drug trade through empty cages.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 93,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel zoo",
+      "animal smuggling",
+      "cocaine trafficking",
+      "hidden tunnels",
+      "drug trade"
+    ],
+    "overlap_check_hash": "45650782d9898875",
+    "why_this_can_go_viral": "The juxtaposition of a family-friendly zoo hiding a brutal cartel operation is shocking and memorable."
+  },
+  {
+    "unique_id": "crime_0051_006_b65d1da88df41556",
+    "title": "The White-Collar Criminal Who Stole $500 Million by Creating a Fake Bank Exam",
+    "hook": "He forged a single document—and regulators looked the other way for a decade.",
+    "virality_score": 84,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "fake bank exam",
+      "regulatory fraud",
+      "million dollar lie",
+      "bank scam",
+      "white collar"
+    ],
+    "overlap_check_hash": "b65d1da88df41556",
+    "why_this_can_go_viral": "Reveals a systemic vulnerability in banking that amateurs could exploit—pure dark intrigue."
+  },
+  {
+    "unique_id": "crime_0051_008_74eec6f930c20bf0",
+    "title": "The Mastermind Who Stole $200 Million by Faking a Medical Research Lab",
+    "hook": "He built a fake lab, hired scientists, and sold fake cures to desperate patients.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fake lab",
+      "medical scam",
+      "fraud",
+      "fake cures",
+      "criminal mastermind"
+    ],
+    "overlap_check_hash": "74eec6f930c20bf0",
+    "why_this_can_go_viral": "Exploiting sick people for millions is deeply evil and generates strong emotional reactions."
+  },
+  {
+    "unique_id": "crime_0051_009_274a652f90998f35",
+    "title": "The Hitman Who Only Killed in Hospitals—Disguised as a Doctor",
+    "hook": "He walked past security in scrubs, and no one questioned why patients stopped breathing.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 90,
+    "educational_value": 50,
+    "estimated_short_retention": 94,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "hitman doctor",
+      "hospital murder",
+      "disguise",
+      "organized crime",
+      "assassin"
+    ],
+    "overlap_check_hash": "274a652f90998f35",
+    "why_this_can_go_viral": "The betrayal of trust in a hospital setting is viscerally horrifying and shareable."
+  },
+  {
+    "unique_id": "crime_0051_010_d8176f8e2cf81458",
+    "title": "The Yakuza Chief Who Ran His Empire from a Taxi Cab",
+    "hook": "He never owned a car—and used cabs as mobile offices to avoid wiretaps.",
+    "virality_score": 79,
+    "curiosity_gap_score": 81,
+    "darkness_score": 68,
+    "educational_value": 65,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "yakuza",
+      "taxi cab",
+      "organized crime",
+      "Japan",
+      "wiretap evasion"
+    ],
+    "overlap_check_hash": "d8176f8e2cf81458",
+    "why_this_can_go_viral": "The low-tech counter-surveillance tactic is brilliantly simple and feels like a movie scene."
+  },
+  {
+    "unique_id": "crime_0051_011_64c9e5a84d957106",
+    "title": "The Serial Killer Who Used a Baby Monitor to Listen to Neighbors",
+    "hook": "He didn't stalk in person—he listened through walls and chose victims by their conversations.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 84,
+    "educational_value": 58,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "baby monitor",
+      "serial killer",
+      "spying",
+      "neighbor",
+      "true crime"
+    ],
+    "overlap_check_hash": "64c9e5a84d957106",
+    "why_this_can_go_viral": "The idea that a killer could be listening through everyday tech triggers paranoia and curiosity."
+  },
+  {
+    "unique_id": "crime_0051_012_cd359acee0b77564",
+    "title": "The Heist Where Thieves Stole a Billionaire’s Identity—and His Entire Fortune",
+    "hook": "They didn't rob his house—they robbed his life, leaving him with nothing but his name.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 73,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "identity theft",
+      "billionaire",
+      "heist",
+      "fortune stolen",
+      "digital robbery"
+    ],
+    "overlap_check_hash": "cd359acee0b77564",
+    "why_this_can_go_viral": "The complete erasure of a person's wealth and identity is a modern horror story that feels plausible."
+  },
+  {
+    "unique_id": "crime_0051_013_4095ddc7a7db9e9f",
+    "title": "The Cartel Dentist Who Extracted Gold Teeth—and Information",
+    "hook": "He pulled teeth for cash, but the real currency was secrets hidden in patient files.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 81,
+    "educational_value": 60,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel dentist",
+      "gold teeth",
+      "information gathering",
+      "drug trade",
+      "Mexico"
+    ],
+    "overlap_check_hash": "4095ddc7a7db9e9f",
+    "why_this_can_go_viral": "The blending of a professional front with cartel intelligence work is grotesque and fascinating."
+  },
+  {
+    "unique_id": "crime_0051_014_6eca7054cc5f51f8",
+    "title": "The White-Collar Criminal Who Faked a University to Steal Research Grants",
+    "hook": "He built a fake Ivy League campus online—and siphoned $100 million in government funds.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 76,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "fake university",
+      "research fraud",
+      "grant scam",
+      "government theft",
+      "white collar"
+    ],
+    "overlap_check_hash": "6eca7054cc5f51f8",
+    "why_this_can_go_viral": "The audacity of faking an entire institution shows how easily systems are exploited."
+  },
+  {
+    "unique_id": "crime_0051_015_fd8f56de3a5b46f7",
+    "title": "The Unsolved Murder Where the Victim’s Tattoos Matched the Killer’s Diary",
+    "hook": "Police found a diary full of drawings—and every tattoo on the victim matched a sketch inside.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 83,
+    "educational_value": 52,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "tattoo murder",
+      "diary clue",
+      "cold case",
+      "unsolved",
+      "dark mystery"
+    ],
+    "overlap_check_hash": "fd8f56de3a5b46f7",
+    "why_this_can_go_viral": "The eerie connection between art and death creates a puzzle that viewers cannot ignore."
+  },
+  {
+    "unique_id": "crime_0051_016_586ce0d6399518d8",
+    "title": "The Mob Boss Who Used a Church to Launder Money Through ‘Donations’",
+    "hook": "Parishioners gave tithes—but the priest was counting cash for the mafia.",
+    "virality_score": 81,
+    "curiosity_gap_score": 83,
+    "darkness_score": 76,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob church",
+      "money laundering",
+      "donation scam",
+      "mafia",
+      "corruption"
+    ],
+    "overlap_check_hash": "586ce0d6399518d8",
+    "why_this_can_go_viral": "Religious institutions being corrupted by crime generates moral outrage and curiosity."
+  },
+  {
+    "unique_id": "crime_0051_017_7215ba05508292db",
+    "title": "The Serial Killer Who Left His Victims’ Bones Arranged as Clocks",
+    "hook": "Each skeleton was posed like a timepiece—pointing to a date police still don't understand.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 45,
+    "estimated_short_retention": 93,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "bone clocks",
+      "serial killer",
+      "ritual murder",
+      "unsolved",
+      "true crime"
+    ],
+    "overlap_check_hash": "7215ba05508292db",
+    "why_this_can_go_viral": "The visual of skeletal clocks is instantly shareable and deeply unsettling."
+  },
+  {
+    "unique_id": "crime_0051_019_fb19995dfcde558a",
+    "title": "The Billion-Dollar Fraud That Sold Fake Diplomas to World Leaders",
+    "hook": "Presidents, CEOs, and royalty all bought degrees—from a single man in a basement.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 77,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fake diplomas",
+      "world leaders",
+      "fraud",
+      "degree scam",
+      "elite corruption"
+    ],
+    "overlap_check_hash": "fb19995dfcde558a",
+    "why_this_can_go_viral": "Exposing powerful people as fraud victims is both humiliating and fascinating to watch."
+  },
+  {
+    "unique_id": "crime_0051_020_9a93e4f012b285a0",
+    "title": "The Cartel That Used a Water Park to Transport Drugs in Pool Tubes",
+    "hook": "Tourists floated on inner tubes packed with cocaine—and no one checked the water.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 79,
+    "educational_value": 63,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "water park",
+      "drug smuggling",
+      "pool tubes",
+      "cartel",
+      "hidden transport"
+    ],
+    "overlap_check_hash": "9a93e4f012b285a0",
+    "why_this_can_go_viral": "The image of innocent families swimming over a drug pipeline is darkly ironic and shocking."
+  },
+  {
+    "unique_id": "crime_0051_021_1d3e73d3e0878f7e",
+    "title": "The White-Collar Criminal Who Stole $250 Million by Selling Fake ‘Safe Rooms’",
+    "hook": "He sold panic rooms to the ultra-wealthy—but the walls were made of cardboard.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 74,
+    "educational_value": 68,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "fake safe room",
+      "panic room scam",
+      "wealthy victims",
+      "white collar",
+      "fraud"
+    ],
+    "overlap_check_hash": "1d3e73d3e0878f7e",
+    "why_this_can_go_viral": "The betrayal of safety for the rich feels both karmic and terrifying."
+  },
+  {
+    "unique_id": "crime_0051_022_6640b142ba0bc74b",
+    "title": "The Unsolved Murder Where the Killer Used a Drone to Scout the Scene",
+    "hook": "Years before drones were common, a killer used one to plan the perfect crime—and vanished.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "drone murder",
+      "unsolved",
+      "tech crime",
+      "premeditated",
+      "cold case"
+    ],
+    "overlap_check_hash": "6640b142ba0bc74b",
+    "why_this_can_go_viral": "The early adoption of drone tech in murder feels futuristic and unsettling."
+  },
+  {
+    "unique_id": "crime_0051_023_087ed1f784c81fd4",
+    "title": "The Mastermind Who Used a Funeral Home to Fake Deaths for Insurance Fraud",
+    "hook": "He declared people dead, collected millions—and the 'deceased' were living in another state.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake deaths",
+      "insurance fraud",
+      "funeral home",
+      "scam",
+      "mastermind"
+    ],
+    "overlap_check_hash": "087ed1f784c81fd4",
+    "why_this_can_go_viral": "The idea that death itself can be faked for profit is a darkly fascinating loophole."
+  },
+  {
+    "unique_id": "crime_0051_024_484c89fe7f72e29f",
+    "title": "The Cartel Chemist Who Made $700 Million by Creating a ‘Safe’ Drug—That Killed Thousands",
+    "hook": "He promised a pure, non-lethal high—and built a cartel empire on the bodies of addicts.",
+    "virality_score": 89,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel chemist",
+      "safe drug",
+      "mass deaths",
+      "drug trade",
+      "poison"
+    ],
+    "overlap_check_hash": "484c89fe7f72e29f",
+    "why_this_can_go_viral": "The false promise of safety leading to mass death is both tragic and rage-inducing."
+  },
+  {
+    "unique_id": "crime_0051_025_74697185ea16a6a6",
+    "title": "The Heist Where Thieves Stole a City’s Water Supply—and Held It for Ransom",
+    "hook": "They didn't steal money—they poisoned the reservoir and demanded $50 million.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 95,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "water supply",
+      "ransom",
+      "poison",
+      "city heist",
+      "infrastructure attack"
+    ],
+    "overlap_check_hash": "74697185ea16a6a6",
+    "why_this_can_go_viral": "The idea that a city’s water can be weaponized is terrifyingly relatable and highly shareable."
+  }
+]

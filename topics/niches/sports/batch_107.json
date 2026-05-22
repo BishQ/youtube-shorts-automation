@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "sports_0107_001_df19394ce156a9a3",
+    "title": "The Mafia That Turned a Soccer Team's Goalkeeper into a Mole",
+    "hook": "For two seasons, the goalkeeper was paid to let in exactly three goals per game — and no one noticed because the team kept winning.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 74,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "mafia",
+      "soccer",
+      "goalkeeper",
+      "fixing",
+      "undercover"
+    ],
+    "overlap_check_hash": "df19394ce156a9a3",
+    "why_this_can_go_viral": "The paradox of winning while losing is deeply counterintuitive and triggers immediate curiosity about how the scheme operated."
+  },
+  {
+    "unique_id": "sports_0107_002_38e6ba58029b20c5",
+    "title": "The Doping Lab That Used Homeless People as Test Subjects",
+    "hook": "They promised shelter and meals in exchange for injecting experimental performance enhancers — many subjects were never seen again.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 91,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "doping",
+      "homeless",
+      "experiments",
+      "testing",
+      "performance"
+    ],
+    "overlap_check_hash": "38e6ba58029b20c5",
+    "why_this_can_go_viral": "Combines extreme exploitation, moral outrage, and hidden science — a perfect storm for shock and engagement."
+  },
+  {
+    "unique_id": "sports_0107_003_5c51f4cb6f814c8c",
+    "title": "The Referee Who Fixed Boxing by Wearing Padded Gloves Under His Suit",
+    "hook": "He'd step between fighters at key moments, and the hidden padding would throw off their timing just enough to change the fight.",
+    "virality_score": 72,
+    "curiosity_gap_score": 79,
+    "darkness_score": 68,
+    "educational_value": 55,
+    "estimated_short_retention": 75,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "boxing",
+      "referee",
+      "padded gloves",
+      "fixing",
+      "timing"
+    ],
+    "overlap_check_hash": "5c51f4cb6f814c8c",
+    "why_this_can_go_viral": "A ridiculously simple yet effective method — people love hearing about low-tech corruption in high-stakes sports."
+  },
+  {
+    "unique_id": "sports_0107_004_8e616581e448bff1",
+    "title": "The Gymnastics Coach Who Implanted Metal Rods in Girls' Spines",
+    "hook": "He told them the rods would help them twist faster — but the real purpose was to make them bend beyond human limits permanently.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "gymnastics",
+      "implant",
+      "spine",
+      "coach",
+      "abuse"
+    ],
+    "overlap_check_hash": "8e616581e448bff1",
+    "why_this_can_go_viral": "Body horror meets institutional abuse — a combination that resonates deeply and triggers strong emotional reactions."
+  },
+  {
+    "unique_id": "sports_0107_005_e9ca2f9a202632ee",
+    "title": "The Scientist Who Tried to Make Cyclists Photosynthesize",
+    "hook": "He believed injecting chlorophyll into their bloodstream would let them fuel endurance rides with sunlight instead of food.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "cyclists",
+      "photosynthesis",
+      "chlorophyll",
+      "experiment",
+      "endurance"
+    ],
+    "overlap_check_hash": "e9ca2f9a202632ee",
+    "why_this_can_go_viral": "The absurdity of the concept mixed with real scientific boundaries makes this both shocking and shareable."
+  },
+  {
+    "unique_id": "sports_0107_006_e93ae96f6eacb3ea",
+    "title": "The Psychiatrist Who Made a Soccer Team Believe Their Coach Was a Ghost",
+    "hook": "He used subliminal audio during team meetings until half the squad refused to follow instructions from what they thought was a corpse.",
+    "virality_score": 76,
+    "curiosity_gap_score": 83,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 79,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "psychiatrist",
+      "soccer",
+      "subliminal",
+      "ghost",
+      "coach"
+    ],
+    "overlap_check_hash": "e93ae96f6eacb3ea",
+    "why_this_can_go_viral": "Blurs the line between psychological warfare and the supernatural — irresistibly creepy and intriguing."
+  },
+  {
+    "unique_id": "sports_0107_007_5dfc441bfc13e957",
+    "title": "The Betting Ring That Used Fireworks Launches at Weddings to Signal Fixes",
+    "hook": "They coordinated with corrupt players to light a specific color firework at a wedding nearby — and the whole stadium bet on what would happen next.",
+    "virality_score": 74,
+    "curiosity_gap_score": 80,
+    "darkness_score": 66,
+    "educational_value": 60,
+    "estimated_short_retention": 77,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "betting",
+      "fireworks",
+      "signal",
+      "wedding",
+      "fixing"
+    ],
+    "overlap_check_hash": "5dfc441bfc13e957",
+    "why_this_can_go_viral": "The sheer audacity and creativity of using public celebrations as clandestine communication makes viewers want to share."
+  },
+  {
+    "unique_id": "sports_0107_009_dc6f965f9abbaca0",
+    "title": "The Doctor Who Gave Boxers Synthetic Blood That Clotted Mid-Fight",
+    "hook": "He claimed it boosted oxygen — but the real effect was that punches caused internal bleeding that looked like normal bruising until it was too late.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "boxing",
+      "synthetic blood",
+      "clotting",
+      "doctor",
+      "doping"
+    ],
+    "overlap_check_hash": "dc6f965f9abbaca0",
+    "why_this_can_go_viral": "Medical horror meets competitive corruption — viewers will be both fascinated and horrified by the biological mechanism."
+  },
+  {
+    "unique_id": "sports_0107_010_b47e7087e2fb8e72",
+    "title": "The Referee Who Fixed Tennis by Changing the Court Surface Temperature",
+    "hook": "He bribed groundskeepers to heat or cool specific sections of clay, making the ball bounce unpredictably — and blaming it on the weather.",
+    "virality_score": 71,
+    "curiosity_gap_score": 77,
+    "darkness_score": 64,
+    "educational_value": 62,
+    "estimated_short_retention": 73,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "tennis",
+      "referee",
+      "court temperature",
+      "fixing",
+      "surface"
+    ],
+    "overlap_check_hash": "b47e7087e2fb8e72",
+    "why_this_can_go_viral": "A clever, invisible method of cheating that exploits physics — perfect for engaging analytical viewers."
+  },
+  {
+    "unique_id": "sports_0107_011_663717753d83f4e8",
+    "title": "The Sprint Coach Who Starved Athletes Then Fed Them Pure Caffeine Pills",
+    "hook": "He believed that total hunger followed by massive stimulants would unlock a 'predator mode' — three runners collapsed mid-race.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 86,
+    "educational_value": 68,
+    "estimated_short_retention": 81,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "sprint",
+      "coach",
+      "starvation",
+      "caffeine",
+      "collapse"
+    ],
+    "overlap_check_hash": "663717753d83f4e8",
+    "why_this_can_go_viral": "Extreme, dangerous pseudoscience applied to real athletes creates a compelling cautionary tale that begs to be shared."
+  },
+  {
+    "unique_id": "sports_0107_013_a76166b8ec1ae51a",
+    "title": "The Psychiatrist Who Made a Wrestler Believe the Ring Was a Pool of Acid",
+    "hook": "He planted a post-hypnotic suggestion that every time the crowd shouted, the mat turned to liquid — the wrestler stopped moving entirely.",
+    "virality_score": 73,
+    "curiosity_gap_score": 78,
+    "darkness_score": 72,
+    "educational_value": 65,
+    "estimated_short_retention": 76,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "wrestler",
+      "psychiatrist",
+      "hypnosis",
+      "acid",
+      "crowd"
+    ],
+    "overlap_check_hash": "a76166b8ec1ae51a",
+    "why_this_can_go_viral": "The intersection of mind control and physical performance is inherently fascinating — and the visual is terrifyingly vivid."
+  },
+  {
+    "unique_id": "sports_0107_014_670e4f869e82485d",
+    "title": "The Betting Syndicate That Used a Farting Sound as a Match-Fixing Code",
+    "hook": "They trained a man to trigger a specific noise during live broadcasts, which corrupt players heard through earpieces — and bets were placed seconds later.",
+    "virality_score": 77,
+    "curiosity_gap_score": 81,
+    "darkness_score": 60,
+    "educational_value": 58,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "betting",
+      "fart",
+      "code",
+      "syndicate",
+      "fixing"
+    ],
+    "overlap_check_hash": "670e4f869e82485d",
+    "why_this_can_go_viral": "Absurd and hilarious on the surface, but deeply sinister underneath — perfect for shock value and comedy shareability."
+  },
+  {
+    "unique_id": "sports_0107_015_c0a78a555358cab5",
+    "title": "The Mafia That Enslaved Athletes in a Secret Underground Fight Club",
+    "hook": "They kidnapped retired boxers, gave them new identities, and forced them to fight tourists for money — the bodies were buried under the ring.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 70,
+    "estimated_short_retention": 91,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "mafia",
+      "underground",
+      "fight club",
+      "enslaved",
+      "boxers"
+    ],
+    "overlap_check_hash": "c0a78a555358cab5",
+    "why_this_can_go_viral": "A real-life horror story that taps into the primal fear of being buried alive in a system — it's cinematic and vile."
+  },
+  {
+    "unique_id": "sports_0107_016_16d20fe0248b7c82",
+    "title": "The Doctor Who Injected Swimmers with Snake Venom for 'Water Resistance'",
+    "hook": "He theorized that micro-paralysis would streamline their limbs — instead, two athletes lost motor function permanently in the pool.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 90,
+    "educational_value": 73,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "snake venom",
+      "swimmers",
+      "paralysis",
+      "doctor",
+      "experiment"
+    ],
+    "overlap_check_hash": "16d20fe0248b7c82",
+    "why_this_can_go_viral": "The raw danger and grotesque logic make this an unforgettable story that will circulate in fitness and science circles."
+  },
+  {
+    "unique_id": "sports_0107_018_60e11031f22c137c",
+    "title": "The Marathon Coach Who Sewed Athletes' Mouths Shut for 'Nasal Only' Breathing",
+    "hook": "He claimed mouth-breathing was weakness — so he literally stitched their lips shut before races. Two runners suffocated mid-course.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 94,
+    "educational_value": 76,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "marathon",
+      "coach",
+      "mouth sewn",
+      "suffocation",
+      "abuse"
+    ],
+    "overlap_check_hash": "60e11031f22c137c",
+    "why_this_can_go_viral": "Unspeakable cruelty wrapped in false health logic — the visual alone is enough to make anyone gasp and share."
+  },
+  {
+    "unique_id": "sports_0107_019_97b7c42262094224",
+    "title": "The Lab That Implanted Radio Chips in Boxers' Fists to Measure Force in Real Time",
+    "hook": "They claimed it was for training data — but the chips were programmed to emit signals that triggered betting algorithms in nearby casinos.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 71,
+    "educational_value": 69,
+    "estimated_short_retention": 78,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "boxing",
+      "radio chip",
+      "implant",
+      "betting",
+      "force"
+    ],
+    "overlap_check_hash": "97b7c42262094224",
+    "why_this_can_go_viral": "Technology and corruption converge in a way that feels both futuristic and deeply unnerving — perfect for tech-savvy viewers."
+  },
+  {
+    "unique_id": "sports_0107_020_399375af5642b978",
+    "title": "The Psychologist Who Made a Basketball Team Believe the Opponent Was Armed",
+    "hook": "He spread rumors that rival players carried weapons under their jerseys — the team forfeited three games out of pure fear.",
+    "virality_score": 72,
+    "curiosity_gap_score": 77,
+    "darkness_score": 70,
+    "educational_value": 64,
+    "estimated_short_retention": 75,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "basketball",
+      "psychologist",
+      "armed",
+      "fear",
+      "forfeit"
+    ],
+    "overlap_check_hash": "399375af5642b978",
+    "why_this_can_go_viral": "Mind games taken to an extreme that blurs into psychological terrorism — the story spreads through shock and disbelief."
+  },
+  {
+    "unique_id": "sports_0107_021_c65404a4275969e5",
+    "title": "The Betting Ring That Used a Radio Station's Song Requests to Fix Games",
+    "hook": "They bribed DJs to play certain songs at specific times — corrupt players heard the music in the stadium and knew exactly when to miss.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 68,
+    "educational_value": 63,
+    "estimated_short_retention": 79,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "betting",
+      "radio",
+      "song",
+      "DJ",
+      "fixing"
+    ],
+    "overlap_check_hash": "c65404a4275969e5",
+    "why_this_can_go_viral": "The integration of everyday media into illegal schemes makes the story relatable and wildly shareable."
+  },
+  {
+    "unique_id": "sports_0107_022_420dd6616bd8e650",
+    "title": "The Mafia That Bought a Football Team and Used Players as Drug Mules",
+    "hook": "They concealed cocaine inside orthopedic braces and uniform padding — players smuggled it across borders without knowing.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "mafia",
+      "football",
+      "drug mule",
+      "smuggling",
+      "team"
+    ],
+    "overlap_check_hash": "420dd6616bd8e650",
+    "why_this_can_go_viral": "High-stakes crime hidden in plain sight within beloved sports — the betrayal and danger captivate audiences."
+  },
+  {
+    "unique_id": "sports_0107_024_f66268ef56aab9f3",
+    "title": "The Referee Who Fixed Kabaddi by Using a Whistle That Emitted Ultrasound",
+    "hook": "The high-frequency sound was inaudible to humans but disoriented specific players, making them stumble during raids.",
+    "virality_score": 69,
+    "curiosity_gap_score": 75,
+    "darkness_score": 62,
+    "educational_value": 65,
+    "estimated_short_retention": 71,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "kabaddi",
+      "whistle",
+      "ultrasound",
+      "referee",
+      "fixing"
+    ],
+    "overlap_check_hash": "f66268ef56aab9f3",
+    "why_this_can_go_viral": "A niche sport gets a high-tech corruption angle — the hidden science makes it fascinating for puzzle-loving viewers."
+  },
+  {
+    "unique_id": "sports_0107_025_af644abe5719316a",
+    "title": "The Businessman Who Sold 'Energy Bracelets' That Were Actually Tracking Devices for Bookies",
+    "hook": "He gave them free to athletes, claiming they enhanced recovery — but the bracelets sent GPS and heart rate data straight to betting syndicates.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 74,
+    "educational_value": 71,
+    "estimated_short_retention": 81,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "bracelet",
+      "tracking",
+      "businessman",
+      "bookies",
+      "data"
+    ],
+    "overlap_check_hash": "af644abe5719316a",
+    "why_this_can_go_viral": "A wearable tech scam that exploits both athletes and fans — the scale of the deception is jaw-dropping and highly shareable."
+  }
+]

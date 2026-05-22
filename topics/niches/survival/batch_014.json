@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "survival_0014_002_46b73d940c3bb9bf",
+    "title": "The Stranded Hikers Who Ate Their Own Hair—and Grew Fur",
+    "hook": "After weeks without food, their bodies began digesting themselves—but the hair grew back in a horrifying way.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "hikers",
+      "cannibalism",
+      "hair",
+      "starvation",
+      "body horror"
+    ],
+    "overlap_check_hash": "46b73d940c3bb9bf",
+    "why_this_can_go_viral": "Body horror and extreme physiological adaptation is both shocking and curiosity-driven."
+  },
+  {
+    "unique_id": "survival_0014_004_dff0130d929a6f7f",
+    "title": "The Explorer Who Survived a Bear Attack by Playing Dead—Then It Buried Him",
+    "hook": "He went limp, hoping the bear would lose interest—instead, it started digging a grave.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "bear attack",
+      "playing dead",
+      "buried alive",
+      "wilderness survival",
+      "horror"
+    ],
+    "overlap_check_hash": "dff0130d929a6f7f",
+    "why_this_can_go_viral": "Subverts the classic 'play dead' advice with a terrifying twist."
+  },
+  {
+    "unique_id": "survival_0014_005_c49ab6038fc1697c",
+    "title": "The Miners Who Lived on Wax from Their Own Ears",
+    "hook": "Trapped 2,000 feet underground, they scraped earwax for calories—and it kept them alive for weeks.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 74,
+    "educational_value": 68,
+    "estimated_short_retention": 76,
+    "niche_name": "survival",
+    "subcategory": "stranded expeditions",
+    "keywords": [
+      "miners",
+      "earwax",
+      "survival food",
+      "underground",
+      "starvation"
+    ],
+    "overlap_check_hash": "c49ab6038fc1697c",
+    "why_this_can_go_viral": "Gross-out factor combined with a bizarre nutritional fact."
+  },
+  {
+    "unique_id": "survival_0014_007_9bb1a618378269bd",
+    "title": "The Castaway Who Lost His Mind—and Started Talking to a Coconut",
+    "hook": "After 200 days alone, he named the coconut 'Wilson' and trusted it more than his own reflection.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "castaway",
+      "loneliness",
+      "hallucination",
+      "coconut",
+      "isolation"
+    ],
+    "overlap_check_hash": "9bb1a618378269bd",
+    "why_this_can_go_viral": "Play on the famous 'Cast Away' movie but with a darker real twist."
+  },
+  {
+    "unique_id": "survival_0014_008_af4179df0f914237",
+    "title": "The Shipwreck That Made Survivors Eat Their Own Fingers—One Joint at a Time",
+    "hook": "They started with toes, then moved to fingers—each joint carefully rationed to last another day.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 92,
+    "educational_value": 60,
+    "estimated_short_retention": 84,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "shipwreck",
+      "cannibalism",
+      "fingers",
+      "rationing",
+      "desperation"
+    ],
+    "overlap_check_hash": "af4179df0f914237",
+    "why_this_can_go_viral": "Systematic self-cannibalism is both horrifying and morbidly fascinating."
+  },
+  {
+    "unique_id": "survival_0014_010_d804e677528fd95f",
+    "title": "The Stranded Explorers Who Ate Their Dogs—Then the Dogs Haunted Them",
+    "hook": "They killed and ate their sled dogs—but in starvation delirium, they swore they heard barking at night.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 83,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "explorers",
+      "dogs",
+      "cannibalism",
+      "delirium",
+      "guilt"
+    ],
+    "overlap_check_hash": "d804e677528fd95f",
+    "why_this_can_go_viral": "Combines survivor's guilt with psychological horror."
+  },
+  {
+    "unique_id": "survival_0014_011_b099762e5405d939",
+    "title": "The Diver Who Got Sucked Into a 2-Inch Pipe—and Survived",
+    "hook": "His body compressed like toothpaste, shooting through a pipe at 30 mph—and he lived to tell it.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "diver",
+      "pipe",
+      "compression",
+      "underwater",
+      "impossible survival"
+    ],
+    "overlap_check_hash": "b099762e5405d939",
+    "why_this_can_go_viral": "Body horror meets physics-defying survival."
+  },
+  {
+    "unique_id": "survival_0014_012_1bce3de4c7394fbf",
+    "title": "The Miners Who Refused to Eat the Dead—and Ate the Living Instead",
+    "hook": "They decided cannibalism was acceptable—but only if the victim was still breathing.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 55,
+    "estimated_short_retention": 87,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "miners",
+      "cannibalism",
+      "murder",
+      "group dynamics",
+      "moral collapse"
+    ],
+    "overlap_check_hash": "1bce3de4c7394fbf",
+    "why_this_can_go_viral": "Explores the darkest edge of group survival ethics."
+  },
+  {
+    "unique_id": "survival_0014_013_85f40f1f39cb1233",
+    "title": "The Family That Survived a Tsunami—by Breathing Through a Toilet Paper Tube",
+    "hook": "As the water rose, they floated upside down, sucking air through a tube from a trapped pocket.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "tsunami",
+      "survival",
+      "improvisation",
+      "water",
+      "family"
+    ],
+    "overlap_check_hash": "85f40f1f39cb1233",
+    "why_this_can_go_viral": "Ingenious low-tech solution in a high-death scenario."
+  },
+  {
+    "unique_id": "survival_0014_014_d1ccfc7b8bc69eae",
+    "title": "The Castaway Who Survived 10 Years—and Forgot How to Speak",
+    "hook": "When rescuers found him, he could only grunt and point—his voice had atrophied from silence.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 84,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "castaway",
+      "speech",
+      "isolation",
+      "forgotten language",
+      "rescue"
+    ],
+    "overlap_check_hash": "d1ccfc7b8bc69eae",
+    "why_this_can_go_viral": "Extreme isolation transforming a human into something unrecognizable."
+  },
+  {
+    "unique_id": "survival_0014_016_d5871ad95298a60e",
+    "title": "The Hikers Who Survived a Blizzard—by Letting Their Blood Freeze in Layers",
+    "hook": "They sat in freezing water, letting each layer of blood freeze solid to form a protective shell.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 72,
+    "educational_value": 76,
+    "estimated_short_retention": 77,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "blizzard",
+      "freezing",
+      "blood",
+      "hypothermia",
+      "survival technique"
+    ],
+    "overlap_check_hash": "d5871ad95298a60e",
+    "why_this_can_go_viral": "Counterintuitive biological hack that sounds like science fiction."
+  },
+  {
+    "unique_id": "survival_0014_018_b2ddf0c3d0473d43",
+    "title": "The Village That Lived on Snake Venom—and Became Immune",
+    "hook": "They drank diluted venom daily—until a bite that would kill anyone else left only a small bruise.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 68,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "snake venom",
+      "immunity",
+      "village",
+      "adaptation",
+      "toxin"
+    ],
+    "overlap_check_hash": "b2ddf0c3d0473d43",
+    "why_this_can_go_viral": "Real-life superpower through extreme exposure."
+  },
+  {
+    "unique_id": "survival_0014_019_54b94d2025cb46e3",
+    "title": "The Stranded Sailor Who Survived by Drinking Battery Acid—Diluted",
+    "hook": "He carefully mixed battery acid with seawater—and his stomach lining turned to leather.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 79,
+    "educational_value": 74,
+    "estimated_short_retention": 79,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "sailor",
+      "battery acid",
+      "survival",
+      "stomach",
+      "chemical"
+    ],
+    "overlap_check_hash": "54b94d2025cb46e3",
+    "why_this_can_go_viral": "Shocking survival hack that damages the body in a different way."
+  },
+  {
+    "unique_id": "survival_0014_020_ff7f908dcf8f5cb2",
+    "title": "The Climber Who Survived a Night on the 'Death Zone'—Without Oxygen",
+    "hook": "Above 26,000 feet, his brain started shutting down—but he hallucinated a path down.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 76,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "climber",
+      "death zone",
+      "oxygen",
+      "hallucination",
+      "mountain"
+    ],
+    "overlap_check_hash": "ff7f908dcf8f5cb2",
+    "why_this_can_go_viral": "The thin line between death and salvation in the highest altitudes."
+  },
+  {
+    "unique_id": "survival_0014_021_a8fa94a5fcc67640",
+    "title": "The Shipwreck Survivors Who Ate Their Dead Captain's Brain—and Got Madness",
+    "hook": "They ate the most nutrient-rich organ—but prion diseases turned their minds into nightmares.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "shipwreck",
+      "brain",
+      "prion",
+      "madness",
+      "cannibalism"
+    ],
+    "overlap_check_hash": "a8fa94a5fcc67640",
+    "why_this_can_go_viral": "Medical horror meets survival desperation."
+  },
+  {
+    "unique_id": "survival_0014_022_70cb7df04c808818",
+    "title": "The Miners Who Lived on Cave Crickets—and Their Parasites",
+    "hook": "They ate the crickets, then the worms inside the crickets, then the eggs of the worms.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 71,
+    "educational_value": 78,
+    "estimated_short_retention": 74,
+    "niche_name": "survival",
+    "subcategory": "stranded expeditions",
+    "keywords": [
+      "miners",
+      "crickets",
+      "parasites",
+      "cave",
+      "survival food"
+    ],
+    "overlap_check_hash": "70cb7df04c808818",
+    "why_this_can_go_viral": "Escalating desperation in food sourcing."
+  },
+  {
+    "unique_id": "survival_0014_023_7970f283be1e6780",
+    "title": "The Castaway Who Survived by Drinking Bird Blood—Then the Birds Learned to Avoid Him",
+    "hook": "He caught seagulls for months—until the survivors spread the warning and the sky went empty.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 68,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "castaway",
+      "bird",
+      "blood",
+      "survival",
+      "animal intelligence"
+    ],
+    "overlap_check_hash": "7970f283be1e6780",
+    "why_this_can_go_viral": "Nature fighting back against the survivor."
+  },
+  {
+    "unique_id": "survival_0014_024_7b445aad74c772b2",
+    "title": "The Group That Survived a Flood—by Breathing Through Hollow Dog Bones",
+    "hook": "As muddy water filled their cave, they used hollow leg bones as snorkels until rescue came.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 74,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "flood",
+      "cave",
+      "bones",
+      "snorkel",
+      "improvisation"
+    ],
+    "overlap_check_hash": "7b445aad74c772b2",
+    "why_this_can_go_viral": "Macabre but brilliant survival improvisation."
+  },
+  {
+    "unique_id": "survival_0014_025_a0327bfd484098c7",
+    "title": "The Explorer Who Survived a Quicksand Pit—by Letting His Face Sink Last",
+    "hook": "He tilted his head back, let his body sink, and breathed through a nostril as sand closed over him.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 73,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "survival",
+    "subcategory": "near-death escape stories",
+    "keywords": [
+      "quicksand",
+      "survival",
+      "sinking",
+      "explorer",
+      "breathing"
+    ],
+    "overlap_check_hash": "a0327bfd484098c7",
+    "why_this_can_go_viral": "Classic cartoon fear made real with a counterintuitive solution."
+  }
+]

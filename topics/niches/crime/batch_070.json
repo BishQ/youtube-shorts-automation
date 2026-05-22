@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "crime_0070_002_6841ea7fa68382dd",
+    "title": "The Unsolved Murder Where the Victim's Pacemaker Was Hacked",
+    "hook": "A man was found dead with no wounds, but his pacemaker logs showed a fatal electrical surge sent from an unknown device—a perfect digital murder.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 95,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "pacemaker hack",
+      "digital murder",
+      "unsolved mystery",
+      "medical device crime",
+      "cyber kill"
+    ],
+    "overlap_check_hash": "6841ea7fa68382dd",
+    "why_this_can_go_viral": "The concept of a weaponized pacemaker taps into fears of technology and raises huge 'how is this possible?' curiosity."
+  },
+  {
+    "unique_id": "crime_0070_003_797631981fc029d1",
+    "title": "The Criminal Mastermind Who Built a Fake Town to Steal Government Grants",
+    "hook": "He constructed an entire ghost town with fake residents, fake roads, and fake schools—just to collect millions in federal funding for a place that never existed.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake town",
+      "government grant fraud",
+      "mastermind",
+      "ghost town",
+      "scam"
+    ],
+    "overlap_check_hash": "797631981fc029d1",
+    "why_this_can_go_viral": "The sheer audacity of building a fake municipality is mind-blowing; viewers love stories of elaborate deception against the system."
+  },
+  {
+    "unique_id": "crime_0070_004_77e2d6bbfa64166a",
+    "title": "The Serial Killer Who Chose Victims Based on Their Zodiac Signs",
+    "hook": "He believed the stars guided his hand, targeting only specific astrological signs—and left a star chart at each crime scene as his signature.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "zodiac killer",
+      "astrology murders",
+      "serial killer psychology",
+      "star sign",
+      "ritual"
+    ],
+    "overlap_check_hash": "77e2d6bbfa64166a",
+    "why_this_can_go_viral": "Astrology is a huge trend on social media; combining it with true crime creates a darkly fascinating intersection that sparks debate."
+  },
+  {
+    "unique_id": "crime_0070_008_37e16c39e561738c",
+    "title": "The White-Collar Criminal Who Stole $250M by Faking Hospital Bills for Dead Patients",
+    "hook": "He bought a list of recently deceased people, billed their insurance for fake surgeries, and pocketed millions—while families grieved unknowingly.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 74,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "fake hospital bills",
+      "dead patients scam",
+      "insurance fraud",
+      "white collar",
+      "grief exploitation"
+    ],
+    "overlap_check_hash": "37e16c39e561738c",
+    "why_this_can_go_viral": "Exploiting death for profit is deeply disturbing and morally outrageous, driving high emotional engagement and shares."
+  },
+  {
+    "unique_id": "crime_0070_009_5682a9e399e022da",
+    "title": "The Unsolved Murder Where the Victim's DNA Was Found on a Bullet—But Not His",
+    "hook": "Forensics found someone else's DNA on the murder weapon, but that person had been dead for 20 years—raising questions of planted evidence or a ghost killer.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 89,
+    "educational_value": 77,
+    "estimated_short_retention": 94,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "ghost DNA",
+      "planted evidence",
+      "unsolved murder",
+      "forensics mystery",
+      "cold case"
+    ],
+    "overlap_check_hash": "5682a9e399e022da",
+    "why_this_can_go_viral": "The 'impossible DNA' angle creates a stark mystery that challenges forensic science understanding, perfect for debate."
+  },
+  {
+    "unique_id": "crime_0070_010_3c79603d09a27e12",
+    "title": "The Criminal Mastermind Who Faked a Meteorite Crash to Steal Insurance Payouts",
+    "hook": "He detonated explosives in a field, planted fake meteorite fragments, and collected millions from insurers claiming 'extraterrestrial damage' to his property.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake meteorite",
+      "insurance fraud",
+      "explosion scam",
+      "mastermind",
+      "extraterrestrial"
+    ],
+    "overlap_check_hash": "3c79603d09a27e12",
+    "why_this_can_go_viral": "The blend of sci-fi and crime is unique; viewers will click out of disbelief and the sheer creativity of the scam."
+  },
+  {
+    "unique_id": "crime_0070_012_a10fddf8fa8162aa",
+    "title": "The Heist Where Thieves Stole a $100 Million Yacht—By Towing It in Plain Sight",
+    "hook": "They attached a fake tugboat company logo to their vessel, towed the yacht out of the marina during a boat show, and no one stopped them.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 72,
+    "educational_value": 68,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "yacht theft",
+      "tugboat scam",
+      "brazen heist",
+      "marina crime",
+      "plain sight"
+    ],
+    "overlap_check_hash": "a10fddf8fa8162aa",
+    "why_this_can_go_viral": "The audacity of stealing a mega-yacht in broad daylight is highly visual and shareable, like a real-life Ocean's Eleven."
+  },
+  {
+    "unique_id": "crime_0070_014_5fdbea1919a7a9b6",
+    "title": "The Cartel That Used a Tortilla Factory to Smuggle Cocaine—Baked Inside the Corn",
+    "hook": "They mixed cocaine powder into corn masa, baked it into tortillas, and shipped tons across the border—where chemists extracted the drug at a warehouse.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 86,
+    "educational_value": 76,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "tortilla smuggling",
+      "cocaine baked",
+      "cartel innovation",
+      "border trade",
+      "narco"
+    ],
+    "overlap_check_hash": "5fdbea1919a7a9b6",
+    "why_this_can_go_viral": "The bizarre method of hiding drugs in everyday food is fascinating and disgusting; it's a perfect 'you won't believe it' story."
+  },
+  {
+    "unique_id": "crime_0070_015_5bb33eac5677072b",
+    "title": "The Mob That Used an Ice Cream Truck Fleet to Run Drugs and Gambling",
+    "hook": "Kids bought popsicles from trucks that also delivered heroin and collected betting slips—the jingle was the signal for a drop-off.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 91,
+    "educational_value": 73,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "ice cream truck mob",
+      "drug delivery",
+      "gambling ring",
+      "jingle signal",
+      "organized crime"
+    ],
+    "overlap_check_hash": "5bb33eac5677072b",
+    "why_this_can_go_viral": "The contrast between childhood innocence and organized crime is deeply unsettling and highly shareable on social media."
+  },
+  {
+    "unique_id": "crime_0070_016_6218c3a12a13d984",
+    "title": "The Unsolved Murder Where the Victim's Body Was Found in a Movie Theater Seat",
+    "hook": "A man was discovered dead in a theater days after death, with no ticket stub, no one noticing, and the film still looping—but the killer left a note in the projector.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "movie theater murder",
+      "hidden corpse",
+      "projector note",
+      "unsolved mystery",
+      "eerie"
+    ],
+    "overlap_check_hash": "6218c3a12a13d984",
+    "why_this_can_go_viral": "The eerie setting of an empty theater with a dead body is cinematic; the note angle creates a chilling 'who dunnit' puzzle."
+  },
+  {
+    "unique_id": "crime_0070_017_518d423c0ddce3bd",
+    "title": "The Criminal Mastermind Who Faked a Volcano Eruption to Scam Investors",
+    "hook": "He set off massive explosions in a remote island, convinced investors it was a volcanic eruption, and sold fake 'volcanic ash' mining rights for millions.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake volcano",
+      "mining scam",
+      "explosion fraud",
+      "mastermind",
+      "island scam"
+    ],
+    "overlap_check_hash": "518d423c0ddce3bd",
+    "why_this_can_go_viral": "The absurdity of faking a natural disaster is so outrageous it's almost unbelievable, driving clicks and shares."
+  },
+  {
+    "unique_id": "crime_0070_018_7b586cd82d977acf",
+    "title": "The Serial Killer Who Left a Diary—Written in a Code No One Could Crack for 30 Years",
+    "hook": "A killer's detailed confession hidden in a complex cipher was finally decoded, revealing names of victims no one knew existed—and a secret network of accomplices.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 89,
+    "educational_value": 82,
+    "estimated_short_retention": 93,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "coded diary",
+      "serial killer cipher",
+      "decoded confession",
+      "cold case",
+      "secret network"
+    ],
+    "overlap_check_hash": "7b586cd82d977acf",
+    "why_this_can_go_viral": "Code-breaking stories are inherently intriguing; the idea of a killer's hidden diary being cracked after decades is a viral goldmine."
+  },
+  {
+    "unique_id": "crime_0070_019_2d642470aaffdf10",
+    "title": "The Heist Where Thieves Stole a $20 Million Painting—And Replaced It With a Forgery So Good Experts Weren't Sure",
+    "hook": "The forgery was so flawless that when the theft was discovered, the museum debated for months whether the original had ever been there at all.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 78,
+    "educational_value": 79,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "art heist",
+      "forgery replacement",
+      "painting theft",
+      "museum crime",
+      "expert confusion"
+    ],
+    "overlap_check_hash": "2d642470aaffdf10",
+    "why_this_can_go_viral": "The 'did it ever exist' twist creates a philosophical puzzle that sparks endless comments and debate."
+  },
+  {
+    "unique_id": "crime_0070_021_5aaf57c1988b064d",
+    "title": "The Cartel That Used a Preschool to Move Cocaine—Inside Stuffed Animals",
+    "hook": "Drugs were sewn into teddy bears and dolls, handed to unsuspecting children at a cartel-run daycare, and picked up by parents who were mules.",
+    "virality_score": 94,
+    "curiosity_gap_score": 98,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 96,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "preschool drug smuggling",
+      "stuffed animal cocaine",
+      "cartel daycare",
+      "child mules",
+      "narco"
+    ],
+    "overlap_check_hash": "5aaf57c1988b064d",
+    "why_this_can_go_viral": "Using children as unwitting drug mules is deeply shocking and morally repulsive, guaranteeing high emotional engagement."
+  },
+  {
+    "unique_id": "crime_0070_023_97a795d404c3e7bc",
+    "title": "The Unsolved Murder Where the Victim's Body Was Found in a Lake—But the Lake Was Artificial and Recently Built",
+    "hook": "A construction crew drained a new reservoir to find a skeleton; the body had been placed there before the lake was filled, meaning the killer knew the future landscape.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 91,
+    "educational_value": 72,
+    "estimated_short_retention": 93,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "artificial lake body",
+      "future crime",
+      "premeditated murder",
+      "construction mystery",
+      "cold case"
+    ],
+    "overlap_check_hash": "97a795d404c3e7bc",
+    "why_this_can_go_viral": "The idea that the killer planned the murder years in advance and knew the terrain would change is deeply unsettling and fascinating."
+  },
+  {
+    "unique_id": "crime_0070_024_1c22818129f146b8",
+    "title": "The Criminal Mastermind Who Faked an Earthquake to Loot a City",
+    "hook": "He set off controlled explosions across a city, simulating earthquake tremors, and while residents fled in panic, his crew looted banks and jewelry stores.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake earthquake",
+      "looting scam",
+      "explosion heist",
+      "mastermind",
+      "panic theft"
+    ],
+    "overlap_check_hash": "1c22818129f146b8",
+    "why_this_can_go_viral": "The blend of disaster and crime is rare and shocking; viewers will be amazed by the psychological manipulation involved."
+  },
+  {
+    "unique_id": "crime_0070_025_7ba25de93709cc3f",
+    "title": "The Mob That Used a Dog Grooming Business to Launder $400M—Through Pet Baths",
+    "hook": "Customers brought in dogs for $50 washes, but the real transaction was millions in dirty cash hidden in pet carriers—the groomers were money counters.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 79,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "dog grooming money laundering",
+      "pet carrier cash",
+      "mob front",
+      "organized crime",
+      "laundering"
+    ],
+    "overlap_check_hash": "7ba25de93709cc3f",
+    "why_this_can_go_viral": "The absurdity of using a cute dog business to hide massive crime is a powerful contrast that drives shares and curiosity."
+  }
+]

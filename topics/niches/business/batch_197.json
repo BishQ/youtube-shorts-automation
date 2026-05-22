@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "business_0197_001_745f0d2aa33f37ce",
+    "title": "The CEO Who Bought a Bakery Chain—Then Used Sawdust as Flour",
+    "hook": "A beloved local bakery empire was secretly mixing wood fibers into every loaf—and their 'natural' recipe was hiding a deadly cost-cutting scheme.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 75,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "bakery fraud",
+      "sawdust bread",
+      "food adulteration",
+      "cost-cutting scam",
+      "CEO corruption"
+    ],
+    "overlap_check_hash": "745f0d2aa33f37ce",
+    "why_this_can_go_viral": "The 'sawdust in bread' shock factor triggers immediate disgust and curiosity, plus it's a relatable everyday product betrayal."
+  },
+  {
+    "unique_id": "business_0197_002_fc3518bf80dde7b1",
+    "title": "The Hedge Fund That Used Church Donation Trends to Short Funeral Stocks",
+    "hook": "A Wall Street firm analyzed weekly tithing data from dying congregations to bet billions on cemetery services—before anyone knew they were failing.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 87,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "hedge fund data",
+      "church donations",
+      "funeral stocks",
+      "short selling",
+      "unethical trading"
+    ],
+    "overlap_check_hash": "fc3518bf80dde7b1",
+    "why_this_can_go_viral": "Combines religion, death, and high finance—a perfect storm of taboo and financial thriller intrigue."
+  },
+  {
+    "unique_id": "business_0197_003_1cfb402efdbf1762",
+    "title": "The Startup That Sold 'Rent-a-Grave' for Pet Memorials—Then Mined the Data for Life Insurance",
+    "hook": "They promised a final resting place for your beloved pet—but the real business was tracking who was grieving, and denying them payouts.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 60,
+    "estimated_short_retention": 77,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "pet startup scam",
+      "data mining grief",
+      "life insurance fraud",
+      "grave rental",
+      "emotion exploitation"
+    ],
+    "overlap_check_hash": "1cfb402efdbf1762",
+    "why_this_can_go_viral": "Twists pet love, death, and tech betrayal—highly emotional and morally outrageous."
+  },
+  {
+    "unique_id": "business_0197_004_41fca7922ccd34c3",
+    "title": "The Monopoly That Bought Every Tire Shop—Then Made Punctures Impossible to Repair",
+    "hook": "They owned the repair network—then secretly redesigned tires so you'd have to buy new ones every 8 months.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 74,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "tire monopoly",
+      "planned obsolescence",
+      "repair scam",
+      "auto industry",
+      "consumer trap"
+    ],
+    "overlap_check_hash": "41fca7922ccd34c3",
+    "why_this_can_go_viral": "Everyone hates tire costs—this reveals a deliberate trap, turning frustration into viral outrage."
+  },
+  {
+    "unique_id": "business_0197_006_6574f5fbdd1cfe76",
+    "title": "The Dark Marketing Firm That Used Car Crash Sounds to Sell You Pain Clinics",
+    "hook": "They placed hidden mics near intersections—and served ads for chiropractors seconds after the sound of metal crunching.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "crash sound ads",
+      "predictive marketing",
+      "pain clinic scam",
+      "acoustic surveillance",
+      "manipulative advertising"
+    ],
+    "overlap_check_hash": "6574f5fbdd1cfe76",
+    "why_this_can_go_viral": "Creepy real-time audio exploitation—feels like dystopian tech from Black Mirror."
+  },
+  {
+    "unique_id": "business_0197_008_3aa48e0f4772cfb4",
+    "title": "The Industry Cover-Up of 'Organic' Honey—It Was Corn Syrup Sprayed With Bee Pheromones",
+    "hook": "The 'raw organic' honey in your pantry was just high-fructose syrup—laced with chemicals to mimic real bee behavior.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 81,
+    "educational_value": 72,
+    "estimated_short_retention": 76,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "honey fraud",
+      "fake organic",
+      "corn syrup scam",
+      "bee pheromones",
+      "food industry lies"
+    ],
+    "overlap_check_hash": "3aa48e0f4772cfb4",
+    "why_this_can_go_viral": "Everyone buys honey—this makes people feel duped and share to warn others."
+  },
+  {
+    "unique_id": "business_0197_009_624ce4b7564ca43f",
+    "title": "The Trader Who Used Stolen Medical Records to Short Weight-Loss Surgery Stocks",
+    "hook": "A data broker leaked private bariatric surgery dates—and a hedge fund bet against hospitals right before complications surged.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 69,
+    "estimated_short_retention": 79,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "medical data trading",
+      "weight loss surgery short",
+      "insider trading health",
+      "data broker scam",
+      "hedge fund crime"
+    ],
+    "overlap_check_hash": "624ce4b7564ca43f",
+    "why_this_can_go_viral": "Mixes healthcare vulnerability with Wall Street predation—high outrage and shock."
+  },
+  {
+    "unique_id": "business_0197_010_fd71105205a7248e",
+    "title": "The Startup That Sold 'Rent-a-Confession' for AI Therapy—Then Blackmailed Users With Their Secrets",
+    "hook": "They offered a non-judgmental AI therapist—then stole users' deepest confessions and held them for ransom.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "AI therapy scam",
+      "confession blackmail",
+      "mental health fraud",
+      "data extortion",
+      "startup betrayal"
+    ],
+    "overlap_check_hash": "fd71105205a7248e",
+    "why_this_can_go_viral": "Deeply personal violation + AI fear = perfect viral horror story."
+  },
+  {
+    "unique_id": "business_0197_011_12a6fb146ccb9a24",
+    "title": "The Monopoly That Bought Every Bowling Alley—Then Made Pins Fall Over at Random",
+    "hook": "They controlled the lanes, the balls, and the pins—then introduced software that changed scoring to maximize arcade snack sales.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 80,
+    "educational_value": 60,
+    "estimated_short_retention": 73,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "bowling alley scam",
+      "rigged scoring",
+      "monopoly abuse",
+      "arcade manipulation",
+      "sports fraud"
+    ],
+    "overlap_check_hash": "12a6fb146ccb9a24",
+    "why_this_can_go_viral": "Bowling is nostalgic—revealing rigged games feels like a betrayal of childhood fun."
+  },
+  {
+    "unique_id": "business_0197_012_6848a051a099fb7f",
+    "title": "The Corporate Spy Who Posed as a Coffee Shop Barista—Then Memorized Every Call and Trade",
+    "hook": "He learned the orders, the small talk, and the faces—then played back entire merger conversations to competing firms for millions.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 86,
+    "educational_value": 58,
+    "estimated_short_retention": 78,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "barista spy",
+      "coffee shop eavesdrop",
+      "trade secret theft",
+      "corporate espionage",
+      "merger intelligence"
+    ],
+    "overlap_check_hash": "6848a051a099fb7f",
+    "why_this_can_go_viral": "Everyday setting + extreme deception = relatable yet terrifying."
+  },
+  {
+    "unique_id": "business_0197_013_bc5297bce5b9be92",
+    "title": "The Dark Marketing Firm That Used Street Urinal Flow Data to Sell Prostate Pills",
+    "hook": "They installed sensors in public restrooms—and when flow was weak, your phone instantly got an ad for 'natural prostate relief.'",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 66,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "urinal surveillance",
+      "prostate pill ads",
+      "shame-based marketing",
+      "bathroom data",
+      "predictive advertising"
+    ],
+    "overlap_check_hash": "bc5297bce5b9be92",
+    "why_this_can_go_viral": "Gross, invasive, and hilarious—perfect for sharing and outrage."
+  },
+  {
+    "unique_id": "business_0197_014_fd627d064fed2e39",
+    "title": "The Supply Chain Secret of 'Wild' Saffron—It Was Dyed Plastics Shaved From Bottle Caps",
+    "hook": "The world's most expensive spice was actually colored polystyrene—ground up from recycled bottle caps in a hidden Chinese factory.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 84,
+    "educational_value": 73,
+    "estimated_short_retention": 76,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "saffron fraud",
+      "plastic spice",
+      "fake saffron",
+      "food supply scam",
+      "luxury ingredient lies"
+    ],
+    "overlap_check_hash": "fd627d064fed2e39",
+    "why_this_can_go_viral": "High shock value + expensive ingredient = instant 'check your pantry' virality."
+  },
+  {
+    "unique_id": "business_0197_015_e649bc755fb0b973",
+    "title": "The Industry Cover-Up of 'Reusable' Shopping Bags—They Were Designed to Mold After 10 Washes",
+    "hook": "Retail giants knew the 'eco-friendly' bags would grow black mold—so you'd throw them out and buy more every month.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 83,
+    "educational_value": 68,
+    "estimated_short_retention": 75,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "reusable bag scam",
+      "planned obsolescence",
+      "eco fraud",
+      "mold conspiracy",
+      "retail deception"
+    ],
+    "overlap_check_hash": "e649bc755fb0b973",
+    "why_this_can_go_viral": "Environmental guilt + deliberate waste = viral anger from green consumers."
+  },
+  {
+    "unique_id": "business_0197_016_457812db3a35eb60",
+    "title": "The CEO Who Bought a 'Heritage' Mustard Brand—Then Colored It With Titanium Dioxide",
+    "hook": "The 'old family recipe' yellow hue came from white paint pigment—after the original mustard was replaced with cheap corn slurry.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 80,
+    "educational_value": 64,
+    "estimated_short_retention": 73,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "mustard fraud",
+      "titanium dioxide food",
+      "heritage brand scam",
+      "food adulteration",
+      "CEO lies"
+    ],
+    "overlap_check_hash": "457812db3a35eb60",
+    "why_this_can_go_viral": "Everyday condiment + poisonous additive = immediate disgust and shareability."
+  },
+  {
+    "unique_id": "business_0197_017_3727fdf58049e9af",
+    "title": "The Trader Who Used Factory Whistle Patterns to Predict Production Crashes",
+    "hook": "He mapped the rhythm of steam whistles across industrial towns—and shorted the stocks before the factories stopped.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 72,
+    "educational_value": 71,
+    "estimated_short_retention": 70,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "factory whistle trading",
+      "industrial data",
+      "predictive shorting",
+      "sound analytics",
+      "unconventional markets"
+    ],
+    "overlap_check_hash": "3727fdf58049e9af",
+    "why_this_can_go_viral": "Old-world data + Wall Street = fascinating anomaly story."
+  },
+  {
+    "unique_id": "business_0197_018_872f931d3d521d44",
+    "title": "The Startup That Sold 'Rent-a-Personality' for AI Dating—Then Stole Your Voice for Deepfakes",
+    "hook": "They promised a 'perfect dating clone'—but used your voice to scam your matches into sending money to fake charities.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 62,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "AI dating scam",
+      "voice cloning fraud",
+      "deepfake romance",
+      "dating app betrayal",
+      "identity theft"
+    ],
+    "overlap_check_hash": "872f931d3d521d44",
+    "why_this_can_go_viral": "Love + AI + betrayal = perfect emotional hook for viral sharing."
+  },
+  {
+    "unique_id": "business_0197_020_563f8aba99dd8747",
+    "title": "The Corporate Spy Who Posed as a Security Guard—Then Filmed R&D Labs Through Night-Vision",
+    "hook": "He worked the graveyard shift with a thermal camera hidden in his vest—and sold every prototype design to a rival firm.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 84,
+    "educational_value": 60,
+    "estimated_short_retention": 77,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "guard spy",
+      "night vision theft",
+      "R&D espionage",
+      "industrial secrets",
+      "thermal camera scam"
+    ],
+    "overlap_check_hash": "563f8aba99dd8747",
+    "why_this_can_go_viral": "Spy thriller in everyday security uniform—high narrative tension and shareability."
+  },
+  {
+    "unique_id": "business_0197_021_367ff9e03b05369a",
+    "title": "The Dark Marketing Firm That Used City Trash Can Fill Levels to Sell You Diet Plans",
+    "hook": "They monitored how often you threw away food—and sent 'weight loss' ads timed to your guiltiest trash nights.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 87,
+    "educational_value": 64,
+    "estimated_short_retention": 76,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "trash surveillance",
+      "diet ad targeting",
+      "waste data",
+      "shame marketing",
+      "predictive advertising"
+    ],
+    "overlap_check_hash": "367ff9e03b05369a",
+    "why_this_can_go_viral": "Gross invasion of privacy + body image = high emotional reaction."
+  },
+  {
+    "unique_id": "business_0197_023_47d40739eeaeb568",
+    "title": "The Industry Cover-Up of 'Hypoallergenic' Cats—They Were Shaved Regular Cats With Dye",
+    "hook": "A million-dollar pet brand sold 'allergy-free' kittens—just normal cats with a monthly dye job and secret sedatives.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 68,
+    "estimated_short_retention": 79,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "hypoallergenic cat scam",
+      "pet fraud",
+      "cat dye",
+      "animal cruelty",
+      "fake pet products"
+    ],
+    "overlap_check_hash": "47d40739eeaeb568",
+    "why_this_can_go_viral": "Pet lovers + betrayal + cruelty = emotionally powerful viral story."
+  },
+  {
+    "unique_id": "business_0197_024_f82234e96a6328cb",
+    "title": "The CEO Who Bought a 'Vintage' Coffee Brand—Then Mixed Chalk Dust Into the Beans",
+    "hook": "The 'artisan roast' was actually calcium carbonate filler—to add weight and cut costs while customers paid premium prices.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 81,
+    "educational_value": 66,
+    "estimated_short_retention": 74,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "coffee fraud",
+      "chalk dust coffee",
+      "food adulteration",
+      "CEO scam",
+      "vintage brand lies"
+    ],
+    "overlap_check_hash": "f82234e96a6328cb",
+    "why_this_can_go_viral": "Coffee is a daily ritual—revealing chalk in beans makes people feel personally violated."
+  },
+  {
+    "unique_id": "business_0197_025_dc97bd1c9ca4e906",
+    "title": "The Trader Who Used Subway Turnstile Counts to Predict Retail Store Closures",
+    "hook": "He tracked how many people skipped the mall stop—and shorted the stores before they announced bankruptcy.",
+    "virality_score": 75,
+    "curiosity_gap_score": 81,
+    "darkness_score": 70,
+    "educational_value": 72,
+    "estimated_short_retention": 68,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "subway data trading",
+      "retail prediction",
+      "public transit analytics",
+      "short selling",
+      "urban intelligence"
+    ],
+    "overlap_check_hash": "dc97bd1c9ca4e906",
+    "why_this_can_go_viral": "Simple, smart, and surprising—makes audiences feel like they learned a hidden Wall Street trick."
+  }
+]

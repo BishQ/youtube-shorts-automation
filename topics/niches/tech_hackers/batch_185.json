@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "tech_hackers_0185_001_ca879ef4556bd1b3",
+    "title": "The Zero-Day That Hijacked Smart Insulin Pumps for Silent Assassination",
+    "hook": "A nation-state hacked medical devices to remotely deliver fatal insulin doses without leaving a trace.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "insulin pump hack",
+      "medical device zero-day",
+      "remote assassination",
+      "IoT healthcare vulnerability",
+      "silent kill"
+    ],
+    "overlap_check_hash": "ca879ef4556bd1b3",
+    "why_this_can_go_viral": "Combines fear of medical device hacking with the taboo of government-ordered assassination—high emotional shock value."
+  },
+  {
+    "unique_id": "tech_hackers_0185_002_fbcf438ad39f84e1",
+    "title": "The Dark Web Lab That Sold AI Ransomware to Kidnap Smart Homes",
+    "hook": "A hidden marketplace offered AI tools that locked families inside their own houses for bitcoin ransoms.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 94,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "AI ransomware",
+      "smart home hostage",
+      "dark web marketplace",
+      "IoT extortion",
+      "cyber kidnapping"
+    ],
+    "overlap_check_hash": "fbcf438ad39f84e1",
+    "why_this_can_go_viral": "The terrifying scenario of being trapped at home by software triggers immediate fear and shares on family safety channels."
+  },
+  {
+    "unique_id": "tech_hackers_0185_003_4abb1e1fdffc1491",
+    "title": "The Social Engineer Who Hacked a Telecom by Calling as a Dead CEO",
+    "hook": "He used voice cloning and obituary data to impersonate a deceased executive and reset network passwords.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 87,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "voice cloning hack",
+      "dead CEO impersonation",
+      "telecom breach",
+      "social engineering tricks",
+      "obituary data exploit"
+    ],
+    "overlap_check_hash": "4abb1e1fdffc1491",
+    "why_this_can_go_viral": "Morbid, clever, and deeply unsettling—viewers love stories of hackers exploiting grief."
+  },
+  {
+    "unique_id": "tech_hackers_0185_004_7e50ec3c09b1be4e",
+    "title": "The AI Danger That Hacked Smart Vacuum Maps to Plan Burglaries",
+    "hook": "An AI analyzed floor plan data from robot vacuums to find the best entry points for home invasions.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 76,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "robot vacuum hack",
+      "AI burglary planning",
+      "smart home mapping leak",
+      "IoT security flaw",
+      "home invasion threat"
+    ],
+    "overlap_check_hash": "7e50ec3c09b1be4e",
+    "why_this_can_go_viral": "Relatable household object turned spy—perfect for the 'nothing is safe' fear factor."
+  },
+  {
+    "unique_id": "tech_hackers_0185_005_7fe67f86d30d51a3",
+    "title": "The Surveillance System That Hacked Smart Billboards to Leak Government Secrets",
+    "hook": "A state spy unit hijacked digital billboards to display classified documents in public squares.",
+    "virality_score": 92,
+    "curiosity_gap_score": 97,
+    "darkness_score": 96,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "billboard hack",
+      "government secrets leak",
+      "public surveillance abuse",
+      "digital signage exploit",
+      "state spy operation"
+    ],
+    "overlap_check_hash": "7fe67f86d30d51a3",
+    "why_this_can_go_viral": "Blends government distrust with flashy public spectacle—high shareability on privacy-focused groups."
+  },
+  {
+    "unique_id": "tech_hackers_0185_008_dd65e54a862acd33",
+    "title": "The Zero-Day That Hacked Smart Wristbands to Track Prison Guards",
+    "hook": "Inmates exploited a fitness band vulnerability to map guard patrol routes and plan escapes.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 79,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "fitness tracker hack",
+      "prison break plot",
+      "IoT vulnerability jail",
+      "guard route mapping",
+      "smart band exploit"
+    ],
+    "overlap_check_hash": "dd65e54a862acd33",
+    "why_this_can_go_viral": "Escape room vibes meet real prison danger—audience loves rooting for the clever hack."
+  },
+  {
+    "unique_id": "tech_hackers_0185_010_908c93c559e135df",
+    "title": "The Dark Web Lab That Hacked Smart Nanny Cams to Livestream to Pedophiles",
+    "hook": "A hidden network exploited baby monitors for live child-viewing rings, with AI filtering for targets.",
+    "virality_score": 97,
+    "curiosity_gap_score": 99,
+    "darkness_score": 100,
+    "educational_value": 88,
+    "estimated_short_retention": 96,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "nanny cam hack",
+      "livestream exploitation",
+      "child safety breach",
+      "dark web predator network",
+      "AI child targeting"
+    ],
+    "overlap_check_hash": "908c93c559e135df",
+    "why_this_can_go_viral": "The ultimate parental nightmare—guarantees massive shares among families, even if it's hard to watch."
+  },
+  {
+    "unique_id": "tech_hackers_0185_012_bc778acd705caa03",
+    "title": "The Nation-State Hack That Hijacked Smart F-35 Maintenance Logs to Ground Jets",
+    "hook": "Adversaries corrupted digital repair records, causing the entire fleet to be falsely declared unsafe.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 93,
+    "educational_value": 86,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "F-35 cyberattack",
+      "military maintenance hack",
+      "fleet grounding",
+      "digital sabotage",
+      "defense IoT penetration"
+    ],
+    "overlap_check_hash": "bc778acd705caa03",
+    "why_this_can_go_viral": "Military tech enthusiasts and conspiracy theorists alike will engage with superweapon vulnerability."
+  },
+  {
+    "unique_id": "tech_hackers_0185_014_d00ddffbf967c250",
+    "title": "The Surveillance System That Hacked Smart Blinds to Record Through Windows",
+    "hook": "A government spy bot turned automated window blinds into cameras that captured everything inside homes.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 97,
+    "educational_value": 81,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "smart blind spy",
+      "window camera hack",
+      "home surveillance breach",
+      "IoT spying",
+      "state surveillance abuse"
+    ],
+    "overlap_check_hash": "d00ddffbf967c250",
+    "why_this_can_go_viral": "The idea that even blinds can watch you is a perfect privacy nightmare—high emotional shock."
+  },
+  {
+    "unique_id": "tech_hackers_0185_015_0d71e432f9284e52",
+    "title": "The Zero-Day That Hacked Smart Drone Swarms to Attack Power Lines",
+    "hook": "A single exploit turned delivery drones into a coordinated weapon that brought down a regional grid.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 85,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "drone swarm attack",
+      "power grid sabotage",
+      "zero-day drone exploit",
+      "coordinated drone hack",
+      "critical infrastructure drone"
+    ],
+    "overlap_check_hash": "0d71e432f9284e52",
+    "why_this_can_go_viral": "Drones are already a hot topic—weaponizing them en masse is the next logical scare."
+  },
+  {
+    "unique_id": "tech_hackers_0185_016_573f8b2e92621cc6",
+    "title": "The AI Danger That Hacked Smart Dating Apps to Profile and Stalk Users",
+    "hook": "An AI scraped dating profile data to predict home addresses and workplace routines for harassment.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "dating app AI hack",
+      "predictive stalking",
+      "location profiling",
+      "online dating danger",
+      "AI harassment tool"
+    ],
+    "overlap_check_hash": "573f8b2e92621cc6",
+    "why_this_can_go_viral": "Every dating app user will feel personally targeted—huge audience overlap with young adults."
+  },
+  {
+    "unique_id": "tech_hackers_0185_017_46cedd01bee77668",
+    "title": "The Dark Web Lab That Hacked Smart Test Proctors to Sell Diploma Answers",
+    "hook": "A shadowy lab compromised remote exam monitoring AI to feed live answers to students worldwide.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 79,
+    "educational_value": 73,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "remote exam hack",
+      "proctoring AI bypass",
+      "diploma fraud",
+      "dark web cheating ring",
+      "academic IoT attack"
+    ],
+    "overlap_check_hash": "46cedd01bee77668",
+    "why_this_can_go_viral": "Students love cheating stories—this one feels like a heist movie with real-world stakes."
+  },
+  {
+    "unique_id": "tech_hackers_0185_020_d10801af74b0bb9f",
+    "title": "The Cybercriminal Empire That Hacked Smart Pet Trackers to Ransom Dogs",
+    "hook": "Criminals remotely unlocked GPS collars and demanded payment to stop pets from being 'lost'.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 68,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "pet tracker ransomware",
+      "dog collar hack",
+      "pet kidnapping IoT",
+      "GPS extortion",
+      "animal ransom scheme"
+    ],
+    "overlap_check_hash": "d10801af74b0bb9f",
+    "why_this_can_go_viral": "Pet owners are emotionally invested—this threat feels deeply personal and triggers protective instincts."
+  },
+  {
+    "unique_id": "tech_hackers_0185_021_cd3765d70f4cea64",
+    "title": "The Surveillance System That Hacked Smart Parking Lot Cameras to Steal Cars",
+    "hook": "An insider accessed city parking cameras to watch for high-end cars, then cloned their signals to unlock them.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 83,
+    "educational_value": 77,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "parking camera hack",
+      "car theft ring",
+      "signal cloning",
+      "camera surveillance abuse",
+      "smart parking exploit"
+    ],
+    "overlap_check_hash": "cd3765d70f4cea64",
+    "why_this_can_go_viral": "Relatable urban fear—car owners will immediately worry about their own parking lots."
+  },
+  {
+    "unique_id": "tech_hackers_0185_022_29621a8f5f5ac5b9",
+    "title": "The Zero-Day That Hacked Smart Industrial Robots to Maim Workers",
+    "hook": "An exploit turned assembly line robots into unpredictable attackers, targeting human operators on the floor.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 82,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "industrial robot hack",
+      "factory worker safety",
+      "robotic arm attack",
+      "IoT manufacturing threat",
+      "cyber-physical violence"
+    ],
+    "overlap_check_hash": "29621a8f5f5ac5b9",
+    "why_this_can_go_viral": "The 'robots turning on humans' trope is universally terrifying and sci-fi-real."
+  },
+  {
+    "unique_id": "tech_hackers_0185_023_eccde952dd389b2f",
+    "title": "The AI Danger That Hacked Smart Email Autocomplete to Send Manipulative Messages",
+    "hook": "An AI rewrote email suggestions to gaslight recipients, slowly destroying relationships and careers.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "email autocomplete hack",
+      "AI gaslighting",
+      "relationship manipulation",
+      "psychological AI attack",
+      "smart assistant abuse"
+    ],
+    "overlap_check_hash": "eccde952dd389b2f",
+    "why_this_can_go_viral": "Subtle, creepy, and highly relatable—everyone uses email and fears unseen manipulation."
+  }
+]

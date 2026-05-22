@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "mythology_0034_001_19a42449cb3bad8c",
+    "title": "The Cursed Book That Made Readers Go Blind",
+    "hook": "A medieval manuscript that reportedly caused blindness in everyone who read it—until scholars discovered why.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "mythology",
+    "subcategory": "cursed artifacts",
+    "keywords": [
+      "cursed book",
+      "medieval manuscript",
+      "blindness",
+      "dark artifact",
+      "mythology"
+    ],
+    "overlap_check_hash": "19a42449cb3bad8c",
+    "why_this_can_go_viral": "Combines horror with a real historical mystery—viewers love stories about dangerous objects with a scientific twist."
+  },
+  {
+    "unique_id": "mythology_0034_002_3bf7b3d56d6d6839",
+    "title": "The Forgotten God Who Punished People by Stealing Their Shadow",
+    "hook": "An ancient deity so feared that people would check their own shadow before leaving home.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 75,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "mythology",
+    "subcategory": "forgotten gods",
+    "keywords": [
+      "shadow thief",
+      "forgotten god",
+      "ancient deity",
+      "dark mythology",
+      "punishment"
+    ],
+    "overlap_check_hash": "3bf7b3d56d6d6839",
+    "why_this_can_go_viral": "The concept of losing your shadow is universally eerie and taps into primal fear of identity loss."
+  },
+  {
+    "unique_id": "mythology_0034_004_aee79a670fb536e1",
+    "title": "The Secret Society That Worshipped a Demon Made of Bone Ash",
+    "hook": "They ground the bones of their dead into powder, shaped it into a statue, and prayed to it for power.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "mythology",
+    "subcategory": "myth-based secret societies",
+    "keywords": [
+      "bone ash",
+      "demon worship",
+      "secret cult",
+      "necromancy",
+      "dark ritual"
+    ],
+    "overlap_check_hash": "aee79a670fb536e1",
+    "why_this_can_go_viral": "Extreme body horror and forbidden rituals are guaranteed to shock and fascinate audiences."
+  },
+  {
+    "unique_id": "mythology_0034_007_596192de8630a161",
+    "title": "The Ancient Trauma Behind the Myth of Medusa's Sisters",
+    "hook": "The Gorgons weren't born monsters—they were transformed after a trauma so horrific it became a legend.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "mythology",
+    "subcategory": "ancient trauma in myth",
+    "keywords": [
+      "medusa",
+      "gorgon",
+      "trauma",
+      "Greek myth",
+      "victim narrative"
+    ],
+    "overlap_check_hash": "596192de8630a161",
+    "why_this_can_go_viral": "Reframes a classic monster as a victim of injustice—deep emotional resonance with modern audiences."
+  },
+  {
+    "unique_id": "mythology_0034_008_c8159a99f4ae7a56",
+    "title": "The Forgotten God of the Hearth Who Burned Unfaithful Wives",
+    "hook": "Not a gentle domestic spirit—this god demanded loyalty and punished betrayal with fire.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 74,
+    "niche_name": "mythology",
+    "subcategory": "forgotten gods",
+    "keywords": [
+      "hearth god",
+      "burning",
+      "punishment",
+      "ancient justice",
+      "dark mythology"
+    ],
+    "overlap_check_hash": "c8159a99f4ae7a56",
+    "why_this_can_go_viral": "Subverts the cozy hearth symbol into something terrifying—great for shock value."
+  },
+  {
+    "unique_id": "mythology_0034_009_5b021e6aed74bf8d",
+    "title": "The Cursed Statue That Drove an Entire Town to Madness",
+    "hook": "A carved idol that made everyone in a medieval village hallucinate and turn on each other.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 89,
+    "niche_name": "mythology",
+    "subcategory": "cursed artifacts",
+    "keywords": [
+      "cursed statue",
+      "madness",
+      "hallucination",
+      "medieval legend",
+      "artifact"
+    ],
+    "overlap_check_hash": "5b021e6aed74bf8d",
+    "why_this_can_go_viral": "Mass hysteria stories always attract clicks—add a cursed object and it's irresistible."
+  },
+  {
+    "unique_id": "mythology_0034_010_55c8c3a372b6fa94",
+    "title": "The Corrupted Legend of the Phoenix—It Was a Bird That Burned Alive in Rituals",
+    "hook": "The beautiful rebirth myth hides a darker truth: ancient people watched trapped birds ignite in sacrifice.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "mythology",
+    "subcategory": "corrupted legends",
+    "keywords": [
+      "phoenix",
+      "bird sacrifice",
+      "rebirth",
+      "cruel ritual",
+      "dark origin"
+    ],
+    "overlap_check_hash": "55c8c3a372b6fa94",
+    "why_this_can_go_viral": "Destroys a beloved symbol with gruesome reality—high emotional impact."
+  },
+  {
+    "unique_id": "mythology_0034_012_06ff202613104e21",
+    "title": "The Secret Society That Ate Human Flesh to Absorb Ancestors' Power",
+    "hook": "They believed consuming the dead transferred strength—and they targeted the strongest corpses.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 98,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "mythology",
+    "subcategory": "myth-based secret societies",
+    "keywords": [
+      "cannibalism",
+      "ancestor worship",
+      "secret cult",
+      "power ritual",
+      "dark legend"
+    ],
+    "overlap_check_hash": "06ff202613104e21",
+    "why_this_can_go_viral": "Cannibalism and sacred ritual combine for maximum horror and taboo-breaking curiosity."
+  },
+  {
+    "unique_id": "mythology_0034_015_320bfe8b2fb0097b",
+    "title": "The Cursed Anchor That Dragged Ships to the Bottom of the Sea",
+    "hook": "An anchor forged from cursed iron that supposedly pulled vessels into whirlpools on its own.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 74,
+    "educational_value": 60,
+    "estimated_short_retention": 75,
+    "niche_name": "mythology",
+    "subcategory": "cursed artifacts",
+    "keywords": [
+      "cursed anchor",
+      "shipwreck",
+      "sea legend",
+      "whirlpool",
+      "artifact"
+    ],
+    "overlap_check_hash": "320bfe8b2fb0097b",
+    "why_this_can_go_viral": "Maritime horror has a strong following—adds a cursed object twist to a classic danger."
+  },
+  {
+    "unique_id": "mythology_0034_017_3d823ad15cbfd518",
+    "title": "The Corrupted Legend of the Unicorn—It Was a Goat With a Deformed Horn",
+    "hook": "Ancient travelers saw a goat with a fused horn from birth defects and swore it was magic.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 55,
+    "educational_value": 75,
+    "estimated_short_retention": 78,
+    "niche_name": "mythology",
+    "subcategory": "corrupted legends",
+    "keywords": [
+      "unicorn",
+      "goat deformity",
+      "myth busted",
+      "animal anomaly",
+      "legend origin"
+    ],
+    "overlap_check_hash": "3d823ad15cbfd518",
+    "why_this_can_go_viral": "Debunks a beloved fantasy creature with a sad biological truth—high shareability."
+  },
+  {
+    "unique_id": "mythology_0034_018_2238cd60378bf725",
+    "title": "The Real Myth of the Fire-Breathing Dragon—It Was a Poisonous Gas Geyser",
+    "hook": "Ancient people saw flames shooting from the ground near caves and believed a beast lived inside.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 60,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "mythology",
+    "subcategory": "myth real-world origins",
+    "keywords": [
+      "dragon",
+      "gas geyser",
+      "natural phenomenon",
+      "myth explained",
+      "ancient belief"
+    ],
+    "overlap_check_hash": "2238cd60378bf725",
+    "why_this_can_go_viral": "Natural science meets fantasy—explains a universal myth in a surprising way."
+  },
+  {
+    "unique_id": "mythology_0034_019_e344c2a8504e72d4",
+    "title": "The Forgotten God of the Mirror Who Trapped Your Reflection",
+    "hook": "Breaking a mirror wasn't bad luck—it released a deity that would haunt you forever.",
+    "virality_score": 77,
+    "curiosity_gap_score": 82,
+    "darkness_score": 76,
+    "educational_value": 55,
+    "estimated_short_retention": 73,
+    "niche_name": "mythology",
+    "subcategory": "forgotten gods",
+    "keywords": [
+      "mirror god",
+      "reflection",
+      "superstition",
+      "ancient deity",
+      "bad luck"
+    ],
+    "overlap_check_hash": "e344c2a8504e72d4",
+    "why_this_can_go_viral": "Taps into a universally known superstition with a darker backstory."
+  },
+  {
+    "unique_id": "mythology_0034_020_6b23ba066dcc4291",
+    "title": "The Secret Society That Used Human Skin as a Map to Hell",
+    "hook": "They tattooed the path to the underworld onto a sacrificed victim's skin and followed it in rituals.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 100,
+    "educational_value": 65,
+    "estimated_short_retention": 92,
+    "niche_name": "mythology",
+    "subcategory": "myth-based secret societies",
+    "keywords": [
+      "human skin map",
+      "underworld",
+      "ritual",
+      "secret cult",
+      "dark artifact"
+    ],
+    "overlap_check_hash": "6b23ba066dcc4291",
+    "why_this_can_go_viral": "Extreme body modification and taboo subject matter—guaranteed shock value."
+  },
+  {
+    "unique_id": "mythology_0034_021_aa4a9c121172a278",
+    "title": "The Demon That Could Only Be Exorcised by a Silent Prayer",
+    "hook": "If you spoke a single word during the exorcism, the demon would tear you apart from inside.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 82,
+    "educational_value": 55,
+    "estimated_short_retention": 82,
+    "niche_name": "mythology",
+    "subcategory": "demonology history",
+    "keywords": [
+      "silent exorcism",
+      "demon",
+      "possession",
+      "ancient ritual",
+      "deadly mistake"
+    ],
+    "overlap_check_hash": "aa4a9c121172a278",
+    "why_this_can_go_viral": "High stakes and a simple rule—easy to imagine and terrifying to think about."
+  },
+  {
+    "unique_id": "mythology_0034_022_8790d060be455344",
+    "title": "The Cursed Bell That Made Listeners Fall Into Comas",
+    "hook": "A temple bell that reportedly put entire congregations to sleep—some never woke up.",
+    "virality_score": 74,
+    "curiosity_gap_score": 78,
+    "darkness_score": 72,
+    "educational_value": 60,
+    "estimated_short_retention": 72,
+    "niche_name": "mythology",
+    "subcategory": "cursed artifacts",
+    "keywords": [
+      "cursed bell",
+      "coma",
+      "temple",
+      "sound horror",
+      "artifact"
+    ],
+    "overlap_check_hash": "8790d060be455344",
+    "why_this_can_go_viral": "Unique auditory horror angle—different from visual cursed objects."
+  },
+  {
+    "unique_id": "mythology_0034_023_5a05be3b3a3bb204",
+    "title": "The Ancient Trauma in the Myth of the Sphinx—It Was a Riddle of Death by Plague",
+    "hook": "The Sphinx's riddle wasn't a game—it was a metaphor for a disease that killed anyone who couldn't solve it.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "mythology",
+    "subcategory": "ancient trauma in myth",
+    "keywords": [
+      "sphinx",
+      "plague",
+      "riddle",
+      "Greek myth",
+      "disease metaphor"
+    ],
+    "overlap_check_hash": "5a05be3b3a3bb204",
+    "why_this_can_go_viral": "Reframes a famous story as a coded memory of a real catastrophe."
+  },
+  {
+    "unique_id": "mythology_0034_024_954978ff953e45e3",
+    "title": "The Corrupted Legend of the Kelpie—It Was a Drowning Horse Made of River Weed",
+    "hook": "Scottish waters hid a horror: waterlogged plants that looked like a horse and pulled swimmers under.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 74,
+    "educational_value": 70,
+    "estimated_short_retention": 77,
+    "niche_name": "mythology",
+    "subcategory": "corrupted legends",
+    "keywords": [
+      "kelpie",
+      "water horse",
+      "drowning",
+      "Scottish myth",
+      "natural explanation"
+    ],
+    "overlap_check_hash": "954978ff953e45e3",
+    "why_this_can_go_viral": "Nature as monster—plants becoming killers is a creepy twist."
+  },
+  {
+    "unique_id": "mythology_0034_025_8137f0d10cd3dd00",
+    "title": "The Real Myth of the Banshee's Scream—It Was a Woman With a Genetic Disorder",
+    "hook": "A rare condition made some women's voices produce a piercing wail that sounded like a death omen.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 88,
+    "niche_name": "mythology",
+    "subcategory": "myth real-world origins",
+    "keywords": [
+      "banshee",
+      "genetic disorder",
+      "voice anomaly",
+      "Irish myth",
+      "real explanation"
+    ],
+    "overlap_check_hash": "8137f0d10cd3dd00",
+    "why_this_can_go_viral": "Medical curiosity meets folklore—perfect for myth-debunking content."
+  }
+]

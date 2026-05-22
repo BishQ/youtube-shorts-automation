@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "business_0198_001_1bdc522b3d931392",
+    "title": "The CEO Who Bought a 'Luxury' Water Brand—Then Sold Tap Water Tainted With Lithium",
+    "hook": "The 'premium' alkaline water that everyone bought was actually tap water spiked with industrial lithium—then the CEO made a fortune off the side effects of his own product.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "water scam",
+      "lithium poisoning",
+      "fake luxury",
+      "corporate greed",
+      "labeled fraud"
+    ],
+    "overlap_check_hash": "1bdc522b3d931392",
+    "why_this_can_go_viral": "Juxtaposes a trusted everyday product (bottled water) with a dangerous industrial ingredient—creates instant disgust and shareability."
+  },
+  {
+    "unique_id": "business_0198_002_3e913a12a8eb2ce2",
+    "title": "The Hedge Fund That Used Hospital Parking Lot Sensors to Predict Earnings",
+    "hook": "They didn't need insider tips—they just watched how many cars left the hospital late at night, and knew which drug companies were about to crash.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 76,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "hedge fund",
+      "parking lot data",
+      "insider trading",
+      "big data",
+      "predictive analytics"
+    ],
+    "overlap_check_hash": "3e913a12a8eb2ce2",
+    "why_this_can_go_viral": "Reveals a real, creepy data-harvesting technique that feels like financial sci-fi—high shareability among finance and tech audiences."
+  },
+  {
+    "unique_id": "business_0198_003_a6946720dfaa9914",
+    "title": "The Startup That Sold 'Rent-a-Family' for Background Checks—Then Stole Your Identity",
+    "hook": "They offered fake family members for job reference calls, but the real product was your full identity—sold to data brokers before you got hired.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "identity theft",
+      "fake references",
+      "employment fraud",
+      "data brokering",
+      "startup scam"
+    ],
+    "overlap_check_hash": "a6946720dfaa9914",
+    "why_this_can_go_viral": "Taps into real fear of job scams and identity theft—relatable to millions looking for work."
+  },
+  {
+    "unique_id": "business_0198_004_374f921127fa498e",
+    "title": "The Monopoly That Bought Every Lobster Fishery—Then Made Lobsters Illegal to Catch Yourself",
+    "hook": "They owned the traps, the boats, the processors, and the licenses—if you touched a lobster without their permission, it was theft, even in public waters.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "monopoly",
+      "fishery control",
+      "lobster industry",
+      "ocean privatization",
+      "market domination"
+    ],
+    "overlap_check_hash": "374f921127fa498e",
+    "why_this_can_go_viral": "Outrage-inducing story about privatizing a common resource—connects to anti-monopoly sentiment."
+  },
+  {
+    "unique_id": "business_0198_005_f93de2dfb50b74b5",
+    "title": "The Corporate Spy Who Posed as a Food Critic—Then Stole Recipes From Kitchen Trash",
+    "hook": "She never ate a single meal—she just dug through the restaurant's garbage and reverse-engineered everything from bones and peels.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 74,
+    "educational_value": 55,
+    "estimated_short_retention": 75,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "food spy",
+      "recipe theft",
+      "dumpster diving",
+      "industrial espionage",
+      "trade secrets"
+    ],
+    "overlap_check_hash": "f93de2dfb50b74b5",
+    "why_this_can_go_viral": "Gross, clever, and visual—perfect for storytelling and reaction content."
+  },
+  {
+    "unique_id": "business_0198_008_72e1b8df644c103f",
+    "title": "The Industry Cover-Up of 'Stream Sanitized' Hotel Sheets—They Were Just Sprayed With Febreze",
+    "hook": "For a decade, the 'sterilized' seal on your hotel bed meant nothing—they just masked the stains and resold the same sheets to the next guest.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 77,
+    "educational_value": 68,
+    "estimated_short_retention": 79,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "hotel hygiene",
+      "sheet scam",
+      "fake cleaning",
+      "hospitality fraud",
+      "sanitation cover-up"
+    ],
+    "overlap_check_hash": "72e1b8df644c103f",
+    "why_this_can_go_viral": "Disgusts viewers about a universal experience—hotel stays—creating viral disgust-share loop."
+  },
+  {
+    "unique_id": "business_0198_009_6b564a475610c7f4",
+    "title": "The CEO Who Bought a 'Heritage' Sausage Brand—Then Filled It With Mechanically Separated Chicken",
+    "hook": "The '100-year-old recipe' was a lie—he swapped out premium pork for industrial paste scraped from bones, and nobody tasted the difference for years.",
+    "virality_score": 74,
+    "curiosity_gap_score": 76,
+    "darkness_score": 72,
+    "educational_value": 63,
+    "estimated_short_retention": 72,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "food fraud",
+      "sausage",
+      "mechanically separated",
+      "fake heritage",
+      "meat industry"
+    ],
+    "overlap_check_hash": "6b564a475610c7f4",
+    "why_this_can_go_viral": "Gross food revelation appeals to morbid curiosity and distrust in big food brands."
+  },
+  {
+    "unique_id": "business_0198_010_035994c12d8435d3",
+    "title": "The Trader Who Used Prison Release Dates to Short Rehab Center Stocks",
+    "hook": "He realized that when inmates got out of prison, rehab centers lost customers exactly three months later—and he bet against them every time.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 79,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "prison data",
+      "rehab stocks",
+      "short selling",
+      "alternative data",
+      "prison economics"
+    ],
+    "overlap_check_hash": "035994c12d8435d3",
+    "why_this_can_go_viral": "Dark, clever, and emotionally complex—blends criminal justice with finance in a provocative way."
+  },
+  {
+    "unique_id": "business_0198_011_bc13c5e111945466",
+    "title": "The Startup That Sold 'Rent-a-Teacher' for Homework—Then Blackmailed Students With Answers",
+    "hook": "They did your homework for a fee—then demanded more money to not tell your school, trapping thousands of students in a silent ransom loop.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 81,
+    "educational_value": 58,
+    "estimated_short_retention": 77,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "homework scam",
+      "academic blackmail",
+      "student exploitation",
+      "edtech fraud",
+      "ransom"
+    ],
+    "overlap_check_hash": "bc13c5e111945466",
+    "why_this_can_go_viral": "Relatable to students and parents—combines academic pressure with a shocking predatory twist."
+  },
+  {
+    "unique_id": "business_0198_012_c1ad38a8d2aa1944",
+    "title": "The Monopoly That Bought Every Watch Repairer—Then Made Gears That Self-Destruct After 11 Months",
+    "hook": "They didn't just fix watches—they replaced the original gears with ones engineered to crumble days after the warranty expired.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 76,
+    "educational_value": 67,
+    "estimated_short_retention": 78,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "planned obsolescence",
+      "watch industry",
+      "monopoly",
+      "warranty scam",
+      "gears"
+    ],
+    "overlap_check_hash": "c1ad38a8d2aa1944",
+    "why_this_can_go_viral": "Planned obsolescence is a red-hot topic—this is a fresh, mechanical twist on it."
+  },
+  {
+    "unique_id": "business_0198_013_d29f241c08b49637",
+    "title": "The Corporate Spy Who Posed as a Wedding Photographer—Then Stole Guest List Data From Rivals",
+    "hook": "She photographed weddings of rival executives—but her camera was scanning every phone screen in the room to extract contact lists and emails.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 79,
+    "educational_value": 56,
+    "estimated_short_retention": 76,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "wedding spy",
+      "data theft",
+      "executive targeting",
+      "corporate espionage",
+      "phone scanning"
+    ],
+    "overlap_check_hash": "d29f241c08b49637",
+    "why_this_can_go_viral": "Juxtaposes a celebratory event with a stealthy crime—high visual and narrative contrast."
+  },
+  {
+    "unique_id": "business_0198_015_afef7d08ea75a5d3",
+    "title": "The Supply Chain Secret of 'Ethical' Diamonds—They Were Conflict Gems Washed Through Canadian Banks",
+    "hook": "The 'blood-free' certification was a lie—the stones came from war zones, but were laundered through a chain of shell companies and fake Canadian mines.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 86,
+    "educational_value": 73,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "blood diamonds",
+      "ethical fraud",
+      "supply chain",
+      "money laundering",
+      "luxury scams"
+    ],
+    "overlap_check_hash": "afef7d08ea75a5d3",
+    "why_this_can_go_viral": "Classic taboo topic (conflict diamonds) with a fresh angle—financial laundering through legitimate institutions."
+  },
+  {
+    "unique_id": "business_0198_017_e86ef2ae8bb16660",
+    "title": "The CEO Who Bought a 'Gourmet' Olive Oil Brand—Then Cut It With Industrial Mineral Oil",
+    "hook": "The 'extra virgin' was 40% industrial lubricant—and it took the FDA six years to test it because the CEO kept bribing the inspectors.",
+    "virality_score": 78,
+    "curiosity_gap_score": 80,
+    "darkness_score": 75,
+    "educational_value": 64,
+    "estimated_short_retention": 73,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "olive oil fraud",
+      "industrial lubricant",
+      "FDA bribery",
+      "food corruption",
+      "counterfeit"
+    ],
+    "overlap_check_hash": "e86ef2ae8bb16660",
+    "why_this_can_go_viral": "Taps into the well-known olive oil scandal but with a darker, bribery angle."
+  },
+  {
+    "unique_id": "business_0198_018_2a78a8c69a0d3f10",
+    "title": "The Trader Who Used Fertilizer Sales to Predict Global Food Shortages Before the UN",
+    "hook": "While governments were still issuing sunny forecasts, he was buying put options on wheat—all because he noticed farmers buying fewer bags of nitrogen.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 74,
+    "educational_value": 76,
+    "estimated_short_retention": 81,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "fertilizer data",
+      "food shortage",
+      "wheat trading",
+      "predictive markets",
+      "commodities"
+    ],
+    "overlap_check_hash": "2a78a8c69a0d3f10",
+    "why_this_can_go_viral": "Makes viewers feel like they're getting secret insight into global food markets—high informational value."
+  },
+  {
+    "unique_id": "business_0198_019_a30dd79ea3c87371",
+    "title": "The Startup That Sold 'Rent-a-Smile' for Facebook Photos—Then Used Your Face for Deepfake Ads",
+    "hook": "You rented actors to smile in your photos to look happy—but the startup used every image to train AI that could put your face in porn and scams.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 90,
+    "educational_value": 66,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "deepfake fraud",
+      "face theft",
+      "social media scam",
+      "AI abuse",
+      "rent-a-smile"
+    ],
+    "overlap_check_hash": "a30dd79ea3c87371",
+    "why_this_can_go_viral": "Terrifyingly relevant to anyone who posts photos online—deepfake fear is at an all-time high."
+  },
+  {
+    "unique_id": "business_0198_020_4d55a2edf7e8270e",
+    "title": "The Monopoly That Bought Every Ice Cream Vendor—Then Made Ice Cream Melt Faster in Summer",
+    "hook": "They didn't change the recipe—they changed the cold chain logistics so you had to eat it faster, and buy more. Melting was engineered.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 80,
+    "educational_value": 66,
+    "estimated_short_retention": 79,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "ice cream monopoly",
+      "planned melt",
+      "cold chain",
+      "consumer manipulation",
+      "food supply"
+    ],
+    "overlap_check_hash": "4d55a2edf7e8270e",
+    "why_this_can_go_viral": "Fun childhood product tainted by a dark corporate secret—high emotional engagement and shareability."
+  },
+  {
+    "unique_id": "business_0198_021_fee04d01053d7e48",
+    "title": "The Corporate Spy Who Posed as a Dog Walker—Then Stole Biometric Data From Pet Owners",
+    "hook": "She walked dogs for executives, but the real mission was to steal fingerprints, voice samples, and iris scans—all through toys and treats laced with sensors.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 58,
+    "estimated_short_retention": 77,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "biometric theft",
+      "dog walker spy",
+      "pet espionage",
+      "corporate espionage",
+      "sensors"
+    ],
+    "overlap_check_hash": "fee04d01053d7e48",
+    "why_this_can_go_viral": "Cute animals vs. sinister data theft—high contrast, highly shareable."
+  },
+  {
+    "unique_id": "business_0198_022_34279e60baf0735f",
+    "title": "The Dark Marketing Firm That Used Library Late Fees to Sell You ADHD Medication",
+    "hook": "They cross-referenced library records with pharmacy data—if you were a chronic late returner, you got an ad for Adderall within 24 hours.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 63,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "library data",
+      "ADHD marketing",
+      "privacy violation",
+      "data mining",
+      "pharma targeting"
+    ],
+    "overlap_check_hash": "34279e60baf0735f",
+    "why_this_can_go_viral": "Combines a wholesome institution (library) with creepy medical targeting—perfect for outrage and discussion."
+  },
+  {
+    "unique_id": "business_0198_023_fee681e06f690afb",
+    "title": "The Supply Chain Secret of 'Free Range' Chicken—They Were Inside a Barn With a Tiny Dog Door",
+    "hook": "The 'free range' label required access to the outdoors—so farms installed a tiny door that 99% of birds never used, and regulators called it legal.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "free range fraud",
+      "chicken farming",
+      "label loopholes",
+      "animal ethics",
+      "factory farming"
+    ],
+    "overlap_check_hash": "fee681e06f690afb",
+    "why_this_can_go_viral": "Exposes a well-known labeling scam with a visual, absurd detail—maximizes anger and shareability."
+  },
+  {
+    "unique_id": "business_0198_024_2e52ed2dc10a2eed",
+    "title": "The Industry Cover-Up of 'Cloud Backup' Services—They Were Storing Your Data on Old Hard Drives in a Shed",
+    "hook": "The 'encrypted cloud' was just a guy's shed full of dusty drives from 2008—and when one died, your photos died with it, no recovery possible.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 73,
+    "educational_value": 70,
+    "estimated_short_retention": 76,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "cloud scam",
+      "fake backup",
+      "data loss",
+      "hard drive fraud",
+      "tech cover-up"
+    ],
+    "overlap_check_hash": "2e52ed2dc10a2eed",
+    "why_this_can_go_viral": "Targets a universal fear (losing digital data) with a ridiculous but true-sounding setup."
+  },
+  {
+    "unique_id": "business_0198_025_2728604fb838e7cf",
+    "title": "The CEO Who Bought a 'Vintage' Champagne Brand—Then Fermented the Next Batch in 4 Hours With Microwaves",
+    "hook": "He aged a year's supply of champagne in four hours using industrial microwave pulses—sommeliers praised the 'complex notes' of a microwave drink.",
+    "virality_score": 77,
+    "curiosity_gap_score": 80,
+    "darkness_score": 72,
+    "educational_value": 62,
+    "estimated_short_retention": 74,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "champagne fraud",
+      "microwave aging",
+      "wine scam",
+      "industrial shortcuts",
+      "fake vintage"
+    ],
+    "overlap_check_hash": "2728604fb838e7cf",
+    "why_this_can_go_viral": "Bizarre and almost comical—perfect for the 'how could they get away with this' reaction format."
+  }
+]

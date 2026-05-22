@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "science_0099_002_1dec230ddedc53c1",
+    "title": "The Chemist Who Accidentally Made a Drug That Erases Guilt",
+    "hook": "A failed synthesis created a molecule that silences the brain's moral center—and it was tested on humans.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "drug",
+      "guilt",
+      "morality",
+      "brain",
+      "experiment"
+    ],
+    "overlap_check_hash": "1dec230ddedc53c1",
+    "why_this_can_go_viral": "Combines forbidden chemistry with psychological horror—viewers will imagine a world without conscience."
+  },
+  {
+    "unique_id": "science_0099_003_dc622b6f272a5ec4",
+    "title": "The Biolab That Bred a Parasite That Makes Its Host Fear Light",
+    "hook": "A lab-modified protozoan hijacked the host's brain to avoid sunlight—and it escaped into the wild.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "parasite",
+      "light",
+      "brain",
+      "escape",
+      "lab"
+    ],
+    "overlap_check_hash": "dc622b6f272a5ec4",
+    "why_this_can_go_viral": "Parasite horror is always viral—combines body horror with real biolab risk."
+  },
+  {
+    "unique_id": "science_0099_004_e7ff5e6f437a442b",
+    "title": "The Neuroscientist Who Made a Man Feel Pain in a Phantom Limb That Never Existed",
+    "hook": "By stimulating a man's brain, a researcher created a phantom arm the patient never had—and it hurt constantly.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "phantom limb",
+      "pain",
+      "brain",
+      "illusion",
+      "experiment"
+    ],
+    "overlap_check_hash": "e7ff5e6f437a442b",
+    "why_this_can_go_viral": "Mind-bending neuroscience that challenges what we know about the body—visceral and disturbing."
+  },
+  {
+    "unique_id": "science_0099_005_103b4e7533a55502",
+    "title": "The Lab Catastrophe Where a Particle Accelerator Created a Mini Black Hole That Didn't Decay",
+    "hook": "A lab in Europe accidentally generated a microscopic black hole that refused to evaporate—and they had to contain it.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "black hole",
+      "accelerator",
+      "CERN",
+      "containment",
+      "disaster"
+    ],
+    "overlap_check_hash": "103b4e7533a55502",
+    "why_this_can_go_viral": "End-of-world scenario with a real lab—feeds existential fear and conspiracy theories."
+  },
+  {
+    "unique_id": "science_0099_006_cede29c8b1790c30",
+    "title": "The Scientific Fraud Who Faked a Study That Convinced Doctors to Stop Washing Hands",
+    "hook": "A single manipulated paper from the 1800s caused thousands of deaths—and its author was never held accountable.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 90,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fraud",
+      "hand washing",
+      "deaths",
+      "history",
+      "medicine"
+    ],
+    "overlap_check_hash": "cede29c8b1790c30",
+    "why_this_can_go_viral": "Shocking revelation about scientific malpractice—outrage and historical horror drive shares."
+  },
+  {
+    "unique_id": "science_0099_010_c3befe60c68c2efa",
+    "title": "The Biolab That Bred a Fungus That Makes Insects Sacrifice Themselves for It",
+    "hook": "A lab-grown fungus hijacked an ant's brain, forcing it to climb a plant and explode—spreading spores across the lab.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 93,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fungus",
+      "ant",
+      "zombie",
+      "brain",
+      "explode"
+    ],
+    "overlap_check_hash": "c3befe60c68c2efa",
+    "why_this_can_go_viral": "Zombie fungus horror is massively popular—combines nature and lab danger."
+  },
+  {
+    "unique_id": "science_0099_011_782786c3ed5a75cf",
+    "title": "The Neuroscientist Who Discovered a Brain Region That Makes You Believe in Conspiracies",
+    "hook": "Stimulating a tiny cluster of neurons in the left hemisphere made rational people suddenly believe the world is run by lizard people.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 85,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "conspiracy",
+      "brain",
+      "neuron",
+      "belief",
+      "stimulation"
+    ],
+    "overlap_check_hash": "782786c3ed5a75cf",
+    "why_this_can_go_viral": "Explains why conspiracy theories thrive—viewers will question their own thoughts."
+  },
+  {
+    "unique_id": "science_0099_012_dcd24dc40a68adc8",
+    "title": "The Lab Catastrophe Where a Chemical Reaction Caused a Building to Implode",
+    "hook": "A simple mixing error in a chemistry lab triggered a vacuum implosion that crushed three floors into a basement.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "implosion",
+      "chemical",
+      "building",
+      "accident",
+      "vacuum"
+    ],
+    "overlap_check_hash": "dcd24dc40a68adc8",
+    "why_this_can_go_viral": "Dramatic destruction with a real science twist—visual and alarming."
+  },
+  {
+    "unique_id": "science_0099_013_5701cc37a7ab1054",
+    "title": "The Quantum Paradox Where a Particle Changed Its Past After Being Measured",
+    "hook": "In a delayed-choice experiment, a photon decided which path it took—after the measurement was made. The past literally changed.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 80,
+    "educational_value": 88,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum",
+      "time",
+      "particle",
+      "past",
+      "experiment"
+    ],
+    "overlap_check_hash": "5701cc37a7ab1054",
+    "why_this_can_go_viral": "Time travel and reality bending—deep philosophical shock value."
+  },
+  {
+    "unique_id": "science_0099_014_770028cd4cd80b8d",
+    "title": "The Forbidden Experiment That Kept a Human in a Cage for a Year",
+    "hook": "A researcher confined a volunteer to a 3x3 meter cage to study isolation—the subject lost the ability to speak and walk.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 96,
+    "educational_value": 75,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "isolation",
+      "cage",
+      "human",
+      "experiment",
+      "speech"
+    ],
+    "overlap_check_hash": "770028cd4cd80b8d",
+    "why_this_can_go_viral": "Pure human cruelty—viewers will be horrified and fascinated."
+  },
+  {
+    "unique_id": "science_0099_016_c6f3b8aa6db1003b",
+    "title": "The Chemist Who Accidentally Made a Poison That Stays in the Air for Decades",
+    "hook": "A failed synthesis created a gas that never degrades—the lab was sealed and abandoned, still toxic today.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "poison",
+      "gas",
+      "toxic",
+      "lab",
+      "abandoned"
+    ],
+    "overlap_check_hash": "c6f3b8aa6db1003b",
+    "why_this_can_go_viral": "Real-life forbidden zone—feels like a horror movie."
+  },
+  {
+    "unique_id": "science_0099_017_2238d934f057cb73",
+    "title": "The Biolab That Bred a Bacteria That Turns Hosts Into Stone",
+    "hook": "A lab strain of bacteria was accidentally engineered to crystallize living tissue—infected animals turned into statues within hours.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "bacteria",
+      "crystal",
+      "stone",
+      "infection",
+      "lab"
+    ],
+    "overlap_check_hash": "2238d934f057cb73",
+    "why_this_can_go_viral": "Medusa-like horror meets real science—visually shocking and terrifying."
+  },
+  {
+    "unique_id": "science_0099_018_7b1ebd214515fc90",
+    "title": "The Scientific Fraud Who Invented a Fake Human Species",
+    "hook": "A paleontologist faked an entire hominid fossil—and the scientific community believed it for 50 years.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 82,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fossil",
+      "fraud",
+      "human",
+      "species",
+      "hoax"
+    ],
+    "overlap_check_hash": "7b1ebd214515fc90",
+    "why_this_can_go_viral": "Exposes how easily science can be fooled—outrage and fascination in equal measure."
+  },
+  {
+    "unique_id": "science_0099_020_e7c8dd2c1e3cb264",
+    "title": "The Lab Catastrophe Where a Magnetic Field Imploded a Vacuum Chamber",
+    "hook": "A superconducting magnet discharged unexpectedly, collapsing a chamber into a sphere of metal the size of a marble.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "magnet",
+      "implosion",
+      "vacuum",
+      "chamber",
+      "collapse"
+    ],
+    "overlap_check_hash": "e7c8dd2c1e3cb264",
+    "why_this_can_go_viral": "Spectacular physics failure—dramatic visuals and extreme forces."
+  },
+  {
+    "unique_id": "science_0099_021_f7213fefad8778d9",
+    "title": "The Forbidden Experiment That Made a Human See Infrared Light",
+    "hook": "By injecting a compound into a man's retina, scientists gave him temporary ability to see heat—but his vision never fully returned.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "infrared",
+      "vision",
+      "retina",
+      "experiment",
+      "damage"
+    ],
+    "overlap_check_hash": "f7213fefad8778d9",
+    "why_this_can_go_viral": "Superpowers with a dark cost—blends sci-fi with real horror."
+  },
+  {
+    "unique_id": "science_0099_023_4c228a9c4e1446a2",
+    "title": "The Physicist Who Created a Sound So Loud It Made Things Float",
+    "hook": "A focused acoustic array generated a sound wave so intense it levitated objects—but it also shattered bones in the test room.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 86,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "sound",
+      "levitate",
+      "wave",
+      "intense",
+      "damage"
+    ],
+    "overlap_check_hash": "4c228a9c4e1446a2",
+    "why_this_can_go_viral": "Levitation is magical—dangerous twist adds dark appeal."
+  },
+  {
+    "unique_id": "science_0099_024_ba408c26a839e1a7",
+    "title": "The Biolab That Bred a Virus That Only Infects People Who Are Afraid",
+    "hook": "A stress-activated virus was engineered to remain dormant until the host experienced fear—then it multiplied explosively.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "virus",
+      "fear",
+      "stress",
+      "engineered",
+      "horror"
+    ],
+    "overlap_check_hash": "ba408c26a839e1a7",
+    "why_this_can_go_viral": "Taps into primal fear—viewers will imagine a disease that hunts emotions."
+  }
+]

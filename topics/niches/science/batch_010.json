@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0010_001_e146e9296d27d085",
+    "title": "The Soviet Lab That Tried to Crossbreed Humans With Apes",
+    "hook": "In the 1920s, a Soviet scientist attempted to create a human-ape hybrid using artificial insemination—and the results were hidden for decades.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human-ape hybrid",
+      "Soviet experiment",
+      "forbidden science",
+      "Ilya Ivanov",
+      "hybridization"
+    ],
+    "overlap_check_hash": "e146e9296d27d085",
+    "why_this_can_go_viral": "Combines Cold War secrecy with a taboo biological experiment, triggering outrage and morbid curiosity."
+  },
+  {
+    "unique_id": "science_0010_002_4364b3b328db174e",
+    "title": "The Chemist Who Dissolved a Body in a Bathtub Accidentally",
+    "hook": "While testing a new solvent, a chemist realized it could turn human flesh into liquid—and the police came knocking.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 88,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "chemical solvent",
+      "body dissolution",
+      "lab accident",
+      "forensic chemistry",
+      "dangerous compound"
+    ],
+    "overlap_check_hash": "4364b3b328db174e",
+    "why_this_can_go_viral": "True crime meets chemistry horror—perfect for morbid curiosity and shock value."
+  },
+  {
+    "unique_id": "science_0010_004_bd4affc5eb8fe28a",
+    "title": "The Physicist Who Found a Glitch in the Speed of Light",
+    "hook": "In 2011, a team of physicists measured neutrinos moving faster than light—a result that would break physics, if it were true.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 60,
+    "educational_value": 85,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "faster than light",
+      "neutrino",
+      "CERN",
+      "physics anomaly",
+      "OPERA experiment"
+    ],
+    "overlap_check_hash": "bd4affc5eb8fe28a",
+    "why_this_can_go_viral": "Cracks in Einstein's relativity spark existential curiosity and debate about what we know."
+  },
+  {
+    "unique_id": "science_0010_005_48e2a45475743cbf",
+    "title": "The Neuroscientist Who Implanted False Memories in Mice—Then Humans",
+    "hook": "Using optogenetics, a team literally rewired mouse brains to remember things that never happened—then they tried it on people.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "false memory",
+      "optogenetics",
+      "memory manipulation",
+      "brain implant",
+      "neuroscience experiment"
+    ],
+    "overlap_check_hash": "48e2a45475743cbf",
+    "why_this_can_go_viral": "The idea that memories can be implanted triggers fear about identity and reality manipulation."
+  },
+  {
+    "unique_id": "science_0010_007_3412577aa22b6cfd",
+    "title": "The Lab That Leaked a Bacteria That Makes Plants Scream",
+    "hook": "A genetically modified bacteria escaped a lab—and began causing crops to emit ultrasonic distress signals audible to insects.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "GMO escape",
+      "plant communication",
+      "bacterial leak",
+      "agricultural disaster",
+      "ultrasonic plants"
+    ],
+    "overlap_check_hash": "3412577aa22b6cfd",
+    "why_this_can_go_viral": "Eerie and unexpected—nature turned against itself, triggering ecological horror."
+  },
+  {
+    "unique_id": "science_0010_008_7865bd18b90d6d56",
+    "title": "The Scientist Who Faked the Discovery of Cold Fusion—and Fooled the World",
+    "hook": "In 1989, two chemists claimed they achieved cold fusion. The world believed them for a few hours—then the lies unraveled in public.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "cold fusion",
+      "Pons and Fleischmann",
+      "scientific fraud",
+      "energy scandal",
+      "hoax"
+    ],
+    "overlap_check_hash": "7865bd18b90d6d56",
+    "why_this_can_go_viral": "A dramatic fall from grace—public trust shattered by ambition and flawed data."
+  },
+  {
+    "unique_id": "science_0010_009_e53fe31512dd36c9",
+    "title": "The Chemical That Makes Your Muscles Contract Permanently—Even After Death",
+    "hook": "A neurotoxin found in a rare mushroom locks every muscle in your body into a rigid, screaming spasm—even after your heart stops.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 94,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "neurotoxin",
+      "rigor mortis",
+      "mushroom poison",
+      "muscle spasm",
+      "death science"
+    ],
+    "overlap_check_hash": "e53fe31512dd36c9",
+    "why_this_can_go_viral": "Graphic, visceral horror about death that is scientifically accurate—high shock and share value."
+  },
+  {
+    "unique_id": "science_0010_010_c47166211c4e6f71",
+    "title": "The Forbidden Experiment Where Scientists Raised a Child in Total Silence",
+    "hook": "To test if language is innate, a medieval emperor ordered infants raised without any human speech—the result was a generation of psychological ruins.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "language deprivation",
+      "forbidden experiment",
+      "Psammetichus",
+      "child isolation",
+      "psychological damage"
+    ],
+    "overlap_check_hash": "c47166211c4e6f71",
+    "why_this_can_go_viral": "Cruel historical experiment taps into deepest fears about isolation and humanity."
+  },
+  {
+    "unique_id": "science_0010_011_1333c3ee72ecba27",
+    "title": "The Virus That Forces Your Brain to Crave Its Own Destruction",
+    "hook": "Rabies doesn't just kill you—it rewires your brain to seek water, then water becomes agony. It turns survival instinct into a weapon.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 93,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "rabies",
+      "brain rewiring",
+      "hydrophobia",
+      "virus manipulation",
+      "neurological horror"
+    ],
+    "overlap_check_hash": "1333c3ee72ecba27",
+    "why_this_can_go_viral": "Classic biological horror with a fresh angle—urge to destroy self is universally terrifying."
+  },
+  {
+    "unique_id": "science_0010_012_4d178d3bdeabc880",
+    "title": "The Quantum Computer That Found a Message Hidden in Random Noise",
+    "hook": "When scientists ran a quantum algorithm on random number sequences, it produced a pattern that looked like a coded message—from nowhere.",
+    "virality_score": 79,
+    "curiosity_gap_score": 88,
+    "darkness_score": 65,
+    "educational_value": 80,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum computer",
+      "random noise",
+      "hidden message",
+      "algorithm anomaly",
+      "quantum mystery"
+    ],
+    "overlap_check_hash": "4d178d3bdeabc880",
+    "why_this_can_go_viral": "Feels like a sci-fi plot—quantum computing meets unexplained patterns, sparking conspiracy theories."
+  },
+  {
+    "unique_id": "science_0010_013_e0acba88078385b5",
+    "title": "The Neuroscientist Who Electrified His Own Brain to Cure Depression",
+    "hook": "He drilled holes into his own skull, inserted electrodes, and zapped his brain—then claimed a total personality change.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "self-surgery",
+      "brain electrode",
+      "DIY neuroscience",
+      "depression cure",
+      "risk"
+    ],
+    "overlap_check_hash": "e0acba88078385b5",
+    "why_this_can_go_viral": "Shocking self-experimentation blurs line between genius and madness—high drama."
+  },
+  {
+    "unique_id": "science_0010_014_7cb85a15eda60427",
+    "title": "The Physicist Who Discovered That Empty Space Is Full of Ghost Particles",
+    "hook": "Scientists found that even in a perfect vacuum, particles appear and vanish in fractions of a second—nothing is truly empty.",
+    "virality_score": 77,
+    "curiosity_gap_score": 82,
+    "darkness_score": 50,
+    "educational_value": 88,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "quantum vacuum",
+      "virtual particles",
+      "Casimir effect",
+      "empty space",
+      "quantum field theory"
+    ],
+    "overlap_check_hash": "7cb85a15eda60427",
+    "why_this_can_go_viral": "Philosophical implication that reality is not solid—mind-expanding and shareable."
+  },
+  {
+    "unique_id": "science_0010_016_c812f94b3c27be28",
+    "title": "The Researcher Who Faked 200 Studies on Free Will—and Fooled Neuroscience",
+    "hook": "For a decade, a prominent neuroscientist published fabricated data proving that free will doesn't exist—until a whistleblower exposed the lie.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "free will",
+      "neuroscience fraud",
+      "fabricated data",
+      "Benjamin Libet",
+      "psychological scandal"
+    ],
+    "overlap_check_hash": "c812f94b3c27be28",
+    "why_this_can_go_viral": "Touches on deep philosophical questions—betrayal of trust in science fuels outrage."
+  },
+  {
+    "unique_id": "science_0010_017_f1edbc9088473795",
+    "title": "The Chemical Spill That Turned a Town's Water Into Acid",
+    "hook": "A railcar derailment released a cloud of hydrogen fluoride that dissolved concrete, metal, and the lungs of everyone nearby.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 89,
+    "educational_value": 70,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "hydrogen fluoride",
+      "chemical spill",
+      "toxic cloud",
+      "industrial disaster",
+      "water contamination"
+    ],
+    "overlap_check_hash": "f1edbc9088473795",
+    "why_this_can_go_viral": "Real-life horror story with visuals of destruction—provokes environmental fear."
+  },
+  {
+    "unique_id": "science_0010_018_b2da2ab78e1280d7",
+    "title": "The Parasite That Makes Its Host Immune to Fear—and Love Danger",
+    "hook": "Toxoplasma gondii infects rats, turning off their fear of cats. In humans, studies suggest it may make you reckless and thrill-seeking.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "Toxoplasma",
+      "fear suppression",
+      "parasite behavior",
+      "risk-taking",
+      "behavior modification"
+    ],
+    "overlap_check_hash": "b2da2ab78e1280d7",
+    "why_this_can_go_viral": "Surprising and creepy—viewers wonder if a parasite is controlling their own behavior."
+  },
+  {
+    "unique_id": "science_0010_019_b40c6e3c408e393a",
+    "title": "The Quantum Paradox That Lets a Particle Be in Two Places at Once—Then None",
+    "hook": "In a new quantum eraser experiment, a particle exists in two locations simultaneously—then vanishes entirely when observed.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 55,
+    "educational_value": 85,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum eraser",
+      "quantum superposition",
+      "observer effect",
+      "particle disappearance",
+      "quantum reality"
+    ],
+    "overlap_check_hash": "b40c6e3c408e393a",
+    "why_this_can_go_viral": "Mind-bending physics that challenges reality—highly shareable for science enthusiasts."
+  },
+  {
+    "unique_id": "science_0010_020_a1fd6e2b01d3edf0",
+    "title": "The Soviet Experiment That Tried to Revive Dead Dogs",
+    "hook": "In the 1940s, a Soviet scientist attempted to reanimate dogs after clinical death using a machine that pumped blood backward.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "Soviet experiment",
+      "reanimation",
+      "dog revival",
+      "Brukhonenko",
+      "resurrection science"
+    ],
+    "overlap_check_hash": "a1fd6e2b01d3edf0",
+    "why_this_can_go_viral": "Grotesque and ethically monstrous—feels like a horror movie but was real."
+  },
+  {
+    "unique_id": "science_0010_022_3b90f1b957a276a0",
+    "title": "The Physicist Who Proved That Time Can Move Backward",
+    "hook": "In a quantum experiment, a team reversed the arrow of time for a pair of particles—making them 'remember' the future.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 60,
+    "educational_value": 86,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time reversal",
+      "quantum time",
+      "arrow of time",
+      "time symmetry",
+      "quantum experiment"
+    ],
+    "overlap_check_hash": "3b90f1b957a276a0",
+    "why_this_can_go_viral": "Time travel flavor without pseudoscience—high curiosity and shareability."
+  },
+  {
+    "unique_id": "science_0010_023_83f4acb3c487bbfa",
+    "title": "The Lab That Miscalculated a Dose and Boiled a Patient's Blood",
+    "hook": "A chemotherapy dosage error caused a patient's blood to heat to 45°C internally, cooking organs from the inside—a death no one expected.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 92,
+    "educational_value": 68,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "chemotherapy error",
+      "medical mistake",
+      "overdose",
+      "hyperthermia",
+      "patient death"
+    ],
+    "overlap_check_hash": "83f4acb3c487bbfa",
+    "why_this_can_go_viral": "Horrifying medical error taps into fear of hospitals and experimental treatments."
+  },
+  {
+    "unique_id": "science_0010_024_99e71576fd5696df",
+    "title": "The Researcher Who Faked the Discovery of a New Human Organ",
+    "hook": "A team claimed to discover a new organ in the human body—but it turned out to be misinterpreted data from a single cadaver.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 65,
+    "educational_value": 78,
+    "estimated_short_retention": 74,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "new organ",
+      "interstitium",
+      "scientific fraud",
+      "anatomy hoax",
+      "cadaver study"
+    ],
+    "overlap_check_hash": "99e71576fd5696df",
+    "why_this_can_go_viral": "Challenges what we know about our own bodies—makes viewers question medical knowledge."
+  },
+  {
+    "unique_id": "science_0010_025_ad68b66ec26c1808",
+    "title": "The Chemical That Makes Your Skin Transparent—While You're Alive",
+    "hook": "A compound called SK2 applied to living tissue turns it clear, allowing scientists to see organs—but it also causes severe burns.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 84,
+    "educational_value": 70,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "transparent skin",
+      "chemical burn",
+      "SK2",
+      "tissue clearing",
+      "biological imaging"
+    ],
+    "overlap_check_hash": "ad68b66ec26c1808",
+    "why_this_can_go_viral": "Visually shocking and grotesque—play between curiosity and horror drives engagement."
+  }
+]

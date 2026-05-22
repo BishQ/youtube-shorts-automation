@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0085_001_2678b020ea6e5202",
+    "title": "The Chemist Who Synthesized a Molecule That Eats Itself Forever",
+    "hook": "A self-consuming molecule that replicates its own destruction, creating an endless loop of annihilation.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 60,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "self-eating molecule",
+      "chemical loop",
+      "autocatalysis",
+      "lab disaster",
+      "runaway reaction"
+    ],
+    "overlap_check_hash": "2678b020ea6e5202",
+    "why_this_can_go_viral": "The concept of a molecule that perpetually destroys itself is deeply unsettling and paradoxical, triggering immediate curiosity."
+  },
+  {
+    "unique_id": "science_0085_002_a766320d0272beca",
+    "title": "The Forbidden Experiment That Implanted Human Emotions Into a Rat",
+    "hook": "Scientists wired a rat's brain with human neural tissue, and it began showing signs of empathy and grief.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human brain implant",
+      "rat emotion",
+      "neural chimeras",
+      "animal consciousness",
+      "bioethics"
+    ],
+    "overlap_check_hash": "a766320d0272beca",
+    "why_this_can_go_viral": "Blurring the line between human and animal consciousness taps into primal fears and ethical taboos."
+  },
+  {
+    "unique_id": "science_0085_003_2159ed507b7f649c",
+    "title": "The Lab Leak That Created a Fungus That Digests Brain Tissue in Minutes",
+    "hook": "A fungal strain mutated in a petri dish, and when inhaled, it liquefied the host's brain within an hour.",
+    "virality_score": 90,
+    "curiosity_gap_score": 91,
+    "darkness_score": 92,
+    "educational_value": 55,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "brain-eating fungus",
+      "lab mutation",
+      "cerebral liquefaction",
+      "pathogen leak",
+      "fungal horror"
+    ],
+    "overlap_check_hash": "2159ed507b7f649c",
+    "why_this_can_go_viral": "Fungal brain infections are rare but terrifying; the rapid liquefaction angle triggers visceral disgust and fear."
+  },
+  {
+    "unique_id": "science_0085_004_4d446e86c55bf5a3",
+    "title": "The Physics Anomaly Where a Magnet Cooled Itself Below Absolute Zero",
+    "hook": "A magnetic system spontaneously dropped to negative Kelvin, where atoms moved backward in time.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 60,
+    "educational_value": 75,
+    "estimated_short_retention": 72,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "negative Kelvin",
+      "absolute zero",
+      "time reversal",
+      "quantum magnet",
+      "thermodynamic paradox"
+    ],
+    "overlap_check_hash": "4d446e86c55bf5a3",
+    "why_this_can_go_viral": "Negative absolute temperature breaks intuitive physics, making viewers question the nature of reality."
+  },
+  {
+    "unique_id": "science_0085_005_0e6dfbfc195b411d",
+    "title": "The Fraud Who Faked a Study Proving That Pain Makes You Immortal",
+    "hook": "A disgraced researcher claimed that constant pain activates a cellular 'immortality switch,' and people believed it.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 50,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "pain immortality",
+      "fake study",
+      "cellular switch",
+      "scientific hoax",
+      "immortality fraud"
+    ],
+    "overlap_check_hash": "0e6dfbfc195b411d",
+    "why_this_can_go_viral": "Combining pain, immortality, and fraud creates a dark, curiosity-driven narrative with emotional intensity."
+  },
+  {
+    "unique_id": "science_0085_006_2321e81b3d910d35",
+    "title": "The Neuroscientist Who Implanted a False Childhood Memory Into an Adult",
+    "hook": "Using targeted brain stimulation, a researcher convinced a grown man he had been abducted by aliens as a child.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "false memory",
+      "brain implant",
+      "memory manipulation",
+      "alien abduction",
+      "neural control"
+    ],
+    "overlap_check_hash": "2321e81b3d910d35",
+    "why_this_can_go_viral": "Memory manipulation strikes at the core of identity, sparking fear and fascination about who controls your past."
+  },
+  {
+    "unique_id": "science_0085_007_139e48daf4d662df",
+    "title": "The Quantum Paradox Where a Particle Forgot It Existed When Observed",
+    "hook": "A particle in a quantum trap literally vanished from reality the moment scientists tried to measure it.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 70,
+    "educational_value": 70,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum disappearance",
+      "observer effect",
+      "particle vanishing",
+      "quantum trap",
+      "reality paradox"
+    ],
+    "overlap_check_hash": "139e48daf4d662df",
+    "why_this_can_go_viral": "The idea that observation can erase existence is philosophically shocking and visually compelling."
+  },
+  {
+    "unique_id": "science_0085_008_2b636aeea5e04320",
+    "title": "The Biology Lab That Accidentally Bred a Spider That Weaves Metallic Web",
+    "hook": "A genetic mutation in a lab spider caused it to spin silk laced with conductive metals, creating a live electrical web.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 65,
+    "educational_value": 60,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "metallic spider",
+      "conductive silk",
+      "genetic mutation",
+      "lab spider",
+      "electric web"
+    ],
+    "overlap_check_hash": "2b636aeea5e04320",
+    "why_this_can_go_viral": "The fusion of biology and electricity in a terrifying creature is inherently shareable and visually striking."
+  },
+  {
+    "unique_id": "science_0085_010_ab96958b2b84dd52",
+    "title": "The Forbidden Experiment That Tried to Reverse a Human's Sleep Cycle for a Year",
+    "hook": "A researcher trapped himself in an underground bunker for 365 days, living on a 48-hour sleep cycle, and his brain never recovered.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 86,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "sleep deprivation",
+      "circadian disruption",
+      "bunker experiment",
+      "brain damage",
+      "extreme isolation"
+    ],
+    "overlap_check_hash": "ab96958b2b84dd52",
+    "why_this_can_go_viral": "Self-experimentation with brutal consequences taps into morbid curiosity about the limits of the human body."
+  },
+  {
+    "unique_id": "science_0085_011_e7a24c6649d676c4",
+    "title": "The Physics Anomaly Where a Glass Bead Melted Without Heat",
+    "hook": "A microscopic glass bead spontaneously liquefied at room temperature, defying everything known about phase transitions.",
+    "virality_score": 74,
+    "curiosity_gap_score": 80,
+    "darkness_score": 55,
+    "educational_value": 70,
+    "estimated_short_retention": 70,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "cold melting",
+      "glass bead",
+      "phase anomaly",
+      "room temperature liquid",
+      "material paradox"
+    ],
+    "overlap_check_hash": "e7a24c6649d676c4",
+    "why_this_can_go_viral": "Defying a fundamental physical law without explanation creates a sense of mystery and invites debate."
+  },
+  {
+    "unique_id": "science_0085_012_cc6db80e0c091bdb",
+    "title": "The Fraud Who Faked a Study Showing That Fear Cures Cancer",
+    "hook": "A researcher fabricated data claiming that adrenaline spikes from terror could shrink tumors, leading to dangerous 'fear therapy' clinics.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 83,
+    "educational_value": 55,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fear therapy",
+      "cancer fraud",
+      "adrenaline cure",
+      "fake study",
+      "dangerous treatment"
+    ],
+    "overlap_check_hash": "cc6db80e0c091bdb",
+    "why_this_can_go_viral": "The intersection of fear, cancer, and fraudulent science creates a morally dark and emotionally charged story."
+  },
+  {
+    "unique_id": "science_0085_015_3b00fb74dcd478db",
+    "title": "The Lab Catastrophe Where a DNA Synthesizer Spit Out a Never-Seen Protein",
+    "hook": "A gene sequencer malfunctioned and assembled a protein that didn't exist in nature—and it was toxic to all known life.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 77,
+    "educational_value": 60,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "synthetic protein",
+      "DNA error",
+      "toxic protein",
+      "lab accident",
+      "synthetic biology"
+    ],
+    "overlap_check_hash": "3b00fb74dcd478db",
+    "why_this_can_go_viral": "The idea of a man-made molecule that attacks all life taps into fears of synthetic biology gone rogue."
+  },
+  {
+    "unique_id": "science_0085_016_3d65b0a366c8866e",
+    "title": "The Biologist Who Discovered a Fungus That Grows in Human Eye Fluid",
+    "hook": "A rare fungus was found thriving inside the vitreous humor of a patient's eye, eating the jelly from within.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "eye fungus",
+      "vitreous humor",
+      "ocular infection",
+      "parasitic fungus",
+      "body horror"
+    ],
+    "overlap_check_hash": "3d65b0a366c8866e",
+    "why_this_can_go_viral": "Eye-focused body horror is universally visceral and shareable, especially when involving a living organism."
+  },
+  {
+    "unique_id": "science_0085_017_74d633af32b47b5e",
+    "title": "The Chemistry Disaster That Created a Dye That Never Washes Off",
+    "hook": "A chemists' attempt to create a permanent fabric dye accidentally made a compound that bonds to human skin for decades.",
+    "virality_score": 75,
+    "curiosity_gap_score": 79,
+    "darkness_score": 70,
+    "educational_value": 58,
+    "estimated_short_retention": 72,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "permanent dye",
+      "skin bond",
+      "indelible stain",
+      "chemical accident",
+      "lab spill"
+    ],
+    "overlap_check_hash": "74d633af32b47b5e",
+    "why_this_can_go_viral": "The horror of an irreversible cosmetic change resonates with viewers' fear of permanent mistakes."
+  },
+  {
+    "unique_id": "science_0085_018_6e0cce48df5d6c5e",
+    "title": "The Forbidden Experiment That Raised a Human Baby in a Controlled Void",
+    "hook": "An isolated infant was raised in a sensory deprivation chamber to see if language would spontaneously emerge.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 62,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human isolation",
+      "sensory deprivation",
+      "language experiment",
+      "child development",
+      "forbidden research"
+    ],
+    "overlap_check_hash": "6e0cce48df5d6c5e",
+    "why_this_can_go_viral": "The ethical violation of using a human infant as a test subject is profoundly disturbing and sparks outrage."
+  },
+  {
+    "unique_id": "science_0085_019_5b53463755fcabe6",
+    "title": "The Physics Anomaly Where a Laser Created a Bubble That Trapped Sound",
+    "hook": "A high-energy laser pulse in water created a 'sonic bubble' that reflected sound waves back into themselves indefinitely.",
+    "virality_score": 73,
+    "curiosity_gap_score": 78,
+    "darkness_score": 50,
+    "educational_value": 75,
+    "estimated_short_retention": 69,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "laser bubble",
+      "sound trap",
+      "acoustic anomaly",
+      "photon interaction",
+      "wave confinement"
+    ],
+    "overlap_check_hash": "5b53463755fcabe6",
+    "why_this_can_go_viral": "The surreal visual of trapping sound in a bubble feels like science fiction come to life."
+  },
+  {
+    "unique_id": "science_0085_020_012a63358eea50b9",
+    "title": "The Fraud Who Faked a Study Claiming That Sunlight Turns You Into a Plant",
+    "hook": "A biochemist fabricated evidence that humans could photosynthesize like plants, and thousands stopped eating.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 78,
+    "educational_value": 52,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "human photosynthesis",
+      "sun diet",
+      "fake biology",
+      "scientific hoax",
+      "dangerous fad"
+    ],
+    "overlap_check_hash": "012a63358eea50b9",
+    "why_this_can_go_viral": "The absurdity paired with real-world harm makes this story both shocking and cautionary."
+  },
+  {
+    "unique_id": "science_0085_022_0f2659dc51310129",
+    "title": "The Quantum Paradox Where a Single Atom Was in Two Places 10 Feet Apart",
+    "hook": "A massive atom was split into a superposition separated by meters, violating the boundary between quantum and classical.",
+    "virality_score": 77,
+    "curiosity_gap_score": 83,
+    "darkness_score": 55,
+    "educational_value": 78,
+    "estimated_short_retention": 74,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "atom superposition",
+      "quantum separation",
+      "macroscopic quantum",
+      "Schrödinger's atom",
+      "quantum boundary"
+    ],
+    "overlap_check_hash": "0f2659dc51310129",
+    "why_this_can_go_viral": "Seeing quantum weirdness at a human scale makes the abstract tangible and mind-bending."
+  },
+  {
+    "unique_id": "science_0085_023_a34b9cc8c2056cdc",
+    "title": "The Lab Catastrophe Where a Freeze-Drying Machine Created a Toxic Cloud",
+    "hook": "A malfunctioning freeze-dryer aerosolized a dormant virus, infecting an entire lab floor within minutes.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 55,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "freeze-dryer accident",
+      "aerosolized virus",
+      "lab infection",
+      "biohazard leak",
+      "viral cloud"
+    ],
+    "overlap_check_hash": "a34b9cc8c2056cdc",
+    "why_this_can_go_viral": "A mundane machine turning into a bioweapon device is a relatable horror scenario."
+  },
+  {
+    "unique_id": "science_0085_024_affcf81127a78569",
+    "title": "The Biologist Who Found a Worm That Hijacks the Brain's Pain Center",
+    "hook": "A parasitic worm was discovered that attaches to the spinal cord and reprograms pain signals to benefit its own reproduction.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 84,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "pain parasite",
+      "spinal hijack",
+      "worm reproduction",
+      "neural parasite",
+      "body horror"
+    ],
+    "overlap_check_hash": "affcf81127a78569",
+    "why_this_can_go_viral": "The idea of a creature using your own pain against you is deeply unsettling and memorable."
+  },
+  {
+    "unique_id": "science_0085_025_c36460faa080bbf5",
+    "title": "The Chemistry Disaster That Made a Gel That Absorbs Water Endlessly",
+    "hook": "A superabsorbent polymer was so efficient it started pulling moisture from the air, suffocating everything in the room.",
+    "virality_score": 74,
+    "curiosity_gap_score": 78,
+    "darkness_score": 72,
+    "educational_value": 55,
+    "estimated_short_retention": 71,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "superabsorbent gel",
+      "moisture thief",
+      "polymer disaster",
+      "desiccant accident",
+      "room suffocation"
+    ],
+    "overlap_check_hash": "c36460faa080bbf5",
+    "why_this_can_go_viral": "The silent, creeping danger of a substance that steals air's moisture is a slow-burn horror story."
+  }
+]

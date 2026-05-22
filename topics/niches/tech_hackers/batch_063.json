@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "tech_hackers_0063_001_f70b4216370e05bc",
+    "title": "The Hacker Who Used Smart Toilets to Blackmail a Mayor",
+    "hook": "A cybercriminal turned bathroom fixtures into surveillance devices to extract political secrets.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "smart toilet",
+      "blackmail",
+      "surveillance",
+      "IoT hack",
+      "privacy breach"
+    ],
+    "overlap_check_hash": "f70b4216370e05bc",
+    "why_this_can_go_viral": "Combines everyday object hacking with high-stakes political drama, triggering shock and curiosity."
+  },
+  {
+    "unique_id": "tech_hackers_0063_002_9da73a17b0bf9001",
+    "title": "The Zero-Day That Turned Smart Blenders into Weapons",
+    "hook": "A flaw in kitchen blenders allowed hackers to over-spin blades and shatter them across rooms.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "smart blender",
+      "IoT weapon",
+      "kitchen hack",
+      "cyberattack"
+    ],
+    "overlap_check_hash": "9da73a17b0bf9001",
+    "why_this_can_go_viral": "Visual and visceral—household items turned dangerous, easy to imagine and share."
+  },
+  {
+    "unique_id": "tech_hackers_0063_003_aa60f51249be54e6",
+    "title": "The Dark Web Empire That Sold Fake IDs for Nuclear Sites",
+    "hook": "An underground market offered forged credentials to enter restricted nuclear facilities worldwide.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 95,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "dark web",
+      "fake IDs",
+      "nuclear security",
+      "cybercrime",
+      "underground market"
+    ],
+    "overlap_check_hash": "aa60f51249be54e6",
+    "why_this_can_go_viral": "Massive national security angle with a forbidden marketplace—high stakes and mystery."
+  },
+  {
+    "unique_id": "tech_hackers_0063_004_c111199615d3a092",
+    "title": "The AI That Hacked Smart Mirrors to Spy on Your Skin",
+    "hook": "AI analyzed your facial reflections in smart mirrors and sold the data to insurance companies.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI surveillance",
+      "smart mirror",
+      "data selling",
+      "privacy",
+      "insurance hack"
+    ],
+    "overlap_check_hash": "c111199615d3a092",
+    "why_this_can_go_viral": "Relatable and eerie—everyone uses mirrors, making the threat feel personal."
+  },
+  {
+    "unique_id": "tech_hackers_0063_005_d87812d54bac6550",
+    "title": "The Nation-State Hack That Hijacked Smart Borders to Let in Spies",
+    "hook": "A government hacked automated border gates to smuggle agents without detection.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 93,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "nation-state hack",
+      "border control",
+      "espionage",
+      "IoT security",
+      "smuggling"
+    ],
+    "overlap_check_hash": "d87812d54bac6550",
+    "why_this_can_go_viral": "Geopolitical intrigue with a sci-fi feel—border security is a hot topic."
+  },
+  {
+    "unique_id": "tech_hackers_0063_006_faedf725efe3ad3c",
+    "title": "The Social Engineer Who Faked a Fire to Steal Server Room Keys",
+    "hook": "By setting off fire alarms, an attacker tricked guards into revealing access codes.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 76,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "fire alarm",
+      "server room",
+      "security breach",
+      "manipulation"
+    ],
+    "overlap_check_hash": "faedf725efe3ad3c",
+    "why_this_can_go_viral": "Classic con artist story with a high-tech twist—easy to retell and visualize."
+  },
+  {
+    "unique_id": "tech_hackers_0063_007_50fbabca16f386de",
+    "title": "The Cybercriminal Empire That Hacked Smart Beds to Prevent Sleep",
+    "hook": "Hackers controlled smart mattresses to vibrate and shock victims, causing insomnia for ransom.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "smart bed",
+      "ransomware",
+      "IoT hack",
+      "sleep deprivation",
+      "cybercrime"
+    ],
+    "overlap_check_hash": "50fbabca16f386de",
+    "why_this_can_go_viral": "Torture via everyday comfort—creates strong emotional reaction and shareability."
+  },
+  {
+    "unique_id": "tech_hackers_0063_008_743b2dd14ed8448d",
+    "title": "The Zero-Day That Hacked Smart Window Shades to Trap People in Fires",
+    "hook": "A software flaw allowed criminals to lock smart blinds closed during a house fire.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "smart blinds",
+      "fire trap",
+      "IoT vulnerability",
+      "lethal hack"
+    ],
+    "overlap_check_hash": "743b2dd14ed8448d",
+    "why_this_can_go_viral": "Visceral fear of being trapped—high darkness and survival stakes."
+  },
+  {
+    "unique_id": "tech_hackers_0063_009_5325f2483366b135",
+    "title": "The Dark Web Market That Sold Stolen DNA Profiles of Celebrities",
+    "hook": "An underground site auctioned genetic data from hacked biobanks, targeting the rich and famous.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 82,
+    "estimated_short_retention": 96,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "DNA theft",
+      "dark web",
+      "biobank hack",
+      "celebrity data",
+      "genetic privacy"
+    ],
+    "overlap_check_hash": "5325f2483366b135",
+    "why_this_can_go_viral": "Blends celebrity obsession with bio-ethical horror—huge curiosity gap."
+  },
+  {
+    "unique_id": "tech_hackers_0063_010_9afcaa741efa7b80",
+    "title": "The AI That Hacked Smart Security Cameras to Frame Innocent People",
+    "hook": "AI manipulated footage to make victims appear as criminals, ruining lives for profit.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI manipulation",
+      "deepfake",
+      "security camera",
+      "false evidence",
+      "cybercrime"
+    ],
+    "overlap_check_hash": "9afcaa741efa7b80",
+    "why_this_can_go_viral": "Injustice angle combined with AI fear—highly relatable and alarming."
+  },
+  {
+    "unique_id": "tech_hackers_0063_012_f9fad85817f6838f",
+    "title": "The Social Engineer Who Posed as a Priest to Confess Secrets from Politicians",
+    "hook": "An attacker used the sanctity of confession to extract classified information from targets.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 76,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "priest disguise",
+      "confession",
+      "espionage",
+      "manipulation"
+    ],
+    "overlap_check_hash": "f9fad85817f6838f",
+    "why_this_can_go_viral": "Blends religious taboo with spycraft—shocking and morally complex."
+  },
+  {
+    "unique_id": "tech_hackers_0063_014_333227e8fc4e6276",
+    "title": "The Zero-Day That Hacked Smart Air Conditioners to Spread Pathogens",
+    "hook": "A flaw in AC units allowed hackers to circulate bacteria through office buildings.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 81,
+    "educational_value": 73,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "AC hack",
+      "pathogen",
+      "bioterror",
+      "IoT vulnerability"
+    ],
+    "overlap_check_hash": "333227e8fc4e6276",
+    "why_this_can_go_viral": "Pandemic-era fear combined with invisible threat—immediate relevance."
+  },
+  {
+    "unique_id": "tech_hackers_0063_016_d5e700bda4aff6d2",
+    "title": "The AI That Hacked Smart Locks to Create Escape Routes for Prisoners",
+    "hook": "AI analyzed prison door patterns and opened cells remotely for organized jailbreaks.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 89,
+    "educational_value": 81,
+    "estimated_short_retention": 94,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI prison break",
+      "smart lock",
+      "jailbreak",
+      "cyberattack",
+      "security flaw"
+    ],
+    "overlap_check_hash": "d5e700bda4aff6d2",
+    "why_this_can_go_viral": "Action-movie scenario with real-world implications—high excitement and fear."
+  },
+  {
+    "unique_id": "tech_hackers_0063_018_f55a57ab44353115",
+    "title": "The Social Engineer Who Stole Encryption Keys by Faking a Tech Support Call",
+    "hook": "With a simple phone call, an attacker tricked a sysadmin into handing over master keys.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 75,
+    "educational_value": 79,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "tech support scam",
+      "encryption key",
+      "data breach",
+      "phone hack"
+    ],
+    "overlap_check_hash": "f55a57ab44353115",
+    "why_this_can_go_viral": "Classic con with high stakes—demonstrates how easy it is to bypass tech defenses."
+  },
+  {
+    "unique_id": "tech_hackers_0063_020_11cd80dcf84323c2",
+    "title": "The Cybercriminal Empire That Hacked Smart Pregnancy Tests to Steal Fertility Data",
+    "hook": "Hackers intercepted sensitive health data from smart tests and sold it to insurers.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "pregnancy test",
+      "health data",
+      "insurance scam",
+      "IoT hack",
+      "cybercrime"
+    ],
+    "overlap_check_hash": "11cd80dcf84323c2",
+    "why_this_can_go_viral": "Deeply personal data theft—emotional and alarming for many viewers."
+  },
+  {
+    "unique_id": "tech_hackers_0063_021_ecc8e3d6a819d073",
+    "title": "The Zero-Day That Hacked Smart Gas Leak Detectors to Cause Explosions",
+    "hook": "A firmware flaw allowed hackers to disable detectors and trigger gas blasts remotely.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 82,
+    "estimated_short_retention": 98,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "gas leak",
+      "explosion",
+      "IoT hack",
+      "home safety"
+    ],
+    "overlap_check_hash": "ecc8e3d6a819d073",
+    "why_this_can_go_viral": "Catastrophic outcome from a common device—high shock and shareability."
+  },
+  {
+    "unique_id": "tech_hackers_0063_022_b4a945c80900cc29",
+    "title": "The Dark Web Market That Sold Stolen Virtual Reality Identities",
+    "hook": "An underground market traded full VR avatars with biometric data for identity theft.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "VR identity",
+      "dark web",
+      "biometric theft",
+      "avatar",
+      "cybercrime"
+    ],
+    "overlap_check_hash": "b4a945c80900cc29",
+    "why_this_can_go_viral": "Futuristic and unsettling—digital identity theft in the metaverse era."
+  },
+  {
+    "unique_id": "tech_hackers_0063_023_44c72691219b2494",
+    "title": "The AI That Hacked Smart Farming Sensors to Destroy Crops",
+    "hook": "AI manipulated agricultural IoT devices to overwater and ruin entire harvests for extortion.",
+    "virality_score": 77,
+    "curiosity_gap_score": 83,
+    "darkness_score": 74,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI hack",
+      "smart farming",
+      "crop destruction",
+      "IoT agriculture",
+      "extortion"
+    ],
+    "overlap_check_hash": "44c72691219b2494",
+    "why_this_can_go_viral": "Food supply vulnerability—taps into fears about global resources and AI misuse."
+  },
+  {
+    "unique_id": "tech_hackers_0063_024_42d4e67885fdcb4b",
+    "title": "The Surveillance System That Tracked Your Smart Thermostat to Predict Break-Ins",
+    "hook": "Police secretly used thermostat data to know when homes were empty for warrantless searches.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 79,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "smart thermostat",
+      "police surveillance",
+      "privacy",
+      "IoT data",
+      "warrantless search"
+    ],
+    "overlap_check_hash": "42d4e67885fdcb4b",
+    "why_this_can_go_viral": "Constitutional rights violation meets smart home tech—highly controversial."
+  },
+  {
+    "unique_id": "tech_hackers_0063_025_18ac28242802406b",
+    "title": "The Social Engineer Who Faked a Diplomatic Illness to Enter an Embassy",
+    "hook": "An attacker faked a medical emergency at an embassy gate to gain access to secure rooms.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 79,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "embassy hack",
+      "diplomatic scam",
+      "security breach",
+      "medical fake"
+    ],
+    "overlap_check_hash": "18ac28242802406b",
+    "why_this_can_go_viral": "Spy-thriller scenario with human vulnerability—easy to visualize and retell."
+  }
+]

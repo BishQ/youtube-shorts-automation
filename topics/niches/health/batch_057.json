@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "health_0057_001_22214e096ae81a03",
+    "title": "The Hospital That Sterilized Mothers Without Their Knowledge",
+    "hook": "Between 2006 and 2013, hundreds of women entered a California hospital for routine C-sections—and woke up sterilized, without ever signing a consent form.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "forced sterilization",
+      "hospital abuse",
+      "California scandal",
+      "patient rights",
+      "nonconsensual surgery"
+    ],
+    "overlap_check_hash": "22214e096ae81a03",
+    "why_this_can_go_viral": "Combines medical betrayal with systemic injustice against poor women—rage and shock drive massive shares."
+  },
+  {
+    "unique_id": "health_0057_004_43cfd378b2dde74b",
+    "title": "The Suppressed Cure: How a $3 Herbal Blend Reversed 80% of Diabetes",
+    "hook": "In 1998, a Brazilian herbalist showed that a simple plant extract normalized blood sugar in 80% of patients. Big Pharma bought the patent—then buried it.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "diabetes cure",
+      "suppressed medicine",
+      "Big Pharma",
+      "herbal remedy",
+      "buried research"
+    ],
+    "overlap_check_hash": "43cfd378b2dde74b",
+    "why_this_can_go_viral": "Profit-over-health narrative resonates deeply with audiences suspicious of pharmaceutical motives."
+  },
+  {
+    "unique_id": "health_0057_006_bc913f7458475b26",
+    "title": "The Disease Cover-Up: How a Mold in Bread Caused 40% of Thyroid Disease",
+    "hook": "Studies show a common bread mold toxin directly triggers autoimmune thyroiditis. 40% of thyroid patients may have been poisoned by their daily sandwich.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 82,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "thyroid disease",
+      "mold toxins",
+      "bread contamination",
+      "food industry cover-up",
+      "autoimmune"
+    ],
+    "overlap_check_hash": "bc913f7458475b26",
+    "why_this_can_go_viral": "Staple food danger shocks viewers—connects chronic illness epidemic to hidden environmental cause."
+  },
+  {
+    "unique_id": "health_0057_007_eb34c5625c14294c",
+    "title": "The Pharmaceutical Company That Sold a Drug That Made Women Grow Beards",
+    "hook": "A popular antidepressant caused irreversible female facial hair growth—yet the manufacturer hid the side effect for 12 years and kept selling millions of doses.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 76,
+    "educational_value": 74,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "antidepressant side effects",
+      "hirsutism",
+      "drug cover-up",
+      "female facial hair",
+      "pharma scandal"
+    ],
+    "overlap_check_hash": "eb34c5625c14294c",
+    "why_this_can_go_viral": "Visually striking and deeply relatable to women—triggers both anger and personal fear."
+  },
+  {
+    "unique_id": "health_0057_008_688676c810a25572",
+    "title": "The Hospital That Performed Surgery on Awake Patients—Without Anesthesia",
+    "hook": "In a Romanian hospital, patients were strapped down and operated on fully conscious—to save money on anesthesiologists. Some screamed for hours.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 78,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "awake surgery",
+      "no anesthesia",
+      "Romanian hospital",
+      "medical torture",
+      "patient abuse"
+    ],
+    "overlap_check_hash": "688676c810a25572",
+    "why_this_can_go_viral": "Primitive fear of being conscious during surgery—visceral horror ensures complete retention."
+  },
+  {
+    "unique_id": "health_0057_010_a9c31ecb2a57f569",
+    "title": "The Doctor Who Used Patients as Fuel for a Hyperthermia Machine",
+    "hook": "Dr. Julian White experimented on terminal cancer patients by superheating their bodies to 108°F. 16 died within 24 hours—he called it 'research.'",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 76,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "hyperthermia",
+      "cancer experiment",
+      "Julian White",
+      "patient deaths",
+      "human experiments"
+    ],
+    "overlap_check_hash": "a9c31ecb2a57f569",
+    "why_this_can_go_viral": "Shocking method of death combines with medical arrogance—pure dark voyeurism drive."
+  },
+  {
+    "unique_id": "health_0057_011_86341a6b94c1bf2d",
+    "title": "The Suppressed Cure: How a $1 Vinegar Solution Killed 90% of Hospital Superbugs",
+    "hook": "A 2017 study found that simple acetic acid killed MRSA and C. diff better than any antibiotic. Hospitals ignored it—because 10-cent vinegar can't be patented.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 85,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "vinegar cure",
+      "superbug killer",
+      "MRSA",
+      "antibiotic resistance",
+      "suppressed research"
+    ],
+    "overlap_check_hash": "86341a6b94c1bf2d",
+    "why_this_can_go_viral": "Cheap, accessible solution buried by profit motives—audiences love anti-establishment health revelations."
+  },
+  {
+    "unique_id": "health_0057_012_66873087f8d27e60",
+    "title": "The Toxic Sanitary Pads That Gave Thousands Cervical Cancer",
+    "hook": "Independent tests revealed that leading sanitary pad brands contain glyphosate, dioxins, and asbestos. Women who used them had a 30% higher cervical cancer rate.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 79,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "toxic pads",
+      "cervical cancer",
+      "feminine hygiene",
+      "glyphosate",
+      "women's health"
+    ],
+    "overlap_check_hash": "66873087f8d27e60",
+    "why_this_can_go_viral": "Targets every menstruating woman—extreme personal relevance and hidden danger create massive shareability."
+  },
+  {
+    "unique_id": "health_0057_013_7434e09091549242",
+    "title": "The Disease Cover-Up: How a Chemical in Sofas Caused 50% of Infertility in Men",
+    "hook": "Flame retardants found in 80% of American couches directly reduce sperm count by 50%. The chemical industry knew for decades—and lobbied to keep it legal.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 83,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "infertility",
+      "flame retardants",
+      "sperm count",
+      "chemical cover-up",
+      "household toxins"
+    ],
+    "overlap_check_hash": "7434e09091549242",
+    "why_this_can_go_viral": "Links everyday furniture to fertility crisis—alarming, actionable, and highly shareable among young adults."
+  },
+  {
+    "unique_id": "health_0057_014_a73fb94440502176",
+    "title": "The Healthcare System That Billed a Dead Man for 400 Surgeries",
+    "hook": "A Florida hospital billed a deceased patient's estate for 400 surgeries performed after his death. The family only found out when debt collectors called.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "medical billing fraud",
+      "ghost surgeries",
+      "hospital scam",
+      "dead patient",
+      "healthcare corruption"
+    ],
+    "overlap_check_hash": "a73fb94440502176",
+    "why_this_can_go_viral": "Absurd yet infuriating—systemic healthcare fraud triggers rage and dark humor sharing."
+  },
+  {
+    "unique_id": "health_0057_015_9080127ea2a3d804",
+    "title": "The Pharmaceutical Company That Sold a Drug That Gave Patients Parkinson's",
+    "hook": "A popular antipsychotic medication triggered irreversible Parkinson's-like symptoms in 1 in 4 patients. The company hid the data for 8 years.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "Parkinson's drug",
+      "antipsychotic side effects",
+      "pharma cover-up",
+      "neurological damage",
+      "medication risk"
+    ],
+    "overlap_check_hash": "9080127ea2a3d804",
+    "why_this_can_go_viral": "Links common psychiatric meds to devastating neurological disease—creates fear and distrust."
+  },
+  {
+    "unique_id": "health_0057_016_9123064acafd4b5f",
+    "title": "The Experiment That Force-Fed Radioactive Breakfast to Orphans",
+    "hook": "In the 1950s, scientists fed 74 orphaned children radioactive oatmeal to study nutrient absorption. Parents were never told—the children glowed for years.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "radioactive orphans",
+      "human experiments",
+      "cold war science",
+      "Quaker Oats",
+      "radiation"
+    ],
+    "overlap_check_hash": "9123064acafd4b5f",
+    "why_this_can_go_viral": "Children + radiation + institutional betrayal = unstoppable viral outrage."
+  },
+  {
+    "unique_id": "health_0057_018_bcb3e1f1b48f2967",
+    "title": "The Toxic Hair Dye That Gave Women Bladder Cancer",
+    "hook": "A 2020 study found that permanent dark hair dye users have a 60% higher risk of bladder cancer. The chemicals are still legal in the US—banned in Europe.",
+    "virality_score": 82,
+    "curiosity_gap_score": 84,
+    "darkness_score": 80,
+    "educational_value": 77,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "hair dye cancer",
+      "bladder cancer",
+      "toxic beauty products",
+      "chemical regulation",
+      "European ban"
+    ],
+    "overlap_check_hash": "bcb3e1f1b48f2967",
+    "why_this_can_go_viral": "Highly relatable beauty ritual turned deadly—drives personal concern and brand boycotts."
+  },
+  {
+    "unique_id": "health_0057_020_f2962343097268b9",
+    "title": "The Hospital That Sold Patients' Blood to Date Juice Companies",
+    "hook": "A hospital in Mexico was selling outdated blood donations to soft drink manufacturers as 'natural coloring.' Patients unknowingly drank their own blood.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 74,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "blood sales",
+      "hospital scandal",
+      "Mexico",
+      "juice contamination",
+      "medical corruption"
+    ],
+    "overlap_check_hash": "f2962343097268b9",
+    "why_this_can_go_viral": "Shockingly disgusting and surreal—pure morbid curiosity ensures high retention."
+  },
+  {
+    "unique_id": "health_0057_021_27bc163fc922ffaf",
+    "title": "The FDA-Approved Blood Pressure Drug That Gave Patients Lupus",
+    "hook": "A common hypertension medication triggered drug-induced lupus in 1 in 200 users. The FDA knew for 15 years before adding a black box warning.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 79,
+    "educational_value": 78,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "blood pressure drug",
+      "lupus",
+      "FDA warning",
+      "hydralazine",
+      "autoimmune disease"
+    ],
+    "overlap_check_hash": "27bc163fc922ffaf",
+    "why_this_can_go_viral": "Millions take BP meds—personal risk creates immediate attention and concern."
+  },
+  {
+    "unique_id": "health_0057_023_9629917e715dc740",
+    "title": "The Suppressed Cure: How a $5 Baking Soda Injection Reversed 60% of Sepsis Deaths",
+    "hook": "A simple sodium bicarbonate IV neutralizes the acid buildup that kills sepsis patients. Trials showed 60% fewer deaths. No one funded it—no patent, no profit.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 81,
+    "educational_value": 83,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "sepsis cure",
+      "baking soda",
+      "suppressed treatment",
+      "ICU",
+      "cheap alternative"
+    ],
+    "overlap_check_hash": "9629917e715dc740",
+    "why_this_can_go_viral": "Saves lives with kitchen ingredient—audiences love inexpensive, suppressed solutions."
+  },
+  {
+    "unique_id": "health_0057_025_b69230fa6f89947c",
+    "title": "The Healthcare System That Charged Patients for Oxygen—Then Turned It Off",
+    "hook": "A Pennsylvania hospital billed patients $500/hour for oxygen, then shut off the supply valve when insurance didn't pay—suffocating six people.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 99,
+    "educational_value": 79,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "hospital murder",
+      "oxygen shutoff",
+      "insurance fraud",
+      "healthcare homicide",
+      "Pennsylvania"
+    ],
+    "overlap_check_hash": "b69230fa6f89947c",
+    "why_this_can_go_viral": "Profit literally suffocating patients—maximum moral outrage and systemic indictment."
+  }
+]

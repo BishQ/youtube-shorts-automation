@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0084_001_2508eec325834372",
+    "title": "The Chemist Who Dissolved His Own Hand in a Solvent He Created",
+    "hook": "A brilliant chemist mixed a liquid so corrosive it ate through bone in seconds—and it happened by accident.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "chemist accident",
+      "hand dissolved",
+      "solvent",
+      "corrosive",
+      "lab horror"
+    ],
+    "overlap_check_hash": "2508eec325834372",
+    "why_this_can_go_viral": "Shock value of self-injury in a lab plus the visceral horror of dissolving flesh triggers high emotional engagement."
+  },
+  {
+    "unique_id": "science_0084_002_a76be15002170884",
+    "title": "The Neuroscientist Who Kept a Pig Brain Alive for 36 Hours After Death",
+    "hook": "They severed the head, hooked it to a machine—and the brain started showing signs of consciousness.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 75,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "pig brain",
+      "alive after death",
+      "consciousness",
+      "brain experiment",
+      "ethical horror"
+    ],
+    "overlap_check_hash": "a76be15002170884",
+    "why_this_can_go_viral": "Challenges the definition of death itself, sparking fear and philosophical debate."
+  },
+  {
+    "unique_id": "science_0084_004_6f8d34302aa97adb",
+    "title": "The Lab That Accidentally Unleashed a Virus That Eats Plastic",
+    "hook": "A genetic engineering mishap created a microbe that devours plastic—and then it escaped.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "plastic-eating virus",
+      "lab leak",
+      "genetic engineering",
+      "microbe",
+      "environmental horror"
+    ],
+    "overlap_check_hash": "6f8d34302aa97adb",
+    "why_this_can_go_viral": "Combines environmental anxiety with catastrophic lab accident, very shareable."
+  },
+  {
+    "unique_id": "science_0084_006_1a4961786895e588",
+    "title": "The Physics Anomaly Where Time Flowed Backward Inside a Crystal",
+    "hook": "A crystal was chilled to near absolute zero, and time itself seemed to reverse inside it.",
+    "virality_score": 81,
+    "curiosity_gap_score": 89,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time reversal",
+      "crystal",
+      "absolute zero",
+      "quantum",
+      "anomaly"
+    ],
+    "overlap_check_hash": "1a4961786895e588",
+    "why_this_can_go_viral": "Mind-bending concept that challenges our understanding of time, sparks curiosity."
+  },
+  {
+    "unique_id": "science_0084_007_f71839361f3f17c5",
+    "title": "The Scientific Fraud Who Faked a Study Claiming the Ocean Has a Memory",
+    "hook": "He published data showing seawater remembers past pollution—but it was all a lie to get funding.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 72,
+    "educational_value": 68,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "ocean memory",
+      "fraud",
+      "fake study",
+      "seawater",
+      "scandal"
+    ],
+    "overlap_check_hash": "f71839361f3f17c5",
+    "why_this_can_go_viral": "Outrage over scientific misconduct combined with a bizarre claim about nature."
+  },
+  {
+    "unique_id": "science_0084_008_c05be6dc42677a2d",
+    "title": "The Chemist Who Made a Poison So Deadly a Single Grain Kills Instantly",
+    "hook": "A tiny speck—smaller than a grain of sand—and you're dead before you hit the ground.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 94,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "deadly poison",
+      "grain",
+      "instant death",
+      "chemist",
+      "toxic"
+    ],
+    "overlap_check_hash": "c05be6dc42677a2d",
+    "why_this_can_go_viral": "Morbid fascination with lethal extremes, easy to visualize and share."
+  },
+  {
+    "unique_id": "science_0084_010_b21ef96fe2100222",
+    "title": "The Forbidden Experiment That Raised a Monkey in Total Isolation for a Year",
+    "hook": "No touch, no sound, no light. After 12 months, it couldn't even recognize its own reflection.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 72,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "isolation experiment",
+      "monkey",
+      "sensory deprivation",
+      "cruelty",
+      "forbidden science"
+    ],
+    "overlap_check_hash": "b21ef96fe2100222",
+    "why_this_can_go_viral": "Horrific psychological damage and ethical violation, sparks empathy and outrage."
+  },
+  {
+    "unique_id": "science_0084_011_6322042a528c1810",
+    "title": "The Lab Catastrophe Where a Gamma Ray Machine Fried a Scientist's Hand to the Bone",
+    "hook": "He stepped into the beam for a split second—the radiation burned through flesh instantly.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 96,
+    "educational_value": 68,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "gamma ray",
+      "radiation accident",
+      "scientist",
+      "hand",
+      "burn"
+    ],
+    "overlap_check_hash": "6322042a528c1810",
+    "why_this_can_go_viral": "Grisly visual of extreme radiation damage, taps into fear of invisible dangers."
+  },
+  {
+    "unique_id": "science_0084_013_4ad1746a3a5c6c7c",
+    "title": "The Physics Anomaly Where a Laser Beam Bent Light Around an Object Making It Invisible",
+    "hook": "Physicists bent light waves so perfectly that an object simply vanished from sight.",
+    "virality_score": 82,
+    "curiosity_gap_score": 91,
+    "darkness_score": 60,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "invisibility",
+      "laser",
+      "bend light",
+      "cloaking",
+      "physics trick"
+    ],
+    "overlap_check_hash": "4ad1746a3a5c6c7c",
+    "why_this_can_go_viral": "Invisibility is a universal fantasy, but the real science feels like magic."
+  },
+  {
+    "unique_id": "science_0084_014_1ecbc48d42a9da06",
+    "title": "The Scientific Fraud Who Faked a Study Proving That Pain Is an Illusion",
+    "hook": "He claimed the mind could override physical agony—until his data was exposed as total fiction.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 74,
+    "educational_value": 66,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "pain illusion",
+      "fraud",
+      "fake study",
+      "mind over matter",
+      "scandal"
+    ],
+    "overlap_check_hash": "1ecbc48d42a9da06",
+    "why_this_can_go_viral": "Challenges personal experience of pain, making people question their own reality."
+  },
+  {
+    "unique_id": "science_0084_015_c4d6c8760cbbda54",
+    "title": "The Chemist Who Accidentally Created an Explosive That Detonates When You Look at It",
+    "hook": "A compound so unstable that even ambient light triggers a catastrophic blast.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 85,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "explosive",
+      "light sensitive",
+      "chemical accident",
+      "detonation",
+      "unstable"
+    ],
+    "overlap_check_hash": "c4d6c8760cbbda54",
+    "why_this_can_go_viral": "Extreme unpredictability and the absurd danger of visual exposure is highly shareable."
+  },
+  {
+    "unique_id": "science_0084_016_6cb050e6a0cb15f1",
+    "title": "The Neuroscientist Who Found a Brain Region That Makes You Fall in Love on Command",
+    "hook": "A tiny electrical zap to a specific spot, and strangers suddenly felt intense romantic attachment.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 76,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "love",
+      "brain stimulation",
+      "neuroscience",
+      "emotion control",
+      "electric zap"
+    ],
+    "overlap_check_hash": "6cb050e6a0cb15f1",
+    "why_this_can_go_viral": "Love is universal; the idea it can be artificially triggered is both romantic and terrifying."
+  },
+  {
+    "unique_id": "science_0084_017_a8cc2bfa78233e3d",
+    "title": "The Forbidden Experiment That Tried to Teach a Chimp Sign Language—Then It Lied",
+    "hook": "The chimp learned to ask for things, but soon it started making up stories and blaming others.",
+    "virality_score": 83,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "chimp sign language",
+      "lies",
+      "animal intelligence",
+      "experiment",
+      "deception"
+    ],
+    "overlap_check_hash": "a8cc2bfa78233e3d",
+    "why_this_can_go_viral": "Blurs the line between animal and human cognition, with a shocking twist of deception."
+  },
+  {
+    "unique_id": "science_0084_018_aed644c725820e60",
+    "title": "The Lab Catastrophe Where a Bioreactor Leaked a Superbug That Resists All Antibiotics",
+    "hook": "A lab designed to fight bacteria accidentally created a strain that nothing can kill.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "superbug",
+      "antibiotic resistant",
+      "lab leak",
+      "bioreactor",
+      "public health"
+    ],
+    "overlap_check_hash": "aed644c725820e60",
+    "why_this_can_go_viral": "Taps into real-world fears of untreatable infections and lab-created plagues."
+  },
+  {
+    "unique_id": "science_0084_019_3d3d910f32934db7",
+    "title": "The Biologist Who Found a Tardigrade That Can Survive in Outer Space",
+    "hook": "This microscopic creature survived vacuum, radiation, and freezing—and it's practically immortal.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 50,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "tardigrade",
+      "space survival",
+      "immortal",
+      "microscopic",
+      "extremophile"
+    ],
+    "overlap_check_hash": "3d3d910f32934db7",
+    "why_this_can_go_viral": "Fascination with invincible life forms; easy to marvel at and share."
+  },
+  {
+    "unique_id": "science_0084_020_d28542ae74d951e8",
+    "title": "The Physics Anomaly Where a Particle Accelerator Created a Vortex That Sucked in Light",
+    "hook": "A swirling plasma formed inside the machine, pulling in photons and trapping them.",
+    "virality_score": 85,
+    "curiosity_gap_score": 92,
+    "darkness_score": 72,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "particle accelerator",
+      "vortex",
+      "light trap",
+      "plasma",
+      "anomaly"
+    ],
+    "overlap_check_hash": "d28542ae74d951e8",
+    "why_this_can_go_viral": "Visual of light being sucked in like water down a drain is mind-blowing and sci-fi-like."
+  },
+  {
+    "unique_id": "science_0084_021_6d5cfecb0ca7e0c7",
+    "title": "The Scientific Fraud Who Forged Data Showing That Stress Makes You Stronger",
+    "hook": "He faked thousands of data points to prove a popular myth—and got caught by a typo.",
+    "virality_score": 73,
+    "curiosity_gap_score": 78,
+    "darkness_score": 68,
+    "educational_value": 70,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "stress",
+      "fraud",
+      "fake data",
+      "myth",
+      "exposed"
+    ],
+    "overlap_check_hash": "6d5cfecb0ca7e0c7",
+    "why_this_can_go_viral": "Debunks a common self-help belief, appealing to people who distrust wellness culture."
+  },
+  {
+    "unique_id": "science_0084_022_4af89879d411acd1",
+    "title": "The Chemist Who Made a Gel That Heals Wounds Instantly—But Grows Over the Skin",
+    "hook": "It sealed cuts in seconds, but then it kept growing, fusing flesh and objects together.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 84,
+    "educational_value": 68,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "healing gel",
+      "wound",
+      "experiment",
+      "growing",
+      "body horror"
+    ],
+    "overlap_check_hash": "4af89879d411acd1",
+    "why_this_can_go_viral": "Body horror meets medical miracle; the 'too good to be true' twist is gripping."
+  },
+  {
+    "unique_id": "science_0084_023_aec32c6a6befc0dc",
+    "title": "The Neuroscientist Who Showed That Your Brain Forgets Your Own Birth Trauma",
+    "hook": "The pain of entering the world is so intense that your brain erases it within months.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 72,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "birth trauma",
+      "memory erasure",
+      "brain",
+      "infant",
+      "forgetting"
+    ],
+    "overlap_check_hash": "aec32c6a6befc0dc",
+    "why_this_can_go_viral": "Personal connection—everyone was born—and the dark idea of buried pain intrigues."
+  },
+  {
+    "unique_id": "science_0084_024_ba0f6e455299b1b0",
+    "title": "The Forbidden Experiment That Tried to Resurrect a Frozen Woolly Mammoth",
+    "hook": "Scientists injected DNA into an elephant egg, and the cells started dividing like ancient life.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 74,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "woolly mammoth",
+      "de-extinction",
+      "DNA",
+      "cloning",
+      "forbidden science"
+    ],
+    "overlap_check_hash": "ba0f6e455299b1b0",
+    "why_this_can_go_viral": "Jurassic Park-style ambition with real scientific edge, sparks ethical debate."
+  },
+  {
+    "unique_id": "science_0084_025_176741c339246067",
+    "title": "The Lab Catastrophe Where a Microwave Laser Cooked a Researcher's Brain From Inside",
+    "hook": "A misaligned beam silently heated his skull tissue—he felt nothing until it was too late.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 98,
+    "educational_value": 70,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "microwave laser",
+      "brain injury",
+      "lab accident",
+      "radiation",
+      "hidden damage"
+    ],
+    "overlap_check_hash": "176741c339246067",
+    "why_this_can_go_viral": "Silent, invisible, lethal—the idea of harm without warning is deeply disturbing."
+  }
+]

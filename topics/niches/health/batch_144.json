@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "health_0144_001_994ee3829cf4ca77",
+    "title": "The Surgeon Who Sewed Patient’s Hands to Their Stomach for Attention",
+    "hook": "A respected surgeon deliberately fused a patient’s fingers to their abdomen in a bizarre bid for fame—and nearly got away with it.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "surgeon mutilation",
+      "hand graft",
+      "Munchausen by proxy",
+      "fake surgery",
+      "medical horror"
+    ],
+    "overlap_check_hash": "994ee3829cf4ca77",
+    "why_this_can_go_viral": "Combines visceral body horror with the 'trusted doctor betraying trust' angle — perfect for shock-and-share loops."
+  },
+  {
+    "unique_id": "health_0144_004_b6cf8e0a75ccb692",
+    "title": "The ‘Cancer Cure’ That Was a Shot of Liquid Radioactive Mercury",
+    "hook": "Patients paid thousands for a 'miracle cure' — it was pure radioactive mercury, and it dissolved their organs from the inside.",
+    "virality_score": 83,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 55,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "fake cancer cure",
+      "radioactive mercury",
+      "snake oil",
+      "heavy metal poisoning",
+      "quackery"
+    ],
+    "overlap_check_hash": "b6cf8e0a75ccb692",
+    "why_this_can_go_viral": "Classic 'desperate patients exploited' narrative — paired with shocking imagery of radiation poisoning, it’s gold for TikTok algorithm."
+  },
+  {
+    "unique_id": "health_0144_005_19b0d3d478786785",
+    "title": "The Hospital That Ran a Black Market for Infant Cadavers",
+    "hook": "Staff at a major children’s hospital sold dead babies’ bodies to research labs without notifying a single parent.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 96,
+    "educational_value": 45,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "infant body trafficking",
+      "hospital corpse sale",
+      "organ harvesting",
+      "baby body parts",
+      "medical black market"
+    ],
+    "overlap_check_hash": "19b0d3d478786785",
+    "why_this_can_go_viral": "Extreme emotional weight — the combination of babies and betrayal triggers strong moral outrage and massive comment engagement."
+  },
+  {
+    "unique_id": "health_0144_006_501fa5109e62c888",
+    "title": "The Skincare Brand That Sold Face Cream Made from Carcinogenic Tar",
+    "hook": "A luxury beauty brand used coal tar extract in their 'anti-aging' cream — it melted skin and caused tumors within weeks.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 84,
+    "educational_value": 60,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "toxic skincare",
+      "coal tar face cream",
+      "beauty product danger",
+      "carcinogenic cosmetics",
+      "skin melting"
+    ],
+    "overlap_check_hash": "501fa5109e62c888",
+    "why_this_can_go_viral": "Beauty industry scandals always perform well — adds the 'your moisturizer might kill you' fear hook."
+  },
+  {
+    "unique_id": "health_0144_007_6b1cec0c7722e96a",
+    "title": "The Government That Hid a Polio Epidemic for Two Years",
+    "hook": "Officials suppressed news of a polio outbreak to avoid panic — while children went paralyzed in secret quarantine wards.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 86,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "polio cover-up",
+      "epidemic hidden",
+      "government secrecy",
+      "paralyzed children",
+      "public health betrayal"
+    ],
+    "overlap_check_hash": "6b1cec0c7722e96a",
+    "why_this_can_go_viral": "Post-pandemic audience is hyper-sensitive to disease suppression stories — triggers distrust and 'what else are they hiding?' curiosity."
+  },
+  {
+    "unique_id": "health_0144_008_5392271d1f1cb794",
+    "title": "The FDA-Approved Drug That Turned Patients' Eyes Yellow Overnight",
+    "hook": "A widely prescribed painkiller caused sudden liver failure — and the manufacturer knew for 7 years before pulling it.",
+    "virality_score": 75,
+    "curiosity_gap_score": 78,
+    "darkness_score": 80,
+    "educational_value": 68,
+    "estimated_short_retention": 77,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "liver failure drug",
+      "FDA negligence",
+      "yellow eyes symptom",
+      "painkiller scandal",
+      "withheld safety data"
+    ],
+    "overlap_check_hash": "5392271d1f1cb794",
+    "why_this_can_go_viral": "Visually striking symptom (yellow eyes) + clear villain (big pharma) = high emotional engagement and shareability."
+  },
+  {
+    "unique_id": "health_0144_009_4cb75daa074f9807",
+    "title": "The Dentist Who Filled Cavities with Asbestos-Infused Cement",
+    "hook": "A busy dental practice used construction-grade cement mixed with asbestos to save money — patients developed mesothelioma years later.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 89,
+    "educational_value": 55,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "asbestos in dentistry",
+      "fake fillings",
+      "mesothelioma cause",
+      "criminal dentist",
+      "toxic dental materials"
+    ],
+    "overlap_check_hash": "4cb75daa074f9807",
+    "why_this_can_go_viral": "Combines everyday dental fear with a hidden cancer agent — 'check your fillings' hook drives massive curiosity."
+  },
+  {
+    "unique_id": "health_0144_010_66ec026a53859364",
+    "title": "The Pharmaceutical Giant That Paid Doctors to Diagnose Fake Diseases",
+    "hook": "A drug company invented a 'condition,' trained doctors to diagnose it, and sold millions of dollars in useless medication.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "disease mongering",
+      "fake diagnosis",
+      "drug company conspiracy",
+      "invented illness",
+      "big pharma fraud"
+    ],
+    "overlap_check_hash": "66ec026a53859364",
+    "why_this_can_go_viral": "Exposes the 'you don’t even have the disease' scam — audiences love feeling 'woke' to systemic manipulation."
+  },
+  {
+    "unique_id": "health_0144_011_191883fc485c6086",
+    "title": "The ‘Vitamin Injection’ That Was Actually Pure Industrial Bleach",
+    "hook": "Patients flocked to a wellness clinic for IV vitamins — the bottles were filled with bleach from a janitor's closet.",
+    "virality_score": 77,
+    "curiosity_gap_score": 82,
+    "darkness_score": 85,
+    "educational_value": 50,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "bleach injection",
+      "IV vitamin scam",
+      "wellness clinic horror",
+      "fake supplements",
+      "toxic infusion"
+    ],
+    "overlap_check_hash": "191883fc485c6086",
+    "why_this_can_go_viral": "Combines the 'wellness influencer' trend with life-threatening negligence — perfect for viral outrage."
+  },
+  {
+    "unique_id": "health_0144_012_bc5799c5b7f59b51",
+    "title": "The Plant Extract That Big Pharma Bought and Buried for 40 Years",
+    "hook": "A natural compound cured cancer in 98% of lab animals — then a pharmaceutical company bought the patent and locked it in a vault.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 87,
+    "educational_value": 60,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "cure suppression",
+      "big pharma patent",
+      "natural cancer cure",
+      "buried research",
+      "corporate censorship"
+    ],
+    "overlap_check_hash": "bc5799c5b7f59b51",
+    "why_this_can_go_viral": "Conspiracy-fueled 'they don’t want you to know' format — guaranteed high shareability among health freedom communities."
+  },
+  {
+    "unique_id": "health_0144_013_a5561b3c8c8f763f",
+    "title": "The Nursing Home That Chained Residents to Radiators to Save on Staff",
+    "hook": "Elderly patients were left shackled to heating pipes for days without food or water — the home called it 'safety protocol'.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 93,
+    "educational_value": 40,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "elder abuse",
+      "nursing home torture",
+      "restraint abuse",
+      "neglect cover-up",
+      "geriatric prison"
+    ],
+    "overlap_check_hash": "a5561b3c8c8f763f",
+    "why_this_can_go_viral": "Outrage at elder mistreatment is universal — the 'chained to radiator' imagery is visceral and deeply shareable."
+  },
+  {
+    "unique_id": "health_0144_014_d2b7a00b989427f8",
+    "title": "The ‘Organic’ Baby Formula That Contained Rat Poison",
+    "hook": "A premium organic baby brand cut costs by using a rodenticide as a preservative — infants suffered internal bleeding.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 55,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "poisoned baby formula",
+      "rat poison in food",
+      "organic scam",
+      "infant poisoning",
+      "toxic preservatives"
+    ],
+    "overlap_check_hash": "d2b7a00b989427f8",
+    "why_this_can_go_viral": "Babies + poison + organic label deception = maximum emotional trigger and moral outrage."
+  },
+  {
+    "unique_id": "health_0144_015_a1833a7406c2eaf8",
+    "title": "The Government That Sprayed a Chemical Cloud Over a City to Test Lung Damage",
+    "hook": "Without warning, military planes released a corrosive gas over a residential area — then tracked residents' breathing problems for years.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 60,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "chemical testing on civilians",
+      "military gas release",
+      "lung damage experiment",
+      "government cover-up",
+      "biological test"
+    ],
+    "overlap_check_hash": "a1833a7406c2eaf8",
+    "why_this_can_go_viral": "Combines government secrecy with active harm — 'they tested on us without consent' drives massive engagement."
+  },
+  {
+    "unique_id": "health_0144_016_330de7ae0ff300ef",
+    "title": "The ‘Safe’ Cholesterol Drug That Caused Suicidal Rage in Thousands",
+    "hook": "A best-selling statin triggered violent psychosis and suicide in healthy patients — the manufacturer hid the data for a decade.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 81,
+    "educational_value": 68,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "statin suicide",
+      "cholesterol drug rage",
+      "psychiatric side effect",
+      "hidden clinical data",
+      "FDA failure"
+    ],
+    "overlap_check_hash": "330de7ae0ff300ef",
+    "why_this_can_go_viral": "Connects to millions of statin users — 'could your meds be making you angry?' is a powerful personalized hook."
+  },
+  {
+    "unique_id": "health_0144_017_049bcb95a673a6d4",
+    "title": "The Doctor Who Performed Surgery on Comatose Patients Without Consent",
+    "hook": "A respected neurosurgeon operated on brain-dead patients for 'practice' — families only found out when they received the bills.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 50,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "surgery without consent",
+      "comatose patient abuse",
+      "unethical surgeon",
+      "medical malpractice",
+      "body horror"
+    ],
+    "overlap_check_hash": "049bcb95a673a6d4",
+    "why_this_can_go_viral": "Exploits the primal fear of being operated on while unconscious — strong emotional reaction and discussion driver."
+  },
+  {
+    "unique_id": "health_0144_018_3b7de1c47896c138",
+    "title": "The Pharmaceutical Company That Sold a ‘Sleep Aid’ That Made People Stop Breathing",
+    "hook": "A popular insomnia medication suppressed the brain stem's breathing reflex — patients died in their sleep without warning.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 88,
+    "educational_value": 62,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "sleep aid death",
+      "respiratory arrest",
+      "hidden side effect",
+      "insomnia drug danger",
+      "big pharma cover-up"
+    ],
+    "overlap_check_hash": "3b7de1c47896c138",
+    "why_this_can_go_viral": "'Could your sleep pill kill you?' is a direct fear-based question that drives clicks and shares."
+  },
+  {
+    "unique_id": "health_0144_019_39cce0590846c289",
+    "title": "The Doctor Who Injected Himself with Bubonic Plague to Prove Germ Theory",
+    "hook": "A scientist swallowed a vial of deadly bacteria in front of a crowd — then waited to see if he'd die.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 89,
+    "educational_value": 58,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "self-experimentation",
+      "bubonic plague",
+      "germ theory proof",
+      "suicidal scientist",
+      "historic medical stunt"
+    ],
+    "overlap_check_hash": "39cce0590846c289",
+    "why_this_can_go_viral": "Extreme self-sacrifice story with high tension — 'did he survive?' format drives completion rate."
+  },
+  {
+    "unique_id": "health_0144_020_da91fa0b9b5f8d39",
+    "title": "The ‘All-Natural’ Cough Drop That Was Laced with Methamphetamine",
+    "hook": "A popular herbal cough drop brand accidentally used a batch of menthol contaminated with meth — patients became addicted.",
+    "virality_score": 75,
+    "curiosity_gap_score": 79,
+    "darkness_score": 82,
+    "educational_value": 55,
+    "estimated_short_retention": 77,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "meth in cough drops",
+      "herbal supplement contamination",
+      "accidental addiction",
+      "natural product fraud",
+      "toxic candy"
+    ],
+    "overlap_check_hash": "da91fa0b9b5f8d39",
+    "why_this_can_go_viral": "Adds a 'what’s in your medicine cabinet' layer — the meth angle is shocking enough to stop the scroll."
+  },
+  {
+    "unique_id": "health_0144_022_a5d680749f574005",
+    "title": "The Government That Secretly Injected Orphans with Hepatitis to Study Spread",
+    "hook": "Healthy children at a state-run orphanage were given hepatitis-infected blood — researchers watched them get sick for data.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 60,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "hepatitis experiment",
+      "orphanage testing",
+      "human rights abuse",
+      "government medical crime",
+      "child experiment"
+    ],
+    "overlap_check_hash": "a5d680749f574005",
+    "why_this_can_go_viral": "Children + government betrayal + disease = maximum moral outrage and algorithmic amplification."
+  },
+  {
+    "unique_id": "health_0144_023_b63a659bc0e67b53",
+    "title": "The FDA-Approved Diet Pill That Caused Permanent Brain Damage",
+    "hook": "Millions took a 'miracle' weight-loss drug — it slowly destroyed the part of the brain that controls movement and memory.",
+    "virality_score": 78,
+    "curiosity_gap_score": 81,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "diet pill brain damage",
+      "weight loss drug danger",
+      "FDA approved poison",
+      "memory loss medication",
+      "obesity drug scandal"
+    ],
+    "overlap_check_hash": "b63a659bc0e67b53",
+    "why_this_can_go_viral": "Diet culture + permanent injury — taps into the 'quick fix is deadly' narrative, high relevance to current weight-loss drug trends."
+  },
+  {
+    "unique_id": "health_0144_025_200edfa180a51b6b",
+    "title": "The ‘Flu Vaccine’ That Gave Recipients Live Polio Virus",
+    "hook": "A contaminated batch of flu shots contained a live, active polio strain — hundreds of healthy people became paralyzed.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 91,
+    "educational_value": 63,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "vaccine contamination",
+      "polio from flu shot",
+      "vaccine injury cover-up",
+      "paralysis outbreak",
+      "public health disaster"
+    ],
+    "overlap_check_hash": "200edfa180a51b6b",
+    "why_this_can_go_viral": "Exploits vaccine skepticism and 'the shot gave me the disease' fear — highly polarizing and shareable."
+  }
+]

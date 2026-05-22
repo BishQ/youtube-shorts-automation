@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "crime_0104_002_b026ffd3d1268fe6",
+    "title": "The Multimillion-Dollar Art Heist That Used a Cat",
+    "hook": "Thieves trained a cat to crawl through a ventilation shaft, unlock a gallery door from the inside, and trigger silent alarms—all to steal a single painting worth $12 million.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 20,
+    "educational_value": 25,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "cat heist",
+      "art theft",
+      "animal trained",
+      "gallery",
+      "ventilation shaft"
+    ],
+    "overlap_check_hash": "b026ffd3d1268fe6",
+    "why_this_can_go_viral": "Animal + high-stakes crime is an irresistible combo; viewers will watch to the end to see how a cat pulled off the impossible."
+  },
+  {
+    "unique_id": "crime_0104_003_4e03e78ec8ddebbe",
+    "title": "The Cartel That Controlled a City's Water Supply",
+    "hook": "A Mexican cartel secretly bought the town's water treatment plant, then poisoned the reservoir to force residents into paying protection—or dying of thirst.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 50,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "water supply",
+      "poisoned",
+      "extortion",
+      "infrastructure"
+    ],
+    "overlap_check_hash": "4e03e78ec8ddebbe",
+    "why_this_can_go_viral": "Shocking real-world horror about total systemic control; water is universally relatable, making it immediately gripping."
+  },
+  {
+    "unique_id": "crime_0104_005_d2120c94cab3a850",
+    "title": "The Unsolved Murder Where the Killer Left a Bouquet of Fresh Flowers—Every Week for a Year",
+    "hook": "After a woman was strangled in her home, fresh flowers appeared on her grave every Sunday for 12 months—the killer was sending a message from beyond the crime scene.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 20,
+    "estimated_short_retention": 75,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "flowers",
+      "killer ritual",
+      "grave",
+      "stalker"
+    ],
+    "overlap_check_hash": "d2120c94cab3a850",
+    "why_this_can_go_viral": "Morbid obsession + unsolved mystery creates a creepy, emotionally charged story that hooks true-crime fans instantly."
+  },
+  {
+    "unique_id": "crime_0104_006_94ed50d41715e2a6",
+    "title": "The Mafia Boss Who Ran His Empire Through a Pizza Parlor",
+    "hook": "A New York don encoded every order in pizza toppings—pepperoni meant 'kill,' mushrooms meant 'meet'—and his crew never said a word about business out loud.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 65,
+    "educational_value": 30,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mafia",
+      "pizza parlor",
+      "code",
+      "organized crime",
+      "undercover"
+    ],
+    "overlap_check_hash": "94ed50d41715e2a6",
+    "why_this_can_go_viral": "Food + crime is a wildly shareable combo; the code system is so clever it feels like a movie plot—but it's real."
+  },
+  {
+    "unique_id": "crime_0104_007_8c3a6a06744f9caa",
+    "title": "The Accountant Who Embezzled $200 Million by Faking His Own Death—Then Working as a Janitor",
+    "hook": "He staged a drowning, collected insurance, and spent 15 years scrubbing floors in the same bank he robbed—watching investigators fail to solve the case every single day.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 35,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "embezzlement",
+      "fake death",
+      "janitor",
+      "insurance fraud",
+      "accountant"
+    ],
+    "overlap_check_hash": "8c3a6a06744f9caa",
+    "why_this_can_go_viral": "The irony and psychological torment of the janitor angle is pure dark entertainment; viewers will binge-watch the full story."
+  },
+  {
+    "unique_id": "crime_0104_008_364529be51667a37",
+    "title": "The Serial Killer Who Only Murdered in Towns That Had One Traffic Light",
+    "hook": "A cross-country killer chose victims exclusively in small towns with a single traffic light—he said it made the 'cleanup' easier and the cops slower.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 25,
+    "estimated_short_retention": 79,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "small towns",
+      "traffic light",
+      "pattern",
+      "rural crime"
+    ],
+    "overlap_check_hash": "364529be51667a37",
+    "why_this_can_go_viral": "Specific, weird criteria fascinate audiences; the detail feels like a horror movie villain's backstory."
+  },
+  {
+    "unique_id": "crime_0104_009_4c4da6b0ba287e0e",
+    "title": "The Heist Where Thieves Stole a Vault Door—by Dressing as a SWAT Team",
+    "hook": "A group of criminals in full tactical gear, fake badges, and a megaphone evacuated an entire bank, then walked out with the 3-ton vault door—nobody stopped them.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 40,
+    "educational_value": 20,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "SWAT heist",
+      "vault door",
+      "bank robbery",
+      "tactical gear",
+      "impersonation"
+    ],
+    "overlap_check_hash": "4c4da6b0ba287e0e",
+    "why_this_can_go_viral": "The audacity of impersonating police to steal something as absurd as a door is visually and narratively magnetic."
+  },
+  {
+    "unique_id": "crime_0104_010_c98cf1b683a55159",
+    "title": "The White-Collar Criminal Who Sold the Same Bridge to 47 Different Buyers",
+    "hook": "With nothing but a forged deed and a suit, he sold a single bridge over 15 years—each buyer thought they owned a piece of a landmark that was never for sale.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 45,
+    "educational_value": 30,
+    "estimated_short_retention": 77,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "bridge scam",
+      "fake deed",
+      "white-collar",
+      "forgery",
+      "repeated fraud"
+    ],
+    "overlap_check_hash": "c98cf1b683a55159",
+    "why_this_can_go_viral": "Classic con-man story with a hilarious, almost unbelievable twist; viewers love 'how-did-he-get-away-with-it' narratives."
+  },
+  {
+    "unique_id": "crime_0104_011_012b180a66f75198",
+    "title": "The Cartel That Used a Circus to Traffick Cocaine in Elephant Dung",
+    "hook": "A traveling circus smuggled hundreds of kilos of cocaine inside elephant manure bags—customs never checked the poop, and the elephants were trained to 'produce' on cue.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 55,
+    "educational_value": 20,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "circus",
+      "elephant dung",
+      "cocaine",
+      "smuggling"
+    ],
+    "overlap_check_hash": "012b180a66f75198",
+    "why_this_can_go_viral": "Absurd, disgusting, and wildly creative; the elephant training detail ensures maximum shock-and-share value."
+  },
+  {
+    "unique_id": "crime_0104_014_c9918c08acc2d9a6",
+    "title": "The Mob That Used a Laundromat to Wash $50 Million in Dirty Cash—Literally",
+    "hook": "They ran bills through industrial washing machines with bleach to remove trace chemicals, then dried them—the FBI found the money 'clean' but the water was green.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 35,
+    "educational_value": 30,
+    "estimated_short_retention": 76,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "money laundering",
+      "laundromat",
+      "dirty cash",
+      "bleach",
+      "mob"
+    ],
+    "overlap_check_hash": "c9918c08acc2d9a6",
+    "why_this_can_go_viral": "The literal 'washing' of money is a perfect pun and a visually hilarious story; easy to clip and share."
+  },
+  {
+    "unique_id": "crime_0104_015_09b44ec12599a27f",
+    "title": "The Serial Killer Who Chose Victims Based on Their Netflix Queue",
+    "hook": "He hacked into smart TVs and studied what people watched—if they binged true crime, he'd break in to 'give them a real story.'",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 82,
+    "educational_value": 20,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "Netflix",
+      "smart TV hack",
+      "serial killer",
+      "true crime",
+      "digital stalking"
+    ],
+    "overlap_check_hash": "09b44ec12599a27f",
+    "why_this_can_go_viral": "Modern tech horror that every viewer can imagine happening to them; extremely relatable fear factor."
+  },
+  {
+    "unique_id": "crime_0104_016_5263ddd72ffa99df",
+    "title": "The Billion-Dollar Fraud That Sold Air—Literally, Compressed Air in Tanks",
+    "hook": "A company convinced governments to buy 'emergency oxygen tanks' for disasters—each tank was filled with nothing but compressed air, and they sold 10 million units.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 45,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "compressed air",
+      "oxygen scam",
+      "disaster fraud",
+      "government",
+      "billion"
+    ],
+    "overlap_check_hash": "5263ddd72ffa99df",
+    "why_this_can_go_viral": "The sheer emptiness of 'selling air' is outrageously funny and enraging; viewers will share to express disbelief."
+  },
+  {
+    "unique_id": "crime_0104_018_fe7ecd4b90741620",
+    "title": "The White-Collar Criminal Who Sold a City's Sewer System—to the City Itself",
+    "hook": "He created a fake company, 'sold' the public sewer infrastructure to himself, then charged the city rent for 12 years—until a clerk noticed the checks went to a P.O. box.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 55,
+    "educational_value": 40,
+    "estimated_short_retention": 79,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "sewer scam",
+      "city fraud",
+      "infrastructure",
+      "fake company",
+      "rent scam"
+    ],
+    "overlap_check_hash": "fe7ecd4b90741620",
+    "why_this_can_go_viral": "Bureaucratic absurdity meets criminal genius; everyone loves a story about a system being outsmarted."
+  },
+  {
+    "unique_id": "crime_0104_019_fe87124078798565",
+    "title": "The Cartel That Used a Funeral Director's Van to Drag Bodies Across the Border",
+    "hook": "They swapped cadavers for living people in body bags, drove them past checkpoints as 'corpses'—the living were trained to hold their breath for 10 minutes.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 92,
+    "educational_value": 30,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "funeral van",
+      "body bags",
+      "border",
+      "human smuggling"
+    ],
+    "overlap_check_hash": "fe87124078798565",
+    "why_this_can_go_viral": "Grave-robbing + human trafficking is a macabre thrill; the 'hold your breath' detail is horrifyingly tense."
+  },
+  {
+    "unique_id": "crime_0104_021_7e1fa946b34fbfe8",
+    "title": "The Criminal Mastermind Who Stole a Billionaire's Identity—by Reading His Trash for a Decade",
+    "hook": "For 10 years, he collected discarded bank statements, medical records, and love letters—then cloned the billionaire's entire life, draining accounts before the victim knew he was dead on paper.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 35,
+    "estimated_short_retention": 81,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "identity theft",
+      "billionaire",
+      "trash diving",
+      "cloning",
+      "10-year plot"
+    ],
+    "overlap_check_hash": "7e1fa946b34fbfe8",
+    "why_this_can_go_viral": "Patience + obsession = epic crime story; the decade-long timeline makes it feel like a psychological thriller."
+  },
+  {
+    "unique_id": "crime_0104_022_5afc0c166e3a4de1",
+    "title": "The Mob That Used a Dog Grooming Business to Hide Wiretaps in Police Cars",
+    "hook": "They planted bugs in squad cars by offering free 'K9 grooming'—while washing police dogs, they slipped listening devices into the vehicles, hearing every raid before it happened.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 60,
+    "educational_value": 25,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob",
+      "dog grooming",
+      "wiretap",
+      "police",
+      "counter-surveillance"
+    ],
+    "overlap_check_hash": "5afc0c166e3a4de1",
+    "why_this_can_go_viral": "Clever use of an innocent front is fascinating; dog lovers and crime fans both get hooked."
+  },
+  {
+    "unique_id": "crime_0104_023_6f0a46fcbf73f885",
+    "title": "The Serial Killer Who Left a Tarot Card on Every Victim—and It Always Matched Their Death",
+    "hook": "Each victim was found with The Tower, The Hanged Man, or Death—the killer later wrote to police saying the cards 'told him who to take next.'",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 25,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "tarot cards",
+      "serial killer",
+      "occult",
+      "death card",
+      "signature"
+    ],
+    "overlap_check_hash": "6f0a46fcbf73f885",
+    "why_this_can_go_viral": "Occult symbolism + murder is always shareable; the predictive element adds supernatural speculation that drives comments."
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "health_0099_001_d04f1bf3fd5702bf",
+    "title": "The Hospital That Had a Secret Morgue for Living Patients",
+    "hook": "A hospital in the 1990s was discovered to have a hidden room where patients who were still alive were stored and left to die for insurance payouts—and it ran for 11 years before anyone found out.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "hospital morgue",
+      "insurance fraud",
+      "patient death",
+      "medical crime",
+      "hidden room"
+    ],
+    "overlap_check_hash": "d04f1bf3fd5702bf",
+    "why_this_can_go_viral": "The sheer horror of a secret morgue for living patients triggers instant shock and morbid curiosity, with a 'how did this stay hidden?' hook that drives shares."
+  },
+  {
+    "unique_id": "health_0099_004_caac7f645e5be60d",
+    "title": "The Suppressed $3 Vitamin That Reversed 95% of Premature Aging Signs",
+    "hook": "A single B vitamin, costing pennies per dose, showed in clinical trials that it could reverse wrinkles, gray hair, and joint deterioration—but the patent was bought and buried by a skincare conglomerate.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 85,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "suppressed cure",
+      "anti-aging vitamin",
+      "skincare conspiracy",
+      "B vitamin",
+      "corporate cover-up"
+    ],
+    "overlap_check_hash": "caac7f645e5be60d",
+    "why_this_can_go_viral": "The promise of cheap, effective aging reversal appeals to a massive audience; the corporate suppression angle fuels distrust and 'share the secret' behavior."
+  },
+  {
+    "unique_id": "health_0099_005_8c30ceb247183071",
+    "title": "The Baby Formula That Contained Industrial Plastic Softener",
+    "hook": "A major baby formula brand was found to contain a chemical used to soften PVC pipes—it caused kidney failure in over 200 infants before the company admitted they 'knew for years.'",
+    "virality_score": 93,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 75,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "baby formula scandal",
+      "toxic chemicals",
+      "infant poisoning",
+      "product cover-up",
+      "kidney failure"
+    ],
+    "overlap_check_hash": "8c30ceb247183071",
+    "why_this_can_go_viral": "Babies being poisoned by a trusted product triggers maximum parental outrage and a 'what else is in there?' fear that guarantees shares."
+  },
+  {
+    "unique_id": "health_0099_006_5bf58b187be9aa87",
+    "title": "The Disease Cover-Up: How 'Dementia' Was a Fungus in Bread Preservatives",
+    "hook": "A neurologist discovered that a common bread preservative was feeding a brain fungus that mimicked dementia—and when she published her findings, the baking industry lobbied to discredit her.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "dementia cause",
+      "bread preservative",
+      "fungus",
+      "neurology cover-up",
+      "food industry"
+    ],
+    "overlap_check_hash": "5bf58b187be9aa87",
+    "why_this_can_go_viral": "The 'everyday food causes devastating disease' narrative is deeply unsettling and prompts immediate lifestyle changes and shares among health-conscious viewers."
+  },
+  {
+    "unique_id": "health_0099_007_255eca80681a51ca",
+    "title": "The Pharma Giant That Sold a Drug That Caused Permanent Fetal Deformities—for 30 Years",
+    "hook": "A drug to prevent miscarriages caused babies to be born without arms or legs—and the company knew after the first 100 cases but continued selling it for three decades across 40 countries.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 99,
+    "educational_value": 78,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fetal deformity",
+      "pharma scandal",
+      "thalidomide",
+      "miscarriage drug",
+      "corporate greed"
+    ],
+    "overlap_check_hash": "255eca80681a51ca",
+    "why_this_can_go_viral": "The scale (30 years, 40 countries) and the tragedy (babies without limbs) create a morally black-and-white villain story that demands to be seen and shared."
+  },
+  {
+    "unique_id": "health_0099_008_e82ef8cfded82e8a",
+    "title": "The Experiment That Injected 100 Mental Patients with Synthetic Malaria to 'Cure' Syphilis",
+    "hook": "In the 1920s, a U.S. psychiatrist injected 100 asylum patients with malaria parasites—then treated them with quinine—and claimed 'fever therapy' worked, even though 40% died from the malaria itself.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "malaria injection",
+      "asylum experiment",
+      "syphilis cure",
+      "psychiatrist horror",
+      "fever therapy"
+    ],
+    "overlap_check_hash": "e82ef8cfded82e8a",
+    "why_this_can_go_viral": "The absurdity and cruelty of injecting malaria to cure syphilis is shocking; the high death toll and lack of accountability make it a 'forbidden history' share."
+  },
+  {
+    "unique_id": "health_0099_009_5cab15d2e7aa15fd",
+    "title": "The Suppressed $8 Root That Cured 90% of Antibiotic-Resistant Infections",
+    "hook": "A traditional root extract killed MRSA and other superbugs in lab tests—but a pharmaceutical company bought the rights and shelved it to protect its synthetic antibiotic profits.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "superbug cure",
+      "suppressed remedy",
+      "antibiotic resistance",
+      "root extract",
+      "pharma suppression"
+    ],
+    "overlap_check_hash": "5cab15d2e7aa15fd",
+    "why_this_can_go_viral": "The superbug crisis is a hot topic; a cheap, natural solution being hidden by Big Pharma triggers righteous anger and a sense of 'we were robbed.'"
+  },
+  {
+    "unique_id": "health_0099_010_2d271643c1722022",
+    "title": "The Hospital That Let a Surgeon Operate on the Wrong Patient—46 Times",
+    "hook": "A hospital in Ohio had a system failure so severe that one surgeon operated on the wrong patient 46 times over three years—and the hospital only admitted it after a reporter noticed the pattern in records.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "wrong patient surgery",
+      "hospital scandal",
+      "medical error",
+      "surgeon mistake",
+      "patient safety"
+    ],
+    "overlap_check_hash": "2d271643c1722022",
+    "why_this_can_go_viral": "The sheer absurdity and horror of repeated wrong-patient surgeries creates disbelief and 'how is this real?' reactions that fuel virality."
+  },
+  {
+    "unique_id": "health_0099_011_8f1909708ff581ee",
+    "title": "The FDA-Approved Allergy Drug That Caused 1 in 10 People to Stop Sweating Permanently",
+    "hook": "An over-the-counter allergy pill caused anhidrosis—the complete inability to sweat—leading to a dozen deaths from heatstroke before the FDA added a tiny warning label years later.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "allergy drug side effect",
+      "sweating disorder",
+      "FDA warning",
+      "OTC drug danger",
+      "anhidrosis"
+    ],
+    "overlap_check_hash": "8f1909708ff581ee",
+    "why_this_can_go_viral": "A common drug causing permanent bodily function loss is terrifying; the 'I might be taking this right now' immediate relevance drives clicks and shares."
+  },
+  {
+    "unique_id": "health_0099_012_4e1e7dbfa7b7706a",
+    "title": "The Doctor Who Sold Patients' Kidneys on the Black Market—While They Were Still Alive",
+    "hook": "A surgeon in Eastern Europe removed kidneys from living patients during 'gallbladder surgeries' and sold them for transplant—he did this to 80 people before a patient woke up mid-operation.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 99,
+    "educational_value": 65,
+    "estimated_short_retention": 95,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "organ harvesting",
+      "black market kidney",
+      "surgeon crime",
+      "living patient",
+      "organ theft"
+    ],
+    "overlap_check_hash": "4e1e7dbfa7b7706a",
+    "why_this_can_go_viral": "The idea of waking up during organ theft is a primal nightmare; the scale (80 victims) and brutality make it an instant must-share horror story."
+  },
+  {
+    "unique_id": "health_0099_013_38bb4a9fafee2463",
+    "title": "The Hand Sanitizer That Contained 100% Methanol—Blinding 50 Children",
+    "hook": "A popular hand sanitizer sold in schools was actually industrial methanol—it caused blindness in 50 children and killed 12 before the company 'couldn't find' their manufacturing records.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "methanol poisoning",
+      "hand sanitizer",
+      "children blind",
+      "toxic cover-up",
+      "school danger"
+    ],
+    "overlap_check_hash": "38bb4a9fafee2463",
+    "why_this_can_go_viral": "Children being blinded by a product meant to protect them triggers intense parental fear and anti-corporate outrage, driving high emotional engagement."
+  },
+  {
+    "unique_id": "health_0099_014_16363cd39706acd1",
+    "title": "The Disease Cover-Up: How 'Lupus' Was a Chemical Leaking from Mattress Foam",
+    "hook": "A cluster of lupus cases in a single apartment building was traced to flame retardants off-gassing from cheap mattresses—but the CDC buried the report after pressure from the bedding industry.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "lupus cause",
+      "mattress toxins",
+      "flame retardants",
+      "CDC cover-up",
+      "autoimmune disease"
+    ],
+    "overlap_check_hash": "16363cd39706acd1",
+    "why_this_can_go_viral": "The idea that your own bed could be giving you a chronic disease is deeply unsettling; the government cover-up adds a layer of conspiracy that drives shares."
+  },
+  {
+    "unique_id": "health_0099_015_f337151bf2f9ca7a",
+    "title": "The Pharma Company That Sold a Chemo Drug That Was 50% Sawdust",
+    "hook": "A generic chemotherapy drug from India was found to contain 50% sawdust and wood filler—patients were paying for poison while their cancer spread, and the company got a fine of just $10,000.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake chemo",
+      "sawdust drug",
+      "generic drug scam",
+      "cancer fraud",
+      "pharma corruption"
+    ],
+    "overlap_check_hash": "f337151bf2f9ca7a",
+    "why_this_can_go_viral": "The outrage of cancer patients being sold sawdust instead of medicine is explosive; the tiny fine compared to the harm caused fuels a 'justice failed' narrative."
+  },
+  {
+    "unique_id": "health_0099_017_4c84184d3e2acdf7",
+    "title": "The Nursing Home That Starved 40 Patients to Death to Save on Food Costs",
+    "hook": "A nursing home in California systematically underfed residents—giving them only 800 calories a day—for five years, pocketing the food budget. 40 people died of 'natural causes' before an anonymous whistleblower spoke.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 68,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "nursing home abuse",
+      "starvation",
+      "elderly neglect",
+      "healthcare crime",
+      "whistleblower"
+    ],
+    "overlap_check_hash": "4c84184d3e2acdf7",
+    "why_this_can_go_viral": "The vulnerability of the elderly combined with cold corporate greed creates a powerful emotional response; the '40 deaths ruled natural' detail adds a layer of systemic rot."
+  },
+  {
+    "unique_id": "health_0099_018_13d95524e8118311",
+    "title": "The Eye Drops That Contained 100% Industrial Degreaser—Blinding 100 People",
+    "hook": "A brand of artificial tears was actually a degreasing solvent repackaged—it caused corneal burns and permanent blindness in over 100 users before the manufacturer was shut down, but no executive went to jail.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 73,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "eye drops poison",
+      "industrial degreaser",
+      "blindness outbreak",
+      "product contamination",
+      "corporate negligence"
+    ],
+    "overlap_check_hash": "13d95524e8118311",
+    "why_this_can_go_viral": "The idea of a daily-use product being industrial solvent is horrifying; the 'no one went to jail' detail fuels a sense of injustice that drives engagement."
+  },
+  {
+    "unique_id": "health_0099_019_0f70e7158bd1b8cb",
+    "title": "The Doctor Who Diagnosed 200 Healthy Men with Testicular Cancer for Surgeries He Got Paid For",
+    "hook": "A urologist in Florida diagnosed 200 men with testicular cancer based on fake biopsies, then performed unnecessary orchiectomies—he collected over $5 million in surgical fees before a patient's second opinion stopped him.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 70,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "false cancer diagnosis",
+      "unnecessary surgery",
+      "urologist fraud",
+      "orchiectomy",
+      "medical scam"
+    ],
+    "overlap_check_hash": "0f70e7158bd1b8cb",
+    "why_this_can_go_viral": "The violation of trust and irreversible harm to 200 men is deeply angering; the financial motive makes it a clear 'doctors are not always heroes' story."
+  },
+  {
+    "unique_id": "health_0099_021_720ed822c21766e5",
+    "title": "The Experiment That Forced 200 Prisoners to Drink Salt Water Until Their Kidneys Failed",
+    "hook": "In the 1960s, a U.S. researcher studying dehydration forced 200 prisoners to consume only seawater for 8 days—11 died from kidney failure, and the study was published as 'necessary research on survival at sea.'",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 74,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "prisoner experiment",
+      "seawater torture",
+      "kidney failure",
+      "unethical research",
+      "salt water"
+    ],
+    "overlap_check_hash": "720ed822c21766e5",
+    "why_this_can_go_viral": "The cruelty of using prisoners as disposable test subjects for a trivial question is shocking; the 'published anyway' detail adds a layer of systemic horror."
+  },
+  {
+    "unique_id": "health_0099_023_0cf06a3dab43e0b4",
+    "title": "The Hospital That Stored 50 Bodies in a Rented U-Haul to Avoid Morgue Fees",
+    "hook": "A morgue in a major hospital overflowed with unclaimed bodies, so the director rented a U-Haul truck, stacked 50 corpses inside, and left it in the parking lot for 8 months before a janitor discovered it by smell.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "U-Haul morgue",
+      "hospital scandal",
+      "body storage",
+      "morgue overflow",
+      "corpse neglect"
+    ],
+    "overlap_check_hash": "0cf06a3dab43e0b4",
+    "why_this_can_go_viral": "The absurdly disrespectful image of a truck full of bodies in a hospital parking lot is both darkly humorous and deeply shocking—perfect for 'can you believe this?' viral spread."
+  },
+  {
+    "unique_id": "health_0099_024_98cbcc0530bd783e",
+    "title": "The Disease Cover-Up: How 'PCOS' Was a Pesticide Sprayed on Non-Organic Wheat",
+    "hook": "A study found that a common wheat pesticide causes ovarian cysts in women—mimicking PCOS perfectly—but the EPA and USDA suppressed the link after agribusiness pressure, allowing the chemical to stay on fields.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 86,
+    "educational_value": 81,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "PCOS cause",
+      "pesticide link",
+      "wheat chemical",
+      "EPA cover-up",
+      "hormone disruption"
+    ],
+    "overlap_check_hash": "98cbcc0530bd783e",
+    "why_this_can_go_viral": "Millions of women suffer from PCOS—the idea that it's caused by a pesticide in wheat is both empowering (change diet) and rage-inducing (government complicity)."
+  },
+  {
+    "unique_id": "health_0099_025_398bfafedf9b4b49",
+    "title": "The Nurse Who Killed 30 Patients by Injecting Air into Their IVs for 'Mercy'—Without Consent",
+    "hook": "A hospice nurse in the UK admitted to 'easing the passing' of 30 terminal patients by injecting air bubbles into their IV lines—she was convicted but served only 3 years, and the hospital knew for a year before reporting her.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 62,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "serial killer nurse",
+      "air injection",
+      "hospice murder",
+      "euthanasia without consent",
+      "medical murder"
+    ],
+    "overlap_check_hash": "398bfafedf9b4b49",
+    "why_this_can_go_viral": "The 'angel of death' nurse archetype is universally terrifying; the light sentence and hospital cover-up add a 'system failure' layer that drives outrage shares."
+  }
+]

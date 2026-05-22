@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "cosmic_0180_001_10d67de980a7c3a4",
+    "title": "The Signal That Came from a Dead Star That Shouldn't Exist",
+    "hook": "A radio pulse from a star that died billions of years ago—and it's still updating.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "dead star",
+      "radio signal",
+      "impossible pulse",
+      "cosmic anomaly",
+      "afterlife signal"
+    ],
+    "overlap_check_hash": "10d67de980a7c3a4",
+    "why_this_can_go_viral": "The contradiction of a dead star still broadcasting taps into fear of the unknown and afterlife curiosity."
+  },
+  {
+    "unique_id": "cosmic_0180_002_522a03a754b0cd5c",
+    "title": "The Classified NASA Report on a Planet That Vanished in 1972",
+    "hook": "NASA tracked a planet for 14 months—then it blinked out of every telescope.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 50,
+    "estimated_short_retention": 90,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "vanishing planet",
+      "NASA cover-up",
+      "lost planet",
+      "1972 anomaly",
+      "space mystery"
+    ],
+    "overlap_check_hash": "522a03a754b0cd5c",
+    "why_this_can_go_viral": "Government secrecy plus a planet disappearing triggers conspiracy and mystery hooks."
+  },
+  {
+    "unique_id": "cosmic_0180_003_f71bca500af0f3aa",
+    "title": "The Asteroid That Carried a Fragment of a Human Skull",
+    "hook": "A meteorite that fell in Siberia contained bone—human bone from 4.5 billion years ago.",
+    "virality_score": 85,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "human bone meteorite",
+      "impossible fossil",
+      "Siberia impact",
+      "time paradox",
+      "alien human"
+    ],
+    "overlap_check_hash": "f71bca500af0f3aa",
+    "why_this_can_go_viral": "The implication of human remains older than Earth breaks the mind and fuels time-loop theories."
+  },
+  {
+    "unique_id": "cosmic_0180_004_694b28b4eae481eb",
+    "title": "The Gamma Ray Burst That Hit Earth During the Cold War—Classified",
+    "hook": "In 1967, US satellites detected a gamma pulse so powerful it was mistaken for a Soviet nuke.",
+    "virality_score": 89,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "gamma ray burst",
+      "Cold War signal",
+      "false alarm",
+      "near-extinction",
+      "Vela satellite"
+    ],
+    "overlap_check_hash": "694b28b4eae481eb",
+    "why_this_can_go_viral": "The Cold War near-miss narrative combined with cosmic doom is highly shareable and dramatic."
+  },
+  {
+    "unique_id": "cosmic_0180_005_295869b9026123a9",
+    "title": "The Rogue Planet That Orbits Backward—And Is Aiming at Us",
+    "hook": "Astronomers found a planet moving against the galaxy's spin—and its trajectory is aimed at Earth.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 85,
+    "educational_value": 55,
+    "estimated_short_retention": 92,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "rogue planet",
+      "retrograde orbit",
+      "incoming threat",
+      "planetary collision",
+      "gravity anomaly"
+    ],
+    "overlap_check_hash": "295869b9026123a9",
+    "why_this_can_go_viral": "A planet heading toward Earth with impossible motion creates instant dread and urgency."
+  },
+  {
+    "unique_id": "cosmic_0180_006_110b43ad9fdb899d",
+    "title": "The Dark Matter Experiment That Made a Man Hallucinate for 3 Days",
+    "hook": "Deep underground, a scientist breathed in a dark matter candidate—and saw things that weren't there.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter hallucination",
+      "WIMP exposure",
+      "underground lab",
+      "mind-altering particle",
+      "reality break"
+    ],
+    "overlap_check_hash": "110b43ad9fdb899d",
+    "why_this_can_go_viral": "The idea that dark matter could warp human consciousness is terrifying and highly clickable."
+  },
+  {
+    "unique_id": "cosmic_0180_007_784e250212e5746f",
+    "title": "The Secret Soviet Space Photo of a Star That Looked Back",
+    "hook": "A Soviet probe captured an image of a star with what appears to be a pupil—and it blinked.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 88,
+    "educational_value": 40,
+    "estimated_short_retention": 95,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "Soviet space photo",
+      "watching star",
+      "eyeball in space",
+      "classified image",
+      "stellar anomaly"
+    ],
+    "overlap_check_hash": "784e250212e5746f",
+    "why_this_can_go_viral": "The anthropomorphic horror of a star that looks like an eye triggers deep primal fear."
+  },
+  {
+    "unique_id": "cosmic_0180_008_d14f6ff75b496b53",
+    "title": "The Fermi Paradox Answer: A Galactic Wall Painted with Dead Civilizations",
+    "hook": "A signal from deep space was decoded as a map of every civilization—and every one is crossed out.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 92,
+    "educational_value": 50,
+    "estimated_short_retention": 90,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "Fermi solution",
+      "dead civilizations",
+      "galactic tombstone",
+      "map of silence",
+      "alien extinction"
+    ],
+    "overlap_check_hash": "d14f6ff75b496b53",
+    "why_this_can_go_viral": "The idea of a cosmic kill list is both terrifying and philosophically explosive."
+  },
+  {
+    "unique_id": "cosmic_0180_009_5a7b88ce19d905ff",
+    "title": "The Star That Shoots Plasma Bullets Every 3 Hours",
+    "hook": "A neutron star fires jets of plasma so precise they hit the same spot in space every time.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "plasma bullets",
+      "neutron star",
+      "cosmic sniper",
+      "precision jet",
+      "stellar weapon"
+    ],
+    "overlap_check_hash": "5a7b88ce19d905ff",
+    "why_this_can_go_viral": "Natural stellar behavior framed as a cosmic weapon is visually and conceptually gripping."
+  },
+  {
+    "unique_id": "cosmic_0180_010_7531743e7c5f3033",
+    "title": "The Comet That Carried a Synchronized Signal—Like a Beacon",
+    "hook": "A comet emitted radio pulses in a repeating pattern, as if something inside was sending a message.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 55,
+    "estimated_short_retention": 83,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "comet signal",
+      "radio beacon",
+      "alien artifact",
+      "pulsing comet",
+      "deep space message"
+    ],
+    "overlap_check_hash": "7531743e7c5f3033",
+    "why_this_can_go_viral": "A natural object acting like a transmitter blurs the line between geology and intelligence."
+  },
+  {
+    "unique_id": "cosmic_0180_014_37811e7ceaa7dbd8",
+    "title": "The Extinction Event That Was a Cloud of Dark Matter",
+    "hook": "Earth passed through a dark matter cloud 65 million years ago—and the dinosaurs vanished.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "dark matter extinction",
+      "dinosaur killer",
+      "invisible death",
+      "mass extinction cause",
+      "cosmic poison"
+    ],
+    "overlap_check_hash": "37811e7ceaa7dbd8",
+    "why_this_can_go_viral": "Replacing the asteroid theory with an invisible, silent killer is both fresh and terrifying."
+  },
+  {
+    "unique_id": "cosmic_0180_015_e93dd9cd7a78d003",
+    "title": "The Secret ESA Report on a Moon Quake That Lasted 4 Hours",
+    "hook": "The moon shook for four hours straight—and ESA documents suggest it wasn't geological.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 55,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "moon quake",
+      "ESA classified",
+      "artificial vibration",
+      "lunar anomaly",
+      "hidden structure"
+    ],
+    "overlap_check_hash": "e93dd9cd7a78d003",
+    "why_this_can_go_viral": "A long, unnatural moon quake hints at something living or mechanical beneath the surface."
+  },
+  {
+    "unique_id": "cosmic_0180_016_41823f6a8e8bf7d3",
+    "title": "The Star That Emits a Pattern That Matches a Human Scream",
+    "hook": "A star's light curve was translated into sound—and it matched the exact frequency of a human scream.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 55,
+    "estimated_short_retention": 87,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "screaming star",
+      "light as sound",
+      "stellar pain",
+      "frequency match",
+      "cosmic horror"
+    ],
+    "overlap_check_hash": "41823f6a8e8bf7d3",
+    "why_this_can_go_viral": "The anthropomorphic horror of a star screaming taps into deep emotional and primal fear."
+  },
+  {
+    "unique_id": "cosmic_0180_018_58976bb336b90bf8",
+    "title": "The Fermi Paradox Filter: A Galactic Silence That Resets Every 100 Million Years",
+    "hook": "The galaxy goes quiet in cycles—and we're approaching the next reset window.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "galactic reset",
+      "silence cycle",
+      "Fermi filter",
+      "cosmic cull",
+      "expiration date"
+    ],
+    "overlap_check_hash": "58976bb336b90bf8",
+    "why_this_can_go_viral": "The idea of a scheduled extinction event is both plausible and deeply unsettling."
+  },
+  {
+    "unique_id": "cosmic_0180_019_dd7c331830ac1208",
+    "title": "The Dark Matter Particle That Makes You Forget Where You Are",
+    "hook": "A particle that passes through your brain every second—and it's linked to sudden memory loss.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 84,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "memory loss particle",
+      "dark matter brain",
+      "forgetfulness",
+      "WIMP exposure",
+      "consciousness threat"
+    ],
+    "overlap_check_hash": "dd7c331830ac1208",
+    "why_this_can_go_viral": "A invisible particle that steals your memories is a personal, existential horror."
+  },
+  {
+    "unique_id": "cosmic_0180_020_57427d8680c6e8f8",
+    "title": "The Classified NASA Audio of an Asteroid That Hummed a Song",
+    "hook": "An asteroid emitted a low-frequency hum in perfect musical harmony—until it left our range.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 50,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "singing asteroid",
+      "NASA audio",
+      "musical rock",
+      "harmonic hum",
+      "space sound"
+    ],
+    "overlap_check_hash": "57427d8680c6e8f8",
+    "why_this_can_go_viral": "A natural object that produces music feels like a message—mystical and eerie."
+  },
+  {
+    "unique_id": "cosmic_0180_021_fedcc71e99a8a44b",
+    "title": "The Galaxy That Has No Stars—Only Black Holes",
+    "hook": "Hubble found a galaxy where every light source is a black hole—no stars, only voids.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "black hole galaxy",
+      "starless galaxy",
+      "dark world",
+      "Hubble anomaly",
+      "void galaxy"
+    ],
+    "overlap_check_hash": "fedcc71e99a8a44b",
+    "why_this_can_go_viral": "A galaxy made entirely of black holes is a visual and conceptual nightmare."
+  },
+  {
+    "unique_id": "cosmic_0180_022_8d6e150952fb16f2",
+    "title": "The Comet That Left a Trail of Invisible Radiation—We Only Saw It After It Passed",
+    "hook": "A comet flew through the solar system—and only after it left did we detect its lethal radiation trail.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 87,
+    "educational_value": 60,
+    "estimated_short_retention": 83,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "invisible radiation",
+      "silent comet",
+      "post-impact detection",
+      "lethal trail",
+      "hidden threat"
+    ],
+    "overlap_check_hash": "8d6e150952fb16f2",
+    "why_this_can_go_viral": "The idea of a threat that only shows up after the damage is done is terrifyingly real."
+  },
+  {
+    "unique_id": "cosmic_0180_024_f17996130896e3f0",
+    "title": "The Gamma Ray Burst That Was a Perfect Circle—Impossible in Physics",
+    "hook": "GRB 221009A was so perfectly circular that it broke every model of how gamma bursts form.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "perfect GRB",
+      "impossible circle",
+      "gamma anomaly",
+      "physics breaker",
+      "GRB 221009A"
+    ],
+    "overlap_check_hash": "f17996130896e3f0",
+    "why_this_can_go_viral": "A natural phenomenon that defies known physics invites speculation and awe."
+  },
+  {
+    "unique_id": "cosmic_0180_025_a0e1f3b0aa61a4d8",
+    "title": "The Stellar Flare That Cracked the Ionosphere Like an Egg",
+    "hook": "A flare from a star 100 light-years away split Earth's ionosphere—and we felt it on the ground.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 83,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "stellar flare",
+      "ionosphere crack",
+      "distant star threat",
+      "space weather",
+      "atmospheric damage"
+    ],
+    "overlap_check_hash": "a0e1f3b0aa61a4d8",
+    "why_this_can_go_viral": "A star that cracks our protective layer from far away makes the universe feel hostile."
+  }
+]

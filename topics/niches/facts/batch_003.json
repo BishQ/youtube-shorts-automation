@@ -1,0 +1,191 @@
+[
+  {
+    "unique_id": "facts_0003_001_80b1a7998dce793d",
+    "title": "The Invisible Predator That Lives in Your Showerhead",
+    "hook": "Every time you shower, a bacteria-rich mist sprays directly into your lungs.",
+    "virality_score": 85,
+    "curiosity_gap_score": 80,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "showerhead bacteria",
+      "mycobacterium avium",
+      "lung infection",
+      "shower mist",
+      "hidden health risks"
+    ],
+    "overlap_check_hash": "80b1a7998dce793d",
+    "why_this_can_go_viral": "Turns a mundane daily ritual into a horror story, triggering immediate personal relevance and shareability."
+  },
+  {
+    "unique_id": "facts_0003_002_d26f29ec76c4be4a",
+    "title": "The Tree That Bleeds Metal When Cut",
+    "hook": "In the Congo, a tree oozes liquid metal that can be forged into tools.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 60,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "metal tree",
+      "congolese tree",
+      "natural metal",
+      "phytomining",
+      "botanical anomaly"
+    ],
+    "overlap_check_hash": "d26f29ec76c4be4a",
+    "why_this_can_go_viral": "Sounds like science fiction but is real; the visual of a tree bleeding metal is unforgettable."
+  },
+  {
+    "unique_id": "facts_0003_003_a2168826eb98b299",
+    "title": "Why Your Own Saliva Is Slowly Dissolving Your Teeth",
+    "hook": "Your mouth is a war zone where your spit is the silent enemy.",
+    "virality_score": 88,
+    "curiosity_gap_score": 82,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "saliva acidity",
+      "tooth erosion",
+      "enamel decay",
+      "mouth pH",
+      "dental health"
+    ],
+    "overlap_check_hash": "a2168826eb98b299",
+    "why_this_can_go_viral": "Everyone brushes their teeth; the idea that their own body is attacking them is deeply unsettling."
+  },
+  {
+    "unique_id": "facts_0003_004_c4c6a5fe3c3f4c96",
+    "title": "The Lake That Turns Birds Into Statues",
+    "hook": "Lake Natron’s waters calcify animals, preserving them like stone monuments.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "Lake Natron",
+      "calcified animals",
+      "bird statues",
+      "soda lake",
+      "alkaline lake"
+    ],
+    "overlap_check_hash": "c4c6a5fe3c3f4c96",
+    "why_this_can_go_viral": "Petrified animals look like horror movie props; the visual shock drives shares."
+  },
+  {
+    "unique_id": "facts_0003_005_d52df86e67257064",
+    "title": "The Parasite That Makes You Attracted to Urine",
+    "hook": "Toxoplasma rewires your brain to find the smell of cat pee alluring.",
+    "virality_score": 84,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "toxoplasma",
+      "cat pee attraction",
+      "brain parasite",
+      "behavioral manipulation",
+      "urine"
+    ],
+    "overlap_check_hash": "d52df86e67257064",
+    "why_this_can_go_viral": "Gross, personal, and mind-blowing — a parasite that changes your sexual preferences."
+  },
+  {
+    "unique_id": "facts_0003_006_1eb6afe4222c55f6",
+    "title": "The Cave Where No Life Can Exist",
+    "hook": "Movile Cave has been sealed for 5 million years, and its air is toxic to everything but bacteria.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "Movile Cave",
+      "toxic cave",
+      "sealed ecosystem",
+      "hydrogen sulfide",
+      "extremophiles"
+    ],
+    "overlap_check_hash": "1eb6afe4222c55f6",
+    "why_this_can_go_viral": "The idea of a place on Earth where no human or animal can survive is terrifying and fascinating."
+  },
+  {
+    "unique_id": "facts_0003_007_a7a56d0670852477",
+    "title": "The Virus That Lives in 90% of Humans—and It’s Not Harmless",
+    "hook": "HHV-6 is a virus that permanently integrates into your DNA and reactivates under stress.",
+    "virality_score": 81,
+    "curiosity_gap_score": 79,
+    "darkness_score": 73,
+    "educational_value": 76,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "HHV-6",
+      "latent virus",
+      "DNA integration",
+      "chronic fatigue",
+      "viral reactivation"
+    ],
+    "overlap_check_hash": "a7a56d0670852477",
+    "why_this_can_go_viral": "Everyone has it; learning it’s a permanent part of your genome is disturbing."
+  },
+  {
+    "unique_id": "facts_0003_008_ee0ae313c9dfc903",
+    "title": "The Ocean Current That Will Collapse by 2050",
+    "hook": "The AMOC is slowing down, and when it stops, Europe gets a mini ice age.",
+    "virality_score": 87,
+    "curiosity_gap_score": 84,
+    "darkness_score": 85,
+    "educational_value": 82,
+    "estimated_short_retention": 90,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "AMOC collapse",
+      "ocean current",
+      "climate tipping point",
+      "ice age Europe",
+      "gulf stream"
+    ],
+    "overlap_check_hash": "ee0ae313c9dfc903",
+    "why_this_can_go_viral": "Timely, scary, and counterintuitive — global warming causing freezing temperatures."
+  },
+  {
+    "unique_id": "facts_0003_009_278c21cf2b0c9c7a",
+    "title": "The Invisible Cloud of Plastic You Breathe Every Second",
+    "hook": "Microplastics are now found in human lungs, blood, and even unborn fetuses.",
+    "virality_score": 90,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "microplastics",
+      "plastic in blood",
+      "airborne plastic",
+      "fetal contamination",
+      "environmental health"
+    ],
+    "overlap_check_hash": "278c21cf2b0c9c7a",
+    "why_this_can_go_viral": "Universally relatable, terrifying, and actionable — everyone wants to know how to avoid it."
+  }
+]

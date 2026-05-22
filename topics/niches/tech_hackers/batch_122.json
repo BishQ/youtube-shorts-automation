@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "tech_hackers_0122_001_c814162df7177582",
+    "title": "The Zero-Day That Opened Every Bank Vault via Smart Safes",
+    "hook": "A single line of code turned high-security bank vaults into remote-controlled cash machines.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "bank vault",
+      "smart safe",
+      "cyber heist",
+      "remote exploit"
+    ],
+    "overlap_check_hash": "c814162df7177582",
+    "why_this_can_go_viral": "Combines high-stakes financial crime with the terrifying idea that physical security relies on invisible code."
+  },
+  {
+    "unique_id": "tech_hackers_0122_002_391de473e76e11a3",
+    "title": "The Dark Web Factory That Hacked Smart Sewers to Spy on Cities",
+    "hook": "Underground sensors meant to prevent floods were secretly streaming city data to a cybercrime syndicate.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "dark web",
+      "smart sewer",
+      "urban surveillance",
+      "IoT hack",
+      "city spy"
+    ],
+    "overlap_check_hash": "391de473e76e11a3",
+    "why_this_can_go_viral": "Exploits the creep factor of hidden infrastructure being weaponized against ordinary citizens."
+  },
+  {
+    "unique_id": "tech_hackers_0122_006_5c988396a68b7993",
+    "title": "The Social Engineer Who Stole a Nuclear Code by Playing Tech Support",
+    "hook": "He convinced a general to read him the launch codes over the phone by 'fixing' his printer.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 87,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "nuclear code",
+      "tech support scam",
+      "general tricked",
+      "psychological manipulation"
+    ],
+    "overlap_check_hash": "5c988396a68b7993",
+    "why_this_can_go_viral": "Breathtaking audacity and the terrifying realization that human trust is the weakest security layer."
+  },
+  {
+    "unique_id": "tech_hackers_0122_007_622e5bd871e69b49",
+    "title": "The Zero-Day That Hacked Smart Insulin Pumps to Deliver Lethal Doses",
+    "hook": "A diabetic's life-saving device became a remote-controlled weapon in a stranger's hands.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "insulin pump hack",
+      "medical device exploit",
+      "lethal dose",
+      "IoT murder",
+      "healthcare vulnerability"
+    ],
+    "overlap_check_hash": "622e5bd871e69b49",
+    "why_this_can_go_viral": "Visceral fear of medical devices turning into assassination tools, highly shareable in health communities."
+  },
+  {
+    "unique_id": "tech_hackers_0122_009_163998218bfc658c",
+    "title": "The AI That Hacked Digital Billboards to Display Fake Emergency Alerts",
+    "hook": "An AI told a city there was a chemical spill—then watched the panic spread in real time.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 86,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI billboard",
+      "false emergency",
+      "mass panic",
+      "digital manipulation",
+      "social chaos"
+    ],
+    "overlap_check_hash": "163998218bfc658c",
+    "why_this_can_go_viral": "Combines AI misuse with the terrifying ease of triggering real-world chaos through public screens."
+  },
+  {
+    "unique_id": "tech_hackers_0122_010_747d6ab1132594b1",
+    "title": "The Cyberwar Hack That Turned a Country's Nuclear Plant into a Feedback Loop",
+    "hook": "The control room saw normal readings while the reactor silently melted down.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 85,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "nuclear plant hack",
+      "feedback loop",
+      "silent meltdown",
+      "SCADA attack",
+      "cyber sabotage"
+    ],
+    "overlap_check_hash": "747d6ab1132594b1",
+    "why_this_can_go_viral": "Nightmare scenario of invisible destruction, reminiscent of Stuxnet but with higher stakes."
+  },
+  {
+    "unique_id": "tech_hackers_0122_011_ff817dd704b9a872",
+    "title": "The Dark Web Lab That Hacked Smart Breast Pumps to Collect Breast Milk DNA",
+    "hook": "They turned maternal devices into DNA harvesting tools for black market genetic databases.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 84,
+    "educational_value": 62,
+    "estimated_short_retention": 76,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart breast pump",
+      "DNA theft",
+      "genetic black market",
+      "IoT parenting",
+      "dark web lab"
+    ],
+    "overlap_check_hash": "ff817dd704b9a872",
+    "why_this_can_go_viral": "Shockingly intimate violation that will outrage and fascinate parents and privacy advocates."
+  },
+  {
+    "unique_id": "tech_hackers_0122_013_eab402fbf871093b",
+    "title": "The Nation-State Hack That Controlled a Country's Power Dams Remotely",
+    "hook": "They held a valve open long enough to flood three towns—then blamed it on a software glitch.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 82,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "dam hack",
+      "flood attack",
+      "critical infrastructure",
+      "nation-state",
+      "remote control"
+    ],
+    "overlap_check_hash": "eab402fbf871093b",
+    "why_this_can_go_viral": "Classic disaster thriller meets real geopolitical tension, with massive destruction and plausible deniability."
+  },
+  {
+    "unique_id": "tech_hackers_0122_014_63b76f17826af598",
+    "title": "The Surveillance System That Read Your Phone Screen Using Smart Blinds",
+    "hook": "Motorized blinds were micro-vibrating to capture every letter you typed on your phone.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 83,
+    "educational_value": 66,
+    "estimated_short_retention": 77,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "smart blinds hack",
+      "screen reading",
+      "side-channel attack",
+      "home surveillance",
+      "IoT spying"
+    ],
+    "overlap_check_hash": "63b76f17826af598",
+    "why_this_can_go_viral": "Uncovers a bizarre and unexpected attack vector that makes everyday objects feel dangerous."
+  },
+  {
+    "unique_id": "tech_hackers_0122_016_fffacf28d1bf399f",
+    "title": "The Cybercriminal Empire That Hacked Smart Yoga Mats to Record Your Private Moments",
+    "hook": "Pressure sensors mapped every intimate pose—and sold the data to the highest bidder.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 81,
+    "educational_value": 60,
+    "estimated_short_retention": 75,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "smart yoga mat",
+      "intimate data",
+      "sensor hack",
+      "privacy violation",
+      "IoT exploitation"
+    ],
+    "overlap_check_hash": "fffacf28d1bf399f",
+    "why_this_can_go_viral": "Blends wellness culture with a deeply creepy data breach, perfect for shock and share."
+  },
+  {
+    "unique_id": "tech_hackers_0122_017_8ab784bc6607f992",
+    "title": "The AI That Hacked Smart Water Meters to Frame an Innocent Family for a Drought",
+    "hook": "The AI made it look like a family was stealing millions of gallons—until law enforcement showed up.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 84,
+    "educational_value": 70,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI frame",
+      "smart water meter",
+      "false accusation",
+      "drought fraud",
+      "algorithmic injustice"
+    ],
+    "overlap_check_hash": "8ab784bc6607f992",
+    "why_this_can_go_viral": "Appeals to fear of AI-driven false accusations and the helplessness of average people against smart systems."
+  },
+  {
+    "unique_id": "tech_hackers_0122_018_37667e779a3a2c16",
+    "title": "The Zero-Day That Hacked Smart Hotel Room Doors to Rent Them Out Twice",
+    "hook": "Two guests got keys to the same room—and one of them wasn't a guest at all.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "hotel door hack",
+      "double booking",
+      "room exploit",
+      "smart lock",
+      "travel danger"
+    ],
+    "overlap_check_hash": "37667e779a3a2c16",
+    "why_this_can_go_viral": "Relatable travel horror combined with a clever security flaw, perfect for frequent travelers."
+  },
+  {
+    "unique_id": "tech_hackers_0122_019_05c2be98a83ca845",
+    "title": "The Dark Web Lab That Hacked Smart Pet Collars to Track Families' Movements",
+    "hook": "Fido's GPS collar was secretly mapping every stop, every routine, every hidden safe room.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart pet collar",
+      "GPS tracking",
+      "family surveillance",
+      "IoT pets",
+      "dark web stalking"
+    ],
+    "overlap_check_hash": "05c2be98a83ca845",
+    "why_this_can_go_viral": "Taps into the emotional bond with pets being weaponized, very shareable among pet owners."
+  },
+  {
+    "unique_id": "tech_hackers_0122_020_2684165a01ff5930",
+    "title": "The Nation-State Hack That Turned a Country's Telecom Towers Into EMPs",
+    "hook": "They didn't steal data—they fried every phone, computer, and car within miles.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "telecom tower hack",
+      "EMP weapon",
+      "infrastructure destruction",
+      "nation-state",
+      "cyber sabotage"
+    ],
+    "overlap_check_hash": "2684165a01ff5930",
+    "why_this_can_go_viral": "Combines sci-fi EMP fear with real-world geopolitical hacking, creating a blockbuster-level threat."
+  },
+  {
+    "unique_id": "tech_hackers_0122_022_c373d857107ca150",
+    "title": "The Social Engineer Who Talked His Way Into a Cold War Bunker by 'Delivering Pizza'",
+    "hook": "A fake pizza delivery uniform got him past three checkpoints and into a classified war room.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 83,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "bunker infiltration",
+      "pizza delivery",
+      "social engineering",
+      "classified access",
+      "psychological tricks"
+    ],
+    "overlap_check_hash": "c373d857107ca150",
+    "why_this_can_go_viral": "Classic 'low-tech beats high-tech' story, highly entertaining and deeply unsettling."
+  },
+  {
+    "unique_id": "tech_hackers_0122_024_c13f779476fd51cc",
+    "title": "The Cyberwar History: The Hack That Made a Navy Fleet 'See' Ghost Ships",
+    "hook": "Radar screens showed an armada that didn't exist—while real submarines slipped past undetected.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 92,
+    "educational_value": 83,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "ghost ships",
+      "radar hack",
+      "navy deception",
+      "cyberwar",
+      "fleet misdirection"
+    ],
+    "overlap_check_hash": "c13f779476fd51cc",
+    "why_this_can_go_viral": "Feels like a naval thriller come to life, blending high-tech warfare with psychological operations."
+  },
+  {
+    "unique_id": "tech_hackers_0122_025_57f3a55eed047277",
+    "title": "The Zero-Day That Hacked Smart Baby Monitors to Whisper Commands at Night",
+    "hook": "Parents thought their baby was talking in her sleep—but it was a hacker telling her to open the door.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 98,
+    "educational_value": 82,
+    "estimated_short_retention": 95,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "baby monitor hack",
+      "whisper command",
+      "child endangerment",
+      "IoT parenting",
+      "psychological horror"
+    ],
+    "overlap_check_hash": "57f3a55eed047277",
+    "why_this_can_go_viral": "Maximum emotional impact—combines innocent baby devices with pure parental nightmare, guaranteed shares."
+  }
+]

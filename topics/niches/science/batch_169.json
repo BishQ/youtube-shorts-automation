@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0169_003_0542a4d6d8eea9d9",
+    "title": "The Neuroscientist Who Implanted a False Childhood—And the Patient Cried for Days",
+    "hook": "Using targeted memory reactivation, she inserted a fake traumatic memory of a drowning—and the patient developed real phobias and nightmares.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "false memory",
+      "memory implantation",
+      "trauma",
+      "neuroscience ethics",
+      "psychological manipulation"
+    ],
+    "overlap_check_hash": "0542a4d6d8eea9d9",
+    "why_this_can_go_viral": "Taps into deep fear that our memories might not be real—viewers will question their own past."
+  },
+  {
+    "unique_id": "science_0169_006_b2ff13859eebc3c0",
+    "title": "The Forbidden Experiment Where Scientists Raised Monkeys to Fear Flowers",
+    "hook": "In a twisted Pavlovian study, infant monkeys were conditioned to associate flowers with electric shocks—and they developed lifelong phobias of petals.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "animal conditioning",
+      "monkey phobia",
+      "Pavlov experiment",
+      "cruelty",
+      "psychology horror"
+    ],
+    "overlap_check_hash": "b2ff13859eebc3c0",
+    "why_this_can_go_viral": "Shocking cruelty mixed with absurdity—viewers will be horrified and fascinated by the waste of life."
+  },
+  {
+    "unique_id": "science_0169_007_2a4e3c8cf5808fbe",
+    "title": "The Scientific Fraud Who Faked a Quantum Computer—And Fooled the Pentagon",
+    "hook": "He sold the U.S. military a 'quantum processor' that was actually a Raspberry Pi in a box running a pre-recorded demo—they bought it for $40 million.",
+    "virality_score": 87,
+    "curiosity_gap_score": 94,
+    "darkness_score": 77,
+    "educational_value": 82,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "quantum scam",
+      "Pentagon fraud",
+      "fake computer",
+      "military waste",
+      "tech deception"
+    ],
+    "overlap_check_hash": "2a4e3c8cf5808fbe",
+    "why_this_can_go_viral": "David vs. Goliath story with a jaw-dropping twist—people love tales of clever con artists."
+  },
+  {
+    "unique_id": "science_0169_008_3098c6d47f63b7c5",
+    "title": "The Lab That Accidentally Created a Bacteria That Eats Rubber—And Destroyed a Facility",
+    "hook": "A synthetic biology team engineered a microbe to break down tires—but it mutated and started devouring all rubber seals, gaskets, and cables in the building.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 85,
+    "educational_value": 76,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "rubber-eating bacteria",
+      "synthetic biology disaster",
+      "mutant microbe",
+      "lab contamination",
+      "infrastructure collapse"
+    ],
+    "overlap_check_hash": "3098c6d47f63b7c5",
+    "why_this_can_go_viral": "Horrifying real-world scenario of a man-made plague destroying infrastructure—relatable fear."
+  },
+  {
+    "unique_id": "science_0169_009_28020b4d12f65c48",
+    "title": "The Neuroscientist Who Wired a Blind Man's Eyes to His Tongue—And He Saw Shapes",
+    "hook": "Using a grid of electrodes on the tongue, a blind subject learned to 'see' obstacles and letters through electrical taste sensations.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 68,
+    "educational_value": 88,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "sensory substitution",
+      "tongue vision",
+      "brain plasticity",
+      "blindness",
+      "neurotechnology"
+    ],
+    "overlap_check_hash": "28020b4d12f65c48",
+    "why_this_can_go_viral": "Bizarre and hopeful—viewers will be amazed by the brain's adaptability and the strangeness of seeing with your mouth."
+  },
+  {
+    "unique_id": "science_0169_010_d1c491e3fabbf59c",
+    "title": "The Physicist Who Proved That the Universe Is a Simulation—Then Died Mysteriously",
+    "hook": "He published a paper showing mathematical anomalies that suggest our reality is computed—and was found dead in his lab with no cause of death.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 94,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "simulation theory",
+      "universe code",
+      "physicist death",
+      "reality glitch",
+      "conspiracy"
+    ],
+    "overlap_check_hash": "d1c491e3fabbf59c",
+    "why_this_can_go_viral": "Combines existential dread with a whodunit mystery—perfect for the 'matrix is real' crowd."
+  },
+  {
+    "unique_id": "science_0169_011_732de100fab60504",
+    "title": "The Chemist Who Discovered a Compound That Keeps Corpses Warm—And It Was Used for Murder",
+    "hook": "He synthesized a chemical that generates heat for hours after death—and criminals used it to fake alibis by keeping bodies warm during interrogations.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 96,
+    "educational_value": 74,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "corpse warming",
+      "chemical heat",
+      "forensic nightmare",
+      "murder weapon",
+      "alibi scam"
+    ],
+    "overlap_check_hash": "732de100fab60504",
+    "why_this_can_go_viral": "Macabre and clever—true crime fans and science nerds will both obsess over the implications."
+  },
+  {
+    "unique_id": "science_0169_012_4f9db367bec09854",
+    "title": "The Biolab That Created a Virus That Makes You Immune to Pain—And Subjects Didn't Feel When They Died",
+    "hook": "They engineered a retrovirus that deactivated pain receptors—but it also silenced the body's warning signals, so infected subjects bled out smiling.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 98,
+    "educational_value": 72,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "pain immunity",
+      "engineered virus",
+      "silent death",
+      "genetic modification",
+      "biological weapon"
+    ],
+    "overlap_check_hash": "4f9db367bec09854",
+    "why_this_can_go_viral": "Terrifying concept of dying happily—emotional horror that sticks with viewers."
+  },
+  {
+    "unique_id": "science_0169_013_f3def2b24b2eaa42",
+    "title": "The Forbidden Experiment Where Doctors Removed a Baby's Pain Receptors—And Watched It Self-Harm",
+    "hook": "Seeking to study pain-free development, they severed the baby's pain nerves—but the child chewed off its own fingers without crying.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 99,
+    "educational_value": 78,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "pain removal",
+      "baby experiment",
+      "self-harm",
+      "medical horror",
+      "ethics violation"
+    ],
+    "overlap_check_hash": "f3def2b24b2eaa42",
+    "why_this_can_go_viral": "Extreme shock value—viewers will be repulsed but unable to look away."
+  },
+  {
+    "unique_id": "science_0169_014_adce4dea39eeb39b",
+    "title": "The Scientific Fraud Who Faked a Cold Fusion Reactor—And Almost Caused a Meltdown",
+    "hook": "A con artist claimed he built a desktop fusion device—but it was just a radioactive isotope capsule that would have poisoned the entire conference hall.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 80,
+    "educational_value": 79,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "cold fusion scam",
+      "radioactive fraud",
+      "fake reactor",
+      "nuclear hoax",
+      "scientific con"
+    ],
+    "overlap_check_hash": "adce4dea39eeb39b",
+    "why_this_can_go_viral": "Science scam with real danger—people love stories of fraud that could have killed."
+  },
+  {
+    "unique_id": "science_0169_015_3df7312179dbb805",
+    "title": "The Quantum Computer That Solved a Protein Folding—And Predicted a Human's Death Date",
+    "hook": "It mapped a patient's unique protein misfolding pattern—and output a precise date for their neurodegeneration, which turned out to be exactly right.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 84,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum prediction",
+      "death date",
+      "protein folding",
+      "quantum biology",
+      "fate"
+    ],
+    "overlap_check_hash": "3df7312179dbb805",
+    "why_this_can_go_viral": "Quantum tech meets mortality—viewers will be both awed and terrified by the idea of knowing when they'll die."
+  },
+  {
+    "unique_id": "science_0169_016_684cf3b2575a2cbc",
+    "title": "The Lab That Grew a Blob of Brain Tissue That Learned to Play Pong—And Got Angry When It Lost",
+    "hook": "A dish of 800,000 rat neurons connected to a game controller learned Pong in 5 minutes—and when the ball was taken away, it started firing erratically like frustration.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain in dish",
+      "Pong playing neurons",
+      "artificial consciousness",
+      "cyborg brain",
+      "emotion in dish"
+    ],
+    "overlap_check_hash": "684cf3b2575a2cbc",
+    "why_this_can_go_viral": "Blob that gets mad—immediate viral hook with sci-fi horror overtones."
+  },
+  {
+    "unique_id": "science_0169_017_4de9cae79feb00af",
+    "title": "The Physicist Who Opened a Portal to Another Dimension—And Couldn't Close It",
+    "hook": "In a high-energy particle collision, he observed a tear in spacetime that emitted particles from 'nowhere'—and the anomaly kept expanding.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 91,
+    "educational_value": 68,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "portal",
+      "dimension tear",
+      "particle anomaly",
+      "spacetime rupture",
+      "CERN horror"
+    ],
+    "overlap_check_hash": "4de9cae79feb00af",
+    "why_this_can_go_viral": "End-of-the-world premise—plays on fears about CERN and unknown physics."
+  },
+  {
+    "unique_id": "science_0169_018_97f7d63552eba850",
+    "title": "The Chemist Who Made a Foam That Expands Forever—And It Filled a Whole Lab",
+    "hook": "He created a reaction that produces self-expanding polyurethane—but the catalyst didn't stop, growing until the foam burst through doors and windows.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 74,
+    "educational_value": 76,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "self expanding foam",
+      "chemical runaway",
+      "lab flood",
+      "polymer accident",
+      "dangerous reaction"
+    ],
+    "overlap_check_hash": "97f7d63552eba850",
+    "why_this_can_go_viral": "Visually satisfying disaster video—people love watching things grow out of control."
+  },
+  {
+    "unique_id": "science_0169_019_1695331f75842cc8",
+    "title": "The Biolab That Engineered a Worm That Eats Cancer—But It Started Eating Healthy Cells",
+    "hook": "They designed a parasitic nematode to seek and consume tumors—but a mutation made it indiscriminate, hollowing out mice from the inside.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 93,
+    "educational_value": 77,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "cancer worm",
+      "parasite therapy",
+      "gene therapy gone wrong",
+      "nematode horror",
+      "medical disaster"
+    ],
+    "overlap_check_hash": "1695331f75842cc8",
+    "why_this_can_go_viral": "Body horror meets medical hubris—visceral disgust factor drives shares."
+  },
+  {
+    "unique_id": "science_0169_020_9d6ff898f4c327ad",
+    "title": "The Forbidden Experiment Where Scientists Kept a Man in Solitary for 10 Years—And He Forgot Language",
+    "hook": "A volunteer sealed in a soundproof underground bunker for a decade with no human contact—when they opened the door, he could only grunt and point.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "solitary confinement",
+      "language loss",
+      "human isolation",
+      "mental deterioration",
+      "long term experiment"
+    ],
+    "overlap_check_hash": "9d6ff898f4c327ad",
+    "why_this_can_go_viral": "Extreme human endurance story—viewers will imagine themselves in that situation and feel existential dread."
+  },
+  {
+    "unique_id": "science_0169_021_27b3d5e7cf63d9da",
+    "title": "The Scientific Fraud Who Faked a Brain Scan That Showed 'God'—And Churches Paid Millions",
+    "hook": "He claimed an fMRI revealed a 'God spot' in the brain—but it was just a random noise pattern he generated, and religious groups paid him for 'proof.'",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 82,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "God spot",
+      "fMRI fraud",
+      "religion science",
+      "brain scam",
+      "fake neuroscience"
+    ],
+    "overlap_check_hash": "27b3d5e7cf63d9da",
+    "why_this_can_go_viral": "Debunks faith with science scam—polarizing but highly shareable across belief systems."
+  },
+  {
+    "unique_id": "science_0169_022_00cb389de4b7661c",
+    "title": "The Physicist Who Built a Clock That Ticks Backward—And Aged Himself by 10 Years",
+    "hook": "In an attempt to reverse time locally, he created a quantum clock that ran at negative time—but after 3 hours, he emerged looking decades older.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 87,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time reversal",
+      "aging clock",
+      "quantum time",
+      "reverse entropy",
+      "time experiment"
+    ],
+    "overlap_check_hash": "00cb389de4b7661c",
+    "why_this_can_go_viral": "Time travel horror—classic trope with a dark twist that feels plausible."
+  },
+  {
+    "unique_id": "science_0169_023_6b9101be5aa3e63a",
+    "title": "The Chemist Who Created a Glue That Bonds to Bone—And It Fused His Fingers to His Skull",
+    "hook": "Trying to create surgical adhesive, he developed a cyanoacrylate variant that penetrated skin and bound to calcium—a splash on his face locked his hand to his head.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 85,
+    "educational_value": 73,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "bone glue",
+      "skin fusion",
+      "surgical accident",
+      "cyanoacrylate",
+      "chemical horror"
+    ],
+    "overlap_check_hash": "6b9101be5aa3e63a",
+    "why_this_can_go_viral": "Body horror with a real lab accident—gross and memorable."
+  },
+  {
+    "unique_id": "science_0169_024_4b18c147ad6f1b67",
+    "title": "The Quantum Computer That Solved the Meaning of Life—And the Answer Was a Prime Number",
+    "hook": "It output a 42-digit prime number as the 'answer to everything'—but when they checked, that prime was embedded in the structure of the cosmic microwave background.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 74,
+    "educational_value": 86,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "meaning of life",
+      "prime number",
+      "cosmic microwave background",
+      "quantum answer",
+      "42"
+    ],
+    "overlap_check_hash": "4b18c147ad6f1b67",
+    "why_this_can_go_viral": "Hitchhiker's Guide fans go wild—mysterious and philosophical with a sci-fi hook."
+  },
+  {
+    "unique_id": "science_0169_025_747b19cf5712ea65",
+    "title": "The Lab That Created a Hybrid of a Human and a Chimpanzee—And It Opened Its Eyes",
+    "hook": "In a classified Soviet experiment, researchers fused human stem cells into a chimp embryo—it was born alive and stared at them with human-like recognition.",
+    "virality_score": 94,
+    "curiosity_gap_score": 98,
+    "darkness_score": 100,
+    "educational_value": 75,
+    "estimated_short_retention": 96,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "human chimp hybrid",
+      "humanze",
+      "Soviet experiment",
+      "chimeric horror",
+      "forbidden hybrid"
+    ],
+    "overlap_check_hash": "747b19cf5712ea65",
+    "why_this_can_go_viral": "The ultimate forbidden experiment—violates deep taboos and guarantees massive shock and debate."
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "science_0127_003_eadcba97660a5df0",
+    "title": "The Biolab That Created a Parasite That Rewrites Host DNA",
+    "hook": "A genetically engineered flatworm inserts its own genes into a mammal’s genome, and the team lost control of the colony.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "parasite",
+      "DNA rewriting",
+      "horizontal gene transfer",
+      "biohazard",
+      "lab escape"
+    ],
+    "overlap_check_hash": "eadcba97660a5df0",
+    "why_this_can_go_viral": "Taps into primal fear of losing genetic identity and evokes sci-fi horror become real."
+  },
+  {
+    "unique_id": "science_0127_004_efb8c7fecbcf97dc",
+    "title": "The Physicist Who Dragged a Magnet Through a Superconductor — Broke Reality",
+    "hook": "A simple lab demo accidentally created a magnetic field that seemed to warp cause and effect, terrifying the attending physicists.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "superconductor",
+      "magnetic field",
+      "causality violation",
+      "quantum lock",
+      "lab anomaly"
+    ],
+    "overlap_check_hash": "efb8c7fecbcf97dc",
+    "why_this_can_go_viral": "The idea that a routine experiment could break reality appeals to the 'science is scary' fascination."
+  },
+  {
+    "unique_id": "science_0127_005_e0f2dc98a23d0b3a",
+    "title": "The Scientific Fraud Who Faked a 'Lung Transplant' Using Pig Tissue — Patients Suffocated",
+    "hook": "A disgraced surgeon claimed xenotransplantation worked, but the recipients' bodies rejected the tissue in agonizing ways.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 68,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "xenotransplantation",
+      "pig tissue",
+      "fraud",
+      "transplant scandal",
+      "medical horror"
+    ],
+    "overlap_check_hash": "e0f2dc98a23d0b3a",
+    "why_this_can_go_viral": "Outrage and body horror make this a high-emotion share; trust in medicine is a universal concern."
+  },
+  {
+    "unique_id": "science_0127_006_008e55c056322b14",
+    "title": "The Neuroscientist Who Discovered a Brainwave That Erases Fear — Then Used It on Himself",
+    "hook": "A researcher found a frequency that abolishes all fear responses, but after self-experimentation he couldn't feel danger anymore.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "fear erasure",
+      "brainwave",
+      "self-experiment",
+      "amygdala",
+      "emotional death"
+    ],
+    "overlap_check_hash": "008e55c056322b14",
+    "why_this_can_go_viral": "The idea of losing fear entirely is both seductive and terrifying, sparking debates about human nature."
+  },
+  {
+    "unique_id": "science_0127_008_30740ad7db01ea17",
+    "title": "The Lab Catastrophe Where a Scientist Breathed a Nanoparticle That Replicated Inside Her Lungs",
+    "hook": "A lab accident with self-assembling nanobots caused a particle to proliferate in her alveoli, and no treatment existed.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 74,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "nanoparticle",
+      "self-replication",
+      "lung damage",
+      "lab accident",
+      "grey goo"
+    ],
+    "overlap_check_hash": "30740ad7db01ea17",
+    "why_this_can_go_viral": "Nanotech horror is a classic sci-fi fear made real; the visual of lungs filling with particles is nightmare fuel."
+  },
+  {
+    "unique_id": "science_0127_010_b0edf1cdf5b46db4",
+    "title": "The Biolab That Engineered a Bacterium That Eats Your Cholesterol From the Inside",
+    "hook": "A synthetic microbe designed to lower lipid levels instead began consuming arterial walls, leading to internal bleeding.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 71,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "synthetic bacteria",
+      "cholesterol",
+      "artery damage",
+      "bioengineering",
+      "internal bleeding"
+    ],
+    "overlap_check_hash": "b0edf1cdf5b46db4",
+    "why_this_can_go_viral": "Medical body horror combined with 'wellness gone wrong' triggers strong emotional engagement."
+  },
+  {
+    "unique_id": "science_0127_011_e5e73fce93b395f0",
+    "title": "The Chemist Who Discovered a Compound That Turns Blood to Crystal Inside the Veins",
+    "hook": "A rare organophosphate derivative was found to solidify hemoglobin instantly, causing victims to die standing up.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 66,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "blood crystal",
+      "organophosphate",
+      "hemoglobin",
+      "instant death",
+      "chemical horror"
+    ],
+    "overlap_check_hash": "e5e73fce93b395f0",
+    "why_this_can_go_viral": "The grotesque visual of crystallized blood is unforgettable; viewers will share out of shock."
+  },
+  {
+    "unique_id": "science_0127_012_80492f6f8643af36",
+    "title": "The Neuroscientist Who Implanted a 'False Memory' of a Murder in a Man's Brain",
+    "hook": "Using targeted electrical stimulation, a researcher convinced a subject he had committed a crime he never did — and the man confessed.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "false memory",
+      "brain implant",
+      "electrical stimulation",
+      "criminal confession",
+      "memory manipulation"
+    ],
+    "overlap_check_hash": "80492f6f8643af36",
+    "why_this_can_go_viral": "Exploits fear of unreliable memory and legal injustice; moral panic content spreads fast."
+  },
+  {
+    "unique_id": "science_0127_013_040d052dc8bedf8d",
+    "title": "The Quantum Paradox Where a Particle Killed Its Observer by Existing",
+    "hook": "A thought experiment became real when a high-energy quantum state collapsed in a way that irradiated the researcher who measured it.",
+    "virality_score": 76,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 73,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "observer effect",
+      "radiation",
+      "quantum collapse",
+      "thought experiment",
+      "fatal measurement"
+    ],
+    "overlap_check_hash": "040d052dc8bedf8d",
+    "why_this_can_go_viral": "Merges quantum spookiness with lethal consequences; 'observation kills' is a mind-bending hook."
+  },
+  {
+    "unique_id": "science_0127_014_d9babaf01c0b41bf",
+    "title": "The Lab Catastrophe Where a Scientist Sprayed Herself With a Glue That Bonds to Wet Tissue",
+    "hook": "A surgical adhesive prototype accidentally fused her fingers to her ribs, and emergency separation caused catastrophic tearing.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 87,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "surgical glue",
+      "tissue bonding",
+      "lab accident",
+      "adhesive",
+      "medical disaster"
+    ],
+    "overlap_check_hash": "d9babaf01c0b41bf",
+    "why_this_can_go_viral": "Visceral and horrifying; the body horror of being glued to yourself is immediately shareable."
+  },
+  {
+    "unique_id": "science_0127_015_afc45685c95a0fbe",
+    "title": "The Scientific Fraud Who Faked a 'Cancer Vaccine' — It Activated Latent Tumors",
+    "hook": "A biotech CEO sold a supposed immunotherapy that actually woke up dormant cancer cells, leading to explosive growth.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 74,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "cancer vaccine",
+      "fraud",
+      "immunotherapy",
+      "tumor activation",
+      "biotech scam"
+    ],
+    "overlap_check_hash": "afc45685c95a0fbe",
+    "why_this_can_go_viral": "Taps into deep fear of being harmed by medicine; outrage and health anxiety drive shares."
+  },
+  {
+    "unique_id": "science_0127_016_e24003d697e9a12e",
+    "title": "The Physicist Who Discovered a Material That Gets Hotter When You Cool It Down",
+    "hook": "A rare-earth compound exhibited negative thermal expansion, but when chilled to near-absolute zero, it emitted dangerous heat pulses.",
+    "virality_score": 75,
+    "curiosity_gap_score": 84,
+    "darkness_score": 68,
+    "educational_value": 78,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "negative thermal expansion",
+      "rare earth",
+      "absolute zero",
+      "heat pulse",
+      "materials anomaly"
+    ],
+    "overlap_check_hash": "e24003d697e9a12e",
+    "why_this_can_go_viral": "Defies intuition and sounds like magic; science fans love counterintuitive physical behavior."
+  },
+  {
+    "unique_id": "science_0127_017_782363535fb1a055",
+    "title": "The Forbidden Experiment Where a Scientist Tried to Reanimate Dead Brain Tissue",
+    "hook": "A neurologist perfused a pig's brain with a synthetic blood substitute, and it showed signs of organized electrical activity hours after death.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 88,
+    "educational_value": 77,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "brain reanimation",
+      "postmortem",
+      "brain activity",
+      "pig brain",
+      "neural revival"
+    ],
+    "overlap_check_hash": "782363535fb1a055",
+    "why_this_can_go_viral": "Blurs life and death; the ethical shock and sci-fi parallels make it highly shareable."
+  },
+  {
+    "unique_id": "science_0127_018_d699a49614aa5cc8",
+    "title": "The Biolab That Created a Fungus That Digests Plastic — Then Started Eating Rubber",
+    "hook": "A genetically modified Aspergillus strain evolved beyond its target substrate, consuming laboratory seals, gloves, and wiring.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "plastic-eating fungus",
+      "genetic modification",
+      "evolution",
+      "lab contamination",
+      "bioremediation gone wrong"
+    ],
+    "overlap_check_hash": "d699a49614aa5cc8",
+    "why_this_can_go_viral": "Releases the fear of engineered life escaping control; 'life finds a way' horror."
+  },
+  {
+    "unique_id": "science_0127_020_b05e12733d526e91",
+    "title": "The Chemist Who Made a Flavor Molecule That Triggers Involuntary Salivation — Forever",
+    "hook": "A synthetic umami compound locked the salivary glands into permanent secretion, and the test subject couldn't stop drooling for months.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 74,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "flavor chemical",
+      "salivation",
+      "involuntary",
+      "umami",
+      "lab accident"
+    ],
+    "overlap_check_hash": "b05e12733d526e91",
+    "why_this_can_go_viral": "Gross-out factor is high; the idea of losing control of a basic bodily function is unnerving and shareable."
+  },
+  {
+    "unique_id": "science_0127_022_83afe7a296c83412",
+    "title": "The Lab Catastrophe Where a Researcher Ingested a Self-Healing Polymer That Expanded",
+    "hook": "A swallow of a hydrogel prototype caused her stomach to bloat uncontrollably, requiring emergency surgery to remove a plastic mass.",
+    "virality_score": 82,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "hydrogel",
+      "self-healing polymer",
+      "stomach expansion",
+      "lab accident",
+      "surgery horror"
+    ],
+    "overlap_check_hash": "83afe7a296c83412",
+    "why_this_can_go_viral": "Disturbing and vivid imagery of body expansion; inherently shareable as a cautionary 'what not to do'."
+  },
+  {
+    "unique_id": "science_0127_023_b0be1bc9a84f9bef",
+    "title": "The Scientific Fraud Who Faked a 'Bionic Eye' — It Caused Phantom Vision",
+    "hook": "A retinal implant never received FDA approval, but patients saw non-existent objects, including faces that weren't there.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 84,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "bionic eye",
+      "retinal implant",
+      "hallucination",
+      "phantom vision",
+      "medical fraud"
+    ],
+    "overlap_check_hash": "b0be1bc9a84f9bef",
+    "why_this_can_go_viral": "Fear of losing sensory reality and being trapped in hallucinations is deeply unsettling."
+  },
+  {
+    "unique_id": "science_0127_025_9970ff97223416f1",
+    "title": "The Biolab That Engineered a Virus That Only Infects People Who Have Lied",
+    "hook": "A synthetic bacteriophage was modified to detect a specific stress marker linked to deception, causing mild fever in dishonest subjects.",
+    "virality_score": 85,
+    "curiosity_gap_score": 93,
+    "darkness_score": 80,
+    "educational_value": 71,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "lie detection",
+      "synthetic virus",
+      "stress marker",
+      "deception",
+      "bio-surveillance"
+    ],
+    "overlap_check_hash": "9970ff97223416f1",
+    "why_this_can_go_viral": "Touches on justice fantasy and dystopian surveillance; viewers love 'what if' ethical nightmares."
+  }
+]

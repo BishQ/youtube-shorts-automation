@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0030_001_fbd84aed8f5a8c87",
+    "title": "The Chemist Who Dissolved His Own Hands in a Secret Solvent",
+    "hook": "He was searching for a perfect cleaning agent, until he discovered a liquid that could dissolve human flesh faster than acid.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "solvent",
+      "flesh dissolving",
+      "lab accident",
+      "chemistry horror",
+      "forbidden liquid"
+    ],
+    "overlap_check_hash": "fbd84aed8f5a8c87",
+    "why_this_can_go_viral": "Combines a grotesque horror with real science, shocking the viewer with the idea that a scientist could accidentally create a weapon of destruction while aiming for something mundane."
+  },
+  {
+    "unique_id": "science_0030_002_ddf1ff9098049fe0",
+    "title": "The Neuroscientist Who Kept a Human Brain Alive for 36 Hours",
+    "hook": "After the body was dead, the brain still showed signs of consciousness—and no one knows what it was experiencing.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 96,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain alive",
+      "consciousness",
+      "post-mortem",
+      "neuroscience horror",
+      "ethical violation"
+    ],
+    "overlap_check_hash": "ddf1ff9098049fe0",
+    "why_this_can_go_viral": "The boundary between life and death terrifies people, and the idea of a trapped consciousness inside a dead body triggers existential dread and intense curiosity."
+  },
+  {
+    "unique_id": "science_0030_003_942c3a57706834a0",
+    "title": "The Physicist Who Proved That a Mirror Can Trap Light Forever",
+    "hook": "Inside a perfectly sealed box, light is still bouncing around right now—and it will never escape.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 55,
+    "educational_value": 90,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "light trap",
+      "perfect mirror",
+      "photon prison",
+      "physics paradox",
+      "eternal reflection"
+    ],
+    "overlap_check_hash": "942c3a57706834a0",
+    "why_this_can_go_viral": "The idea of light being literally imprisoned appeals to the fascination with impossible objects and timeless phenomena, feeding the 'what if you looked inside' curiosity."
+  },
+  {
+    "unique_id": "science_0030_004_f6b86ea08259c174",
+    "title": "The Biologist Who Bred a Worm That Can Survive in Pure Acid",
+    "hook": "This creature was designed to live inside a human stomach—but then it got loose in the lab.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "acid worm",
+      "extreme biology",
+      "lab escape",
+      "stomach parasite",
+      "genetic modification"
+    ],
+    "overlap_check_hash": "f6b86ea08259c174",
+    "why_this_can_go_viral": "Horror of a creature that can survive anywhere—especially inside a human body—combined with a real lab escape story creates visceral fear and shareability."
+  },
+  {
+    "unique_id": "science_0030_005_6243fa52b4e8b855",
+    "title": "The Quantum Computer That Calculated a Negative Probability",
+    "hook": "The machine returned an answer that should not exist: a chance of something happening that was less than zero.",
+    "virality_score": 86,
+    "curiosity_gap_score": 94,
+    "darkness_score": 60,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "negative probability",
+      "quantum computer",
+      "impossible math",
+      "reality glitch",
+      "paranormal science"
+    ],
+    "overlap_check_hash": "6243fa52b4e8b855",
+    "why_this_can_go_viral": "People love when math breaks, and 'negative probability' sounds like a universe glitch—perfect for viewers who enjoy reality-bending concepts."
+  },
+  {
+    "unique_id": "science_0030_007_ec124d9be2c2906e",
+    "title": "The Chemist Who Made a Cloud That Never Dissipates",
+    "hook": "A single reaction created an artificial fog that hung over a town for three years.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 70,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "artificial fog",
+      "permanent cloud",
+      "chemical accident",
+      "industrial disaster",
+      "toxic mist"
+    ],
+    "overlap_check_hash": "ec124d9be2c2906e",
+    "why_this_can_go_viral": "The idea of a man-made weather event that won't go away feels like a sci-fi horror, tapping into fears about pollution and uncontainable chemistry."
+  },
+  {
+    "unique_id": "science_0030_008_da50c6376b110a75",
+    "title": "The Neuroscientist Who Made People See Faces in Static",
+    "hook": "By stimulating one specific spot in the brain, he turned noise into hallucinated faces—realer than reality.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 78,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "face hallucination",
+      "brain stimulation",
+      "pareidolia",
+      "synesthesia",
+      "mind control"
+    ],
+    "overlap_check_hash": "da50c6376b110a75",
+    "why_this_can_go_viral": "Makes viewers question their own perception—if a machine can make you see things, what else is your brain hiding?"
+  },
+  {
+    "unique_id": "science_0030_009_90f2558994145848",
+    "title": "The Physicist Who Found a Crystal That Heals Its Own Fractures",
+    "hook": "This material learns from damage and repairs itself—breaking the laws of entropy.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 45,
+    "educational_value": 88,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "self healing crystal",
+      "entropy reversal",
+      "smart materials",
+      "physics miracle",
+      "impossible solid"
+    ],
+    "overlap_check_hash": "90f2558994145848",
+    "why_this_can_go_viral": "Self-repairing materials feel like magic, and claiming it breaks entropy sounds like a physics scandal—curiosity bait for science lovers."
+  },
+  {
+    "unique_id": "science_0030_010_bfa1d8400afdb45e",
+    "title": "The Biologist Who Bred a Butterfly That Eats Human Sweat for Protein",
+    "hook": "It was supposed to be harmless—until it started landing on people and drinking from their skin.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "sweat eating butterfly",
+      "mutant insect",
+      "human feeder",
+      "genetic modification",
+      "creepy biology"
+    ],
+    "overlap_check_hash": "bfa1d8400afdb45e",
+    "why_this_can_go_viral": "A 'harmless' creature evolving to feed on humans—this is pure body horror that triggers disgust and fascination."
+  },
+  {
+    "unique_id": "science_0030_011_3f8159f63624aedd",
+    "title": "The Scientist Who Faked a Study Proving Humans Can Photosynthesize",
+    "hook": "He published a paper claiming we could live on sunlight alone—and people believed him for years.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 50,
+    "educational_value": 85,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "photosynthesis hoax",
+      "fake science",
+      "breatharian scam",
+      "academic fraud",
+      "sunlight diet"
+    ],
+    "overlap_check_hash": "3f8159f63624aedd",
+    "why_this_can_go_viral": "Exposure of a scientific lie that fooled thousands triggers outrage and schadenfreude, perfect for debunk-hungry audiences."
+  },
+  {
+    "unique_id": "science_0030_012_7b9b41233a5c05dd",
+    "title": "The Lab That Unleashed a Fungus That Grows on Human Vocal Cords",
+    "hook": "Victims could only whisper—the fungus ate away their ability to speak before spreading deeper.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 78,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "vocal cord fungus",
+      "silent plague",
+      "medical horror",
+      "fungal infection",
+      "lab leak"
+    ],
+    "overlap_check_hash": "7b9b41233a5c05dd",
+    "why_this_can_go_viral": "Loss of voice is primal fear, combined with a slow, creeping infection—this is nightmare fuel that demands sharing."
+  },
+  {
+    "unique_id": "science_0030_013_2d522edc53d8f521",
+    "title": "The Neuroscientist Who Found That You Can Hypnotize a Rat",
+    "hook": "Rats can be put into trance states, and what happens in their brain during hypnosis is deeply unsettling.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 65,
+    "educational_value": 82,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "rat hypnosis",
+      "animal trance",
+      "brain control",
+      "neuroscience animal",
+      "consciousness"
+    ],
+    "overlap_check_hash": "2d522edc53d8f521",
+    "why_this_can_go_viral": "The idea that hypnosis isn't unique to humans—and that it might be a primitive brain state—makes viewers rethink their own suggestibility."
+  },
+  {
+    "unique_id": "science_0030_014_51493de0aa455b14",
+    "title": "The Chemist Who Made a Solid That Burns Cold",
+    "hook": "It felt like ice to the touch, but when ignited, it produced flames with no heat—and no known extinguisher.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 72,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "cold fire",
+      "burning solid",
+      "impossible flame",
+      "chemistry anomaly",
+      "unstoppable reaction"
+    ],
+    "overlap_check_hash": "51493de0aa455b14",
+    "why_this_can_go_viral": "A flame that doesn't burn hot—or burns cold—is an oxymoron that demands an explanation, perfect for click-and-watch loops."
+  },
+  {
+    "unique_id": "science_0030_016_98757012d0157b4f",
+    "title": "The Soviet Experiment That Tried to Create Telepathic Soldiers",
+    "hook": "Using electromagnetic fields and psychoactive drugs, they attempted to link human minds wirelessly.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "telepathy",
+      "Soviet psychic project",
+      "mind control",
+      "EM brain",
+      "cold war science"
+    ],
+    "overlap_check_hash": "98757012d0157b4f",
+    "why_this_can_go_viral": "Mind control and secret military experiments are evergreen clickbait—add Soviet secrecy and it's gold for dark science fans."
+  },
+  {
+    "unique_id": "science_0030_017_0a0682d24f0f20ca",
+    "title": "The Biologist Who Bred a Plant That Digests Plastic",
+    "hook": "It was designed to clean landfills—then it started growing toward houses.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 77,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "plastic eating plant",
+      "mutant plant",
+      "bioengineering",
+      "invasive species",
+      "landfill horror"
+    ],
+    "overlap_check_hash": "0a0682d24f0f20ca",
+    "why_this_can_go_viral": "A plant that eats plastic sounds like a solution—until it becomes a predator of human habitats, triggering the 'what have we created' fear."
+  },
+  {
+    "unique_id": "science_0030_018_5d83dd24dc1bb7d4",
+    "title": "The Lab That Created a Sound That Makes You Feel Despair",
+    "hook": "A specific frequency triggered an overwhelming sense of doom in every listener—and no one knows why.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "despair frequency",
+      "sound horror",
+      "emotional weapon",
+      "infrasound",
+      "brain manipulation"
+    ],
+    "overlap_check_hash": "5d83dd24dc1bb7d4",
+    "why_this_can_go_viral": "Weaponized sound that bypasses logic and attacks emotion directly—this combines 'haunted technology' with real science."
+  },
+  {
+    "unique_id": "science_0030_019_a8bc9cd8fa77bdd1",
+    "title": "The Chemist Who Died From a Compound He Inhaled by Accident",
+    "hook": "One wrong sniff of a newly synthesized gas destroyed his lungs in seconds—he wrote the symptoms down before collapsing.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 94,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "deadly gas",
+      "chemist death",
+      "lab accident",
+      "toxic compound",
+      "fatal mistake"
+    ],
+    "overlap_check_hash": "a8bc9cd8fa77bdd1",
+    "why_this_can_go_viral": "The tragic, dramatic death of a scientist recording his own demise is deeply morbid and human curiosity about fatal errors is strong."
+  },
+  {
+    "unique_id": "science_0030_020_2a3bde5adc7e1aca",
+    "title": "The Physicist Who Created a Black Hole in a Test Tube",
+    "hook": "It wasn't a real black hole—but it behaved exactly like one, and it absorbed everything around it.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "test tube black hole",
+      "sonic black hole",
+      "analog gravity",
+      "lab black hole",
+      "physics simulation"
+    ],
+    "overlap_check_hash": "2a3bde5adc7e1aca",
+    "why_this_can_go_viral": "Fake black holes that mimic real ones blur the line between simulation and reality, making viewers wonder if we can accidentally create a real one."
+  },
+  {
+    "unique_id": "science_0030_021_9ba0273e8834f79c",
+    "title": "The Researcher Who Faked His Own Death to Hide a Fraud",
+    "hook": "He published a groundbreaking paper, then vanished—only to be found alive years later running a different lab.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fake death",
+      "scientific fraud",
+      "vanished scientist",
+      "academic scandal",
+      "research hoax"
+    ],
+    "overlap_check_hash": "9ba0273e8834f79c",
+    "why_this_can_go_viral": "Murder mystery meets scientific fraud—a scandal involving a missing scientist is ripe for conspiracy-style storytelling."
+  },
+  {
+    "unique_id": "science_0030_022_7d6f88c9d3559ba4",
+    "title": "The Lab That Accidentally Created a Disease That Targets One Ethnicity",
+    "hook": "A gene therapy experiment went wrong—and created a pathogen that only attacks people with a specific ancestry.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 98,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "ethnic bioweapon",
+      "gene targeted virus",
+      "lab accident",
+      "genetic discrimination",
+      "bioethics"
+    ],
+    "overlap_check_hash": "7d6f88c9d3559ba4",
+    "why_this_can_go_viral": "Genetically targeted diseases touch on deep fears of systemic bioweapons and racism—highly controversial, highly shareable."
+  },
+  {
+    "unique_id": "science_0030_025_2d4fe2306f0aa10f",
+    "title": "The Chemist Who Made a Polymer That Absorbs All Vibrations—Silencing Explosions",
+    "hook": "It was supposed to stop noise—until they realized it could also suppress the shockwave of a nuclear blast.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 60,
+    "educational_value": 82,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "silent explosion",
+      "vibration absorber",
+      "nuclear dampener",
+      "polymer miracle",
+      "military science"
+    ],
+    "overlap_check_hash": "2d4fe2306f0aa10f",
+    "why_this_can_go_viral": "A material that can silence explosions sounds like a superpower—and the military implications make it thrilling for conspiracy thinkers."
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0142_001_8af227181587fc37",
+    "title": "The Chemist Who Dissolved His Own Fingerprints — and Grew New Ones",
+    "hook": "He wanted to erase his identity, but his body had other plans.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 72,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "fingerprint",
+      "acid",
+      "identity",
+      "regeneration",
+      "chemistry"
+    ],
+    "overlap_check_hash": "8af227181587fc37",
+    "why_this_can_go_viral": "Combines body horror with a forbidden experiment vibe; viewers will be shocked by the outcome."
+  },
+  {
+    "unique_id": "science_0142_002_db3cc45cb4d5a942",
+    "title": "The Neuroscientist Who Implanted False Childhood Memories — and His Subjects Cried",
+    "hook": "He convinced grown adults they were once kidnapped — in one session.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "false memories",
+      "implantation",
+      "trauma",
+      "neuroscience",
+      "ethics"
+    ],
+    "overlap_check_hash": "db3cc45cb4d5a942",
+    "why_this_can_go_viral": "Taps into fear of manipulated reality and memory unreliability; emotionally intense."
+  },
+  {
+    "unique_id": "science_0142_003_a9f930ed2da43d33",
+    "title": "The Lab That Accidentally Created a Plastic-Eating Enzyme — Then Watched It Eat the Lab",
+    "hook": "It was supposed to save the planet. Instead, it started devouring everything.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "plastic-eating",
+      "enzyme",
+      "lab disaster",
+      "mutant",
+      "bioremediation"
+    ],
+    "overlap_check_hash": "a9f930ed2da43d33",
+    "why_this_can_go_viral": "Classic 'science gone wrong' story with a tangible environmental horror twist."
+  },
+  {
+    "unique_id": "science_0142_004_7f76a146d6d0d720",
+    "title": "The Physicist Who Became Trapped in His Own Wave Function Collapse",
+    "hook": "He thought he was observing quantum particles — until one observed him back.",
+    "virality_score": 76,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "wave function",
+      "observer",
+      "collapse",
+      "quantum",
+      "reality"
+    ],
+    "overlap_check_hash": "7f76a146d6d0d720",
+    "why_this_can_go_viral": "Blurs line between observer and observed; deeply philosophical and eerie."
+  },
+  {
+    "unique_id": "science_0142_005_dfa74e56a8a4b380",
+    "title": "The Scientific Fraud Who Faked a 'Non-Newtonian Blood' — and the Lab Lost Control",
+    "hook": "He claimed his blood could stop bullets. The demonstration killed three people.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "non-Newtonian",
+      "blood",
+      "fraud",
+      "death",
+      "demonstration"
+    ],
+    "overlap_check_hash": "dfa74e56a8a4b380",
+    "why_this_can_go_viral": "Combines blood, lies, and catastrophic failure — a viral triple threat."
+  },
+  {
+    "unique_id": "science_0142_006_eab6f66d279e0234",
+    "title": "The Forbidden Experiment Where a Scientist Injected Himself With Liquid Magnetism",
+    "hook": "He wanted to see if his blood could be controlled by a magnetic field. It worked too well.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "magnetism",
+      "injection",
+      "self-experiment",
+      "blood",
+      "body horror"
+    ],
+    "overlap_check_hash": "eab6f66d279e0234",
+    "why_this_can_go_viral": "Extreme self-experimentation with magnetic body horror; visceral and unforgettable."
+  },
+  {
+    "unique_id": "science_0142_007_c5031186ba0f6d6f",
+    "title": "The Biolab That Engineered a 'Cancer-Killing Virus' — Then It Started Killing Everything",
+    "hook": "The virus was supposed to be selective. It wasn't.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "cancer",
+      "virus",
+      "oncolytic",
+      "mutation",
+      "pandemic"
+    ],
+    "overlap_check_hash": "c5031186ba0f6d6f",
+    "why_this_can_go_viral": "Taps into fear of engineered pathogens and lab leaks; very timely."
+  },
+  {
+    "unique_id": "science_0142_008_32c6e731dabc7f37",
+    "title": "The Lab Catastrophe Where a Microwave Killed Every Cell Culture in the Building",
+    "hook": "One microwave oven. One wrong button. 15 years of research gone in 3 minutes.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 76,
+    "educational_value": 68,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "microwave",
+      "cell culture",
+      "disaster",
+      "sterilization",
+      "research loss"
+    ],
+    "overlap_check_hash": "32c6e731dabc7f37",
+    "why_this_can_go_viral": "Relatable lab horror and 'one stupid mistake destroys everything' narrative."
+  },
+  {
+    "unique_id": "science_0142_009_8ab43b43a1946991",
+    "title": "The Chemist Who Made a Liquid That Dissolves Human Tissue Instantly",
+    "hook": "He called it 'the perfect disposal agent.' Then he tested it on himself.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "tissue",
+      "dissolve",
+      "acid",
+      "self-test",
+      "horror"
+    ],
+    "overlap_check_hash": "8ab43b43a1946991",
+    "why_this_can_go_viral": "Shock value is extreme; dark curiosity drives clicks."
+  },
+  {
+    "unique_id": "science_0142_010_4348fa3388101ce3",
+    "title": "The Neuroscientist Who Found a Way to Turn Off Guilt in the Human Brain",
+    "hook": "He made a psychopath on demand — and couldn't reverse it.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 89,
+    "educational_value": 78,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "guilt",
+      "psychopath",
+      "brain",
+      "moral",
+      "switch"
+    ],
+    "overlap_check_hash": "4348fa3388101ce3",
+    "why_this_can_go_viral": "Extremely provocative ethical dilemma; viewers will argue in comments."
+  },
+  {
+    "unique_id": "science_0142_011_ae147773820fa307",
+    "title": "The Quantum Physicist Who Split a Photon in Two — and Watched It Exist in Two Places",
+    "hook": "The photon was in the detector and the computer at the same time. Then the computer crashed.",
+    "virality_score": 74,
+    "curiosity_gap_score": 85,
+    "darkness_score": 60,
+    "educational_value": 82,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "photon",
+      "split",
+      "superposition",
+      "quantum",
+      "paradox"
+    ],
+    "overlap_check_hash": "ae147773820fa307",
+    "why_this_can_go_viral": "Mind-bending physics with a 'glitch in reality' feel."
+  },
+  {
+    "unique_id": "science_0142_012_de7ddb2571b5abe7",
+    "title": "The Scientific Fraud Who Faked a 'Gravity Shield' — and the Lab Imploded",
+    "hook": "He said his device could cancel gravity. The test canceled the lab instead.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 79,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "gravity",
+      "shield",
+      "fraud",
+      "implosion",
+      "hoax"
+    ],
+    "overlap_check_hash": "de7ddb2571b5abe7",
+    "why_this_can_go_viral": "High-concept fraud with spectacular failure; visual and dramatic."
+  },
+  {
+    "unique_id": "science_0142_014_2a761ab4df6f05b1",
+    "title": "The Biolab That Grew a Human Ear on a Mouse — and It Started Hearing",
+    "hook": "The ear developed its own nerve connections. The mouse began reacting to sounds.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "ear",
+      "mouse",
+      "bioengineering",
+      "hearing",
+      "chimeric"
+    ],
+    "overlap_check_hash": "2a761ab4df6f05b1",
+    "why_this_can_go_viral": "Visually bizarre and ethically murky; bioengineering shock value."
+  },
+  {
+    "unique_id": "science_0142_015_49253031d2c31e9c",
+    "title": "The Lab Catastrophe Where a Particle Accelerator Shot a Beam Through a Wall",
+    "hook": "No one knew where the beam went. It punched through concrete like paper.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "particle accelerator",
+      "beam",
+      "hole",
+      "disaster",
+      "radiation"
+    ],
+    "overlap_check_hash": "49253031d2c31e9c",
+    "why_this_can_go_viral": "Dramatic imagery and 'what could have happened' speculation."
+  },
+  {
+    "unique_id": "science_0142_017_14dcf728bf5735ac",
+    "title": "The Neuroscientist Who Made a Brain That Could Never Forget a Single Thing",
+    "hook": "It remembered everything. Then it went mad from the weight of memory.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 74,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory",
+      "perfect",
+      "forget",
+      "madness",
+      "brain"
+    ],
+    "overlap_check_hash": "14dcf728bf5735ac",
+    "why_this_can_go_viral": "Poetic and tragic; explores the curse of perfect memory."
+  },
+  {
+    "unique_id": "science_0142_018_54ab4713acd753f6",
+    "title": "The Physicist Who Discovered That Time Can Leak Between Dimensions",
+    "hook": "He found a place where clocks tick backward. Then he went in.",
+    "virality_score": 82,
+    "curiosity_gap_score": 93,
+    "darkness_score": 74,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time",
+      "dimension",
+      "leak",
+      "backward",
+      "clock"
+    ],
+    "overlap_check_hash": "54ab4713acd753f6",
+    "why_this_can_go_viral": "Sci-fi sounding but 'real' science; inspires deep curiosity and speculation."
+  },
+  {
+    "unique_id": "science_0142_020_bfa542f9535ea5d0",
+    "title": "The Lab That Created a Synthetic 'Super Neuron' — and It Started Firing Without Input",
+    "hook": "It generated its own thoughts. No one knows what it was thinking.",
+    "virality_score": 80,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "neuron",
+      "synthetic",
+      "spontaneous",
+      "consciousness",
+      "mind"
+    ],
+    "overlap_check_hash": "bfa542f9535ea5d0",
+    "why_this_can_go_viral": "Blurs line between machine and mind; raises AI consciousness debate."
+  },
+  {
+    "unique_id": "science_0142_021_7e53f10dbdf7ad43",
+    "title": "The Biolab That Accidentally Made a Fungus That Eats Plastic — and Spreads in the Dark",
+    "hook": "It loves the dark. It's in the walls now.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 84,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fungus",
+      "plastic",
+      "dark",
+      "spread",
+      "infestation"
+    ],
+    "overlap_check_hash": "7e53f10dbdf7ad43",
+    "why_this_can_go_viral": "Horror-movie setup with real science; 'it's in your walls' fear."
+  },
+  {
+    "unique_id": "science_0142_022_9eda1df53f0ba8c5",
+    "title": "The Physicist Who Nearly Broke the Speed of Sound With a Whip — and Created a Plasma",
+    "hook": "The crack was so hot it created a miniature star for a microsecond.",
+    "virality_score": 72,
+    "curiosity_gap_score": 80,
+    "darkness_score": 55,
+    "educational_value": 80,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "whip",
+      "speed of sound",
+      "plasma",
+      "shock wave",
+      "heat"
+    ],
+    "overlap_check_hash": "9eda1df53f0ba8c5",
+    "why_this_can_go_viral": "Simple but stunning demonstration of extreme physics in everyday objects."
+  },
+  {
+    "unique_id": "science_0142_023_726b16edcb693f3f",
+    "title": "The Lab Catastrophe Where a Freeze-Dryer Turned Cells Into Explosive Dust",
+    "hook": "The dust was so dry it detonated from a single static spark.",
+    "virality_score": 77,
+    "curiosity_gap_score": 82,
+    "darkness_score": 73,
+    "educational_value": 66,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "freeze-dryer",
+      "dust",
+      "explosion",
+      "static",
+      "desiccation"
+    ],
+    "overlap_check_hash": "726b16edcb693f3f",
+    "why_this_can_go_viral": "Unexpected explosion from harmless equipment; shock and awe."
+  },
+  {
+    "unique_id": "science_0142_025_410b4035edc208e8",
+    "title": "The Neuroscientist Who Discovered That Your Brain Can 'Reset' After 3 Days Without Sleep",
+    "hook": "On day 3, his hallucinations stopped. His brain had rewired itself to survive.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 76,
+    "educational_value": 82,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "sleep",
+      "reset",
+      "hallucination",
+      "rewire",
+      "survival"
+    ],
+    "overlap_check_hash": "410b4035edc208e8",
+    "why_this_can_go_viral": "Extreme human limit story; viewers will wonder about their own resilience."
+  }
+]

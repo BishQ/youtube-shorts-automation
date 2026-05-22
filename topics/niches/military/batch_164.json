@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "military_0164_001_ab769cafffdf8bf4",
+    "title": "The Covert Mission Where Operatives Injected Themselves with a Paralytic to Feign Death",
+    "hook": "A team of soldiers voluntarily paralyzed themselves to be loaded onto enemy trucks as corpses, then woke up inside a military compound.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "military",
+    "subcategory": "covert missions",
+    "keywords": [
+      "paralytic",
+      "feign death",
+      "covert insertion",
+      "suicide mission",
+      "enemy compound"
+    ],
+    "overlap_check_hash": "ab769cafffdf8bf4",
+    "why_this_can_go_viral": "The body horror and psychological terror of willingly paralyzing yourself plays on primal fear and extreme sacrifice for mission success."
+  },
+  {
+    "unique_id": "military_0164_002_edcf097509fa2064",
+    "title": "The Black Budget Lab That Raised Soldiers From the Dead Using Electric Shock",
+    "hook": "They took freshly killed soldiers, pumped blood substitutes into their veins, and jolted their hearts with electricity to bring them back for one final debrief.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 97,
+    "educational_value": 40,
+    "estimated_short_retention": 95,
+    "niche_name": "military",
+    "subcategory": "black budget programs",
+    "keywords": [
+      "resurrection",
+      "electric shock",
+      "black budget",
+      "experiment",
+      "undead soldiers"
+    ],
+    "overlap_check_hash": "edcf097509fa2064",
+    "why_this_can_go_viral": "The concept of military necromancy is deeply unsettling and taps into forbidden science, Frankenstein mythology, and government secrecy."
+  },
+  {
+    "unique_id": "military_0164_004_1dc757e987d1645f",
+    "title": "The Classified Operation Where a Submarine Was Swallowed by a Giant Squid",
+    "hook": "Sonar showed an enormous mass wrapping around a nuclear sub, crushing the hull until it imploded—none of the crew survived.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 82,
+    "educational_value": 45,
+    "estimated_short_retention": 92,
+    "niche_name": "military",
+    "subcategory": "classified operations",
+    "keywords": [
+      "giant squid",
+      "submarine attack",
+      "deep sea monster",
+      "classified incident",
+      "navy cover-up"
+    ],
+    "overlap_check_hash": "1dc757e987d1645f",
+    "why_this_can_go_viral": "Megalophobia and cryptozoology meet military secrecy—viewers love hidden encounters with unknown deep-sea creatures."
+  },
+  {
+    "unique_id": "military_0164_005_84d70c3eda71b32c",
+    "title": "The Psychological Op That Broadcasted a Soldier's Own Voice Begging for Mercy",
+    "hook": "The enemy recorded a captured soldier's screams, then played them back through loudspeakers to make his unit believe he had betrayed them.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 89,
+    "educational_value": 50,
+    "estimated_short_retention": 87,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "voice manipulation",
+      "psychological warfare",
+      "betrayal",
+      "captured soldier",
+      "loudspeaker"
+    ],
+    "overlap_check_hash": "84d70c3eda71b32c",
+    "why_this_can_go_viral": "Identity betrayal and auditory manipulation trigger deep emotional distress, making viewers imagine themselves in that situation."
+  },
+  {
+    "unique_id": "military_0164_008_12955845dfa42c53",
+    "title": "The Military Deception That Dropped Fake Bodies From Planes to Fool Satellite Recon",
+    "hook": "They stitched together rags, straw, and pig skin into thousands of dummy corpses, then parachuted them into battle zones to waste enemy ammunition.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 72,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "military",
+    "subcategory": "military deceptions",
+    "keywords": [
+      "fake bodies",
+      "satellite deception",
+      "dummy parachutes",
+      "ammunition waste",
+      "tactical trickery"
+    ],
+    "overlap_check_hash": "12955845dfa42c53",
+    "why_this_can_go_viral": "The absurdity and macabre creativity of using fake corpses as a decoy triggers disbelief and curiosity."
+  },
+  {
+    "unique_id": "military_0164_009_6de9b414c9f2ba16",
+    "title": "The Classified Operation Where a Soldier Was Dropped Into a Live Volcano to Plant a Listening Device",
+    "hook": "He wore a heat-resistant suit and rappelled directly into the magma chamber to install a sensor that would intercept enemy communications through seismic waves.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 89,
+    "niche_name": "military",
+    "subcategory": "classified operations",
+    "keywords": [
+      "volcano",
+      "listening device",
+      "heat suit",
+      "seismic espionage",
+      "extreme insertion"
+    ],
+    "overlap_check_hash": "6de9b414c9f2ba16",
+    "why_this_can_go_viral": "The imagery of a human descending into a volcano is inherently cinematic and taps into extreme survival and espionage fantasies."
+  },
+  {
+    "unique_id": "military_0164_011_0ae3b4511a1dfe0b",
+    "title": "The Psychological Op That Faked a Nuclear Meltdown to Make an Army Evacuate",
+    "hook": "They detonated a small dirty bomb in an empty field, leaked radiation readings, and broadcasted a fake evacuation order—the entire enemy division fled into a kill zone.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 55,
+    "estimated_short_retention": 88,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "fake meltdown",
+      "radiation hoax",
+      "dirty bomb",
+      "evacuation trap",
+      "psychological warfare"
+    ],
+    "overlap_check_hash": "0ae3b4511a1dfe0b",
+    "why_this_can_go_viral": "Nuclear fear is universal—using it as a weapon of deception is both clever and terrifying."
+  },
+  {
+    "unique_id": "military_0164_013_c41c792483e788de",
+    "title": "The Covert Mission Where Operatives Hid Inside a Dead Whale to Infiltrate a Harbor",
+    "hook": "They hollowed out a rotting whale carcass, climbed inside, and drifted past enemy patrols for two days before emerging at the docks at night.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 84,
+    "educational_value": 50,
+    "estimated_short_retention": 92,
+    "niche_name": "military",
+    "subcategory": "covert missions",
+    "keywords": [
+      "whale carcass",
+      "infiltration",
+      "harbor",
+      "disguise",
+      "rotting animal"
+    ],
+    "overlap_check_hash": "c41c792483e788de",
+    "why_this_can_go_viral": "The sheer disgust and audacity of hiding inside a dead animal is unforgettable and will trigger immediate shares."
+  },
+  {
+    "unique_id": "military_0164_014_2239455716d23d29",
+    "title": "The War Crime Hidden Where an Officer Gave Orders to Bomb Hospitals for Insurance Fraud",
+    "hook": "A commander deliberately bombed his own field hospitals, then filed claims with the government for 'enemy destruction' to pocket the insurance money.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 55,
+    "estimated_short_retention": 94,
+    "niche_name": "military",
+    "subcategory": "war crimes hidden",
+    "keywords": [
+      "hospital bombing",
+      "insurance fraud",
+      "war crime",
+      "commander corruption",
+      "own troops"
+    ],
+    "overlap_check_hash": "2239455716d23d29",
+    "why_this_can_go_viral": "Betrayal from within, combined with greed and loss of innocent lives, provokes outrage and intense engagement."
+  },
+  {
+    "unique_id": "military_0164_017_b6c17f7973e02165",
+    "title": "The Classified Operation Where a Spy Plane Was Built Inside a Mountain",
+    "hook": "Engineers carved out an entire hangar inside a granite peak, assembled a supersonic surveillance aircraft in secret, then flew it out through a hidden blast door.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 65,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "military",
+    "subcategory": "classified operations",
+    "keywords": [
+      "mountain hangar",
+      "secret aircraft",
+      "hidden base",
+      "supersonic spy plane",
+      "engineering marvel"
+    ],
+    "overlap_check_hash": "b6c17f7973e02165",
+    "why_this_can_go_viral": "The scale and secrecy of building a plane inside a mountain appeals to engineering awe and conspiracy theories."
+  },
+  {
+    "unique_id": "military_0164_018_9a0049ad969fdf98",
+    "title": "The Black Budget Lab That Built a Helmet That Lets You Hear Through Walls From a Mile Away",
+    "hook": "A parabolic acoustic amplifier worn like a helmet can pick up a whisper through three concrete walls at 1.5 kilometers—tested in live urban combat zones.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "military",
+    "subcategory": "black budget programs",
+    "keywords": [
+      "acoustic helmet",
+      "hear through walls",
+      "super hearing",
+      "surveillance tech",
+      "urban combat"
+    ],
+    "overlap_check_hash": "9a0049ad969fdf98",
+    "why_this_can_go_viral": "The idea of total auditory surveillance triggers privacy paranoia and military tech fascination."
+  },
+  {
+    "unique_id": "military_0164_019_12ec2297936946f7",
+    "title": "The Psychological Op That Used a Dead Soldier's Skin to Make a Mask for Espionage",
+    "hook": "Operatives peeled the face off a corpse, stretched it over a living agent's skull, and walked past retinal scanners and facial recognition into a high-security bunker.",
+    "virality_score": 97,
+    "curiosity_gap_score": 99,
+    "darkness_score": 100,
+    "educational_value": 40,
+    "estimated_short_retention": 98,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "face mask",
+      "human skin",
+      "espionage",
+      "retinal scan bypass",
+      "bunker infiltration"
+    ],
+    "overlap_check_hash": "12ec2297936946f7",
+    "why_this_can_go_viral": "Body horror, identity theft, and extreme espionage combine for maximum shock value and shareability."
+  },
+  {
+    "unique_id": "military_0164_020_58b7e92eae34c177",
+    "title": "The Soldier Experiment Where Troops Were Hooked to Machines That Simulated Drowning for Hours",
+    "hook": "Water was slowly poured into a sealed chamber while sensors measured panic—soldiers reported seeing hallucinations of their own funerals.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 55,
+    "estimated_short_retention": 91,
+    "niche_name": "military",
+    "subcategory": "soldier experiments",
+    "keywords": [
+      "drowning simulation",
+      "hallucination",
+      "psychological torture",
+      "human limits",
+      "military experiment"
+    ],
+    "overlap_check_hash": "58b7e92eae34c177",
+    "why_this_can_go_viral": "Drowning is a primal fear—simulating it repeatedly for data collection feels sadistic and unforgettable."
+  },
+  {
+    "unique_id": "military_0164_021_d744c7aca9692cf1",
+    "title": "The Covert Mission Where Operatives Sailed a Submarine Into a Flooded Cave System",
+    "hook": "They navigated a nuclear submarine through narrow underwater tunnels for 12 hours, scraping against rock, to surface undetected inside a hidden enemy harbor.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "military",
+    "subcategory": "covert missions",
+    "keywords": [
+      "submarine cave",
+      "underwater tunnel",
+      "hidden harbor",
+      "claustrophobia",
+      "navy infiltration"
+    ],
+    "overlap_check_hash": "d744c7aca9692cf1",
+    "why_this_can_go_viral": "Claustrophobic underwater navigation triggers fear of tight spaces and showcases extreme naval audacity."
+  },
+  {
+    "unique_id": "military_0164_022_1b1013b4610edb9e",
+    "title": "The War Crime Hidden Where an Army Used Glow-in-the-Dark Paint to Mark Civilians for Execution",
+    "hook": "Troops painted the doors of homes with invisible phosphorescent ink, visible only under night vision, so death squads could find targets in the dark.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 60,
+    "estimated_short_retention": 93,
+    "niche_name": "military",
+    "subcategory": "war crimes hidden",
+    "keywords": [
+      "phosphorescent paint",
+      "night vision",
+      "death squads",
+      "civilian targeting",
+      "marking system"
+    ],
+    "overlap_check_hash": "1b1013b4610edb9e",
+    "why_this_can_go_viral": "The cold, systematic method of marking innocents for murder evokes horror and moral outrage."
+  },
+  {
+    "unique_id": "military_0164_023_2e5203686123b1b5",
+    "title": "The Secret Weapons Program That Built a Bullet That Curves Around Cover",
+    "hook": "A tiny guidance system inside the bullet adjusts fins mid-flight to make a 90-degree turn around a wall—tested on moving targets.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 76,
+    "educational_value": 68,
+    "estimated_short_retention": 87,
+    "niche_name": "military",
+    "subcategory": "secret weapons programs",
+    "keywords": [
+      "curving bullet",
+      "guided munition",
+      "around cover",
+      "fins",
+      "precision kill"
+    ],
+    "overlap_check_hash": "2e5203686123b1b5",
+    "why_this_can_go_viral": "The 'magic bullet' concept from sci-fi is now real—viewers will share the impossibility of hiding from it."
+  },
+  {
+    "unique_id": "military_0164_024_e41317adb842603d",
+    "title": "The Black Budget Lab That Built a Satellite That Can Turn Off Every Electronic Device in a City",
+    "hook": "A single satellite emits a directed EMP pulse that shuts down all electronics across a 50-mile radius—no phones, no cars, no hospitals.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 91,
+    "niche_name": "military",
+    "subcategory": "black budget programs",
+    "keywords": [
+      "EMP satellite",
+      "electronic shutdown",
+      "city blackout",
+      "directed energy",
+      "grid collapse"
+    ],
+    "overlap_check_hash": "e41317adb842603d",
+    "why_this_can_go_viral": "The helplessness of a total technological blackout terrifies modern audiences and sparks doomsday discussions."
+  }
+]

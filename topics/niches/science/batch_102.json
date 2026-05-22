@@ -1,0 +1,275 @@
+[
+  {
+    "unique_id": "science_0102_001_36b664ae80dd5bbc",
+    "title": "The Chemist Who Accidentally Synthesized a Self-Replicating Molecule",
+    "hook": "A lab mistake created a molecule that could copy itself—and it started evolving.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "self-replicating",
+      "molecule",
+      "accident",
+      "evolution",
+      "chemistry"
+    ],
+    "overlap_check_hash": "36b664ae80dd5bbc",
+    "why_this_can_go_viral": "The idea of accidental artificial life is terrifying and fascinating, triggering deep existential curiosity."
+  },
+  {
+    "unique_id": "science_0102_003_2934f3b94402f617",
+    "title": "The Biolab That Bred a Bacteria That Eats Plastic—Then Escaped",
+    "hook": "Scientists engineered a microbe to digest plastic waste, but it mutated and started eating living tissue.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "plastic",
+      "bacteria",
+      "escape",
+      "mutation",
+      "biolab"
+    ],
+    "overlap_check_hash": "2934f3b94402f617",
+    "why_this_can_go_viral": "Bio-engineering gone wrong taps into fears of uncontrollable lab creations and environmental disaster."
+  },
+  {
+    "unique_id": "science_0102_005_79b600d6c74f4cfc",
+    "title": "The Physics Anomaly Where a Diamond Spontaneously Turned to Graphite",
+    "hook": "A perfect diamond in a lab suddenly transformed into pencil lead—for no known reason.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "diamond",
+      "graphite",
+      "transformation",
+      "anomaly",
+      "physics"
+    ],
+    "overlap_check_hash": "79b600d6c74f4cfc",
+    "why_this_can_go_viral": "A precious material inexplicably degrading feels like a glitch in reality, provoking wonder and unease."
+  },
+  {
+    "unique_id": "science_0102_006_3e5ea8d2967de714",
+    "title": "The Scientific Fraud Who Faked Earthquake Predictions—and Panicked a City",
+    "hook": "A geologist fabricated data, triggering a mass evacuation that cost millions—and no quake ever came.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fraud",
+      "earthquake",
+      "prediction",
+      "panic",
+      "data"
+    ],
+    "overlap_check_hash": "3e5ea8d2967de714",
+    "why_this_can_go_viral": "Fraud with real-world consequences resonates with distrust in authority and fear of manipulation."
+  },
+  {
+    "unique_id": "science_0102_007_144a3f9c4a239d78",
+    "title": "The Lab Catastrophe Where a Bioreactor Burst Open a Fungal Spore Cloud",
+    "hook": "A containment failure released a spore that colonized the lungs of everyone in the building within hours.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 78,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "bioreactor",
+      "fungus",
+      "spore",
+      "contamination",
+      "catastrophe"
+    ],
+    "overlap_check_hash": "144a3f9c4a239d78",
+    "why_this_can_go_viral": "Body-horror and invisible threats make this a visceral, shareable story about lab safety failures."
+  },
+  {
+    "unique_id": "science_0102_009_9beed798d96f7b16",
+    "title": "The Forbidden Experiment That Kept a Human in a Nitrogen Atmosphere",
+    "hook": "A volunteer breathed pure nitrogen for days—until their body started producing gas bubbles in their blood.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 76,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "nitrogen",
+      "atmosphere",
+      "human",
+      "experiment",
+      "bubbles"
+    ],
+    "overlap_check_hash": "9beed798d96f7b16",
+    "why_this_can_go_viral": "Extreme physiological experiments on humans evoke horror and morbid curiosity about bodily limits."
+  },
+  {
+    "unique_id": "science_0102_010_fc8bd238a3ce4fc9",
+    "title": "The Biolab That Bred a Virus That Makes Hosts Immune to Pain",
+    "hook": "A genetically modified virus removed all pain responses—then hosts died from unnoticed internal injuries.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 77,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "pain",
+      "virus",
+      "genetic",
+      "modification",
+      "host"
+    ],
+    "overlap_check_hash": "fc8bd238a3ce4fc9",
+    "why_this_can_go_viral": "Pain is a critical warning system—removing it leads to silent self-destruction, a terrifying biological twist."
+  },
+  {
+    "unique_id": "science_0102_014_0da8292a3024eae2",
+    "title": "The Scientific Fraud Who Faked a Miracle Metal That Never Rusted",
+    "hook": "An inventor claimed to have created a rust-proof alloy—until it disintegrated during a public demonstration.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 76,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fraud",
+      "metal",
+      "rust",
+      "inventor",
+      "demonstration"
+    ],
+    "overlap_check_hash": "0da8292a3024eae2",
+    "why_this_can_go_viral": "Exposing a grandiose scientific lie satisfies the love of unmasking deception and hidden failures."
+  },
+  {
+    "unique_id": "science_0102_018_2bceb99398fff5b4",
+    "title": "The Biolab That Bred a Parasite That Hijacks the Brain's Fear Center",
+    "hook": "A microscopic worm burrowed into a rat's amygdala—and made it fearless of cats, even walking into their mouths.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "parasite",
+      "brain",
+      "fear",
+      "amygdala",
+      "hijack"
+    ],
+    "overlap_check_hash": "2bceb99398fff5b4",
+    "why_this_can_go_viral": "Parasites manipulating behavior are inherently creepy and the 'host walks into predator' image is unforgettable."
+  },
+  {
+    "unique_id": "science_0102_021_b4b6f18119b6181e",
+    "title": "The Physics Anomaly Where a Magnetic Field Made Water Levitate—Then Boil",
+    "hook": "A powerful magnet caused a droplet to float, then heat up to boiling without any external heat source.",
+    "virality_score": 76,
+    "curiosity_gap_score": 83,
+    "darkness_score": 60,
+    "educational_value": 80,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "magnetic",
+      "levitation",
+      "water",
+      "boil",
+      "physics"
+    ],
+    "overlap_check_hash": "b4b6f18119b6181e",
+    "why_this_can_go_viral": "Levitation and spontaneous boiling defy everyday experience, creating a stunning visual hook."
+  },
+  {
+    "unique_id": "science_0102_022_bfe713768605d382",
+    "title": "The Scientific Fraud Who Hoodwinked the Nobel Committee Twice",
+    "hook": "A researcher falsified data for two different discoveries, getting nominated for the Nobel—before being exposed.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "Nobel",
+      "fraud",
+      "data",
+      "falsified",
+      "exposed"
+    ],
+    "overlap_check_hash": "bfe713768605d382",
+    "why_this_can_go_viral": "Exposing a serial academic fraudster appeals to schadenfreude and the unmasking of elite corruption."
+  },
+  {
+    "unique_id": "science_0102_023_a731c1760563e014",
+    "title": "The Lab Catastrophe Where a Microwave Oven Started a Chain Reaction",
+    "hook": "A lab microwave melted a sample—which released gas, ignited, and triggered an explosion that blew out walls.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "microwave",
+      "chain reaction",
+      "explosion",
+      "lab",
+      "gas"
+    ],
+    "overlap_check_hash": "a731c1760563e014",
+    "why_this_can_go_viral": "A mundane appliance causing a catastrophic chain reaction is relatable yet shocking, perfect for viral spread."
+  },
+  {
+    "unique_id": "science_0102_025_52a3d52423520ff2",
+    "title": "The Forbidden Experiment That Implanted a Radio in a Human Skull",
+    "hook": "A surgeon placed a tiny radio receiver inside a patient's head—and broadcast voices directly into their brain.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 71,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "implant",
+      "radio",
+      "skull",
+      "voices",
+      "experiment"
+    ],
+    "overlap_check_hash": "52a3d52423520ff2",
+    "why_this_can_go_viral": "Implants that hijack perception blur the line between science and horror, triggering primal fear of control."
+  }
+]

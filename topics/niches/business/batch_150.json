@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "business_0150_001_4d3eaefb0cb00ee2",
+    "title": "The Trader Who Used Ambulance Radio to Front-Run Hospital Stocks",
+    "hook": "He listened to emergency dispatch to know which hospitals would need supplies—and bought their stock seconds before the rest of the market knew.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "insider trading",
+      "ambulance",
+      "hospital stocks",
+      "radio hacking",
+      "front-running"
+    ],
+    "overlap_check_hash": "4d3eaefb0cb00ee2",
+    "why_this_can_go_viral": "Combines life-or-death drama with financial crime; the idea of using emergency services as a trading signal is shocking and highly shareable."
+  },
+  {
+    "unique_id": "business_0150_002_e6f5b0983182c943",
+    "title": "The CEO Who Sold Black Lung Protection—Then Caused the Black Lung",
+    "hook": "His 'safety equipment' was just ground-up asbestos in a filter, and it made miners sicker than the mines ever did.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 70,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "mining",
+      "black lung",
+      "asbestos",
+      "safety scam",
+      "industrial disease"
+    ],
+    "overlap_check_hash": "e6f5b0983182c943",
+    "why_this_can_go_viral": "Visceral horror of betrayed trust; workers paying with their lives for a CEO's profit—a classic dark injustice story."
+  },
+  {
+    "unique_id": "business_0150_003_3b35caafb4e6f4bf",
+    "title": "The Startup That Sold 'AI CEOs'—They Were Prisoners Forced to Work",
+    "hook": "Investors thought they were funding a fully automated company, but every decision was made by inmates in a secret call center.",
+    "virality_score": 94,
+    "curiosity_gap_score": 98,
+    "darkness_score": 99,
+    "educational_value": 55,
+    "estimated_short_retention": 95,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "AI scam",
+      "prison labor",
+      "fake automation",
+      "startup fraud",
+      "human trafficking"
+    ],
+    "overlap_check_hash": "3b35caafb4e6f4bf",
+    "why_this_can_go_viral": "The ultimate 'AI is a lie' revelation; combines tech hype, exploitation, and criminal deception in one headline."
+  },
+  {
+    "unique_id": "business_0150_005_6f2d44638cd1313c",
+    "title": "The Corporate Spy Who Posed as a Pallbearer—Then Stole Funeral Contracts",
+    "hook": "He attended rival funeral directors' services, took photos of the deceased, and poached every family before they left the cemetery.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 50,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "funeral industry",
+      "spy",
+      "customer poaching",
+      "death",
+      "corporate espionage"
+    ],
+    "overlap_check_hash": "6f2d44638cd1313c",
+    "why_this_can_go_viral": "The ultimate 'no respect for the dead' angle; deeply morbid and shocking, guaranteed to stop the scroll."
+  },
+  {
+    "unique_id": "business_0150_006_357233eaaff2a27f",
+    "title": "The Dark Marketing Firm That Used Pigeon Behavior to Sell Subprime Mortgages",
+    "hook": "They noticed pigeons avoid certain sidewalks—then mapped those routes to 'risky neighborhoods' and targeted them with predatory loans.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 55,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "pigeons",
+      "subprime",
+      "predatory lending",
+      "behavioral tracking",
+      "redlining"
+    ],
+    "overlap_check_hash": "357233eaaff2a27f",
+    "why_this_can_go_viral": "Bizarre animal-behavior premise plus a devastating real-world consequence; viewers love 'how they knew' stories."
+  },
+  {
+    "unique_id": "business_0150_008_0cda6a0d666dda11",
+    "title": "The Industry Cover-Up of 'Anti-Aging' Cream—It Was Liquid Cortisone That Thinned Skin",
+    "hook": "Women bought it for younger skin, but it actually dissolved collagen—and the company marketed the damage as 'renewal.'",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "anti-aging",
+      "cortisone",
+      "skin damage",
+      "beauty scam",
+      "cover-up"
+    ],
+    "overlap_check_hash": "0cda6a0d666dda11",
+    "why_this_can_go_viral": "Beauty industry lies are a massive evergreen topic; the twist 'the cure was poison' triggers outrage and fear."
+  },
+  {
+    "unique_id": "business_0150_009_1df82a0a23ad5e4a",
+    "title": "The CEO Who Hosted a Charity Gala—Then Auctioned the Donor List to Rivals",
+    "hook": "He sold the names, wealth estimates, and emotional triggers of every philanthropist to his competitors for $2 million.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 84,
+    "educational_value": 50,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "charity",
+      "donor list",
+      "data sale",
+      "philanthropy",
+      "betrayal"
+    ],
+    "overlap_check_hash": "1df82a0a23ad5e4a",
+    "why_this_can_go_viral": "Mixes virtue and betrayal; audiences love seeing 'good' people exploited in ways they didn't expect."
+  },
+  {
+    "unique_id": "business_0150_010_dc1aa13d6e4119e2",
+    "title": "The Market Manipulator Who Used Ship Horns to Time Commodity Trades",
+    "hook": "When a ship entering port honked three times, he knew a cargo was damaged—and shorted the supplier before anyone else.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 72,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "commodities",
+      "ship horns",
+      "acoustic signals",
+      "commodity trading",
+      "insider info"
+    ],
+    "overlap_check_hash": "dc1aa13d6e4119e2",
+    "why_this_can_go_viral": "Unique, almost cinematic method; viewers love 'how he did it' stories that feel like heist movies."
+  },
+  {
+    "unique_id": "business_0150_011_83f8f86c63882f2f",
+    "title": "The Startup That Sold 'Smart' Water Bottles—They Were Just E-Waste Recycled as New",
+    "hook": "Investors poured $50 million into a 'hydration tech' company that was literally melting down old laptops to make the caps.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 74,
+    "educational_value": 65,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "smart bottle",
+      "e-waste",
+      "recycling scam",
+      "tech bubble",
+      "greenwashing"
+    ],
+    "overlap_check_hash": "83f8f86c63882f2f",
+    "why_this_can_go_viral": "Greenwashing exposed in its most absurd form; the disconnect between 'smart tech' and 'e-waste' is funny and enraging."
+  },
+  {
+    "unique_id": "business_0150_012_c37503016eb16a4e",
+    "title": "The Monopoly That Bought Every Toll Road—Then Made Traffic Jams Profitable",
+    "hook": "They intentionally kept lanes closed to force drivers into express lanes—and paid politicians to call it 'congestion management.'",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 91,
+    "educational_value": 75,
+    "estimated_short_retention": 92,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "toll roads",
+      "traffic manipulation",
+      "monopoly",
+      "infrastructure",
+      "price gouging"
+    ],
+    "overlap_check_hash": "c37503016eb16a4e",
+    "why_this_can_go_viral": "Every driver hates traffic; revealing it's intentional creates instant, visceral fury and massive shareability."
+  },
+  {
+    "unique_id": "business_0150_013_6ddbfa6561e2b960",
+    "title": "The Corporate Spy Who Posed as a Pottery Teacher—Then Stole Kiln Temperature Patents",
+    "hook": "She spent six months teaching rival employees to throw pots, all while memorizing the exact firing specs of their new ceramic alloy.",
+    "virality_score": 77,
+    "curiosity_gap_score": 83,
+    "darkness_score": 72,
+    "educational_value": 55,
+    "estimated_short_retention": 76,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "pottery",
+      "patent theft",
+      "industrial espionage",
+      "ceramics",
+      "undercover"
+    ],
+    "overlap_check_hash": "6ddbfa6561e2b960",
+    "why_this_can_go_viral": "The 'cozy hobby as spy cover' angle is disarming and memorable; viewers love crafty deception."
+  },
+  {
+    "unique_id": "business_0150_015_3007088e939501f4",
+    "title": "The Supply Chain Secret of 'Baby Bamboo' Diapers—They Were Bleached Cardboard",
+    "hook": "Eco-conscious parents paid triple for 'bamboo fiber' that was just paper pulp soaked in chlorine.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "bamboo diapers",
+      "greenwashing",
+      "paper pulp",
+      "baby products",
+      "fake eco"
+    ],
+    "overlap_check_hash": "3007088e939501f4",
+    "why_this_can_go_viral": "Anger over eco lies + baby safety = massive parent audience share potential."
+  },
+  {
+    "unique_id": "business_0150_016_4ea44081568660c5",
+    "title": "The Industry Cover-Up of 'Allergy-Free' Pets—They Were Sterilized with Toxic Drugs",
+    "hook": "Breeders injected kittens with a paralytic that stopped them from shedding—but it also caused organ failure within two years.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 98,
+    "educational_value": 60,
+    "estimated_short_retention": 94,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "hypoallergenic pets",
+      "animal cruelty",
+      "toxic drugs",
+      "breeder scam",
+      "cover-up"
+    ],
+    "overlap_check_hash": "4ea44081568660c5",
+    "why_this_can_go_viral": "Animal suffering + beloved pets + medical horror = maximum emotional impact and viral outrage."
+  },
+  {
+    "unique_id": "business_0150_017_1bf72626df2acd83",
+    "title": "The CEO Who Sold 'Earthquake-Proof' Houses—They Were Just Painted to Look Strong",
+    "hook": "He used cheap particleboard and a thick layer of decorative 'stone' resin—and blamed 'unpredictable geology' when they collapsed.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "earthquake",
+      "fake construction",
+      "housing scam",
+      "safety fraud",
+      "deaths"
+    ],
+    "overlap_check_hash": "1bf72626df2acd83",
+    "why_this_can_go_viral": "Life-or-death stakes in housing; visual of collapsing fake houses is powerful and shareable."
+  },
+  {
+    "unique_id": "business_0150_018_cfaf04a5187c5a01",
+    "title": "The Market Manipulator Who Used a Fake 'Meteor Strike' to Sell Mining Stocks",
+    "hook": "He paid a radio station to report a false meteor landing in a mining region—then shorted the actual mineral extraction stocks.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 76,
+    "educational_value": 55,
+    "estimated_short_retention": 79,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "meteor",
+      "fake news",
+      "stock manipulation",
+      "mining",
+      "hoax"
+    ],
+    "overlap_check_hash": "cfaf04a5187c5a01",
+    "why_this_can_go_viral": "Sci-fi premise mixed with real finance; viewers love elaborate hoaxes that sound like movie plots."
+  },
+  {
+    "unique_id": "business_0150_019_070282574a9b0af9",
+    "title": "The Startup That Sold 'AI Financial Advisor'—It Was a Tarot Card Reader",
+    "hook": "The 'algorithm' was a woman in the Philippines pulling cards from a deck, and her 'predictions' moved millions in crypto.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 87,
+    "educational_value": 55,
+    "estimated_short_retention": 91,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "AI scam",
+      "tarot",
+      "crypto fraud",
+      "fake advisor",
+      "outsourced deception"
+    ],
+    "overlap_check_hash": "070282574a9b0af9",
+    "why_this_can_go_viral": "The ultimate 'AI is a human in a wig' story; combines tech hype, mysticism, and financial ruin."
+  },
+  {
+    "unique_id": "business_0150_021_13928db2c1c7b4a2",
+    "title": "The Corporate Spy Who Posed as a Nun—Then Took Confession from Rival Execs",
+    "hook": "She wore a habit to industry retreats and recorded 'sins' that were actually trade secrets—then sold them to the highest bidder.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 45,
+    "estimated_short_retention": 87,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "nun disguise",
+      "confession",
+      "trade secrets",
+      "spy",
+      "religious cover"
+    ],
+    "overlap_check_hash": "13928db2c1c7b4a2",
+    "why_this_can_go_viral": "Disarming visual (nun) plus sacrilege makes for shocking, undeniable clickability."
+  },
+  {
+    "unique_id": "business_0150_022_e9e8058a61813e2f",
+    "title": "The Dark Marketing Firm That Used Library Card Records to Sell 'Get Rich Quick' Seminars",
+    "hook": "They targeted patrons who checked out self-help or poverty-related books—knowing they were desperate and impressionable.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 55,
+    "estimated_short_retention": 78,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "library records",
+      "targeted ads",
+      "self-help",
+      "predatory marketing",
+      "data privacy"
+    ],
+    "overlap_check_hash": "e9e8058a61813e2f",
+    "why_this_can_go_viral": "Libraries as a sacred space being exploited is deeply offensive; viewers feel protective and outraged."
+  },
+  {
+    "unique_id": "business_0150_023_8da255e086e62caf",
+    "title": "The Supply Chain Secret of 'Canaletto' Parmesan—It Was Sawdust and Whey",
+    "hook": "That 'authentic Italian' cheese your restaurant paid $20 a plate for was 40% wood pulp mixed with leftover dairy sludge.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "parmesan",
+      "food fraud",
+      "sawdust",
+      "Italian food",
+      "fake cheese"
+    ],
+    "overlap_check_hash": "8da255e086e62caf",
+    "why_this_can_go_viral": "Food fraud is universally relatable and disgusting; 'sawdust' detail is visceral and shareable."
+  },
+  {
+    "unique_id": "business_0150_024_6c2f7e6eece6ead9",
+    "title": "The Industry Cover-Up of 'Lead-Free' Crystals—They Were Uranium Glass Rebranded",
+    "hook": "After lead ban, luxury glassmakers switched to uranium oxide—then hid it behind 'proprietary mineral' claims.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "uranium glass",
+      "lead-free",
+      "radioactive",
+      "luxury goods",
+      "cover-up"
+    ],
+    "overlap_check_hash": "6c2f7e6eece6ead9",
+    "why_this_can_go_viral": "Radioactive everyday objects are inherently intriguing; the 'solution worse than the problem' twist is perfect dark content."
+  },
+  {
+    "unique_id": "business_0150_025_f0afd971774611e8",
+    "title": "The CEO Who Bought a TV Station—Then Aired Fake 'Breaking News' to Tank His Rivals",
+    "hook": "He reported a non-existent chemical spill at a competitor's factory, causing a panic, a stock crash—then bought the company for pennies.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 93,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "fake news",
+      "TV station",
+      "stock crash",
+      "corporate warfare",
+      "media manipulation"
+    ],
+    "overlap_check_hash": "f0afd971774611e8",
+    "why_this_can_go_viral": "Media trust is at an all-time low; this story weaponizes that distrust in the most cinematic way possible."
+  }
+]

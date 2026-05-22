@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "sports_0123_006_4ac459dad39472e9",
+    "title": "The Psychologist Who Made Boxers Hallucinate Their Opponent as Their Abuser",
+    "hook": "He triggered childhood trauma in fighters before matches — to make them 'fight for their life' inside the ring.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 95,
+    "educational_value": 55,
+    "estimated_short_retention": 91,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "boxing",
+      "trauma",
+      "psychology",
+      "hallucination",
+      "abuse"
+    ],
+    "overlap_check_hash": "4ac459dad39472e9",
+    "why_this_can_go_viral": "The ethical horror of weaponizing trauma is deeply shareable; audience will debate its morality."
+  },
+  {
+    "unique_id": "sports_0123_007_72dd9ae1da613da3",
+    "title": "The Betting Syndicate That Fixed Tennis Matches by Adjusting Net Height",
+    "hook": "They paid groundkeepers to lower the net by half an inch — invisible on camera, lethal for player rhythm.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 78,
+    "educational_value": 60,
+    "estimated_short_retention": 89,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "tennis",
+      "net height",
+      "sabotage",
+      "betting",
+      "groundskeeper"
+    ],
+    "overlap_check_hash": "72dd9ae1da613da3",
+    "why_this_can_go_viral": "The simplicity of the fix shocks viewers; they'll imagine how many matches were silently stolen."
+  },
+  {
+    "unique_id": "sports_0123_009_c814ba34771a028b",
+    "title": "The Mafia That Owned a Referee Union — and Decided Every Title Fight",
+    "hook": "They didn't just bribe one ref — they owned the entire union, and no fighter won without permission.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 60,
+    "estimated_short_retention": 93,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "referee union",
+      "mafia",
+      "boxing",
+      "fixed fights",
+      "organized crime"
+    ],
+    "overlap_check_hash": "c814ba34771a028b",
+    "why_this_can_go_viral": "Systemic corruption on a union scale is jaw-dropping; viewers will question every title fight history."
+  },
+  {
+    "unique_id": "sports_0123_010_caffcfb643ab126f",
+    "title": "The Gymnastics Coach Who Tied Athletes to Chairs for 12 Hours 'Posture Training'",
+    "hook": "She believed perfect posture required immobilization — the athletes developed blood clots and permanent nerve damage.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 92,
+    "educational_value": 55,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "gymnastics",
+      "posture",
+      "immobilization",
+      "nerve damage",
+      "coach abuse"
+    ],
+    "overlap_check_hash": "caffcfb643ab126f",
+    "why_this_can_go_viral": "The image of tied-up children triggers outrage; gymnastic abuse scandals have proven viral again and again."
+  },
+  {
+    "unique_id": "sports_0123_011_a65fd49a16b2d487",
+    "title": "The Lab That Froze Athletes' Testicles to Boost Endurance",
+    "hook": "Soviet scientists believed cold testicles produced more testosterone — they put runners in ice baths for hours.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 80,
+    "educational_value": 60,
+    "estimated_short_retention": 95,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "Soviet",
+      "testicles",
+      "ice bath",
+      "testosterone",
+      "runners"
+    ],
+    "overlap_check_hash": "a65fd49a16b2d487",
+    "why_this_can_go_viral": "Absurdly dark and intimate; the sheer weirdness guarantees shares and comments."
+  },
+  {
+    "unique_id": "sports_0123_013_fd11bbc604572dd3",
+    "title": "The Betting Network That Used a Radioactive Coin Toss to Signal Fixes",
+    "hook": "They planted a Geiger counter near the sideline — a pre-arranged coin with radioactive dust told bettors which team to back.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "radioactive",
+      "coin toss",
+      "Geiger",
+      "betting",
+      "signal"
+    ],
+    "overlap_check_hash": "fd11bbc604572dd3",
+    "why_this_can_go_viral": "Radioactive cheating is a novel concept; viewers will be fascinated by the Cold War-level espionage."
+  },
+  {
+    "unique_id": "sports_0123_014_e93a44b7aca6ee40",
+    "title": "The Businessman Who Sold Soccer Clubs 'Injury-Proof' Boots That Broken Toes",
+    "hook": "He marketed titanium-reinforced boots as indestructible — they actually shattered players' metatarsals on impact.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 80,
+    "educational_value": 60,
+    "estimated_short_retention": 83,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "soccer",
+      "boots",
+      "titanium",
+      "injury",
+      "scam"
+    ],
+    "overlap_check_hash": "e93a44b7aca6ee40",
+    "why_this_can_go_viral": "The irony of 'safety' causing harm is inherently shareable; soccer fans love exposing bad equipment."
+  },
+  {
+    "unique_id": "sports_0123_015_f46e4dc83ef9a8ac",
+    "title": "The Referee Who Fixed NBA Games by Switching Game Balls Mid-Quarter",
+    "hook": "He swapped the official ball with an over-inflated one — free throws clanked, and the spread hit exactly.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 55,
+    "estimated_short_retention": 89,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "NBA",
+      "referee",
+      "ball",
+      "inflation",
+      "fix"
+    ],
+    "overlap_check_hash": "f46e4dc83ef9a8ac",
+    "why_this_can_go_viral": "Basketball fans love conspiracy theories about refs; the ball-swap is an invisible crime they'll rewatch for."
+  },
+  {
+    "unique_id": "sports_0123_016_0a719019f933ad76",
+    "title": "The Doping Ring That Packed Steroids Into Colored Contact Lenses",
+    "hook": "They dissolved anabolic agents into the lens solution — athletes absorbed them through the eye, bypassing every drug test.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "contact lenses",
+      "steroid",
+      "eye",
+      "urine test",
+      "invisible"
+    ],
+    "overlap_check_hash": "0a719019f933ad76",
+    "why_this_can_go_viral": "Doping through the eye is so bizarre it forces a double-take; viewers will share for the 'how is that possible' effect."
+  },
+  {
+    "unique_id": "sports_0123_017_53717b27bfd3c744",
+    "title": "The Mafia That Forced Soccer Players to Miss Penalties by Cutting Their Brakes",
+    "hook": "They tampered with the team bus brakes — not to crash, but to make them late, tired, and psychologically rattled before a shootout.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 85,
+    "educational_value": 50,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "soccer",
+      "brakes",
+      "bus",
+      "penalty",
+      "mafia sabotage"
+    ],
+    "overlap_check_hash": "53717b27bfd3c744",
+    "why_this_can_go_viral": "The indirect, psychological sabotage is a fresh twist on match-fixing; viewers love 'the long con' stories."
+  },
+  {
+    "unique_id": "sports_0123_018_3d523a81bced285b",
+    "title": "The Lab That Tried to Make Cyclists' Blood Flow Backward for Speed",
+    "hook": "They surgically reversed valves in cyclists' veins, believing backward flow would supercharge oxygen — the athletes collapsed mid-race.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "cycling",
+      "vein reversal",
+      "surgery",
+      "oxygen",
+      "collapsing"
+    ],
+    "overlap_check_hash": "3d523a81bced285b",
+    "why_this_can_go_viral": "The absurdity of reversing blood flow is off-the-charts weird; body horror meets sports science."
+  },
+  {
+    "unique_id": "sports_0123_019_21178156ccb6f171",
+    "title": "The Coach Who Made Wrestlers Drink Their Own Urine for 'Mental Fortitude'",
+    "hook": "He called it 'the golden cleanse' — wrestlers who refused were beaten; those who complied suffered kidney failure.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 55,
+    "estimated_short_retention": 92,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "wrestling",
+      "urine",
+      "coach",
+      "kidney",
+      "abuse"
+    ],
+    "overlap_check_hash": "21178156ccb6f171",
+    "why_this_can_go_viral": "Visceral disgust plus systemic abuse; viewers will share out of shock and anger."
+  },
+  {
+    "unique_id": "sports_0123_020_64438603d972dd98",
+    "title": "The Betting Syndicate That Used a Spy Drone to Broadcast Live Game Signals",
+    "hook": "They flew a silent drone above the stadium — its camera showed the pitch 10 seconds ahead of broadcast, enough to place unbeatable bets.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "drone",
+      "betting",
+      "live signal",
+      "delay",
+      "spy"
+    ],
+    "overlap_check_hash": "64438603d972dd98",
+    "why_this_can_go_viral": "Tech-assisted cheating feels modern and dangerous; viewers will wonder if their own games were targeted."
+  },
+  {
+    "unique_id": "sports_0123_022_bd7cf9c102a09597",
+    "title": "The Businessman Who Sold 'Oxygen Tents' That Sucked CO2 Back Into Athletes' Lungs",
+    "hook": "He marketed them as altitude training — in reality, the tents recirculated carbon dioxide, slowly suffocating the users.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "oxygen tent",
+      "CO2",
+      "altitude",
+      "scam",
+      "asphyxiation"
+    ],
+    "overlap_check_hash": "bd7cf9c102a09597",
+    "why_this_can_go_viral": "The slow suffocation angle is terrifying; viewers will check their own recovery gear."
+  },
+  {
+    "unique_id": "sports_0123_023_63e3d5838daafebe",
+    "title": "The Mafia That Fixed Sumo Matches by Threatening Wrestlers' Families With Yakuza",
+    "hook": "Sumo is sacred in Japan — but the yakuza had a list of every wrestler's mother, father, and child.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 91,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "sumo",
+      "yakuza",
+      "family",
+      "threat",
+      "fixing"
+    ],
+    "overlap_check_hash": "63e3d5838daafebe",
+    "why_this_can_go_viral": "Sacred sport + mob infiltration is a powerful contrast; viewers love hidden corruption in prestigious institutions."
+  },
+  {
+    "unique_id": "sports_0123_025_9c5d3aadcf595e12",
+    "title": "The Lab That Tried to Make Soccer Players' Eyes Track the Ball by Gluing Magnets to Their Corneas",
+    "hook": "They glued tiny magnets to athletes' eyes, hoping magnetic fields would train their gaze — the corneas detached instead.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 60,
+    "estimated_short_retention": 89,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "eye magnets",
+      "soccer",
+      "cornea",
+      "detachment",
+      "experiment"
+    ],
+    "overlap_check_hash": "9c5d3aadcf595e12",
+    "why_this_can_go_viral": "The idea of magnets on eyeballs is shocking and sci-fi; the failure is grotesque enough to stop the scroll."
+  }
+]

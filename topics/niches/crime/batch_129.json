@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "crime_0129_001_bbcfcc68d7bbd397",
+    "title": "The Unsolved Murder Where the Killer Signed His Name—in the Victim's DNA",
+    "hook": "When forensic scientists analyzed the victim's blood, they found a hidden genetic code—the murderer's own signature written into their cells.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "DNA signature",
+      "forensic anomaly",
+      "genetic code",
+      "unsolved mystery",
+      "killer signature"
+    ],
+    "overlap_check_hash": "bbcfcc68d7bbd397",
+    "why_this_can_go_viral": "Combines forensic science with an impossible twist—the killer literally wrote his name in the victim—tapping into both true crime fascination and scientific wonder."
+  },
+  {
+    "unique_id": "crime_0129_003_2d7c760e19a8fa39",
+    "title": "The Mob That Controlled a City's Funeral Homes—and Dug Up Bodies for Ransom",
+    "hook": "Families paid the mob to bury their dead—only to get calls demanding cash for the return of their loved ones' remains.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob funeral homes",
+      "body snatching",
+      "ransom",
+      "organized crime",
+      "grave robbery"
+    ],
+    "overlap_check_hash": "2d7c760e19a8fa39",
+    "why_this_can_go_viral": "Extreme violation of the sacred and vulnerable—grief monetized into terror—creates visceral shock and outrage."
+  },
+  {
+    "unique_id": "crime_0129_004_fcdf5e87cc67ddc6",
+    "title": "The Serial Killer Who Only Chose Victims Who Looked Like His Mother—at Age 7",
+    "hook": "Every victim had the same hairstyle, same jawline, same mole—a composite sketch of a childhood memory he never escaped.",
+    "virality_score": 87,
+    "curiosity_gap_score": 88,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "mother complex",
+      "victim selection",
+      "childhood trauma",
+      "obsessive pattern"
+    ],
+    "overlap_check_hash": "fcdf5e87cc67ddc6",
+    "why_this_can_go_viral": "Tap into the dark psychology of obsession and childhood wounding—viewers will analyse their own family photos."
+  },
+  {
+    "unique_id": "crime_0129_005_013d21028ab7f5a4",
+    "title": "The Heist Where Thieves Stole a Museum's 'Silence'—by Replacing Every Sound With a Recording",
+    "hook": "For three days, no one noticed the museum was completely silent—because the thieves had replaced the air itself with recorded noise.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 70,
+    "educational_value": 55,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "silent heist",
+      "sound replacement",
+      "museum theft",
+      "acoustic illusion",
+      "perfect crime"
+    ],
+    "overlap_check_hash": "013d21028ab7f5a4",
+    "why_this_can_go_viral": "A sensory twist on heists—stealing something intangible like 'silence' is mind-bending and shareable."
+  },
+  {
+    "unique_id": "crime_0129_007_519c8c3184f734ed",
+    "title": "The Cartel That Used a Fake 'Vaccination Campaign'—to Inject Trackers Into Villagers",
+    "hook": "They lined up for life-saving shots, but the needles carried microchips—turning entire villages into human GPS beacons.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 96,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel tracker",
+      "vaccine scam",
+      "microchip",
+      "human GPS",
+      "medical crime"
+    ],
+    "overlap_check_hash": "519c8c3184f734ed",
+    "why_this_can_go_viral": "Taps into deep distrust of medical authority and surveillance fears—a nightmare scenario that feels terrifyingly plausible."
+  },
+  {
+    "unique_id": "crime_0129_008_34c8068f6675f321",
+    "title": "The White-Collar Criminal Who Stole a Country's 'Time'—by Patenting the Second",
+    "hook": "He legally claimed ownership of the SI unit of time, then charged every factory in the nation for every second they used.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 60,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "time patent",
+      "SI unit scam",
+      "white collar",
+      "legal loophole",
+      "patent trolling"
+    ],
+    "overlap_check_hash": "34c8068f6675f321",
+    "why_this_can_go_viral": "Absurdly creative exploitation of legal systems—makes viewers angry at how broken intellectual property laws are."
+  },
+  {
+    "unique_id": "crime_0129_009_03698f9d6899b458",
+    "title": "The Unsolved Murder Where the Victim Was Killed by a 'Perfectly Timed' Solar Eclipse",
+    "hook": "The cause of death was listed as 'act of God'—until an astronomer proved the killer used the moon as a weapon.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "solar eclipse murder",
+      "astronomer evidence",
+      "celestial weapon",
+      "unsolved",
+      "timing crime"
+    ],
+    "overlap_check_hash": "03698f9d6899b458",
+    "why_this_can_go_viral": "Combines astronomy with murder—a cosmic mystery that feels poetic and impossible."
+  },
+  {
+    "unique_id": "crime_0129_010_e7a47610a432e611",
+    "title": "The Criminal Mastermind Who Faked a 'Terrorist Attack'—to Cover a Bank Heist",
+    "hook": "While the world watched explosions on TV, he walked out the back door of a bank with $200 million in bearer bonds.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake attack",
+      "bank heist",
+      "diversion",
+      "terrorism cover",
+      "mastermind"
+    ],
+    "overlap_check_hash": "e7a47610a432e611",
+    "why_this_can_go_viral": "Explosive public event as distraction—feels ripped from a Hollywood script but real, sparking 'how did no one notice' questions."
+  },
+  {
+    "unique_id": "crime_0129_011_ac63bfa7525b475d",
+    "title": "The Mob That Controlled a City's 'Sewer System'—and Ran a Subterranean Casino",
+    "hook": "Under the streets, in tunnels full of raw sewage, they built a glittering casino that never showed up on any map.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 60,
+    "estimated_short_retention": 79,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "sewer casino",
+      "underground crime",
+      "mob tunnels",
+      "hidden casino",
+      "subterranean empire"
+    ],
+    "overlap_check_hash": "ac63bfa7525b475d",
+    "why_this_can_go_viral": "Hidden world beneath our feet—the contrast of filth and luxury is visually and conceptually compelling."
+  },
+  {
+    "unique_id": "crime_0129_012_e2738a8b3812389b",
+    "title": "The Serial Killer Who Chose Victims by 'Zodiac Sign'—and Left Their Birth Charts at the Scene",
+    "hook": "He believed the stars dictated who deserved to die—each victim's astrological chart was pinned to their body like a receipt.",
+    "virality_score": 83,
+    "curiosity_gap_score": 85,
+    "darkness_score": 86,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "zodiac killer",
+      "astrology murder",
+      "birth chart",
+      "serial killer",
+      "horoscope crime"
+    ],
+    "overlap_check_hash": "e2738a8b3812389b",
+    "why_this_can_go_viral": "Astrology is a massive cultural obsession—this merges it with true crime, making everyone check if their sign matches."
+  },
+  {
+    "unique_id": "crime_0129_013_ba01015704e62e45",
+    "title": "The Heist Where Thieves Stole a 'Memory Palace'—by Erasing 10 Years of a Town's Recordings",
+    "hook": "They didn't take gold—they took the town's entire surveillance archive, wiping a decade of history from existence.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 78,
+    "educational_value": 55,
+    "estimated_short_retention": 77,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "memory theft",
+      "surveillance archive",
+      "data heist",
+      "history erased",
+      "digital crime"
+    ],
+    "overlap_check_hash": "ba01015704e62e45",
+    "why_this_can_go_viral": "Stealing memories rather than objects feels eerie and philosophical—sparks debate about digital legacy."
+  },
+  {
+    "unique_id": "crime_0129_015_4c954b2175bd5397",
+    "title": "The Cartel That Used a 'Butterfly Farm'—to Smuggle Cocaine in Chrysalises",
+    "hook": "Customs agents saw thousands of cocoons and waved them through—inside each one, a tiny brick of pure cocaine.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "butterfly smuggling",
+      "cocaine cocoon",
+      "cartel camouflage",
+      "wildlife crime",
+      "drug mules"
+    ],
+    "overlap_check_hash": "4c954b2175bd5397",
+    "why_this_can_go_viral": "The imagery is stunning and unexpected—nature hiding crime in plain sight—perfect for visual storytelling."
+  },
+  {
+    "unique_id": "crime_0129_016_ad4982232d1e5cd3",
+    "title": "The White-Collar Criminal Who Stole a Country's 'Gravity'—by Patenting the Plumb Line",
+    "hook": "He claimed ownership of the vertical measurement standard, then charged every construction company for using gravity.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 70,
+    "educational_value": 55,
+    "estimated_short_retention": 74,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "gravity patent",
+      "plumb line scam",
+      "construction fraud",
+      "legal absurdity",
+      "white collar"
+    ],
+    "overlap_check_hash": "ad4982232d1e5cd3",
+    "why_this_can_go_viral": "Absurdist humor meets white-collar crime—viewers will laugh and rage at the same time."
+  },
+  {
+    "unique_id": "crime_0129_018_f851c99ec3b0d8d8",
+    "title": "The Criminal Mastermind Who Faked a 'Space Mission'—to Launder $500 Million Through NASA Contracts",
+    "hook": "He built a fake rocket company, conning NASA into paying for a Mars mission that never left the hangar.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake space mission",
+      "NASA fraud",
+      "laundering",
+      "rocket scam",
+      "Mars con"
+    ],
+    "overlap_check_hash": "f851c99ec3b0d8d8",
+    "why_this_can_go_viral": "Space exploration is highly trusted—exposing fraud in that sector shocks and fascinates viewers."
+  },
+  {
+    "unique_id": "crime_0129_019_cf381b95158abeb4",
+    "title": "The Mob That Controlled a City's 'Airport Lost & Found'—and Sold Stolen Luggage as 'Mystery Boxes'",
+    "hook": "Every unclaimed suitcase went straight to the mob's warehouse—where they repackaged the contents and sold them online.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 72,
+    "educational_value": 55,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "lost luggage scam",
+      "airport crime",
+      "mystery box",
+      "organized crime",
+      "stolen goods"
+    ],
+    "overlap_check_hash": "cf381b95158abeb4",
+    "why_this_can_go_viral": "Mystery box culture is huge—revealing the dark origin of those products will make viewers think twice before buying."
+  },
+  {
+    "unique_id": "crime_0129_020_27fae51f34671352",
+    "title": "The Serial Killer Who Used 'Hypnosis'—to Make Victims Walk Into Freezers",
+    "hook": "He didn't use a weapon—he used a voice. Every victim walked willingly into their own death chamber, unable to stop.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 93,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "hypnosis murder",
+      "mind control",
+      "serial killer",
+      "forced compliance",
+      "freezer death"
+    ],
+    "overlap_check_hash": "27fae51f34671352",
+    "why_this_can_go_viral": "Fear of losing control of one's own body is primal—this taps into deep psychological terror."
+  },
+  {
+    "unique_id": "crime_0129_021_4879ee7787f7787a",
+    "title": "The Heist Where Thieves Stole a City's 'Electricity'—by Replacing the Grid With a Single Giant Battery",
+    "hook": "For 47 minutes, the entire city ran on a battery hidden in a moving truck—while the thieves drained the real grid dry.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 74,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "electricity heist",
+      "grid theft",
+      "battery swap",
+      "power crime",
+      "city blackout"
+    ],
+    "overlap_check_hash": "4879ee7787f7787a",
+    "why_this_can_go_viral": "The scale is stunning—stealing a city's power feels like a supervillain move, highly shareable."
+  },
+  {
+    "unique_id": "crime_0129_023_d9dabbff72e0ff24",
+    "title": "The Cartel That Used a 'Deep Sea Robot'—to Retrieve Drug Bundles From the Ocean Floor",
+    "hook": "They sank millions of dollars of cocaine into the sea, then sent a robot to retrieve it months later when the coast was clear.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "deep sea drugs",
+      "robot smuggling",
+      "underwater cocaine",
+      "cartel tech",
+      "ocean floor crime"
+    ],
+    "overlap_check_hash": "d9dabbff72e0ff24",
+    "why_this_can_go_viral": "High-tech smuggling meets deep sea mystery—the ocean as a crime scene is visually and conceptually dramatic."
+  },
+  {
+    "unique_id": "crime_0129_024_2edd662a2acc8437",
+    "title": "The White-Collar Criminal Who Stole a Country's 'Sunsets'—by Selling Viewing Rights to the Horizon",
+    "hook": "He legally claimed the airspace above a coastline, then charged beach resorts for the 'privilege' of seeing the sun set.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 73,
+    "educational_value": 55,
+    "estimated_short_retention": 77,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "sunset scam",
+      "airspace patent",
+      "horizon rights",
+      "coastal fraud",
+      "white collar"
+    ],
+    "overlap_check_hash": "2edd662a2acc8437",
+    "why_this_can_go_viral": "Stealing something as universal as a sunset feels absurdly audacious—makes viewers angry at legal loopholes."
+  },
+  {
+    "unique_id": "crime_0129_025_5c9b1c3abe10a5f9",
+    "title": "The Unsolved Murder Where the Victim's 'Ghost' Was Captured on 911—Calling for Help 10 Minutes After Death",
+    "hook": "When police played back the call, they heard the victim's voice—but the coroner confirmed she'd been dead for an hour.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 94,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "ghost call",
+      "911 anomaly",
+      "post-mortem voice",
+      "unsolved murder",
+      "supernatural evidence"
+    ],
+    "overlap_check_hash": "5c9b1c3abe10a5f9",
+    "why_this_can_go_viral": "Blurs the line between crime and paranormal—drives massive debate in comments and shares across both communities."
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "crime_0144_001_e9f74b6fb2890a60",
+    "title": "The Heist Where Thieves Stole a 'Train's Schedule'—to Rob It in a Parallel Tunnel",
+    "hook": "They didn't rob the train. They robbed the track—by building a second tunnel beside it and making the train vanish into darkness.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 72,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "parallel tunnel heist",
+      "train robbery deception",
+      "hidden infrastructure theft",
+      "impossible heist",
+      "logistics crime"
+    ],
+    "overlap_check_hash": "e9f74b6fb2890a60",
+    "why_this_can_go_viral": "The idea of building an entire parallel tunnel to steal a train feels like impossible engineering—viewers will want to see the blueprint of the deception."
+  },
+  {
+    "unique_id": "crime_0144_003_d66debbf58d684e1",
+    "title": "The Serial Killer Who 'Melted' His Victims—in an Industrial Acid Tank",
+    "hook": "He didn't bury them. He dissolved them—one body per week, inside a tank that was supposed to recycle metal.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "acid bath serial killer",
+      "industrial murder",
+      "body disposal chemistry",
+      "hidden murder method",
+      "forensic nightmare"
+    ],
+    "overlap_check_hash": "d66debbf58d684e1",
+    "why_this_can_go_viral": "The industrial-scale body disposal taps into a primal fear of vanishing without a trace—viewers will be obsessed with how he got away with it."
+  },
+  {
+    "unique_id": "crime_0144_004_a61884ba9cde31f6",
+    "title": "The Unsolved Murder Where the Victim's 'Blood' Was Replaced With Ink",
+    "hook": "Coroner opened the body and found not blood, but black ink—pumped in post-mortem like a message from the killer.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 94,
+    "educational_value": 50,
+    "estimated_short_retention": 95,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "blood replaced with ink",
+      "unsolved murder mystery",
+      "bizarre autopsy",
+      "killer signature",
+      "forensic anomaly"
+    ],
+    "overlap_check_hash": "a61884ba9cde31f6",
+    "why_this_can_go_viral": "The image of ink-filled veins is so surreal and grotesque that viewers will immediately share it—it feels like a crime scene from a Lynch film."
+  },
+  {
+    "unique_id": "crime_0144_005_999fbfd20f13d484",
+    "title": "The Criminal Mastermind Who Stole a 'Country's Debt'—by Forgiving It on Paper",
+    "hook": "He didn't steal money. He stole the ledger—and erased a nation's $2 billion debt overnight, then sold the 'forgiveness' back to them.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 78,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "debt forgiveness scam",
+      "financial mastermind",
+      "ledger manipulation",
+      "sovereign debt crime",
+      "paper empire heist"
+    ],
+    "overlap_check_hash": "999fbfd20f13d484",
+    "why_this_can_go_viral": "The audacity of stealing something as abstract as a nation's debt and selling it back feels like a plot from a spy novel—pure intellectual crime porn."
+  },
+  {
+    "unique_id": "crime_0144_006_b20ad08c153f0d8d",
+    "title": "The Mob That Controlled a City's 'Undertakers'—to Steal Organs From the Dead",
+    "hook": "They didn't just run funerals. They ran a harvesting line—selling hearts and kidneys from fresh graves to the highest bidder.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 96,
+    "educational_value": 60,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "organ harvesting mob",
+      "funeral home crime",
+      "black market organs",
+      "dead body theft",
+      "mortuary corruption"
+    ],
+    "overlap_check_hash": "b20ad08c153f0d8d",
+    "why_this_can_go_viral": "The combination of grief exploitation and organ trafficking hits a raw nerve—viewers will be horrified and fascinated by the hidden economy of death."
+  },
+  {
+    "unique_id": "crime_0144_008_016952f2b9a2c08a",
+    "title": "The White-Collar Criminal Who Stole a 'City's Zoning Laws'—and Rebuilt the Skyline",
+    "hook": "He didn't bribe officials. He rewrote the zoning code himself—and built skyscrapers that legally didn't exist.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 74,
+    "educational_value": 80,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "zoning fraud",
+      "skyline theft",
+      "legal document manipulation",
+      "real estate crime",
+      "urban planning deception"
+    ],
+    "overlap_check_hash": "016952f2b9a2c08a",
+    "why_this_can_go_viral": "The idea of stealing a city's physical shape through paperwork is a mind-bending angle on white-collar crime—viewers will marvel at the bureaucratic audacity."
+  },
+  {
+    "unique_id": "crime_0144_009_fbe2375d61ff1fe2",
+    "title": "The Heist Where Thieves Stole a 'Vault's Oxygen'—and Suffocated the Guards Into Silence",
+    "hook": "They didn't break in. They made the air unbreathable—then walked past unconscious guards and emptied the room.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "oxygen deprivation heist",
+      "silent attack",
+      "vault asphyxiation",
+      "chemical theft",
+      "non-lethal takedown crime"
+    ],
+    "overlap_check_hash": "fbe2375d61ff1fe2",
+    "why_this_can_go_viral": "The method is both terrifying and ingenious—viewers will want to know how they controlled the air without killing anyone, and how the guards survived."
+  },
+  {
+    "unique_id": "crime_0144_011_53783a7d93e7b839",
+    "title": "The Serial Killer Who 'Photographed' His Victims' Final Moments—and Sold Them as Art",
+    "hook": "He didn't kill for pleasure. He killed for the perfect shot—and galleries unknowingly exhibited his murder scenes as 'fine art.'",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 93,
+    "educational_value": 60,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "murder photography",
+      "art gallery crime",
+      "serial killer artist",
+      "death as art",
+      "macabre collection"
+    ],
+    "overlap_check_hash": "53783a7d93e7b839",
+    "why_this_can_go_viral": "The intersection of high art and murder creates a moral horror that viewers will debate and share—the 'is it art?' question drives engagement."
+  },
+  {
+    "unique_id": "crime_0144_012_25269f09ad44dc67",
+    "title": "The Unsolved Murder Where the Killer Left a 'Torn Map'—Pointing to the Next Victim",
+    "hook": "Police found a map piece in the victim's hand—but the killer had already torn out the location where he would strike next.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 50,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "map piece clue",
+      "serial puzzle",
+      "unsolved crime map",
+      "killer taunt",
+      "cold case mystery"
+    ],
+    "overlap_check_hash": "25269f09ad44dc67",
+    "why_this_can_go_viral": "The idea of a killer leaving a literal puzzle for police creates a 'treasure hunt' tension—viewers will speculate on where the next body was hidden."
+  },
+  {
+    "unique_id": "crime_0144_013_1a0e4dbb98f9c99f",
+    "title": "The Criminal Mastermind Who Stole a 'Nuclear Reactor's Cooling System'—and Sold It Back",
+    "hook": "He didn't steal the uranium. He stole the water—shut down a city's power, then offered to 'fix' it for a fortune.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "nuclear plant theft",
+      "cooling system scam",
+      "infrastructure sabotage",
+      "power grid crime",
+      "critical infrastructure attack"
+    ],
+    "overlap_check_hash": "1a0e4dbb98f9c99f",
+    "why_this_can_go_viral": "The vulnerability of nuclear infrastructure is a deep-seated fear—the audacity of stealing something so essential makes viewers feel the fragility of modern life."
+  },
+  {
+    "unique_id": "crime_0144_014_751a8a47efd59557",
+    "title": "The Mob That Controlled a City's 'Ambulance Dispatch'—for Targeted Hits",
+    "hook": "They didn't chase ambulances. They dispatched them—sending a fake crew to the victim's door, then leaving with a body that never arrived at a hospital.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "ambulance hit",
+      "emergency service corruption",
+      "fake medics",
+      "targeted assassination",
+      "response system abuse"
+    ],
+    "overlap_check_hash": "751a8a47efd59557",
+    "why_this_can_go_viral": "The corruption of something as trusted as emergency services creates a deep paranoid thrill—viewers will be hooked by the 'who can you trust?' angle."
+  },
+  {
+    "unique_id": "crime_0144_015_12634b99aa37ef32",
+    "title": "The Billion-Dollar Fraud That Sold 'Invisible Bridges'—to a Developing Nation",
+    "hook": "They built a bridge that never existed—on paper, in satellite images, and on the national budget. The country paid $800 million for a ghost.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fake infrastructure fraud",
+      "ghost bridge scam",
+      "satellite deception",
+      "development aid theft",
+      "paper construction"
+    ],
+    "overlap_check_hash": "12634b99aa37ef32",
+    "why_this_can_go_viral": "The absurdity of paying for a bridge that never existed, complete with fake satellite images, is a jaw-dropping story of greed—viral due to its sheer scale."
+  },
+  {
+    "unique_id": "crime_0144_016_73070ee460790c89",
+    "title": "The White-Collar Criminal Who Stole a 'Country's Tax Code'—and Sold Loopholes to Billionaires",
+    "hook": "He didn't evade taxes. He rewrote the tax code itself—and charged billionaires $10 million each for 'legal' loopholes he wrote into law.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 76,
+    "educational_value": 80,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "tax code manipulation",
+      "loophole selling",
+      "legislative corruption",
+      "billionaire tax fraud",
+      "legal system exploitation"
+    ],
+    "overlap_check_hash": "73070ee460790c89",
+    "why_this_can_go_viral": "The corrupt intersection of law and money is a universal outrage trigger—viewers will share it as proof the system is rigged from the inside."
+  },
+  {
+    "unique_id": "crime_0144_017_cbb722c43ab110bc",
+    "title": "The Heist Where Thieves Stole a 'Museum's Echo'—by Recording and Replaying Silence",
+    "hook": "They recorded the exact ambient sound of the empty gallery—then played it back to mask their footsteps while they cut the glass.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 60,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "audio mask heist",
+      "sound deception",
+      "museum theft",
+      "acoustic camouflage",
+      "silent burglary"
+    ],
+    "overlap_check_hash": "cbb722c43ab110bc",
+    "why_this_can_go_viral": "The use of sound as a camouflage tool is a fresh, clever angle on heists—viewers will be fascinated by the sensory deception."
+  },
+  {
+    "unique_id": "crime_0144_019_16e9274783d2d92e",
+    "title": "The Serial Killer Who 'Collected' His Victims' Dreams—by Keeping Them Awake for Days",
+    "hook": "He didn't want their lives. He wanted their nightmares—keeping victims awake for a week, then recording the hallucinations before the end.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "sleep deprivation torture",
+      "nightmare collection",
+      "psychological sadism",
+      "serial killer obsession",
+      "consciousness manipulation"
+    ],
+    "overlap_check_hash": "16e9274783d2d92e",
+    "why_this_can_go_viral": "The idea of stealing someone's dreams is deeply psychological and horrifying—viewers will be obsessed with the 'why' behind the madness."
+  },
+  {
+    "unique_id": "crime_0144_020_f0fb03aeee641aca",
+    "title": "The Unsolved Murder Where the Victim's 'House' Was Rotated 90 Degrees Overnight",
+    "hook": "Police arrived and the front door faced a different street. The house had been physically turned—and the body was inside, re-positioned with it.",
+    "virality_score": 91,
+    "curiosity_gap_score": 97,
+    "darkness_score": 88,
+    "educational_value": 50,
+    "estimated_short_retention": 94,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "house rotation mystery",
+      "impossible crime scene",
+      "architecture crime",
+      "bizarre murder puzzle",
+      "physical deception"
+    ],
+    "overlap_check_hash": "f0fb03aeee641aca",
+    "why_this_can_go_viral": "The sheer physical impossibility of rotating an entire house overnight creates an instant 'how?' reaction—speculation will run wild in the comments."
+  },
+  {
+    "unique_id": "crime_0144_021_d51d60ac579e67f3",
+    "title": "The Criminal Mastermind Who Stole a 'Satellite's Memory'—by Broadcasting Over It",
+    "hook": "He didn't hack the satellite. He shouted over its signal—erasing years of classified data by transmitting a stronger voice.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "satellite hijack",
+      "signal overwrite",
+      "classified data theft",
+      "broadcast crime",
+      "space infrastructure attack"
+    ],
+    "overlap_check_hash": "d51d60ac579e67f3",
+    "why_this_can_go_viral": "The brute-force simplicity of stealing data by shouting over it makes viewers feel like they've discovered a hidden vulnerability in modern technology."
+  },
+  {
+    "unique_id": "crime_0144_022_8c8ab1898c0735f9",
+    "title": "The Mob That Controlled a City's 'Hospital Morgue'—to Falsify Death Certificates",
+    "hook": "They didn't just kill people. They made the dead disappear on paper—turning murder into 'natural causes' with a forged signature.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "morgue corruption",
+      "death certificate fraud",
+      "hospital crime ring",
+      "murder cover-up",
+      "paper trail manipulation"
+    ],
+    "overlap_check_hash": "8c8ab1898c0735f9",
+    "why_this_can_go_viral": "The corruption of the final official record—the death certificate—creates a chilling sense of systemic failure that viewers will find deeply unsettling."
+  },
+  {
+    "unique_id": "crime_0144_023_1304fe07e17d2592",
+    "title": "The Billion-Dollar Fraud That Sold 'Invisible Oxygen'—to Polluted Megacities",
+    "hook": "They sold cans of 'pure mountain air' to smog-choked cities—but the cans were empty, and 10 million people paid for nothing.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 84,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fake air scam",
+      "pollution fraud",
+      "megacity deception",
+      "empty can scam",
+      "environmental exploitation"
+    ],
+    "overlap_check_hash": "1304fe07e17d2592",
+    "why_this_can_go_viral": "The cruel irony of selling 'clean air' to people choking on smog—and the air being fake—is a darkly humorous outrage that drives shares."
+  },
+  {
+    "unique_id": "crime_0144_025_4c414d6a5ea4b1a9",
+    "title": "The Heist Where Thieves Stole a 'Prison's Security Footage'—to Blackmail the Guards",
+    "hook": "They didn't break out. They broke in—stealing years of footage that showed guards taking bribes, then using it to control the entire prison from inside.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 86,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "prison blackmail",
+      "security footage theft",
+      "guard corruption",
+      "reverse heist",
+      "inmate power play"
+    ],
+    "overlap_check_hash": "4c414d6a5ea4b1a9",
+    "why_this_can_go_viral": "The inversion of 'breaking in to steal secrets' creates a fresh heist dynamic—viewers will be fascinated by the psychological warfare inside the walls."
+  }
+]

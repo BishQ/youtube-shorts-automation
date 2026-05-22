@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "science_0129_001_2e99d7eec94f7a9b",
+    "title": "The Chemist Who Accidentally Created a Gas That Erases Memory",
+    "hook": "A lab leak of a forgotten compound caused researchers to forget the last 24 hours — including the accident itself.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "memory loss gas",
+      "lab accident",
+      "chemical weapon",
+      "forgotten compound",
+      "amnesia"
+    ],
+    "overlap_check_hash": "2e99d7eec94f7a9b",
+    "why_this_can_go_viral": "The horror of losing your own memory while experiencing it triggers deep fear and curiosity."
+  },
+  {
+    "unique_id": "science_0129_005_6b49a7412e3c364d",
+    "title": "The Scientific Fraud Who Faked a 'Gravity Shield' — Buildings Collapsed",
+    "hook": "He sold a device that supposedly canceled gravity. When tested on a real structure, it didn't just fail — it amplified weight.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "gravity fraud",
+      "fake invention",
+      "building collapse",
+      "scam science",
+      "engineering disaster"
+    ],
+    "overlap_check_hash": "6b49a7412e3c364d",
+    "why_this_can_go_viral": "The combination of pseudoscience and catastrophic failure is both infuriating and fascinating."
+  },
+  {
+    "unique_id": "science_0129_006_68bead612803c870",
+    "title": "The Neuroscientist Who Implanted a False Childhood — The Patient Believed He Was Abducted",
+    "hook": "A single electrode was enough to make a man remember a traumatic event that never happened — and he never recovered.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "false memory",
+      "brain implant",
+      "memory manipulation",
+      "neuroscience experiment",
+      "trauma creation"
+    ],
+    "overlap_check_hash": "68bead612803c870",
+    "why_this_can_go_viral": "The idea that your most painful memories might be fabricated is a universally terrifying thought."
+  },
+  {
+    "unique_id": "science_0129_007_242b9f9a31c92b8e",
+    "title": "The Quantum Paradox Where a Particle Existed in Two Places at Once — Then Merged and Annihilated Itself",
+    "hook": "A particle split itself across two locations, and when they met, both versions ceased to exist.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 65,
+    "educational_value": 85,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum superposition",
+      "self annihilation",
+      "particle paradox",
+      "quantum death",
+      "double existence"
+    ],
+    "overlap_check_hash": "242b9f9a31c92b8e",
+    "why_this_can_go_viral": "The existential weirdness of a particle 'killing itself' is visually and conceptually compelling."
+  },
+  {
+    "unique_id": "science_0129_008_37df11e34a20f2e2",
+    "title": "The Lab Catastrophe Where a Scientist Injected Herself With a Brain-Dissolving Enzyme",
+    "hook": "She mistook the vial for a saline solution. Within hours, her own brain began digesting itself from the inside.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "brain enzyme",
+      "lab accident",
+      "self injection",
+      "brain damage",
+      "fatal mistake"
+    ],
+    "overlap_check_hash": "37df11e34a20f2e2",
+    "why_this_can_go_viral": "The slow, self-aware destruction of one's own brain is a nightmare scenario that compels viewers."
+  },
+  {
+    "unique_id": "science_0129_009_89175cf4738bf19c",
+    "title": "The Chemist Who Made a Compound That Makes You Breathe Underwater — Once",
+    "hook": "It saturated the blood with oxygen for minutes — but the second exposure caused instant lung collapse.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "underwater breathing",
+      "oxygen compound",
+      "chemical disaster",
+      "lung collapse",
+      "experimental drug"
+    ],
+    "overlap_check_hash": "89175cf4738bf19c",
+    "why_this_can_go_viral": "The promise of a superhuman ability with a deadly catch is a perfect dark-science hook."
+  },
+  {
+    "unique_id": "science_0129_010_11d45e42a0836bc2",
+    "title": "The Forbidden Experiment Where a Scientist Kept a Man in a Sensory Deprivation Tank for 30 Days",
+    "hook": "He emerged unable to speak, walk, or recognize his own reflection — his brain had forgotten how to be human.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 91,
+    "educational_value": 83,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "sensory deprivation",
+      "isolation experiment",
+      "human degradation",
+      "brain rewiring",
+      "psychological horror"
+    ],
+    "overlap_check_hash": "11d45e42a0836bc2",
+    "why_this_can_go_viral": "The slow erasure of personhood in isolation is deeply unsettling and psychologically rich."
+  },
+  {
+    "unique_id": "science_0129_011_8128f538bf9c0ce6",
+    "title": "The Biolab That Engineered a Fungus That Grows Faster Than Your Immune System Can React",
+    "hook": "It spread across tissue within minutes, outpacing the body's own defenses — victims watched themselves being consumed.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 93,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fast growing fungus",
+      "immune system failure",
+      "flesh eating fungus",
+      "bio horror",
+      "rapid infection"
+    ],
+    "overlap_check_hash": "8128f538bf9c0ce6",
+    "why_this_can_go_viral": "Body horror combined with helplessness creates an immediate visceral reaction."
+  },
+  {
+    "unique_id": "science_0129_013_aeee2e4db2177db0",
+    "title": "The Scientific Fraud Who Faked a 'Quantum Healing' Device — It Caused Organ Failure",
+    "hook": "Patients were told it realigned their quantum energy — instead, it emitted a frequency that disrupted cellular repair.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 79,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "quantum healing scam",
+      "pseudoscience",
+      "organ failure",
+      "fake medicine",
+      "fraud device"
+    ],
+    "overlap_check_hash": "aeee2e4db2177db0",
+    "why_this_can_go_viral": "Exposing a dangerous wellness scam that harms people is both educational and rage-inducing."
+  },
+  {
+    "unique_id": "science_0129_015_81b4340d7500daee",
+    "title": "The Quantum Paradox Where a Particle 'Chose' to Decay After Being Observed — but the Observation Was in the Future",
+    "hook": "A future measurement seemed to force a particle to decay in the past — the universe retroactively updated its history.",
+    "virality_score": 86,
+    "curiosity_gap_score": 94,
+    "darkness_score": 72,
+    "educational_value": 83,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "retrocausality",
+      "future observation",
+      "quantum decay",
+      "time paradox",
+      "quantum physics"
+    ],
+    "overlap_check_hash": "81b4340d7500daee",
+    "why_this_can_go_viral": "The implication that the future can change the past is a mind-blowing concept for any viewer."
+  },
+  {
+    "unique_id": "science_0129_016_49e021a26dcef986",
+    "title": "The Lab Catastrophe Where a Scientist Spilled a Chemical That Bonded Her Lungs Shut",
+    "hook": "A single drop of a cross-linking agent vaporized — she inhaled, and her alveoli fused into a solid mass.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 94,
+    "educational_value": 72,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "lung fusion",
+      "chemical spill",
+      "lab safety",
+      "respiratory failure",
+      "cross linking agent"
+    ],
+    "overlap_check_hash": "49e021a26dcef986",
+    "why_this_can_go_viral": "The idea of your lungs turning solid is a visually horrifying and unforgettable scenario."
+  },
+  {
+    "unique_id": "science_0129_017_34ba99e613469e88",
+    "title": "The Chemist Who Made a Polymer That Never Stops Expanding — and It Swallowed His Lab",
+    "hook": "He triggered a chain reaction that kept growing, consuming equipment, walls, and eventually the entire building.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 68,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "expanding polymer",
+      "lab disaster",
+      "runaway reaction",
+      "polymer accident",
+      "chemical growth"
+    ],
+    "overlap_check_hash": "34ba99e613469e88",
+    "why_this_can_go_viral": "The unstoppable, consuming blob scenario is a classic sci-fi horror that feels plausible."
+  },
+  {
+    "unique_id": "science_0129_019_74c6922a2709937e",
+    "title": "The Biolab That Created a Bacterium That Eats DNA — and Rewrites Your Genetic Code",
+    "hook": "It doesn't just destroy DNA — it edits your genome on the fly, turning you into something unrecognizable.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 89,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "DNA editing bacterium",
+      "genetic rewriting",
+      "bio horror",
+      "genome attack",
+      "microbial mutation"
+    ],
+    "overlap_check_hash": "74c6922a2709937e",
+    "why_this_can_go_viral": "The idea of your own DNA being rewritten by a microbe is a nightmare that feels biologically plausible."
+  },
+  {
+    "unique_id": "science_0129_020_532e49810c886a70",
+    "title": "The Physicist Who Created a 'Dark Matter' Lens That Showed a Parallel Version of Earth",
+    "hook": "The lens bent gravity around a hidden mass — and in the image, cities were empty and oceans glowed green.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "dark matter lens",
+      "parallel earth",
+      "gravity bending",
+      "alternate reality",
+      "physics anomaly"
+    ],
+    "overlap_check_hash": "532e49810c886a70",
+    "why_this_can_go_viral": "The discovery of a dark twin Earth taps into the deepest curiosity about alternate realities."
+  },
+  {
+    "unique_id": "science_0129_021_ffa2b24674ad7d95",
+    "title": "The Scientific Fraud Who Fabricated a 'Cure for Aging' — It Accelerated Aging 10x",
+    "hook": "The drug was supposed to reset telomeres. Instead, it triggered rapid senescence — patients aged decades in weeks.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 76,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "anti aging scam",
+      "telomere fraud",
+      "rapid aging",
+      "fake cure",
+      "medical fraud"
+    ],
+    "overlap_check_hash": "ffa2b24674ad7d95",
+    "why_this_can_go_viral": "The horror of aging at warp speed is a visceral and cautionary tale against fake science."
+  },
+  {
+    "unique_id": "science_0129_022_28b7d7407887b13a",
+    "title": "The Neuroscientist Who Found the Brain's 'Curiosity Switch' — and Turned It Off Permanently",
+    "hook": "A mouse with the region disabled stopped exploring, eating, and even breathing — it lost all will to live.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 84,
+    "educational_value": 77,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "curiosity brain region",
+      "will to live",
+      "neuroscience switch",
+      "mouse experiment",
+      "brain manipulation"
+    ],
+    "overlap_check_hash": "28b7d7407887b13a",
+    "why_this_can_go_viral": "The idea that curiosity is just a biological circuit — and can be turned off — is deeply existential."
+  },
+  {
+    "unique_id": "science_0129_023_2c8041a7ef13c79e",
+    "title": "The Quantum Paradox Where a Particle Was Found in Two Different Energy States — and It Broke the Schrödinger Equation",
+    "hook": "The math predicted it should be impossible — yet the particle existed in a state that violated the fundamental rules of quantum mechanics.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 62,
+    "educational_value": 84,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "schrodinger equation violation",
+      "quantum anomaly",
+      "impossible state",
+      "quantum mechanics",
+      "physics paradox"
+    ],
+    "overlap_check_hash": "2c8041a7ef13c79e",
+    "why_this_can_go_viral": "When the fundamental laws of physics break, it challenges everything we think we know."
+  },
+  {
+    "unique_id": "science_0129_024_f8fe1c497b17fac2",
+    "title": "The Lab Catastrophe Where a Scientist Spilled a Chemical That Made Her Skin Transparent",
+    "hook": "The compound cleared the pigment in her skin, revealing muscles, veins, and bones — and the effects were irreversible.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 87,
+    "educational_value": 70,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "skin transparency",
+      "chemical accident",
+      "lab disaster",
+      "pigment loss",
+      "body horror"
+    ],
+    "overlap_check_hash": "f8fe1c497b17fac2",
+    "why_this_can_go_viral": "The visual of seeing your own insides — with no way to reverse it — is uniquely horrifying."
+  },
+  {
+    "unique_id": "science_0129_025_99e81c5bd4c272f8",
+    "title": "The Chemist Who Discovered a Liquid That Boils at -50°C — and Freezes When Touched",
+    "hook": "It was a cryogenic fluid with the most bizarre property: human contact would instantly solidify it around your hand.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 70,
+    "educational_value": 73,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "cryogenic liquid",
+      "freezing on contact",
+      "chemical anomaly",
+      "cold disaster",
+      "lab freak accident"
+    ],
+    "overlap_check_hash": "99e81c5bd4c272f8",
+    "why_this_can_go_viral": "The paradox of a freezing liquid that burns with cold is a perfect curiosity hook."
+  }
+]

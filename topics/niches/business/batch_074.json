@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "business_0074_001_a200e0ccf6f8a0f7",
+    "title": "The Corp That Bought a Town—Then Made Everyone Sign a Gag Order",
+    "hook": "A mining company didn't just buy the land—they bought the silence of an entire town, and anyone who spoke got evicted.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "gag order",
+      "town buyout",
+      "corporate silence",
+      "forced eviction",
+      "mining scandal"
+    ],
+    "overlap_check_hash": "a200e0ccf6f8a0f7",
+    "why_this_can_go_viral": "The idea of an entire town being legally silenced feels dystopian and triggers strong emotional reactions and social sharing."
+  },
+  {
+    "unique_id": "business_0074_002_126b033931e6d283",
+    "title": "The Trader Who Used a Forest Fire to Short a Competitor's Stock",
+    "hook": "He didn't start the fire—but he knew exactly when it would hit the competitor's factory, and he bet everything on it.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "insider trading",
+      "forest fire",
+      "short selling",
+      "competitor sabotage",
+      "timing"
+    ],
+    "overlap_check_hash": "126b033931e6d283",
+    "why_this_can_go_viral": "Combines disaster, greed, and semi-legal edge-cases that feel like a thriller plot."
+  },
+  {
+    "unique_id": "business_0074_003_45bdb9b0662de9ed",
+    "title": "The Startup That Sold 'Fake Job Offers' to Inflate Its Valuation",
+    "hook": "They posted hundreds of nonexistent jobs—just to make investors think they were growing faster than reality.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 76,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "fake job posts",
+      "valuation fraud",
+      "investor deception",
+      "growth hacking",
+      "phantom hiring"
+    ],
+    "overlap_check_hash": "45bdb9b0662de9ed",
+    "why_this_can_go_viral": "Exposes a little-known tactic that feels shockingly easy to pull off, tapping into startup skepticism."
+  },
+  {
+    "unique_id": "business_0074_004_479d5a0a52a4a644",
+    "title": "The Monopoly That Owns All the Tires—Then Made You Pay Per Mile",
+    "hook": "They don't just sell tires—they lease them, and they track every rotation to charge you for wear and tear.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "tire monopoly",
+      "pay per mile",
+      "tracking tires",
+      "subscription model",
+      "rent seeking"
+    ],
+    "overlap_check_hash": "479d5a0a52a4a644",
+    "why_this_can_go_viral": "The shift from ownership to surveillance-based subscription is a hot-button issue for consumers."
+  },
+  {
+    "unique_id": "business_0074_008_9cedd52ec100e092",
+    "title": "The Industry Cover-Up of a 'Forever Chemical' in Baby Shampoo",
+    "hook": "The company knew the chemical caused liver damage in infants—they buried the study for 30 years.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "forever chemicals",
+      "baby shampoo",
+      "liver damage",
+      "buried study",
+      "corporate secrecy"
+    ],
+    "overlap_check_hash": "9cedd52ec100e092",
+    "why_this_can_go_viral": "Combines parenting anxiety with corporate malfeasance, a formula for massive emotional engagement."
+  },
+  {
+    "unique_id": "business_0074_009_2870915d8f1017b2",
+    "title": "The Trader Who Bought a Radio Station to Broadcast Fake Stock Tips",
+    "hook": "He didn't need a trading floor—just a transmitter and a voice that sounded like an expert.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 71,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "fake radio tips",
+      "stock manipulation",
+      "pump and dump",
+      "radio fraud",
+      "voice deception"
+    ],
+    "overlap_check_hash": "2870915d8f1017b2",
+    "why_this_can_go_viral": "The audacity of using old-school radio for modern market manipulation has a fascinating retro-futurism."
+  },
+  {
+    "unique_id": "business_0074_010_1144fbdeb74cc0f6",
+    "title": "The Startup That Faked a Hack to Avoid Paying Investors",
+    "hook": "They staged a ransomware attack—demanded a 'ransom' from themselves—and blamed it for losing everyone's money.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 79,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "fake ransomware",
+      "investor fraud",
+      "staged hack",
+      "money disappearing",
+      "scam startup"
+    ],
+    "overlap_check_hash": "1144fbdeb74cc0f6",
+    "why_this_can_go_viral": "The twist of a company scamming itself to scam others is darkly ironic and highly clickable."
+  },
+  {
+    "unique_id": "business_0074_012_42de31bd38d40dbd",
+    "title": "The Spy Who Dumped a Rival's Secret Recipe Down a Sewer Drain",
+    "hook": "He didn't steal the formula—he destroyed it, by memorizing it, then flushing the only copy and erasing his memory.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 87,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "recipe destruction",
+      "industrial sabotage",
+      "memory erasure",
+      "sewer drain",
+      "formula war"
+    ],
+    "overlap_check_hash": "42de31bd38d40dbd",
+    "why_this_can_go_viral": "The extreme lengths of sabotage—including self-induced memory loss—sound like a spy movie but are real."
+  },
+  {
+    "unique_id": "business_0074_013_e451b77495b6efdc",
+    "title": "The Ad Agency That Paid Actors to Start Fights in Public—for a Phone Brand",
+    "hook": "They staged real-looking street brawls, filmed them, and made the phone seem essential for 'capturing the truth.'",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 64,
+    "estimated_short_retention": 81,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "fake street fights",
+      "staged violence marketing",
+      "phone advertising",
+      "viral campaign",
+      "actor deception"
+    ],
+    "overlap_check_hash": "e451b77495b6efdc",
+    "why_this_can_go_viral": "The line between reality and advertising blurs—viewers love to feel like they've been tricked."
+  },
+  {
+    "unique_id": "business_0074_014_09ee3c4008c8940d",
+    "title": "The Factory That Sold 'Fresh' Milk—It Was Powdered and Reconstituted With Tap Water",
+    "hook": "They imported bulk milk powder, mixed it with local tap water, and called it 'farm-fresh'—for a decade.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 73,
+    "educational_value": 74,
+    "estimated_short_retention": 77,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "fake fresh milk",
+      "powdered milk scandal",
+      "tap water fraud",
+      "dairy deception",
+      "reconstituted"
+    ],
+    "overlap_check_hash": "09ee3c4008c8940d",
+    "why_this_can_go_viral": "Milk is a staple; the idea that it's fake is deeply unsettling and spreads quickly among parents."
+  },
+  {
+    "unique_id": "business_0074_015_68e983f2f988634a",
+    "title": "The Corporation That Bought a Medical School—Then Graduated Fake Doctors",
+    "hook": "They owned the accreditation board, the curriculum, and the testing—and sold diplomas to anyone who paid.",
+    "virality_score": 95,
+    "curiosity_gap_score": 96,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "fake doctors",
+      "medical diploma mill",
+      "accreditation fraud",
+      "corporate school",
+      "patient risk"
+    ],
+    "overlap_check_hash": "68e983f2f988634a",
+    "why_this_can_go_viral": "The ultimate trust violation: pretending to train doctors while producing unqualified practitioners."
+  },
+  {
+    "unique_id": "business_0074_016_a0d321cf3930aa44",
+    "title": "The Trader Who Used a Church Bell to Time His Trades",
+    "hook": "Every time the bell rang, it was a signal from a co-conspirator inside the rival firm—using the church as a wire.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 81,
+    "educational_value": 68,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "church bell signal",
+      "trading secret",
+      "insider code",
+      "auditory espionage",
+      "old school hack"
+    ],
+    "overlap_check_hash": "a0d321cf3930aa44",
+    "why_this_can_go_viral": "The low-tech, almost poetic method of market manipulation is both charming and sinister."
+  },
+  {
+    "unique_id": "business_0074_018_71dc6553c8e60a98",
+    "title": "The Monopoly That Owns All the Pharmacies—Then Deliberately Overpriced Insulin",
+    "hook": "They bought up independent pharmacies one by one, then doubled the price of life-saving drugs overnight.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 89,
+    "educational_value": 77,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "pharmacy monopoly",
+      "insulin price",
+      "drug price gouging",
+      "independent buyout",
+      "life-saving"
+    ],
+    "overlap_check_hash": "71dc6553c8e60a98",
+    "why_this_can_go_viral": "Insulin pricing is a deeply emotional and political issue; exposing the monopolistic mechanism drives engagement."
+  },
+  {
+    "unique_id": "business_0074_019_c61e2092c47d9e1b",
+    "title": "The Spy Who Stole a Factory's Entire Production Schedule by Dating the Foreman",
+    "hook": "She didn't need a keycard—just a date night and a few glasses of wine to extract a year of manufacturing secrets.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 77,
+    "educational_value": 63,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "romance spy",
+      "production secrets",
+      "foreman trap",
+      "industrial espionage",
+      "date night theft"
+    ],
+    "overlap_check_hash": "c61e2092c47d9e1b",
+    "why_this_can_go_viral": "The blend of romance and betrayal is universally juicy and fits the 'honeypot' trope perfectly."
+  },
+  {
+    "unique_id": "business_0074_020_063708adbf90736f",
+    "title": "The Ad Campaign That Used Hidden Cameras to Test Emotional Weaknesses",
+    "hook": "They filmed people in private moments—crying, arguing, vulnerable—then used that footage to sell them therapy apps.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 85,
+    "educational_value": 69,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "hidden camera ads",
+      "emotional exploitation",
+      "therapy app scam",
+      "privacy violation",
+      "vulnerability mining"
+    ],
+    "overlap_check_hash": "063708adbf90736f",
+    "why_this_can_go_viral": "The invasion of privacy to sell mental health solutions is deeply ironic and anger-inducing."
+  },
+  {
+    "unique_id": "business_0074_021_c5f014667dbf6643",
+    "title": "The Factory That Sold 'Wild Honey'—It Was Corn Syrup and Bee Pheromones",
+    "hook": "They mixed high-fructose corn syrup with synthetic bee scent, then labeled it 'raw wildflower honey'—and sold it for triple.",
+    "virality_score": 78,
+    "curiosity_gap_score": 81,
+    "darkness_score": 71,
+    "educational_value": 73,
+    "estimated_short_retention": 76,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "fake honey",
+      "corn syrup fraud",
+      "bee pheromones",
+      "food adulteration",
+      "wildflower scam"
+    ],
+    "overlap_check_hash": "c5f014667dbf6643",
+    "why_this_can_go_viral": "People love honey for its 'natural' appeal; discovering it's synthetic triggers betrayal and shareability."
+  },
+  {
+    "unique_id": "business_0074_022_0dd1cc1e07cc4a99",
+    "title": "The Company That Covered Up a Factory Explosion by Calling It a 'Training Exercise'",
+    "hook": "Seven workers died—but the company told the media it was a planned emergency drill, and no one questioned it for years.",
+    "virality_score": 94,
+    "curiosity_gap_score": 95,
+    "darkness_score": 93,
+    "educational_value": 76,
+    "estimated_short_retention": 92,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "factory explosion",
+      "fake drill",
+      "worker deaths",
+      "cover up",
+      "media manipulation"
+    ],
+    "overlap_check_hash": "0dd1cc1e07cc4a99",
+    "why_this_can_go_viral": "The audacity of hiding deaths as a drill is maximum darkness—outrage and morbid curiosity drive shares."
+  },
+  {
+    "unique_id": "business_0074_023_29ebea85aae69577",
+    "title": "The Trader Who Bought a Weather Service—Then Forecast Fake Storms to Move Markets",
+    "hook": "He predicted hurricanes that never existed—and traded futures on the panic, using his own weather channel.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 83,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "fake weather",
+      "storm prediction fraud",
+      "futures manipulation",
+      "weather channel scam",
+      "panic trading"
+    ],
+    "overlap_check_hash": "29ebea85aae69577",
+    "why_this_can_go_viral": "Controlling the weather forecast to control markets feels like a supervillain move—highly shareable."
+  },
+  {
+    "unique_id": "business_0074_024_eaded22a9c3c4875",
+    "title": "The Startup That Used AI to Generate Fake User Reviews—Then Sold the 'Perfect Product'",
+    "hook": "They trained an AI to write 50,000 five-star reviews across platforms—and not a single human had used the product.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 71,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "AI reviews",
+      "fake feedback",
+      "product fraud",
+      "review manipulation",
+      "deceptive AI"
+    ],
+    "overlap_check_hash": "eaded22a9c3c4875",
+    "why_this_can_go_viral": "Everyone relies on reviews; revealing they can be entirely AI-generated is deeply unsettling and shareable."
+  },
+  {
+    "unique_id": "business_0074_025_9285c28eaea2aebc",
+    "title": "The Monopoly That Bought All the Piano Tuning Services—Then Lobbied to Make Tuning Illegal for Anyone Else",
+    "hook": "They didn't want competition—so they paid politicians to pass a law requiring a 'certification' only they offered.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "piano tuning monopoly",
+      "regulatory capture",
+      "certification scam",
+      "lobbying abuse",
+      "trade restriction"
+    ],
+    "overlap_check_hash": "9285c28eaea2aebc",
+    "why_this_can_go_viral": "The absurd specificity of piano tuning regulation being weaponized is both funny and horrifying—perfect for clicks."
+  }
+]

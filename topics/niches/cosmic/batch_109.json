@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "cosmic_0109_001_11c058cc62fe17af",
+    "title": "The Asteroid That Woke Up a Dormant Volcano",
+    "hook": "A near-miss in 2012 triggered a hidden magma chamber deep under the Pacific, and no one knew until years later.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 75,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "asteroid",
+      "volcano",
+      "near-miss",
+      "magma",
+      "hidden threat"
+    ],
+    "overlap_check_hash": "11c058cc62fe17af",
+    "why_this_can_go_viral": "Combines real asteroid data with a terrifying Earth response that feels like a disaster movie secret."
+  },
+  {
+    "unique_id": "cosmic_0109_003_cd6fbbb0970a3fc9",
+    "title": "The Classified 'Space Fence' That Tracks Everything",
+    "hook": "The US Air Force built a secret radar network that can detect a screwdriver in orbit—and it's watching you.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "Space Fence",
+      "classified",
+      "radar",
+      "tracking",
+      "orbit"
+    ],
+    "overlap_check_hash": "cd6fbbb0970a3fc9",
+    "why_this_can_go_viral": "Taps into surveillance paranoia and hidden military tech in space."
+  },
+  {
+    "unique_id": "cosmic_0109_004_5c7aac16a9fa7097",
+    "title": "The Extinction That Came from a Frozen Ocean",
+    "hook": "A billion years ago, Earth's oceans froze solid and then ignited—killing nearly everything.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 77,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "Snowball Earth",
+      "extinction",
+      "frozen",
+      "ignition",
+      "mass death"
+    ],
+    "overlap_check_hash": "5c7aac16a9fa7097",
+    "why_this_can_go_viral": "Extreme contrast between ice and fire makes a shocking, shareable story."
+  },
+  {
+    "unique_id": "cosmic_0109_005_6bfd9a0f813eb51d",
+    "title": "The Star That Is Slowly Sucking Earth's Atmosphere",
+    "hook": "Our Sun is evaporating 90 tons of oxygen from Earth every day—and it's accelerating.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 82,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "Sun",
+      "atmosphere",
+      "evaporation",
+      "oxygen loss",
+      "slow death"
+    ],
+    "overlap_check_hash": "6bfd9a0f813eb51d",
+    "why_this_can_go_viral": "Immediate, personal threat that most people don't know about—creates urgency."
+  },
+  {
+    "unique_id": "cosmic_0109_006_0a58aa208661b6e1",
+    "title": "The Dark Matter Signal That Turned Out to Be a Mistake",
+    "hook": "For three years, scientists thought they detected dark matter—until they found the real source: a nuclear reactor.",
+    "virality_score": 74,
+    "curiosity_gap_score": 80,
+    "darkness_score": 70,
+    "educational_value": 76,
+    "estimated_short_retention": 75,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter",
+      "false signal",
+      "nuclear reactor",
+      "DAMA",
+      "hoax"
+    ],
+    "overlap_check_hash": "0a58aa208661b6e1",
+    "why_this_can_go_viral": "Reveals how fragile scientific certainty is and teases the 'real' dark matter."
+  },
+  {
+    "unique_id": "cosmic_0109_008_79e999b556b3c5b0",
+    "title": "The Signal That Was a Binary Code from Another Dimension",
+    "hook": "A burst from deep space repeated a prime number sequence in a language that shouldn't exist in our universe.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 82,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "signal",
+      "binary",
+      "extra dimension",
+      "prime numbers",
+      "alien"
+    ],
+    "overlap_check_hash": "79e999b556b3c5b0",
+    "why_this_can_go_viral": "Mysterious, mathematical, and opens the door to multiverse theories—high shareability."
+  },
+  {
+    "unique_id": "cosmic_0109_010_7c3d51fc3b33be6d",
+    "title": "The Star That Has a Companion Made of Pure Diamond",
+    "hook": "A white dwarf star is orbited by a planet-sized diamond, the remains of a star that crystallized under pressure.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 65,
+    "educational_value": 78,
+    "estimated_short_retention": 79,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "diamond planet",
+      "white dwarf",
+      "crystallized",
+      "star companion",
+      "carbon"
+    ],
+    "overlap_check_hash": "7c3d51fc3b33be6d",
+    "why_this_can_go_viral": "Luxury + cosmic mystery = high intrigue, and the visuals are stunning."
+  },
+  {
+    "unique_id": "cosmic_0109_011_7c93a1b54a9579c6",
+    "title": "The Classified 'Dead Hand' Satellite That Can Nuke Orbit",
+    "hook": "Russia built a satellite that, if destroyed, detonates a nuclear bomb in space—taking out everything.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "Dead Hand",
+      "satellite",
+      "nuclear",
+      "retaliation",
+      "orbit"
+    ],
+    "overlap_check_hash": "7c93a1b54a9579c6",
+    "why_this_can_go_viral": "Nuclear doomsday machine in space—story is both terrifying and secret."
+  },
+  {
+    "unique_id": "cosmic_0109_013_ab9d1d9792f1ab3f",
+    "title": "The Star That Erupted and Sterilized Its Neighbor",
+    "hook": "A supernova 7,500 years ago blasted a nearby star system with radiation, killing any life that existed there.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 79,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "supernova",
+      "sterilization",
+      "radiation",
+      "neighbor star",
+      "death"
+    ],
+    "overlap_check_hash": "ab9d1d9792f1ab3f",
+    "why_this_can_go_viral": "Shows that stars can 'murder' other worlds—cosmic scale violence."
+  },
+  {
+    "unique_id": "cosmic_0109_014_566e349024415fab",
+    "title": "The Dark Matter Cloud That Is Swallowing Galaxies",
+    "hook": "A massive invisible cloud is drifting through the universe, consuming galaxies from the inside out.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 86,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter cloud",
+      "galaxy",
+      "consuming",
+      "invisible",
+      "death"
+    ],
+    "overlap_check_hash": "566e349024415fab",
+    "why_this_can_go_viral": "Imagery of silent, invisible destruction is haunting and shareable."
+  },
+  {
+    "unique_id": "cosmic_0109_015_df8f80e6f8b529ba",
+    "title": "The Fermi Paradox Answer: 'They Know We're Here and Don't Care'",
+    "hook": "A new study suggests advanced life sees Earth as a wildlife preserve—not worth contacting.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "Fermi Paradox",
+      "alien",
+      "indifference",
+      "wildlife preserve",
+      "contact"
+    ],
+    "overlap_check_hash": "df8f80e6f8b529ba",
+    "why_this_can_go_viral": "Egocentric humans learn we're insignificant—provokes strong reaction and debate."
+  },
+  {
+    "unique_id": "cosmic_0109_016_d4322ab745091ef0",
+    "title": "The Signal That Was a 'Death Scream' from a Dying Star",
+    "hook": "A radio burst captured the exact moment a star was torn apart by a black hole—and it sounds like a scream.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 89,
+    "educational_value": 73,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "signal",
+      "death scream",
+      "star",
+      "black hole",
+      "audio"
+    ],
+    "overlap_check_hash": "d4322ab745091ef0",
+    "why_this_can_go_viral": "Auditory horror—people will want to hear it, making it highly shareable."
+  },
+  {
+    "unique_id": "cosmic_0109_017_fec695cb05c4c3ad",
+    "title": "The Asteroid That Has a Moon That Is a Mini Black Hole",
+    "hook": "A small asteroid near Earth has a companion that emits no light—only gravity betrays its presence.",
+    "virality_score": 85,
+    "curiosity_gap_score": 93,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "asteroid",
+      "moon",
+      "black hole",
+      "gravity",
+      "hidden"
+    ],
+    "overlap_check_hash": "fec695cb05c4c3ad",
+    "why_this_can_go_viral": "Combines near-Earth threat with a mind-bending object—perfect for deep dives."
+  },
+  {
+    "unique_id": "cosmic_0109_018_9917bf287226cc85",
+    "title": "The Star That Ejects Liquid Lava into Space Every 26 Days",
+    "hook": "A red giant literally bleeds molten rock into its orbit, creating a glowing ring of death.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 77,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "lava star",
+      "eruption",
+      "red giant",
+      "molten",
+      "ring"
+    ],
+    "overlap_check_hash": "9917bf287226cc85",
+    "why_this_can_go_viral": "Visceral, violent imagery that feels like science fiction but is real."
+  },
+  {
+    "unique_id": "cosmic_0109_019_28a953c4e428038d",
+    "title": "The Classified X-37B Mission That Stayed Up for 908 Days",
+    "hook": "The US Space Force's secret space plane orbited Earth for two and a half years—no one knows what it did.",
+    "virality_score": 81,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "X-37B",
+      "space plane",
+      "classified",
+      "secret mission",
+      "orbit"
+    ],
+    "overlap_check_hash": "28a953c4e428038d",
+    "why_this_can_go_viral": "Mystery and government secrecy always drive clicks and speculation."
+  },
+  {
+    "unique_id": "cosmic_0109_020_4ee5b5bf023d8171",
+    "title": "The Extinction That Was a 'Cosmic Ray Shower' from a Nearby Blast",
+    "hook": "A supernova 260 light-years away hit Earth with a burst of cosmic rays that triggered a mass die-off.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 86,
+    "educational_value": 76,
+    "estimated_short_retention": 78,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "cosmic rays",
+      "supernova",
+      "extinction",
+      "radiation",
+      "blast"
+    ],
+    "overlap_check_hash": "4ee5b5bf023d8171",
+    "why_this_can_go_viral": "Space can murder us silently from far away—disturbing and real."
+  },
+  {
+    "unique_id": "cosmic_0109_022_ef706563e6e3f034",
+    "title": "The Dark Matter Filament That Connects All Galaxies Like a Web",
+    "hook": "Invisible threads of dark matter link every galaxy in the universe—and we may be trapped inside one.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 77,
+    "educational_value": 76,
+    "estimated_short_retention": 82,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter filament",
+      "cosmic web",
+      "galaxy",
+      "invisible",
+      "trap"
+    ],
+    "overlap_check_hash": "ef706563e6e3f034",
+    "why_this_can_go_viral": "Visual of a hidden prison structure sparks awe and paranoia."
+  },
+  {
+    "unique_id": "cosmic_0109_024_90d1d78fa8e47117",
+    "title": "The Signal That Was a 'Time Capsule' from Earth's Future",
+    "hook": "A radio wave pattern matched Earth's own broadcasts—but it arrived from a direction no satellite ever was.",
+    "virality_score": 84,
+    "curiosity_gap_score": 95,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "signal",
+      "time capsule",
+      "future",
+      "Earth",
+      "mystery"
+    ],
+    "overlap_check_hash": "90d1d78fa8e47117",
+    "why_this_can_go_viral": "Time paradox + alien signal = mind-blowing content that begs to be shared."
+  }
+]

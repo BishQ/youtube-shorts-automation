@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "science_0082_001_405fd0486f33a546",
+    "title": "The Scientist Who Grafted a Second Head Onto a Rat",
+    "hook": "In a Soviet lab, a surgeon kept a two-headed rat alive for months—and the second head could eat, drink, and even bite.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "two headed rat",
+      "soviet experiment",
+      "head transplant",
+      "animal cruelty",
+      "forbidden science"
+    ],
+    "overlap_check_hash": "405fd0486f33a546",
+    "why_this_can_go_viral": "The grotesque visual of a two-headed rat combined with the Cold War secrecy angle triggers morbid curiosity and shareability."
+  },
+  {
+    "unique_id": "science_0082_002_8b073f0a38e03b88",
+    "title": "The Lab Leak That Created a Flesh-Eating Superbug",
+    "hook": "A university lab accidentally released a bacterium that dissolves human tissue in hours—and it's still out there.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "flesh eating bacteria",
+      "lab leak",
+      "superbug",
+      "biohazard",
+      "necrotizing fasciitis"
+    ],
+    "overlap_check_hash": "8b073f0a38e03b88",
+    "why_this_can_go_viral": "Flesh-eating bacteria triggers primal fear, and the lab-leak angle adds a man-made disaster narrative that drives clicks."
+  },
+  {
+    "unique_id": "science_0082_003_c85920707363a13d",
+    "title": "The Worm That Burrows Into Your Brain and Controls Hunger",
+    "hook": "A parasitic worm enters through your nose, lodges in the hypothalamus, and forces you to binge eat until you die.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "brain parasite",
+      "hunger control",
+      "rat lungworm",
+      "parasitic worm",
+      "appetite manipulation"
+    ],
+    "overlap_check_hash": "c85920707363a13d",
+    "why_this_can_go_viral": "Body-horror combined with loss of control over basic instincts is a visceral hook that guarantees high retention."
+  },
+  {
+    "unique_id": "science_0082_005_6354dc02de111844",
+    "title": "The Fraud Who Faked a Study Showing Humans Are Radioactive",
+    "hook": "A respected scientist published 'proof' that human cells emit death rays—the entire field of radiobiology was built on a lie.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 72,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "scientific fraud",
+      "mitogenic rays",
+      "fake study",
+      "radiobiology",
+      "false discovery"
+    ],
+    "overlap_check_hash": "6354dc02de111844",
+    "why_this_can_go_viral": "The irony that a whole field was built on bunk triggers outrage and fascination with how science can be fooled."
+  },
+  {
+    "unique_id": "science_0082_006_fadfcc763947f7fd",
+    "title": "The Chemist Who Made an Explosive That Detonates on Contact with Air",
+    "hook": "He synthesized a compound so unstable that a single dust particle could level an entire building.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 74,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "unstable explosive",
+      "nitrogen triiodide",
+      "lab explosion",
+      "dangerous chemical",
+      "touch explosive"
+    ],
+    "overlap_check_hash": "fadfcc763947f7fd",
+    "why_this_can_go_viral": "The immediate, dramatic danger of an invisible, contact-sensitive explosive is perfect for short-form suspense."
+  },
+  {
+    "unique_id": "science_0082_007_c4893ca3ed6c8624",
+    "title": "The Neuroscientist Who Made a Rat Forget Its Own Mother",
+    "hook": "By zapping a single brain region, he erased a rat's most primal bond—and made it attack its own pup.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 76,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory erasure",
+      "maternal bond",
+      "optogenetics",
+      "brain manipulation",
+      "animal behavior"
+    ],
+    "overlap_check_hash": "c4893ca3ed6c8624",
+    "why_this_can_go_viral": "Destroying the mother-child bond is an emotional gut-punch that people can't look away from."
+  },
+  {
+    "unique_id": "science_0082_009_28dba280408ba49d",
+    "title": "The Forbidden Experiment That Tried to Raise a Chimp as a Human",
+    "hook": "A psychologist raised a chimpanzee as his own child, dressing it in clothes and teaching it language—until it turned violent.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "chimp raised as human",
+      "psychology experiment",
+      "animal humanization",
+      "failed experiment",
+      "guam chimp"
+    ],
+    "overlap_check_hash": "28dba280408ba49d",
+    "why_this_can_go_viral": "The boundary between human and animal, combined with a tragic ending, creates a powerful emotional and ethical hook."
+  },
+  {
+    "unique_id": "science_0082_010_4fc16db2971a26c9",
+    "title": "The Lab That Melted a Hole Through Concrete with a Chemical Spill",
+    "hook": "A single beaker of hydrofluoric acid ate through a lab bench, the floor, and three stories of concrete before reaching the soil.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 80,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "hydrofluoric acid",
+      "chemical spill",
+      "lab disaster",
+      "corrosive",
+      "acid burn"
+    ],
+    "overlap_check_hash": "4fc16db2971a26c9",
+    "why_this_can_go_viral": "The visual of acid eating through solid concrete is visceral, dangerous, and perfect for 'worst lab accident' lists."
+  },
+  {
+    "unique_id": "science_0082_014_b8a83b9b1082a169",
+    "title": "The Chemistry Disaster That Created a Lake of Acid Beneath a City",
+    "hook": "Mining runoff turned a groundwater aquifer into sulfuric acid, dissolving pipes and threatening to collapse the entire city above.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 77,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "acid lake",
+      "mine runoff",
+      "sulfuric acid",
+      "environmental disaster",
+      "groundwater contamination"
+    ],
+    "overlap_check_hash": "b8a83b9b1082a169",
+    "why_this_can_go_viral": "The hidden, growing threat beneath a city is a classic disaster narrative that generates 'what if' fear."
+  },
+  {
+    "unique_id": "science_0082_015_a63f5fefe2f2394d",
+    "title": "The Neuroscientist Who Lit Up a Brain With a Single Neuron",
+    "hook": "He activated one nerve cell in a mouse brain, and the mouse instantly began running in circles for hours.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 75,
+    "educational_value": 79,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "single neuron",
+      "brain control",
+      "circular behavior",
+      "optogenetics",
+      "animal behavior"
+    ],
+    "overlap_check_hash": "a63f5fefe2f2394d",
+    "why_this_can_go_viral": "The idea that one cell can hijack an entire organism's behavior is deeply unsettling and fascinating."
+  },
+  {
+    "unique_id": "science_0082_016_5421e079f2dee51d",
+    "title": "The Quantum Paradox Where Information Travels Faster Than Light",
+    "hook": "Two entangled particles communicated instantly across a lab—Einstein called it 'spooky action at a distance.'",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 62,
+    "educational_value": 84,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum entanglement",
+      "faster than light",
+      "spooky action",
+      "einstein",
+      "quantum communication"
+    ],
+    "overlap_check_hash": "5421e079f2dee51d",
+    "why_this_can_go_viral": "Breaking the speed of light is a fundamental rule violation that sparks wonder and debate."
+  },
+  {
+    "unique_id": "science_0082_017_d166ebfce3de4b09",
+    "title": "The Lab That Bred a Mouse With a Human Immune System",
+    "hook": "Scientists injected human stem cells into a mouse embryo, creating a hybrid that could catch human diseases.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 74,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human mouse chimera",
+      "stem cell",
+      "hybrid embryo",
+      "genetic hybrid",
+      "bioethics"
+    ],
+    "overlap_check_hash": "d166ebfce3de4b09",
+    "why_this_can_go_viral": "The boundary between human and animal is ethically terrifying and visually striking."
+  },
+  {
+    "unique_id": "science_0082_018_ef81072a6775fc1f",
+    "title": "The Parasite That Crawls Out of a Rat's Eye and Infects a Cat",
+    "hook": "A worm lives in a rat's eyeball, exits through the tear duct, and waits for a cat to swallow it whole.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 73,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "eye worm",
+      "parasite lifecycle",
+      "rat cat infection",
+      "thelazia",
+      "gross biology"
+    ],
+    "overlap_check_hash": "ef81072a6775fc1f",
+    "why_this_can_go_viral": "The graphic, step-by-step escape from an eyeball is pure horror that guarantees high retention and shares."
+  },
+  {
+    "unique_id": "science_0082_019_599807241443a198",
+    "title": "The Physicist Who Made a Black Hole in a Lab and It Started Glowing",
+    "hook": "He created a sonic black hole in a tank of water—and it emitted radiation, just like Hawking predicted.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 81,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "lab black hole",
+      "sonic black hole",
+      "hawking radiation",
+      "analogue gravity",
+      "event horizon"
+    ],
+    "overlap_check_hash": "599807241443a198",
+    "why_this_can_go_viral": "Creating a black hole in a lab sounds like sci-fi, and the glowing radiation visual is mesmerizing."
+  },
+  {
+    "unique_id": "science_0082_021_d4da0855ca9bc98d",
+    "title": "The Neuroscientist Who Found That Your Brain Can See Your Own Death",
+    "hook": "Near-death patients showed a burst of brain activity just before flatlining—as if the brain was replaying its entire life.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "near death experience",
+      "brain activity",
+      "life review",
+      "death wave",
+      "consciousness"
+    ],
+    "overlap_check_hash": "d4da0855ca9bc98d",
+    "why_this_can_go_viral": "The mystery of what happens at death is universally compelling and deeply emotional."
+  },
+  {
+    "unique_id": "science_0082_022_015c03f5dfb5b271",
+    "title": "The Lab Catastrophe Where a Centrifuge Exploded and Shot a Hole Through the Wall",
+    "hook": "A rotor spinning at 60,000 RPM disintegrated, sending metal fragments through concrete like bullets.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 77,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "centrifuge explosion",
+      "rotor failure",
+      "lab safety",
+      "high speed accident",
+      "flying debris"
+    ],
+    "overlap_check_hash": "015c03f5dfb5b271",
+    "why_this_can_go_viral": "The sheer kinetic energy of a spinning centrifuge failing is visually spectacular and dangerous."
+  },
+  {
+    "unique_id": "science_0082_023_b86ef75804b6f458",
+    "title": "The Fraud Who Faked a Study Proving That Water Has Memory",
+    "hook": "A Japanese researcher claimed water molecules remember emotions—his work was embraced by millions before being exposed.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 70,
+    "educational_value": 76,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "water memory",
+      "masaru emoto",
+      "pseudoscience",
+      "fraud",
+      "emotional water"
+    ],
+    "overlap_check_hash": "b86ef75804b6f458",
+    "why_this_can_go_viral": "The idea that water can hold memories is both emotionally appealing and scientifically false, driving debate."
+  },
+  {
+    "unique_id": "science_0082_024_cc775b72f6788c95",
+    "title": "The Biologist Who Discovered a Plant That Eats Metal",
+    "hook": "A tree in the Philippines grows leaves so rich in nickel that it can be harvested like ore.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 72,
+    "educational_value": 79,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "metal eating plant",
+      "hyperaccumulator",
+      "nickel tree",
+      "phytomining",
+      "weird plants"
+    ],
+    "overlap_check_hash": "cc775b72f6788c95",
+    "why_this_can_go_viral": "A plant that behaves like a mining drill is weird, beautiful, and taps into nature's strange adaptability."
+  },
+  {
+    "unique_id": "science_0082_025_4c79a044de9062aa",
+    "title": "The Physics Anomaly Where Sound Waves Travel in a Straight Line Forever",
+    "hook": "In a special medium, physicists made a sound wave that never spreads out—it travels as a perfect, unchanging beam.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 64,
+    "educational_value": 83,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "sound beam",
+      "acoustic wave",
+      "nondiffracting",
+      "bessel beam",
+      "sound propagation"
+    ],
+    "overlap_check_hash": "4c79a044de9062aa",
+    "why_this_can_go_viral": "The idea of a sound wave that never fades is counterintuitive and visually elegant."
+  }
+]

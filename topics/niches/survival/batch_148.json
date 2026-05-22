@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "survival_0148_001_0a81ad7062c3179c",
+    "title": "The Diver Who Found a Wreck Where the Bodies Were Still Warm",
+    "hook": "He entered a ship that sank decades before the war—but the corpses inside had the body heat of the recently dead.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 35,
+    "estimated_short_retention": 80,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "shipwreck",
+      "diver",
+      "bodies still warm",
+      "deep sea anomaly",
+      "naval mystery"
+    ],
+    "overlap_check_hash": "0a81ad7062c3179c",
+    "why_this_can_go_viral": "The contradiction of 'long-dead but still warm' creates an immediate mystery that viewers must see resolved."
+  },
+  {
+    "unique_id": "survival_0148_003_385b69fad10af262",
+    "title": "The Expedition That Found a Cave Where the Air Breathed Back",
+    "hook": "They descended into a silent cavern—until the darkness inhaled.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 30,
+    "estimated_short_retention": 88,
+    "niche_name": "survival",
+    "subcategory": "stranded expeditions",
+    "keywords": [
+      "cave",
+      "breathing darkness",
+      "expedition",
+      "caver horror",
+      "underground anomaly"
+    ],
+    "overlap_check_hash": "385b69fad10af262",
+    "why_this_can_go_viral": "The concept of the environment itself being alive taps into primal fear and sparks endless speculation."
+  },
+  {
+    "unique_id": "survival_0148_005_5497e5133a64286d",
+    "title": "The Climber Who Was Stranded on a Peak Where the Air Smelled Like Burning Sugar",
+    "hook": "At 20,000 feet, the wind shifted—and the sweet smell made her want to eat the snow.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 70,
+    "educational_value": 40,
+    "estimated_short_retention": 75,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "climber",
+      "stranded",
+      "sweet smell",
+      "altitude hallucination",
+      "breaking point"
+    ],
+    "overlap_check_hash": "5497e5133a64286d",
+    "why_this_can_go_viral": "The juxtaposition of a pleasant smell in a deadly situation creates cognitive dissonance and curiosity."
+  },
+  {
+    "unique_id": "survival_0148_007_a380f8691927e87b",
+    "title": "The Explorer Who Got Lost in a Desert Where the Stars Never Moved",
+    "hook": "He walked for three nights—and the same constellation hung directly overhead, unchanging.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 75,
+    "educational_value": 35,
+    "estimated_short_retention": 86,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "desert",
+      "fixed stars",
+      "lost",
+      "navigation failure",
+      "anomaly"
+    ],
+    "overlap_check_hash": "a380f8691927e87b",
+    "why_this_can_go_viral": "Defies basic astronomy, instantly raises questions about location, time, or reality itself."
+  },
+  {
+    "unique_id": "survival_0148_008_a6fb048c5f09061f",
+    "title": "The Group Stranded in a Swamp Where the Mud Pulled People Down in Silence",
+    "hook": "No one screamed. They just sank—as if the ground had been waiting.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 25,
+    "estimated_short_retention": 83,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "swamp",
+      "sinking",
+      "silent death",
+      "quicksand",
+      "group panic"
+    ],
+    "overlap_check_hash": "a6fb048c5f09061f",
+    "why_this_can_go_viral": "The silence amplifies dread; viewers will imagine themselves in that helpless situation."
+  },
+  {
+    "unique_id": "survival_0148_009_876b78ee83c211e5",
+    "title": "The Survivor Who Was Trapped in a Mine—And the Walls Were Covered in Hair",
+    "hook": "He lit a match and saw the tunnel lined with strands—some still growing from the rock.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 20,
+    "estimated_short_retention": 89,
+    "niche_name": "survival",
+    "subcategory": "near-death escape stories",
+    "keywords": [
+      "mine",
+      "hair",
+      "trapped",
+      "subterranean horror",
+      "growth anomaly"
+    ],
+    "overlap_check_hash": "876b78ee83c211e5",
+    "why_this_can_go_viral": "Bizarre biological impossibility triggers disgust, fear, and intense curiosity."
+  },
+  {
+    "unique_id": "survival_0148_010_a7f764a8737c7921",
+    "title": "The Diver Who Got Stuck in a Wreck—And the Coral Was Growing Over His Regulator",
+    "hook": "The reef was alive, and it was sealing his air supply—one polyp at a time.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 78,
+    "educational_value": 45,
+    "estimated_short_retention": 76,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "diver",
+      "coral growth",
+      "regulator",
+      "wreck",
+      "slow death"
+    ],
+    "overlap_check_hash": "a7f764a8737c7921",
+    "why_this_can_go_viral": "The slow, organic threat is more terrifying than a sudden attack—builds tension."
+  },
+  {
+    "unique_id": "survival_0148_011_cf6d1c5949cb1c2a",
+    "title": "The Family Stranded in a Valley Where the Echoes Came Back Wrong",
+    "hook": "They shouted for help—and the mountains replied in a voice that wasn't theirs.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 87,
+    "educational_value": 15,
+    "estimated_short_retention": 88,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "valley",
+      "echo",
+      "wrong voice",
+      "family",
+      "lost"
+    ],
+    "overlap_check_hash": "cf6d1c5949cb1c2a",
+    "why_this_can_go_viral": "The uncanny phenomenon of a distorted echo taps into folklore and genuine acoustic mystery."
+  },
+  {
+    "unique_id": "survival_0148_012_1ef568dc45d9b76c",
+    "title": "The Survivor Washed Ashore With a Rock That Hummed at the Wrong Frequency",
+    "hook": "He picked up a black stone—and it vibrated at a pitch that made his teeth ache.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 72,
+    "educational_value": 30,
+    "estimated_short_retention": 77,
+    "niche_name": "survival",
+    "subcategory": "near-death escape stories",
+    "keywords": [
+      "rock",
+      "humming",
+      "frequency",
+      "beach",
+      "artifact"
+    ],
+    "overlap_check_hash": "1ef568dc45d9b76c",
+    "why_this_can_go_viral": "Mysterious object with physical effects creates a puzzle for the audience."
+  },
+  {
+    "unique_id": "survival_0148_014_c244f6339ce951a8",
+    "title": "The Climber Who Found a Mountain Where the Snow Fell Upward",
+    "hook": "She watched the flakes rise from the ground into the sky—and knew she was not on any normal peak.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 74,
+    "educational_value": 20,
+    "estimated_short_retention": 84,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "mountain",
+      "snow falling up",
+      "climber",
+      "inversion",
+      "unnatural"
+    ],
+    "overlap_check_hash": "c244f6339ce951a8",
+    "why_this_can_go_viral": "Visually stunning and physically impossible—perfect for shareable short-form content."
+  },
+  {
+    "unique_id": "survival_0148_015_2c88a39f69df31cb",
+    "title": "The Survivor Who Was Trapped in a Cave Where the Bats Had No Eyes",
+    "hook": "They flew past his face in complete darkness—and he realized they didn't need to see.",
+    "virality_score": 77,
+    "curiosity_gap_score": 81,
+    "darkness_score": 82,
+    "educational_value": 40,
+    "estimated_short_retention": 74,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "cave",
+      "blind bats",
+      "survivor",
+      "evolution",
+      "fear"
+    ],
+    "overlap_check_hash": "2c88a39f69df31cb",
+    "why_this_can_go_viral": "The absence of eyes in a creature is deeply unsettling and sparks evolutionary curiosity."
+  },
+  {
+    "unique_id": "survival_0148_016_3d79fafa0ea41fa4",
+    "title": "The Shipwrecked Sailor Who Survived by Drinking Fog—And His Skin Started to Glow",
+    "hook": "He collected mist in a cloth and squeezed it into his mouth—until his veins lit up blue.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 84,
+    "educational_value": 25,
+    "estimated_short_retention": 85,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "fog",
+      "glowing skin",
+      "sailor",
+      "survival",
+      "bioaccumulation"
+    ],
+    "overlap_check_hash": "3d79fafa0ea41fa4",
+    "why_this_can_go_viral": "Bioluminescence in a human body is rare and visually arresting; raises questions about what was in the fog."
+  },
+  {
+    "unique_id": "survival_0148_017_a09ae84fd38b9215",
+    "title": "The Group Stranded in a Forest Where the Moss Grew in Spirals Pointing to Nothing",
+    "hook": "Every patch of moss curled into a perfect spiral—and they all pointed to an empty clearing.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 20,
+    "estimated_short_retention": 80,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "forest",
+      "moss spirals",
+      "clearing",
+      "group",
+      "pattern"
+    ],
+    "overlap_check_hash": "a09ae84fd38b9215",
+    "why_this_can_go_viral": "Patterns in nature that suggest intelligence or purpose always drive curiosity."
+  },
+  {
+    "unique_id": "survival_0148_018_95f000198ac4d3bd",
+    "title": "The Diver Who Found a Shipwreck—And the Portholes Were Lit From Inside at Midnight",
+    "hook": "He surfaced at 12:00 AM—and saw the sunken ship glowing through every window.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 88,
+    "educational_value": 25,
+    "estimated_short_retention": 87,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "shipwreck",
+      "lighted portholes",
+      "midnight",
+      "diver",
+      "ghost ship"
+    ],
+    "overlap_check_hash": "95f000198ac4d3bd",
+    "why_this_can_go_viral": "Classic ghost ship mystery with a time-specific trigger—highly shareable and eerie."
+  },
+  {
+    "unique_id": "survival_0148_019_57081108097cc1d2",
+    "title": "The Explorer Who Got Lost in a Canyon Where the Walls Sweated Blood",
+    "hook": "He touched the rock—and a red liquid seeped from the cracks, warm and metallic.",
+    "virality_score": 92,
+    "curiosity_gap_score": 97,
+    "darkness_score": 96,
+    "educational_value": 30,
+    "estimated_short_retention": 90,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "canyon",
+      "sweating blood",
+      "rock",
+      "explorer",
+      "geological anomaly"
+    ],
+    "overlap_check_hash": "57081108097cc1d2",
+    "why_this_can_go_viral": "The image of 'rock bleeding' is viscerally shocking and triggers immediate questions about geology or biology."
+  },
+  {
+    "unique_id": "survival_0148_020_c1cded072081ee38",
+    "title": "The Survivor Who Washed Ashore on a Beach Where the Tide Brought Only Dead Birds",
+    "hook": "Every wave left behind another seabird—all intact, all cold, none with a mark.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 86,
+    "educational_value": 30,
+    "estimated_short_retention": 81,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "beach",
+      "dead birds",
+      "tide",
+      "survivor",
+      "mass death"
+    ],
+    "overlap_check_hash": "c1cded072081ee38",
+    "why_this_can_go_viral": "Mass animal die-off is both mysterious and ominous; viewers will speculate about cause."
+  },
+  {
+    "unique_id": "survival_0148_022_b49d572fd81f1031",
+    "title": "The Survivor Who Was Trapped in a Ravine—And the Water Dripped in Morse Code",
+    "hook": "He listened for days—until he realized the drops were spelling out a message he couldn't understand.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 77,
+    "educational_value": 40,
+    "estimated_short_retention": 79,
+    "niche_name": "survival",
+    "subcategory": "near-death escape stories",
+    "keywords": [
+      "ravine",
+      "water drops",
+      "morse code",
+      "trapped",
+      "message"
+    ],
+    "overlap_check_hash": "b49d572fd81f1031",
+    "why_this_can_go_viral": "The suggestion of hidden communication in nature's patterns is deeply intriguing."
+  },
+  {
+    "unique_id": "survival_0148_023_9ec2cc92469f9c68",
+    "title": "The Expedition That Found a Desert Where the Sand Formed Faces Every Morning",
+    "hook": "At dawn, the dunes had rearranged into massive human profiles—that changed daily.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 20,
+    "estimated_short_retention": 84,
+    "niche_name": "survival",
+    "subcategory": "stranded expeditions",
+    "keywords": [
+      "desert",
+      "sand faces",
+      "dunes",
+      "expedition",
+      "pattern"
+    ],
+    "overlap_check_hash": "9ec2cc92469f9c68",
+    "why_this_can_go_viral": "Daily changing faces suggest either natural phenomenon or something sentient—high mystery."
+  },
+  {
+    "unique_id": "survival_0148_024_debddd7fe94aaefb",
+    "title": "The Shipwrecked Crew That Found an Island Where the Trees Bloomed Every Night",
+    "hook": "After sunset, the branches erupted in flowers that glowed—and smelled like a funeral home.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 79,
+    "educational_value": 25,
+    "estimated_short_retention": 78,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "island",
+      "night blooming",
+      "glowing flowers",
+      "crew",
+      "funeral smell"
+    ],
+    "overlap_check_hash": "debddd7fe94aaefb",
+    "why_this_can_go_viral": "The contrast of beauty and death creates a haunting image that viewers will remember."
+  },
+  {
+    "unique_id": "survival_0148_025_2e85b03e5fd3df22",
+    "title": "The Survivor Who Washed Ashore With a Compass That Always Pointed to Where He Was",
+    "hook": "He tried to navigate—but the needle followed him no matter which way he turned.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 73,
+    "educational_value": 35,
+    "estimated_short_retention": 80,
+    "niche_name": "survival",
+    "subcategory": "near-death escape stories",
+    "keywords": [
+      "compass",
+      "points to self",
+      "survivor",
+      "navigation",
+      "broken"
+    ],
+    "overlap_check_hash": "2e85b03e5fd3df22",
+    "why_this_can_go_viral": "A compass that points to you defies all logic and suggests a personal connection to the anomaly."
+  }
+]

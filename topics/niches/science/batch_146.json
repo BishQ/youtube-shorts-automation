@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "science_0146_002_ffba803a1e058bb2",
+    "title": "The Chemist Who Synthesized a Crystal That Cries Blood",
+    "hook": "A compound that weeps red droplets when humidity changes—but the chemist who invented it never published the formula, fearing it was alive.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "weeping crystal",
+      "blood crystal",
+      "deliquescence",
+      "self-assembling molecule",
+      "forbidden chemistry"
+    ],
+    "overlap_check_hash": "ffba803a1e058bb2",
+    "why_this_can_go_viral": "The image of a 'crying' crystal and the secretive, mysterious inventor trigger deep curiosity and occult-like fascination."
+  },
+  {
+    "unique_id": "science_0146_003_d0a9d8b0ae7047b6",
+    "title": "The Forbidden Experiment Where a Scientist Starved Himself to Map His Own Brain",
+    "hook": "A neuroscientist refused food for 30 days while scanning his own brain, hoping to find the exact moment consciousness begins to fade.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "self-experiment",
+      "starvation",
+      "brain mapping",
+      "consciousness",
+      "near-death"
+    ],
+    "overlap_check_hash": "d0a9d8b0ae7047b6",
+    "why_this_can_go_viral": "High-stakes, taboo self-experimentation with a profound philosophical question about death and consciousness."
+  },
+  {
+    "unique_id": "science_0146_006_a92fce218417747b",
+    "title": "The Lab Catastrophe Where a Freeze-Dryer Exploded With Human Tissue Samples",
+    "hook": "A technician opened a freeze-dryer too early, and a cloud of pulverized human bone and skin particles filled the entire lab's ventilation.",
+    "virality_score": 78,
+    "curiosity_gap_score": 80,
+    "darkness_score": 92,
+    "educational_value": 55,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "freeze-dryer explosion",
+      "biohazard",
+      "tissue samples",
+      "lab safety",
+      "aerosolized tissue"
+    ],
+    "overlap_check_hash": "a92fce218417747b",
+    "why_this_can_go_viral": "Graphic, visceral horror that feels like a scene from a horror movie, grounded in a real safety violation."
+  },
+  {
+    "unique_id": "science_0146_007_ab509f886d644b11",
+    "title": "The Neuroscientist Who Recorded a Dying Brain's Final 30 Seconds",
+    "hook": "An EEG of a dying human brain revealed a burst of gamma waves—like a 'life review' compressed into half a minute of neural fire.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 89,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "near-death experience",
+      "brain death",
+      "gamma waves",
+      "life review",
+      "consciousness after death"
+    ],
+    "overlap_check_hash": "ab509f886d644b11",
+    "why_this_can_go_viral": "Touches the ultimate human mystery—what happens when we die—with real scientific data."
+  },
+  {
+    "unique_id": "science_0146_008_441f99af647ef42d",
+    "title": "The Chemist Who Made a Polymer That Stretches Forever—Then Snaps With a Bang",
+    "hook": "A self-healing plastic that never breaks under tension, until a single molecule shift triggers a catastrophic chain-snap that sounds like a gunshot.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 65,
+    "educational_value": 70,
+    "estimated_short_retention": 74,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "self-healing polymer",
+      "sacrificial bonds",
+      "fracture mechanics",
+      "meta-material",
+      "snap effect"
+    ],
+    "overlap_check_hash": "441f99af647ef42d",
+    "why_this_can_go_viral": "The contrast between 'unbreakable' and 'explodes violently' creates a satisfying, surprising narrative twist."
+  },
+  {
+    "unique_id": "science_0146_011_7a5d81fcf488512f",
+    "title": "The Physicist Who Proved That Parallel Universes Leak Into Ours",
+    "hook": "An anomaly in quantum data suggests that particles sometimes 'borrow' energy from neighboring universes—and the effect is measurable.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 72,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "many-worlds interpretation",
+      "quantum leakage",
+      "parallel universes",
+      "quantum darwinism",
+      "decoherence"
+    ],
+    "overlap_check_hash": "7a5d81fcf488512f",
+    "why_this_can_go_viral": "Everyone loves multiverse theory; suggesting it's scientifically measurable is a bombshell claim."
+  },
+  {
+    "unique_id": "science_0146_012_133d3430cd451456",
+    "title": "The Lab That Kept a Human Heart Beating in a Jar for 28 Years",
+    "hook": "A preserved human heart, connected to a vintage perfusion machine, continued to beat rhythmically in a museum display case for decades.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 84,
+    "educational_value": 60,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "living heart",
+      "perfusion machine",
+      "organ preservation",
+      "museum specimen",
+      "beating heart jar"
+    ],
+    "overlap_check_hash": "133d3430cd451456",
+    "why_this_can_go_viral": "Macabre, haunting image of a disembodied heart beating on its own—both miraculous and deeply unsettling."
+  },
+  {
+    "unique_id": "science_0146_014_907affb2e6af2330",
+    "title": "The Neuroscientist Who Found That Your Brain Can Operate 5 Seconds Into the Future",
+    "hook": "Brain scans show that your visual cortex predicts what you'll see up to 5 seconds before it happens—and sometimes it gets it wrong.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 68,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "predictive brain",
+      "time perception",
+      "visual delay",
+      "neural latency",
+      "precognition illusion"
+    ],
+    "overlap_check_hash": "907affb2e6af2330",
+    "why_this_can_go_viral": "Implies that we don't experience reality in real-time—a worldview-shaking fact that feels like a glitch in the matrix."
+  },
+  {
+    "unique_id": "science_0146_015_d5885999f76571be",
+    "title": "The Chemist Who Bubbled Hydrogen Sulfide Through a Solution—and Built a Hellish Stench That Lasted a Decade",
+    "hook": "A single accidental reaction released a gas that smelled of rotting eggs so potent that the building was condemned for 10 years.",
+    "virality_score": 75,
+    "curiosity_gap_score": 79,
+    "darkness_score": 76,
+    "educational_value": 60,
+    "estimated_short_retention": 73,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "hydrogen sulfide",
+      "stench",
+      "chemical contamination",
+      "lab evacuation",
+      "mercaptan"
+    ],
+    "overlap_check_hash": "d5885999f76571be",
+    "why_this_can_go_viral": "The idea of a smell so strong it destroys a building is absurd, grotesque, and highly shareable."
+  },
+  {
+    "unique_id": "science_0146_017_1df97114a55ef60d",
+    "title": "The Physicist Who Discovered That Dark Matter Might Be Dead Stars",
+    "hook": "Thousands of cold, dead 'black dwarf' stars, invisible to every telescope, could be drifting through our galaxy—and one could hit Earth any day.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "dark matter",
+      "black dwarf",
+      "stellar remnant",
+      "invisible matter",
+      "galactic threat"
+    ],
+    "overlap_check_hash": "1df97114a55ef60d",
+    "why_this_can_go_viral": "Combines dark matter mystery with an existential threat that could arrive without warning."
+  },
+  {
+    "unique_id": "science_0146_018_6f30fa739d5afb11",
+    "title": "The Scientific Fraud Who Faked a 'Mind Control' Helmet—and Left Test Subjects Catatonic",
+    "hook": "A con artist sold a helmet that claimed to control brainwaves—but the electromagnetic pulses induced seizures in three volunteers.",
+    "virality_score": 77,
+    "curiosity_gap_score": 81,
+    "darkness_score": 85,
+    "educational_value": 55,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "mind control",
+      "helmet scam",
+      "neural stimulation",
+      "EMF injury",
+      "brain damage"
+    ],
+    "overlap_check_hash": "6f30fa739d5afb11",
+    "why_this_can_go_viral": "Fraud + brain damage + sci-fi aesthetics = a cautionary tale that feels like a Black Mirror episode."
+  },
+  {
+    "unique_id": "science_0146_019_e8980293218b2e68",
+    "title": "The Lab Catastrophe Where a Magnar Shredded a Scientist's Watch—and His Arm",
+    "hook": "A 7-tesla MRI magnet pulled a steel oxygen tank across the room, crushing a technician's arm against the bore at 50 miles per hour.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 87,
+    "educational_value": 65,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "MRI accident",
+      "magnet projectile",
+      "quench",
+      "ferromagnetic",
+      "horrific injury"
+    ],
+    "overlap_check_hash": "e8980293218b2e68",
+    "why_this_can_go_viral": "High gore, high drama, and a physics lesson about magnetic force—perfect for shock-and-awe viewing."
+  },
+  {
+    "unique_id": "science_0146_021_38b9eb2c9e9c2641",
+    "title": "The Neuroscientist Who Found a Memory Stored Outside the Brain—in the Gut",
+    "hook": "Sensory memories can be stored in enteric neurons lining the stomach, meaning your gut can 'remember' trauma your brain has forgotten.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 80,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "gut brain",
+      "enteric nervous system",
+      "memory storage",
+      "body memory",
+      "trauma"
+    ],
+    "overlap_check_hash": "38b9eb2c9e9c2641",
+    "why_this_can_go_viral": "Ties into 'trust your gut' literally—a disturbing idea that your body holds secrets from your mind."
+  },
+  {
+    "unique_id": "science_0146_022_6a34956412ba595d",
+    "title": "The Chemist Who Discovered a Compound That Explodes When You Stop Moving It",
+    "hook": "A high-nitrogen compound that is stable only while being stirred—if you let it settle, it detonates with the force of TNT.",
+    "virality_score": 74,
+    "curiosity_gap_score": 80,
+    "darkness_score": 73,
+    "educational_value": 68,
+    "estimated_short_retention": 72,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "kinetic stability",
+      "high-nitrogen",
+      "sensitive explosive",
+      "stirring detonation",
+      "unstable compound"
+    ],
+    "overlap_check_hash": "6a34956412ba595d",
+    "why_this_can_go_viral": "The paradoxical condition (must keep moving or die) is a unique, tension-filled premise."
+  },
+  {
+    "unique_id": "science_0146_023_6a588d0991057348",
+    "title": "The Biolab That Created a Fungus That Controls Ants—Then Tried It on a Rat",
+    "hook": "After mapping the zombifying fungus that hijacks ant brains, scientists injected the spores into a rat—and the rat began climbing walls.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "zombie fungus",
+      "Ophiocordyceps",
+      "mind control",
+      "cross-species infection",
+      "cordyceps experiment"
+    ],
+    "overlap_check_hash": "6a588d0991057348",
+    "why_this_can_go_viral": "Taps into 'The Last of Us' fear—real science crossing the species barrier into mammals is deeply unsettling."
+  },
+  {
+    "unique_id": "science_0146_024_5903afbe694093be",
+    "title": "The Physicist Who Built a 'Time Machine' That Only Sends Information Back 1 Microsecond",
+    "hook": "A loop of wires and lasers created a closed timelike curve that sent a bit of data into its own past—breaking causality for a nanosecond.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 70,
+    "educational_value": 76,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time machine",
+      "closed timelike curve",
+      "causality violation",
+      "quantum time travel",
+      "CTC"
+    ],
+    "overlap_check_hash": "5903afbe694093be",
+    "why_this_can_go_viral": "The phrase 'time machine' is instant clickbait; the fact that it's experimentally plausible makes it explosive."
+  }
+]

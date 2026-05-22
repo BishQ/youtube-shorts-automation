@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "business_0170_001_9af9f6eeb3ace808",
+    "title": "The CEO Who Bought a Recycling Plant—Then Dumped Toxic Waste in Rivers",
+    "hook": "He promised green, but downstream towns started getting sick.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "CEO",
+      "recycling plant",
+      "toxic waste",
+      "river dumping",
+      "environmental crime"
+    ],
+    "overlap_check_hash": "9af9f6eeb3ace808",
+    "why_this_can_go_viral": "Combines environmental outrage with a hidden crime that affected real people."
+  },
+  {
+    "unique_id": "business_0170_003_2b040a4af02527ef",
+    "title": "The Startup That Sold 'Smart' Baby Monitors—They Were Streaming Audio to Strangers",
+    "hook": "Parents thought they were listening to their baby. So did a predator network.",
+    "virality_score": 95,
+    "curiosity_gap_score": 96,
+    "darkness_score": 97,
+    "educational_value": 60,
+    "estimated_short_retention": 95,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "startup",
+      "baby monitor",
+      "streaming",
+      "privacy",
+      "predator network"
+    ],
+    "overlap_check_hash": "2b040a4af02527ef",
+    "why_this_can_go_viral": "Taps into deep parental fear and tech privacy anxiety."
+  },
+  {
+    "unique_id": "business_0170_006_5a22cf455eb9aed7",
+    "title": "The Dark Marketing Firm That Used Ambulance GPS to Target Accident Victims",
+    "hook": "They knew you were in trouble before your family did.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "ambulance GPS",
+      "accident victims",
+      "targeting",
+      "privacy",
+      "dark marketing"
+    ],
+    "overlap_check_hash": "5a22cf455eb9aed7",
+    "why_this_can_go_viral": "Reveals a chilling use of real-time data that feels like a violation of basic decency."
+  },
+  {
+    "unique_id": "business_0170_007_d73893d146339296",
+    "title": "The Supply Chain Secret of 'Ethically Sourced' Chocolate—Made by Child Miners",
+    "hook": "Your 'fair trade' bar was harvested by children in illegal pits.",
+    "virality_score": 90,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "chocolate",
+      "child miners",
+      "fair trade",
+      "ethical sourcing",
+      "supply chain"
+    ],
+    "overlap_check_hash": "d73893d146339296",
+    "why_this_can_go_viral": "Exposes hypocrisy in a beloved product—outrage and guilt drive shares."
+  },
+  {
+    "unique_id": "business_0170_009_ea1d6fde1045ff03",
+    "title": "The CEO Who Bought a Funeral Home Chain—Then Embalmed Bodies in Tap Water",
+    "hook": "He saved money on chemicals. Families paid for the lie.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "funeral home",
+      "embalming",
+      "tap water",
+      "corruption",
+      "deception"
+    ],
+    "overlap_check_hash": "ea1d6fde1045ff03",
+    "why_this_can_go_viral": "Death and dishonesty—a morbid combo that triggers curiosity and anger."
+  },
+  {
+    "unique_id": "business_0170_010_9e919aa6c04a3f84",
+    "title": "The Trader Who Used Airport Security Wait Times to Predict Airline Crashes",
+    "hook": "Longer lines meant higher risk. He bet against lives.",
+    "virality_score": 93,
+    "curiosity_gap_score": 94,
+    "darkness_score": 91,
+    "educational_value": 72,
+    "estimated_short_retention": 92,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "airport security",
+      "airline crash",
+      "trader",
+      "prediction",
+      "insider data"
+    ],
+    "overlap_check_hash": "9e919aa6c04a3f84",
+    "why_this_can_go_viral": "Extreme dark data usage—viewers will be horrified by the cold calculation."
+  },
+  {
+    "unique_id": "business_0170_011_897d8fb146f1ce26",
+    "title": "The Startup That Sold 'Rent-a-Parent' Service—They Were Trafficking Seniors for Fake Families",
+    "hook": "You paid for a loving grandma. She was a captive.",
+    "virality_score": 94,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 65,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "rent-a-parent",
+      "seniors",
+      "trafficking",
+      "fake families",
+      "elder abuse"
+    ],
+    "overlap_check_hash": "897d8fb146f1ce26",
+    "why_this_can_go_viral": "Shocking concept with emotional weight—exploitation of the elderly triggers strong reactions."
+  },
+  {
+    "unique_id": "business_0170_012_0ccd524af058a6aa",
+    "title": "The Monopoly That Bought Every Tire Shop—Then Sold Retreads That Exploded at 70 MPH",
+    "hook": "New tread, ancient rubber. Highways became death traps.",
+    "virality_score": 89,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "tire shop",
+      "retreads",
+      "explosion",
+      "monopoly",
+      "safety"
+    ],
+    "overlap_check_hash": "0ccd524af058a6aa",
+    "why_this_can_go_viral": "High stakes for drivers—a relatable fear of road danger."
+  },
+  {
+    "unique_id": "business_0170_013_a8373d8a24d6d6c2",
+    "title": "The Corporate Spy Who Used a Drone to Steal Rival's Secret Factory Layout",
+    "hook": "No paperwork stolen. Just a bird's-eye view of millions.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "drone",
+      "factory layout",
+      "espionage",
+      "steal",
+      "surveillance"
+    ],
+    "overlap_check_hash": "a8373d8a24d6d6c2",
+    "why_this_can_go_viral": "Modern spy tech in a business context—intriguing and accessible."
+  },
+  {
+    "unique_id": "business_0170_014_2be3a97eb0d1deaa",
+    "title": "The Dark Marketing Agency That Used Prison Release Data to Sell 'Fresh Start' Loans at 900% Interest",
+    "hook": "Freedom day. And a predatory loan waiting at the gate.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 93,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "prison release",
+      "fresh start loans",
+      "predatory",
+      "interest",
+      "incarceration"
+    ],
+    "overlap_check_hash": "2be3a97eb0d1deaa",
+    "why_this_can_go_viral": "Exposes a systematic trap for vulnerable people—social justice angle drives shares."
+  },
+  {
+    "unique_id": "business_0170_015_2a290f2c2bafb7d9",
+    "title": "The Supply Chain Secret of 'Handmade' Persian Rugs—They Were Woven by Trafficked Children",
+    "hook": "Each knot was a hidden cry for help. Your floor told a dark story.",
+    "virality_score": 88,
+    "curiosity_gap_score": 89,
+    "darkness_score": 94,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "Persian rugs",
+      "child trafficking",
+      "handmade",
+      "supply chain",
+      "hidden labor"
+    ],
+    "overlap_check_hash": "2a290f2c2bafb7d9",
+    "why_this_can_go_viral": "Combines luxury goods with human trafficking—a stark contrast that shocks."
+  },
+  {
+    "unique_id": "business_0170_016_d630fd288344d409",
+    "title": "The Industry Cover-Up of 'UV-C Sanitizing' Phone Cases—They Were Burning Users' Skin",
+    "hook": "They promised clean phones. You got radiation burns instead.",
+    "virality_score": 85,
+    "curiosity_gap_score": 86,
+    "darkness_score": 84,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "UV-C",
+      "phone case",
+      "radiation burns",
+      "cover-up",
+      "sanitizing"
+    ],
+    "overlap_check_hash": "d630fd288344d409",
+    "why_this_can_go_viral": "Taps into post-pandemic health paranoia and gadget dependency."
+  },
+  {
+    "unique_id": "business_0170_017_b3fa79c82b8d249f",
+    "title": "The CEO Who Bought a Vitamin Brand—Then Sold Chalk Dust as 'Calcium Plus'",
+    "hook": "No vitamins. Just chalk. And a lot of sick customers.",
+    "virality_score": 83,
+    "curiosity_gap_score": 84,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "vitamin brand",
+      "chalk dust",
+      "calcium",
+      "fake product",
+      "health scam"
+    ],
+    "overlap_check_hash": "b3fa79c82b8d249f",
+    "why_this_can_go_viral": "Simple, disgusting scam that anyone can understand—outrage is instant."
+  },
+  {
+    "unique_id": "business_0170_018_9f022646bb0a53b2",
+    "title": "The Trader Who Used Gas Station Trash Levels to Predict Oil Company Bankruptcies",
+    "hook": "He counted empty cups. Then shorted billion-dollar companies.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 79,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "gas station",
+      "trash",
+      "oil bankruptcy",
+      "trader",
+      "unconventional data"
+    ],
+    "overlap_check_hash": "9f022646bb0a53b2",
+    "why_this_can_go_viral": "Reveals a bizarre, almost absurd data source that feels like a secret hack."
+  },
+  {
+    "unique_id": "business_0170_019_1e7abe2ce2b53eca",
+    "title": "The Startup That Sold 'Shared Office' Membership—They Were Recording Every Conversation for Corporate Blackmail",
+    "hook": "You thought you were networking. You were being mined for leverage.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 68,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "shared office",
+      "recording",
+      "blackmail",
+      "privacy",
+      "co-working"
+    ],
+    "overlap_check_hash": "1e7abe2ce2b53eca",
+    "why_this_can_go_viral": "Taps into modern fear of surveillance in shared spaces—relatable for entrepreneurs."
+  },
+  {
+    "unique_id": "business_0170_020_836c3751659634fd",
+    "title": "The Monopoly That Bought Every Glasses Frame Brand—Then Charged $500 for Plastic That Cost $3",
+    "hook": "You paid for 'designer.' They paid for injection molds.",
+    "virality_score": 84,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "glasses",
+      "monopoly",
+      "price gouging",
+      "plastic frames",
+      "luxury markup"
+    ],
+    "overlap_check_hash": "836c3751659634fd",
+    "why_this_can_go_viral": "Everyone who wears glasses feels ripped off—this validates that feeling."
+  },
+  {
+    "unique_id": "business_0170_021_3bef14fe015847bf",
+    "title": "The Corporate Spy Who Posed as a Food Critic to Steal Rival's Recipe Files",
+    "hook": "One bad review. One stolen formula. Millions in damage.",
+    "virality_score": 80,
+    "curiosity_gap_score": 82,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "food critic",
+      "recipe theft",
+      "espionage",
+      "rival",
+      "formula"
+    ],
+    "overlap_check_hash": "3bef14fe015847bf",
+    "why_this_can_go_viral": "Classic spy narrative with a food twist—easy to visualize and share."
+  },
+  {
+    "unique_id": "business_0170_022_6b6cc3536c3b794b",
+    "title": "The Dark Marketing Firm That Used Divorce Records to Sell 'Second Chance' Dating Apps",
+    "hook": "They didn't help you move on. They sold your loneliness.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "divorce records",
+      "dating apps",
+      "loneliness",
+      "targeting",
+      "vulnerability"
+    ],
+    "overlap_check_hash": "6b6cc3536c3b794b",
+    "why_this_can_go_viral": "Emotionally resonant—viewers will feel exploited just by hearing about it."
+  },
+  {
+    "unique_id": "business_0170_024_fbce2b763c6dec8e",
+    "title": "The Industry Cover-Up of 'Recycled' Paper—It Was Bleached with Carcinogenic Dioxins",
+    "hook": "Eco-friendly? Your notebook was poisoning you slowly.",
+    "virality_score": 84,
+    "curiosity_gap_score": 85,
+    "darkness_score": 86,
+    "educational_value": 74,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "recycled paper",
+      "dioxins",
+      "carcinogen",
+      "cover-up",
+      "bleaching"
+    ],
+    "overlap_check_hash": "fbce2b763c6dec8e",
+    "why_this_can_go_viral": "Shakes trust in everyday 'green' products—everyone touches paper."
+  },
+  {
+    "unique_id": "business_0170_025_1940111972fd64a9",
+    "title": "The CEO Who Bought a Hotel Chain—Then Installed Hidden Cameras in VIP Suites for Blackmail",
+    "hook": "The bed was comfortable. The footage was for sale.",
+    "virality_score": 93,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 60,
+    "estimated_short_retention": 94,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "hotel",
+      "hidden cameras",
+      "blackmail",
+      "VIP",
+      "privacy violation"
+    ],
+    "overlap_check_hash": "1940111972fd64a9",
+    "why_this_can_go_viral": "Extreme violation of privacy and trust—sensationally dark and shareable."
+  }
+]

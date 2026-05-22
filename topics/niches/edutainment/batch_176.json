@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "edutainment_0176_003_bfac809a90319247",
+    "title": "The Forgotten Experiment That Made a Human Hear Colors",
+    "hook": "In 1978, a scientist wired electrodes to a blind man's brain — and he started seeing sounds as shapes.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "sensory substitution",
+      "brain electrodes",
+      "color hearing",
+      "blind experiment",
+      "neuroscience"
+    ],
+    "overlap_check_hash": "bfac809a90319247",
+    "why_this_can_go_viral": "Synesthesia linked to real experimentation — 'sensory hacking' is a perennial curiosity driver."
+  },
+  {
+    "unique_id": "edutainment_0176_004_4d23aa59cd7e0a1a",
+    "title": "The Hidden Underground River Flowing Beneath the Sahara",
+    "hook": "Beneath the world's driest desert lies a river system larger than the Amazon — feeding ancient aquifers no one knew existed.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 45,
+    "educational_value": 90,
+    "estimated_short_retention": 85,
+    "niche_name": "edutainment",
+    "subcategory": "secret mechanisms of the world",
+    "keywords": [
+      "underground river",
+      "sahara aquifer",
+      "hidden water",
+      "desert secret",
+      "ancient waterways"
+    ],
+    "overlap_check_hash": "4d23aa59cd7e0a1a",
+    "why_this_can_go_viral": "Reveals a hidden world beneath a familiar landscape — 'secret geography' pulls strong engagement."
+  },
+  {
+    "unique_id": "edutainment_0176_005_5f178bccb30b5a9f",
+    "title": "The Man Who Was Allergic to Touch — and Lived in a Bubble for 12 Years",
+    "hook": "Born without an immune system, this boy lived in a sterile plastic bubble — and his only contact with humans was through gloves.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 94,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "bubble boy",
+      "severe combined immunodeficiency",
+      "sterile isolation",
+      "human experiment",
+      "plastic bubble"
+    ],
+    "overlap_check_hash": "5f178bccb30b5a9f",
+    "why_this_can_go_viral": "Extreme human vulnerability triggers empathy and shock — 'bubble boy' is iconic but unexplored by younger viewers."
+  },
+  {
+    "unique_id": "edutainment_0176_007_02b8390edda59bdf",
+    "title": "The Secret Global Index That Ranks Every Person's Likelihood to Commit Suicide",
+    "hook": "Governments use a hidden algorithm that analyzes your social media, search history, and location to predict your risk — without your knowledge.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 96,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "suicide prediction",
+      "secret algorithm",
+      "government surveillance",
+      "mental health data",
+      "social media analysis"
+    ],
+    "overlap_check_hash": "02b8390edda59bdf",
+    "why_this_can_go_viral": "Combines privacy fears with dark use of big data — feels like a dystopian leak."
+  },
+  {
+    "unique_id": "edutainment_0176_008_1d96a22b672e8ebb",
+    "title": "The Island Where Every Living Thing Evolved to Be Tiny",
+    "hook": "On a remote Indonesian island, deer are the size of cats, and elephants once stood only three feet tall — all because of a single evolutionary pressure.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 40,
+    "educational_value": 85,
+    "estimated_short_retention": 87,
+    "niche_name": "edutainment",
+    "subcategory": "counterintuitive discoveries",
+    "keywords": [
+      "dwarfism",
+      "island evolution",
+      "flores island",
+      "pygmy elephants",
+      "adaptive shrinkage"
+    ],
+    "overlap_check_hash": "1d96a22b672e8ebb",
+    "why_this_can_go_viral": "Visual contrast of 'tiny giants' and 'big small animals' breaks viewer expectations."
+  },
+  {
+    "unique_id": "edutainment_0176_009_c0de8d43acc06e9d",
+    "title": "The Hidden Network of Underwater Cables That Control the Internet",
+    "hook": "97% of global internet traffic flows through 400 fiber-optic cables lying on the ocean floor — and any one of them can be cut by a ship's anchor.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 65,
+    "educational_value": 90,
+    "estimated_short_retention": 89,
+    "niche_name": "edutainment",
+    "subcategory": "secret mechanisms of the world",
+    "keywords": [
+      "undersea cables",
+      "internet infrastructure",
+      "fiber optic",
+      "global network",
+      "vulnerable internet"
+    ],
+    "overlap_check_hash": "c0de8d43acc06e9d",
+    "why_this_can_go_viral": "Reveals the physical fragility of the digital world — 'the internet is actually a bunch of wires' shocks people."
+  },
+  {
+    "unique_id": "edutainment_0176_010_231ce5e76a73c4bd",
+    "title": "The Woman Who Couldn't Feel Full — and Ate Continually for 20 Years",
+    "hook": "A rare genetic mutation destroyed her appetite control — she felt starving 24 hours a day, every day, no matter how much she ate.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 91,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "leptin deficiency",
+      "uncontrollable hunger",
+      "genetic mutation",
+      "appetite disorder",
+      "rare condition"
+    ],
+    "overlap_check_hash": "231ce5e76a73c4bd",
+    "why_this_can_go_viral": "Extreme biological anomaly that everyone can relate to on a basic level — 'what if you never felt full?'"
+  },
+  {
+    "unique_id": "edutainment_0176_011_9031362c883a0e84",
+    "title": "Why a Single River in Iceland Glows Blue Like Alien Blood",
+    "hook": "Meltwater from a volcanic glacier mixes with silica and algae — creating a neon blue river that scientists still can't fully explain.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 25,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "edutainment",
+    "subcategory": "strange science facts",
+    "keywords": [
+      "iceland river",
+      "glowing water",
+      "silica algae",
+      "volcanic glacier",
+      "neon blue"
+    ],
+    "overlap_check_hash": "9031362c883a0e84",
+    "why_this_can_go_viral": "Stunning visuals drive shares — 'alien river on Earth' is a perfect clickbait frame."
+  },
+  {
+    "unique_id": "edutainment_0176_012_ac98fba3e18944a2",
+    "title": "The Secret Program That Gave a Human a Pig's Heart — Without Consent",
+    "hook": "In 1984, surgeons implanted a baboon heart into a dying baby — without telling the mother the organ came from an animal.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 80,
+    "estimated_short_retention": 97,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "xenotransplant",
+      "baboon heart",
+      "baby fae",
+      "unethical experiment",
+      "animal organ transplant"
+    ],
+    "overlap_check_hash": "ac98fba3e18944a2",
+    "why_this_can_go_viral": "Bioethics horror — 'secret animal-to-human transplant' triggers moral outrage and morbid fascination."
+  },
+  {
+    "unique_id": "edutainment_0176_013_1d98be520a766000",
+    "title": "The Hidden Layer of the Ocean Where Pressure Crushes Metal — but Life Thrives",
+    "hook": "At 11,000 meters down, the pressure is 1,000 times surface level — yet fish with transparent skulls and jellyfish that live forever call this place home.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 88,
+    "niche_name": "edutainment",
+    "subcategory": "reality-breaking statistics",
+    "keywords": [
+      "hadal zone",
+      "deep sea creatures",
+      "mariana trench",
+      "extreme pressure",
+      "transparent fish"
+    ],
+    "overlap_check_hash": "1d98be520a766000",
+    "why_this_can_go_viral": "Scale contrast ('metal crushes, fish lives') triggers awe — deep sea is a bottomless well of curiosity."
+  },
+  {
+    "unique_id": "edutainment_0176_014_d49b56484e807d6d",
+    "title": "Why a Single Desert in Chile Has a Lake That Boils Without Heat",
+    "hook": "Atacama's 'boiling lake' bubbles violently — but its water is only lukewarm. The secret lies in dissolved gases miles below.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 35,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "edutainment",
+    "subcategory": "counterintuitive discoveries",
+    "keywords": [
+      "boiling lake",
+      "atacama desert",
+      "dissolved gas",
+      "cold boil",
+      "geothermal anomaly"
+    ],
+    "overlap_check_hash": "d49b56484e807d6d",
+    "why_this_can_go_viral": "Visual paradox — 'boiling but cold' is instantly confusing and shareable."
+  },
+  {
+    "unique_id": "edutainment_0176_015_f850bdffe08aaf98",
+    "title": "The Man Who Was Twice Declared Dead — and Came Back Both Times",
+    "hook": "His heart stopped for 45 minutes in a blizzard, then again in a car crash — yet he woke up with no brain damage either time.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 60,
+    "estimated_short_retention": 93,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "resurrection",
+      "clinical death",
+      "survival story",
+      "hypothermia revival",
+      "improbable survival"
+    ],
+    "overlap_check_hash": "f850bdffe08aaf98",
+    "why_this_can_go_viral": "Near-death experience with multiple returns — 'the man death forgot' is a mythic hook."
+  },
+  {
+    "unique_id": "edutainment_0176_016_3a33d6e6ac410f76",
+    "title": "The Secret Global Database That Maps Every Single Tree on Earth",
+    "hook": "Scientists have secretly mapped 1.8 trillion trees from space — and they use the data to predict where humans will starve next.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 72,
+    "educational_value": 85,
+    "estimated_short_retention": 87,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "global tree map",
+      "satellite monitoring",
+      "food prediction",
+      "deforestation tracking",
+      "nasa data"
+    ],
+    "overlap_check_hash": "3a33d6e6ac410f76",
+    "why_this_can_go_viral": "Combines environmental scale with a dark predictive purpose — feels like a tool from a sci-fi novel."
+  },
+  {
+    "unique_id": "edutainment_0176_017_38c43d99116a85b0",
+    "title": "Why a Single Bacteria Species Can Survive in Outer Space",
+    "hook": "Deinococcus radiodurans can withstand radiation 3,000 times lethal to humans — and scientists believe it came from Mars.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 55,
+    "educational_value": 80,
+    "estimated_short_retention": 89,
+    "niche_name": "edutainment",
+    "subcategory": "strange science facts",
+    "keywords": [
+      "extremophile",
+      "space bacteria",
+      "radiation resistance",
+      "mars origin",
+      "deinococcus"
+    ],
+    "overlap_check_hash": "38c43d99116a85b0",
+    "why_this_can_go_viral": "Alien-like life on Earth — 'the bacteria that laughs at radiation' is an instant headline."
+  },
+  {
+    "unique_id": "edutainment_0176_018_52c08160405c8afd",
+    "title": "The Hidden Room Inside Mount Rushmore That No One Is Allowed to Enter",
+    "hook": "Behind Lincoln's head lies a sealed chamber filled with America's founding documents — and it was designed as a time capsule for a lost civilization.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 60,
+    "educational_value": 70,
+    "estimated_short_retention": 94,
+    "niche_name": "edutainment",
+    "subcategory": "secret mechanisms of the world",
+    "keywords": [
+      "mount rushmore",
+      "secret chamber",
+      "hall of records",
+      "time capsule",
+      "hidden room"
+    ],
+    "overlap_check_hash": "52c08160405c8afd",
+    "why_this_can_go_viral": "National monument with a forbidden vault — 'what's hidden inside Lincoln's head' triggers deep curiosity."
+  },
+  {
+    "unique_id": "edutainment_0176_021_ca810475d66d5cdc",
+    "title": "The Secret Underground Lab That Stores the DNA of Every Living Thing on Earth",
+    "hook": "Inside a frozen mountain in Norway, scientists are building a vault with DNA samples from 5 million species — in case the planet dies.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 60,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "dna vault",
+      "extinction backup",
+      "frozen ark",
+      "species preservation",
+      "svalbard"
+    ],
+    "overlap_check_hash": "ca810475d66d5cdc",
+    "why_this_can_go_viral": "Doomsday DNA archive — 'the ultimate biological backup' fits the forbidden knowledge frame perfectly."
+  },
+  {
+    "unique_id": "edutainment_0176_023_b93fb941a52499b6",
+    "title": "Why a Single City in Mexico Has a Lake That Boils in the Shape of a Circle",
+    "hook": "A perfectly circular lake in Chiapas boils at 90°C — and locals believe it's a portal to the underworld because no one has ever reached its bottom.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 60,
+    "estimated_short_retention": 86,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "boiling lake",
+      "chiapas",
+      "circular lake",
+      "portal myth",
+      "unfathomable depth"
+    ],
+    "overlap_check_hash": "b93fb941a52499b6",
+    "why_this_can_go_viral": "Mystery + mythology + science — 'the bottomless boiling circle' is visually and narratively irresistible."
+  },
+  {
+    "unique_id": "edutainment_0176_024_0b13e1f94e523a8d",
+    "title": "The Secret Global Network of 'Dead Zones' Where Your Phone Can Never Work",
+    "hook": "A hidden map used by intelligence agencies shows 10,000 locations where cell signals are deliberately blocked — and you're not allowed to know why.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 96,
+    "niche_name": "edutainment",
+    "subcategory": "secret mechanisms of the world",
+    "keywords": [
+      "cell dead zones",
+      "signal blocking",
+      "government blackout",
+      "secret map",
+      "intelligence zones"
+    ],
+    "overlap_check_hash": "0b13e1f94e523a8d",
+    "why_this_can_go_viral": "Paranoia + hidden infrastructure — 'places where your phone is silenced by design' triggers high engagement."
+  },
+  {
+    "unique_id": "edutainment_0176_025_6bca8d242e22ca23",
+    "title": "The Experiment That Made a Person Give Birth to Their Own Twin",
+    "hook": "A woman carried a 'fetus-in-fetu' — a partially formed twin growing inside her abdomen for 10 years before doctors removed it.",
+    "virality_score": 96,
+    "curiosity_gap_score": 98,
+    "darkness_score": 94,
+    "educational_value": 70,
+    "estimated_short_retention": 99,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "fetus in fetu",
+      "parasitic twin",
+      "internal twin",
+      "rare medical anomaly",
+      "human growth inside"
+    ],
+    "overlap_check_hash": "6bca8d242e22ca23",
+    "why_this_can_go_viral": "Visceral shock + biological impossibility — 'your twin growing inside you' is pure viral horror."
+  }
+]

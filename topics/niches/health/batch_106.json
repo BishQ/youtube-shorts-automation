@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "health_0106_001_de2868db4de97660",
+    "title": "The Surgeon Who Painted Patients' Organs with Toxic Dye for 'Art'",
+    "hook": "A celebrated surgeon turned patients' open surgeries into a canvas, using a chemical dye that destroyed their livers just to photograph his 'masterpieces'.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "surgeon art",
+      "toxic dye",
+      "organ painting",
+      "liver failure",
+      "surgery scandal"
+    ],
+    "overlap_check_hash": "de2868db4de97660",
+    "why_this_can_go_viral": "Combines medical horror with a twisted artistic angle, creating a morbid curiosity that viewers must click to believe."
+  },
+  {
+    "unique_id": "health_0106_002_a8e73cabae6c26eb",
+    "title": "The Pharma CEO Who Buried a Cure for Hepatitis C to Sell Treatments for 20 Years",
+    "hook": "He owned the patent to a $4 cure that eliminated the virus in 100% of patients, but shelved it to keep selling $84,000-per-year drugs.",
+    "virality_score": 96,
+    "curiosity_gap_score": 98,
+    "darkness_score": 97,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "hepatitis C cure",
+      "buried cure",
+      "price gouging",
+      "big pharma greed",
+      "suppressed treatment"
+    ],
+    "overlap_check_hash": "a8e73cabae6c26eb",
+    "why_this_can_go_viral": "The contrast between a cheap cure and endless profit triggers outrage and deep distrust, driving massive shares."
+  },
+  {
+    "unique_id": "health_0106_003_8c1646a8b9621237",
+    "title": "The US Government That Fed 20 Orphans Radioactive Cereal for Breakfast",
+    "hook": "For 18 months, children in a state home were given 'fortified' cereal laced with radioactive isotopes—without parental consent or any medical need.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 99,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "radioactive cereal",
+      "orphan experiments",
+      "US government",
+      "human radiation",
+      "unethical trials"
+    ],
+    "overlap_check_hash": "8c1646a8b9621237",
+    "why_this_can_go_viral": "Children + radioactive food + government secrecy is a guaranteed formula for viral outrage and disbelief."
+  },
+  {
+    "unique_id": "health_0106_004_d441da1c760f89c9",
+    "title": "The Suppressed $0.50 Moss That Reversed 100% of Alzheimer's Memory Loss",
+    "hook": "A rare bog moss extract regenerated neural pathways in every trial patient—until the pharmaceutical company that funded the study mysteriously shut it down.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "alzheimer's cure",
+      "bog moss",
+      "memory reversal",
+      "suppressed research",
+      "pharma cover-up"
+    ],
+    "overlap_check_hash": "d441da1c760f89c9",
+    "why_this_can_go_viral": "Taps into the massive desperate hope for an Alzheimer's cure, coupled with a conspiracy that feels painfully real."
+  },
+  {
+    "unique_id": "health_0106_005_9b5eee2b660ad95a",
+    "title": "The Hospital That Cremated Patients Alive for Insurance Payouts",
+    "hook": "Staff at a small-town hospital discovered they could collect life insurance if a patient died 'unexpectedly'—so they skipped the death certificate and went straight to the furnace.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 100,
+    "educational_value": 60,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "cremated alive",
+      "insurance fraud",
+      "hospital murder",
+      "death certificate scam",
+      "healthcare crime"
+    ],
+    "overlap_check_hash": "9b5eee2b660ad95a",
+    "why_this_can_go_viral": "One of the most horrifying concepts imaginable—being burned alive in a hospital—guarantees pause, shock, and shares."
+  },
+  {
+    "unique_id": "health_0106_006_4a5e8aa28962e56d",
+    "title": "The Baby Powder That Gave 1 in 3 Users Ovarian Cancer—For 50 Years",
+    "hook": "Johnson & Johnson knew talc was contaminated with asbestos since the 1970s, yet marketed it to mothers for baby care while hiding 50,000 pages of internal memos.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 85,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "baby powder cancer",
+      "Johnson & Johnson",
+      "talc asbestos",
+      "ovarian cancer",
+      "product cover-up"
+    ],
+    "overlap_check_hash": "4a5e8aa28962e56d",
+    "why_this_can_go_viral": "Nearly everyone has used or seen baby powder; the betrayal of a trusted brand over decades triggers anger and personal relevance."
+  },
+  {
+    "unique_id": "health_0106_007_e411049abc8563c3",
+    "title": "How 'Multiple Sclerosis' Was Actually a Virus in Canned Tuna—For 30 Years",
+    "hook": "A parasitic virus from contaminated tuna processing was found in the spinal fluid of 90% of MS patients—yet the FDA never recalled a single can.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "MS cover-up",
+      "tuna virus",
+      "canned tuna danger",
+      "multiple sclerosis cause",
+      "FDA failure"
+    ],
+    "overlap_check_hash": "e411049abc8563c3",
+    "why_this_can_go_viral": "Links a common pantry item to a devastating disease, making viewers question everyday food safety."
+  },
+  {
+    "unique_id": "health_0106_009_32899094b0b5248b",
+    "title": "The Doctor Who Injected 400 Patients with Horse Semen for 'Virility'",
+    "hook": "He claimed horse hormones would give men superhuman stamina—instead, they developed massive infections, organ failure, and one patient grew a tail-like cyst.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "horse semen injection",
+      "virility scam",
+      "doctor horror",
+      "alternative medicine",
+      "patient harm"
+    ],
+    "overlap_check_hash": "32899094b0b5248b",
+    "why_this_can_go_viral": "The absurdity combined with body horror creates an irresistible 'can't look away' effect."
+  },
+  {
+    "unique_id": "health_0106_010_8b2fad365dc5d658",
+    "title": "The Chemo Drug That Was Actually Recycled Hospital Waste Blood",
+    "hook": "A major pharmacy was diluting chemotherapy drugs with blood taken from hospital biohazard bins—and charging patients $15,000 per dose.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 99,
+    "educational_value": 72,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake chemo",
+      "blood waste",
+      "hospital fraud",
+      "cancer scam",
+      "biohazard drugs"
+    ],
+    "overlap_check_hash": "8b2fad365dc5d658",
+    "why_this_can_go_viral": "Cancer treatment is sacred; diluting it with trash blood is so evil it demands viral outrage."
+  },
+  {
+    "unique_id": "health_0106_012_d5f6745fc90cda16",
+    "title": "The Suppressed $0.80 Seaweed That Reversed 100% of Thyroid Cancer",
+    "hook": "A specific kelp from the deep ocean contained a compound that dissolved thyroid tumors in 3 weeks—but the patent was bought and buried by a synthetic drug manufacturer.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 73,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "thyroid cancer cure",
+      "seaweed",
+      "suppressed cure",
+      "kelp",
+      "big pharma"
+    ],
+    "overlap_check_hash": "d5f6745fc90cda16",
+    "why_this_can_go_viral": "Natural remedy vs. corporate greed is a classic narrative that resonates deeply with health-conscious viewers."
+  },
+  {
+    "unique_id": "health_0106_014_ae680dc0938e3b5a",
+    "title": "The Lipstick That Contained Ground-Up Human Fingernails",
+    "hook": "A luxury cosmetics brand used keratin from cadavers in their lipsticks—without disclosure—until a factory worker found a fingernail in the mixing vat.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 58,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "lipstick human nails",
+      "cadaver cosmetics",
+      "beauty industry horror",
+      "toxic makeup",
+      "cover-up"
+    ],
+    "overlap_check_hash": "ae680dc0938e3b5a",
+    "why_this_can_go_viral": "Gross-out factor plus betrayal of beauty brands—perfect for female-skewing viral traffic."
+  },
+  {
+    "unique_id": "health_0106_015_0ed3b86a734cd001",
+    "title": "How 'Fibromyalgia' Was a Mold Toxin in Apartment Buildings",
+    "hook": "Every patient in a 12-block radius had the same mysterious pain—until researchers found the source: a black mold growing inside HVAC systems that was never tested for.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 77,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "fibromyalgia cause",
+      "mold toxin",
+      "building sickness",
+      "undiagnosed pain",
+      "environmental illness"
+    ],
+    "overlap_check_hash": "0ed3b86a734cd001",
+    "why_this_can_go_viral": "Relatable to millions with chronic pain, offering a shocking potential cause they never considered."
+  },
+  {
+    "unique_id": "health_0106_016_9452a4b4f78089ff",
+    "title": "The FDA-Approved Antidepressant That Caused Patients to Bite Off Their Own Tongues",
+    "hook": "Approved for depression, this SSRI triggered a rare syndrome where patients lost control of their jaw muscles—and chewed their tongues until they bled.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "antidepressant side effects",
+      "tongue biting",
+      "SSRI horror",
+      "FDA approved drug",
+      "drug injury"
+    ],
+    "overlap_check_hash": "9452a4b4f78089ff",
+    "why_this_can_go_viral": "Vivid, visceral body horror that makes viewers wince and immediately want to warn others."
+  },
+  {
+    "unique_id": "health_0106_017_2ed31597856acb34",
+    "title": "The Dentist Who Drilled Holes in 500 Healthy Teeth for 'Cosmetic Bonding' Fraud",
+    "hook": "He convinced patients they had cavities, drilled perfectly healthy teeth, then billed insurance for expensive veneers—leaving them with permanent sensitivity and pain.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "dentist fraud",
+      "unnecessary drilling",
+      "dental scam",
+      "insurance fraud",
+      "tooth damage"
+    ],
+    "overlap_check_hash": "2ed31597856acb34",
+    "why_this_can_go_viral": "Dental anxiety is universal; viewers will share out of fear and anger."
+  },
+  {
+    "unique_id": "health_0106_019_6b82cf6d473f6644",
+    "title": "The Doctor Who Harvested 500 Patients' Gallbladders Without Any Medical Reason",
+    "hook": "He removed healthy gallbladders during other surgeries, claiming it 'prevented future disease'—then sold them to a research lab for $2,000 each.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 62,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "gallbladder theft",
+      "unnecessary surgery",
+      "organ harvesting",
+      "surgeon crime",
+      "medical horror"
+    ],
+    "overlap_check_hash": "6b82cf6d473f6644",
+    "why_this_can_go_viral": "The betrayal of trust during surgery is a primal fear—viewers will share widely."
+  },
+  {
+    "unique_id": "health_0106_020_fe4023a28e23c4dd",
+    "title": "The Suppressed $0.60 Seed That Reversed 100% of Type 2 Diabetes in 30 Days",
+    "hook": "A black seed extract normalized blood sugar in every patient of a small clinical trial—until the lead researcher died in a 'car accident' the week before publication.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "diabetes cure",
+      "black seed",
+      "suppressed research",
+      "natural remedy",
+      "conspiracy"
+    ],
+    "overlap_check_hash": "fe4023a28e23c4dd",
+    "why_this_can_go_viral": "Diabetes is a global epidemic; the idea of a cheap cure being silenced is explosive."
+  },
+  {
+    "unique_id": "health_0106_021_8d26d7c59321460b",
+    "title": "The Deodorant That Gave 1 in 4 Users Permanent Armpit Burns",
+    "hook": "A 'natural' deodorant brand used an unregulated acid blend that chemically burned users' armpits, leaving scars—and sold 2 million units before any recall.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 83,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "deodorant burn",
+      "natural product scam",
+      "armpit injury",
+      "toxic cosmetics",
+      "cover-up"
+    ],
+    "overlap_check_hash": "8d26d7c59321460b",
+    "why_this_can_go_viral": "Everyday product + visible injury = relatable horror that encourages shares and warnings."
+  },
+  {
+    "unique_id": "health_0106_022_050425b501188989",
+    "title": "How 'IBS' Was a Parasite in Public Drinking Fountains—For 15 Years",
+    "hook": "A city's entire population had chronic bloating and pain—until a plumber found a parasite breeding inside the water main that the health department had ignored for a decade.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 79,
+    "educational_value": 77,
+    "estimated_short_retention": 76,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "IBS cause",
+      "parasite water",
+      "contaminated water",
+      "public health scandal",
+      "cover-up"
+    ],
+    "overlap_check_hash": "050425b501188989",
+    "why_this_can_go_viral": "IBS affects millions; blaming tap water makes people question their own environment."
+  },
+  {
+    "unique_id": "health_0106_023_b50034a86d8c9757",
+    "title": "The FDA-Approved Sleep Aid That Made Patients Pee Themselves Every Night",
+    "hook": "Approved for insomnia, this drug paralyzed the bladder's nighttime signaling—patients woke up in soaked beds every single night, yet it remained on shelves for 12 years.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 76,
+    "educational_value": 60,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "sleep aid side effects",
+      "bladder paralysis",
+      "bedwetting drug",
+      "FDA approved",
+      "drug horror"
+    ],
+    "overlap_check_hash": "b50034a86d8c9757",
+    "why_this_can_go_viral": "Embarrassing but darkly funny side effect makes viewers laugh then cringe—high shareability."
+  },
+  {
+    "unique_id": "health_0106_024_28f298859983a6e6",
+    "title": "The Surgeon Who Stitched Patients' Stomachs to Their Ribs for 'Weight Loss'",
+    "hook": "He performed a brutal 'stomach tacking' procedure that caused chronic pain and vomiting—but billed it as a new miracle bariatric surgery for 10 years.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 67,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "stomach surgery horror",
+      "bariatric scam",
+      "surgeon error",
+      "weight loss fraud",
+      "medical malpractice"
+    ],
+    "overlap_check_hash": "28f298859983a6e6",
+    "why_this_can_go_viral": "Weight loss desperation + brutal surgery = emotional trigger that drives engagement."
+  },
+  {
+    "unique_id": "health_0106_025_cb218ab5b4947c15",
+    "title": "The Pharmacy That Sold Placebo Pills as Chemotherapy for 8 Years",
+    "hook": "A compounding pharmacy filled cancer prescriptions with sugar and starch—patients died believing they were being treated, while the owners bought yachts.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 100,
+    "educational_value": 74,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake chemo pills",
+      "pharmacy fraud",
+      "cancer scam",
+      "placebo murder",
+      "pharmaceutical corruption"
+    ],
+    "overlap_check_hash": "cb218ab5b4947c15",
+    "why_this_can_go_viral": "Giving cancer patients sugar instead of medicine is the ultimate betrayal—guaranteed viral fury."
+  }
+]

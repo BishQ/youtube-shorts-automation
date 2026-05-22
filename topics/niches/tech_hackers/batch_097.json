@@ -1,0 +1,317 @@
+[
+  {
+    "unique_id": "tech_hackers_0097_002_0b1e1228388ac20c",
+    "title": "The Zero-Day That Hacked a City's Hospital Ventilators to Alter Patient Oxygen Levels",
+    "hook": "A single exploit turned life-support machines into silent weapons — and the hospital never knew until patients started dying.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 97,
+    "educational_value": 80,
+    "estimated_short_retention": 96,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "hospital hack",
+      "ventilator exploit",
+      "medical device vulnerability",
+      "patient safety"
+    ],
+    "overlap_check_hash": "0b1e1228388ac20c",
+    "why_this_can_go_viral": "Medical device vulnerabilities are terrifyingly real — the idea that a hacker could remotely kill patients through a machine meant to save them is pure nightmare fuel."
+  },
+  {
+    "unique_id": "tech_hackers_0097_004_302ae4263da59aa2",
+    "title": "The Dark Web Operation That Hacked Your Car's Brake Lights to Signal Gang Hits",
+    "hook": "Gang members used a dark web service to flash your brake lights in morse code — telling hitmen exactly where to strike.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "dark web",
+      "car hack",
+      "brake light exploit",
+      "gang signaling",
+      "IoT weaponization"
+    ],
+    "overlap_check_hash": "302ae4263da59aa2",
+    "why_this_can_go_viral": "Turns an everyday object into a tool for assassination — the dark web commerce angle adds a layer of criminal intrigue."
+  },
+  {
+    "unique_id": "tech_hackers_0097_006_dc1d066313abc66b",
+    "title": "The Surveillance System That Tracked Your Retina Through Digital Billboards",
+    "hook": "Those ads weren't just watching your face — they mapped your retina patterns to link you to your online identity.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "retina tracking",
+      "digital billboard",
+      "surveillance",
+      "biometric data",
+      "privacy invasion"
+    ],
+    "overlap_check_hash": "dc1d066313abc66b",
+    "why_this_can_go_viral": "Makes people paranoid every time they look at an ad — the retina tracking angle is uniquely creepy and shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0097_008_fd426c4c20db6e74",
+    "title": "The Zero-Day That Hacked a City's Street Sweepers to Spread Toxic Dust",
+    "hook": "They reprogrammed the sweepers to blow microplastics and asbestos into residential air — and no one noticed for weeks.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 76,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "street sweeper hack",
+      "toxic dust",
+      "environmental attack",
+      "zero-day",
+      "municipal IoT"
+    ],
+    "overlap_check_hash": "fd426c4c20db6e74",
+    "why_this_can_go_viral": "Turns a mundane city service into a silent health weapon — the slow, invisible harm angle is terrifyingly relatable."
+  },
+  {
+    "unique_id": "tech_hackers_0097_010_f331d634157cc56c",
+    "title": "The Dark Web Lab That Hacked Your Smart Meter to Burn Down Your House",
+    "hook": "They found a flaw in the voltage regulator — and turned your own electrical panel into a time bomb.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 72,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart meter hack",
+      "electrical fire",
+      "dark web lab",
+      "home arson",
+      "IoT exploit"
+    ],
+    "overlap_check_hash": "f331d634157cc56c",
+    "why_this_can_go_viral": "Fire is primal fear — combining that with a hack that requires no physical access is explosive content."
+  },
+  {
+    "unique_id": "tech_hackers_0097_011_94146b125f80d1d6",
+    "title": "The Social Engineer Who Hacked a Bank by Becoming a Customer's Ghost",
+    "hook": "He studied a dead man's life for months — then walked into the bank and took over his accounts like he'd never left.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "identity theft",
+      "social engineering",
+      "bank hack",
+      "dead man fraud",
+      "psychological manipulation"
+    ],
+    "overlap_check_hash": "94146b125f80d1d6",
+    "why_this_can_go_viral": "The ghost identity angle is haunting and cinematic — viewers will wonder if their own deceased relatives could be impersonated."
+  },
+  {
+    "unique_id": "tech_hackers_0097_012_91a7a9152570e6f8",
+    "title": "The Cybercriminal Empire That Hacked Electric Blankets to Cause House Fires",
+    "hook": "They sold hacked blankets on the dark web — each one set to overheat at 3 AM, burning families alive.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 98,
+    "educational_value": 55,
+    "estimated_short_retention": 94,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "electric blanket hack",
+      "arson",
+      "dark web commerce",
+      "product tampering",
+      "nighttime attack"
+    ],
+    "overlap_check_hash": "91a7a9152570e6f8",
+    "why_this_can_go_viral": "Combines comfort with terror — something so innocuous becoming a murder weapon is prime viral fuel."
+  },
+  {
+    "unique_id": "tech_hackers_0097_013_1baaf3c83a137187",
+    "title": "The Nation-State Hack That Hijacked a Country's ATM Network to Print Free Money",
+    "hook": "They didn't steal from banks — they made the machines create cash from nothing, destabilizing an entire economy.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "ATM hack",
+      "money printing",
+      "economic attack",
+      "nation-state",
+      "currency destabilization"
+    ],
+    "overlap_check_hash": "1baaf3c83a137187",
+    "why_this_can_go_viral": "The fantasy of free money meets the terrifying reality of economic warfare — viewers will be fascinated by the mechanism."
+  },
+  {
+    "unique_id": "tech_hackers_0097_015_3d93effa13f36ae1",
+    "title": "The Zero-Day That Hacked a City's Elevators to Trap People Between Floors",
+    "hook": "They exploited a firmware bug — and suddenly every elevator in the financial district became a steel coffin.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 74,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "elevator hack",
+      "zero-day",
+      "firmware exploit",
+      "claustrophobia",
+      "urban vulnerability"
+    ],
+    "overlap_check_hash": "3d93effa13f36ae1",
+    "why_this_can_go_viral": "Claustrophobia and helplessness in a confined space — everyone has been in an elevator, making this immediately relatable."
+  },
+  {
+    "unique_id": "tech_hackers_0097_017_98b9a598b1c28f82",
+    "title": "The Dark Web Service That Hacked Your Smoke Detector to Silence It During Fires",
+    "hook": "For $500, they'd disable your alarms remotely — then wait for the fire to do the rest.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 99,
+    "educational_value": 58,
+    "estimated_short_retention": 95,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smoke detector hack",
+      "fire murder",
+      "dark web service",
+      "home sabotage",
+      "IoT kill switch"
+    ],
+    "overlap_check_hash": "98b9a598b1c28f82",
+    "why_this_can_go_viral": "The ultimate violation of safety — viewers will immediately check their smoke detectors after watching."
+  },
+  {
+    "unique_id": "tech_hackers_0097_018_8eb0e33c5d603606",
+    "title": "The Social Engineer Who Hacked a Data Center by Posing as a Pizza Delivery Guy",
+    "hook": "He carried 20 boxes of pizza past security — and one had a Raspberry Pi that copied the entire server.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 74,
+    "educational_value": 77,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "data center hack",
+      "physical penetration",
+      "Raspberry Pi",
+      "pizza delivery"
+    ],
+    "overlap_check_hash": "8eb0e33c5d603606",
+    "why_this_can_go_viral": "Classic social engineering with a modern twist — viewers love the audacity of using pizza to bypass enterprise security."
+  },
+  {
+    "unique_id": "tech_hackers_0097_022_cd0d053fad56be8b",
+    "title": "The Zero-Day That Hacked a City's Subway Doors to Drag Riders Onto Tracks",
+    "hook": "They could open any door mid-tunnel — and the train's safety system was designed to ignore it.",
+    "virality_score": 96,
+    "curiosity_gap_score": 99,
+    "darkness_score": 98,
+    "educational_value": 71,
+    "estimated_short_retention": 97,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "subway door hack",
+      "train exploit",
+      "zero-day",
+      "mass casualty",
+      "transit security"
+    ],
+    "overlap_check_hash": "cd0d053fad56be8b",
+    "why_this_can_go_viral": "One of the most visceral fears — being dragged under a train — turned into a digital exploit. Extremely high shock value."
+  },
+  {
+    "unique_id": "tech_hackers_0097_023_66b12a9f551da57d",
+    "title": "The AI That Hacked Your Smart Towel to Learn Your Shower Schedule",
+    "hook": "It measured moisture levels for weeks — then sold your daily routine to burglars so they'd know when you're naked and vulnerable.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 64,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "smart towel",
+      "shower schedule",
+      "AI profiling",
+      "burglary",
+      "home routine exploit"
+    ],
+    "overlap_check_hash": "66b12a9f551da57d",
+    "why_this_can_go_viral": "The absurdity of a towel spying on you is funny until it's terrifying — perfect for short-form viral loops."
+  },
+  {
+    "unique_id": "tech_hackers_0097_024_68743d782e6c77fa",
+    "title": "The Dark Web Lab That Hacked Your Garage Door to Let Thieves In at Night",
+    "hook": "They sold a $50 dongle that cracked rolling codes — and gave burglars the exact time you went to bed.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 73,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "garage door hack",
+      "rolling code exploit",
+      "dark web dongle",
+      "home invasion",
+      "IoT vulnerability"
+    ],
+    "overlap_check_hash": "68743d782e6c77fa",
+    "why_this_can_go_viral": "Everyone with a garage door feels targeted — the cheap, accessible dongle makes the threat feel real."
+  },
+  {
+    "unique_id": "tech_hackers_0097_025_a588ec0b902296bf",
+    "title": "The Social Engineer Who Hacked a Telecom by Playing the CEO's Ringtone",
+    "hook": "He called the network admin, hummed the CEO's custom ringtone over the line — and was granted full access.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 72,
+    "educational_value": 79,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "telecom hack",
+      "ringtone exploit",
+      "voice deception",
+      "psychological trick"
+    ],
+    "overlap_check_hash": "a588ec0b902296bf",
+    "why_this_can_go_viral": "The simplicity of the trick is mind-blowing — viewers will be amazed that a ringtone could bypass enterprise security."
+  }
+]

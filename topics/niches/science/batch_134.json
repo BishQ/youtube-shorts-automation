@@ -1,0 +1,86 @@
+[
+  {
+    "unique_id": "science_0134_013_709dec7392e40c83",
+    "title": "The Physics Experiment That Created a 'Time Reversal' Wave — Breaking Causality for a Microsecond",
+    "hook": "A team fired entangled photons through a metamaterial and observed a wave peak that appeared before the source pulse was emitted.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 52,
+    "educational_value": 84,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time reversal",
+      "causality violation",
+      "metamaterial",
+      "photon",
+      "quantum time"
+    ],
+    "overlap_check_hash": "709dec7392e40c83",
+    "why_this_can_go_viral": "Breaking cause-and-effect is a sci-fi dream; the idea that it was barely observed in real life is explosive."
+  },
+  {
+    "unique_id": "science_0134_015_21c406d2b7f82b9c",
+    "title": "The Lab Catastrophe Where a Centrifuge Exploded — and Embedded Fragments in the Ceiling",
+    "hook": "A high-speed centrifuge rotor failed at 60,000 RPM, sending titanium shards through concrete walls like shrapnel.",
+    "virality_score": 74,
+    "curiosity_gap_score": 78,
+    "darkness_score": 62,
+    "educational_value": 66,
+    "estimated_short_retention": 71,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "centrifuge explosion",
+      "rotor failure",
+      "titanium shrapnel",
+      "lab safety",
+      "high speed accident"
+    ],
+    "overlap_check_hash": "21c406d2b7f82b9c",
+    "why_this_can_go_viral": "The sheer destructive kinetic energy of a lab tool failing is shocking; many don't know centrifuges are potential bombs."
+  },
+  {
+    "unique_id": "science_0134_016_4389720b7239f76d",
+    "title": "The Chemist Who Discovered a Compound That Decomposes Any Organic Material on Contact",
+    "hook": "A nitrogen triiodide derivative was accidentally synthesized that causes proteins to unravel into goo within seconds—including living tissue.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 86,
+    "educational_value": 73,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "organic decomposition",
+      "protein unraveling",
+      "nitrogen triiodide",
+      "contact poison",
+      "instant decay"
+    ],
+    "overlap_check_hash": "4389720b7239f76d",
+    "why_this_can_go_viral": "The idea of a material that dissolves anything organic is straight out of horror; the chemistry is terrifyingly real."
+  },
+  {
+    "unique_id": "science_0134_024_4e390c4943779a4d",
+    "title": "The Physics Anomaly Where a Superconductor Levitated Forever — Then Flipped Upside Down",
+    "hook": "A yttrium barium copper oxide disk cooled to -196°C floated above a magnet, then abruptly inverted and hung below it—defying all models.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 38,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "superconductor levitation",
+      "flux pinning",
+      "flip anomaly",
+      "yttrium barium copper oxide",
+      "quantum locking"
+    ],
+    "overlap_check_hash": "4e390c4943779a4d",
+    "why_this_can_go_viral": "Visual levitation is always captivating; the sudden inversion adds a 'what just happened?' mystery."
+  }
+]

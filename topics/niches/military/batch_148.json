@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "military_0148_001_331d90f6ff6c7384",
+    "title": "The Soldier Experiment Where Troops Were Fed Concrete to Test Digestion",
+    "hook": "The military fed soldiers concrete powder mixed with their meals to see if the human stomach could break it down.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "military",
+    "subcategory": "soldier experiments",
+    "keywords": [
+      "concrete",
+      "soldier experiments",
+      "military science",
+      "human guinea pigs",
+      "weird rations"
+    ],
+    "overlap_check_hash": "331d90f6ff6c7384",
+    "why_this_can_go_viral": "Extreme body horror and the absurdity of feeding concrete to humans triggers immediate shock and curiosity."
+  },
+  {
+    "unique_id": "military_0148_002_420f0eedae9f0503",
+    "title": "The Black Budget Lab That Built a Spy Eye That Sees Through Walls",
+    "hook": "A classified lab created a tiny drone eye that could detect human heat signatures through solid concrete.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "military",
+    "subcategory": "black budget programs",
+    "keywords": [
+      "spy eye",
+      "see through walls",
+      "black budget",
+      "drone tech",
+      "thermal imaging"
+    ],
+    "overlap_check_hash": "420f0eedae9f0503",
+    "why_this_can_go_viral": "Sci-fi tech that actually exists — viewers love 'government has better tech than we know' revelations."
+  },
+  {
+    "unique_id": "military_0148_003_97e2c0bbdaa3ca64",
+    "title": "The Covert Mission Where Operatives Used a Nerve Gas That Smells Like Flowers",
+    "hook": "A secret mission weaponized a scent that smelled like roses but killed within seconds of inhalation.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "military",
+    "subcategory": "covert missions",
+    "keywords": [
+      "nerve gas",
+      "rose scent",
+      "covert mission",
+      "chemical weapon",
+      "assassination"
+    ],
+    "overlap_check_hash": "97e2c0bbdaa3ca64",
+    "why_this_can_go_viral": "The contrast between a pleasant smell and lethal poison creates a powerful cognitive dissonance."
+  },
+  {
+    "unique_id": "military_0148_004_95b7d3ecffa46d32",
+    "title": "The Psychological Op That Used a Fake Prophet to Predict Defeat",
+    "hook": "Operatives created a false religious figure whose prophecies convinced enemy troops their war was doomed.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "fake prophet",
+      "psychological op",
+      "propaganda",
+      "enemy morale",
+      "military deception"
+    ],
+    "overlap_check_hash": "95b7d3ecffa46d32",
+    "why_this_can_go_viral": "Blending religion and military manipulation is highly controversial and shareable."
+  },
+  {
+    "unique_id": "military_0148_007_8b2e86e1a87dc3cc",
+    "title": "The Classified Operation Where Divers Discovered an Alien-Like Creature in a Trench",
+    "hook": "Deep-sea military divers encountered a bioluminescent creature that had no known DNA match.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 68,
+    "educational_value": 75,
+    "estimated_short_retention": 79,
+    "niche_name": "military",
+    "subcategory": "classified operations",
+    "keywords": [
+      "divers",
+      "deep sea",
+      "alien creature",
+      "unknown DNA",
+      "military discovery"
+    ],
+    "overlap_check_hash": "8b2e86e1a87dc3cc",
+    "why_this_can_go_viral": "Unexplained phenomena and alien theories fuel massive engagement and debate."
+  },
+  {
+    "unique_id": "military_0148_008_6b50faddb4c6d954",
+    "title": "The Soldier Experiment Where Troops Were Electrocuted to Enhance Reflexes",
+    "hook": "Scientists applied electrical shocks to soldiers' brains to make them react faster in combat.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 90,
+    "educational_value": 78,
+    "estimated_short_retention": 81,
+    "niche_name": "military",
+    "subcategory": "soldier experiments",
+    "keywords": [
+      "electrocution",
+      "reflex enhancement",
+      "brain shocks",
+      "soldier experiments",
+      "human testing"
+    ],
+    "overlap_check_hash": "6b50faddb4c6d954",
+    "why_this_can_go_viral": "The combination of torture and transhumanism is both disturbing and fascinating."
+  },
+  {
+    "unique_id": "military_0148_010_cf52f96f50447156",
+    "title": "The Black Budget Project That Grew a Super-Soldier Muscle in a Lab",
+    "hook": "A classified lab grew synthetic human muscle tissue that was five times stronger than natural fibers.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 82,
+    "estimated_short_retention": 84,
+    "niche_name": "military",
+    "subcategory": "black budget programs",
+    "keywords": [
+      "super soldier",
+      "lab grown muscle",
+      "bioengineering",
+      "black budget",
+      "human enhancement"
+    ],
+    "overlap_check_hash": "cf52f96f50447156",
+    "why_this_can_go_viral": "The concept of 'super soldiers' appeals to sci-fi fans and conspiracy theorists alike."
+  },
+  {
+    "unique_id": "military_0148_012_19e2712bdf6cb13a",
+    "title": "The Psychological Op That Broadcasted Enemy Soldiers' Last Messages to Families",
+    "hook": "A psychological operation intercepted dying soldiers' radio messages and replayed them to their loved ones live.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "last messages",
+      "psychological warfare",
+      "family broadcasting",
+      "enemy morale",
+      "radio op"
+    ],
+    "overlap_check_hash": "19e2712bdf6cb13a",
+    "why_this_can_go_viral": "Extremely emotional and cruel — viewers will be horrified and want to learn more."
+  },
+  {
+    "unique_id": "military_0148_013_65f9c38a65820ce5",
+    "title": "The War Crime Hidden Where Soldiers Were Forced to Dig Their Own Graves Before Execution",
+    "hook": "A hidden mass execution forced prisoners to dig their own graves before being shot and buried alive.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 99,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "military",
+    "subcategory": "war crimes hidden",
+    "keywords": [
+      "mass execution",
+      "own graves",
+      "buried alive",
+      "war crimes",
+      "cover-up"
+    ],
+    "overlap_check_hash": "65f9c38a65820ce5",
+    "why_this_can_go_viral": "The ultimate horror story — incredibly graphic and emotionally devastating, drives shares."
+  },
+  {
+    "unique_id": "military_0148_014_e99c855d2509c2ae",
+    "title": "The Classified Operation Where Troops Were Sent to Recover a Lost Nuclear Bomb",
+    "hook": "A nuclear bomb was lost in a swamp for decades, and a secret mission was sent to find it before it leaked.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 82,
+    "estimated_short_retention": 82,
+    "niche_name": "military",
+    "subcategory": "classified operations",
+    "keywords": [
+      "lost nuke",
+      "nuclear bomb",
+      "swamp recovery",
+      "classified mission",
+      "radiation"
+    ],
+    "overlap_check_hash": "e99c855d2509c2ae",
+    "why_this_can_go_viral": "The mystery of a missing nuke and the danger of radiation creates high tension."
+  },
+  {
+    "unique_id": "military_0148_016_d5b85214fac45662",
+    "title": "The Soldier Experiment Where Troops Were Exposed to Feces to Test Immunity",
+    "hook": "Soldiers were forced to consume or inhale human waste to see if their bodies could build resistance to disease.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 97,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "military",
+    "subcategory": "soldier experiments",
+    "keywords": [
+      "feces",
+      "immunity testing",
+      "soldier experiments",
+      "disgusting",
+      "biological warfare"
+    ],
+    "overlap_check_hash": "d5b85214fac45662",
+    "why_this_can_go_viral": "Extreme disgust factor ensures people click and share — it's almost unbelievable."
+  },
+  {
+    "unique_id": "military_0148_018_99e5ea9860359e1c",
+    "title": "The Black Budget Lab That Built a Helmet That Controls Drones With Thought",
+    "hook": "A classified project created a neural helmet that allowed soldiers to pilot entire drone swarms using only their mind.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 74,
+    "educational_value": 83,
+    "estimated_short_retention": 85,
+    "niche_name": "military",
+    "subcategory": "black budget programs",
+    "keywords": [
+      "neural helmet",
+      "drone control",
+      "thought control",
+      "brain interface",
+      "black budget"
+    ],
+    "overlap_check_hash": "99e5ea9860359e1c",
+    "why_this_can_go_viral": "Mind control tech is a huge sci-fi trope — viewers will be fascinated by its real-world development."
+  },
+  {
+    "unique_id": "military_0148_019_17520d60c89e11b5",
+    "title": "The Covert Mission Where Operatives Used a Poison That Paralyzes but Keeps Victims Conscious",
+    "hook": "A paralytic agent was used on a target who could feel everything but couldn't move or scream.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 93,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "military",
+    "subcategory": "covert missions",
+    "keywords": [
+      "paralytic poison",
+      "conscious victim",
+      "covert mission",
+      "chemical agent",
+      "assassination"
+    ],
+    "overlap_check_hash": "17520d60c89e11b5",
+    "why_this_can_go_viral": "The horror of being trapped in your own body is universally terrifying."
+  },
+  {
+    "unique_id": "military_0148_020_d55c08a11d2193a4",
+    "title": "The Psychological Op That Used a Fake POW Camp to Brainwash Enemy Fighters",
+    "hook": "A fake prison camp was set up where captured enemy fighters were psychologically reprogrammed through sleep deprivation and whispers.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "fake POW camp",
+      "brainwash",
+      "sleep deprivation",
+      "psychological warfare",
+      "reprogramming"
+    ],
+    "overlap_check_hash": "d55c08a11d2193a4",
+    "why_this_can_go_viral": "Dark psychology and mind control themes are highly engaging and controversial."
+  },
+  {
+    "unique_id": "military_0148_022_5fb05da8c558d707",
+    "title": "The Classified Operation Where Divers Found a Secret Bunker Inside a Glacier",
+    "hook": "Military divers discovered a hidden Nazi bunker encased in ice, still containing weapons and documents.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 76,
+    "educational_value": 82,
+    "estimated_short_retention": 81,
+    "niche_name": "military",
+    "subcategory": "classified operations",
+    "keywords": [
+      "glacier bunker",
+      "Nazi secrets",
+      "divers",
+      "ice discovery",
+      "classified mission"
+    ],
+    "overlap_check_hash": "5fb05da8c558d707",
+    "why_this_can_go_viral": "Time capsule discoveries and Nazi mystery always attract viewers."
+  },
+  {
+    "unique_id": "military_0148_024_ffab6d9dfffb1de9",
+    "title": "The Soldier Experiment Where Troops Were Injected With Adrenaline for Days",
+    "hook": "Soldiers were kept awake for days with adrenaline injections to test their combat effectiveness under extreme stress.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 89,
+    "educational_value": 80,
+    "estimated_short_retention": 83,
+    "niche_name": "military",
+    "subcategory": "soldier experiments",
+    "keywords": [
+      "adrenaline",
+      "sleep deprivation",
+      "soldier experiments",
+      "human guinea pigs",
+      "chemical testing"
+    ],
+    "overlap_check_hash": "ffab6d9dfffb1de9",
+    "why_this_can_go_viral": "The physical and psychological torture of forced wakefulness is both horrifying and fascinating."
+  },
+  {
+    "unique_id": "military_0148_025_ab156c34f0b35176",
+    "title": "The Military Deception That Used a Fake General to Order Enemy Retreat",
+    "hook": "A lookalike general gave false orders over radio to enemy troops, convincing them to abandon their posts.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 76,
+    "educational_value": 80,
+    "estimated_short_retention": 81,
+    "niche_name": "military",
+    "subcategory": "military deceptions",
+    "keywords": [
+      "fake general",
+      "imposter",
+      "retreat order",
+      "military deception",
+      "psychological warfare"
+    ],
+    "overlap_check_hash": "ab156c34f0b35176",
+    "why_this_can_go_viral": "The audacity of impersonating a high-ranking officer is dramatic and surprising."
+  }
+]

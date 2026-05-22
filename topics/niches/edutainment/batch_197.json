@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "edutainment_0197_001_131a4f6ef7f50835",
+    "title": "The Secret Lab Where Scientists Created a Chicken With Teeth",
+    "hook": "Deep inside a genetics lab, scientists reactivated a 70-million-year-old dormant gene and grew teeth inside a chicken's beak — on purpose.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 65,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "chicken teeth",
+      "genetic experiment",
+      "dinosaur gene",
+      "evolution reversed",
+      "biology anomaly"
+    ],
+    "overlap_check_hash": "131a4f6ef7f50835",
+    "why_this_can_go_viral": "The mental image of a chicken with teeth is inherently jarring and meme-worthy, and the forbidden science angle ('playing god') drives clicks."
+  },
+  {
+    "unique_id": "edutainment_0197_002_4abb3972961e72ff",
+    "title": "The Hidden Bunker Where a Man Listened to Nuclear Bomb Tests for 30 Years",
+    "hook": "A single man was paid to sit in a concrete bunker and listen to every nuclear bomb detonation on Earth — his ears were the government's most classified sensor.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 92,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "nuclear listening post",
+      "acoustic surveillance",
+      "cold war secret",
+      "ear witness",
+      "bomb detection"
+    ],
+    "overlap_check_hash": "4abb3972961e72ff",
+    "why_this_can_go_viral": "The absurdity and isolation of a human being used as a living detection system creates a dark, cinematic hook that viewers cannot ignore."
+  },
+  {
+    "unique_id": "edutainment_0197_004_8afbd0a228d96897",
+    "title": "The Secret Machine That Turns Your Dead Pets Into Diamonds — Legally",
+    "hook": "Inside a Swiss vault, a machine presses the carbon from your pet's cremated ashes into a real diamond — over 10,000 people have worn their dead cat around their neck.",
+    "virality_score": 88,
+    "curiosity_gap_score": 85,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "edutainment",
+    "subcategory": "secret mechanisms of the world",
+    "keywords": [
+      "pet diamond",
+      "cremation jewelry",
+      "carbon press",
+      "memorial diamond",
+      "death industry"
+    ],
+    "overlap_check_hash": "8afbd0a228d96897",
+    "why_this_can_go_viral": "The combination of morbid 'death technology' and emotional pet love creates a powerful, shareable emotional conflict."
+  },
+  {
+    "unique_id": "edutainment_0197_005_27cb79a0778431d9",
+    "title": "The Hidden Factory Where 100,000 Human Skeletons Are Assembled for Medical Schools",
+    "hook": "In a single anonymous building in India, workers assemble human skeletons from real donated bodies — and ship them to every anatomy lab in the world.",
+    "virality_score": 91,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 93,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "skeleton factory",
+      "human bones",
+      "medical supply chain",
+      "anatomy trade",
+      "body donation"
+    ],
+    "overlap_check_hash": "27cb79a0778431d9",
+    "why_this_can_go_viral": "The sheer scale and macabre reality of a factory dedicated to human skeletons is visually arresting and feels like forbidden knowledge."
+  },
+  {
+    "unique_id": "edutainment_0197_006_4cec36d3b7588afe",
+    "title": "The Man Who Ate Nothing But Air for 10 Years — Doctors Confirmed It",
+    "hook": "An Australian man stopped eating entirely in 1993 — doctors studied him for a decade and found no malnutrition, no organ failure, and no hidden food source.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 70,
+    "educational_value": 60,
+    "estimated_short_retention": 97,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "breatharian",
+      "no food survival",
+      "human anomaly",
+      "medical mystery",
+      "fasting record"
+    ],
+    "overlap_check_hash": "4cec36d3b7588afe",
+    "why_this_can_go_viral": "The impossibility of surviving without food triggers immediate skepticism and curiosity — viewers will watch to the end for the explanation."
+  },
+  {
+    "unique_id": "edutainment_0197_008_4c22be5698d7248e",
+    "title": "The Secret Vault Where a Million Human Voice Recordings Are Trapped in Wax",
+    "hook": "In a climate-controlled bunker, 1,200 wax cylinders hold the voices of people who died 120 years ago — including a woman singing a song that was never written down.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "wax cylinder archive",
+      "lost voices",
+      "audio preservation",
+      "ghost recordings",
+      "sound history"
+    ],
+    "overlap_check_hash": "4c22be5698d7248e",
+    "why_this_can_go_viral": "The idea of 'ghost voices' trapped in wax from the 1800s is inherently eerie and taps into our fear of being forgotten."
+  },
+  {
+    "unique_id": "edutainment_0197_009_2a1b3de1a05e53f6",
+    "title": "The Hidden Room Where a Machine Has Been Writing a Novel for 40 Years",
+    "hook": "Inside a locked room in Prague, a computer called 'The Novel Generator' has been writing a single continuous story since 1984 — it's now 40 million words long and no human has read it all.",
+    "virality_score": 83,
+    "curiosity_gap_score": 90,
+    "darkness_score": 55,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "endless novel",
+      "AI writing",
+      "Prague experiment",
+      "unread book",
+      "literary machine"
+    ],
+    "overlap_check_hash": "2a1b3de1a05e53f6",
+    "why_this_can_go_viral": "The absurd scale and existential loneliness of a machine writing forever for no reader is both fascinating and unsettling."
+  },
+  {
+    "unique_id": "edutainment_0197_010_7df3491d7805f879",
+    "title": "The Scientist Who Built a Machine That Lets You See Your Own Voice",
+    "hook": "A Dutch physicist created a device that converts your vocal vibrations into real-time, 3D light sculptures — your words become visible, floating in the air.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 30,
+    "educational_value": 88,
+    "estimated_short_retention": 84,
+    "niche_name": "edutainment",
+    "subcategory": "counterintuitive discoveries",
+    "keywords": [
+      "visible speech",
+      "voice visualization",
+      "sound sculpture",
+      "physics art",
+      "cymatic device"
+    ],
+    "overlap_check_hash": "7df3491d7805f879",
+    "why_this_can_go_viral": "The sensory crossover of 'seeing sound' is visually stunning and deeply shareable — viewers will want to see what their own voice looks like."
+  },
+  {
+    "unique_id": "edutainment_0197_012_35518782b2ddc666",
+    "title": "The Hidden Bunker Where a Man Trained Pigeons to Paint Masterpieces",
+    "hook": "During the Cold War, a reclusive British artist locked himself in a bunker with 100 pigeons and spent 5 years teaching them to hold brushes and paint abstract art.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 60,
+    "educational_value": 65,
+    "estimated_short_retention": 89,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "pigeon art",
+      "animal painting",
+      "Cold War artist",
+      "bunker studio",
+      "bird creativity"
+    ],
+    "overlap_check_hash": "35518782b2ddc666",
+    "why_this_can_go_viral": "The combination of secret bunker, Cold War isolation, and animals making art is absurdly clickable and highly visual."
+  },
+  {
+    "unique_id": "edutainment_0197_013_852eca5417af2b15",
+    "title": "The Secret Lab Where Scientists Made a Mouse Grow a Human Ear on Its Back",
+    "hook": "In 1997, a team in Massachusetts grew a human-shaped ear on the spine of a living mouse — it had blood vessels, cartilage, and was kept alive for years.",
+    "virality_score": 93,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 94,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "ear mouse",
+      "human ear on mouse",
+      "tissue engineering",
+      "Vacanti mouse",
+      "bio-art"
+    ],
+    "overlap_check_hash": "852eca5417af2b15",
+    "why_this_can_go_viral": "The infamous photo of the 'ear mouse' is already iconic; the ethical ambiguity and body horror make it endlessly shareable."
+  },
+  {
+    "unique_id": "edutainment_0197_014_29cf12f8dc39ee59",
+    "title": "The Hidden Network of Caves Where Ice Hasn't Melted in 10,000 Years",
+    "hook": "Deep inside the Alps, a labyrinth of ice caves preserves ancient air bubbles from the last Ice Age — and a single wrong touch could destroy them forever.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 50,
+    "educational_value": 86,
+    "estimated_short_retention": 81,
+    "niche_name": "edutainment",
+    "subcategory": "unexpected connections",
+    "keywords": [
+      "ancient ice caves",
+      "frozen air",
+      "climate archive",
+      "Alpine ice",
+      "Ice Age bubbles"
+    ],
+    "overlap_check_hash": "29cf12f8dc39ee59",
+    "why_this_can_go_viral": "The idea of 'trapped ancient air' is poetic and tactile; the fragility adds tension that keeps viewers watching."
+  },
+  {
+    "unique_id": "edutainment_0197_015_4551c29b3694469a",
+    "title": "The Man Who Had a Microchip Implanted in His Brain to Control His Dreams",
+    "hook": "A paralyzed man in Ohio volunteered to have electrodes placed in his hippocampus — now he can choose his dreams, night after night, with a remote control.",
+    "virality_score": 96,
+    "curiosity_gap_score": 98,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 97,
+    "niche_name": "edutainment",
+    "subcategory": "secret mechanisms of the world",
+    "keywords": [
+      "dream control",
+      "brain implant",
+      "lucid dreaming device",
+      "neural interface",
+      "hippocampus stimulation"
+    ],
+    "overlap_check_hash": "4551c29b3694469a",
+    "why_this_can_go_viral": "The promise of controlling your own dreams is universal and irresistible; the sci-fi reality of a brain chip makes it feel like forbidden tech."
+  },
+  {
+    "unique_id": "edutainment_0197_016_42167fa357f389b1",
+    "title": "Why a Single Island in Japan Has Deer That Bow to You — and It's Not Cute",
+    "hook": "On Miyajima Island, the deer bow because tourists have trained them to expect food — but the dark truth is that they'll trample you if you don't bow back.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "edutainment",
+    "subcategory": "unexpected connections",
+    "keywords": [
+      "bowing deer",
+      "Miyajima",
+      "animal behavior",
+      "conditioned respect",
+      "Japan wildlife"
+    ],
+    "overlap_check_hash": "42167fa357f389b1",
+    "why_this_can_go_viral": "The subversion of a 'cute' animal video into a dark survival rule is perfect for the 'cute but deadly' viral genre."
+  },
+  {
+    "unique_id": "edutainment_0197_017_e593ebd83e4427af",
+    "title": "The Secret Factory Where 10,000 Human Teeth Are Turned Into Jewelry Every Year",
+    "hook": "In a single workshop in Belgium, real human molars and incisors are polished, inlaid with gold, and sold as rings — sourced from unclaimed corpses and dental waste.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "tooth jewelry",
+      "human tooth ring",
+      "dental recycling",
+      "morbid fashion",
+      "body jewelry"
+    ],
+    "overlap_check_hash": "e593ebd83e4427af",
+    "why_this_can_go_viral": "The visceral disgust and fascination with wearing actual human remains drives intense engagement and comment-sharing."
+  },
+  {
+    "unique_id": "edutainment_0197_018_ff2457abf97810e8",
+    "title": "The Hidden Vault Where a 300-Year-Old Mechanical Duck Can Still Eat and Poop",
+    "hook": "François Vaucanson's clockwork duck from 1739 can flap, eat grain, and excrete fake droppings — it's still functional and kept in a sealed glass case in France.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 35,
+    "educational_value": 82,
+    "estimated_short_retention": 83,
+    "niche_name": "edutainment",
+    "subcategory": "counterintuitive discoveries",
+    "keywords": [
+      "mechanical duck",
+      "Vaucanson",
+      "automaton",
+      "18th century robot",
+      "clockwork animal"
+    ],
+    "overlap_check_hash": "ff2457abf97810e8",
+    "why_this_can_go_viral": "The absurdity of an 18th-century robot that mimics digestion is both historically mind-blowing and visually hilarious."
+  },
+  {
+    "unique_id": "edutainment_0197_019_4a55743b2ab47659",
+    "title": "The Woman Whose Tears Could Melt Plastic — Doctors Had No Explanation",
+    "hook": "A 23-year-old in Brazil produced tears that chemically dissolved contact lenses and eyewear — doctors tested her tears and found an unknown enzyme never seen in human biology.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 93,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "acid tears",
+      "melting plastic",
+      "unknown enzyme",
+      "medical anomaly",
+      "Brazil case"
+    ],
+    "overlap_check_hash": "4a55743b2ab47659",
+    "why_this_can_go_viral": "The body-horror element combined with a genuine unsolved medical mystery creates a 'can't look away' effect."
+  },
+  {
+    "unique_id": "edutainment_0197_020_c7349b3770986dee",
+    "title": "The Secret Bunker Where a Clock Has Been Ticking Exactly Once per Year Since 1850",
+    "hook": "In a sealed Scottish basement, a custom-built clock ticks only on New Year's Day — it's been counting the centuries without ever needing winding.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 60,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "edutainment",
+    "subcategory": "reality-breaking statistics",
+    "keywords": [
+      "one tick per year",
+      "century clock",
+      "Scottish bunker",
+      "slowest clock",
+      "time artifact"
+    ],
+    "overlap_check_hash": "c7349b3770986dee",
+    "why_this_can_go_viral": "The concept of a clock that barely moves plays with our perception of time — the patience and permanence feel almost religious."
+  },
+  {
+    "unique_id": "edutainment_0197_022_7936bc0f02dab1c7",
+    "title": "The Hidden Room Where a Dead Man's Hand Still Holds a Pen — Writing Forever",
+    "hook": "A stroke patient's hand continued the motion of writing after his brain died — doctors kept his arm alive artificially, and it wrote the same word for 72 hours.",
+    "virality_score": 97,
+    "curiosity_gap_score": 99,
+    "darkness_score": 98,
+    "educational_value": 72,
+    "estimated_short_retention": 98,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "dead hand writing",
+      "post-mortem motion",
+      "muscle memory",
+      "neurological anomaly",
+      "corpse movement"
+    ],
+    "overlap_check_hash": "7936bc0f02dab1c7",
+    "why_this_can_go_viral": "The image of a dead hand writing is the perfect blend of horror and mystery — it taps into primal fear and curiosity simultaneously."
+  },
+  {
+    "unique_id": "edutainment_0197_024_f27d398f572cdb28",
+    "title": "The Man Who Survived 438 Days at Sea — and Was Legally Dead When Rescued",
+    "hook": "A Mexican fisherman drifted across the Pacific for 14 months — when a ship finally found him, his family had already held his funeral and declared him dead in court.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 88,
+    "educational_value": 68,
+    "estimated_short_retention": 95,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "longest survival at sea",
+      "José Salvador Alvarenga",
+      "presumed dead",
+      "Pacific drift",
+      "resurrection story"
+    ],
+    "overlap_check_hash": "f27d398f572cdb28",
+    "why_this_can_go_viral": "The ultimate 'comeback from the dead' story — legal death, funeral held, then a living man appears. It's narratively perfect."
+  },
+  {
+    "unique_id": "edutainment_0197_025_46a84753ddbd3b43",
+    "title": "Why a Single Pyramid in Sudan Has a Door That Opens Only During a Solar Eclipse",
+    "hook": "A 2,300-year-old Nubian pyramid in Meroë was designed so that once every 18 months, the sun aligns perfectly to illuminate a hidden chamber inside — for exactly 4 minutes.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 55,
+    "educational_value": 90,
+    "estimated_short_retention": 89,
+    "niche_name": "edutainment",
+    "subcategory": "unexpected connections",
+    "keywords": [
+      "solar eclipse pyramid",
+      "Nubian alignment",
+      "Meroë",
+      "ancient astronomy",
+      "hidden chamber"
+    ],
+    "overlap_check_hash": "46a84753ddbd3b43",
+    "why_this_can_go_viral": "Ancient alignment mysteries are evergreen; the precision and rarity of the event makes it feel like a secret code from the past."
+  }
+]

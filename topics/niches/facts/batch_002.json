@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "facts_0002_001_5bff306e1e572bf6",
+    "title": "The Lake That Turns Animals to Stone",
+    "hook": "This African lake calcifies anything that touches it, turning birds and bats into eerie statues.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "lake natron",
+      "calcification",
+      "tanzania",
+      "animals turned to stone",
+      "deadly lakes"
+    ],
+    "overlap_check_hash": "5bff306e1e572bf6",
+    "why_this_can_go_viral": "The visual of petrified animals is shocking and instantly shareable."
+  },
+  {
+    "unique_id": "facts_0002_002_ac3cd022464dc5ee",
+    "title": "Your Body Eats Itself Every Night While You Sleep",
+    "hook": "During deep sleep, your body cannibalizes its own cells for fuel—a process called autophagy.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "autophagy",
+      "self-cannibalism",
+      "sleep",
+      "cell death",
+      "human body mysteries"
+    ],
+    "overlap_check_hash": "ac3cd022464dc5ee",
+    "why_this_can_go_viral": "The word 'cannibalizes' triggers disgust and curiosity."
+  },
+  {
+    "unique_id": "facts_0002_003_a806f82595cdc4ad",
+    "title": "The Plant That Screams When Cut",
+    "hook": "Scientists recorded ultrasonic clicks from tomato plants under stress—they scream in pain.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 65,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "plant screaming",
+      "ultrasonic",
+      "tomato plant",
+      "plant communication",
+      "stress response"
+    ],
+    "overlap_check_hash": "a806f82595cdc4ad",
+    "why_this_can_go_viral": "Anthropomorphizing plants with 'screaming' creates emotional shock."
+  },
+  {
+    "unique_id": "facts_0002_004_8fe80b9dace3404b",
+    "title": "The Invisible Waves Cooking Your Brain Right Now",
+    "hook": "Non-ionizing radiation from your phone might be heating your brain tissue without you feeling it.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 75,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "phone radiation",
+      "brain heating",
+      "non-ionizing",
+      "EMF danger",
+      "smartphone risk"
+    ],
+    "overlap_check_hash": "8fe80b9dace3404b",
+    "why_this_can_go_viral": "Directly relatable to every viewer using a phone."
+  },
+  {
+    "unique_id": "facts_0002_005_6514d1cad4708059",
+    "title": "Why Your Toilet Is Spraying Feces on Your Toothbrush",
+    "hook": "Every flush sends a plume of aerosolized bacteria and fecal matter up to 6 feet away.",
+    "virality_score": 85,
+    "curiosity_gap_score": 85,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "toilet plume",
+      "fecal bacteria",
+      "toothbrush contamination",
+      "flush spray",
+      "bathroom hygiene"
+    ],
+    "overlap_check_hash": "6514d1cad4708059",
+    "why_this_can_go_viral": "Gross-out factor with immediate practical implication."
+  },
+  {
+    "unique_id": "facts_0002_006_d90c4a6ea11808ec",
+    "title": "The Animal That Can Photosynthesize Like a Plant",
+    "hook": "The sea slug steals genes from algae and turns sunlight into energy, becoming a solar-powered animal.",
+    "virality_score": 80,
+    "curiosity_gap_score": 90,
+    "darkness_score": 40,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "sea slug",
+      "photosynthesis",
+      "kleptoplasty",
+      "solar animal",
+      "gene theft"
+    ],
+    "overlap_check_hash": "d90c4a6ea11808ec",
+    "why_this_can_go_viral": "Blurring the line between plant and animal is mind-blowing."
+  },
+  {
+    "unique_id": "facts_0002_007_2b5b56f0410caa7b",
+    "title": "The Frozen Cave That Holds a 40,000-Year-Old Beast",
+    "hook": "A woolly rhino preserved in Siberian permafrost still has its skin and fur intact.",
+    "virality_score": 75,
+    "curiosity_gap_score": 85,
+    "darkness_score": 50,
+    "educational_value": 80,
+    "estimated_short_retention": 75,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "woolly rhino",
+      "permafrost",
+      "frozen cave",
+      "Siberia",
+      "ancient preservation"
+    ],
+    "overlap_check_hash": "2b5b56f0410caa7b",
+    "why_this_can_go_viral": "Ancient preservation taps into mystery and fascination."
+  },
+  {
+    "unique_id": "facts_0002_008_0ff05f635b93f1fe",
+    "title": "You Have More Bacteria Cells Than Human Cells",
+    "hook": "Your body is 57% microbial—you are more microbe than human.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 60,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "bacteria",
+      "microbiome",
+      "human cells",
+      "microbe ratio",
+      "body composition"
+    ],
+    "overlap_check_hash": "0ff05f635b93f1fe",
+    "why_this_can_go_viral": "Challenges identity—viewers question who 'they' are."
+  },
+  {
+    "unique_id": "facts_0002_009_87f09187365c4bca",
+    "title": "The River That Flows Backward (and Kills Everything in Its Path)",
+    "hook": "Australia's Georgina River reversed flow after heavy rain, drowning entire ecosystems.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 70,
+    "educational_value": 70,
+    "estimated_short_retention": 75,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "river reversal",
+      "Georgina River",
+      "Australia floods",
+      "deadly rivers",
+      "hydrology anomaly"
+    ],
+    "overlap_check_hash": "87f09187365c4bca",
+    "why_this_can_go_viral": "Visual of a backward-flowing river is rare and surreal."
+  },
+  {
+    "unique_id": "facts_0002_010_29e533e11ee4b908",
+    "title": "The Parasite That Makes You Want to Eat Cat Poop",
+    "hook": "Toxoplasma gondii alters your brain to make you less afraid of cats and their waste.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "toxoplasma",
+      "cat parasite",
+      "brain control",
+      "risk-taking",
+      "zombie parasite"
+    ],
+    "overlap_check_hash": "29e533e11ee4b908",
+    "why_this_can_go_viral": "Direct brain manipulation is terrifying and relatable."
+  },
+  {
+    "unique_id": "facts_0002_011_a396cade08d72658",
+    "title": "The Mountain That Explodes Without Warning",
+    "hook": "Mount Nyiragongo's lava lake can rupture with no seismic signs—killing thousands instantly.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "Mount Nyiragongo",
+      "lava lake",
+      "silent eruption",
+      "volcano danger",
+      "DRC"
+    ],
+    "overlap_check_hash": "a396cade08d72658",
+    "why_this_can_go_viral": "Unpredictable deadly force triggers fear."
+  },
+  {
+    "unique_id": "facts_0002_012_e17eff78e539da63",
+    "title": "Why Your Own Immune System Is Trying to Kill You",
+    "hook": "Autoimmune diseases occur when your body mistakes your own cells for invaders and attacks.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 80,
+    "educational_value": 85,
+    "estimated_short_retention": 75,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "autoimmune",
+      "immune attack",
+      "self-destruction",
+      "inflammation",
+      "body betrayal"
+    ],
+    "overlap_check_hash": "e17eff78e539da63",
+    "why_this_can_go_viral": "Personal health angle with high relatability."
+  },
+  {
+    "unique_id": "facts_0002_013_ac2348400398776f",
+    "title": "The Fish That Swims Up Your Urethra",
+    "hook": "The candiru fish is attracted to human urine and can lodge itself inside the urethra.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "candiru",
+      "urethra fish",
+      "parasite",
+      "Amazon horror",
+      "urine attraction"
+    ],
+    "overlap_check_hash": "ac2348400398776f",
+    "why_this_can_go_viral": "Extreme body horror with visceral disgust."
+  },
+  {
+    "unique_id": "facts_0002_014_da2b4fb3e0bfac19",
+    "title": "The Desert That Gets Snow Regularly",
+    "hook": "The Atacama Desert, the driest non-polar desert, gets blanketed in snow every few decades.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 40,
+    "educational_value": 70,
+    "estimated_short_retention": 75,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "Atacama snow",
+      "desert snow",
+      "climate paradox",
+      "Chile desert",
+      "rare weather"
+    ],
+    "overlap_check_hash": "da2b4fb3e0bfac19",
+    "why_this_can_go_viral": "Contrast of snow in desert is visually striking."
+  },
+  {
+    "unique_id": "facts_0002_015_4ca72eaa98260afb",
+    "title": "Your Bones Are Constantly Breaking and Rebuilding",
+    "hook": "Every 10 years, you have an entirely new skeleton—your bones remodel themselves daily.",
+    "virality_score": 70,
+    "curiosity_gap_score": 75,
+    "darkness_score": 50,
+    "educational_value": 80,
+    "estimated_short_retention": 70,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "bone remodeling",
+      "skeleton renewal",
+      "osteoclast",
+      "osteoblast",
+      "body regeneration"
+    ],
+    "overlap_check_hash": "4ca72eaa98260afb",
+    "why_this_can_go_viral": "Surprising fact about constant change in the body."
+  },
+  {
+    "unique_id": "facts_0002_016_5f6f318696c209cb",
+    "title": "The Island Where You're Never More Than 10 Feet From a Spider",
+    "hook": "Christmas Island has a red crab population so dense that the ground moves with them.",
+    "virality_score": 70,
+    "curiosity_gap_score": 75,
+    "darkness_score": 60,
+    "educational_value": 60,
+    "estimated_short_retention": 70,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "Christmas Island",
+      "red crabs",
+      "spider density",
+      "crab migration",
+      "animal swarm"
+    ],
+    "overlap_check_hash": "5f6f318696c209cb",
+    "why_this_can_go_viral": "Visual of thousands of crabs is awe-inspiring and creepy."
+  },
+  {
+    "unique_id": "facts_0002_017_9856bb8d6408d209",
+    "title": "The Invisible Cloud of Microplastics You Breathe Every Minute",
+    "hook": "You inhale up to 100 microplastic particles per breath indoors—they lodge in your lungs.",
+    "virality_score": 85,
+    "curiosity_gap_score": 85,
+    "darkness_score": 90,
+    "educational_value": 85,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "microplastics",
+      "air pollution",
+      "lung damage",
+      "plastic inhalation",
+      "indoors health"
+    ],
+    "overlap_check_hash": "9856bb8d6408d209",
+    "why_this_can_go_viral": "Universal exposure creates urgency and fear."
+  },
+  {
+    "unique_id": "facts_0002_018_470c66498a60ce9a",
+    "title": "The Salt Cave That Traps and Kills Explorers Instantly",
+    "hook": "Colombia's Salt Cathedral has pockets of lethal gas that can suffocate you within seconds.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "salt cave",
+      "lethal gas",
+      "Colombia",
+      "explorer deaths",
+      "underground danger"
+    ],
+    "overlap_check_hash": "470c66498a60ce9a",
+    "why_this_can_go_viral": "Hidden deadly spaces tap into claustrophobia."
+  },
+  {
+    "unique_id": "facts_0002_019_76aa6137e4c85030",
+    "title": "The Statistic That Proves You're Likely Dead Wrong About Your Own Risk",
+    "hook": "People fear plane crashes but ignore car crashes—yet cars kill 40,000+ per year in the US alone.",
+    "virality_score": 80,
+    "curiosity_gap_score": 80,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "risk perception",
+      "plane vs car",
+      "death statistics",
+      "cognitive bias",
+      "mortality"
+    ],
+    "overlap_check_hash": "76aa6137e4c85030",
+    "why_this_can_go_viral": "Challenges common beliefs with hard data."
+  },
+  {
+    "unique_id": "facts_0002_020_ea85f17f5a37813a",
+    "title": "The Coral That Eats Plastic and Dies Slowly",
+    "hook": "Coral reefs mistake microplastics for food, ingesting them and starving to death.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 75,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "coral",
+      "microplastics",
+      "reef death",
+      "plastic pollution",
+      "marine biology"
+    ],
+    "overlap_check_hash": "ea85f17f5a37813a",
+    "why_this_can_go_viral": "Environmental horror with concrete imagery."
+  }
+]

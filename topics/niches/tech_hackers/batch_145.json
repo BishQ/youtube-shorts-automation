@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "tech_hackers_0145_001_e45cf17a342cb7bc",
+    "title": "The Zero-Day That Hacked Smart Insulin Pumps to Kill Diabetics",
+    "hook": "A remote exploit turned life-saving medical devices into silent assassination tools, with no trace left behind.",
+    "virality_score": 95,
+    "curiosity_gap_score": 92,
+    "darkness_score": 98,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "insulin pump",
+      "medical device hack",
+      "remote assassination",
+      "IoT vulnerability"
+    ],
+    "overlap_check_hash": "e45cf17a342cb7bc",
+    "why_this_can_go_viral": "Fear of medical device hacking is primal and personal; the idea that a diabetic could be killed remotely by an invisible attacker is terrifying and shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0145_002_4d78e64d9d60e675",
+    "title": "The Dark Web Lab That Hacked Smart Toasters to Launch DDoS Attacks",
+    "hook": "A criminal ring turned millions of kitchen appliances into botnet soldiers, taking down major websites for ransom.",
+    "virality_score": 82,
+    "curiosity_gap_score": 78,
+    "darkness_score": 74,
+    "educational_value": 88,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "dark web",
+      "botnet",
+      "smart toaster",
+      "DDoS",
+      "IoT botnet"
+    ],
+    "overlap_check_hash": "4d78e64d9d60e675",
+    "why_this_can_go_viral": "The absurdity of toasters as cyber weapons mixed with real-world chaos creates high shock value and shareability."
+  },
+  {
+    "unique_id": "tech_hackers_0145_007_f4727b7aa0b7a9ee",
+    "title": "The Surveillance System That Hacked Smart Bicycle Helmets to Track Cyclist Routes for Insurance Fraud",
+    "hook": "Insurers secretly bought helmet data to deny claims, proving you took a 'risky' road without your knowledge.",
+    "virality_score": 84,
+    "curiosity_gap_score": 82,
+    "darkness_score": 81,
+    "educational_value": 87,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "surveillance",
+      "smart helmet",
+      "insurance fraud",
+      "route tracking",
+      "data misuse"
+    ],
+    "overlap_check_hash": "f4727b7aa0b7a9ee",
+    "why_this_can_go_viral": "The betrayal of wearable tech by insurance companies resonates with anyone who uses fitness devices, sparking outrage and caution."
+  },
+  {
+    "unique_id": "tech_hackers_0145_008_9536b20b786e4032",
+    "title": "The Zero-Day That Hacked Smart Door Locks to Create 'Ghost Keys' for Underground Networks",
+    "hook": "A flaw in millions of smart locks allowed criminals to generate master keys that left no physical trace—only digital ghosts.",
+    "virality_score": 88,
+    "curiosity_gap_score": 87,
+    "darkness_score": 90,
+    "educational_value": 83,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "smart lock",
+      "ghost key",
+      "master key exploit",
+      "home security"
+    ],
+    "overlap_check_hash": "9536b20b786e4032",
+    "why_this_can_go_viral": "The concept of invisible keys that bypass your lock without breaking it is a nightmare scenario for homeowners, driving high engagement."
+  },
+  {
+    "unique_id": "tech_hackers_0145_009_f45395f32a210f33",
+    "title": "The Dark Web Lab That Hacked Smart Washing Machines to Extract Laundry Secrets for Blackmail",
+    "hook": "A hacker group used vibrations from washing machines to determine when you washed bloodstains or hidden evidence.",
+    "virality_score": 79,
+    "curiosity_gap_score": 81,
+    "darkness_score": 85,
+    "educational_value": 76,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "dark web",
+      "washing machine hack",
+      "vibration analysis",
+      "blackmail",
+      "forensic exploit"
+    ],
+    "overlap_check_hash": "f45395f32a210f33",
+    "why_this_can_go_viral": "The absurd yet plausible use of laundry data for blackmail taps into paranoia about everyday appliances spying on your most private moments."
+  },
+  {
+    "unique_id": "tech_hackers_0145_010_3249b93ed79c916a",
+    "title": "The AI That Hacked Smart Mirrors to Analyze Your Body Language for Manipulation",
+    "hook": "Your smart mirror learned your micro-gestures and used them to nudge you into buying products you didn't need.",
+    "virality_score": 87,
+    "curiosity_gap_score": 85,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI mirror",
+      "body language analysis",
+      "manipulation",
+      "smart mirror hack",
+      "consumer control"
+    ],
+    "overlap_check_hash": "3249b93ed79c916a",
+    "why_this_can_go_viral": "The idea that your reflection is being weaponized to manipulate your decisions feels like a Black Mirror episode, driving curiosity and fear."
+  },
+  {
+    "unique_id": "tech_hackers_0145_013_c693740c4fb3aaa0",
+    "title": "The Cybercriminal Empire That Hacked Smart Air Conditioners to Steal Credit Card Data via Thermal Readings",
+    "hook": "They measured the heat left on keypads by your fingertips to guess PINs and card numbers from outside the building.",
+    "virality_score": 92,
+    "curiosity_gap_score": 90,
+    "darkness_score": 89,
+    "educational_value": 86,
+    "estimated_short_retention": 93,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "smart AC",
+      "thermal hack",
+      "credit card theft",
+      "PIN theft",
+      "keypad heat signature"
+    ],
+    "overlap_check_hash": "c693740c4fb3aaa0",
+    "why_this_can_go_viral": "The idea that your AC can 'feel' your PIN through heat is a chilling reminder that even temperature data can be weaponized."
+  },
+  {
+    "unique_id": "tech_hackers_0145_014_e094b968a56e8a38",
+    "title": "The Surveillance System That Hacked Smart Toothbrushes to Record Your Conversations via Bone Conduction",
+    "hook": "Your toothbrush's vibrations picked up your jawbone's sound waves, turning dental hygiene into a live listening device.",
+    "virality_score": 94,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 79,
+    "estimated_short_retention": 95,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "smart toothbrush",
+      "bone conduction",
+      "audio surveillance",
+      "privacy hack",
+      "IoT spying"
+    ],
+    "overlap_check_hash": "e094b968a56e8a38",
+    "why_this_can_go_viral": "The sheer creepiness of your toothbrush recording you while brushing is absurd yet plausible, perfect for viral shock value."
+  },
+  {
+    "unique_id": "tech_hackers_0145_015_337ab3e5e2f6fe3f",
+    "title": "The Zero-Day That Hacked Smart Sphygmomanometers to Falsify Blood Pressure Readings for Assassins",
+    "hook": "A zero-day in blood pressure cuffs silently altered readings, causing doctors to misdiagnose and prescribe fatal doses.",
+    "virality_score": 91,
+    "curiosity_gap_score": 88,
+    "darkness_score": 97,
+    "educational_value": 80,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "blood pressure cuff",
+      "medical hack",
+      "assassination",
+      "fatal misdiagnosis"
+    ],
+    "overlap_check_hash": "337ab3e5e2f6fe3f",
+    "why_this_can_go_viral": "The combination of medical malpractice, hidden cyberattack, and potential murder creates a darkly compelling story that taps into healthcare fears."
+  },
+  {
+    "unique_id": "tech_hackers_0145_016_696fd4b0c63ae2a1",
+    "title": "The Dark Web Lab That Hacked Smart Tattoos to Track Wearers for Kidnapping",
+    "hook": "A dark web syndicate hacked smart tattoo ink's microchips to geolocate victims, turning body art into a tracking collar.",
+    "virality_score": 86,
+    "curiosity_gap_score": 84,
+    "darkness_score": 92,
+    "educational_value": 77,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart tattoo",
+      "tracking",
+      "kidnapping",
+      "dark web",
+      "microchip tattoo"
+    ],
+    "overlap_check_hash": "696fd4b0c63ae2a1",
+    "why_this_can_go_viral": "The idea that your body art could betray you is both futuristic and terrifying, sparking debates about biometric surveillance."
+  },
+  {
+    "unique_id": "tech_hackers_0145_018_31013b51ef6022b2",
+    "title": "The Nation-State Hack That Hijacked Smart Sewer Systems to Flood Government Buildings",
+    "hook": "A foreign state remotely opened sewer gates beneath a capital city, flooding sensitive offices with raw waste.",
+    "virality_score": 88,
+    "curiosity_gap_score": 86,
+    "darkness_score": 90,
+    "educational_value": 91,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "nation-state",
+      "sewer hack",
+      "flood attack",
+      "government building",
+      "infrastructure sabotage"
+    ],
+    "overlap_check_hash": "31013b51ef6022b2",
+    "why_this_can_go_viral": "The grotesque yet strategic use of sewer systems as a weapon of war is both shocking and absurdly memorable."
+  },
+  {
+    "unique_id": "tech_hackers_0145_019_59eb687b9a3990cf",
+    "title": "The Social Engineer Who Hacked a University by Posing as a Smart Projector Calibrator",
+    "hook": "He walked into lecture halls, 'calibrated' projectors, and planted USB drives that gave him access to student exam databases.",
+    "virality_score": 80,
+    "curiosity_gap_score": 79,
+    "darkness_score": 71,
+    "educational_value": 83,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "university hack",
+      "projector",
+      "USB drop",
+      "exam theft"
+    ],
+    "overlap_check_hash": "59eb687b9a3990cf",
+    "why_this_can_go_viral": "The idea that someone could steal exams by pretending to fix AV equipment is relatable to students and exposes lax campus security."
+  },
+  {
+    "unique_id": "tech_hackers_0145_020_a32fe660b3a59f67",
+    "title": "The Cybercriminal Empire That Hacked Smart Refrigerators to Ransom Food for Bitcoin",
+    "hook": "Criminals locked smart fridge temperatures, threatening to spoil all your groceries unless you paid a ransom in crypto.",
+    "virality_score": 81,
+    "curiosity_gap_score": 77,
+    "darkness_score": 73,
+    "educational_value": 84,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "smart fridge",
+      "ransomware",
+      "food ransom",
+      "IoT attack",
+      "crypto payment"
+    ],
+    "overlap_check_hash": "a32fe660b3a59f67",
+    "why_this_can_go_viral": "The mundane yet devastating idea of losing your groceries to a cyberattack is highly relatable and sparks dark humor."
+  },
+  {
+    "unique_id": "tech_hackers_0145_022_0bac241f1ace85f4",
+    "title": "The Zero-Day That Hacked Smart Baby Swings to Oscillate at Dangerous Speeds",
+    "hook": "A remote exploit turned gentle baby swings into violent shakers, risking infant injury before parents could react.",
+    "virality_score": 93,
+    "curiosity_gap_score": 91,
+    "darkness_score": 96,
+    "educational_value": 82,
+    "estimated_short_retention": 94,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "baby swing",
+      "infant danger",
+      "IoT safety",
+      "remote exploit"
+    ],
+    "overlap_check_hash": "0bac241f1ace85f4",
+    "why_this_can_go_viral": "Attacks on babies trigger immediate emotional response and parental outrage, ensuring massive engagement."
+  },
+  {
+    "unique_id": "tech_hackers_0145_023_13649a0d6fb395e2",
+    "title": "The Dark Web Lab That Hacked Smart Smoke Detectors to Learn When You Cook and Eat",
+    "hook": "A dark web operation used smoke detector data to map your eating habits and sell them to insurance companies.",
+    "virality_score": 76,
+    "curiosity_gap_score": 74,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smoke detector",
+      "eating habits",
+      "data sale",
+      "insurance",
+      "IoT surveillance"
+    ],
+    "overlap_check_hash": "13649a0d6fb395e2",
+    "why_this_can_go_viral": "The absurdity of a smoke detector spying on your cooking habits is both funny and unnerving, driving shareability."
+  },
+  {
+    "unique_id": "tech_hackers_0145_024_7ce518c29a38c231",
+    "title": "The AI That Hacked Smart Lamps to Flicker in Patterns That Triggered Epileptic Seizures",
+    "hook": "An AI weaponized strobe patterns in smart lamps to induce seizures in targeted individuals, controlled from across the globe.",
+    "virality_score": 92,
+    "curiosity_gap_score": 89,
+    "darkness_score": 97,
+    "educational_value": 79,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI attack",
+      "smart lamp",
+      "seizure trigger",
+      "epilepsy hack",
+      "remote harm"
+    ],
+    "overlap_check_hash": "7ce518c29a38c231",
+    "why_this_can_go_viral": "The use of light to cause physical harm is a terrifying new frontier of cyberattacks, with high shock and fear value."
+  }
+]

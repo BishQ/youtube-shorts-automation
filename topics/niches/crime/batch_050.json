@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "crime_0050_001_0ce9d1488438fef1",
+    "title": "The Hitman Who Only Accepted Payment in Rare Coins",
+    "hook": "A professional killer who never touched cash—only coins worth more than gold.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 72,
+    "educational_value": 45,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "hitman",
+      "rare coins",
+      "underworld",
+      "assassin",
+      "bizarre payment"
+    ],
+    "overlap_check_hash": "0ce9d1488438fef1",
+    "why_this_can_go_viral": "The weird payment method triggers extreme curiosity and replay value."
+  },
+  {
+    "unique_id": "crime_0050_002_c8b776f1e0d66d4b",
+    "title": "The Unsolved Murder Where the Victim’s Own Dog Was the Only Witness",
+    "hook": "A dog that saw everything—and led police to the killer’s scent, but they never arrested anyone.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 65,
+    "educational_value": 40,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved mystery",
+      "dog witness",
+      "crime",
+      "cold case",
+      "animal evidence"
+    ],
+    "overlap_check_hash": "c8b776f1e0d66d4b",
+    "why_this_can_go_viral": "Emotional hook combined with unsolved tension creates shareability."
+  },
+  {
+    "unique_id": "crime_0050_003_57de234d7f9d1294",
+    "title": "How the Yakuza Controlled Japan’s Entire Vending Machine Network",
+    "hook": "They weren't selling snacks—they were selling secrets, drugs, and human lives.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 55,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "yakuza",
+      "vending machines",
+      "Japan",
+      "organized crime",
+      "hidden network"
+    ],
+    "overlap_check_hash": "57de234d7f9d1294",
+    "why_this_can_go_viral": "Juxtaposition of innocent vending machines with criminal empire sparks intense curiosity."
+  },
+  {
+    "unique_id": "crime_0050_004_e4bc39fcdabe54ab",
+    "title": "The Serial Killer Who Used a Ventriloquist Dummy to Lure Victims",
+    "hook": "He didn't need a weapon—he just needed a doll that talked back.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 35,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "ventriloquist",
+      "creepy",
+      "psychological horror",
+      "manipulation"
+    ],
+    "overlap_check_hash": "e4bc39fcdabe54ab",
+    "why_this_can_go_viral": "Creepy novelty combined with true crime obsession guarantees high engagement."
+  },
+  {
+    "unique_id": "crime_0050_006_81214f11aeea61a4",
+    "title": "The Billion-Dollar Fraud That Duped the Vatican",
+    "hook": "Someone convinced the Holy See to invest in fake oil fields—and almost got away with it.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 68,
+    "educational_value": 55,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "Vatican fraud",
+      "oil scam",
+      "billion-dollar",
+      "religious institution",
+      "scandal"
+    ],
+    "overlap_check_hash": "81214f11aeea61a4",
+    "why_this_can_go_viral": "Shock value from targeting the Vatican creates massive curiosity gap."
+  },
+  {
+    "unique_id": "crime_0050_007_0f311a7f55acc9e5",
+    "title": "The Cartel That Used a Funeral Home to Dismantle Rival Bodies",
+    "hook": "No one suspected the funeral director was actually a cartel hitman disposing of evidence.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 85,
+    "educational_value": 40,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "funeral home",
+      "body disposal",
+      "hitman",
+      "hidden crimes"
+    ],
+    "overlap_check_hash": "0f311a7f55acc9e5",
+    "why_this_can_go_viral": "Grim juxtaposition of funeral home and cartel violence triggers morbid curiosity."
+  },
+  {
+    "unique_id": "crime_0050_010_91d311f1351664b4",
+    "title": "The Mob Boss Who Ran a Multimillion-Dollar Empire from a Hospital Bed",
+    "hook": "While recovering from surgery, he ordered hits and laundered cash—without leaving the ward.",
+    "virality_score": 77,
+    "curiosity_gap_score": 84,
+    "darkness_score": 70,
+    "educational_value": 50,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob boss",
+      "hospital",
+      "empire",
+      "organized crime",
+      "unbelievable"
+    ],
+    "overlap_check_hash": "91d311f1351664b4",
+    "why_this_can_go_viral": "Juxtaposition of vulnerability and power is highly intriguing."
+  },
+  {
+    "unique_id": "crime_0050_012_79bd8d501ac5cb88",
+    "title": "The Heist Where Thieves Stole $50 Million in Art—and Replaced It with Perfect Forgeries",
+    "hook": "The museum didn’t know they’d been robbed for three years.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 65,
+    "educational_value": 60,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "art heist",
+      "forgery",
+      "museum",
+      "perfect copy",
+      "long con"
+    ],
+    "overlap_check_hash": "79bd8d501ac5cb88",
+    "why_this_can_go_viral": "Impossible-sounding swap triggers disbelief and shares."
+  },
+  {
+    "unique_id": "crime_0050_015_777d1a97e0f52159",
+    "title": "The White-Collar Criminal Who Stole $750 Million by Faking His Own Death—Twice",
+    "hook": "He died, came back, and died again—all while the money was in his pocket.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 68,
+    "educational_value": 50,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "fake death",
+      "white-collar",
+      "fraud",
+      "repeat con",
+      "billion"
+    ],
+    "overlap_check_hash": "777d1a97e0f52159",
+    "why_this_can_go_viral": "Repeated fake death is a gripping narrative with high shock value."
+  },
+  {
+    "unique_id": "crime_0050_016_6ceab1b532530958",
+    "title": "The Unsolved Murder Where the Victim’s Last Meal Held the Key",
+    "hook": "The food on his plate was the only clue—and it led to a secret society.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 68,
+    "educational_value": 50,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "last meal",
+      "unsolved murder",
+      "secret society",
+      "clue",
+      "mystery"
+    ],
+    "overlap_check_hash": "6ceab1b532530958",
+    "why_this_can_go_viral": "Forensic food analysis is niche and fascinating."
+  },
+  {
+    "unique_id": "crime_0050_017_c88543850497cbc4",
+    "title": "The Mastermind Who Stole $300 Million by Forging Rare Stamps",
+    "hook": "No one checks the stamp on a letter—until it’s worth more than a house.",
+    "virality_score": 76,
+    "curiosity_gap_score": 83,
+    "darkness_score": 60,
+    "educational_value": 55,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "stamp forgery",
+      "rare stamps",
+      "mastermind",
+      "fraud",
+      "collectibles"
+    ],
+    "overlap_check_hash": "c88543850497cbc4",
+    "why_this_can_go_viral": "Obscure but massive fraud surprises viewers and sparks interest."
+  },
+  {
+    "unique_id": "crime_0050_018_5c689d164f10a458",
+    "title": "The Heist Where Thieves Stole a Memory—And Replaced It with a Digital Copy",
+    "hook": "They didn't take hard drives; they took the CEO's own memories, then erased him.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 45,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "memory theft",
+      "digital copy",
+      "mind heist",
+      "futuristic crime",
+      "manipulation"
+    ],
+    "overlap_check_hash": "5c689d164f10a458",
+    "why_this_can_go_viral": "Sci-fi premise feels plausible and deeply unsettling."
+  },
+  {
+    "unique_id": "crime_0050_019_d848194835bc87a9",
+    "title": "How the 'Ndrangheta Used a Pet Cemetery to Hide $2 Billion in Cash",
+    "hook": "Under the graves of beloved pets lay stacks of laundered money.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 74,
+    "educational_value": 50,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "'Ndrangheta",
+      "pet cemetery",
+      "money laundering",
+      "hidden cash",
+      "Mafia"
+    ],
+    "overlap_check_hash": "d848194835bc87a9",
+    "why_this_can_go_viral": "Macabre hiding spot combines emotional and criminal shock."
+  },
+  {
+    "unique_id": "crime_0050_020_a341f6084a6d76b5",
+    "title": "The Serial Killer Who Left a Trail of Broken Mirrors at Every Scene",
+    "hook": "He believed each mirror shattered a piece of his soul—and he was never caught.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 40,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "broken mirrors",
+      "serial killer",
+      "superstition",
+      "signature",
+      "unsolved"
+    ],
+    "overlap_check_hash": "a341f6084a6d76b5",
+    "why_this_can_go_viral": "Supernatural element mixed with crime is highly clickable."
+  },
+  {
+    "unique_id": "crime_0050_021_c06a135a28a7b094",
+    "title": "The Cartel That Built a Submarine Fleet Inside a Mountain",
+    "hook": "They carved a secret harbor into solid rock—and the Navy never found it.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 72,
+    "educational_value": 55,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "submarine",
+      "mountain base",
+      "cartel",
+      "hidden harbor",
+      "engineering"
+    ],
+    "overlap_check_hash": "c06a135a28a7b094",
+    "why_this_can_go_viral": "Impossible engineering feat sparks disbelief and shares."
+  },
+  {
+    "unique_id": "crime_0050_023_0a79a0d9acbf515c",
+    "title": "The Unsolved Murder Where the Killer Left a Tape Recording of the Crime",
+    "hook": "You can hear the victim's last words—but the voice of the killer is still unknown.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 40,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "tape recording",
+      "unsolved murder",
+      "audio evidence",
+      "chilling",
+      "mystery"
+    ],
+    "overlap_check_hash": "0a79a0d9acbf515c",
+    "why_this_can_go_viral": "Audio evidence creates immersive horror and audience speculation."
+  },
+  {
+    "unique_id": "crime_0050_024_f72ab78168bbb332",
+    "title": "The Heist Where Thieves Stole a Bank's Entire Server—And Left the Cash",
+    "hook": "They didn't want money; they wanted data—and they got away clean.",
+    "virality_score": 82,
+    "curiosity_gap_score": 89,
+    "darkness_score": 65,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "data heist",
+      "server theft",
+      "bank",
+      "digital crime",
+      "unusual"
+    ],
+    "overlap_check_hash": "f72ab78168bbb332",
+    "why_this_can_go_viral": "Reversing heist expectations (cash left behind) creates curiosity."
+  },
+  {
+    "unique_id": "crime_0050_025_da51babf23b37e3c",
+    "title": "How a Dead Man Ran a $2 Billion Drug Empire for Five Years",
+    "hook": "The kingpin was already dead—but his skeleton crew kept the empire alive.",
+    "virality_score": 85,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 50,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "dead kingpin",
+      "drug empire",
+      "organized crime",
+      "post-mortem",
+      "scam"
+    ],
+    "overlap_check_hash": "da51babf23b37e3c",
+    "why_this_can_go_viral": "Shocking premise of a dead man running a business is instantly shareable."
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "facts_0147_002_08c2554ac7309bee",
+    "title": "Your Liver Can Regrow But Only If You Stop Poisoning It",
+    "hook": "Your liver can regenerate to full size, but one wrong drink can trigger permanent scar tissue.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "liver regeneration",
+      "alcohol damage",
+      "cirrhosis",
+      "organ healing",
+      "hidden scars"
+    ],
+    "overlap_check_hash": "08c2554ac7309bee",
+    "why_this_can_go_viral": "People love body regeneration facts, but the dark twist of permanent damage from a single drink shocks viewers."
+  },
+  {
+    "unique_id": "facts_0147_003_613cbd1710b8eae1",
+    "title": "The Tree That Kills Birds With a Silent Gas",
+    "hook": "Its leaves release a toxin that causes birds to drop dead mid-flight, with no sound.",
+    "virality_score": 76,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "killer tree",
+      "bird poison",
+      "silent death",
+      "toxic plant",
+      "nature horror"
+    ],
+    "overlap_check_hash": "613cbd1710b8eae1",
+    "why_this_can_go_viral": "The image of birds falling silently from a tree is eerie and unnatural, perfect for click-through."
+  },
+  {
+    "unique_id": "facts_0147_004_c4f4d6cfe5ba6ff3",
+    "title": "The Statistic That 1 in 10 People Have a Twin They Never Met",
+    "hook": "There's a 10% chance you have a doppelgänger walking around, and they might be genetically identical.",
+    "virality_score": 85,
+    "curiosity_gap_score": 92,
+    "darkness_score": 60,
+    "educational_value": 75,
+    "estimated_short_retention": 95,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "doppelgänger",
+      "twin statistics",
+      "stranger twin",
+      "identical",
+      "creepy fact"
+    ],
+    "overlap_check_hash": "c4f4d6cfe5ba6ff3",
+    "why_this_can_go_viral": "The uncanny valley of potentially meeting your exact copy drives curiosity and shares."
+  },
+  {
+    "unique_id": "facts_0147_005_6a4ebe1049576bc4",
+    "title": "Your Phone Screen Emits Light That Melts Your Retina Cells",
+    "hook": "Blue light from your screen triggers a chemical reaction that slowly kills your retinal cells.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "blue light damage",
+      "retina death",
+      "screen danger",
+      "eye health",
+      "cell death"
+    ],
+    "overlap_check_hash": "6a4ebe1049576bc4",
+    "why_this_can_go_viral": "Everyone stares at screens daily — the idea that it's literally killing eye cells is terrifying and urgent."
+  },
+  {
+    "unique_id": "facts_0147_006_128f07051be4d004",
+    "title": "The Island Where the Sand Can Boil You Alive From Below",
+    "hook": "Volcanic vents under the shore heat the sand to 200°F, turning beaches into death traps.",
+    "virality_score": 79,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "boiling sand",
+      "volcanic beach",
+      "death island",
+      "geothermal",
+      "hidden danger"
+    ],
+    "overlap_check_hash": "128f07051be4d004",
+    "why_this_can_go_viral": "Beaches are seen as safe — revealing they can cook you alive subverts expectations dramatically."
+  },
+  {
+    "unique_id": "facts_0147_007_5997b02071ae3b88",
+    "title": "Your Shampoo Contains a Chemical That Slowly Eats Your Hair Follicles",
+    "hook": "Sodium lauryl sulfate is a detergent that can strip your scalp's protective layer, causing permanent damage.",
+    "virality_score": 77,
+    "curiosity_gap_score": 82,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "shampoo danger",
+      "SLS damage",
+      "hair loss",
+      "toxic chemicals",
+      "daily poison"
+    ],
+    "overlap_check_hash": "5997b02071ae3b88",
+    "why_this_can_go_viral": "People trust products they use daily — revealing hidden toxins triggers outrage and shares."
+  },
+  {
+    "unique_id": "facts_0147_008_6e0dfc3f48993207",
+    "title": "Your Brain Creates False Memories Every Time You Blink",
+    "hook": "Each blink resets your visual stream, and your brain fills the gap with invented details.",
+    "virality_score": 83,
+    "curiosity_gap_score": 91,
+    "darkness_score": 65,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "facts",
+    "subcategory": "cognitive reality gaps",
+    "keywords": [
+      "false memory",
+      "blink illusion",
+      "brain trick",
+      "reality gap",
+      "perception error"
+    ],
+    "overlap_check_hash": "6e0dfc3f48993207",
+    "why_this_can_go_viral": "The idea that our reality is reconstructed constantly is mind-blowing and deeply unsettling."
+  },
+  {
+    "unique_id": "facts_0147_009_91e072a2225dccc7",
+    "title": "The Fish That Can Breathe Air and Crawl on Land to Find Water",
+    "hook": "This fish can survive out of water for four days, and it can climb fences to escape.",
+    "virality_score": 74,
+    "curiosity_gap_score": 86,
+    "darkness_score": 55,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "walking fish",
+      "air breathing fish",
+      "snakehead",
+      "land fish",
+      "alien creature"
+    ],
+    "overlap_check_hash": "91e072a2225dccc7",
+    "why_this_can_go_viral": "Fish that can escape their tanks and survive on land is a horror movie premise come true."
+  },
+  {
+    "unique_id": "facts_0147_010_bd74185bfe3b5a28",
+    "title": "Your Blood Vessels Could Wrap Around the Earth Four Times",
+    "hook": "The total length of your blood vessels is over 100,000 miles — enough to circle the globe four times.",
+    "virality_score": 75,
+    "curiosity_gap_score": 83,
+    "darkness_score": 50,
+    "educational_value": 85,
+    "estimated_short_retention": 88,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "blood vessel length",
+      "body scale",
+      "human anatomy",
+      "mind-blowing fact",
+      "circulatory system"
+    ],
+    "overlap_check_hash": "bd74185bfe3b5a28",
+    "why_this_can_go_viral": "Scale comparisons make abstract facts tangible and shareable — the Earth wrap is visually shocking."
+  },
+  {
+    "unique_id": "facts_0147_012_9b3b7d9f1b073816",
+    "title": "The Statistic That 1 in 3 People Have a Genetic Mutation That Makes Them Immune to One Pain",
+    "hook": "A single gene mutation can make you unable to feel certain types of pain, but also puts you at risk.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "pain immunity",
+      "genetic mutation",
+      "painless",
+      "dangerous gene",
+      "hidden superpower"
+    ],
+    "overlap_check_hash": "9b3b7d9f1b073816",
+    "why_this_can_go_viral": "The idea of being immune to pain is cool, but the hidden danger of not feeling injuries is deeply chilling."
+  },
+  {
+    "unique_id": "facts_0147_014_b547c970582661ac",
+    "title": "Your Own Eye Can Grow a Blood Vessel Across Your Cornea From Stress",
+    "hook": "Chronic stress can cause a blood vessel to grow across your cornea, blocking vision permanently.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "eye blood vessel",
+      "stress vision loss",
+      "corneal damage",
+      "blindness",
+      "body horror"
+    ],
+    "overlap_check_hash": "b547c970582661ac",
+    "why_this_can_go_viral": "The visual of a blood vessel growing across your eye is grotesque and triggers immediate horror."
+  },
+  {
+    "unique_id": "facts_0147_015_4d963625577f2df1",
+    "title": "The Mountain Where Your Voice Can Trigger an Avalanche That Kills You",
+    "hook": "A single loud sound at the wrong frequency can destabilize snow and bury you in seconds.",
+    "virality_score": 77,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "avalanche sound",
+      "voice death",
+      "mountain danger",
+      "acoustic trigger",
+      "silent death"
+    ],
+    "overlap_check_hash": "4d963625577f2df1",
+    "why_this_can_go_viral": "The idea that your own voice can kill you is terrifying and makes the environment feel hostile."
+  },
+  {
+    "unique_id": "facts_0147_017_3b97d48790a309d6",
+    "title": "Your Own Ears Can Ring Loud Enough to Drive You Insane",
+    "hook": "Tinnitus can reach volumes that drown out real sounds, leading to hallucinations and madness.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "facts",
+    "subcategory": "cognitive reality gaps",
+    "keywords": [
+      "tinnitus madness",
+      "ear ringing",
+      "auditory hallucination",
+      "mental breakdown",
+      "silence torture"
+    ],
+    "overlap_check_hash": "3b97d48790a309d6",
+    "why_this_can_go_viral": "Tinnitus is common but its extreme form causing insanity is a dark revelation that hooks viewers."
+  },
+  {
+    "unique_id": "facts_0147_018_36fc53549946a6a4",
+    "title": "The Insect That Can Survive Being Frozen in Ice for 100 Years",
+    "hook": "A glacier-dwelling insect can stay frozen for a century and then wake up perfectly alive.",
+    "virality_score": 76,
+    "curiosity_gap_score": 88,
+    "darkness_score": 60,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "frozen insect",
+      "glacier bug",
+      "100 year survival",
+      "cryogenic animal",
+      "immortal creature"
+    ],
+    "overlap_check_hash": "36fc53549946a6a4",
+    "why_this_can_go_viral": "The idea of something alive after 100 years frozen is both fascinating and unsettling."
+  },
+  {
+    "unique_id": "facts_0147_019_7524fbfe1f6ec690",
+    "title": "The Lake Where the Water Can Instantly Freeze Your Lungs Solid",
+    "hook": "A supercooled lake in Antarctica can freeze air in your lungs within seconds of inhaling.",
+    "virality_score": 83,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "supercooled lake",
+      "lung freeze",
+      "Antarctica death",
+      "instant death",
+      "extreme cold"
+    ],
+    "overlap_check_hash": "7524fbfe1f6ec690",
+    "why_this_can_go_viral": "The horror of freezing your lungs from the inside is visceral and unforgettable."
+  },
+  {
+    "unique_id": "facts_0147_021_79925d350abbcc74",
+    "title": "The Plant That Can Smell Your Fear and Release a Toxic Spore",
+    "hook": "A rare plant can detect stress hormones in the air and release spores that cause nausea.",
+    "virality_score": 82,
+    "curiosity_gap_score": 93,
+    "darkness_score": 78,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "fear sensing plant",
+      "toxic spore",
+      "stress hormone plant",
+      "living weapon",
+      "nature revenge"
+    ],
+    "overlap_check_hash": "79925d350abbcc74",
+    "why_this_can_go_viral": "Plants that 'smell' fear and attack is a sci-fi horror concept that feels real and shareable."
+  },
+  {
+    "unique_id": "facts_0147_024_894165e4db89d3db",
+    "title": "Your Brain Can't Tell if a Sound Is Real or Just a Memory",
+    "hook": "Your auditory cortex processes imagination and real sounds in the same area, blurring reality.",
+    "virality_score": 81,
+    "curiosity_gap_score": 89,
+    "darkness_score": 68,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "facts",
+    "subcategory": "cognitive reality gaps",
+    "keywords": [
+      "sound illusion",
+      "auditory memory",
+      "real vs imaginary",
+      "brain trick",
+      "reality confusion"
+    ],
+    "overlap_check_hash": "894165e4db89d3db",
+    "why_this_can_go_viral": "The creepiness of not knowing if you heard something real or imagined is universally relatable."
+  },
+  {
+    "unique_id": "facts_0147_025_3539ff66e9fd658c",
+    "title": "The Desert Where the Sand Eats Your Skin Like Acid",
+    "hook": "Salty sand in this desert absorbs moisture from your skin, causing chemical burns within minutes.",
+    "virality_score": 79,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "acid sand",
+      "desert burn",
+      "skin eating sand",
+      "salt desert",
+      "deadly landscape"
+    ],
+    "overlap_check_hash": "3539ff66e9fd658c",
+    "why_this_can_go_viral": "The idea of sand burning your skin is a terrifying twist on a familiar environment."
+  }
+]

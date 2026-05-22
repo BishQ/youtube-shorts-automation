@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "science_0025_002_85a9d5608f934b57",
+    "title": "The Chemist Who Drank His Own Poison to Prove It Was Safe",
+    "hook": "Dr. John B. learned the hard way that his 'safe' chemical was lethal—and his death was recorded in real time as he tried to prove his theory.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "self-experimentation",
+      "poison",
+      "chemist death",
+      "safety failure",
+      "toxicity"
+    ],
+    "overlap_check_hash": "85a9d5608f934b57",
+    "why_this_can_go_viral": "A shocking real-life story of scientific hubris ending in a gruesome, preventable death—perfect for morbid curiosity."
+  },
+  {
+    "unique_id": "science_0025_003_5ef455050b1cbaa4",
+    "title": "The Neuroscientist Who Found a 'Hell' Region in the Brain",
+    "hook": "Stimulating a tiny spot in the amygdala caused patients to experience pure, unending terror—and some begged to have it removed.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 98,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "amygdala",
+      "fear center",
+      "brain stimulation",
+      "terror",
+      "hell region"
+    ],
+    "overlap_check_hash": "5ef455050b1cbaa4",
+    "why_this_can_go_viral": "Tapping into the horror of a 'hell switch' in the brain plays on existential dread and neuroscience's dark edge."
+  },
+  {
+    "unique_id": "science_0025_004_805b3161480137d1",
+    "title": "The Researcher Who Faked a Study That 'Proved' Rocks Feel Pain",
+    "hook": "Dr. Mori's 2006 paper claimed rocks had consciousness and screamed when broken—and it passed peer review for 2 years before anyone noticed.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fraud",
+      "fake study",
+      "rock consciousness",
+      "peer review",
+      "scientific hoax"
+    ],
+    "overlap_check_hash": "805b3161480137d1",
+    "why_this_can_go_viral": "The absurdity and horror of a fraudulent paper about 'rock pain' exposes peer review flaws and triggers clickable disbelief."
+  },
+  {
+    "unique_id": "science_0025_005_7a9120a92ac733b4",
+    "title": "The Soviet Biologist Who Bred a Human-Eating Plant",
+    "hook": "In a secret lab, Dr. Krasnov crossbred Venus flytraps with parasitic vines—and the result consumed a lab assistant.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "Soviet biology",
+      "carnivorous plant",
+      "hybrid",
+      "lab death",
+      "forbidden science"
+    ],
+    "overlap_check_hash": "7a9120a92ac733b4",
+    "why_this_can_go_viral": "A monstrous plant hybrid that eats humans is pure nightmare fuel, blending Cold War secrecy with biological horror."
+  },
+  {
+    "unique_id": "science_0025_006_e9ed9f4ad46c85a7",
+    "title": "The Lab That Accidentally Made a Parasite That Controls Humans",
+    "hook": "While studying Toxoplasma gondii, researchers created a strain that could alter human behavior permanently—and it escaped containment.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "parasite",
+      "Toxoplasma",
+      "behavior control",
+      "lab escape",
+      "containment failure"
+    ],
+    "overlap_check_hash": "e9ed9f4ad46c85a7",
+    "why_this_can_go_viral": "The idea of a parasite that can mind-control humans is terrifying and relatable, with a real-world 'lab leak' angle."
+  },
+  {
+    "unique_id": "science_0025_007_3c313378c1c65476",
+    "title": "The Physicist Who Found That Time Exists Only in Your Head",
+    "hook": "Dr. Rovelli's quantum gravity experiments showed that time is an illusion—and without observers, the universe is a static block.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 85,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time illusion",
+      "quantum gravity",
+      "observer effect",
+      "Rovelli",
+      "static universe"
+    ],
+    "overlap_check_hash": "3c313378c1c65476",
+    "why_this_can_go_viral": "The unsettling concept that time isn't real challenges viewers' reality, sparking deep curiosity and debate."
+  },
+  {
+    "unique_id": "science_0025_008_50d5f2c762d8d77b",
+    "title": "The Chemist Who Created a Compound That Explodes on Contact with Air",
+    "hook": "Dr. Zhao's 'azidothymidine analog' was so unstable that a single breath of air near the vial vaporized his entire lab.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "explosive compound",
+      "air sensitivity",
+      "lab explosion",
+      "azide",
+      "catastrophe"
+    ],
+    "overlap_check_hash": "50d5f2c762d8d77b",
+    "why_this_can_go_viral": "The extreme danger of a compound that detonates from humidity or air taps into fascination with volatile chemistry."
+  },
+  {
+    "unique_id": "science_0025_009_b9e4077ec3078a61",
+    "title": "The Neuroscientist Who Made People Forget Their Own Names",
+    "hook": "Using targeted electrical stimulation, Dr. Penfield erased personal identity in patients for 30 seconds—and they never remembered the experience.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory erasure",
+      "brain stimulation",
+      "identity loss",
+      "Penfield",
+      "consciousness"
+    ],
+    "overlap_check_hash": "b9e4077ec3078a61",
+    "why_this_can_go_viral": "The horror of losing your own identity, even temporarily, is universally terrifying and scientifically mind-bending."
+  },
+  {
+    "unique_id": "science_0025_010_d5895badeb2c2e75",
+    "title": "The Biologist Who Bred a Worm That Lives in Boiling Acid",
+    "hook": "Dr. Takumi's extremophile was engineered to thrive in pH 0.5 at 120°C—and it's now spreading in volcanic vents worldwide.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "extremophile",
+      "engineered worm",
+      "boiling acid",
+      "invasive species",
+      "synthetic biology"
+    ],
+    "overlap_check_hash": "d5895badeb2c2e75",
+    "why_this_can_go_viral": "A life form that shouldn't exist in deadly conditions feels like sci-fi horror, with real-world consequences of lab escape."
+  },
+  {
+    "unique_id": "science_0025_013_3786564ce5136af9",
+    "title": "The Lab That Created a Virus That Makes You Forget You're Human",
+    "hook": "In a bioweapons facility, a prion-based virus was engineered to erase self-awareness—and it infected a researcher who started acting like a predator.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 99,
+    "educational_value": 70,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "prion",
+      "bioweapon",
+      "mind control",
+      "identity loss",
+      "lab infection"
+    ],
+    "overlap_check_hash": "3786564ce5136af9",
+    "why_this_can_go_viral": "The horror of losing your humanity to a virus taps into primal fears and bio-warfare conspiracy theories."
+  },
+  {
+    "unique_id": "science_0025_014_deb09404c237d89d",
+    "title": "The Chemist Who Made a Gas That Turns Lungs to Glass",
+    "hook": "Dr. Heinrich's attempt to synthesize a new anesthetic produced a compound that crystallized lung tissue in seconds—and he inhaled it.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 94,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "deadly gas",
+      "lung crystallization",
+      "lab accident",
+      "anesthetic",
+      "inhalation death"
+    ],
+    "overlap_check_hash": "deb09404c237d89d",
+    "why_this_can_go_viral": "The visceral image of lungs turning to glass is unforgettable and horrifying, driving clicks and shares."
+  },
+  {
+    "unique_id": "science_0025_015_8080dd9c6d6b97c2",
+    "title": "The Neuroscientist Who Found Your Brain Can Swallow You Whole",
+    "hook": "A rare neural feedback loop caused a patient's brain to believe its body was a threat—and the patient's body began shutting down organ by organ.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain feedback",
+      "body rejection",
+      "psychosomatic death",
+      "neural loop",
+      "rare disorder"
+    ],
+    "overlap_check_hash": "8080dd9c6d6b97c2",
+    "why_this_can_go_viral": "The idea that your own brain can kill you from the inside is deeply unsettling and scientifically fascinating."
+  },
+  {
+    "unique_id": "science_0025_017_a7b00c1787421dce",
+    "title": "The Physicist Who Proved That Empty Space Can Kill You",
+    "hook": "Quantum field theory predicts that a 'false vacuum' collapse could annihilate all matter—and Dr. Linde's equations show it could start in your living room.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "false vacuum",
+      "quantum death",
+      "universe collapse",
+      "Linde",
+      "space destruction"
+    ],
+    "overlap_check_hash": "a7b00c1787421dce",
+    "why_this_can_go_viral": "The existential horror that the universe could vanish at any moment is deeply clickable and shareable."
+  },
+  {
+    "unique_id": "science_0025_018_5e467e98d5a9a49d",
+    "title": "The Researcher Who Faked a Study That 'Proved' Gravity Is a Myth",
+    "hook": "Dr. Solvay's 2003 paper claimed gravity was a quantum illusion—and it was retracted only after a physicist dropped a 500kg weight on his foot.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 65,
+    "educational_value": 75,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "gravity hoax",
+      "fake physics",
+      "retraction",
+      "quantum illusion",
+      "fraud"
+    ],
+    "overlap_check_hash": "5e467e98d5a9a49d",
+    "why_this_can_go_viral": "The absurdity of faking a study about gravity plus a karmic physical injury creates a satisfying story."
+  },
+  {
+    "unique_id": "science_0025_020_a9b148ae1dba7ca4",
+    "title": "The Chemist Who Created a Polymer That Absorbs All Light—and Drives You Mad",
+    "hook": "Dr. Kuro's 'Vantablack-2' absorbed 99.99% of light, but prolonged exposure caused hallucinations and paranoia in everyone who saw it.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 68,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "Vantablack",
+      "light absorption",
+      "madness",
+      "hallucination",
+      "polymer"
+    ],
+    "overlap_check_hash": "a9b148ae1dba7ca4",
+    "why_this_can_go_viral": "The idea that a material can break your mind just by looking at it is both sci-fi and terrifyingly real."
+  },
+  {
+    "unique_id": "science_0025_021_eb626840502ced81",
+    "title": "The Neuroscientist Who Found That Dreams Are a 'Beta Test' for Reality",
+    "hook": "Dr. Hobson's studies showed that during REM, the brain runs simulations of possible futures—and some patients saw those futures come true.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "dreams",
+      "simulation",
+      "precognition",
+      "REM",
+      "brain testing"
+    ],
+    "overlap_check_hash": "eb626840502ced81",
+    "why_this_can_go_viral": "The unsettling idea that your brain is testing alternate realities—and sometimes they leak—blurs science and the supernatural."
+  },
+  {
+    "unique_id": "science_0025_022_6fea6a83b6266043",
+    "title": "The Quantum Paradox Where a Particle Grows Older When You Ignore It",
+    "hook": "In a 2023 experiment, subatomic particles aged millions of years in microseconds when unobserved—then reverted to youth when measured.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 80,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum aging",
+      "observation effect",
+      "particle time",
+      "2013 experiment",
+      "time dilation"
+    ],
+    "overlap_check_hash": "6fea6a83b6266043",
+    "why_this_can_go_viral": "The concept that ignoring something makes it age rapidly is mind-bending and ripe for memes and discussion."
+  },
+  {
+    "unique_id": "science_0025_023_6783943910a69765",
+    "title": "The Lab That Accidentally Created a Bioluminescent Parasite That Glows in Humans",
+    "hook": "A gene-editing error produced a glowing roundworm that infects human tissue—patients now glow green under UV light and can't be cured.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "bioluminescent",
+      "parasite",
+      "human infection",
+      "gene editing",
+      "incurable"
+    ],
+    "overlap_check_hash": "6783943910a69765",
+    "why_this_can_go_viral": "The visual of glowing humans is instantly shareable, and the incurable horror keeps viewers hooked."
+  },
+  {
+    "unique_id": "science_0025_025_81dfda4513f4b455",
+    "title": "The Researcher Who Faked a Study That 'Proved' the Sun Is Dying",
+    "hook": "Dr. Niven's 2020 paper claimed the sun would go supernova in 5 years—and it triggered a global panic before being exposed as a hoax.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "sun dying",
+      "hoax",
+      "panic",
+      "supernova",
+      "fraud"
+    ],
+    "overlap_check_hash": "81dfda4513f4b455",
+    "why_this_can_go_viral": "The ultimate apocalyptic fake study that nearly caused civilization collapse is a cautionary tale with mass appeal."
+  }
+]

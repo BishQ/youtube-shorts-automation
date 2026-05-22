@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "crime_0101_001_70bbb9edce754052",
+    "title": "The Mob That Used a Funeral Home to Smuggle Guns in Coffins",
+    "hook": "They buried empty coffins by day and shipped weapons by night — the dead were just props.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob",
+      "funeral home",
+      "gun smuggling",
+      "coffins",
+      "organized crime"
+    ],
+    "overlap_check_hash": "70bbb9edce754052",
+    "why_this_can_go_viral": "Combines taboo of death with ingenious criminal logistics — deeply dark and visually evocative."
+  },
+  {
+    "unique_id": "crime_0101_002_0d0f027688355fde",
+    "title": "The Serial Killer Who Left a Secret Map in His Victim's Tattoo",
+    "hook": "The ink on her arm wasn't art — it was a blueprint to five unmarked graves.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "tattoo",
+      "hidden map",
+      "graves",
+      "forensic puzzle"
+    ],
+    "overlap_check_hash": "0d0f027688355fde",
+    "why_this_can_go_viral": "Twist on classic 'hidden clue' trope — incredibly eerie and mysterious, perfect for discussion."
+  },
+  {
+    "unique_id": "crime_0101_004_f1e60df2139b0ab7",
+    "title": "The Billion-Dollar Fraud That Sold Fake NASA Moon Rocks to Oil Tycoons",
+    "hook": "They convinced billionaires they were buying lunar samples — when it was really just ancient meteorite fragments.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 55,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fake moon rocks",
+      "NASA",
+      "oil tycoons",
+      "fraud",
+      "collectors scam"
+    ],
+    "overlap_check_hash": "f1e60df2139b0ab7",
+    "why_this_can_go_viral": "Space + luxury fraud + elite victims — triggers disbelief and 'how did they fall for it?' curiosity."
+  },
+  {
+    "unique_id": "crime_0101_005_24c1691f5bb9b84d",
+    "title": "The Cartel That Used a Zoo's Animal Crematorium to Dispose of Bodies",
+    "hook": "The zoo's incinerator ran 24/7 — but the animals weren't the only ones being burned.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "zoo",
+      "crematorium",
+      "body disposal",
+      "hidden atrocity"
+    ],
+    "overlap_check_hash": "24c1691f5bb9b84d",
+    "why_this_can_go_viral": "Shock value + innocent setting corrupted — highly shareable due to pure horror and disbelief."
+  },
+  {
+    "unique_id": "crime_0101_006_455075d9ea7338ea",
+    "title": "The Unsolved Murder Where the Victim's Dog Was Found Groomed—by the Killer",
+    "hook": "The dog's fur was freshly cut, nails painted — a signature only one person understood.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 82,
+    "educational_value": 50,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "dog grooming",
+      "killer signature",
+      "bizarre detail",
+      "forensic anomaly"
+    ],
+    "overlap_check_hash": "455075d9ea7338ea",
+    "why_this_can_go_viral": "Extremely unsettling detail that feels like a horror movie — pets add emotional weight and mystery."
+  },
+  {
+    "unique_id": "crime_0101_007_dd5f9439c14ab584",
+    "title": "The Criminal Mastermind Who Stole a Power Plant by Forging Utility Bills",
+    "hook": "He didn't break in — he became the owner on paper. The real owners got bills from themselves.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 60,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "power plant theft",
+      "forgery",
+      "utility scam",
+      "mastermind",
+      "paper heist"
+    ],
+    "overlap_check_hash": "dd5f9439c14ab584",
+    "why_this_can_go_viral": "Audacity of stealing something immovable — pure 'how is that possible?' hook."
+  },
+  {
+    "unique_id": "crime_0101_009_2e8ddf7400e99d7d",
+    "title": "The Serial Killer Who Used a Radio Station's Lost Pet Line to Find Vulnerable Homes",
+    "hook": "He listened to people calling about missing dogs — then showed up to help search. He wasn't looking for the pet.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "lost pet",
+      "radio station",
+      "targeting victims",
+      "social engineering"
+    ],
+    "overlap_check_hash": "2e8ddf7400e99d7d",
+    "why_this_can_go_viral": "Exploits empathy and community trust — deeply unsettling and psychologically rich."
+  },
+  {
+    "unique_id": "crime_0101_010_48ed081d652e9627",
+    "title": "The Heist Where Thieves Stole an Art Collection by Becoming Museum Janitors for Three Years",
+    "hook": "They mopped floors for 1,095 days — just to learn every blind spot, alarm trigger, and guard shift.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 50,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "art heist",
+      "museum",
+      "janitor cover",
+      "long con",
+      "surveillance"
+    ],
+    "overlap_check_hash": "48ed081d652e9627",
+    "why_this_can_go_viral": "Patience as a crime tactic — 'the long game' fascinates audiences."
+  },
+  {
+    "unique_id": "crime_0101_011_c92b0db1886fe536",
+    "title": "The Cartel That Used a Bicycle Courier Network to Move Cocaine Across City Streets",
+    "hook": "While SUVs were being stopped at checkpoints, delivery bikes were pedaling kilos past police stations.",
+    "virality_score": 77,
+    "curiosity_gap_score": 79,
+    "darkness_score": 65,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "bicycle couriers",
+      "urban smuggling",
+      "cocaine",
+      "traffic evasion"
+    ],
+    "overlap_check_hash": "c92b0db1886fe536",
+    "why_this_can_go_viral": "Contrast between low-tech method and high-stakes crime — surprising and visual."
+  },
+  {
+    "unique_id": "crime_0101_012_0da8bc05e7a05dc3",
+    "title": "The Unsolved Murder Where the Victim's Refrigerator Was Stocked With Food—for a Week After Their Death",
+    "hook": "The groceries inside were dated the day after the autopsy — someone had been shopping for a dead person.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "groceries after death",
+      "bizarre evidence",
+      "fridge",
+      "timeline anomaly"
+    ],
+    "overlap_check_hash": "0da8bc05e7a05dc3",
+    "why_this_can_go_viral": "Everyday object becomes creepy — high curiosity gap and strong visual discussion hook."
+  },
+  {
+    "unique_id": "crime_0101_014_99aa5da4588841db",
+    "title": "The Mob That Used a Video Rental Store to Run a Global Money Laundering Ring",
+    "hook": "The store had zero customers — but rented out 'Ghostbusters' 400 times a day on paper.",
+    "virality_score": 78,
+    "curiosity_gap_score": 81,
+    "darkness_score": 60,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob",
+      "video rental",
+      "money laundering",
+      "fake business",
+      "paper trail"
+    ],
+    "overlap_check_hash": "99aa5da4588841db",
+    "why_this_can_go_viral": "Nostalgic setting + absurd numbers — funny and jaw-dropping at the same time."
+  },
+  {
+    "unique_id": "crime_0101_015_9765be30c556501f",
+    "title": "The Serial Killer Who Only Left Victims at Exact Mile Markers on Highways",
+    "hook": "Every body was found at a mile marker ending in .5 — and the pattern stretched across three states.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "highway",
+      "mile markers",
+      "pattern",
+      "geographic profiling"
+    ],
+    "overlap_check_hash": "9765be30c556501f",
+    "why_this_can_go_viral": "Mathematical precision + highway horror — triggers 'why .5?' compulsion."
+  },
+  {
+    "unique_id": "crime_0101_016_1b56b381b0714467",
+    "title": "The Heist Where Thieves Stole a Bank's ATM by Replacing It With a Fake ATM—Over a Weekend",
+    "hook": "They installed their own machine, collected PINs for 48 hours, then vanished with the real one.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 55,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "ATM heist",
+      "fake ATM",
+      "PIN theft",
+      "bank fraud",
+      "swap trick"
+    ],
+    "overlap_check_hash": "1b56b381b0714467",
+    "why_this_can_go_viral": "Brilliantly simple — everyone uses ATMs, making the scam feel personal and relatable."
+  },
+  {
+    "unique_id": "crime_0101_017_51932e622c445b60",
+    "title": "The Billion-Dollar Fraud That Sold Fake Olympic Medals to National Sports Committees",
+    "hook": "They sold 'official gold medals' to 14 countries — made of brass and painted yellow.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 60,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fake olympic medals",
+      "sports fraud",
+      "national committees",
+      "brass scam",
+      "luxury deception"
+    ],
+    "overlap_check_hash": "51932e622c445b60",
+    "why_this_can_go_viral": "Patriotic pride exploited — irony of official bodies being fooled is highly shareable."
+  },
+  {
+    "unique_id": "crime_0101_020_6e51b9ab75565a22",
+    "title": "The Unsolved Murder Where the Killer Left a Bookmark on Page 174—in Every Victim's Book",
+    "hook": "Three victims, three different books — all marked at page 174, with a note that said 'keep reading.'",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "bookmark",
+      "page 174",
+      "message",
+      "serial pattern"
+    ],
+    "overlap_check_hash": "6e51b9ab75565a22",
+    "why_this_can_go_viral": "Literary riddle + murder mystery — compels viewers to speculate on meaning."
+  },
+  {
+    "unique_id": "crime_0101_021_e80670ee23e8937b",
+    "title": "The Criminal Mastermind Who Stole a Million-Dollar Yacht by Becoming a Dock's Parking Attendant",
+    "hook": "He collected parking fees for three weeks — then drove off with the most expensive boat in the marina.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 45,
+    "educational_value": 70,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "yacht theft",
+      "parking attendant",
+      "marina",
+      "con artist",
+      "audacity"
+    ],
+    "overlap_check_hash": "e80670ee23e8937b",
+    "why_this_can_go_viral": "Relatable job turned criminal cover — 'lowly worker outsmarts rich owners' story."
+  },
+  {
+    "unique_id": "crime_0101_022_55570244f733374d",
+    "title": "The Mob That Used a Cemetery's Burial Records to Hide Dead Witnesses in Plain Sight",
+    "hook": "They bought plots, dug graves, and filled them with bodies — all under the cover of legitimate funerals.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob",
+      "cemetery",
+      "hidden bodies",
+      "witness elimination",
+      "burial scam"
+    ],
+    "overlap_check_hash": "55570244f733374d",
+    "why_this_can_go_viral": "Grave desecration + legal loophole — macabre and deeply unsettling, highly discussable."
+  },
+  {
+    "unique_id": "crime_0101_023_cfeecbb019eb76f6",
+    "title": "The Serial Killer Who Chose Victims Based on Their Spotify Playlist Names",
+    "hook": "He didn't stalk them — he searched playlists for 'lonely,' 'alone,' and 'goodbye' — then found the listener.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "Spotify",
+      "playlist",
+      "digital stalking",
+      "vulnerability hunting"
+    ],
+    "overlap_check_hash": "cfeecbb019eb76f6",
+    "why_this_can_go_viral": "Modern tech meets ancient predation — extremely relatable fear for streaming users."
+  },
+  {
+    "unique_id": "crime_0101_024_2ecfd874bc5fb30a",
+    "title": "The Heist Where Thieves Stole a Warehouse's Entire Inventory—by Replacing It With Empty Boxes Over Six Months",
+    "hook": "They worked inside the warehouse, slowly swapping goods for cardboard — until the shelves held nothing but air.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 50,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "warehouse heist",
+      "empty boxes",
+      "slow theft",
+      "inventory fraud",
+      "invisible crime"
+    ],
+    "overlap_check_hash": "2ecfd874bc5fb30a",
+    "why_this_can_go_viral": "Patience and invisibility — 'how does nobody notice?' is the perfect hook."
+  },
+  {
+    "unique_id": "crime_0101_025_04e337ee8746e3bc",
+    "title": "The Unsolved Murder Where the Victim's Date of Birth Was Found Carved Into a Tree—One Year Before They Were Born",
+    "hook": "A tree with a date carved in 1962 matched a woman born in 1963 — her body was found beneath it in 1998.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 55,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "carved date",
+      "tree",
+      "premonition",
+      "impossible coincidence"
+    ],
+    "overlap_check_hash": "04e337ee8746e3bc",
+    "why_this_can_go_viral": "Supernatural undertone + impossible timeline — triggers deep mystery and speculation."
+  }
+]

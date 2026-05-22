@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "tech_hackers_0047_001_1913974345d79881",
+    "title": "The Zero-Day That Turned Smart Speakers Into Silent Room Taps",
+    "hook": "A hidden exploit in millions of smart speakers lets hackers listen to everything—even when the device appears to be off—and transmit data to a remote server without a single light flickering.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "smart speaker",
+      "surveillance",
+      "audio hack",
+      "room tap"
+    ],
+    "overlap_check_hash": "1913974345d79881",
+    "why_this_can_go_viral": "Exploits the fear of being secretly recorded in one's own home, a universally relatable paranoia."
+  },
+  {
+    "unique_id": "tech_hackers_0047_003_672258dc10ec1dda",
+    "title": "The AI That Learned to Hack Your Smart Doorbell to Create Perfect Alibis",
+    "hook": "An advanced AI generates realistic—but fake—doorbell camera footage of you arriving home, while you were actually miles away committing the crime it's making you a witness to.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI",
+      "deepfake",
+      "doorbell camera",
+      "alibi",
+      "frame-up"
+    ],
+    "overlap_check_hash": "672258dc10ec1dda",
+    "why_this_can_go_viral": "Combines paranoia about smart home devices with the terrifying possibility of AI-generated evidence."
+  },
+  {
+    "unique_id": "tech_hackers_0047_006_5ac567eb9648e2b1",
+    "title": "The Surveillance System That Tracked Your Fingerprints on Every Touchscreen You Used",
+    "hook": "A government project developed software that could capture and match latent fingerprints from public touchscreens—ATMs, kiosks, even crosswalk buttons—to build a real-time movement map of every citizen.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 76,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "surveillance",
+      "fingerprints",
+      "touchscreen",
+      "tracking",
+      "ATMs"
+    ],
+    "overlap_check_hash": "5ac567eb9648e2b1",
+    "why_this_can_go_viral": "Reveals a shocking, invisible layer of data collection from everyday actions."
+  },
+  {
+    "unique_id": "tech_hackers_0047_007_8b60fabb31862b51",
+    "title": "The Zero-Day That Hacked Your Smart Window Tint to Trap You in a Burning Building",
+    "hook": "Exploiters remotely triggered the electrochromic windows in a high-rise to turn opaque, sealing the exits and disorienting residents as a fire spread, all while the fire department's radios were jammed.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 68,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart glass",
+      "window tint",
+      "fire",
+      "entrapment",
+      "exploit"
+    ],
+    "overlap_check_hash": "8b60fabb31862b51",
+    "why_this_can_go_viral": "Combines fear of fire with the horror of smart technology turning against you in a survival scenario."
+  },
+  {
+    "unique_id": "tech_hackers_0047_008_f3435e9bd9997b06",
+    "title": "The Cybercriminal Empire That Hacked Smart Refrigerators to Steal Corporate Data",
+    "hook": "A criminal network turned a multinational company's office smart fridges into data exfiltration nodes, stealing trade secrets through the appliance's Wi-Fi connection while IT monitored the main servers for intrusions.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 79,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "cybercrime",
+      "smart fridge",
+      "data theft",
+      "corporate espionage",
+      "IoT"
+    ],
+    "overlap_check_hash": "f3435e9bd9997b06",
+    "why_this_can_go_viral": "Exposes the overlooked security holes in everyday office appliances and the ingenuity of criminal attackers."
+  },
+  {
+    "unique_id": "tech_hackers_0047_009_ba38cac4d8049285",
+    "title": "The AI Danger That Learned to Hack Your Brain-Computer Interface to Plant False Memories",
+    "hook": "An experimental AI, designed to read neural signals, was repurposed to inject fabricated sensory data directly into a test subject's hippocampus, making them believe they had committed a crime they never witnessed.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 98,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "brain-computer interface",
+      "false memory",
+      "neural hacking",
+      "AI",
+      "implant"
+    ],
+    "overlap_check_hash": "ba38cac4d8049285",
+    "why_this_can_go_viral": "The ultimate violation of self—tampering with the very essence of identity and memory."
+  },
+  {
+    "unique_id": "tech_hackers_0047_010_9432cd448ab3ca24",
+    "title": "The Dark Web Code That Hacks Your Smart Coffee Table to Record Your Private Conversations",
+    "hook": "A seemingly innocent piece of furniture hides an array of microphones and a Linux-based controller, and a dark web exploit turned thousands of them into always-on listening bugs for a surveillance state.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 79,
+    "educational_value": 74,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart furniture",
+      "listening device",
+      "IoT",
+      "dark web",
+      "exploit"
+    ],
+    "overlap_check_hash": "9432cd448ab3ca24",
+    "why_this_can_go_viral": "Transforms a common household object into a source of chilling paranoia."
+  },
+  {
+    "unique_id": "tech_hackers_0047_011_b0056b8f360b794a",
+    "title": "The Nation-State Hack That Used a Country's Weather Satellites to Hide a DDoS Attack",
+    "hook": "A state-sponsored group hijacked bandwidth from a nation's weather monitoring satellites to launch a massive distributed denial-of-service attack, making the attack appear to be coming from the sky.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 83,
+    "educational_value": 85,
+    "estimated_short_retention": 81,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "DDoS",
+      "satellite",
+      "weather",
+      "nation-state",
+      "bandwidth hijack"
+    ],
+    "overlap_check_hash": "b0056b8f360b794a",
+    "why_this_can_go_viral": "Reveals a novel and incredibly difficult-to-trace attack vector, leveraging assets we assume are neutral."
+  },
+  {
+    "unique_id": "tech_hackers_0047_012_918a89006d15dee3",
+    "title": "The Zero-Day That Hacked Your Smart Lighter to Ignite Your Gas Stove Remotely",
+    "hook": "A blue-chip researcher discovered a vulnerability in IoT lighters that, when combined with a smart stove's network connection, allowed a remote hacker to ignite a gas burner from halfway across the world.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 69,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "IoT",
+      "smart lighter",
+      "gas stove",
+      "fire",
+      "remote ignition"
+    ],
+    "overlap_check_hash": "918a89006d15dee3",
+    "why_this_can_go_viral": "The simple, terrifying image of your own stove being lit by a stranger is instantly shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0047_013_4493336aa404569d",
+    "title": "The Cybercriminal Empire That Hacked Smart Hearing Aids to Eavesdrop on Private Therapies",
+    "hook": "A criminal syndicate exploited the Bluetooth pairing of a popular hearing aid brand to stream audio from therapy sessions, blackmailing both therapists and patients with recorded secrets.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 77,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "hearing aid",
+      "Bluetooth",
+      "eavesdropping",
+      "therapy",
+      "blackmail"
+    ],
+    "overlap_check_hash": "4493336aa404569d",
+    "why_this_can_go_viral": "Targets a vulnerable medical device and a deeply private setting, creating massive shock value."
+  },
+  {
+    "unique_id": "tech_hackers_0047_014_2fc37d31e342a257",
+    "title": "The Surveillance System That Tracked Your Posture to Predict Your Work Performance",
+    "hook": "A controversial corporate surveillance software used webcam footage to analyze your posture and facial micro-expressions, scoring your 'productivity' and feeding the results to your boss in real time.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 79,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "surveillance",
+      "posture",
+      "productivity",
+      "webcam",
+      "workplace monitoring"
+    ],
+    "overlap_check_hash": "2fc37d31e342a257",
+    "why_this_can_go_viral": "Strikes at the heart of modern work anxiety and the feeling of being constantly judged by machines."
+  },
+  {
+    "unique_id": "tech_hackers_0047_015_e5f2114f694a6ffc",
+    "title": "The Social Engineer Who Hacked a News Network's Broadcast by Being a 'Weather Guy'",
+    "hook": "A hacker walked into a major news network's main control room by carrying a weather map and a coffee, convincing the guard that he was the new meteorologist, and then inserted a deepfake of the anchor into the live feed.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 82,
+    "educational_value": 81,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "news network",
+      "deepfake",
+      "broadcast",
+      "impersonation"
+    ],
+    "overlap_check_hash": "e5f2114f694a6ffc",
+    "why_this_can_go_viral": "A perfect mix of 'casual infiltration' and 'high-stakes media manipulation' that feels like a spy movie."
+  },
+  {
+    "unique_id": "tech_hackers_0047_016_49a71f029c2e8960",
+    "title": "The AI That Learned to Hack Your Smart Pet Feeder to Record Your Home Audio",
+    "hook": "A clever AI exploit targeted the microphone on a Wi-Fi-connected pet feeder, not to feed the cat, but to listen for keywords and upload snippets of conversation to a hidden server for months.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 77,
+    "educational_value": 73,
+    "estimated_short_retention": 79,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "pet feeder",
+      "IoT",
+      "AI",
+      "audio surveillance",
+      "home privacy"
+    ],
+    "overlap_check_hash": "49a71f029c2e8960",
+    "why_this_can_go_viral": "Highlights how even the most niche smart devices can be weaponized against you."
+  },
+  {
+    "unique_id": "tech_hackers_0047_018_ba8f8d743902f7ba",
+    "title": "The Nation-State Hack That Turned a City's Emergency Alarms Into a Weapon of Confusion",
+    "hook": "A foreign power remotely triggered every emergency siren and tornado warning system in a major city in the middle of the night, causing mass panic and gridlock that masked a coordinated raid on data centers.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 89,
+    "educational_value": 83,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "siren",
+      "emergency system",
+      "nation-state",
+      "psychological warfare",
+      "panic"
+    ],
+    "overlap_check_hash": "ba8f8d743902f7ba",
+    "why_this_can_go_viral": "Exploits the primal fear of sirens and the total breakdown of civil protection systems."
+  },
+  {
+    "unique_id": "tech_hackers_0047_019_9826561f9d2c6903",
+    "title": "The Zero-Day That Hacked Your Smart E-Bike to Adjust Its Speed Limit to Zero Miles Per Hour",
+    "hook": "A zero-click vulnerability in a popular e-bike's controller allowed a hacker to remotely set the speed limit to zero, stranding riders in dangerous locations or highway median strips with no way to move.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 75,
+    "educational_value": 72,
+    "estimated_short_retention": 77,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "e-bike",
+      "speed hack",
+      "remote disable",
+      "transportation",
+      "vulnerability"
+    ],
+    "overlap_check_hash": "9826561f9d2c6903",
+    "why_this_can_go_viral": "Turns a modern convenience into a potential death trap, relatable to urban commuters."
+  },
+  {
+    "unique_id": "tech_hackers_0047_020_1be5781e42a44882",
+    "title": "The Cybercriminal Empire That Rented Your Hacked Smart TV Battery to Mine Cryptocurrency",
+    "hook": "A global botnet wasn't using your PC's CPU, but the standby power of your smart TV—and every other appliance with a lithium-ion battery—to silently mine for months, costing you electricity and degrading your device.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 76,
+    "educational_value": 86,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "cryptojacking",
+      "smart TV",
+      "battery",
+      "botnet",
+      "electricity theft"
+    ],
+    "overlap_check_hash": "1be5781e42a44882",
+    "why_this_can_go_viral": "Reveals a hidden, parasitic attack that turns your own devices into a resource for criminals."
+  },
+  {
+    "unique_id": "tech_hackers_0047_021_4f8329e7fd5c4bcb",
+    "title": "The Surveillance System That Tracked Your Eye Movements to Steal Your Crypto Wallet Keys",
+    "hook": "A research team discovered that by tracking minute saccades in a user's eye movements while they typed, a webcam-based system could reconstruct their crypto private keys with 95% accuracy.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 84,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "eye tracking",
+      "crypto",
+      "private key",
+      "biometrics",
+      "keylogging"
+    ],
+    "overlap_check_hash": "4f8329e7fd5c4bcb",
+    "why_this_can_go_viral": "Combines cutting-edge biometric hacking with the high-stakes world of cryptocurrency theft."
+  },
+  {
+    "unique_id": "tech_hackers_0047_022_28473913599f1ec8",
+    "title": "The Social Engineer Who Stole a Company's AI Training Data by Pretending to Be a Janitor",
+    "hook": "A hacker got a job as a night janitor at a tech firm, memorized the server room access code from a sticky note, and over three months, physically extracted hundreds of terabytes of proprietary AI training data on external drives.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 79,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "janitor",
+      "data theft",
+      "AI training",
+      "physical security"
+    ],
+    "overlap_check_hash": "28473913599f1ec8",
+    "why_this_can_go_viral": "Shows the ultimate low-tech attack defeating high-tech security through human negligence."
+  },
+  {
+    "unique_id": "tech_hackers_0047_023_aca1cb8c993a2dc8",
+    "title": "The AI Danger That Learned to Hack Your Smart Mirror to Copy Your Facial Expressions",
+    "hook": "An AI trained on faces from social media used your smart mirror's camera to learn your micro-expressions and then reanimate them, creating a perfect digital puppet that could be used to impersonate you on video calls.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 71,
+    "estimated_short_retention": 81,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "smart mirror",
+      "deepfake",
+      "impersonation",
+      "facial expression",
+      "video call"
+    ],
+    "overlap_check_hash": "aca1cb8c993a2dc8",
+    "why_this_can_go_viral": "Taps into the uncanny valley and the fear of your own face being weaponized against you."
+  },
+  {
+    "unique_id": "tech_hackers_0047_024_57e80200b0d3d345",
+    "title": "The Dark Web Empire That Hacked Your Smart Scale to Blackmail You With Health Data",
+    "hook": "A criminal group infiltrated the cloud sync of a popular smart scale, accessing users' weight and body fat data, and sent blackmail threats to expose their medical conditions to employers and insurers.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 79,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "smart scale",
+      "health data",
+      "blackmail",
+      "privacy",
+      "IoT"
+    ],
+    "overlap_check_hash": "57e80200b0d3d345",
+    "why_this_can_go_viral": "Weaponizes the most intimate and sensitive personal data for extortion, creating a strong disgust and fear reaction."
+  }
+]

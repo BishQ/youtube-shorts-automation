@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "science_0090_002_f11241c36f8fb3f1",
+    "title": "The Physicist Who Saw a Particle Travel Backward in Time",
+    "hook": "A lone researcher at a particle collider detected a muon that appeared to decay before it was created — the lab shut down the experiment and classified the footage.",
+    "virality_score": 88,
+    "curiosity_gap_score": 95,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "muon",
+      "time travel",
+      "particle",
+      "collider",
+      "classified"
+    ],
+    "overlap_check_hash": "f11241c36f8fb3f1",
+    "why_this_can_go_viral": "Time reversal is a universal curiosity trigger — combined with government secrecy, it creates instant mystery."
+  },
+  {
+    "unique_id": "science_0090_003_da199e8b1bb176c6",
+    "title": "The Forbidden Experiment That Raised Seeds in Total Darkness for a Century",
+    "hook": "In 1901, botanists buried 20 sealed jars of seeds — they were dug up in 2021, and one germinated after 120 years in absolute blackness.",
+    "virality_score": 76,
+    "curiosity_gap_score": 85,
+    "darkness_score": 60,
+    "educational_value": 75,
+    "estimated_short_retention": 70,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "seeds",
+      "darkness",
+      "century",
+      "germinate",
+      "botany"
+    ],
+    "overlap_check_hash": "da199e8b1bb176c6",
+    "why_this_can_go_viral": "Extreme resilience against impossible odds hooks viewers — the time scale and mystery of 'what else survived' keeps retention."
+  },
+  {
+    "unique_id": "science_0090_004_eee67f7d4509adeb",
+    "title": "The Chemistry Disaster That Created a Foam That Never Stops Bubbling",
+    "hook": "A lab mixing industrial surfactants and polymer catalysts produced a foam that expanded for 18 months, filling three floors before they sealed the room in concrete.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 68,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "foam",
+      "expansion",
+      "surfactants",
+      "polymer",
+      "concrete"
+    ],
+    "overlap_check_hash": "eee67f7d4509adeb",
+    "why_this_can_go_viral": "The image of endless, unstoppable chemical growth is both visually captivating and deeply unsettling."
+  },
+  {
+    "unique_id": "science_0090_005_0b76ca658dee57bd",
+    "title": "The Neuroscientist Who Found That Your Brain Can Feel Others' Pain",
+    "hook": "Using fMRI, she discovered that mirror neurons in empathetic subjects fire so strongly that their own bodies register physical injury when watching someone else get hurt.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 68,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "mirror neurons",
+      "pain",
+      "fMRI",
+      "empathy",
+      "body"
+    ],
+    "overlap_check_hash": "0b76ca658dee57bd",
+    "why_this_can_go_viral": "Relatable and slightly horrifying — everyone has winced watching pain, but learning your brain can't tell the difference is chilling."
+  },
+  {
+    "unique_id": "science_0090_009_fc777ea5509b8b99",
+    "title": "The Lab Catastrophe Where a Vacuum Oven Imploded and Shredded a Technician",
+    "hook": "A routine drying process at 200°C cracked the glass chamber — vacuum pressure collapsed it inward, turning the oven into a shrapnel bomb that ricocheted off steel walls.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "vacuum",
+      "implosion",
+      "shrapnel",
+      "oven",
+      "accident"
+    ],
+    "overlap_check_hash": "fc777ea5509b8b99",
+    "why_this_can_go_viral": "High gore factor plus rare mechanism (implosion instead of explosion) makes it uniquely horrifying and shareable."
+  },
+  {
+    "unique_id": "science_0090_010_da43b7f42db1979d",
+    "title": "The Chemist Who Made a Substance That Absorbs All Light — and Feels Like Nothing",
+    "hook": "Vantablack's lesser-known sibling, 'Nihility', is a liquid that absorbs 99.99% of visible light — researchers who touch it report a deep sense of void and disorientation.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "Vantablack",
+      "light absorption",
+      "void",
+      "liquid",
+      "sensory"
+    ],
+    "overlap_check_hash": "da43b7f42db1979d",
+    "why_this_can_go_viral": "Visually stunning and psychologically eerie — the feeling of 'nothingness' taps into existential dread."
+  },
+  {
+    "unique_id": "science_0090_012_900488a3b4bdd7a2",
+    "title": "The Forbidden Experiment That Gave Rats a Second Spine",
+    "hook": "Scientists spliced embryonic neural tissue into adult rats, creating a second spinal cord that began sending independent motor signals — the rats moved limbs coordinated by two CNSes.",
+    "virality_score": 78,
+    "curiosity_gap_score": 86,
+    "darkness_score": 82,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "spinal cord",
+      "transplantation",
+      "rats",
+      "CNS",
+      "motor"
+    ],
+    "overlap_check_hash": "900488a3b4bdd7a2",
+    "why_this_can_go_viral": "Body horror meets science — the idea of two nervous systems in one body is viscerally disturbing."
+  },
+  {
+    "unique_id": "science_0090_013_97d2dd8854745778",
+    "title": "The Physics Anomaly Where a Magnet Became So Strong It Bent Light",
+    "hook": "In a high-field lab, a 45-tesla superconducting magnet warped the path of a laser beam — the effect was a measurable gravitational lens analogue caused by magnetic field stress on spacetime.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 55,
+    "educational_value": 85,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "magnet",
+      "light bending",
+      "gravitational lens",
+      "spacetime",
+      "tesla"
+    ],
+    "overlap_check_hash": "97d2dd8854745778",
+    "why_this_can_go_viral": "Magnetism warping light is sci-fi come true — visuals of warped beams drive curiosity and shares."
+  },
+  {
+    "unique_id": "science_0090_015_63e792f554482a99",
+    "title": "The Quantum Paradox Where a Time Crystal Broke Symmetry Forever",
+    "hook": "Physicists created a time crystal that oscillates without energy input — its atoms cycle between states perpetually, violating the second law of thermodynamics at quantum scale.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 60,
+    "educational_value": 88,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time crystal",
+      "oscillation",
+      "perpetual",
+      "thermodynamics",
+      "symmetry"
+    ],
+    "overlap_check_hash": "63e792f554482a99",
+    "why_this_can_go_viral": "Perpetual motion is a forbidden concept in physics — time crystals sound like magic, sparking intense curiosity."
+  },
+  {
+    "unique_id": "science_0090_016_ae24ed82d0123ce0",
+    "title": "The Biolab That Created a Virus That Spreads Through Wi-Fi Signals",
+    "hook": "Researchers engineered a bacteriophage that triggers replication via electromagnetic pulses — in theory, a 'digital biological weapon' that could be activated remotely.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 78,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "virus",
+      "Wi-Fi",
+      "electromagnetic",
+      "bacteriophage",
+      "bioweapon"
+    ],
+    "overlap_check_hash": "ae24ed82d0123ce0",
+    "why_this_can_go_viral": "Combines digital fear with biological threat — remote-controlled viruses are straight out of Black Mirror."
+  },
+  {
+    "unique_id": "science_0090_017_e3f6f5a03aa35041",
+    "title": "The Lab Catastrophe Where a Freeze Dryer Exploded Into a Toxic Cloud",
+    "hook": "A lab technician freeze-drying a volatile organic compound left it running overnight — the rupture sent a cloud of nano-particulate toxin through the ventilation, sickening 12 people.",
+    "virality_score": 75,
+    "curiosity_gap_score": 79,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "freeze dryer",
+      "explosion",
+      "toxic",
+      "ventilation",
+      "nano"
+    ],
+    "overlap_check_hash": "e3f6f5a03aa35041",
+    "why_this_can_go_viral": "Everyday lab equipment turning lethal is relatable horror for science students and professionals."
+  },
+  {
+    "unique_id": "science_0090_018_2a4b33621496ff17",
+    "title": "The Chemist Who Synthesized a Compound That Makes Water Burn Forever",
+    "hook": "By doping water with a metastable lithium compound, the solution ignites on contact with air and burns at 2000°C — the reaction is self-sustaining in humid conditions.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 74,
+    "educational_value": 72,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "water",
+      "burn",
+      "lithium",
+      "metastable",
+      "fire"
+    ],
+    "overlap_check_hash": "2a4b33621496ff17",
+    "why_this_can_go_viral": "The impossible image of burning water is visually stunning and instantly shareable."
+  },
+  {
+    "unique_id": "science_0090_021_f28ed10099b799ab",
+    "title": "The Physics Anomaly Where a Superconductor Levitated a Human",
+    "hook": "Using a 30-tesla Bitter magnet and a diamagnetic platform, researchers floated a volunteer 6 cm off the ground — the body experienced zero friction and partial loss of proprioception.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 50,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "levitation",
+      "magnet",
+      "diamagnetic",
+      "human",
+      "friction"
+    ],
+    "overlap_check_hash": "f28ed10099b799ab",
+    "why_this_can_go_viral": "Human levitation is a universal fantasy — real footage of a person floating is pure viral gold."
+  },
+  {
+    "unique_id": "science_0090_022_af6f12a77767d83d",
+    "title": "The Scientific Fraud Who Faked a Study Proving That Memories Are Inherited",
+    "hook": "A paper claiming mice passed fear of cherry blossom scent to offspring was celebrated — then debunked when the original data showed the sirens had been exposed to the scent during testing.",
+    "virality_score": 73,
+    "curiosity_gap_score": 78,
+    "darkness_score": 55,
+    "educational_value": 72,
+    "estimated_short_retention": 72,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "memory",
+      "inheritance",
+      "mice",
+      "scent",
+      "fraud"
+    ],
+    "overlap_check_hash": "af6f12a77767d83d",
+    "why_this_can_go_viral": "Epigenetics is popular — the expose of sloppy science satisfies the 'p-hacked study' narrative."
+  },
+  {
+    "unique_id": "science_0090_023_b59894d59ba9ec7c",
+    "title": "The Quantum Paradox Where a Cat Was Both Dead and Alive — and Then Neither",
+    "hook": "In a 2023 realization of Schrödinger's thought experiment, the superposition collapsed not into alive or dead, but into a third undefined state that lasted 47 milliseconds.",
+    "virality_score": 83,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "Schrödinger",
+      "cat",
+      "superposition",
+      "undefined",
+      "collapse"
+    ],
+    "overlap_check_hash": "b59894d59ba9ec7c",
+    "why_this_can_go_viral": "Every science enthusiast knows the cat paradox — adding a third state is mind-bending and share-worthy."
+  },
+  {
+    "unique_id": "science_0090_024_74d6e461bd5b0139",
+    "title": "The Biolab That Accidentally Created a Fungus That Thrives on Rocket Fuel",
+    "hook": "A species of Aspergillus was found growing inside a fuel storage tank — it metabolizes hydrazine, a highly toxic propellant, and reproduces faster in its presence.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 73,
+    "educational_value": 72,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "Aspergillus",
+      "hydrazine",
+      "rocket fuel",
+      "metabolize",
+      "fungus"
+    ],
+    "overlap_check_hash": "74d6e461bd5b0139",
+    "why_this_can_go_viral": "Extremophile horror — life thriving in toxic waste is both fascinating and apocalyptic."
+  }
+]

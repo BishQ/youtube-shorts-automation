@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "crime_0089_001_7076b250be60507a",
+    "title": "The Unsolved Murder Where the Killer Left a Victim's Fingerprint—At a Crime Scene That Happened 10 Years Later",
+    "hook": "A fingerprint found at a murder scene in 2020 matched a victim who was killed in 2010, meaning the dead man was somehow at a crime that hadn't happened yet—or his finger was kept on ice for a decade.",
+    "virality_score": 92,
+    "curiosity_gap_score": 98,
+    "darkness_score": 85,
+    "educational_value": 30,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "cold case",
+      "fingerprint anomaly",
+      "time paradox crime",
+      "forensic mystery"
+    ],
+    "overlap_check_hash": "7076b250be60507a",
+    "why_this_can_go_viral": "The impossible timeline creates an instant cognitive hook, forcing viewers to question how a dead man's print could appear at a future crime scene, perfect for speculative comments and shares."
+  },
+  {
+    "unique_id": "crime_0089_002_fa1ff010b141c611",
+    "title": "The Criminal Mastermind Who Built a Fake Hospital Wing—To Harvest Healthy Patients for Organs",
+    "hook": "He rented an abandoned hospital floor, hired fake nurses, and used ambulances to bring in homeless people for 'free checkups'—but the checkup was a one-way trip to a black-market organ table.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 99,
+    "educational_value": 25,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake hospital",
+      "organ harvesting",
+      "black market organs",
+      "criminal scheme",
+      "medical horror"
+    ],
+    "overlap_check_hash": "fa1ff010b141c611",
+    "why_this_can_go_viral": "The sheer audacity of building a fake medical wing triggers visceral fear and outrage, and the 'how did he get away with it' question drives intense engagement."
+  },
+  {
+    "unique_id": "crime_0089_003_9626606f7fe335b6",
+    "title": "The Mob That Used a Pet Crematorium to Vanish Bodies—While Families Thought Ashes Were Their Loved Ones",
+    "hook": "For a decade, a mob-run pet crematorium accepted 'sick animals' from local vets—but the furnaces were also burning human remains, and families unknowingly scattered their uncle's ashes at the dog park.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 98,
+    "educational_value": 20,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob disposal",
+      "pet crematorium",
+      "body hiding",
+      "organized crime",
+      "ash mix-up"
+    ],
+    "overlap_check_hash": "9626606f7fe335b6",
+    "why_this_can_go_viral": "The macabre irony of mixing human remains with pet ashes is unforgettable, and the emotional violation angle makes people desperate to learn the full story."
+  },
+  {
+    "unique_id": "crime_0089_004_4d31474ea6361348",
+    "title": "The Serial Killer Who Only Killed People Who Survived Lightning Strikes",
+    "hook": "He believed lightning survivors were 'marked by God' and would live forever—so he made it his mission to prove them mortal by finishing what the storm started.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 91,
+    "educational_value": 35,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "lightning survivors",
+      "delusional motive",
+      "religious fixation",
+      "rare victim profile"
+    ],
+    "overlap_check_hash": "4d31474ea6361348",
+    "why_this_can_go_viral": "The bizarre, supernatural-tinged motive feels like a horror movie premise, and the 'did he actually exist?' question sparks debate in comments."
+  },
+  {
+    "unique_id": "crime_0089_007_8a6c2567ee16dc6c",
+    "title": "The Cartel That Used a Surf School's Live Cameras—To Spot Coast Guard Patrols on the Beach",
+    "hook": "They installed hidden cameras in the surf school's tower, livestreaming ocean views to a 'wave forecast' website—but the real forecast was for incoming patrol boats, not waves.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 70,
+    "educational_value": 45,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel surveillance",
+      "surf school",
+      "coast guard",
+      "drug smuggling",
+      "hidden cameras"
+    ],
+    "overlap_check_hash": "8a6c2567ee16dc6c",
+    "why_this_can_go_viral": "The mundane cover of a surf school hides a deadly operation, and the 'innocent website' twist makes viewers feel the paranoia of being watched."
+  },
+  {
+    "unique_id": "crime_0089_008_4a052a8c9f76b35e",
+    "title": "The White-Collar Criminal Who Stole a City's Water Supply—By Selling the Same Reservoir to Two Municipalities",
+    "hook": "He convinced City A and City B that he owned the reservoir, took millions in deposits from both, then vanished—leaving the two cities to discover they'd both bought the same water, while the real owner still lived upstream.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 65,
+    "educational_value": 55,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "water fraud",
+      "reservoir scam",
+      "double sale",
+      "white-collar crime",
+      "municipal fraud"
+    ],
+    "overlap_check_hash": "4a052a8c9f76b35e",
+    "why_this_can_go_viral": "The audacity of selling a natural resource that someone else literally owns is infuriating, and the 'who got the water?' cliffhanger drives comments."
+  },
+  {
+    "unique_id": "crime_0089_011_06a683a1a1552c84",
+    "title": "The Mob That Used a Dry Cleaner's Delivery Vans—To Run a Heroin Empire Across 12 States",
+    "hook": "Every week, a fleet of vans delivered 'cleaned suits' to corporate offices—but the suits were lined with pure heroin, and the dry cleaning chemical masked the smell from police dogs.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 40,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "drug trafficking",
+      "dry cleaner cover",
+      "heroin empire",
+      "masked smells",
+      "mob logistics"
+    ],
+    "overlap_check_hash": "06a683a1a1552c84",
+    "why_this_can_go_viral": "The 'it was hiding in plain sight' angle is always viral, and the chemical masking trick feels like a secret from a spy movie."
+  },
+  {
+    "unique_id": "crime_0089_012_be721774c5d11554",
+    "title": "The Serial Killer Who Only Killed on Holidays—And Left Christmas Ornaments on the Bodies",
+    "hook": "Every major U.S. holiday, a body appeared with a specific ornament: a heart for Valentine's Day, a pumpkin for Halloween, a turkey for Thanksgiving—police knew the holiday but never the killer.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 86,
+    "educational_value": 30,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "holiday killer",
+      "ornament signature",
+      "serial killer pattern",
+      "ritual murders",
+      "unsolved"
+    ],
+    "overlap_check_hash": "be721774c5d11554",
+    "why_this_can_go_viral": "The ritualistic holiday theme creates a terrifying juxtaposition of celebration and death, perfect for 'true crime calendar' content that feeds the algorithm."
+  },
+  {
+    "unique_id": "crime_0089_013_2e727769f1ee6947",
+    "title": "The Heist Where Thieves Stole a Bank's Entire Safe Deposit Box Room—By Drilling Through the Vault Wall from Next Door",
+    "hook": "They rented an abandoned pizza shop next to the bank, drilled a tunnel for 4 months, and on a Saturday night, jackhammered through the vault wall—taking 300 boxes while alarms never sounded.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 65,
+    "educational_value": 45,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "bank heist",
+      "safe deposit theft",
+      "tunnel heist",
+      "vault drill",
+      "silent alarm bypass"
+    ],
+    "overlap_check_hash": "2e727769f1ee6947",
+    "why_this_can_go_viral": "The 'tunnel from next door' is a classic heist trope that always captivates, and the 'how did they silence the alarm' question drives technical curiosity."
+  },
+  {
+    "unique_id": "crime_0089_014_7c6f72f2d82d50ef",
+    "title": "The Billion-Dollar Fraud That Sold Fake FEMA Aid—To the Same Hurricane Victims Twice",
+    "hook": "After a Category 5 storm, a 'relief company' collected $500 million in donations—then sent the victims the same broken trailers they'd sold them before, repainted and relabeled.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 92,
+    "educational_value": 50,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "FEMA fraud",
+      "hurricane scam",
+      "disaster relief theft",
+      "fake aid",
+      "victim exploitation"
+    ],
+    "overlap_check_hash": "7c6f72f2d82d50ef",
+    "why_this_can_go_viral": "The betrayal of disaster victims is emotionally explosive, triggering outrage and shares from people who want to warn others about such scams."
+  },
+  {
+    "unique_id": "crime_0089_015_9d84c5324250032c",
+    "title": "The Cartel That Used a Fake Meatpacking Plant—To Ship Human Remains in Frozen Beef Boxes",
+    "hook": "They bought a failing slaughterhouse, mixed dismembered bodies into ground beef shipments, and sent 'products' to restaurants across 3 countries—until a worker noticed a human tooth in the grinder.",
+    "virality_score": 97,
+    "curiosity_gap_score": 99,
+    "darkness_score": 100,
+    "educational_value": 15,
+    "estimated_short_retention": 96,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel disposal",
+      "meatpacking plant",
+      "human remains",
+      "food contamination",
+      "horror cover"
+    ],
+    "overlap_check_hash": "9d84c5324250032c",
+    "why_this_can_go_viral": "The visceral horror of eating what might have been human remains is the most shareable shock content—guaranteed to stop viewers mid-scroll."
+  },
+  {
+    "unique_id": "crime_0089_017_0996d2b8b23331c4",
+    "title": "The Unsolved Murder Where the Victim's Body Was Found in a Sealed Room—With a Puddle of Ice That Matched No Freezer",
+    "hook": "The room was locked from the inside, no windows, no vents—but a puddle of ice on the floor had melted from a block that was cut with a saw blade that didn't exist on the market.",
+    "virality_score": 91,
+    "curiosity_gap_score": 97,
+    "darkness_score": 82,
+    "educational_value": 30,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "locked room mystery",
+      "ice puddle",
+      "impossible crime",
+      "unknown blade",
+      "cold case"
+    ],
+    "overlap_check_hash": "0996d2b8b23331c4",
+    "why_this_can_go_viral": "The 'impossible locked room' puzzle is a true crime staple, and the mysterious ice adds a chilling physical detail that viewers will try to solve in comments."
+  },
+  {
+    "unique_id": "crime_0089_018_55f1580b67faa482",
+    "title": "The Criminal Mastermind Who Built a Fake Airline—To Launder $700 Million in Drug Money",
+    "hook": "He created an entire airline with real planes, real pilots, and real routes—but every ticket was bought with drug cash, and the 'passengers' were money couriers wearing suits.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 78,
+    "educational_value": 45,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake airline",
+      "money laundering",
+      "drug money",
+      "criminal enterprise",
+      "aviation crime"
+    ],
+    "overlap_check_hash": "55f1580b67faa482",
+    "why_this_can_go_viral": "The scale of creating a real airline just for laundering is mind-blowing, and the 'passengers were mules' twist is a perfect reveal."
+  },
+  {
+    "unique_id": "crime_0089_019_4b9ada68b243ec17",
+    "title": "The Mob That Used a Dentist's Office X-Rays—To Identify Rivals for Assassination",
+    "hook": "They stole dental records from a mob-connected dentist, then used the X-rays to identify undercover cops and rival gang members who had dental appointments, tagging them for hits based on their fillings.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 35,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "dental records",
+      "mob hits",
+      "dentist cover",
+      "target identification",
+      "organized crime"
+    ],
+    "overlap_check_hash": "4b9ada68b243ec17",
+    "why_this_can_go_viral": "The mundane medical setting turned into a death database is deeply unsettling, and the 'your dentist could be a mob informant' paranoia is highly shareable."
+  },
+  {
+    "unique_id": "crime_0089_020_4a012554fc251077",
+    "title": "The Serial Killer Who Used a Realtor's Open House Calendar—To Find Victims by Address",
+    "hook": "He posed as a homebuyer, attended open houses for 2 years, and selected his victims based on the house's layout—choosing homes with basements that could be soundproofed and cleaned quickly.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 83,
+    "educational_value": 40,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "open house killer",
+      "realtor trap",
+      "home viewing murder",
+      "serial killer method",
+      "house layout"
+    ],
+    "overlap_check_hash": "4a012554fc251077",
+    "why_this_can_go_viral": "The 'stranger at your door' fear is universal, and the realtor setting makes it feel like something that could happen to anyone, driving massive shares from homeowners."
+  },
+  {
+    "unique_id": "crime_0089_021_cc902874679afc9d",
+    "title": "The Heist Where Thieves Stole a Gold Vault's Entire Inventory—By Taking the Walls Instead of the Gold",
+    "hook": "They didn't touch a single bar—instead, they dismantled the reinforced walls of the vault itself, which were lined with gold hidden in the concrete by the original builder, and walked out with 2 tons of metal disguised as 'construction debris.'",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 55,
+    "educational_value": 50,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "gold vault heist",
+      "hidden gold",
+      "wall theft",
+      "construction disguise",
+      "clever heist"
+    ],
+    "overlap_check_hash": "cc902874679afc9d",
+    "why_this_can_go_viral": "The counterintuitive 'steal the walls, not the gold' twist is a brilliant puzzle that makes viewers feel smart for understanding it, driving high retention and shares."
+  },
+  {
+    "unique_id": "crime_0089_022_4c247b84056c5343",
+    "title": "The Billion-Dollar Fraud That Sold Fake College Diplomas—To Fortune 500 CEOs",
+    "hook": "He created a 'University of North America' with a fake campus, fake alumni events, and a fake accreditation board—and sold degrees to 400 executives who never realized they bought diplomas from a building that was just a rented office with a sign.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 55,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fake university",
+      "CEO diploma scam",
+      "accreditation fraud",
+      "fake degree",
+      "corporate con"
+    ],
+    "overlap_check_hash": "4c247b84056c5343",
+    "why_this_can_go_viral": "The schadenfreude of powerful CEOs being duped by a fake university is irresistible, and the 'how did nobody check?' question drives engagement."
+  },
+  {
+    "unique_id": "crime_0089_023_77d4fd7425441423",
+    "title": "The Cartel That Used a Monastery's Confession Booth—To Launder Money Through Church Donations",
+    "hook": "They bribed a priest to accept 'anonymous donations' in the confession booth—which were actually drug profits—and the church laundered $200 million before the Vatican froze the account.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 88,
+    "educational_value": 35,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel laundering",
+      "church scam",
+      "confession booth money",
+      "vatican freeze",
+      "drug money"
+    ],
+    "overlap_check_hash": "77d4fd7425441423",
+    "why_this_can_go_viral": "The sacrilegious blend of cartel violence and religious sanctuary is deeply shocking, and the Vatican involvement adds an international conspiracy layer."
+  },
+  {
+    "unique_id": "crime_0089_024_3bdb2817718cc622",
+    "title": "The White-Collar Criminal Who Stole a State's Entire Tax Refund Budget—By Filing Fake Returns for Dead People",
+    "hook": "He bought a list of deceased residents from a funeral home, filed tax returns in their names for 5 years, and collected $300 million in refunds—until someone noticed a man who died in 1998 had filed for a refund in 2003.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 58,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "tax fraud",
+      "dead person returns",
+      "refund scam",
+      "identity theft",
+      "funeral home data"
+    ],
+    "overlap_check_hash": "3bdb2817718cc622",
+    "why_this_can_go_viral": "The bleak humor of 'dead people paying taxes' combined with the massive scale of the theft makes for a story that's both infuriating and darkly funny."
+  },
+  {
+    "unique_id": "crime_0089_025_3d1f5ab4b09ca54f",
+    "title": "The Unsolved Murder Where the Killer Used a Victim's Own Key—To Lock the Door from Outside After Leaving",
+    "hook": "The body was inside a room locked from the outside, with the victim's keys in the lock—but the keys were found on the floor, and the only way to lock it was if someone turned the key while standing outside, which was impossible with standard locks.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 80,
+    "educational_value": 35,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "locked room mystery",
+      "impossible lock",
+      "key puzzle",
+      "unsolved murder",
+      "forensic puzzle"
+    ],
+    "overlap_check_hash": "3d1f5ab4b09ca54f",
+    "why_this_can_go_viral": "The simple but impossible physics of the locked door creates a detective challenge that audiences love to solve in the comments, driving massive engagement."
+  }
+]

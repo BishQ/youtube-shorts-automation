@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "science_0176_001_b536ead9538a806b",
+    "title": "The Chemist Who Made a Liquid That Dissolves Everything—Including the Lab Floor",
+    "hook": "What happens when a solvent is so powerful it can't be stored in any known container?",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "solvent",
+      "lab disaster",
+      "chemistry accident",
+      "dissolving",
+      "dangerous chemical"
+    ],
+    "overlap_check_hash": "b536ead9538a806b",
+    "why_this_can_go_viral": "Combines the 'unstoppable force' horror with real chemistry, triggering deep curiosity about how scientists contain the uncontainable."
+  },
+  {
+    "unique_id": "science_0176_003_4238de7a11b935a5",
+    "title": "The Lab That Grew a Human Brain With Eyes—And It Started Tracking Movement",
+    "hook": "",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "organoid",
+      "brain in a jar",
+      "lab grown",
+      "consciousness",
+      "ethics"
+    ],
+    "overlap_check_hash": "4238de7a11b935a5",
+    "why_this_can_go_viral": "The horrifying image of a seeing, aware brain grown in a dish is pure nightmare fuel and triggers deep ethical debate."
+  },
+  {
+    "unique_id": "science_0176_005_62c64617308ca041",
+    "title": "The Quantum Computer That Gave an Answer That Shouldn't Exist—Then Shut Down",
+    "hook": "It solved a problem that had no solution. The error code read: 'Result outside expected universe.'",
+    "virality_score": 87,
+    "curiosity_gap_score": 96,
+    "darkness_score": 70,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum computing",
+      "impossible result",
+      "multiverse",
+      "computation crash",
+      "paradox"
+    ],
+    "overlap_check_hash": "62c64617308ca041",
+    "why_this_can_go_viral": "The idea that a computer can return an answer from outside our reality is a mind-bending story that demands explanation."
+  },
+  {
+    "unique_id": "science_0176_006_4de6236ae34855f9",
+    "title": "The Scientific Fraud Who Faked a Human Cloning Study—And the Cell Line Wasn't Human",
+    "hook": "She claimed she cloned a human embryo. The DNA revealed something that wasn't on the human tree.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "cloning",
+      "fraud",
+      "stem cells",
+      "DNA scandal",
+      "fake science"
+    ],
+    "overlap_check_hash": "4de6236ae34855f9",
+    "why_this_can_go_viral": "Combines the taboo of human cloning with the eerie twist of non-human DNA—a conspiracy theorist's dream."
+  },
+  {
+    "unique_id": "science_0176_007_231c39fc7876dd13",
+    "title": "The Physicist Who Built a Machine That Pulls Objects Toward It—Without Touching Them",
+    "hook": "It wasn't magnetism. It wasn't gravity. And it kept pulling even when unplugged.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 65,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "anomaly",
+      "unexplained force",
+      "dark physics",
+      "invention",
+      "levitation"
+    ],
+    "overlap_check_hash": "231c39fc7876dd13",
+    "why_this_can_go_viral": "A device that defies known physics is inherently viral—viewers will argue in comments about what's real."
+  },
+  {
+    "unique_id": "science_0176_008_2039ee167a8e9f06",
+    "title": "The Biolab That Created a Bacteria That Eats Human Hair—From a Shower Drain",
+    "hook": "A routine lab cleanup found a microbe that digests keratin. Then it got into the water supply.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "bacteria",
+      "keratin",
+      "hair",
+      "lab accident",
+      "water contamination"
+    ],
+    "overlap_check_hash": "2039ee167a8e9f06",
+    "why_this_can_go_viral": "Gives a new reason to fear shower drains—the everyday horror angle makes it highly relatable and shareable."
+  },
+  {
+    "unique_id": "science_0176_009_722f77d64c4a9240",
+    "title": "The Chemist Who Discovered a Powder That Explodes When It Sees Light—Lit by a Flashbulb",
+    "hook": "It was stable in the dark. The moment the lab lights turned on, the building came down.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "photosensitive",
+      "explosive",
+      "chemistry accident",
+      "light trigger",
+      "lab explosion"
+    ],
+    "overlap_check_hash": "722f77d64c4a9240",
+    "why_this_can_go_viral": "The visual of a substance that detonates from ordinary light is both terrifying and fascinating."
+  },
+  {
+    "unique_id": "science_0176_010_9d62a21b33f97113",
+    "title": "The Forbidden Experiment Where a Scientist Starved Himself for 30 Days—and Ate His Own Cells",
+    "hook": "He wanted to study autophagy. He didn't expect his body to start digesting his organs.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "starvation",
+      "self-experiment",
+      "autophagy",
+      "body horror",
+      "human endurance"
+    ],
+    "overlap_check_hash": "9d62a21b33f97113",
+    "why_this_can_go_viral": "Extreme self-experimentation with horrifying consequences is a proven viral formula in dark science."
+  },
+  {
+    "unique_id": "science_0176_011_f77480682d8e933a",
+    "title": "The Neuroscientist Who Played a Sound—and Made an Entire Room Hallucinate",
+    "hook": "A specific frequency was piped into the lab. Everyone heard voices. The microphones confirmed it.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 86,
+    "educational_value": 77,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "auditory hallucination",
+      "frequency",
+      "brain manipulation",
+      "hearing voices",
+      "neural entrainment"
+    ],
+    "overlap_check_hash": "f77480682d8e933a",
+    "why_this_can_go_viral": "The idea that sound alone can hijack the brain and produce shared hallucinations is terrifying and instantly shareable."
+  },
+  {
+    "unique_id": "science_0176_012_226ed74c9c170891",
+    "title": "The Quantum Experiment Where a Particle Was in Two Places—Then Split the Observer",
+    "hook": "The observer tried to measure it. The detector showed the observer was also in two places.",
+    "virality_score": 90,
+    "curiosity_gap_score": 97,
+    "darkness_score": 75,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "superposition",
+      "observer effect",
+      "quantum mechanics",
+      "reality splitting",
+      "experiment"
+    ],
+    "overlap_check_hash": "226ed74c9c170891",
+    "why_this_can_go_viral": "Quantum mechanics already bends minds—adding the observer into the superposition creates a reality-breaking narrative."
+  },
+  {
+    "unique_id": "science_0176_013_2aa6976873d19324",
+    "title": "The Lab That Leaked a Virus That Makes Hosts Forget—And a Scientist Forgot Her Own Name",
+    "hook": "A biosafety cabinet failed. The researcher exposed to the pathogen no longer recognized her reflection.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 73,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "virus",
+      "memory loss",
+      "biosafety",
+      "lab leak",
+      "amnesia"
+    ],
+    "overlap_check_hash": "2aa6976873d19324",
+    "why_this_can_go_viral": "The horror of losing your own identity to a lab accident is deeply personal, terrifying, and comment-worthy."
+  },
+  {
+    "unique_id": "science_0176_015_b31739661b318a08",
+    "title": "The Physicist Who Created a 'Time Mirror'—And Saw Yesterday's Light",
+    "hook": "It reflected photons that had already passed. The image showed the lab—before the experiment started.",
+    "virality_score": 88,
+    "curiosity_gap_score": 96,
+    "darkness_score": 68,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time mirror",
+      "light reflection",
+      "temporal anomaly",
+      "physics experiment",
+      "time reversal"
+    ],
+    "overlap_check_hash": "b31739661b318a08",
+    "why_this_can_go_viral": "A device that shows the past is a universally intriguing concept that combines sci-fi and real physics."
+  },
+  {
+    "unique_id": "science_0176_016_97805de6332d0b27",
+    "title": "The Biolab That Grew a Human Ear on a Mouse—Then the Mouse Began to React to Sounds",
+    "hook": "The ear wasn't connected to the mouse's brain. But the mouse still flinched when someone clapped.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 84,
+    "educational_value": 68,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "organ growth",
+      "mouse",
+      "human ear",
+      "bioengineering",
+      "tissue culture"
+    ],
+    "overlap_check_hash": "97805de6332d0b27",
+    "why_this_can_go_viral": "A grotesque image combined with an unexplained biological reaction—perfect for dark science content."
+  },
+  {
+    "unique_id": "science_0176_017_c8867e97482256d4",
+    "title": "The Neuroscientist Who Implanted a Memory of a Murder—The Subject Confessed",
+    "hook": "They implanted a false memory of a crime that never happened. The subject not only believed it—they apologized.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 82,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "false memory",
+      "implantation",
+      "confession",
+      "memory manipulation",
+      "neuroscience ethics"
+    ],
+    "overlap_check_hash": "c8867e97482256d4",
+    "why_this_can_go_viral": "The terrifying implication that our memories—and our guilt—can be fabricated hits a primal nerve."
+  },
+  {
+    "unique_id": "science_0176_018_b3f89c2794c185c0",
+    "title": "The Chemist Who Made a Glue That Binds Skin to Metal—Tested on a Volunteer's Hand",
+    "hook": "The bond was stronger than skin. The volunteer couldn't let go. The surgeon had to remove the metal.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 79,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "super glue",
+      "skin bond",
+      "lab accident",
+      "adhesive",
+      "medical error"
+    ],
+    "overlap_check_hash": "b3f89c2794c185c0",
+    "why_this_can_go_viral": "The visceral horror of being permanently bonded to an object is instantly engaging and shareable."
+  },
+  {
+    "unique_id": "science_0176_020_02e502cf72c36490",
+    "title": "The Quantum Computer That Simulated a Hell Dimension—It Described It",
+    "hook": "The simulation was meant to test infinite probabilities. It returned a 3-word answer that froze the room.",
+    "virality_score": 89,
+    "curiosity_gap_score": 98,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum simulation",
+      "hell",
+      "AI",
+      "afterlife",
+      "probability space"
+    ],
+    "overlap_check_hash": "02e502cf72c36490",
+    "why_this_can_go_viral": "Blends quantum computing with existential dread—an explosive mix for dark science audiences."
+  },
+  {
+    "unique_id": "science_0176_021_7a7e07e16cab8b7a",
+    "title": "The Lab That Created a Parasite That Makes Hosts Love the Smell of Blood—It Spread to Staff",
+    "hook": "The parasite altered the host's brain to crave blood. Then the lab assistants started getting nosebleeds.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "parasite",
+      "behavior modification",
+      "blood craving",
+      "lab escape",
+      "mind control"
+    ],
+    "overlap_check_hash": "7a7e07e16cab8b7a",
+    "why_this_can_go_viral": "Mind-controlling parasites are inherently viral—adding a human target makes it terrifying."
+  },
+  {
+    "unique_id": "science_0176_022_3a59b17ce1ffff5d",
+    "title": "The Physicist Who Discovered a Particle That Travels Backward in Time—It Knew the Future",
+    "hook": "The particle's behavior changed before the experiment started. It seemed to know what the scientist would do.",
+    "virality_score": 87,
+    "curiosity_gap_score": 95,
+    "darkness_score": 72,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time travel",
+      "tachyons",
+      "retrocausality",
+      "quantum particle",
+      "physics mystery"
+    ],
+    "overlap_check_hash": "3a59b17ce1ffff5d",
+    "why_this_can_go_viral": "The idea of a particle that already knows your next move is a mind-bending concept that sparks endless discussion."
+  },
+  {
+    "unique_id": "science_0176_024_53006666b6a68314",
+    "title": "The Neuroscientist Who Shocked a Brain and the Patient Saw Her Own Death",
+    "hook": "A routine stimulation of the temporal lobe—and the patient described her own funeral in vivid detail.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 97,
+    "educational_value": 75,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "near death experience",
+      "brain stimulation",
+      "temporal lobe",
+      "premonition",
+      "consciousness"
+    ],
+    "overlap_check_hash": "53006666b6a68314",
+    "why_this_can_go_viral": "The most unsettling concept—seeing your own death through brain stimulation—is a viral goldmine."
+  },
+  {
+    "unique_id": "science_0176_025_ab6957ea3216ee41",
+    "title": "The Chemist Who Made a Gas That Turns Water Into Fire—It Rained in the Lab",
+    "hook": "A single leak. The sprinklers activated. The water ignited and the lab burned underwater.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 83,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "pyrophoric",
+      "gas",
+      "water fire",
+      "lab fire",
+      "chemical accident"
+    ],
+    "overlap_check_hash": "ab6957ea3216ee41",
+    "why_this_can_go_viral": "The impossible image of water catching fire is visually stunning and scientifically shocking."
+  }
+]

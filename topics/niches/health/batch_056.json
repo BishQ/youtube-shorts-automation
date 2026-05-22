@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "health_0056_001_8d6123ecd979578d",
+    "title": "The Doctor Who Harvested Patients' Adrenals for 'Vitality' Serums",
+    "hook": "In the 1920s, a surgeon removed thousands of healthy adrenal glands from poor patients—and sold their extracts to wealthy clients as a cure for fatigue.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "adrenal gland",
+      "organ harvesting",
+      "serum",
+      "1920s surgery",
+      "medical fraud"
+    ],
+    "overlap_check_hash": "8d6123ecd979578d",
+    "why_this_can_go_viral": "Combines body horror, class exploitation, and a hidden historical medical atrocity—perfect for outrage-driven shares."
+  },
+  {
+    "unique_id": "health_0056_002_b388bba07156d335",
+    "title": "The Pharmaceutical Giant That Hid a Cancer Cure to Sell Chemo",
+    "hook": "Internal documents revealed a drug that shrank tumors by 80%—but the company buried it because it threatened their billion-dollar chemotherapy pipeline.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 96,
+    "educational_value": 85,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "cancer cure suppressed",
+      "chemo profits",
+      "drug buried",
+      "tumor shrinkage",
+      "pharma conspiracy"
+    ],
+    "overlap_check_hash": "b388bba07156d335",
+    "why_this_can_go_viral": "Taps into deep distrust of Big Pharma and the universal fear of cancer—creates immediate emotional hook and desire to learn the drug's name."
+  },
+  {
+    "unique_id": "health_0056_003_4cb597861ceccdff",
+    "title": "The Hospital That Cooked Patients Alive in Hyperthermia 'Cures'",
+    "hook": "A 1940s doctor believed fever could cure any disease—so he heated patients to 110°F for hours. Half of them died on the table.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 94,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "hyperthermia death",
+      "fever therapy",
+      "medical atrocity",
+      "1940s hospital",
+      "patient cooking"
+    ],
+    "overlap_check_hash": "4cb597861ceccdff",
+    "why_this_can_go_viral": "Graphic, shocking imagery of patients being 'cooked'—easily visualizable, highly shareable on TikTok and Instagram Reels."
+  },
+  {
+    "unique_id": "health_0056_004_23d1051e17f0145e",
+    "title": "The Suppressed Cure: How a $3 Seaweed Extract Stopped Radiation Sickness",
+    "hook": "After Chernobyl, a simple algae pill reduced radiation absorption by 70%. Ukrainian scientists used it—but Western regulators banned it without explanation.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 82,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "seaweed radiation",
+      "Chernobyl cure",
+      "algae pill",
+      "suppressed treatment",
+      "radiation sickness"
+    ],
+    "overlap_check_hash": "23d1051e17f0145e",
+    "why_this_can_go_viral": "Combines nuclear fear, a natural cheap solution, and regulatory mystery—triggers 'what else are they hiding?' curiosity."
+  },
+  {
+    "unique_id": "health_0056_006_e96baea4c7da1614",
+    "title": "The Disease Cover-Up: How Asbestos in Brake Pads Caused a Mesothelioma Epidemic",
+    "hook": "Car mechanics were dying of lung cancer at 3x the normal rate—but the auto industry blamed smoking for 40 years, hiding asbestos in brake dust.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 88,
+    "educational_value": 85,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "asbestos brake pads",
+      "mesothelioma cover-up",
+      "auto industry lies",
+      "mechanic cancer",
+      "lung disease hidden"
+    ],
+    "overlap_check_hash": "e96baea4c7da1614",
+    "why_this_can_go_viral": "Affects millions of mechanics and car enthusiasts—relatable, infuriating, and a hidden health risk in everyday objects."
+  },
+  {
+    "unique_id": "health_0056_008_553c7f5db0536082",
+    "title": "The Healthcare Crimes: How a Hospital Billed Patients for 'Ghost' Surgeries",
+    "hook": "A 2018 investigation found a hospital chain charging for surgeries that never happened—patients had scars from non-existent procedures on their records.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 82,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "ghost surgery",
+      "fake procedures",
+      "hospital fraud",
+      "billing scam",
+      "unnecessary surgery"
+    ],
+    "overlap_check_hash": "553c7f5db0536082",
+    "why_this_can_go_viral": "Fraud + medical horror—triggers fear of being exploited during vulnerable moments, high shareability among those with medical debt."
+  },
+  {
+    "unique_id": "health_0056_010_7db03f2be573d7ff",
+    "title": "The Suppressed Cure: How a $5 Chlorella Supplement Reversed Heavy Metal Poisoning",
+    "hook": "Clinical trials showed chlorella removed 85% of lead from children's blood in 30 days—but it was never approved, because it can't be patented.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 80,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "chlorella heavy metal",
+      "lead removal",
+      "suppressed treatment",
+      "unpatentable cure",
+      "natural chelation"
+    ],
+    "overlap_check_hash": "7db03f2be573d7ff",
+    "why_this_can_go_viral": "Parents desperate for heavy metal detox solutions (autism, ADHD communities) will share widely—combines hope with anti-pharma anger."
+  },
+  {
+    "unique_id": "health_0056_011_848f1256123b2fd0",
+    "title": "The Toxic Canned Soup That Gave Children Alzheimer's Decades Later",
+    "hook": "BPA-lined cans of popular 1980s soups leached into children's brains—now in their 40s, they show early Alzheimer's markers at 10x the normal rate.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 84,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "BPA soup",
+      "canned food Alzheimer's",
+      "toxic packaging",
+      "childhood exposure",
+      "degenerative disease"
+    ],
+    "overlap_check_hash": "848f1256123b2fd0",
+    "why_this_can_go_viral": "Delayed horror—something you ate as a child is destroying your brain now—creates urgency, fear, and a personal stake for millions."
+  },
+  {
+    "unique_id": "health_0056_012_86c8fd473b3e9bae",
+    "title": "The Disease Cover-Up: How a Fungus in Air Conditioning Caused 30% of COPD",
+    "hook": "Office buildings in the 1990s circulated a black mold that slowly destroyed employees' lungs—companies blamed smoking for decades, despite non-smokers dying.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 89,
+    "educational_value": 83,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "black mold COPD",
+      "office building lung disease",
+      "HVAC fungus",
+      "corporate cover-up",
+      "respiratory illness"
+    ],
+    "overlap_check_hash": "86c8fd473b3e9bae",
+    "why_this_can_go_viral": "Relatable to office workers—hidden danger in plain sight, triggers 'I breathe that air every day' fear and anger."
+  },
+  {
+    "unique_id": "health_0056_014_62fa2618c80505d5",
+    "title": "The Pharmaceutical Company That Sold a Drug to Make You Pee—It Destroyed Kidneys",
+    "hook": "A 1950s diuretic was marketed as 'safe for daily use'—until autopsies showed patients' kidneys had turned into scar tissue from the inside out.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "diuretic kidney failure",
+      "1950s drug scandal",
+      "scarred kidneys",
+      "pharma negligence",
+      "organ destruction"
+    ],
+    "overlap_check_hash": "62fa2618c80505d5",
+    "why_this_can_go_viral": "Gruesome internal imagery—viewers will imagine their own organs being destroyed, creating a visceral 'never again' reaction."
+  },
+  {
+    "unique_id": "health_0056_015_c011b28ab91e720e",
+    "title": "The Hospital That Kept Patients in Comas for Weeks—to Raise Insurance Payouts",
+    "hook": "A hospital chain deliberately induced comas in recovering patients to bill insurance for ICU stays—some never woke up.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 80,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "induced coma fraud",
+      "ICU billing scam",
+      "hospital coma patients",
+      "insurance fraud",
+      "medical kidnapping"
+    ],
+    "overlap_check_hash": "c011b28ab91e720e",
+    "why_this_can_go_viral": "Combines medical kidnapping, profit motive, and conscious fear of being trapped in your own body—extremely dark but shareable."
+  },
+  {
+    "unique_id": "health_0056_016_81a2637e244aa23d",
+    "title": "The Toxic Tattoo Ink That Caused Skin Cancer Decades Later",
+    "hook": "A 2005 study found that red tattoo ink contained a known carcinogen that triggered melanoma—and the ink was still being used in 2024 without warning labels.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "tattoo ink cancer",
+      "red ink carcinogen",
+      "melanoma tattoo",
+      "hidden danger",
+      "body art risk"
+    ],
+    "overlap_check_hash": "81a2637e244aa23d",
+    "why_this_can_go_viral": "32% of Americans have tattoos—this is a personal stake for a huge audience, creates urgent 'check your ink' behavior."
+  },
+  {
+    "unique_id": "health_0056_017_20cb6e5ef7d5eddc",
+    "title": "The Doctor Who Performed Surgery on 300 Patients—Without a License",
+    "hook": "A man impersonated a surgeon for 12 years, performing everything from appendectomies to heart surgery—and no one noticed until patients started dying.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "fake surgeon",
+      "unlicensed doctor",
+      "surgery imposter",
+      "patient death",
+      "medical impersonation"
+    ],
+    "overlap_check_hash": "20cb6e5ef7d5eddc",
+    "why_this_can_go_viral": "Shocking imposter story with life-or-death stakes—creates intense 'how is this possible?' curiosity and distrust of healthcare systems."
+  },
+  {
+    "unique_id": "health_0056_018_feec3b8e38683cab",
+    "title": "The Suppressed Cure: How a $2 Baking Soda Mouthwash Reversed 90% of Gum Disease",
+    "hook": "A 2016 study showed sodium bicarbonate killed the bacteria causing periodontitis in 7 days—but no toothpaste company will sell it, because it ruins their whitening market.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 84,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "baking soda gum disease",
+      "periodontitis cure",
+      "dental industry scam",
+      "cheap oral health",
+      "suppressed toothpaste"
+    ],
+    "overlap_check_hash": "feec3b8e38683cab",
+    "why_this_can_go_viral": "Relatable and actionable—gum disease affects 47% of adults, and a cheap solution creates immediate hope and sharing."
+  },
+  {
+    "unique_id": "health_0056_021_09399849d20777a2",
+    "title": "The Toxic Sunscreen That Caused Thyroid Cancer—Not Sunburn",
+    "hook": "A 2021 study found that oxybenzone, the active ingredient in 80% of sunscreens, causes thyroid tumors—yet the FDA still lists it as 'safe.'",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 87,
+    "educational_value": 86,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "sunscreen thyroid cancer",
+      "oxybenzone danger",
+      "FDA safety failure",
+      "skin cancer product",
+      "endocrine disruptor"
+    ],
+    "overlap_check_hash": "09399849d20777a2",
+    "why_this_can_go_viral": "Summer essential becomes hidden threat—millions of sunscreen users will feel personally betrayed and share to warn others."
+  },
+  {
+    "unique_id": "health_0056_022_81b62847ea0d7b43",
+    "title": "The Disease Cover-Up: How a Wood Preservative Caused 50% of Pediatric Brain Tumors",
+    "hook": "Playgrounds built in the 1980s were soaked in arsenic-laced wood—children who played on them developed brain cancer at alarming rates, but manufacturers hid the link.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 83,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "arsenic playground",
+      "wood preservative cancer",
+      "child brain tumor",
+      "CCA wood",
+      "toxic playground equipment"
+    ],
+    "overlap_check_hash": "81b62847ea0d7b43",
+    "why_this_can_go_viral": "Nostalgia + horror—parents who grew up on those playgrounds will share, and current parents will fear for their kids."
+  },
+  {
+    "unique_id": "health_0056_023_bd94510609cf15b1",
+    "title": "The FDA-Approved Weight Loss Drug That Caused Blindness",
+    "hook": "A blockbuster diet pill was linked to a condition that destroyed patients' central vision—but it stayed on shelves for 6 years while the company denied any connection.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 89,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "weight loss drug blindness",
+      "diet pill vision loss",
+      "FDA approved danger",
+      "pharma cover-up",
+      "central vision destruction"
+    ],
+    "overlap_check_hash": "bd94510609cf15b1",
+    "why_this_can_go_viral": "Vanity product leads to catastrophic disability—creates strong 'not worth it' warning narrative that drives shares among dieters."
+  },
+  {
+    "unique_id": "health_0056_024_980331822736e7e8",
+    "title": "The Doctor Who Gave Patients Fake Chemo for 10 Years—and Pockets the Insurance",
+    "hook": "An oncologist injected saline solution into cancer patients for a decade, telling them it was chemotherapy—while billing insurers $4 million and letting patients die.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "fake chemo",
+      "saline injection",
+      "oncologist fraud",
+      "cancer scam",
+      "patient death"
+    ],
+    "overlap_check_hash": "980331822736e7e8",
+    "why_this_can_go_viral": "Ultimate betrayal—trusting your doctor with your life while they slowly kill you for money. Pure outrage fuel."
+  },
+  {
+    "unique_id": "health_0056_025_975d58353aeac368",
+    "title": "The Suppressed Cure: How a $4 Pancreatic Enzyme Stopped 60% of Autoimmune Flare-Ups",
+    "hook": "A 2012 clinical trial showed that a simple enzyme supplement reduced rheumatoid arthritis, lupus, and MS attacks—but pharmaceutical companies buried it because it can't be patented.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 81,
+    "educational_value": 86,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "pancreatic enzyme autoimmune",
+      "natural suppressant",
+      "RA treatment buried",
+      "MS cure hidden",
+      "unpatentable drug"
+    ],
+    "overlap_check_hash": "975d58353aeac368",
+    "why_this_can_go_viral": "Autoimmune diseases affect 50 million Americans—this offers hope and anti-pharma anger, driving massive niche community sharing."
+  }
+]

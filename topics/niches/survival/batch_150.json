@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "survival_0150_001_18c846fbcc0813b6",
+    "title": "The Shipwrecked Sailor Who Survived 40 Days—Then Saw His Own Rescue Boat Sink",
+    "hook": "He watched the helicopter that came to save him crash into the sea, and realized the ocean wasn't done with him yet.",
+    "virality_score": 88,
+    "curiosity_gap_score": 85,
+    "darkness_score": 90,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "shipwreck",
+      "rescue failed",
+      "ocean survival",
+      "stranded at sea",
+      "psychological breaking point"
+    ],
+    "overlap_check_hash": "18c846fbcc0813b6",
+    "why_this_can_go_viral": "The cruel twist of watching rescue arrive and then vanish triggers a deep emotional punch, making viewers desperate to know what happened next."
+  },
+  {
+    "unique_id": "survival_0150_002_2f58514e4ac192a0",
+    "title": "The Explorer Who Got Lost in a Cave Where the Walls Absorbed All Sound",
+    "hook": "He screamed for hours, but the cave swallowed every echo—until he realized he could hear his own heartbeat inside the rock.",
+    "virality_score": 92,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "cave survival",
+      "sensory deprivation",
+      "silence horror",
+      "underground trapped",
+      "auditory hallucination"
+    ],
+    "overlap_check_hash": "2f58514e4ac192a0",
+    "why_this_can_go_viral": "Total silence in a cave is a universal primal fear—the idea that the walls themselves absorb sound creates a unique, shareable horror concept."
+  },
+  {
+    "unique_id": "survival_0150_003_81bf8e5dce816ea8",
+    "title": "The Survivor Stranded in a Swamp Where the Fog Had a Taste",
+    "hook": "Every breath was sweet, like rotting fruit, and after three days his tongue went numb—the fog was digesting him alive.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 92,
+    "educational_value": 50,
+    "estimated_short_retention": 82,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "swamp survival",
+      "toxic fog",
+      "chemical exposure",
+      "extremophile",
+      "environmental horror"
+    ],
+    "overlap_check_hash": "81bf8e5dce816ea8",
+    "why_this_can_go_viral": "The idea of being slowly dissolved by invisible fog is a visceral, body-horror concept that taps into fear of the environment itself."
+  },
+  {
+    "unique_id": "survival_0150_005_642e446b89ec93f7",
+    "title": "The Shipwrecked Crew That Found an Island Where the Soil Was Alive",
+    "hook": "They buried their dead, but by morning the graved had pushed the body back to the surface—the island was rejecting them.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 30,
+    "estimated_short_retention": 88,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "desert island",
+      "alive soil",
+      "burial horror",
+      "stranded crew",
+      "unnatural geography"
+    ],
+    "overlap_check_hash": "642e446b89ec93f7",
+    "why_this_can_go_viral": "The island actively rejecting bodies is a creepy, supernatural-tinged survival story that begs for explanation and shares like wildfire."
+  },
+  {
+    "unique_id": "survival_0150_006_db55a083917469f3",
+    "title": "The Diver Who Found a Wreck Where the Gauges Were All Frozen at 300 Meters",
+    "hook": "He was only at 30 meters, but every depth gauge showed 300—and the chamber doors were open to empty darkness.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 55,
+    "estimated_short_retention": 84,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "wreck diving",
+      "depth anomaly",
+      "instrument failure",
+      "underwater horror",
+      "stranded deep sea"
+    ],
+    "overlap_check_hash": "db55a083917469f3",
+    "why_this_can_go_viral": "The contradiction between perceived and measured depth creates a disorienting mystery that makes viewers question reality."
+  },
+  {
+    "unique_id": "survival_0150_007_a997a9a58e47c686",
+    "title": "The Expedition That Found a Lake Where the Water Was Room Temperature—at 4000 Meters",
+    "hook": "They expected ice, but the lake was warm like bathwater—and something was breathing from the bottom in long, slow pulses.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 89,
+    "educational_value": 65,
+    "estimated_short_retention": 89,
+    "niche_name": "survival",
+    "subcategory": "stranded expeditions",
+    "keywords": [
+      "high altitude lake",
+      "geothermal anomaly",
+      "unknown organism",
+      "expedition horror",
+      "extreme survival"
+    ],
+    "overlap_check_hash": "a997a9a58e47c686",
+    "why_this_can_go_viral": "Warm water at altitude defies expectation—the implication of something alive down there taps into deep-sea and high-altitude fears simultaneously."
+  },
+  {
+    "unique_id": "survival_0150_009_e6d467c6688bf44e",
+    "title": "The Family Stranded in a Forest Where the Trees Were All Growing Out of One Root",
+    "hook": "They followed the root for miles—it connected every tree in the valley, and at the center, something was pulsing like a heart.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 35,
+    "estimated_short_retention": 87,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "forest survival",
+      "single organism",
+      "tree network",
+      "biological anomaly",
+      "family stranded"
+    ],
+    "overlap_check_hash": "e6d467c6688bf44e",
+    "why_this_can_go_viral": "The concept of an entire forest as a single entity is both scientifically fascinating and deeply unsettling—perfect for viral discussion."
+  },
+  {
+    "unique_id": "survival_0150_010_945c162333e2f571",
+    "title": "The Shipwrecked Sailor Who Survived by Drinking Rain—And His Vision Showed Him Tomorrow",
+    "hook": "He saw the rescue plane three days before it arrived, and when it came, the pilot said he'd dreamed of the exact same coordinates.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 75,
+    "educational_value": 25,
+    "estimated_short_retention": 91,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "premonition",
+      "ocean survival",
+      "rain drinking",
+      "shared dream",
+      "psychological mystery"
+    ],
+    "overlap_check_hash": "945c162333e2f571",
+    "why_this_can_go_viral": "Precognitive visions during survival stress tap into the mystery of human consciousness—highly shareable because it feels like proof of something more."
+  },
+  {
+    "unique_id": "survival_0150_011_4cba0e402032da56",
+    "title": "The Climber Who Found a Glacier Where the Snow Was Black",
+    "hook": "It wasn't dirt or ash—the snow was black all the way down, and when he melted it, the water was as clear as glass.",
+    "virality_score": 82,
+    "curiosity_gap_score": 84,
+    "darkness_score": 78,
+    "educational_value": 60,
+    "estimated_short_retention": 78,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "black snow",
+      "glacier anomaly",
+      "mountaineering horror",
+      "unknown phenomenon",
+      "extreme cold survival"
+    ],
+    "overlap_check_hash": "4cba0e402032da56",
+    "why_this_can_go_viral": "Black snow is a visually striking image that defies easy explanation—viewers will want to know the science or story behind it."
+  },
+  {
+    "unique_id": "survival_0150_014_9ccfeb061a91e4ea",
+    "title": "The Diver Who Got Stuck in a Wreck—And the Fish Were Knocking in Code",
+    "hook": "Three knocks, pause, three knocks—then he realized they were responding to his own tapping on the hull.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 82,
+    "educational_value": 40,
+    "estimated_short_retention": 80,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "wreck diving",
+      "fish behavior",
+      "underwater code",
+      "trapped diver",
+      "animal intelligence"
+    ],
+    "overlap_check_hash": "9ccfeb061a91e4ea",
+    "why_this_can_go_viral": "Fish communicating in code blurs the line between nature and the supernatural—a deeply intriguing survival puzzle."
+  },
+  {
+    "unique_id": "survival_0150_015_4afb2000b2a098fe",
+    "title": "The Explorer Who Got Lost in a Canyon Where the Wind Changed Direction Every Minute",
+    "hook": "He tried to navigate by the wind, but it spun in circles like a trapped animal—and the canyon walls were smooth as glass.",
+    "virality_score": 79,
+    "curiosity_gap_score": 81,
+    "darkness_score": 76,
+    "educational_value": 55,
+    "estimated_short_retention": 75,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "canyon survival",
+      "wind anomaly",
+      "navigation failure",
+      "geographical trap",
+      "lost explorer"
+    ],
+    "overlap_check_hash": "4afb2000b2a098fe",
+    "why_this_can_go_viral": "The wind as a disorienting force is a fresh take on getting lost—viewers will feel the frustration of a nature that actively confuses."
+  },
+  {
+    "unique_id": "survival_0150_017_ed700c5e8f3bc72b",
+    "title": "The Shipwrecked Crew That Found a Raft With Fresh Water—But the Water Was Moving Upward",
+    "hook": "They watched the water pour from a jug into the sky—and then the raft started to rise from the ocean.",
+    "virality_score": 96,
+    "curiosity_gap_score": 98,
+    "darkness_score": 93,
+    "educational_value": 10,
+    "estimated_short_retention": 95,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "impossible physics",
+      "raft survival",
+      "reverse gravity",
+      "sea anomaly",
+      "crew mystery"
+    ],
+    "overlap_check_hash": "ed700c5e8f3bc72b",
+    "why_this_can_go_viral": "Defying gravity is universally fascinating—this story is pure visual shock value that will be shared across platforms."
+  },
+  {
+    "unique_id": "survival_0150_018_372ffaa4a51274d5",
+    "title": "The Group Stranded in a Swamp Where the Mud Whistled at Dawn",
+    "hook": "A high-pitched whistle came from the mud flats, and the whistle had a melody—one that no human could have made.",
+    "virality_score": 83,
+    "curiosity_gap_score": 85,
+    "darkness_score": 81,
+    "educational_value": 35,
+    "estimated_short_retention": 80,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "swamp survival",
+      "mud whistle",
+      "natural phenomenon",
+      "group fear",
+      "surreal escape"
+    ],
+    "overlap_check_hash": "372ffaa4a51274d5",
+    "why_this_can_go_viral": "The swamp whistling a structured melody is eerie and unexpected—it feels like nature sending a coded message."
+  },
+  {
+    "unique_id": "survival_0150_019_6c86b14ddaf8a5ea",
+    "title": "The Survivor Who Washed Ashore on a Beach Where the Tide Pulled Inland",
+    "hook": "He followed the tide inland for a mile—and found a forest of dead coral, still dripping with saltwater.",
+    "virality_score": 80,
+    "curiosity_gap_score": 82,
+    "darkness_score": 79,
+    "educational_value": 60,
+    "estimated_short_retention": 77,
+    "niche_name": "survival",
+    "subcategory": "near-death escape stories",
+    "keywords": [
+      "tide anomaly",
+      "coral forest",
+      "beach survival",
+      "geographical mystery",
+      "stranded survivor"
+    ],
+    "overlap_check_hash": "6c86b14ddaf8a5ea",
+    "why_this_can_go_viral": "The sight of a coral forest inland is visually striking and raises questions about sea-level change or unknown currents."
+  },
+  {
+    "unique_id": "survival_0150_020_f998c0a56285d8d9",
+    "title": "The Climber Who Found a Peak Where the Rocks Were Stacked Like Cairns—But No One Had Been There",
+    "hook": "Hundreds of cairns lined the ridge, each one perfectly balanced—but satellite images showed no human had ever summited.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 84,
+    "educational_value": 30,
+    "estimated_short_retention": 85,
+    "niche_name": "survival",
+    "subcategory": "stranded expeditions",
+    "keywords": [
+      "mountain mystery",
+      "ancient cairns",
+      "climbing survival",
+      "unknown civilization",
+      "summit anomaly"
+    ],
+    "overlap_check_hash": "f998c0a56285d8d9",
+    "why_this_can_go_viral": "Evidence of intelligent structure where no humans have been is a classic mystery hook—makes viewers wonder about ancient or non-human builders."
+  },
+  {
+    "unique_id": "survival_0150_021_66f436f3da4fc343",
+    "title": "The Explorer Who Found a River Where the Water Was as Thick as Syrup—And It Flowed Uphill",
+    "hook": "He watched the slow, thick current crawl up the slope—and the bubbles that rose from the bottom were perfectly spherical and never popped.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 88,
+    "educational_value": 50,
+    "estimated_short_retention": 91,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "river anomaly",
+      "thick water",
+      "reverse flow",
+      "bubble mystery",
+      "explorer survival"
+    ],
+    "overlap_check_hash": "66f436f3da4fc343",
+    "why_this_can_go_viral": "A river that flows uphill with unpoppable bubbles is a surreal, science-defying image that demands explanation and sharing."
+  },
+  {
+    "unique_id": "survival_0150_022_0ac7f5fcc6e0ff0a",
+    "title": "The Family Stranded in a Forest Where the Sky Was Always Night—But the Birds Sang at Noon",
+    "hook": "They were lost for three weeks, and the sun never rose—but every day at noon, the birds sang like it was dawn.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 91,
+    "educational_value": 25,
+    "estimated_short_retention": 89,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "perpetual night",
+      "forest horror",
+      "bird behavior",
+      "temporal confusion",
+      "family survival"
+    ],
+    "overlap_check_hash": "0ac7f5fcc6e0ff0a",
+    "why_this_can_go_viral": "A world stuck in night with misplaced bird songs creates a haunting, liminal space that viewers will find deeply unsettling."
+  },
+  {
+    "unique_id": "survival_0150_023_64c94f669ee35642",
+    "title": "The Shipwrecked Sailor Who Found a Bottle Containing a Message—From His Own Ship",
+    "hook": "The bottle was dated three days into the future—and the message read: 'Don't let them take you below deck.'",
+    "virality_score": 97,
+    "curiosity_gap_score": 99,
+    "darkness_score": 92,
+    "educational_value": 10,
+    "estimated_short_retention": 96,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "time paradox",
+      "message in bottle",
+      "future warning",
+      "shipwreck horror",
+      "survivor mystery"
+    ],
+    "overlap_check_hash": "64c94f669ee35642",
+    "why_this_can_go_viral": "A future message from the same ship creates a time-loop mystery that is instantly gripping and highly shareable across platforms."
+  },
+  {
+    "unique_id": "survival_0150_024_02758d8fcc1e7a57",
+    "title": "The Survivor Who Was Trapped in a Ravine—And the Echoes Came Back in a Different Voice",
+    "hook": "He shouted his name, and the ravine shouted back—but the voice was deeper, older, and it said his mother's name.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 15,
+    "estimated_short_retention": 90,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "ravine survival",
+      "echo anomaly",
+      "voice mimicry",
+      "psychological horror",
+      "isolation madness"
+    ],
+    "overlap_check_hash": "02758d8fcc1e7a57",
+    "why_this_can_go_viral": "The echo speaking back in a different voice is a primal horror—it flips a familiar phenomenon into something threatening and personal."
+  },
+  {
+    "unique_id": "survival_0150_025_d7768208aac7574d",
+    "title": "The Expedition That Found a Desert Where the Heat Cooked the Air—And the Rain Boiled",
+    "hook": "The raindrops sizzled as they hit the ground—the air was so hot that water turned to steam before touching the sand.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 83,
+    "educational_value": 65,
+    "estimated_short_retention": 83,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "extreme heat",
+      "boiling rain",
+      "desert survival",
+      "climate anomaly",
+      "expedition horror"
+    ],
+    "overlap_check_hash": "d7768208aac7574d",
+    "why_this_can_go_viral": "Boiling rain is a shocking, almost impossible image—it makes viewers feel the danger of an environment that literally cooks the sky."
+  }
+]

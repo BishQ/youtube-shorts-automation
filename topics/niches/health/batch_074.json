@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "health_0074_001_9bc3bec31ebf614f",
+    "title": "The Pharmaceutical CEO Who Bought a Competitor's Cure to Bury It",
+    "hook": "A cure for a deadly disease existed, but a CEO paid millions to acquire it—and then locked it in a safe forever.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 91,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "suppressed cure",
+      "pharmaceutical corruption",
+      "buried treatment",
+      "cure hidden",
+      "CEO crime"
+    ],
+    "overlap_check_hash": "9bc3bec31ebf614f",
+    "why_this_can_go_viral": "The idea that a life-saving cure was deliberately hidden for profit triggers moral outrage and disbelief, driving shares and comments."
+  },
+  {
+    "unique_id": "health_0074_003_c07d3a9332782c97",
+    "title": "The FDA-Approved Weight Loss Drug That Eroded Users' Hearts",
+    "hook": "Approved by the FDA as safe, this drug caused irreversible heart damage in 1 in 8 patients—yet it stayed on shelves for years.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 87,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "FDA approved",
+      "dangerous drug",
+      "weight loss",
+      "heart damage",
+      "drug scandal"
+    ],
+    "overlap_check_hash": "c07d3a9332782c97",
+    "why_this_can_go_viral": "Weight loss is a massive topic; combining it with FDA failure and heart damage creates a high-emotion shareable hook."
+  },
+  {
+    "unique_id": "health_0074_005_5edb26eede437d92",
+    "title": "The Hospital That Painted Healthy Teeth to Sell Root Canals",
+    "hook": "Dentists in this chain secretly painted patients' teeth to make them look rotted—then charged thousands for unnecessary procedures.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 86,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "dental scam",
+      "unnecessary root canal",
+      "hospital fraud",
+      "medical scandal",
+      "teeth painting"
+    ],
+    "overlap_check_hash": "5edb26eede437d92",
+    "why_this_can_go_viral": "Dental anxiety is universal; learning that dentists faked decay taps into a deep fear of being exploited by trusted professionals."
+  },
+  {
+    "unique_id": "health_0074_006_316a54f04fb9c8b1",
+    "title": "The Pharmaceutical Giant That Infused Baby Formula with a Toxic Chemical",
+    "hook": "They added a cheap preservative to infant formula that caused kidney failure in thousands of newborns—and knew it for a decade.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 76,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "baby formula",
+      "toxic",
+      "kidney failure",
+      "pharmaceutical cover-up",
+      "infant poison"
+    ],
+    "overlap_check_hash": "316a54f04fb9c8b1",
+    "why_this_can_go_viral": "Infants are innocent. Poisoning them for profit provokes the highest level of moral outrage, fueling massive shares."
+  },
+  {
+    "unique_id": "health_0074_008_b57a51380865de3c",
+    "title": "The Suppressed Cure: $2 Honey Bandage Healed 90% of Burn Wounds",
+    "hook": "A simple, cheap honey dressing outperformed every expensive burn cream—but it was never mass-produced because it couldn't be patented.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 72,
+    "educational_value": 81,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "honey bandage",
+      "burn cure",
+      "suppressed",
+      "natural treatment",
+      "patent problem"
+    ],
+    "overlap_check_hash": "b57a51380865de3c",
+    "why_this_can_go_viral": "The 'Big Pharma blocks cheap cure' narrative is endlessly shareable. Honey as a miracle solution surprises viewers."
+  },
+  {
+    "unique_id": "health_0074_009_5d5209a0ddebf99d",
+    "title": "The Experiment That Gave 300 Mental Patients Uncontrollable Seizures for 'Science'",
+    "hook": "Doctors induced violent seizures in patients daily—not to help them, but to film the effects and sell the footage to research labs.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 96,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "seizure experiment",
+      "mental patients",
+      "unethical",
+      "medical abuse",
+      "human guinea pigs"
+    ],
+    "overlap_check_hash": "5d5209a0ddebf99d",
+    "why_this_can_go_viral": "Deliberately harming the vulnerable in pursuit of 'science' feels like a horror movie—viewers will need to see it to believe it."
+  },
+  {
+    "unique_id": "health_0074_010_36b89e4722a81d3e",
+    "title": "The Disease Cover-Up: How Office Water Coolers Caused 40% of Employee Migraines",
+    "hook": "A hidden mold inside water cooler tanks was triggering blinding headaches in office workers—and companies hid the link for years.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 74,
+    "educational_value": 77,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "water cooler",
+      "migraine",
+      "mold",
+      "office hazard",
+      "disease cover-up"
+    ],
+    "overlap_check_hash": "36b89e4722a81d3e",
+    "why_this_can_go_viral": "Office workers are the target audience; they'll immediately relate and share with coworkers, creating workplace buzz."
+  },
+  {
+    "unique_id": "health_0074_011_77ddd3bb1b3f2299",
+    "title": "The Pharmaceutical CEO Who Sold a Blood Thinner That Caused Internal Bleeding",
+    "hook": "He knew the drug turned blood into water in 1 in 20 patients—but he doubled the marketing budget instead of recalling it.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "blood thinner",
+      "internal bleeding",
+      "CEO corruption",
+      "drug recall",
+      "pharma scandal"
+    ],
+    "overlap_check_hash": "77ddd3bb1b3f2299",
+    "why_this_can_go_viral": "Blood thinners are widely prescribed; older viewers, the primary users, will feel personally threatened and share widely."
+  },
+  {
+    "unique_id": "health_0074_014_f2f8cb58cf3374b5",
+    "title": "The Hospital That Stored 500 Bodies in a Rented Truck to Hide Deaths",
+    "hook": "When the morgue filled up, they didn't stop operating—they stacked the dead in a refrigerated truck behind the parking lot.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 55,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "hospital deaths",
+      "body truck",
+      "morgue scandal",
+      "healthcare crime",
+      "dead patients"
+    ],
+    "overlap_check_hash": "f2f8cb58cf3374b5",
+    "why_this_can_go_viral": "Grotesque and macabre visuals (the 'truck of bodies') are highly shareable and irresistible in short-form video."
+  },
+  {
+    "unique_id": "health_0074_016_e88ebcac32f6ad4e",
+    "title": "The Experiment That Kept 200 Children in Solitary Confinement for Sensory Deprivation",
+    "hook": "Scientists locked orphans in dark, soundproof rooms for months to study sensory loss. Many never spoke again.",
+    "virality_score": 94,
+    "curiosity_gap_score": 95,
+    "darkness_score": 99,
+    "educational_value": 70,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "sensory deprivation",
+      "orphan experiment",
+      "solitary children",
+      "unethical research",
+      "child trauma"
+    ],
+    "overlap_check_hash": "e88ebcac32f6ad4e",
+    "why_this_can_go_viral": "The combination of children, darkness, silence, and lifelong trauma is one of the most emotionally potent hooks in existence."
+  },
+  {
+    "unique_id": "health_0074_017_b2c8656720d119ff",
+    "title": "The Doctor Who Prescribed Chemotherapy to 1,000 Patients Who Didn't Have Cancer",
+    "hook": "He told leukemia patients they needed chemo—but they had a mild infection that would clear on its own. He just wanted the insurance payout.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "fake chemo",
+      "false cancer",
+      "doctor scam",
+      "chemotherapy fraud",
+      "medical horror"
+    ],
+    "overlap_check_hash": "b2c8656720d119ff",
+    "why_this_can_go_viral": "The idea of being poisoned with chemotherapy for a disease you don't have is a nightmare scenario that every viewer will instantly fear."
+  },
+  {
+    "unique_id": "health_0074_018_7ddd9427e6df2376",
+    "title": "The Disease Cover-Up: How Hotel Air Conditioning Spread 30% of Legionnaires' Cases",
+    "hook": "Hotels knew their AC units bred the deadly Legionella bacteria—but fixing them was too expensive, so they just let guests get sick.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 78,
+    "educational_value": 76,
+    "estimated_short_retention": 77,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "Legionnaires",
+      "hotel AC",
+      "disease spread",
+      "cover-up",
+      "travel danger"
+    ],
+    "overlap_check_hash": "7ddd9427e6df2376",
+    "why_this_can_go_viral": "Travelers will immediately feel at risk; the hotel industry angle makes it easy to share with friends and family."
+  },
+  {
+    "unique_id": "health_0074_019_e23404a4f86e3281",
+    "title": "The Pharmaceutical CEO Who Faked Clinical Trial Data to Sell a Useless Cancer Drug",
+    "hook": "He literally invented 80% of the trial results, told the world the drug worked—and patients paid $120,000 for a sugar pill.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 87,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake trial",
+      "cancer drug",
+      "CEO fraud",
+      "clinical data",
+      "pharma scam"
+    ],
+    "overlap_check_hash": "e23404a4f86e3281",
+    "why_this_can_go_viral": "Cancer patients paying a fortune for fake hope is a deeply emotional and enraging story that demands to be seen."
+  },
+  {
+    "unique_id": "health_0074_020_457a5e8e2b2d6d6b",
+    "title": "The Experiment That Bred Super-Germs Inside 50 Healthy Volunteers",
+    "hook": "Scientists deliberately infected volunteers with antibiotic-resistant bacteria to observe how they died—without offering treatment.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 74,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "superbug",
+      "volunteer experiment",
+      "antibiotic resistant",
+      "unethical",
+      "bacteria infection"
+    ],
+    "overlap_check_hash": "457a5e8e2b2d6d6b",
+    "why_this_can_go_viral": "Superbugs are a growing public fear; the idea that researchers purposely created untreatable infections will terrify and fascinate."
+  },
+  {
+    "unique_id": "health_0074_021_6b09b61e07081d9a",
+    "title": "The Hospital That Billed Patients for 'Skin Tears' That Never Happened",
+    "hook": "A billing manager added 'skin tear treatment' to every patient invoice—even those in comas. It was a $40 million fraud before anyone noticed.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 73,
+    "educational_value": 62,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "hospital billing",
+      "fraud",
+      "skin tear",
+      "medical scam",
+      "overcharge"
+    ],
+    "overlap_check_hash": "6b09b61e07081d9a",
+    "why_this_can_go_viral": "Medical billing is universally hated. The audacity of billing for fake skin tears will strike a chord with anyone who's dealt with insurance."
+  },
+  {
+    "unique_id": "health_0074_022_06681ffc3b81d0fe",
+    "title": "The FDA-Approved Painkiller That Was Just a Repackaged Heroin Derivative",
+    "hook": "The chemical structure was almost identical to heroin—but the FDA called it a 'safe, non-addictive alternative.' It hooked millions.",
+    "virality_score": 87,
+    "curiosity_gap_score": 88,
+    "darkness_score": 86,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "painkiller",
+      "heroin",
+      "FDA",
+      "addiction",
+      "opioid scandal"
+    ],
+    "overlap_check_hash": "06681ffc3b81d0fe",
+    "why_this_can_go_viral": "The opioid crisis is still raw. Revealing an approved drug as 'legal heroin' directly ties to a massive ongoing tragedy."
+  },
+  {
+    "unique_id": "health_0074_023_44ce999de1e2fc00",
+    "title": "The Doctor Who Sold Fake HIV Treatments to 5,000 Desperate Patients",
+    "hook": "He sold them a common vitamin as a 'highly potent antiretroviral'—and when they died, he blamed them for not taking it correctly.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 73,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "HIV",
+      "fake treatment",
+      "doctor scam",
+      "vitamin",
+      "patient exploitation"
+    ],
+    "overlap_check_hash": "44ce999de1e2fc00",
+    "why_this_can_go_viral": "Exploiting the most vulnerable HIV patients with a fake cure is both infuriating and shocking, driving emotional shares."
+  },
+  {
+    "unique_id": "health_0074_024_79793072425e7b15",
+    "title": "The Suppressed Cure: $1 Salt Water Solution Cut Hospital Infection Rates by 60%",
+    "hook": "A simple saline rinse used twice daily killed more bacteria than all the expensive antiseptics combined—but hospitals refused to adopt it.",
+    "virality_score": 82,
+    "curiosity_gap_score": 84,
+    "darkness_score": 71,
+    "educational_value": 80,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "saline",
+      "hospital infection",
+      "suppressed cure",
+      "simple solution",
+      "cheap cure"
+    ],
+    "overlap_check_hash": "79793072425e7b15",
+    "why_this_can_go_viral": "The 'simple solution ignored by profit-driven institutions' narrative is a viral goldmine, especially post-pandemic."
+  },
+  {
+    "unique_id": "health_0074_025_a222348989370aea",
+    "title": "The Pharmaceutical Company That Sold a Cold Medicine Causing Hallucinations in Children",
+    "hook": "Kids saw spiders crawling on their skin and talked to imaginary monsters—but the company blamed 'hysteria' for three years.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 84,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "cold medicine",
+      "hallucinations",
+      "children",
+      "toxic drug",
+      "cover-up"
+    ],
+    "overlap_check_hash": "a222348989370aea",
+    "why_this_can_go_viral": "Parents will immediately share this; the image of a child seeing spiders from a 'safe' medicine is viscerally alarming."
+  }
+]

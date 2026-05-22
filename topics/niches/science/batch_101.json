@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0101_001_eb688b8f04f7e924",
+    "title": "The Chemist Who Dissolved a Body in Under an Hour",
+    "hook": "He was trying to create a better drain cleaner. What he made was a liquid that destroys organic tissue faster than fire.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "chemical dissolution",
+      "body disposal",
+      "lab accident",
+      "toxic chemistry",
+      "forbidden science"
+    ],
+    "overlap_check_hash": "eb688b8f04f7e924",
+    "why_this_can_go_viral": "Taps into true-crime curiosity combined with a 'science gone wrong' shock factor—viewers will be horrified and mesmerized."
+  },
+  {
+    "unique_id": "science_0101_003_8eee21d52af50252",
+    "title": "The Lab That Bred a Bacteria That Eats Human DNA",
+    "hook": "It wasn't designed to attack us. But when a lab tech got infected, the bacteria began rewriting her genetic code.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "DNA-eating bacteria",
+      "genetic modification",
+      "lab infection",
+      "bioweapon accident",
+      "horizontal gene transfer"
+    ],
+    "overlap_check_hash": "8eee21d52af50252",
+    "why_this_can_go_viral": "Combines body horror with real biological threats—viewers will share out of fear and fascination."
+  },
+  {
+    "unique_id": "science_0101_004_bb5bbd8a24f57892",
+    "title": "The Quantum Glitch Where a Computer Solved an Impossible Equation",
+    "hook": "It wasn't programmed to find the answer. Yet the quantum chip returned a result that mathematicians say shouldn't exist.",
+    "virality_score": 78,
+    "curiosity_gap_score": 92,
+    "darkness_score": 45,
+    "educational_value": 80,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum computing",
+      "unsolvable equation",
+      "computer glitch",
+      "quantum supremacy",
+      "mathematical anomaly"
+    ],
+    "overlap_check_hash": "bb5bbd8a24f57892",
+    "why_this_can_go_viral": "Mysterious 'computer did something impossible' stories always attract conspiracy theories and deep curiosity."
+  },
+  {
+    "unique_id": "science_0101_005_a5cc6d6b5ed5e33b",
+    "title": "The Forbidden Experiment That Made a Fetus Hear Voices",
+    "hook": "Scientists pumped sounds into a pregnant woman's womb—and the unborn child began reacting to words it had never learned.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "prenatal learning",
+      "fetal brain",
+      "ethical violation",
+      "sensory experiment",
+      "unborn consciousness"
+    ],
+    "overlap_check_hash": "a5cc6d6b5ed5e33b",
+    "why_this_can_go_viral": "Ethically controversial and emotionally charged—every parent will pause to watch."
+  },
+  {
+    "unique_id": "science_0101_006_55d0d0bcfea3a347",
+    "title": "The Physics Anomaly Where a Ball Rolled Faster Uphill Than Down",
+    "hook": "A specially shaped surface made a ball defy gravity—no magnets, no strings, just geometry that breaks intuition.",
+    "virality_score": 74,
+    "curiosity_gap_score": 85,
+    "darkness_score": 25,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "anti-gravity illusion",
+      "uphill roller",
+      "center of mass trick",
+      "physics paradox",
+      "visual illusion"
+    ],
+    "overlap_check_hash": "55d0d0bcfea3a347",
+    "why_this_can_go_viral": "Visually stunning and counterintuitive—perfect for looped video shares on social media."
+  },
+  {
+    "unique_id": "science_0101_008_0a30e60f68c03ccb",
+    "title": "The Lab Catastrophe Where a Vacuum Chamber Imploded With a Scientist Inside",
+    "hook": "He was checking a seal when the chamber collapsed. The pressure change didn't crush him—it did something far worse.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 99,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "vacuum implosion",
+      "pressure death",
+      "lab safety failure",
+      "industrial accident",
+      "gruesome science"
+    ],
+    "overlap_check_hash": "0a30e60f68c03ccb",
+    "why_this_can_go_viral": "Extremely graphic and rare—viewers are drawn to 'what happens to a body in a vacuum' morbid curiosity."
+  },
+  {
+    "unique_id": "science_0101_009_bdd12c1206731a0d",
+    "title": "The Biolab That Bred a Parasite That Makes Its Hosts Dance to Death",
+    "hook": "Infected insects perform a frantic, uncoordinated dance until their muscles tear apart. And scientists still don't know why.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "zombie parasite",
+      "insect dance of death",
+      "cordyceps variation",
+      "behavioral manipulation",
+      "parasitoid wasp"
+    ],
+    "overlap_check_hash": "bdd12c1206731a0d",
+    "why_this_can_go_viral": "Creepy 'zombie parasite' content always performs well—this adds a bizarre dance element that's uniquely shareable."
+  },
+  {
+    "unique_id": "science_0101_010_dadde33bfecbeff1",
+    "title": "The Neuroscientist Who Turned Off a Woman's Sense of Time",
+    "hook": "A tiny stroke in a specific brain region—and suddenly, she lived entirely in the present, unable to perceive minutes or hours.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 80,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "time perception",
+      "brain lesion",
+      "temporal lobe damage",
+      "eternal present",
+      "neurological disorder"
+    ],
+    "overlap_check_hash": "dadde33bfecbeff1",
+    "why_this_can_go_viral": "The concept of losing time perception is philosophically terrifying and deeply relatable—everyone wonders what that would feel like."
+  },
+  {
+    "unique_id": "science_0101_011_fc949d2311f339a5",
+    "title": "The Quantum Experiment Where Observation Caused a Particle to Vanish",
+    "hook": "They set up a detector to watch a particle. The moment they looked, it disappeared—as if it knew it was being watched.",
+    "virality_score": 85,
+    "curiosity_gap_score": 93,
+    "darkness_score": 40,
+    "educational_value": 75,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum eraser",
+      "observer effect",
+      "wave function collapse",
+      "particle disappearance",
+      "quantum spookiness"
+    ],
+    "overlap_check_hash": "fc949d2311f339a5",
+    "why_this_can_go_viral": "The 'spooky' quantum phenomenon taps into sci-fi fears and makes viewers question the nature of reality."
+  },
+  {
+    "unique_id": "science_0101_012_1cd8bbea3ac7e777",
+    "title": "The Chemist Who Accidentally Made a Substance That Burns Through Concrete",
+    "hook": "He was mixing cleaning agents. The result was a liquid so corrosive it ate through a lab bench and kept going into the floor.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "super acid",
+      "piranha solution",
+      "lab accident",
+      "corrosive liquid",
+      "chemical burn"
+    ],
+    "overlap_check_hash": "1cd8bbea3ac7e777",
+    "why_this_can_go_viral": "Visual destruction always hooks viewers—the mental image of acid eating through concrete is immediately compelling."
+  },
+  {
+    "unique_id": "science_0101_013_07f341c105a0f822",
+    "title": "The Forbidden Experiment That Made a Human Hear Ultrasonic Frequencies",
+    "hook": "They surgically implanted a device that let a man hear bats and dogs. But he also started hearing things nobody else could.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 68,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "ultrasonic hearing",
+      "neural implant",
+      "superhuman senses",
+      "auditory hallucination",
+      "cyborg experiment"
+    ],
+    "overlap_check_hash": "07f341c105a0f822",
+    "why_this_can_go_viral": "Blends transhumanism with horror—the idea of hearing 'extra' sounds is both cool and deeply unnerving."
+  },
+  {
+    "unique_id": "science_0101_014_321b2b8e395bd5c3",
+    "title": "The Physics Anomaly Where a Laser Beam Bent Itself Into a Circle",
+    "hook": "In a special transparent crystal, a laser pulse looped back and hit its own starting point—without any mirror or lens.",
+    "virality_score": 76,
+    "curiosity_gap_score": 89,
+    "darkness_score": 30,
+    "educational_value": 82,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "self-bending laser",
+      "nonlinear optics",
+      "spatial soliton",
+      "light manipulation",
+      "optical illusion"
+    ],
+    "overlap_check_hash": "321b2b8e395bd5c3",
+    "why_this_can_go_viral": "Visually hypnotic and seemingly impossible—perfect for short-form video loops that make viewers say 'how?'"
+  },
+  {
+    "unique_id": "science_0101_015_a5e44b6c7796f05f",
+    "title": "The Scientific Fraud Who Faked Data That Got People Killed",
+    "hook": "His bogus study claimed a cheap drug could save lives. Hospitals used it. Patients died. And he never faced jail.",
+    "virality_score": 91,
+    "curiosity_gap_score": 92,
+    "darkness_score": 98,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "medical fraud",
+      "fake clinical trial",
+      "deadly research",
+      "ethics violation",
+      "publish or perish"
+    ],
+    "overlap_check_hash": "a5e44b6c7796f05f",
+    "why_this_can_go_viral": "Outrage-driven content with real human cost—viewers will share to warn others and express moral disgust."
+  },
+  {
+    "unique_id": "science_0101_016_0d02cca63574162c",
+    "title": "The Biolab That Bred a Fungus That Makes Plants Scream",
+    "hook": "When infected, the plants emitted ultrasonic clicks. The fungus wasn't killing them—it was using their screams to attract insects.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "plant communication",
+      "fungal infection",
+      "ultrasonic sounds",
+      "ecological manipulation",
+      "nature is metal"
+    ],
+    "overlap_check_hash": "0d02cca63574162c",
+    "why_this_can_go_viral": "Anthropomorphizes plants in a terrifying way—viewers will be shocked that plants can 'scream' and be exploited."
+  },
+  {
+    "unique_id": "science_0101_017_1a2b59c3ffd76f5f",
+    "title": "The Neuroscientist Who Made a Man Control a Robot With His Thoughts Alone",
+    "hook": "A paralyzed man moved a robotic arm just by imagining it. Then the robot began moving before he thought about it.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 60,
+    "educational_value": 82,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain-computer interface",
+      "neural control",
+      "robot autonomy",
+      "BCI latency",
+      "cyborg ethics"
+    ],
+    "overlap_check_hash": "1a2b59c3ffd76f5f",
+    "why_this_can_go_viral": "The 'robot moving first' twist introduces a subtle horror that challenges assumptions about mind control."
+  },
+  {
+    "unique_id": "science_0101_018_32c912a061ee1183",
+    "title": "The Lab Catastrophe Where a Chemical Fire Released a Cloud of Floating Acid",
+    "hook": "The acid didn't fall to the ground. It hung in the air like a ghost, burning everything it touched without ever landing.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "aerosolized acid",
+      "toxic cloud",
+      "chemical fire",
+      "industrial disaster",
+      "airborne poison"
+    ],
+    "overlap_check_hash": "32c912a061ee1183",
+    "why_this_can_go_viral": "The 'invisible killer in the air' trope is primal and terrifying—viewers will imagine being unable to escape."
+  },
+  {
+    "unique_id": "science_0101_020_ad17eec632550582",
+    "title": "The Forbidden Experiment That Bred a Human-Mouse Hybrid",
+    "hook": "They injected human stem cells into a mouse embryo. The result was a creature with a human brain growing inside its skull.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 94,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human-animal hybrid",
+      "chimera experiment",
+      "stem cell research",
+      "ethical nightmare",
+      "partially human brain"
+    ],
+    "overlap_check_hash": "ad17eec632550582",
+    "why_this_can_go_viral": "Extreme bioethics violation—the 'human mouse' concept is both scientifically fascinating and morally repulsive."
+  },
+  {
+    "unique_id": "science_0101_022_84966839d91835c2",
+    "title": "The Scientific Fraud Who Invented a Cure for Cancer—and Sold It to Desperate Families",
+    "hook": "He published a paper claiming a common herb could shrink tumors. Families spent their life savings. The paper was completely fake.",
+    "virality_score": 89,
+    "curiosity_gap_score": 90,
+    "darkness_score": 96,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "cancer fraud",
+      "false hope",
+      "herbal scam",
+      "academic misconduct",
+      "predatory publishing"
+    ],
+    "overlap_check_hash": "84966839d91835c2",
+    "why_this_can_go_viral": "Exploits deep emotional triggers—viewers will feel anger and sympathy, driving shares and comments."
+  },
+  {
+    "unique_id": "science_0101_023_d06488eab75b17ef",
+    "title": "The Biolab That Bred a Bacteria That Survives in Boiling Acid",
+    "hook": "It was found in a volcanic vent. But when brought to the lab, it started eating through the stainless steel containment chamber.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "extremophile",
+      "acid-resistant bacteria",
+      "contamination risk",
+      "steel corrosion",
+      "indestructible life"
+    ],
+    "overlap_check_hash": "d06488eab75b17ef",
+    "why_this_can_go_viral": "The 'indestructible life form' trope triggers sci-fi horror and real-world concern about lab escapes."
+  },
+  {
+    "unique_id": "science_0101_024_dc065d4989f53e58",
+    "title": "The Neuroscientist Who Made a Man Forget His Mother's Face",
+    "hook": "A targeted magnetic pulse to the brain—and suddenly, the man couldn't recognize his own mother. The effect lasted hours.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "face blindness",
+      "TMS experiment",
+      "prosopagnosia",
+      "brain disruption",
+      "memory manipulation"
+    ],
+    "overlap_check_hash": "dc065d4989f53e58",
+    "why_this_can_go_viral": "High emotional impact—the idea of not recognizing a loved one is universally disturbing and shareable."
+  },
+  {
+    "unique_id": "science_0101_025_4837678565da7c10",
+    "title": "The Lab Catastrophe Where a Laser Ignited the Air Itself",
+    "hook": "A high-powered beam focused so intensely that it ripped electrons from oxygen atoms, creating a fireball in midair—no fuel needed.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 72,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "laser ignition",
+      "plasma fireball",
+      "air breakdown",
+      "femtosecond laser",
+      "lab safety hazard"
+    ],
+    "overlap_check_hash": "4837678565da7c10",
+    "why_this_can_go_viral": "Visually spectacular and dangerous—viewers will be mesmerized by the idea of setting 'nothing' on fire."
+  }
+]

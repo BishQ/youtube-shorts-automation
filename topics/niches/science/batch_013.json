@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "science_0013_001_53d25456499d1581",
+    "title": "The Chemist Who Synthesized a Molecule That Erased His Own Identity",
+    "hook": "He created a compound designed to wipe traumatic memories in rats, but after a lab accident, he forgot who he was—permanently.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "memory erasure",
+      "lab accident",
+      "identity loss",
+      "neurochemistry",
+      "forbidden compound"
+    ],
+    "overlap_check_hash": "53d25456499d1581",
+    "why_this_can_go_viral": "The horror of losing your own identity from your own creation taps into deep fears of self-destruction and the dangers of playing god in chemistry."
+  },
+  {
+    "unique_id": "science_0013_002_83cb6366b489f6df",
+    "title": "The Lab That Grew a Human Ear on a Rat's Back—And Kept It Alive",
+    "hook": "Scientists successfully grew a human ear using cartilage cells, implanted on a rat to test blood supply—and it lived for months.",
+    "virality_score": 80,
+    "curiosity_gap_score": 82,
+    "darkness_score": 65,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human ear",
+      "rat back",
+      "bioengineering",
+      "tissue growth",
+      "living implant"
+    ],
+    "overlap_check_hash": "83cb6366b489f6df",
+    "why_this_can_go_viral": "Visually shocking and ethically gray, this experiment blurs the line between animal and human, triggering both awe and disgust."
+  },
+  {
+    "unique_id": "science_0013_003_c86affde29194280",
+    "title": "The Researcher Who Faked a Map of the Brain's 'Soul Center'",
+    "hook": "He claimed to have located the part of the brain responsible for consciousness—but it was all fabricated to secure funding.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 72,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "brain map",
+      "soul center",
+      "consciousness fraud",
+      "neuroscience fake",
+      "funding scam"
+    ],
+    "overlap_check_hash": "c86affde29194280",
+    "why_this_can_go_viral": "The idea that a scientist could fake the seat of the soul plays into distrust of institutions and the eternal mystery of consciousness."
+  },
+  {
+    "unique_id": "science_0013_004_fde88e3c5d7371a3",
+    "title": "The Physicist Who Found a Glitch Where Particles Defy Entropy—Then Died Mysteriously",
+    "hook": "He discovered a quantum system where particles seemed to reverse entropy, creating order from chaos—and was found dead in his lab a week later.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "entropy reversal",
+      "quantum glitch",
+      "mysterious death",
+      "time reversal",
+      "suppressed discovery"
+    ],
+    "overlap_check_hash": "fde88e3c5d7371a3",
+    "why_this_can_go_viral": "Combines a physics anomaly that breaks a fundamental law with a suspicious death, feeding conspiracy theories and curiosity about hidden truths."
+  },
+  {
+    "unique_id": "science_0013_005_e9c663abd3ec9b91",
+    "title": "The Chemical That Turns Your Blood Into Gel—While Your Heart Still Beats",
+    "hook": "A single drop of this polymer triggers instant blood coagulation, turning your circulatory system into a solid mass—while you're still conscious.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "blood gel",
+      "instant coagulation",
+      "polymer disaster",
+      "circulatory failure",
+      "conscious paralysis"
+    ],
+    "overlap_check_hash": "e9c663abd3ec9b91",
+    "why_this_can_go_viral": "The visceral horror of your own blood turning solid while you're awake is universally terrifying and highly shareable."
+  },
+  {
+    "unique_id": "science_0013_007_3329d65624551830",
+    "title": "The Neuroscientist Who Stimulated a Man's Brain and Made Him See Dead People",
+    "hook": "By targeting a specific region of the temporal lobe, a researcher triggered vivid hallucinations of deceased relatives—and the patient never forgot them.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "ghost vision",
+      "temporal lobe",
+      "hallucination",
+      "dead relatives",
+      "brain stimulation"
+    ],
+    "overlap_check_hash": "3329d65624551830",
+    "why_this_can_go_viral": "Taps into the universal fear and fascination with death and the afterlife, suggesting spirits may just be electrical signals."
+  },
+  {
+    "unique_id": "science_0013_011_da4b3b962411ac46",
+    "title": "The Virus That Rewrites Your DNA and Silences Your Past Self",
+    "hook": "A retrovirus can integrate itself into your genome, permanently altering your immune memory—and you'll never recognize your own body again.",
+    "virality_score": 83,
+    "curiosity_gap_score": 85,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "retrovirus",
+      "DNA rewriting",
+      "immune memory",
+      "body transformation",
+      "genetic parasite"
+    ],
+    "overlap_check_hash": "da4b3b962411ac46",
+    "why_this_can_go_viral": "The idea that a virus can make you forget your own biology is deeply unsettling and taps into fears of losing identity."
+  },
+  {
+    "unique_id": "science_0013_012_efbb8feac8f66310",
+    "title": "The Physicist Who Found a Particle That Only Moves When No One Watches",
+    "hook": "In a variant of the quantum Zeno effect, a physicist discovered a particle that remained stationary under observation but moved freely when unobserved.",
+    "virality_score": 77,
+    "curiosity_gap_score": 89,
+    "darkness_score": 15,
+    "educational_value": 82,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum Zeno",
+      "watcher effect",
+      "particle movement",
+      "consciousness",
+      "quantum measurement"
+    ],
+    "overlap_check_hash": "efbb8feac8f66310",
+    "why_this_can_go_viral": "Reality behaving differently when you look vs. not look is a mind-blowing concept that feels like magic, perfect for short-form engagement."
+  },
+  {
+    "unique_id": "science_0013_013_a0491690bda7125c",
+    "title": "The Researcher Who Planted a False Organ in Medical Textbooks for Decades",
+    "hook": "A scientist deliberately described a non-existent gland in the human body, and it was taught as fact for over 30 years before anyone caught the lie.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "false organ",
+      "medical fraud",
+      "textbook lie",
+      "phantom gland",
+      "decades of deception"
+    ],
+    "overlap_check_hash": "a0491690bda7125c",
+    "why_this_can_go_viral": "Exposes the fallibility of science and the audacity of a single fraudster to rewrite human anatomy—a shocking betrayal of trust."
+  },
+  {
+    "unique_id": "science_0013_014_01c32367e6cf848b",
+    "title": "The Chemical Spill That Gave a Town Birds That Glowed in the Dark",
+    "hook": "After a factory leak of radioactive phosphorus, local birds were found glowing faintly at night—and no one knew if it was safe to eat them.",
+    "virality_score": 79,
+    "curiosity_gap_score": 81,
+    "darkness_score": 72,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "glowing birds",
+      "radioactive spill",
+      "phosphorus leak",
+      "environmental disaster",
+      "mutated wildlife"
+    ],
+    "overlap_check_hash": "01c32367e6cf848b",
+    "why_this_can_go_viral": "A hauntingly beautiful yet toxic image that blends environmental horror with surreal visuals, perfect for shock and awe shares."
+  },
+  {
+    "unique_id": "science_0013_015_1ae6ea6d0df0f10e",
+    "title": "The Neuroscientist Who Made Patients Remember Past Lives—Through Electrodes",
+    "hook": "By stimulating the hippocampus, a researcher induced vivid, fabricated memories of being other people in different eras—and patients believed them completely.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "past lives",
+      "memory fabrication",
+      "hippocampus",
+      "false memory",
+      "electrode stimulation"
+    ],
+    "overlap_check_hash": "1ae6ea6d0df0f10e",
+    "why_this_can_go_viral": "Suggests that one of the most profound human beliefs (reincarnation) could be a mere electrical trick, challenging spiritual worldviews."
+  },
+  {
+    "unique_id": "science_0013_016_bf5b7143bea20b97",
+    "title": "The Quantum Computer That Crashed When It Calculated Infinity",
+    "hook": "A quantum processor attempting a complex calculation hit a mathematical singularity—and the system output random noise before shutting down permanently.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 35,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "quantum crash",
+      "infinity calculation",
+      "singularity",
+      "computer meltdown",
+      "mathematical glitch"
+    ],
+    "overlap_check_hash": "bf5b7143bea20b97",
+    "why_this_can_go_viral": "The idea that a machine can 'break' by confronting infinity is sci-fi turned real, sparking awe and fear of advanced AI."
+  },
+  {
+    "unique_id": "science_0013_017_df5bf7ee462d7403",
+    "title": "The Biologist Who Engineered a Fish That Lives Outside Water—For Hours",
+    "hook": "By modifying gill tissue to absorb atmospheric oxygen, a lab created a fish that could survive on land for up to 10 hours before suffocating.",
+    "virality_score": 76,
+    "curiosity_gap_score": 79,
+    "darkness_score": 55,
+    "educational_value": 70,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "land fish",
+      "gills modified",
+      "air breathing",
+      "genetic engineering",
+      "evolution hack"
+    ],
+    "overlap_check_hash": "df5bf7ee462d7403",
+    "why_this_can_go_viral": "A real-life step toward land animals, this blurs the line between species and raises ethical questions about playing with evolution."
+  },
+  {
+    "unique_id": "science_0013_018_8186ff482f6b0421",
+    "title": "The Chemist Who Died After Synthesizing a Toxic Compound That Smelled Like Roses",
+    "hook": "He created a beautiful-smelling chemical with a note of rose, only to discover that the aroma was masking a lethal nerve agent—too late.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "rose scent",
+      "nerve agent",
+      "toxic perfume",
+      "lethal synthesis",
+      "pleasant poison"
+    ],
+    "overlap_check_hash": "8186ff482f6b0421",
+    "why_this_can_go_viral": "The contrast between pleasant smell and deadly poison is a classic tragedy that resonates with the danger of beauty in science."
+  },
+  {
+    "unique_id": "science_0013_019_361490412395ec71",
+    "title": "The Soviet Experiment That Froze a Man to -30°C and Brought Him Back",
+    "hook": "In a hyperthermia experiment, a human subject was cooled until his heart stopped and his blood was nearly solid—then revived with no brain damage.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "human freezing",
+      "hyperthermia",
+      "Soviet experiment",
+      "cryopreservation",
+      "near death revival"
+    ],
+    "overlap_check_hash": "361490412395ec71",
+    "why_this_can_go_viral": "Pushes the boundaries of life and death, evoking fear of extreme cold and fascination with human resilience."
+  },
+  {
+    "unique_id": "science_0013_020_90b0bc2fe68bff35",
+    "title": "The Researcher Who Faked Data on Cannibalism in Prehistoric Humans",
+    "hook": "A paleoanthropologist fabricated evidence of ritual cannibalism to support his theory—and the fake became a leading textbook example for years.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "cannibalism fake",
+      "prehistoric fraud",
+      "paleoanthropology",
+      "false evidence",
+      "textbook lie"
+    ],
+    "overlap_check_hash": "90b0bc2fe68bff35",
+    "why_this_can_go_viral": "Combines a macabre subject (cannibalism) with academic fraud, tapping into both morbid curiosity and distrust of science."
+  },
+  {
+    "unique_id": "science_0013_021_4447f60c0af277b1",
+    "title": "The Physicist Who Proved That a Cat Can Be Both Alive and Dead—Then Found a Real Case",
+    "hook": "A quantum physicist designed a macroscopic object that existed in two states simultaneously, mirroring Schrödinger's cat—and it lasted for minutes.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 25,
+    "educational_value": 82,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "Schrödinger's cat",
+      "superposition",
+      "macroscopic quantum",
+      "alive and dead",
+      "real experiment"
+    ],
+    "overlap_check_hash": "4447f60c0af277b1",
+    "why_this_can_go_viral": "Bringing a famous thought experiment to life is inherently intriguing and challenges everyday notions of reality."
+  },
+  {
+    "unique_id": "science_0013_022_d12a097ed099abaf",
+    "title": "The Lab That Unleashed a Moth That Eats Plastic—And Now It Won't Stop",
+    "hook": "A genetically modified moth escaped a lab and began consuming polyethylene, breeding exponentially—and no one can contain it.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 70,
+    "educational_value": 68,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "plastic eating moth",
+      "GM escape",
+      "invasive species",
+      "environmental disaster",
+      "uncontrollable"
+    ],
+    "overlap_check_hash": "d12a097ed099abaf",
+    "why_this_can_go_viral": "A real-life science horror story where a 'good' invention becomes an uncontrollable plague, perfect for dystopian storytelling."
+  },
+  {
+    "unique_id": "science_0013_023_aba0dccb8e9f6dcd",
+    "title": "The Neurotoxin That Wipes Your Fear of Death—And Makes You Reckless",
+    "hook": "A compound extracted from a rare frog destroys the amygdala's fear response in humans, leaving subjects with zero survival instinct.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 84,
+    "educational_value": 73,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fear removal",
+      "amygdala",
+      "neurotoxin",
+      "frog poison",
+      "recklessness"
+    ],
+    "overlap_check_hash": "aba0dccb8e9f6dcd",
+    "why_this_can_go_viral": "The idea of losing fear entirely is both liberating and terrifying, tapping into deep evolutionary instincts for self-preservation."
+  },
+  {
+    "unique_id": "science_0013_024_64f4940930827a95",
+    "title": "The Chemist Who Discovered a Liquid That Dissolves Bone—But Not Flesh",
+    "hook": "A solvent was found that could selectively dissolve calcium, leaving soft tissue intact—a nightmare for anyone who handled it wrong.",
+    "virality_score": 83,
+    "curiosity_gap_score": 85,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "bone solvent",
+      "selective dissolution",
+      "calcium remover",
+      "chemical horror",
+      "soft tissue preserved"
+    ],
+    "overlap_check_hash": "64f4940930827a95",
+    "why_this_can_go_viral": "Visualizing a body that collapses into a bag of skin and organs is pure body horror, guaranteed to shock and be shared."
+  }
+]

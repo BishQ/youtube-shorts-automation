@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "health_0128_003_34a6a192cc781a7c",
+    "title": "The Hospital That Stole 100,000 Gallons of Blood for Profit",
+    "hook": "They sold donated blood to private clinics — but never told the donors.",
+    "virality_score": 78,
+    "curiosity_gap_score": 80,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "blood theft",
+      "hospital corruption",
+      "blood donation scam",
+      "medical black market",
+      "hospital profit"
+    ],
+    "overlap_check_hash": "34a6a192cc781a7c",
+    "why_this_can_go_viral": "Taps into universal trust in blood donation, then shatters it — high emotional shock value."
+  },
+  {
+    "unique_id": "health_0128_005_126059aace065805",
+    "title": "The Cancer Treatment That Was Actually Industrial-Grade Rat Poison",
+    "hook": "It was sold as 'alternative therapy' — patients drank it convinced it would save them.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "fake cancer cure",
+      "rat poison",
+      "alternative medicine scam",
+      "cancer fraud",
+      "toxic treatment"
+    ],
+    "overlap_check_hash": "126059aace065805",
+    "why_this_can_go_viral": "Desperation of cancer patients exploited — triggers rage and pity, highly shareable."
+  },
+  {
+    "unique_id": "health_0128_006_8a2bb0b8d02c602c",
+    "title": "The Multi-Billion Dollar Drug That Was 90% Floor Wax",
+    "hook": "It was a blockbuster cholesterol medication — until lab tests revealed the truth.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 81,
+    "educational_value": 76,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake drug",
+      "cholesterol scam",
+      "pharma fraud",
+      "floor wax",
+      "big pharma lies"
+    ],
+    "overlap_check_hash": "8a2bb0b8d02c602c",
+    "why_this_can_go_viral": "Gap between billion-dollar drug and floor wax is absurd and enraging; perfect for exposure content."
+  },
+  {
+    "unique_id": "health_0128_007_1c17634b57a36a87",
+    "title": "The Plastic Surgeon Who Used Tire Rubber as Implants",
+    "hook": "Patients paid thousands for 'silicone' implants — they were filled with shredded tires.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 93,
+    "educational_value": 68,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "fake implants",
+      "tire rubber",
+      "plastic surgery disaster",
+      "cosmetic scam",
+      "black market surgery"
+    ],
+    "overlap_check_hash": "1c17634b57a36a87",
+    "why_this_can_go_viral": "Body horror meets consumer fraud; people love medical nightmare stories with a 'how did this happen' angle."
+  },
+  {
+    "unique_id": "health_0128_008_619e6b978ded9e28",
+    "title": "The Painkiller That Turned Patients' Bones to Gelatin",
+    "hook": "It was prescribed for arthritis — users' bones softened until they couldn't stand.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 91,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "bone softening",
+      "painkiller disaster",
+      "FDA failure",
+      "arthritis drug horror",
+      "drug side effects"
+    ],
+    "overlap_check_hash": "619e6b978ded9e28",
+    "why_this_can_go_viral": "The phrase 'bones turned to gelatin' is grotesquely vivid; medical trust shattered instantly."
+  },
+  {
+    "unique_id": "health_0128_009_c1bfe69893d31b85",
+    "title": "The Hospital That Operated on the Wrong Patient 100 Times",
+    "hook": "They didn't check IDs — patients woke up with scars from surgeries they never needed.",
+    "virality_score": 77,
+    "curiosity_gap_score": 79,
+    "darkness_score": 84,
+    "educational_value": 65,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "wrong patient surgery",
+      "hospital error",
+      "medical negligence",
+      "surgical mistake",
+      "patient safety"
+    ],
+    "overlap_check_hash": "c1bfe69893d31b85",
+    "why_this_can_go_viral": "Universal fear of being operated on by mistake; story is both absurd and terrifying."
+  },
+  {
+    "unique_id": "health_0128_010_285d926f1603b01f",
+    "title": "The Doctor Who Prescribed Chemotherapy for a Cold",
+    "hook": "He gave cancer-level doses of chemo to healthy patients — and called it 'preventative care.'",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 94,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "chemotherapy abuse",
+      "fake treatment",
+      "doctor fraud",
+      "medical malpractice",
+      "healthcare horror"
+    ],
+    "overlap_check_hash": "285d926f1603b01f",
+    "why_this_can_go_viral": "The idea of healthy people getting chemo is viscerally shocking; outrage and disbelief drive shares."
+  },
+  {
+    "unique_id": "health_0128_011_e49738904bb0de10",
+    "title": "The ‘Natural’ Supplement That Was 100% Crushed Antidepressants",
+    "hook": "It was sold as 'herbal anxiety relief' — actually just repackaged prescription pills.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 80,
+    "educational_value": 71,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake supplement",
+      "herbal scam",
+      "antidepressant fraud",
+      "natural remedy lie",
+      "supplement corruption"
+    ],
+    "overlap_check_hash": "e49738904bb0de10",
+    "why_this_can_go_viral": "Exposes the unregulated supplement industry; people feel personally at risk — high engagement."
+  },
+  {
+    "unique_id": "health_0128_012_5e38411be3f9477c",
+    "title": "The Clinical Trial That Infected Patients with Rabies Virus",
+    "hook": "Researchers injected live rabies into humans to 'see what would happen.'",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "rabies injection",
+      "human experiment",
+      "clinical trial horror",
+      "unethical research",
+      "deadly virus"
+    ],
+    "overlap_check_hash": "5e38411be3f9477c",
+    "why_this_can_go_viral": "Rabies is 99.9% fatal — injecting it is pure evil; the clip would be impossible to scroll past."
+  },
+  {
+    "unique_id": "health_0128_013_92aaa0842614df5e",
+    "title": "The Bandage That Fused to Skin and Had to Be Cut Off",
+    "hook": "It was marketed as 'advanced healing' — but it chemically bonded to flesh.",
+    "virality_score": 76,
+    "curiosity_gap_score": 78,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "bandage disaster",
+      "skin fusion",
+      "medical product failure",
+      "wound care horror",
+      "product cover-up"
+    ],
+    "overlap_check_hash": "92aaa0842614df5e",
+    "why_this_can_go_viral": "Visceral physical horror and product failure — people love medical product nightmares."
+  },
+  {
+    "unique_id": "health_0128_015_479a4bf1323f5ffd",
+    "title": "The Doctor Who Gave Patients Placebo Surgeries While Collecting Millions",
+    "hook": "He cut open patients, pretended to operate, then stitched them back up — for profit.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 74,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "placebo surgery",
+      "fake operation",
+      "surgeon fraud",
+      "medical scam",
+      "unnecessary surgery"
+    ],
+    "overlap_check_hash": "479a4bf1323f5ffd",
+    "why_this_can_go_viral": "The sheer audacity shocks people; 'cut open and sewn shut for nothing' is visceral and maddening."
+  },
+  {
+    "unique_id": "health_0128_016_ce4022643bd01fdf",
+    "title": "The FDA-Approved Heart Drug That Caused Your Pulse to Stop",
+    "hook": "It was meant to regulate heartbeat — instead, it triggered cardiac arrest in 1 in 50 users.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "heart drug death",
+      "FDA approved killer",
+      "cardiac arrest drug",
+      "medication horror",
+      "drug side effects"
+    ],
+    "overlap_check_hash": "ce4022643bd01fdf",
+    "why_this_can_go_viral": "Fear of heart medication is widespread; the 1 in 50 stat is terrifyingly specific."
+  },
+  {
+    "unique_id": "health_0128_017_44c2841c611b4729",
+    "title": "The Clinic That Sold HIV-Positive Blood to Pregnant Women",
+    "hook": "They promised 'immune boosters' — actually injections of contaminated plasma.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 78,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "HIV injection",
+      "pregnant women experiment",
+      "tainted blood",
+      "medical atrocity",
+      "clinic horror"
+    ],
+    "overlap_check_hash": "44c2841c611b4729",
+    "why_this_can_go_viral": "Targeting pregnant women makes this morally catastrophic — pure fury fuel for sharing."
+  },
+  {
+    "unique_id": "health_0128_018_98e88d732d3afa48",
+    "title": "The Vitamin Company That Sold Ground-Up Light Bulbs as 'Calcium'",
+    "hook": "Lab tests found glass shards in every bottle — they called it 'natural grit.'",
+    "virality_score": 78,
+    "curiosity_gap_score": 81,
+    "darkness_score": 79,
+    "educational_value": 69,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "fake vitamins",
+      "glass in supplements",
+      "vitamin scam",
+      "dangerous supplements",
+      "health fraud"
+    ],
+    "overlap_check_hash": "98e88d732d3afa48",
+    "why_this_can_go_viral": "Absurdity meets danger; people share to warn others about supplement dangers."
+  },
+  {
+    "unique_id": "health_0128_019_1bfc7be83061ddea",
+    "title": "The Hospital That Diagnosed Healthy People with Cancer to Bill Insurance",
+    "hook": "Hundreds of patients were told they had terminal cancer — they didn't. But the hospital got paid.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 76,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "fake cancer diagnosis",
+      "insurance fraud",
+      "hospital scam",
+      "medical horror",
+      "healthcare corruption"
+    ],
+    "overlap_check_hash": "1bfc7be83061ddea",
+    "why_this_can_go_viral": "The emotional devastation of a fake cancer diagnosis is a gut punch; triggers outrage and pity."
+  },
+  {
+    "unique_id": "health_0128_020_7cbf9f79ee69c866",
+    "title": "The Surgeon Who Transplanted a Dead Man's Fingers onto a Living Patient",
+    "hook": "He claimed it was 'experimental hand surgery' — the fingers started rotting within days.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 91,
+    "educational_value": 66,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "cadaver transplant",
+      "finger transplant",
+      "experimental surgery",
+      "body horror",
+      "medical experiment"
+    ],
+    "overlap_check_hash": "7cbf9f79ee69c866",
+    "why_this_can_go_viral": "Macabre and visually disgusting; the idea of wearing a dead person's fingers is unforgettable."
+  },
+  {
+    "unique_id": "health_0128_021_f5cc663c99d10128",
+    "title": "The Doctor Who Prescribed Radioactive Water for 'Energy'",
+    "hook": "He called it 'radium therapy' — patients' jaws fell off from radiation poisoning.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "radioactive water",
+      "radium therapy",
+      "quack medicine",
+      "radiation poisoning",
+      "fake cure"
+    ],
+    "overlap_check_hash": "f5cc663c99d10128",
+    "why_this_can_go_viral": "The 'jaw fell off' detail is grotesque and memorable; historical quackery fascinates viewers."
+  },
+  {
+    "unique_id": "health_0128_023_9c21c67fc42ecb74",
+    "title": "The Hospital That Dumped Infectious Waste in a Public Park",
+    "hook": "Needles, bloody bandages, and amputated limbs were found where children played.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 88,
+    "educational_value": 67,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "medical waste",
+      "hospital dumping",
+      "infectious waste",
+      "public health risk",
+      "hospital negligence"
+    ],
+    "overlap_check_hash": "9c21c67fc42ecb74",
+    "why_this_can_go_viral": "Shocking visual imagery and threat to children make it highly emotional and shareable."
+  },
+  {
+    "unique_id": "health_0128_024_205c3e147064a6c0",
+    "title": "The Clinical Trial That Pumped Sewage Bacteria into Human Bloodstreams",
+    "hook": "Researchers wanted to see if the body could 'fight off' raw sewage — patients died within hours.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 77,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "sewage experiment",
+      "bacteria injection",
+      "deadly trial",
+      "unethical research",
+      "human guinea pigs"
+    ],
+    "overlap_check_hash": "205c3e147064a6c0",
+    "why_this_can_go_viral": "The sheer depravity of injecting sewage is instantly revolting; impossible to ignore."
+  },
+  {
+    "unique_id": "health_0128_025_c429c021972e3987",
+    "title": "The Doctor Who Sold Fake Insulin to 5,000 Diabetics — 200 Died",
+    "hook": "He diluted insulin with tap water — patients went into diabetic comas and never woke up.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 96,
+    "educational_value": 76,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake insulin",
+      "diabetes scam",
+      "pharma fraud",
+      "insulin death",
+      "medical corruption"
+    ],
+    "overlap_check_hash": "c429c021972e3987",
+    "why_this_can_go_viral": "Insulin is life-saving — diluting it is premeditated murder; diabetics and families will share furiously."
+  }
+]

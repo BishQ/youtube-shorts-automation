@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "science_0031_001_11d522ca9aef44f2",
+    "title": "The Lab That Grew a Second Head on a Rat",
+    "hook": "In a Russian lab, scientists successfully grafted a second head onto a rat—and both heads stayed conscious.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "rat head graft",
+      "Soviet experiments",
+      "two-headed animal",
+      "parabiosis",
+      "grotesque biology"
+    ],
+    "overlap_check_hash": "11d522ca9aef44f2",
+    "why_this_can_go_viral": "Shocking visual imagery and ethical horror drive immediate clicks and shares."
+  },
+  {
+    "unique_id": "science_0031_002_23dd24be1e0d9940",
+    "title": "The Chemist Who Invented a Liquid That Dissolves Gold",
+    "hook": "A medieval alchemist discovered a liquid so corrosive it dissolves gold—and it still exists today.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 60,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "aqua regia",
+      "gold dissolving",
+      "alchemy",
+      "dangerous liquid",
+      "corrosive acid"
+    ],
+    "overlap_check_hash": "23dd24be1e0d9940",
+    "why_this_can_go_viral": "Gold is universally fascinating, and the idea of dissolving it is deeply counterintuitive."
+  },
+  {
+    "unique_id": "science_0031_004_f0d539a4add03bdb",
+    "title": "The Physicist Who Found a Particle That Moves Faster Than Light",
+    "hook": "In 2011, a neutrino seemed to break the ultimate cosmic speed limit—and it nearly shattered modern physics.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 50,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "faster than light",
+      "neutrino",
+      "CERN anomaly",
+      "physics crisis",
+      "speed limit broken"
+    ],
+    "overlap_check_hash": "f0d539a4add03bdb",
+    "why_this_can_go_viral": "The idea that Einstein might be wrong is a massive clickbait magnet."
+  },
+  {
+    "unique_id": "science_0031_005_38d096d15fc8b528",
+    "title": "The Biologist Who Bred a Scorpion That Glows and Kills in Seconds",
+    "hook": "A lab accident created a fluorescent scorpion with venom so fast it kills in under a second.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fluorescent scorpion",
+      "deadly venom",
+      "lab accident",
+      "glowing creature",
+      "instant death"
+    ],
+    "overlap_check_hash": "38d096d15fc8b528",
+    "why_this_can_go_viral": "Glowing + deadly = irresistible combination of beauty and terror."
+  },
+  {
+    "unique_id": "science_0031_007_f3ceac804aa495f1",
+    "title": "The Lab That Unleashed a Chemical That Made Humans Paranoid Forever",
+    "hook": "A chemical weapon test left a small town convinced everyone around them was a spy—for decades.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "chemical paranoia",
+      "mind control gas",
+      "town brainwashed",
+      "BZ gas",
+      "permanent fear"
+    ],
+    "overlap_check_hash": "f3ceac804aa495f1",
+    "why_this_can_go_viral": "The idea of a chemical that permanently alters your perception of reality is terrifying."
+  },
+  {
+    "unique_id": "science_0031_008_e2bf217de5ac013f",
+    "title": "The Neuroscientist Who Kept a Pig Brain Alive Outside Its Body",
+    "hook": "For 36 hours, a pig brain floated in a tank—and showed signs of consciousness without a body.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain in a tank",
+      "consciousness without body",
+      "pig brain alive",
+      "ex-brain",
+      "awareness"
+    ],
+    "overlap_check_hash": "e2bf217de5ac013f",
+    "why_this_can_go_viral": "The ethical horror and sci-fi realism of a disembodied brain hook viewers instantly."
+  },
+  {
+    "unique_id": "science_0031_009_a56b222ba0eb26d6",
+    "title": "The Physicist Who Created a Crystal That Exists in 4 Dimensions",
+    "hook": "A new 'hypercrystal' can move in ways impossible in our 3D world—and it bends light around corners.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 30,
+    "educational_value": 85,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "4D crystal",
+      "hypercrystal",
+      "extra dimension",
+      "light bending",
+      "impossible material"
+    ],
+    "overlap_check_hash": "a56b222ba0eb26d6",
+    "why_this_can_go_viral": "The idea of a 4D object existing in our world is mind-bendingly cool."
+  },
+  {
+    "unique_id": "science_0031_011_80536caff86c4d8e",
+    "title": "The Soviet Experiment That Tried to Make a Human-Animal Hybrid",
+    "hook": "Stalin ordered scientists to create a loyal 'super-soldier' by mixing human and ape DNA—and they tried.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human ape hybrid",
+      "Stalin experiment",
+      "super soldier",
+      "Soviet genetics",
+      "chimera"
+    ],
+    "overlap_check_hash": "80536caff86c4d8e",
+    "why_this_can_go_viral": "The taboo of human-animal hybrids is universally shocking and historically real."
+  },
+  {
+    "unique_id": "science_0031_012_9863ab8f596be477",
+    "title": "The Chemist Who Made a Polymer That Never Gets Wet",
+    "hook": "A superhydrophobic coating repels water so completely that liquids bounce off like solid balls.",
+    "virality_score": 76,
+    "curiosity_gap_score": 81,
+    "darkness_score": 25,
+    "educational_value": 70,
+    "estimated_short_retention": 74,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "superhydrophobic",
+      "never wet",
+      "water repelling",
+      "nanocoating",
+      "bouncing water"
+    ],
+    "overlap_check_hash": "9863ab8f596be477",
+    "why_this_can_go_viral": "Visual demonstration of water bouncing off a surface is deeply satisfying and shareable."
+  },
+  {
+    "unique_id": "science_0031_015_f67d76fc46347828",
+    "title": "The Lab That Accidentally Bred a Superbug That Eats Antibiotics",
+    "hook": "A lab mistake created a bacterium that not only resists antibiotics—it digests them for food.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "antibiotic eating",
+      "superbug",
+      "lab accident",
+      "drug resistant",
+      "bacterial horror"
+    ],
+    "overlap_check_hash": "f67d76fc46347828",
+    "why_this_can_go_viral": "The idea of bugs that feed on our last-resort drugs triggers apocalyptic fear."
+  },
+  {
+    "unique_id": "science_0031_016_cbc7213437fe55dd",
+    "title": "The Physicist Who Proved That Nothingness Is Unstable",
+    "hook": "Empty space is constantly bubbling with particles that pop in and out of existence—and one day, a bubble might not pop back.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 75,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "quantum vacuum",
+      "false vacuum",
+      "nothingness",
+      "particle pop",
+      "universe collapse"
+    ],
+    "overlap_check_hash": "cbc7213437fe55dd",
+    "why_this_can_go_viral": "The concept that the universe could end at any moment from a quantum bubble is terrifyingly elegant."
+  },
+  {
+    "unique_id": "science_0031_017_95e1d5a751392753",
+    "title": "The Chemist Who Made a Compound That Smells Like Death Itself",
+    "hook": "A single molecule replicates the exact scent of a rotting corpse—and it's used to train cadaver dogs.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "death smell",
+      "cadaver scent",
+      "putrescine",
+      "training dogs",
+      "rotting odor"
+    ],
+    "overlap_check_hash": "95e1d5a751392753",
+    "why_this_can_go_viral": "The taboo of death and the disgustingness of the smell make it morbidly shareable."
+  },
+  {
+    "unique_id": "science_0031_018_45ed6fc314cd2955",
+    "title": "The Neuroscientist Who Found That Your Brain Can Be Hacked by a Sound",
+    "hook": "A specific frequency can force your brain into a trance state—and it's been used in covert operations.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 82,
+    "educational_value": 80,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain hacking",
+      "sound trance",
+      "mind control frequency",
+      "neural entrainment",
+      "covert sound"
+    ],
+    "overlap_check_hash": "45ed6fc314cd2955",
+    "why_this_can_go_viral": "The idea that sound can control your brain is both creepy and fascinating."
+  },
+  {
+    "unique_id": "science_0031_019_f09d94b6e18a326d",
+    "title": "The Soviet Experiment That Tried to Make a Dog Talk",
+    "hook": "Soviet scientists surgically altered dogs' vocal cords and jaws to try to make them speak human words.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "talking dogs",
+      "Soviet science",
+      "animal speech",
+      "vocal cord surgery",
+      "grotesque experiment"
+    ],
+    "overlap_check_hash": "f09d94b6e18a326d",
+    "why_this_can_go_viral": "The mix of cuteness and horror is irresistible—dogs that almost talk."
+  },
+  {
+    "unique_id": "science_0031_021_1f42d16e01a1c80a",
+    "title": "The Biologist Who Bred a Fungus That Grows on Human Skin",
+    "hook": "A lab-created fungus can digest human skin cells—and it was almost used as a biological weapon.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 86,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "skin eating fungus",
+      "biological weapon",
+      "lab fungus",
+      "human decay",
+      "body horror"
+    ],
+    "overlap_check_hash": "1f42d16e01a1c80a",
+    "why_this_can_go_viral": "The idea of a fungus digesting your skin is viscerally horrifying."
+  },
+  {
+    "unique_id": "science_0031_022_c87ddcf2f3324831",
+    "title": "The Chemist Who Discovered a Gas That Makes You Forget Everything",
+    "hook": "A colorless gas once used in surgeries can erase all memories formed during exposure—and it's still poorly understood.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 72,
+    "educational_value": 75,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "memory erasing gas",
+      "forgetting gas",
+      "anesthesia mystery",
+      "blackout gas",
+      "amnesia"
+    ],
+    "overlap_check_hash": "c87ddcf2f3324831",
+    "why_this_can_go_viral": "The fear of losing your memory is universal and deeply unsettling."
+  },
+  {
+    "unique_id": "science_0031_023_28416f0c54679083",
+    "title": "The Quantum Experiment That Made Time Flow Backward",
+    "hook": "In a lab, a quantum system briefly reversed the arrow of time—causing heat to flow from cold to hot.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 40,
+    "educational_value": 85,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time reversal",
+      "backward time",
+      "quantum time",
+      "arrow of time",
+      "heat reversal"
+    ],
+    "overlap_check_hash": "28416f0c54679083",
+    "why_this_can_go_viral": "Reversing time is a dream that everyone has—seeing it done in a lab is pure magic."
+  },
+  {
+    "unique_id": "science_0031_024_88a9c234ba1a872b",
+    "title": "The Neuroscientist Who Found a Region in the Brain That Controls Fear of Death",
+    "hook": "A tiny cluster of neurons, when activated, makes you feel like you're about to die—even if you're perfectly safe.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "fear of death",
+      "death neuron",
+      "brain fear center",
+      "mortality switch",
+      "panic region"
+    ],
+    "overlap_check_hash": "88a9c234ba1a872b",
+    "why_this_can_go_viral": "The idea that death fear is just a brain switch is both liberating and terrifying."
+  }
+]

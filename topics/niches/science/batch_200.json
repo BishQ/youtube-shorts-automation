@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "science_0200_001_a34159a96d49c083",
+    "title": "The Scientist Who Dissolved His Own Organs With a Single Touch",
+    "hook": "A chemist synthesized a compound so corrosive it seeped through his gloves and turned his internal organs into liquid over three weeks.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "chemist death",
+      "organ dissolving",
+      "lab accident",
+      "toxic compound",
+      "slow death"
+    ],
+    "overlap_check_hash": "a34159a96d49c083",
+    "why_this_can_go_viral": "Combines body horror with a real lab fatality, triggering visceral disgust and morbid curiosity."
+  },
+  {
+    "unique_id": "science_0200_004_7fa2df493630704a",
+    "title": "The Physicist Who Turned a Room Into a Time Loop—With Lasers",
+    "hook": "A quantum optics experiment trapped photons in a feedback loop, and they started arriving before the laser fired.",
+    "virality_score": 85,
+    "curiosity_gap_score": 93,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time loop",
+      "photon paradox",
+      "quantum optics",
+      "causality violation",
+      "laser experiment"
+    ],
+    "overlap_check_hash": "7fa2df493630704a",
+    "why_this_can_go_viral": "Time loops are universally fascinating; the implication of broken causality creates deep curiosity."
+  },
+  {
+    "unique_id": "science_0200_006_a577a9171b0adb7a",
+    "title": "The Lab Catastrophe Where a Chemical Reaction Created a Cloud of Acid",
+    "hook": "A chemist mixed two safe liquids—and the resulting aerosol dissolved the lab's ventilation system and burned lungs from 50 feet away.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 74,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "acid cloud",
+      "chemical accident",
+      "toxic aerosol",
+      "lab disaster",
+      "lung damage"
+    ],
+    "overlap_check_hash": "a577a9171b0adb7a",
+    "why_this_can_go_viral": "Visual horror of an invisible killing cloud that spreads through air conditioning is immediately gripping."
+  },
+  {
+    "unique_id": "science_0200_007_4d2bbb5eead1ce2e",
+    "title": "The Physicist Who Created a 'Dark Wave' That Absorbed All Light",
+    "hook": "A metamaterial experiment produced a waveform that swallowed photons—the lab went pitch black for 0.3 seconds.",
+    "virality_score": 83,
+    "curiosity_gap_score": 91,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "dark wave",
+      "light absorption",
+      "metamaterial",
+      "photon trap",
+      "blackout experiment"
+    ],
+    "overlap_check_hash": "4d2bbb5eead1ce2e",
+    "why_this_can_go_viral": "The idea of a man-made 'darkness' that eats light is visually striking and conceptually mind-blowing."
+  },
+  {
+    "unique_id": "science_0200_009_13f3c8d18f43e3ac",
+    "title": "The Biolab That Grew a 'Feeling' Tumor With Eyes and Teeth",
+    "hook": "Stem cell researchers accidentally created a teratoma that developed a primitive nervous system—and it reacted to touch.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 76,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "teratoma",
+      "growing tumor",
+      "eyes teeth",
+      "stem cell accident",
+      "pain feeling"
+    ],
+    "overlap_check_hash": "13f3c8d18f43e3ac",
+    "why_this_can_go_viral": "Body horror at its peak—a living mass that can feel pain in a petri dish; deeply unsettling yet fascinating."
+  },
+  {
+    "unique_id": "science_0200_011_a31a48d5eaac5389",
+    "title": "The Chemist Who Made a 'Forever Gas' That Poisons the Next Century",
+    "hook": "A failed synthesis created a chlorofluorocarbon variant that breaks down ozone for 500 years—and it's still leaking somewhere.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 84,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "forever gas",
+      "ozone destroyer",
+      "CFC",
+      "environmental poison",
+      "long-term disaster"
+    ],
+    "overlap_check_hash": "a31a48d5eaac5389",
+    "why_this_can_go_viral": "Horrifying legacy of a single mistake that will outlive everyone; apocalyptic time-scale resonates."
+  },
+  {
+    "unique_id": "science_0200_013_0f254345c1decd50",
+    "title": "The Lab Catastrophe Where a Mutated Bacteria Ate a Researcher's Feet",
+    "hook": "A petri dish of Pseudomonas aeruginosa evolved to digest human keratin—and an open wound led to necrotic feet in 48 hours.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 77,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "flesh-eating bacteria",
+      "lab infection",
+      "necrosis",
+      "Pseudomonas",
+      "keratin digestion"
+    ],
+    "overlap_check_hash": "0f254345c1decd50",
+    "why_this_can_go_viral": "Graphic, real medical horror that feels like a zombie movie but happened in a real lab."
+  },
+  {
+    "unique_id": "science_0200_014_efbb4f5f4b065041",
+    "title": "The Physicist Who Built a 'Zero Friction' Surface That Never Stopped Moving",
+    "hook": "A superfluid coating allowed a metal disc to spin for 47 years—and it's still going in a sealed chamber underground.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 60,
+    "educational_value": 86,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "perpetual motion",
+      "superfluid",
+      "zero friction",
+      "spinning disc",
+      "underground experiment"
+    ],
+    "overlap_check_hash": "efbb4f5f4b065041",
+    "why_this_can_go_viral": "Perpetual motion fascinates everyone; the idea of a hidden object spinning for decades is eerie and cool."
+  },
+  {
+    "unique_id": "science_0200_015_98e422da370b3ba1",
+    "title": "The Scientific Fraud Who Faked a 'Cancer Cure'—With Sugar Water and Lies",
+    "hook": "A biochemist published 12 papers on a miracle compound that shrank tumors—it was just glucose solution with a pH buffer.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 82,
+    "educational_value": 79,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "cancer cure hoax",
+      "fraudulent research",
+      "sugar water",
+      "biochemistry scandal",
+      "fake treatment"
+    ],
+    "overlap_check_hash": "98e422da370b3ba1",
+    "why_this_can_go_viral": "Exploits hope of millions; the betrayal and anger at fake cures drives high emotional engagement."
+  },
+  {
+    "unique_id": "science_0200_017_5e4cf3502ee60366",
+    "title": "The Biolab That Created a 'Self-Replicating' Protein That Clogged Everything",
+    "hook": "A prion-like protein designed for nanotech began folding incorrectly and turned an entire lab's fluid systems into gel.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 87,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "self-replicating protein",
+      "prion",
+      "nanotech disaster",
+      "gel clog",
+      "lab contamination"
+    ],
+    "overlap_check_hash": "5e4cf3502ee60366",
+    "why_this_can_go_viral": "Nightmare scenario of a self-spreading biological agent; parallels to 'The Blob' and real prion diseases."
+  },
+  {
+    "unique_id": "science_0200_018_587b8523372862ad",
+    "title": "The Quantum Paradox Where a Particle 'Remembered' Its Future State",
+    "hook": "In a delayed-choice experiment, photons behaved as if they knew what measurement would be made—before it happened.",
+    "virality_score": 79,
+    "curiosity_gap_score": 90,
+    "darkness_score": 55,
+    "educational_value": 87,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum memory",
+      "future state",
+      "delayed choice",
+      "photon experiment",
+      "time reversal"
+    ],
+    "overlap_check_hash": "587b8523372862ad",
+    "why_this_can_go_viral": "Suggests time might be an illusion; the idea of particles 'knowing' the future blows minds."
+  },
+  {
+    "unique_id": "science_0200_020_859b7a1fb62d89eb",
+    "title": "The Forbidden Experiment Where They Made a 'Human-Plant' Hybrid",
+    "hook": "Scientists fused human stem cells with plant chloroplasts—the resulting organism produced oxygen and had human DNA.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human plant hybrid",
+      "chimera",
+      "stem cell fusion",
+      "chloroplast",
+      "forbidden biology"
+    ],
+    "overlap_check_hash": "859b7a1fb62d89eb",
+    "why_this_can_go_viral": "Transgresses the ultimate boundary between animal and plant; grotesque and awe-inspiring in equal measure."
+  },
+  {
+    "unique_id": "science_0200_021_9201b00cd4f2241f",
+    "title": "The Lab Catastrophe Where a Synchrotron Beam Vaporized a Researcher's Hand",
+    "hook": "A particle accelerator safety interlock failed—the high-energy X-ray beam incinerated flesh in milliseconds, leaving only ash.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 97,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "synchrotron accident",
+      "beam vaporization",
+      "X-ray injury",
+      "particle accelerator",
+      "instant death"
+    ],
+    "overlap_check_hash": "9201b00cd4f2241f",
+    "why_this_can_go_viral": "Brutal, almost sci-fi horror of a beam that turns bone to dust; pure shock value and real-world lesson."
+  },
+  {
+    "unique_id": "science_0200_022_0425c5061a083ce4",
+    "title": "The Physicist Who Created a 'Magnetic Cage' That Trapped a Plasma Star",
+    "hook": "A tokamak experiment accidentally confined a 100-million-degree plasma ball that glowed like a miniature sun—and it wouldn't stop.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 72,
+    "educational_value": 86,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "plasma star",
+      "magnetic confinement",
+      "tokamak",
+      "fusion experiment",
+      "mini sun"
+    ],
+    "overlap_check_hash": "0425c5061a083ce4",
+    "why_this_can_go_viral": "Creating a star on Earth is inherently awesome; the danger of a runaway plasma ball adds tension."
+  },
+  {
+    "unique_id": "science_0200_023_485f23439cb2cac7",
+    "title": "The Scientific Fraud Who Faked a 'Brain Transplant' in Rabbits",
+    "hook": "A Soviet surgeon claimed he kept a rabbit head alive for 3 days—it was actually a dog's head with prosthetic eyes and a hidden pump.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 74,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "brain transplant",
+      "rabbit head",
+      "Soviet fraud",
+      "animal experiment",
+      "fake surgery"
+    ],
+    "overlap_check_hash": "485f23439cb2cac7",
+    "why_this_can_go_viral": "Grim and macabre—the image of a living severed head is unforgettable; outrage at the cruelty drives shares."
+  },
+  {
+    "unique_id": "science_0200_024_fbb93ef7006caf5c",
+    "title": "The Neuroscientist Who Found That Your Brain Has a 'Silent Voice' That Never Sleeps",
+    "hook": "fMRI scans revealed a continuous inner monologue region that activates even during deep sleep—and it never stops talking.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 84,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "inner monologue",
+      "brain always active",
+      "sleep scan",
+      "subconscious voice",
+      "neuroscience"
+    ],
+    "overlap_check_hash": "fbb93ef7006caf5c",
+    "why_this_can_go_viral": "Everyone has an inner voice; learning it never shuts up is creepy and deeply personal—high relatability."
+  },
+  {
+    "unique_id": "science_0200_025_4d88bf9a5c7b7541",
+    "title": "The Biolab That Created a 'Corpse Flower' That Smells Like Rotting Flesh—and It Moved",
+    "hook": "A genetically modified Rafflesia plant not only emits cadaverine—it can curl its petals to trap insects like a Venus flytrap.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "corpse flower",
+      "carnivorous plant",
+      "Rafflesia",
+      "genetic modification",
+      "insect trap"
+    ],
+    "overlap_check_hash": "4d88bf9a5c7b7541",
+    "why_this_can_go_viral": "Mixes botanical horror with predatory behavior; the foul smell and movement create a visceral reaction."
+  }
+]

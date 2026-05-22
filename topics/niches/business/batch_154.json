@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "business_0154_001_b3b78b34bee69cdb",
+    "title": "The CEO Who Bought a Private Island—Then Enslaved His Own Employees",
+    "hook": "A tech CEO lured workers to a 'team-building retreat' on a remote island, only to confiscate their passports and force them to code 18-hour days under armed guard.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "tech cult",
+      "enslaved workers",
+      "startup scam",
+      "forced labor",
+      "CEO crime"
+    ],
+    "overlap_check_hash": "b3b78b34bee69cdb",
+    "why_this_can_go_viral": "Combines modern startup culture shock with human trafficking horror—extreme psychological trigger and moral outrage."
+  },
+  {
+    "unique_id": "business_0154_002_7d493cc6aa28b63a",
+    "title": "The Hedge Fund That Used Ghost Ships to Manipulate Oil Prices",
+    "hook": "A mysterious fleet of tankers kept circling the ocean for months—each one a phantom ship loaded with crude invented on paper to rig global futures markets.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "oil trading scam",
+      "ghost tankers",
+      "futures manipulation",
+      "paper barrels",
+      "commodity fraud"
+    ],
+    "overlap_check_hash": "7d493cc6aa28b63a",
+    "why_this_can_go_viral": "Visual imagery of 'ghost ships' hooks viewers; the hidden mechanics of oil price rigging feel like a conspiracy thriller."
+  },
+  {
+    "unique_id": "business_0154_003_c2ed08cec1f47336",
+    "title": "The Company That Patented Rain—Then Charged Farmers for Every Drop",
+    "hook": "A biotech firm seeded clouds over entire regions, then sued farmers whose crops grew taller, claiming they'd 'stolen' patented water molecules from the sky.",
+    "virality_score": 90,
+    "curiosity_gap_score": 96,
+    "darkness_score": 94,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "cloud seeding patent",
+      "water monopoly",
+      "farmers sued",
+      "weather ownership",
+      "biotech scam"
+    ],
+    "overlap_check_hash": "c2ed08cec1f47336",
+    "why_this_can_go_viral": "Extreme absurdity meets real legal horror—viewers share out of disbelief and moral fury over privatizing rain."
+  },
+  {
+    "unique_id": "business_0154_004_a65ce569e57ffc43",
+    "title": "The Corporate Spy Who Trained Parrots to Steal Rival Trade Secrets",
+    "hook": "A competitor taught parrots to memorize passwords and product formulas by repeating them in soundproof rooms—then released the birds into rival offices.",
+    "virality_score": 86,
+    "curiosity_gap_score": 94,
+    "darkness_score": 72,
+    "educational_value": 60,
+    "estimated_short_retention": 92,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "animal spies",
+      "parrot espionage",
+      "trade secret theft",
+      "creative corporate sabotage",
+      "bird hacking"
+    ],
+    "overlap_check_hash": "a65ce569e57ffc43",
+    "why_this_can_go_viral": "Bizarre animal-angle goes viral instantly—combines absurdity with real corporate paranoia."
+  },
+  {
+    "unique_id": "business_0154_005_7da5764d3a00bef3",
+    "title": "The Dark Marketing Firm That Hijacked Funeral Streams to Sell Coffins",
+    "hook": "They embedded invisible code in live funeral broadcasts so that when a family clicked 'share tribute,' they were redirected to a premium casket checkout page.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 68,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "funeral marketing scam",
+      "grief exploitation",
+      "digital hijacking",
+      "death ads",
+      "dark marketing tactic"
+    ],
+    "overlap_check_hash": "7da5764d3a00bef3",
+    "why_this_can_go_viral": "Morally repulsive targeting of bereaved families guarantees outrage-driven shares and engagement."
+  },
+  {
+    "unique_id": "business_0154_006_7d245fdc41972be1",
+    "title": "The Supply Chain Secret of 'Organic' Avocados—They Were Watered with Toxic Fracking Runoff",
+    "hook": "A massive avocado supplier pumped wastewater from oil fracking into irrigation systems—then sold the fruit as 'certified organic' for triple the price.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "organic fraud",
+      "avocado scandal",
+      "fracking water",
+      "food safety",
+      "fake organic"
+    ],
+    "overlap_check_hash": "7d245fdc41972be1",
+    "why_this_can_go_viral": "Exploits consumer trust in organic labeling—huge audience overlap with health-conscious and environmental viewers."
+  },
+  {
+    "unique_id": "business_0154_008_5572632a66c3a0fe",
+    "title": "The Monopoly That Bought Every Eye Doctor—Then Made Glasses Impossible to Afford",
+    "hook": "A single corporation quietly acquired 80% of optometry chains, then mandated $500 exams and blocked online prescription transfers, locking millions into price gouging.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 79,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "eyewear monopoly",
+      "price fixing glasses",
+      "optometry scam",
+      "vision care monopoly",
+      "healthcare price gouging"
+    ],
+    "overlap_check_hash": "5572632a66c3a0fe",
+    "why_this_can_go_viral": "Relatable pain point—almost everyone wears glasses; reveals hidden corporate stranglehold on basic vision care."
+  },
+  {
+    "unique_id": "business_0154_009_f525304d39f866ba",
+    "title": "The Startup That Sold 'Voice-Controlled' Smart Homes—They Were Live Listening and Selling Recordings",
+    "hook": "A smart speaker startup recorded intimate conversations, then sold audio clips to advertisers and blackmailers—while victims thought they were just saying 'turn off the lights.'",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 96,
+    "educational_value": 70,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "smart speaker spying",
+      "audio surveillance scam",
+      "privacy violation",
+      "startup betrayal",
+      "voice data selling"
+    ],
+    "overlap_check_hash": "f525304d39f866ba",
+    "why_this_can_go_viral": "Massive privacy fear triggers visceral reaction—smart home adoption makes it deeply personal and shareable."
+  },
+  {
+    "unique_id": "business_0154_010_65f344a013019342",
+    "title": "The Trader Who Used Subway Turnstile Data to Predict Retail Stocks",
+    "hook": "He secretly tapped into city metro card readers, counting commuter flows to predict foot traffic at stores hours before quarterly reports were released.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 74,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "insider trading alternative data",
+      "subway data",
+      "retail prediction",
+      "stock manipulation",
+      "data hacking"
+    ],
+    "overlap_check_hash": "65f344a013019342",
+    "why_this_can_go_viral": "Reveals clever-but-scary edge-case market rigging—viewers love 'hidden surveillance trick' narratives."
+  },
+  {
+    "unique_id": "business_0154_012_bfe258cdb2a7182d",
+    "title": "The Dark Marketing Firm That Used Parking Lot License Plate Scanners to Send Targeted Bills",
+    "hook": "They scanned license plates at grocery stores, cross-referenced them with medical databases, then mailed 'overdue' hospital bills to people who'd visited fast food chains.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 71,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "license plate surveillance",
+      "medical data abuse",
+      "bill harassment",
+      "dark marketing tactic",
+      "privacy nightmare"
+    ],
+    "overlap_check_hash": "bfe258cdb2a7182d",
+    "why_this_can_go_viral": "Combines surveillance paranoia with medical gaslighting—deeply unsettling and shareable as 'Black Mirror in real life.'"
+  },
+  {
+    "unique_id": "business_0154_013_00324e9a5d0dce64",
+    "title": "The Supply Chain Secret of 'Grade A' Maple Syrup—It Was Corn Syrup Infused with Smoked Bacon Fat",
+    "hook": "Canada's maple syrup cartel secretly cut real syrup with cheap corn syrup and artificial smoke flavor, then destroyed purity testers who got too close.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "maple syrup fraud",
+      "fake syrup",
+      "food adulteration",
+      "Canadian food scandal",
+      "corn syrup deception"
+    ],
+    "overlap_check_hash": "00324e9a5d0dce64",
+    "why_this_can_go_viral": "High scandal factor around iconic Canadian product—food fraud revelations always perform well."
+  },
+  {
+    "unique_id": "business_0154_015_9bd5ba6c8ec7c40c",
+    "title": "The CEO Who Bought a Mining Town—Then Sold the Ground Beneath Homes to a Competitor",
+    "hook": "He purchased an entire company town, then secretly sold mineral rights under workers' houses—leaving families to wake up to sinkholes swallowing their kitchens.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 66,
+    "estimated_short_retention": 87,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "mining town scam",
+      "CEO betrayal",
+      "sinkhole disaster",
+      "mineral rights theft",
+      "corporate greed"
+    ],
+    "overlap_check_hash": "9bd5ba6c8ec7c40c",
+    "why_this_can_go_viral": "David vs. Goliath story with dramatic visual consequences—sinkholes are inherently shareable spectacle."
+  },
+  {
+    "unique_id": "business_0154_016_fe7487823c119941",
+    "title": "The Market Manipulator Who Used Church Bell Recordings to Time Trades",
+    "hook": "He recorded the exact cadence of church bells near a trading floor, using microsecond echoes to front-run orders based on how sound waves revealed crowded rooms.",
+    "virality_score": 81,
+    "curiosity_gap_score": 89,
+    "darkness_score": 70,
+    "educational_value": 77,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "acoustic trading",
+      "sound wave front-running",
+      "church bell hack",
+      "trading floor manipulation",
+      "HFT audio"
+    ],
+    "overlap_check_hash": "fe7487823c119941",
+    "why_this_can_go_viral": "Ultra-niche technical weirdness triggers curiosity—'sound wave arbitrage' sounds like a sci-fi heist."
+  },
+  {
+    "unique_id": "business_0154_017_76c0836a8d74a066",
+    "title": "The Startup That Sold 'Anti-Aging' Pills—They Were Ground-Up Crickets with Melatonin",
+    "hook": "A wellness startup raised $50 million selling 'longevity capsules' that were just crushed insects and drugstore sleep aids—repackaged with fake Nobel laureate endorsements.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 82,
+    "educational_value": 73,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "anti-aging scam",
+      "wellness fraud",
+      "fake supplements",
+      "cricket pills",
+      "longevity con"
+    ],
+    "overlap_check_hash": "76c0836a8d74a066",
+    "why_this_can_go_viral": "Exploits billion-dollar wellness industry skepticism—disgust factor plus financial fraud makes it highly shareable."
+  },
+  {
+    "unique_id": "business_0154_019_b840b1240655854f",
+    "title": "The Corporate Spy Who Joined a Monastery—Then Stole Rival's Organic Farming Secrets",
+    "hook": "A spy infiltrated a Buddhist monastery that ran a competitor's organic seed bank, spending months as a monk before smuggling out proprietary sprout genetics in sandals.",
+    "virality_score": 83,
+    "curiosity_gap_score": 90,
+    "darkness_score": 76,
+    "educational_value": 64,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "monastery infiltration",
+      "seed theft",
+      "organic farming spy",
+      "corporate espionage",
+      "monk disguise"
+    ],
+    "overlap_check_hash": "b840b1240655854f",
+    "why_this_can_go_viral": "Dramatic infiltration narrative—monastery setting adds unique visual and spiritual contrast."
+  },
+  {
+    "unique_id": "business_0154_020_d8248838f5d88ab6",
+    "title": "The Dark Marketing Firm That Used Prison Call Recordings to Target Inmate Families",
+    "hook": "They scraped recorded jail calls for emotional keywords like 'I miss you' and 'praying,' then sent high-interest loan ads and visitation insurance to desperate relatives.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "prison call exploitation",
+      "inmate family targeting",
+      "predatory marketing",
+      "jail data abuse",
+      "dark marketing tactic"
+    ],
+    "overlap_check_hash": "d8248838f5d88ab6",
+    "why_this_can_go_viral": "Exploitation of vulnerable populations drives intense moral outrage—viewers share to expose predatory capitalism."
+  },
+  {
+    "unique_id": "business_0154_021_2487b341ce2e300f",
+    "title": "The Supply Chain Secret of 'Champagne'—It Was Cheap Wine Fizzed with Dry Ice in the Van",
+    "hook": "A massive importer shipped bulk table wine from Spain, then dropped dry ice pellets into the tank during transit—and sold it as French champagne at 20x markup.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 79,
+    "educational_value": 75,
+    "estimated_short_retention": 81,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "fake champagne",
+      "wine fraud",
+      "dry ice trick",
+      "luxury food scam",
+      "supply chain fraud"
+    ],
+    "overlap_check_hash": "2487b341ce2e300f",
+    "why_this_can_go_viral": "Luxury brand deception appeals broadly—people love knowing that expensive products are often fakes."
+  },
+  {
+    "unique_id": "business_0154_022_d3874561871c282e",
+    "title": "The Industry Cover-Up of 'Non-Toxic' Nail Polish—It Contained Liquid Carcinogens",
+    "hook": "Every major nail polish brand quietly replaced 'toxic trio' chemicals with a new unregulated solvent that caused nerve damage—then paid influencers to call it 'clean beauty.'",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "nail polish scandal",
+      "clean beauty lie",
+      "carcinogen cover-up",
+      "toxic cosmetics",
+      "beauty industry fraud"
+    ],
+    "overlap_check_hash": "d3874561871c282e",
+    "why_this_can_go_viral": "Hits huge 'clean beauty' audience—health-conscious women share as a warning, driving massive engagement."
+  },
+  {
+    "unique_id": "business_0154_023_989360dadc2d01e1",
+    "title": "The CEO Who Bought a Zoo—Then Used the Animals to Smuggle Cocaine in Taxidermy",
+    "hook": "A celebrity CEO purchased a bankrupt zoo, used the animal import permits to ship drug-filled taxidermied exotic birds and reptiles across borders for a cartel.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 96,
+    "educational_value": 62,
+    "estimated_short_retention": 94,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "zoo drug smuggling",
+      "CEO cartel",
+      "taxidermy cocaine",
+      "animal trafficking",
+      "corporate crime"
+    ],
+    "overlap_check_hash": "989360dadc2d01e1",
+    "why_this_can_go_viral": "Wild true-crime energy—animals, CEO, cartels, and taxidermy create an irresistible 'you won't believe this' headline."
+  },
+  {
+    "unique_id": "business_0154_024_e8e0cee040595c51",
+    "title": "The Trader Who Used Satellite Photos of Parking Lots to Predict Store Bankruptcies",
+    "hook": "He bought commercial satellite imagery of big-box retailers, counting cars to detect declining traffic months early—and shorted their stocks before employees even knew.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 76,
+    "educational_value": 79,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "satellite trading",
+      "parking lot stock prediction",
+      "alternative data",
+      "short selling",
+      "retail bankruptcy"
+    ],
+    "overlap_check_hash": "e8e0cee040595c51",
+    "why_this_can_go_viral": "Big Brother-style surveillance meets stock market—fascinating and slightly terrifying, perfect for deep-dive shorts."
+  },
+  {
+    "unique_id": "business_0154_025_4b74a3c3e33dfe6e",
+    "title": "The Start-up That Sold 'Personalized' DNA Diets—They Were Guessing Based on Zodiac Signs",
+    "hook": "A genetic testing unicorn couldn't actually analyze DNA—so they secretly used customers' birth dates to assign astrology-based meal plans, charging $500 per kit.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 88,
+    "educational_value": 68,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "DNA diet scam",
+      "genetic testing fraud",
+      "astrology meal plan",
+      "startup unicorn exposed",
+      "fake science diet"
+    ],
+    "overlap_check_hash": "4b74a3c3e33dfe6e",
+    "why_this_can_go_viral": "Absurdity meets betrayal—huge share factor for 'snake oil startup gets exposed' dopamine hit."
+  }
+]

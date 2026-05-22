@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "science_0028_001_2acfc7f063c6259e",
+    "title": "The Physicist Who Found a Particle That Forgets Its Own Past",
+    "hook": "In a Swiss lab, a particle was observed forgetting where it came from, rewriting causality itself.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 72,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "particle",
+      "causality",
+      "quantum",
+      "CERN",
+      "memory"
+    ],
+    "overlap_check_hash": "2acfc7f063c6259e",
+    "why_this_can_go_viral": "The idea that a particle can 'forget' its history challenges our understanding of time and cause-and-effect, sparking deep curiosity."
+  },
+  {
+    "unique_id": "science_0028_002_03a7e03e519b6541",
+    "title": "The Lab That Grew a Human Ear on a Rat's Spine",
+    "hook": "Surgeons attached a human ear to the back of a living rat, blurring the line between man and lab animal.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "human ear",
+      "rat",
+      "bioprinting",
+      "chimaera",
+      "experiment"
+    ],
+    "overlap_check_hash": "03a7e03e519b6541",
+    "why_this_can_go_viral": "Visually shocking and ethically disturbing, this topic straddles medical progress and horror, making it perfect for shock-retention loops."
+  },
+  {
+    "unique_id": "science_0028_003_3c32f0e93b16aaf0",
+    "title": "The Chemist Who Drowned in a Vat of Liquid Nitrogen",
+    "hook": "A single misstep sent a researcher into a bath of -196°C liquid, and his body shattered like glass on impact.",
+    "virality_score": 88,
+    "curiosity_gap_score": 82,
+    "darkness_score": 96,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "liquid nitrogen",
+      "death",
+      "polymer",
+      "materials",
+      "shatter"
+    ],
+    "overlap_check_hash": "3c32f0e93b16aaf0",
+    "why_this_can_go_viral": "The visceral, almost cinematic description of a body breaking apart taps into dark curiosity and morbid fascination."
+  },
+  {
+    "unique_id": "science_0028_005_4cbe577594cfb18c",
+    "title": "The Soviet Experiment That Froze a Man for 30 Days",
+    "hook": "Under Stalin's orders, scientists lowered a prisoner into liquid nitrogen, then tried to revive him a month later.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 98,
+    "educational_value": 60,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "Soviet",
+      "cryogenics",
+      "prisoner",
+      "Stalin",
+      "freezing"
+    ],
+    "overlap_check_hash": "4cbe577594cfb18c",
+    "why_this_can_go_viral": "Combines suppressed history, human experimentation, and chilling imagery—irresistible to dark-documentary audiences."
+  },
+  {
+    "unique_id": "science_0028_006_e14fc8f82e5122cf",
+    "title": "The Quantum Gas That Exists in 5 Dimensions at Once",
+    "hook": "Physicists created a gas that vibrates in impossible dimensions, bending the rules of reality as we know it.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 60,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum gas",
+      "dimension",
+      "topology",
+      "subatomic",
+      "reality"
+    ],
+    "overlap_check_hash": "e14fc8f82e5122cf",
+    "why_this_can_go_viral": "The idea of extra dimensions existing in a lab gas is mind-bending and shareable among sci-fi and science fans alike."
+  },
+  {
+    "unique_id": "science_0028_007_8dd236179e749908",
+    "title": "The Chemist Who Discovered a Substance That Burns Through Bone",
+    "hook": "One drop of this colorless liquid dissolves calcium in seconds—and it was found by accident in a 1930s lab.",
+    "virality_score": 83,
+    "curiosity_gap_score": 80,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "acid",
+      "bone",
+      "dissolve",
+      "corrosion",
+      "accident"
+    ],
+    "overlap_check_hash": "8dd236179e749908",
+    "why_this_can_go_viral": "The body-horror angle combined with a real chemical (e.g. hydrofluoric acid) creates high shock value and curiosity."
+  },
+  {
+    "unique_id": "science_0028_009_5dfeaeb204b9c5a0",
+    "title": "The Neuroscientist Who Found That Pain Is a Choice Your Brain Makes",
+    "hook": "Your brain can decide to ignore third-degree burns—if it thinks the injury is elsewhere, you feel nothing.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "pain",
+      "brain",
+      "decision",
+      "illusion",
+      "analgesia"
+    ],
+    "overlap_check_hash": "5dfeaeb204b9c5a0",
+    "why_this_can_go_viral": "Challenges the fundamental belief that pain is a direct signal; the twist that the brain can 'lie' is deeply provocative."
+  },
+  {
+    "unique_id": "science_0028_011_604c996d207a66aa",
+    "title": "The Biologist Who Bred a Jellyfish That Lives Forever",
+    "hook": "This tiny jellyfish cheats death by reverting to a baby polyp, and scientists still don't know how to stop it.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 55,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "immortal",
+      "jellyfish",
+      "aging",
+      "Turritopsis",
+      "regeneration"
+    ],
+    "overlap_check_hash": "604c996d207a66aa",
+    "why_this_can_go_viral": "Immortality is a universal hook; the idea of a creature that simply refuses to die fascinates and disturbs."
+  },
+  {
+    "unique_id": "science_0028_013_61cba4521f5667a7",
+    "title": "The Neuroscientist Who Made People Hallucinate by Flickering a Light",
+    "hook": "A specific frequency of strobe light can trigger geometric visions, out-of-body sensations, and even panic—no drugs needed.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 68,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "hallucination",
+      "strobe",
+      "brain",
+      "frequency",
+      "vision"
+    ],
+    "overlap_check_hash": "61cba4521f5667a7",
+    "why_this_can_go_viral": "Anyone can try this at home (within reason), making it highly practical and curiosity-driven."
+  },
+  {
+    "unique_id": "science_0028_014_e77272b72cbb8998",
+    "title": "The Lab That Made a Virus That Targets Only One Person",
+    "hook": "In a classified facility, scientists engineered a pathogen that attacks a specific human DNA sequence—a genetic bullet.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "virus",
+      "target",
+      "DNA",
+      "bioweapon",
+      "classified"
+    ],
+    "overlap_check_hash": "e77272b72cbb8998",
+    "why_this_can_go_viral": "Taps into deep fears about personalized bioweapons and government secrecy; feels like a Black Mirror episode."
+  },
+  {
+    "unique_id": "science_0028_015_4cfe563ba3c4de0e",
+    "title": "The Physicist Who Proved That Heat Can Flow Backward",
+    "hook": "In a quantum system, heat moved from cold to hot, breaking the second law of thermodynamics—for a moment.",
+    "virality_score": 77,
+    "curiosity_gap_score": 88,
+    "darkness_score": 62,
+    "educational_value": 80,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "heat",
+      "thermodynamics",
+      "quantum",
+      "time reversal",
+      "law"
+    ],
+    "overlap_check_hash": "4cfe563ba3c4de0e",
+    "why_this_can_go_viral": "Challenges a fundamental law of physics; viewers love exceptions to rules they thought were absolute."
+  },
+  {
+    "unique_id": "science_0028_017_f81ceaa0bccd0416",
+    "title": "The Chemist Who Brewed a Liquid That Evaporates Before You See It",
+    "hook": "This chemical boils at room temperature, turning to invisible gas instantly—and it's deadly if you inhale.",
+    "virality_score": 76,
+    "curiosity_gap_score": 78,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "evaporation",
+      "toxic",
+      "gas",
+      "invisible",
+      "chemistry"
+    ],
+    "overlap_check_hash": "f81ceaa0bccd0416",
+    "why_this_can_go_viral": "The idea of a substance that exists and vanishes before your eyes is eerie and visually interesting."
+  },
+  {
+    "unique_id": "science_0028_019_34419fba67f21076",
+    "title": "The Lab That Grew a Brain With a Spinal Cord in a Dish",
+    "hook": "A pea-sized organoid developed neural connections and spontaneous electrical activity—then started moving on its own.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "brain",
+      "organoid",
+      "spinal cord",
+      "consciousness",
+      "lab grown"
+    ],
+    "overlap_check_hash": "34419fba67f21076",
+    "why_this_can_go_viral": "Raises ethical panic about 'brain in a jar' scenarios—visceral and philosophically unsettling."
+  },
+  {
+    "unique_id": "science_0028_020_fa8269ece041bd7d",
+    "title": "The Quantum Computer That Calculated in Two Timelines at Once",
+    "hook": "A quantum processor solved a problem by splitting into two separate time streams, then merging the answer.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 65,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum computer",
+      "time lines",
+      "parallel",
+      "processing",
+      "reality"
+    ],
+    "overlap_check_hash": "fa8269ece041bd7d",
+    "why_this_can_go_viral": "The idea of computing across multiple timelines sounds like sci-fi, making it highly shareable and mind-bending."
+  },
+  {
+    "unique_id": "science_0028_021_3d46790eb55950aa",
+    "title": "The Soviet Lab That Bred a Dog With Human Blood Type",
+    "hook": "In the 1920s, Soviet scientists claimed they produced a dog with fully human-compatible blood—then the records vanished.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 55,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "Soviet",
+      "dog",
+      "human",
+      "blood",
+      "transfusion"
+    ],
+    "overlap_check_hash": "3d46790eb55950aa",
+    "why_this_can_go_viral": "Bizarre, creepy, and suggests covered-up science—irresistible to conspiracy-curious viewers."
+  },
+  {
+    "unique_id": "science_0028_022_b89e447741e0fa96",
+    "title": "The Physicist Who Stretched a Single Photon Across an Entire Room",
+    "hook": "A photon was elongated to over a meter in length, existing in a wave that touched every corner of the room at once.",
+    "virality_score": 74,
+    "curiosity_gap_score": 81,
+    "darkness_score": 40,
+    "educational_value": 76,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "photon",
+      "wave",
+      "stretched",
+      "quantum",
+      "light"
+    ],
+    "overlap_check_hash": "b89e447741e0fa96",
+    "why_this_can_go_viral": "Visualizing a stretched particle challenges intuition and creates a compelling optical mental image."
+  },
+  {
+    "unique_id": "science_0028_023_773c9acc4aa2319a",
+    "title": "The Chemist Who Exploded a Lab Mixing Hydrogen With a Penny",
+    "hook": "A copper coin catalyzed a chain reaction that vaporized the entire bench—and the chemist lived to tell the tale.",
+    "virality_score": 80,
+    "curiosity_gap_score": 76,
+    "darkness_score": 80,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "explosion",
+      "catalyst",
+      "hydrogen",
+      "copper",
+      "accident"
+    ],
+    "overlap_check_hash": "773c9acc4aa2319a",
+    "why_this_can_go_viral": "Simple materials + catastrophic result = classic viral chemistry disaster narrative."
+  },
+  {
+    "unique_id": "science_0028_024_070aee8f531f8a0a",
+    "title": "The Neuroscientist Who Found That Your Brain Can Rewire Itself in Minutes",
+    "hook": "After losing one sense, the brain can reroute functions to other areas in under 30 minutes—a hidden emergency system.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 55,
+    "educational_value": 82,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "neuroplasticity",
+      "rewire",
+      "brain",
+      "blind",
+      "adaptation"
+    ],
+    "overlap_check_hash": "070aee8f531f8a0a",
+    "why_this_can_go_viral": "The speed of adaptation is surprising and hopeful, but also hints at how fragile our normal perception is."
+  },
+  {
+    "unique_id": "science_0028_025_04b52e40a34cf4f3",
+    "title": "The Biologist Who Bred a Fungus That Controls Insects Like Puppets",
+    "hook": "A parasitic fungus forces ants to climb to the perfect height, then erupts from their heads to spread its spores.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 72,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fungus",
+      "parasite",
+      "zombie",
+      "ant",
+      "nature"
+    ],
+    "overlap_check_hash": "04b52e40a34cf4f3",
+    "why_this_can_go_viral": "Nature's real zombies—visually horrifying, fascinating, and perfect for shock-retention loops in short video."
+  }
+]

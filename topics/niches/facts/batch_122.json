@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "facts_0122_001_c22f8ba594ae6a99",
+    "title": "The Lake Where Divers Can Drown Even After Surfacing",
+    "hook": "You escape the depths, gasp for air, and your lungs fill with water anyway.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "diver death",
+      "lake nyos",
+      "carbon dioxide lake",
+      "silent killer",
+      "limnic eruption"
+    ],
+    "overlap_check_hash": "c22f8ba594ae6a99",
+    "why_this_can_go_viral": "It inverts the primal fear of drowning—surfacing isn't safety—and triggers a visceral 'how is that possible?' reaction."
+  },
+  {
+    "unique_id": "facts_0122_002_b400f3690a6cd674",
+    "title": "The Butterfly That Drinks Tears and Stabs Sleepers",
+    "hook": "It lands on your eye while you dream and punctures your cornea for salt.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "tear drinking butterfly",
+      "eye piercing insect",
+      "moth drinks tears",
+      "nocturnal horror",
+      "insect parasite"
+    ],
+    "overlap_check_hash": "b400f3690a6cd674",
+    "why_this_can_go_viral": "Body horror meets real-world animal behavior—viewers will instinctively cover their eyes."
+  },
+  {
+    "unique_id": "facts_0122_005_8e23fdba15a6fe4d",
+    "title": "The Hospital Ward Where Patients Forgot How to Breathe",
+    "hook": "A sudden outbreak turned healthy people into machines that needed instruction to inhale.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "forgotten breathing",
+      "autoimmune outbreak",
+      "mystery paralysis",
+      "rare syndrome",
+      "breathing stopped"
+    ],
+    "overlap_check_hash": "8e23fdba15a6fe4d",
+    "why_this_can_go_viral": "The idea that an involuntary function can suddenly fail is universally terrifying."
+  },
+  {
+    "unique_id": "facts_0122_006_e3bd4f0922f0bbc9",
+    "title": "The Wood That Burns Hotter Than the Surface of Venus",
+    "hook": "A single log can melt steel. And it grows silently in the forest near you.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "ironwood",
+      "hottest burning wood",
+      "tree burns like metal",
+      "kiln temperature",
+      "forest fire threat"
+    ],
+    "overlap_check_hash": "e3bd4f0922f0bbc9",
+    "why_this_can_go_viral": "Contrasts familiar object (wood) with extreme, almost unbelievable property—viewers will fact-check."
+  },
+  {
+    "unique_id": "facts_0122_007_0692001f49efc7b7",
+    "title": "The Underground River That Dissolves Bones in Minutes",
+    "hook": "Divers who fell in were never recovered—the water turned their skeletons to liquid.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 94,
+    "educational_value": 68,
+    "estimated_short_retention": 90,
+    "niche_name": "facts",
+    "subcategory": "geographic horrors",
+    "keywords": [
+      "acid river",
+      "bone dissolving water",
+      "cave death",
+      "underground killer",
+      "cavern deathtrap"
+    ],
+    "overlap_check_hash": "0692001f49efc7b7",
+    "why_this_can_go_viral": "Combines cave diving dread with chemical horror—two fears that create an unforgettable hook."
+  },
+  {
+    "unique_id": "facts_0122_009_0077f00363d803b9",
+    "title": "The Mirror Trap That Makes You Think You're Aging Faster",
+    "hook": "A trick of light in some mirrors can age your reflection by years—and warp your self-image.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 76,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "cognitive reality gaps",
+    "keywords": [
+      "mirror aging illusion",
+      "reflection distortion",
+      "light trick",
+      "self perception",
+      "brain deception"
+    ],
+    "overlap_check_hash": "0077f00363d803b9",
+    "why_this_can_go_viral": "Everyone looks in mirrors daily—the idea that you can't trust what you see is deeply relatable."
+  },
+  {
+    "unique_id": "facts_0122_010_fea4b94abae86fba",
+    "title": "The Statistic That You Will Breathe in a Dead Person Today",
+    "hook": "Every lungful of air contains atoms once exhaled by the dead. You inhale history.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 76,
+    "estimated_short_retention": 82,
+    "niche_name": "facts",
+    "subcategory": "statistical illusions",
+    "keywords": [
+      "dead person atoms",
+      "breathing history",
+      "atomic recycling",
+      "mortality air",
+      "shared atmosphere"
+    ],
+    "overlap_check_hash": "fea4b94abae86fba",
+    "why_this_can_go_viral": "Visceral, morbid, and statistically undeniable—creates an immediate 'wait, what?' pause."
+  },
+  {
+    "unique_id": "facts_0122_011_fe25288fb5ef4aea",
+    "title": "The Cobra That Spits Venom Into Your Eyes From Six Feet",
+    "hook": "It aims for your cornea with surgical precision. One drop and you go blind within seconds.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "spitting cobra",
+      "venom blindness",
+      "corneal destruction",
+      "snake attack",
+      "range defense"
+    ],
+    "overlap_check_hash": "fe25288fb5ef4aea",
+    "why_this_can_go_viral": "The idea of an animal that can blind you from distance taps into primal fear of sudden sensory loss."
+  },
+  {
+    "unique_id": "facts_0122_012_f66236e564d4b51b",
+    "title": "The Nerve That Can Kill You When You Turn Your Head",
+    "hook": "A simple twist of the neck can trigger a reflex that stops your heart.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 87,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "carotid sinus reflex",
+      "neck turn death",
+      "vagus nerve danger",
+      "sudden cardiac arrest",
+      "hidden kill switch"
+    ],
+    "overlap_check_hash": "f66236e564d4b51b",
+    "why_this_can_go_viral": "Shatters the assumption that your own body is safe—a mundane action becomes potentially lethal."
+  },
+  {
+    "unique_id": "facts_0122_013_59275022978cc2d8",
+    "title": "The Hospital Soap That Started Eating Patients' Skin",
+    "hook": "A contaminated batch turned antiseptic into acid. The cure became the wound.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "contaminated hospital soap",
+      "skin eating bacteria",
+      "antiseptic failure",
+      "patient burns",
+      "medical supply horror"
+    ],
+    "overlap_check_hash": "59275022978cc2d8",
+    "why_this_can_go_viral": "Inverts trust in medical hygiene—if hospital soap hurts you, nothing is safe."
+  },
+  {
+    "unique_id": "facts_0122_015_5d317b19c8e7883f",
+    "title": "The Fungus That Makes You Want to Lick Rocks",
+    "hook": "It infects your brain and rewires your cravings. You start eating dirt until your stomach splits.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "facts",
+    "subcategory": "human body dark truths",
+    "keywords": [
+      "brain fungus",
+      "pica infection",
+      "rock eating",
+      "mind control",
+      "toxoplasma"
+    ],
+    "overlap_check_hash": "5d317b19c8e7883f",
+    "why_this_can_go_viral": "Mind control and bizarre cravings create a story too strange to ignore."
+  },
+  {
+    "unique_id": "facts_0122_017_4e032f09e0e5cdd4",
+    "title": "The Sound That Can Make Your Lungs Vibrate Apart",
+    "hook": "Low frequency waves you can't hear, but your organs can feel—until they rupture.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 84,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "facts",
+    "subcategory": "reality-defying physics",
+    "keywords": [
+      "infrasound danger",
+      "lung rupture",
+      "low frequency wave",
+      "acoustic weapon",
+      "invisible killer"
+    ],
+    "overlap_check_hash": "4e032f09e0e5cdd4",
+    "why_this_can_go_viral": "Invisible, inaudible threat hiding in everyday environments—creates unease and curiosity."
+  },
+  {
+    "unique_id": "facts_0122_018_5e3cc352422dd548",
+    "title": "The Carpet That Secretly Records Your Conversations",
+    "hook": "A type of commercial flooring now vibra-tracks speech. Your own home could eavesdrop on you.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 86,
+    "educational_value": 68,
+    "estimated_short_retention": 82,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "spy carpet",
+      "vibration surveillance",
+      "conversation recording",
+      "floor listening",
+      "privacy violation"
+    ],
+    "overlap_check_hash": "5e3cc352422dd548",
+    "why_this_can_go_viral": "Paranoia meets reality—viewers will look at their own floors differently."
+  },
+  {
+    "unique_id": "facts_0122_019_e859d51c7106a354",
+    "title": "The Bird That Uses a Flower to Set Nests on Fire",
+    "hook": "It deliberately ignits dry grass and spreads the blaze. It's the only animal that starts fires on purpose.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 74,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "fire starting bird",
+      "deliberate arson animal",
+      "hawk fire",
+      "flame spreader",
+      "bird weapon"
+    ],
+    "overlap_check_hash": "e859d51c7106a354",
+    "why_this_can_go_viral": "Challenges the assumption that only humans manipulate fire—viral 'animals are smarter' angle."
+  },
+  {
+    "unique_id": "facts_0122_020_c3848d18d6703e47",
+    "title": "The Cloud That Can Drop Frozen Boulders on Your Head",
+    "hook": "A single hailstone bigger than a bowling ball falling from a clear sky. There is no escape.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 76,
+    "educational_value": 70,
+    "estimated_short_retention": 79,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "giant hail",
+      "frozen boulder",
+      "hailstone death",
+      "sky threat",
+      "unpredictable weather"
+    ],
+    "overlap_check_hash": "c3848d18d6703e47",
+    "why_this_can_go_viral": "Something falling from above triggers deep survival instinct—high shock value."
+  },
+  {
+    "unique_id": "facts_0122_022_a8709c5edbe1bf4f",
+    "title": "The Insect That Burrows Into Your Ear and Lays Eggs",
+    "hook": "You wake up with a scratching inside your skull. By the time you feel it, the nest is already there.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "facts",
+    "subcategory": "animal anomalies",
+    "keywords": [
+      "ear burrowing insect",
+      "head nest",
+      "parasite ear",
+      "invasive bug",
+      "sleep horror"
+    ],
+    "overlap_check_hash": "a8709c5edbe1bf4f",
+    "why_this_can_go_viral": "Visceral disgust plus genuine medical rarity—guaranteed to make viewers scratch their ears."
+  },
+  {
+    "unique_id": "facts_0122_023_89418a2b5e8e89a0",
+    "title": "The Door That Can Chop Your Finger Off Without a Blade",
+    "hook": "A hydraulic closer generates enough force to sever bone. Doors are always armed.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 81,
+    "educational_value": 66,
+    "estimated_short_retention": 78,
+    "niche_name": "facts",
+    "subcategory": "everyday dangers hidden",
+    "keywords": [
+      "dangerous door",
+      "amputation risk",
+      "hydraulic door",
+      "hidden household danger",
+      "door injury"
+    ],
+    "overlap_check_hash": "89418a2b5e8e89a0",
+    "why_this_can_go_viral": "Turns a mundane object into a potential weapon—makes people look at doors differently."
+  },
+  {
+    "unique_id": "facts_0122_024_9fc059bcc7b77eaa",
+    "title": "The Tree That Drops Fruit Full of Needles That Inject Poison",
+    "hook": "The fruit bursts on impact, sending microscopic spines into your skin that release a neurotoxin.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 86,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "facts",
+    "subcategory": "nature paradoxes",
+    "keywords": [
+      "poison fruit",
+      "explosive fruit",
+      "stinging spines",
+      "death apple",
+      "neurotoxin tree"
+    ],
+    "overlap_check_hash": "9fc059bcc7b77eaa",
+    "why_this_can_go_viral": "Fruit is typically benign—inverting that expectation creates strong shock and curiosity."
+  },
+  {
+    "unique_id": "facts_0122_025_e3f7220aabf2cc0b",
+    "title": "The Cognitive Glitch Where You See Faces That Aren't There",
+    "hook": "Your brain is so wired for social connection that it sees a mother's face in a coat hanger.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 70,
+    "educational_value": 76,
+    "estimated_short_retention": 76,
+    "niche_name": "facts",
+    "subcategory": "cognitive reality gaps",
+    "keywords": [
+      "pareidolia",
+      "face perception",
+      "brain trick",
+      "seeing faces",
+      "cognitive bias"
+    ],
+    "overlap_check_hash": "e3f7220aabf2cc0b",
+    "why_this_can_go_viral": "Relatable and mildly unsettling—everyone has seen a face in an object and wondered 'why?'"
+  }
+]

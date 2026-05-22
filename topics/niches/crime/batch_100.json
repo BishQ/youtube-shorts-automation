@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "crime_0100_001_c42f4c9d30e4f004",
+    "title": "The Dentist Who Killed Patients for Their Insurance Payouts",
+    "hook": "A respected dentist was secretly murdering patients during routine procedures, filing insurance claims for expensive treatments they never received.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "dentist killer",
+      "insurance fraud murder",
+      "medical serial killer",
+      "dental crimes",
+      "murder for profit"
+    ],
+    "overlap_check_hash": "c42f4c9d30e4f004",
+    "why_this_can_go_viral": "Combines the shock of a trusted professional killing with the universal fear of dental visits — and the insurance scam angle adds financial horror."
+  },
+  {
+    "unique_id": "crime_0100_002_5578dfe795926881",
+    "title": "The Jewelry Heist That Used a Live Snake as a Distraction",
+    "hook": "Thieves walked into a high-end jewelry store, released a venomous snake, and stole millions while everyone panicked.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "snake heist",
+      "jewelry robbery",
+      "animal distraction",
+      "daring heist",
+      "luxury theft"
+    ],
+    "overlap_check_hash": "5578dfe795926881",
+    "why_this_can_go_viral": "The absurd visual of a snake used as a heist tool is instantly shareable and sparks deep curiosity about how it was executed."
+  },
+  {
+    "unique_id": "crime_0100_003_20ac942cf1be4ab1",
+    "title": "The Mob Accountant Who Hid $2 Billion in a Pasta Factory",
+    "hook": "A quiet accountant for the mafia laundered billions by making the numbers look like pasta production costs — and no one noticed for decades.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 75,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mafia accountant",
+      "money laundering",
+      "pasta factory",
+      "organized crime",
+      "hidden billions"
+    ],
+    "overlap_check_hash": "20ac942cf1be4ab1",
+    "why_this_can_go_viral": "The mundane cover of a pasta factory hides a staggering crime, blending everyday life with extreme criminal ingenuity."
+  },
+  {
+    "unique_id": "crime_0100_009_0567549123f4aed5",
+    "title": "The Mob That Used a Dry Cleaning Business to Launder $500 Million in Drug Money",
+    "hook": "A mob family laundered half a billion dollars by reporting thousands of 'dry cleaning orders' that never existed — each bag had cash, not clothes.",
+    "virality_score": 78,
+    "curiosity_gap_score": 81,
+    "darkness_score": 73,
+    "educational_value": 72,
+    "estimated_short_retention": 77,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "money laundering dry cleaning",
+      "mob cash",
+      "organized crime laundering",
+      "fake business crime",
+      "dry cleaning scam"
+    ],
+    "overlap_check_hash": "0567549123f4aed5",
+    "why_this_can_go_viral": "The contrast of a mundane business hiding a massive criminal operation is always compelling and relatable."
+  },
+  {
+    "unique_id": "crime_0100_011_1bc3e1a4c803161b",
+    "title": "The Cartel That Used a Submarine With a Fake Fishing Net to Avoid Detection",
+    "hook": "A cartel submarine surfaced only at night, dragging a fake fishing net filled with cocaine — until a fisherman noticed the net had no holes.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel submarine",
+      "fake fishing net",
+      "drug submarine",
+      "cocaine smuggling sea",
+      "cartel innovation"
+    ],
+    "overlap_check_hash": "1bc3e1a4c803161b",
+    "why_this_can_go_viral": "The visual of a submarine with a fake net is cinematic and clever, appealing to both true crime and engineering curiosity."
+  },
+  {
+    "unique_id": "crime_0100_012_1b8641eda8be9799",
+    "title": "The Criminal Mastermind Who Stole a Museum's Collection — and Replaced It With Perfect Forgeries",
+    "hook": "A master forger swapped an entire museum's ancient artifacts with replicas over two years — the real pieces were sold to private collectors.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "museum forgery",
+      "artifact swap",
+      "art heist",
+      "master forger",
+      "replica crime"
+    ],
+    "overlap_check_hash": "1b8641eda8be9799",
+    "why_this_can_go_viral": "The scale and patience of the crime is mind-blowing — viewers will share to show how 'the perfect crime' actually happened."
+  },
+  {
+    "unique_id": "crime_0100_013_6614bba95b503715",
+    "title": "The Billion-Dollar Fraud That Sold Fake Gold Bars to a Central Bank",
+    "hook": "A man sold hundreds of gold bars to a national central bank — they were actually tungsten cores with a thin gold coating, worth almost nothing.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fake gold bars",
+      "tungsten gold",
+      "central bank fraud",
+      "gold scam",
+      "billion dollar fraud"
+    ],
+    "overlap_check_hash": "6614bba95b503715",
+    "why_this_can_go_viral": "The idea of tricking a central bank with fake gold feels like a heist movie — viewers will want to know how it was tested."
+  },
+  {
+    "unique_id": "crime_0100_014_4806e91b92747591",
+    "title": "The Serial Killer Who Kept a 'Scorecard' of His Victims' Last Words",
+    "hook": "A killer recorded the last words of every victim in a leather notebook — and used them to rank who 'begged the most' before dying.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 92,
+    "educational_value": 50,
+    "estimated_short_retention": 81,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "last words notebook",
+      "serial killer scorecard",
+      "killer trophy",
+      "victim last words",
+      "psychopath journal"
+    ],
+    "overlap_check_hash": "4806e91b92747591",
+    "why_this_can_go_viral": "The chilling detail of a scorecard taps into morbid curiosity and the dark side of human nature — highly shareable."
+  },
+  {
+    "unique_id": "crime_0100_016_266bc70fd0d84243",
+    "title": "The Unsolved Murder Where the Victim's Body Was Wrapped in a Rare Comic Book",
+    "hook": "A victim was found wrapped in a first-edition comic worth $200,000 — the killer left it behind, but no one knows why or who owned it.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 77,
+    "educational_value": 60,
+    "estimated_short_retention": 78,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "comic book murder",
+      "rare comic evidence",
+      "first edition wrapped body",
+      "unsolved murder clue",
+      "killer left comic"
+    ],
+    "overlap_check_hash": "266bc70fd0d84243",
+    "why_this_can_go_viral": "The juxtaposition of a valuable collectible and a murder creates a bizarre mystery that collectors and true crime fans will debate."
+  },
+  {
+    "unique_id": "crime_0100_017_4c7b41f809ed13d7",
+    "title": "The Cartel That Used a Dental Lab to Hide Cocaine Inside Fake Teeth",
+    "hook": "A cartel owned a dental lab that made custom dentures — each set had a hollow compartment holding cocaine, shipped to couriers posing as patients.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel dental lab",
+      "cocaine in teeth",
+      "fake teeth smuggling",
+      "dentist drug cartel",
+      "denture cocaine"
+    ],
+    "overlap_check_hash": "4c7b41f809ed13d7",
+    "why_this_can_go_viral": "The idea of hiding drugs inside dental work is both clever and gross — viewers will share out of disbelief."
+  },
+  {
+    "unique_id": "crime_0100_018_bfa5eeda0eacf9fa",
+    "title": "The White-Collar Criminal Who Stole $40 Million by Faking a College's Scholarship Fund",
+    "hook": "A financial officer created a fake scholarship program, collected 'donations' from wealthy alumni, and pocketed every dollar — for 12 years.",
+    "virality_score": 75,
+    "curiosity_gap_score": 78,
+    "darkness_score": 70,
+    "educational_value": 73,
+    "estimated_short_retention": 74,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "scholarship fraud",
+      "college embezzlement",
+      "fake donation scheme",
+      "university crime",
+      "white collar fraud"
+    ],
+    "overlap_check_hash": "bfa5eeda0eacf9fa",
+    "why_this_can_go_viral": "The betrayal of trust in education is relatable and infuriating — viewers will want to know how one person gamed the system."
+  },
+  {
+    "unique_id": "crime_0100_020_424e1c978e1cc55e",
+    "title": "The Mob That Used a Pizza Shop's Delivery Orders to Signal Hits",
+    "hook": "A mob family coded hit orders into pizza delivery requests — 'extra cheese' meant a target was inside, 'no anchovies' meant to wait.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 79,
+    "educational_value": 62,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "pizza code hits",
+      "mafia pizza shop",
+      "mob signal system",
+      "organized crime codes",
+      "delivery murder orders"
+    ],
+    "overlap_check_hash": "424e1c978e1cc55e",
+    "why_this_can_go_viral": "The mundane pizza order hiding murder instructions is darkly humorous and deeply intriguing — perfect for sharing."
+  },
+  {
+    "unique_id": "crime_0100_021_6e5cd011dbcee79f",
+    "title": "The Heist Where Thieves Stole a Bank Vault by Pretending to Be Police Inspectors",
+    "hook": "Thieves dressed as police 'inspectors' entered a bank, demanded to inspect the vault for 'security flaws,' and walked out with $8 million in cash.",
+    "virality_score": 81,
+    "curiosity_gap_score": 83,
+    "darkness_score": 69,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "fake police heist",
+      "bank vault inspection",
+      "police disguise robbery",
+      "security inspection scam",
+      "bank heist disguise"
+    ],
+    "overlap_check_hash": "6e5cd011dbcee79f",
+    "why_this_can_go_viral": "The use of authority symbols to commit crime is psychologically fascinating and makes viewers question trust in uniforms."
+  },
+  {
+    "unique_id": "crime_0100_022_f32b7402d397d1a8",
+    "title": "The Unsolved Murder Where the Victim Was Found With a Single Playing Card on Their Chest",
+    "hook": "A dead body was discovered with an Ace of Spades placed on their chest — the card had a fingerprint that didn't match anyone in any database.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 84,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "playing card murder",
+      "ace of spades clue",
+      "mystery fingerprint",
+      "unsolved death card",
+      "cold case playing card"
+    ],
+    "overlap_check_hash": "f32b7402d397d1a8",
+    "why_this_can_go_viral": "The symbolism of the Ace of Spades combined with an unknown fingerprint creates a haunting puzzle that begs for audience investigation."
+  },
+  {
+    "unique_id": "crime_0100_023_a3450b24da73105a",
+    "title": "The Serial Killer Who Used a Nursing Home's 'Lost & Found' to Pick Victims",
+    "hook": "A part-time nursing home worker took items from the lost and found — then used the address labels to find elderly victims who lived alone.",
+    "virality_score": 80,
+    "curiosity_gap_score": 82,
+    "darkness_score": 86,
+    "educational_value": 58,
+    "estimated_short_retention": 79,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "nursing home killer",
+      "lost and found murderer",
+      "elderly victims",
+      "address label killer",
+      "serial killer selection"
+    ],
+    "overlap_check_hash": "a3450b24da73105a",
+    "why_this_can_go_viral": "The vulnerability of the elderly and the betrayal of a caregiver make this deeply unsettling and emotionally charged."
+  },
+  {
+    "unique_id": "crime_0100_024_cdcd1275105b3aa9",
+    "title": "The Cartel That Built a Fake Border Crossing to Smuggle Drugs Into the US",
+    "hook": "A cartel constructed a full-scale replica of a US border checkpoint, complete with fake uniforms and signs — trucks drove through it undetected for months.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "fake border crossing",
+      "cartel checkpoint",
+      "drug tunnel above ground",
+      "fake border patrol",
+      "cartel replica checkpoint"
+    ],
+    "overlap_check_hash": "cdcd1275105b3aa9",
+    "why_this_can_go_viral": "The sheer ambition of building a fake border crossing is unbelievable — viewers will click out of disbelief and stay for the audacity."
+  }
+]

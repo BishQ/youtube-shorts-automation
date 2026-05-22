@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0112_001_1c93558fee362d58",
+    "title": "The Chemist Who Discovered a Liquid That Dissolves Anything—Including the Container",
+    "hook": "When a chemist synthesized a solvent that could eat through glass, metal, and flesh, he realized he had created something that could never be stored safely.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "superacid",
+      "fluorine",
+      "dissolving",
+      "lab accident",
+      "chemical weapon"
+    ],
+    "overlap_check_hash": "1c93558fee362d58",
+    "why_this_can_go_viral": "The concept of a liquid that cannot be contained taps into primal fear of the unstoppable, and the 'forbidden knowledge' angle drives massive curiosity."
+  },
+  {
+    "unique_id": "science_0112_003_fcf3c7d7831e738c",
+    "title": "The Biolab That Engineered a Bacterium That Glows in the Dark—Then Escaped",
+    "hook": "What started as a harmless bioluminescence experiment turned into a contamination event when the glowing bacteria started appearing in drinking water miles away.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 76,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "bioluminescence",
+      "genetic engineering",
+      "contamination",
+      "escape",
+      "water supply"
+    ],
+    "overlap_check_hash": "fcf3c7d7831e738c",
+    "why_this_can_go_viral": "The visual of glowing water is eerie and shareable; the 'lab leak' fear taps into current anxieties about synthetic biology."
+  },
+  {
+    "unique_id": "science_0112_004_3a3d2ad2d746ca19",
+    "title": "The Forbidden Experiment That Starved Twins to See If They'd Eat Each Other",
+    "hook": "In a hidden Soviet lab, two identical twins were placed in isolation without food—and cameras recorded every horrific choice they made.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 94,
+    "educational_value": 68,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "twin study",
+      "starvation",
+      "cannibalism",
+      "Soviet science",
+      "human testing"
+    ],
+    "overlap_check_hash": "3a3d2ad2d746ca19",
+    "why_this_can_go_viral": "Extreme taboo, forbidden knowledge, and human survival horror create an irresistible curiosity gap that almost guarantees clicks and shares."
+  },
+  {
+    "unique_id": "science_0112_005_2402c3cda744439d",
+    "title": "The Physics Anomaly Where Time Flowed Backward for a Single Atom",
+    "hook": "Physicists watched as a radioactive atom decayed—then un-decayed, breaking the most fundamental rule of time itself.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 62,
+    "educational_value": 87,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time reversal",
+      "quantum mechanics",
+      "radioactive decay",
+      "arrow of time",
+      "paradox"
+    ],
+    "overlap_check_hash": "2402c3cda744439d",
+    "why_this_can_go_viral": "Time travel at the atomic level is mind-bending; the implication that we might be wrong about causality drives deep engagement."
+  },
+  {
+    "unique_id": "science_0112_006_73139a725bc3e335",
+    "title": "The Scientific Fraud Who Faked a 'Schizophrenia Gene'—Thousands Were Sterilized",
+    "hook": "One researcher's fabricated genetic data led to a nationwide eugenics program that forcibly sterilized families labeled 'mentally ill'.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "eugenics",
+      "sterilization",
+      "genetics",
+      "fraud",
+      "mental health"
+    ],
+    "overlap_check_hash": "73139a725bc3e335",
+    "why_this_can_go_viral": "Combines scientific fraud with historical atrocity; the human cost is enormous, and the injustice creates outrage-driven sharing."
+  },
+  {
+    "unique_id": "science_0112_007_ce4a7801c4214741",
+    "title": "The Chemist Who Made a Polymer That Stretches Forever—Then Trapped His Hand in It",
+    "hook": "He invented a material with infinite elasticity, but when a strand wrapped around his wrist, it wouldn't break, cut, or dissolve—his only option was amputation.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 71,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "polymer",
+      "experiment gone wrong",
+      "amputation",
+      "materials science",
+      "entrapment"
+    ],
+    "overlap_check_hash": "ce4a7801c4214741",
+    "why_this_can_go_viral": "Body horror plus scientific innovation creates a visceral story; the impossibility of escape makes it a tense narrative."
+  },
+  {
+    "unique_id": "science_0112_008_fca3122fc13fb371",
+    "title": "The Neuroscientist Who Stimulated a Dead Brain—It Showed Signs of Consciousness",
+    "hook": "Hours after death, a team applied electrical pulses to a donor's brain—and saw EEG patterns that looked like dreaming.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 91,
+    "educational_value": 80,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain death",
+      "consciousness",
+      "near death",
+      "EEG",
+      "afterlife"
+    ],
+    "overlap_check_hash": "fca3122fc13fb371",
+    "why_this_can_go_viral": "Explores the ultimate taboo: what happens after death. The scientific possibility of post-mortem consciousness sparks massive debate and shares."
+  },
+  {
+    "unique_id": "science_0112_009_190ca1be3c0c9c70",
+    "title": "The Biolab That Bred a Wasp That Lays Eggs in Human Skin—And It Got Loose",
+    "hook": "A lab studying parasitic wasps accidentally released a species that evolved to prefer human hosts—then the first victim showed up at the ER.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 73,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "parasitic wasp",
+      "lab escape",
+      "skin infestation",
+      "horror",
+      "insect"
+    ],
+    "overlap_check_hash": "190ca1be3c0c9c70",
+    "why_this_can_go_viral": "Body horror combined with real biological threat—everyone fears parasites, and the 'lab leak' element amplifies the dread."
+  },
+  {
+    "unique_id": "science_0112_011_88045f26043144b7",
+    "title": "The Lab Catastrophe Where a Radioactive Source Was Mistaken for Scrap Metal",
+    "hook": "A hospital's discarded cancer therapy device ended up in a scrapyard, where workers melted it down—releasing a cloud of radiation over the city.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "radioactive",
+      "scrap metal",
+      "contamination",
+      "disaster",
+      "hospital"
+    ],
+    "overlap_check_hash": "88045f26043144b7",
+    "why_this_can_go_viral": "Real-world disaster with invisible threat; the 'we didn't know' factor creates suspense and educational value about radiation safety."
+  },
+  {
+    "unique_id": "science_0112_012_a363a110a14080f7",
+    "title": "The Scientific Fraud Who Fabricated Data That Convinced the World Aliens Exist",
+    "hook": "A respected biologist published 'proof' of extraterrestrial DNA in meteorites—it was a hoax that fooled NASA for years.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 74,
+    "educational_value": 79,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "alien life",
+      "meteorite",
+      "fraud",
+      "NASA",
+      "hoax"
+    ],
+    "overlap_check_hash": "a363a110a14080f7",
+    "why_this_can_go_viral": "Aliens are a massive viral topic; the idea that scientists faked evidence resonates with conspiracy-minded audiences."
+  },
+  {
+    "unique_id": "science_0112_013_87352504e865072f",
+    "title": "The Chemist Who Accidentally Created a Smoke That Makes You Forget the Last 10 Minutes",
+    "hook": "While synthesizing a new compound, a chemist inhaled fumes—and couldn't remember how he got to the lab, what he was working on, or who he was.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "memory loss",
+      "inhalation",
+      "chemical accident",
+      "amnesia",
+      "neurotoxin"
+    ],
+    "overlap_check_hash": "87352504e865072f",
+    "why_this_can_go_viral": "The idea of a chemical that erases memory is terrifying and fascinating; viewers imagine scenarios where they lose themselves."
+  },
+  {
+    "unique_id": "science_0112_014_f544516b7e0a65ba",
+    "title": "The Neuroscientist Who Discovered That Your Brain Can 'Blind' You to Faces You Hate",
+    "hook": "Functional MRI scans revealed that when you see someone you despise, your brain literally deletes their face from your vision—you see a stranger.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 75,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "face blindness",
+      "emotion",
+      "vision",
+      "brain suppression",
+      "social perception"
+    ],
+    "overlap_check_hash": "f544516b7e0a65ba",
+    "why_this_can_go_viral": "Relatable phenomenon—everyone has people they dislike—but the scientific explanation is shocking and makes viewers test it themselves."
+  },
+  {
+    "unique_id": "science_0112_015_e0c459b0d3da141f",
+    "title": "The Biolab That Engineered a Virus That Targets Only Redheads",
+    "hook": "A genetics lab created a pathogen that attaches to a rare melanin receptor found almost exclusively in people with red hair—then the sample went missing.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 77,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "targeted virus",
+      "red hair",
+      "genetic weapon",
+      "bioterrorism",
+      "MC1R"
+    ],
+    "overlap_check_hash": "e0c459b0d3da141f",
+    "why_this_can_go_viral": "Biopolitical horror—the idea of a weaponized virus targeting a specific group is terrifying and sparks debates about genetic discrimination."
+  },
+  {
+    "unique_id": "science_0112_016_1e01201e227d0be7",
+    "title": "The Physics Anomaly Where a Black Hole Evaporated—Then Came Back",
+    "hook": "According to Hawking's theory, black holes should shrink and vanish—but one was observed losing mass, then inexplicably regrowing from nothing.",
+    "virality_score": 78,
+    "curiosity_gap_score": 86,
+    "darkness_score": 65,
+    "educational_value": 88,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "black hole",
+      "Hawking radiation",
+      "evaporation",
+      "quantum gravity",
+      "paradox"
+    ],
+    "overlap_check_hash": "1e01201e227d0be7",
+    "why_this_can_go_viral": "Black holes are always popular; the 'resurrection' twist defies known physics and invites speculation about new theories."
+  },
+  {
+    "unique_id": "science_0112_017_059c76dde2ced5eb",
+    "title": "The Forbidden Experiment That Raised a Chimp Like a Human—It Never Learned to Speak",
+    "hook": "A scientist treated a baby chimp as his own child, hoping to teach it language—instead, the chimp developed depression and attacked its own face.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "chimpanzee",
+      "language",
+      "psychology",
+      "animal testing",
+      "ethics"
+    ],
+    "overlap_check_hash": "059c76dde2ced5eb",
+    "why_this_can_go_viral": "Emotionally devastating story about animal consciousness and the limits of humanity; viewers feel sympathy and horror simultaneously."
+  },
+  {
+    "unique_id": "science_0112_018_234dbc82309a7ede",
+    "title": "The Chemist Who Made a Compound That Crystallizes Blood—Killing Instantly",
+    "hook": "A single drop of this clear liquid, when injected, turns your entire bloodstream into jagged crystals within seconds—there is no antidote.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "crystal",
+      "blood",
+      "poison",
+      "lethal compound",
+      "instant death"
+    ],
+    "overlap_check_hash": "234dbc82309a7ede",
+    "why_this_can_go_viral": "Visual and visceral horror—the image of blood turning to crystals is unforgettable; the 'no antidote' detail amplifies dread."
+  },
+  {
+    "unique_id": "science_0112_019_45aaaacfc5aa769f",
+    "title": "The Quantum Paradox Where a Particle Was Found in Two Galaxies at Once",
+    "hook": "A single photon was detected simultaneously in observatories millions of light-years apart—challenging the very nature of space and distance.",
+    "virality_score": 81,
+    "curiosity_gap_score": 90,
+    "darkness_score": 58,
+    "educational_value": 90,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "entanglement",
+      "nonlocality",
+      "photon",
+      "galaxies",
+      "reality"
+    ],
+    "overlap_check_hash": "45aaaacfc5aa769f",
+    "why_this_can_go_viral": "Mind-bending scale—the largest quantum superposition ever observed—creates awe and fuels philosophical discussions about reality."
+  },
+  {
+    "unique_id": "science_0112_020_d395717df63d89da",
+    "title": "The Neuroscientist Who Erased a Rat's Fear of Cats—Then Gave It Super Aggression",
+    "hook": "By genetically editing a fear center in the brain, he created a rat that not only ignored cats but attacked them—with brutal efficiency.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 79,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "fear",
+      "genetic editing",
+      "aggression",
+      "predator",
+      "CRISPR"
+    ],
+    "overlap_check_hash": "d395717df63d89da",
+    "why_this_can_go_viral": "The role reversal—prey becoming predator—is shocking; the 'super aggression' angle taps into fears of genetic modification run amok."
+  },
+  {
+    "unique_id": "science_0112_022_900b42f088e516df",
+    "title": "The Scientific Fraud Who Faked a 'Climate Change Is Fake' Study—Funded by Big Oil",
+    "hook": "A prominent climate scientist was paid millions to publish manipulated data that 'proved' global warming was a hoax—the truth was hidden for decades.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 83,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "climate change",
+      "Big Oil",
+      "fraud",
+      "manipulation",
+      "denial"
+    ],
+    "overlap_check_hash": "900b42f088e516df",
+    "why_this_can_go_viral": "Highly controversial and politically charged; the conspiracy angle drives engagement from both sides of the climate debate."
+  },
+  {
+    "unique_id": "science_0112_023_698cdbf63dc86678",
+    "title": "The Lab Catastrophe Where a Magnetic Field Crushed a Researcher's Internal Organs",
+    "hook": "A scientist stepped too close to an MRI machine with a metal tool in his pocket—the magnetic force pulled it through his body, shredding his intestines.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 91,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "MRI",
+      "magnetic field",
+      "metal projectile",
+      "internal injury",
+      "accident"
+    ],
+    "overlap_check_hash": "698cdbf63dc86678",
+    "why_this_can_go_viral": "Graphic, real-world accident that could happen to anyone near strong magnets; the visceral description ensures high retention."
+  },
+  {
+    "unique_id": "science_0112_025_7b18efe6c2036e87",
+    "title": "The Chemist Who Made a Foam That Absorbs Sound—Then Suffocated in Silence",
+    "hook": "He built a chamber lined with his sound-proofing foam, stepped inside to test it, and nobody heard his screams as the room collapsed.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 90,
+    "educational_value": 69,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "sound proof",
+      "foam",
+      "suffocation",
+      "accident",
+      "silence"
+    ],
+    "overlap_check_hash": "7b18efe6c2036e87",
+    "why_this_can_go_viral": "The irony of dying silently in a sound-proof room is haunting; the 'nobody heard him' detail creates a tragic, shareable story."
+  }
+]

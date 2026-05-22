@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "sports_0073_001_d10ef1274241da3e",
+    "title": "The Doping Doctor Who Grew Human Testicles in Horses for Athletes",
+    "hook": "A rogue endocrinologist transplanted human testicular tissue into racehorses, then harvested their blood to create a 'super-steroid' for Olympic sprinters.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "doping",
+      "human-horse hybrid",
+      "endocrinologist",
+      "Olympic scandal",
+      "testicle transplant"
+    ],
+    "overlap_check_hash": "d10ef1274241da3e",
+    "why_this_can_go_viral": "Body horror meets elite sports—the visceral shock of the procedure combined with the 'did this really happen?' mystery guarantees shares and comments."
+  },
+  {
+    "unique_id": "sports_0073_002_378e2907f57b6604",
+    "title": "The Mafia That Bought a Soccer Club to Launder Money Through Player Transfers",
+    "hook": "A Calabrian 'Ndrangheta clan purchased a lower-league Italian soccer team and used fake player contracts to move millions—while the team kept losing on purpose.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "mafia",
+      "money laundering",
+      "soccer",
+      "Ndrangheta",
+      "player transfers"
+    ],
+    "overlap_check_hash": "378e2907f57b6604",
+    "why_this_can_go_viral": "True crime meets futbol—viewers love the revelation that their favorite sport is used as a shell game for organized crime."
+  },
+  {
+    "unique_id": "sports_0073_004_1bb043021fafec90",
+    "title": "The Referee Who Fixed Boxing Matches by Adjusting the Ring Ropes",
+    "hook": "A corrupt referee in Manila would secretly loosen the ring ropes before a fight, giving the favored fighter more bounce—and the underdog a knockout they never saw coming.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 55,
+    "estimated_short_retention": 78,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "boxing",
+      "referee",
+      "fixed match",
+      "Manila",
+      "ring ropes"
+    ],
+    "overlap_check_hash": "1bb043021fafec90",
+    "why_this_can_go_viral": "The simplicity of the cheat—a rope adjustment—makes it incredibly shareable; fans love 'inside baseball' about how fights are rigged."
+  },
+  {
+    "unique_id": "sports_0073_005_d4d54b3ce4df7bc3",
+    "title": "The Lab That Made Cyclists Sleep in Oxygen-Tents That Slowly Asphyxiated Them",
+    "hook": "A Soviet sports lab built 'hypoxic chambers' for cyclists that simulated altitude—but a design flaw caused carbon dioxide buildup, silently shutting down riders' organs mid-sleep.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "hypoxic chamber",
+      "Soviet cycling",
+      "oxygen tent",
+      "experiment",
+      "asphyxiation"
+    ],
+    "overlap_check_hash": "d4d54b3ce4df7bc3",
+    "why_this_can_go_viral": "The 'sleeping death' angle combined with Cold War secrecy taps into both horror and historical intrigue—perfect for the dark-doc format."
+  },
+  {
+    "unique_id": "sports_0073_008_1271f9d8f9fceec5",
+    "title": "The Businessman Who Sold 'Cryo-Boots' That Gave Athletes Frostbite",
+    "hook": "A German entrepreneur marketed 'recovery boots' that used liquid nitrogen to reduce inflammation—but a faulty valve froze a soccer player's feet solid, requiring amputation.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 89,
+    "educational_value": 55,
+    "estimated_short_retention": 79,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "cryotherapy",
+      "recovery boots",
+      "frostbite",
+      "soccer",
+      "business scam"
+    ],
+    "overlap_check_hash": "1271f9d8f9fceec5",
+    "why_this_can_go_viral": "The 'wellness product gone horribly wrong' angle resonates with anyone suspicious of trendy recovery gadgets—outrage + horror = viral."
+  },
+  {
+    "unique_id": "sports_0073_009_ff5ee95d9f381a85",
+    "title": "The Doping Lab That Used Shark Liver Oil Mixed with Strychnine for 'Explosive Power'",
+    "hook": "A 1970s East German lab concocted a 'performance oil' from shark liver and strychnine—giving weightlifters superhuman strength but causing violent seizures after competition.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 93,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "East Germany",
+      "shark liver",
+      "strychnine",
+      "weightlifting",
+      "doping"
+    ],
+    "overlap_check_hash": "ff5ee95d9f381a85",
+    "why_this_can_go_viral": "The absurdity of the ingredients combined with the lethal side effects creates a 'can't look away' shock factor."
+  },
+  {
+    "unique_id": "sports_0073_010_e9ba6c8373e40c5a",
+    "title": "The Mafia That Controlled a Boxer by Threatening His Mother's Oxygen Supply",
+    "hook": "A Sicilian mafia clan rigged a boxer's fights by installing a cut-off valve on his elderly mother's medical oxygen tank—one wrong punch and she suffocated.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 99,
+    "educational_value": 50,
+    "estimated_short_retention": 92,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "boxing",
+      "mafia",
+      "mother",
+      "oxygen tank",
+      "coercion"
+    ],
+    "overlap_check_hash": "e9ba6c8373e40c5a",
+    "why_this_can_go_viral": "Ultimate emotional stakes (mother's life) combined with mafia brutality—this is the kind of story that gets millions of views through word-of-mouth."
+  },
+  {
+    "unique_id": "sports_0073_011_aae551120024c024",
+    "title": "The Coach Who Made His Runners Eat Radioactive Soil for 'Endurance'",
+    "hook": "A Soviet marathon coach believed trace amounts of uranium in soil from a secret test site would boost red blood cell count—instead, it gave his team bone cancer.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 96,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "radioactive",
+      "marathon",
+      "Soviet",
+      "cancer",
+      "soil"
+    ],
+    "overlap_check_hash": "aae551120024c024",
+    "why_this_can_go_viral": "Radioactive pseudoscience + innocent athletes being sacrificed = a powerful true-crime-meets-sports story that drives outrage shares."
+  },
+  {
+    "unique_id": "sports_0073_012_89fe48a79c75bf03",
+    "title": "The Referee Who Fixed Golf Tournaments by Reshaping the Greens at Night",
+    "hook": "A corrupt golf official snuck onto courses before dawn and subtly reshaped the putting greens with a custom roller—funneling balls toward his betting partner's pin placement.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 76,
+    "educational_value": 60,
+    "estimated_short_retention": 75,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "golf",
+      "putting green",
+      "referee",
+      "night sabotage",
+      "betting"
+    ],
+    "overlap_check_hash": "89fe48a79c75bf03",
+    "why_this_can_go_viral": "Golf fans obsess over course conditions—the idea that the green itself was a weapon is a perfect 'hidden system' reveal."
+  },
+  {
+    "unique_id": "sports_0073_013_288b4ac9ae89e72e",
+    "title": "The Lab That Tried to Give Alpine Skiers Cat Eyes for Night Races",
+    "hook": "A Japanese bioengineering lab injected retinal extracts from nocturnal cats into skiers' eyes, aiming to give them night vision—but it caused permanent light sensitivity and blindness.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 91,
+    "educational_value": 65,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "skiing",
+      "cat eyes",
+      "retinal injection",
+      "night vision",
+      "blindness"
+    ],
+    "overlap_check_hash": "288b4ac9ae89e72e",
+    "why_this_can_go_viral": "Body modification for sport is a perennial viral topic—'cat eyes' is a sci-fi hook that feels both real and terrifying."
+  },
+  {
+    "unique_id": "sports_0073_014_8bed62f1233c998b",
+    "title": "The Psychologist Who Framed a Volleyball Star for Doping to Break Her Team",
+    "hook": "Desperate to weaken a rival national team, a sports psychologist planted banned substances in a star player's shampoo—then anonymously tipped off the testers.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 84,
+    "educational_value": 55,
+    "estimated_short_retention": 81,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "volleyball",
+      "planted evidence",
+      "shampoo",
+      "doping",
+      "sabotage"
+    ],
+    "overlap_check_hash": "8bed62f1233c998b",
+    "why_this_can_go_viral": "The 'perfect crime' psychological thriller angle—viewers love the cat-and-mouse of a manipulation that destroyed a team without a single punch."
+  },
+  {
+    "unique_id": "sports_0073_015_ea98aac03953b0f8",
+    "title": "The Betting Syndicate That Used Parrot Messengers to Fix Horse Races",
+    "hook": "An Indian betting ring trained parrots to carry coded messages in their beaks, landing on jockeys' shoulders mid-race to signal when to hold back.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 74,
+    "educational_value": 60,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "horse racing",
+      "parrot",
+      "coded messages",
+      "jockey",
+      "India"
+    ],
+    "overlap_check_hash": "ea98aac03953b0f8",
+    "why_this_can_go_viral": "The absurdity of using birds as crime tools is instantly shareable—viewers will tag friends just for the 'wait, what?' factor."
+  },
+  {
+    "unique_id": "sports_0073_016_5943f555278b2b04",
+    "title": "The Businessman Who Sold 'Energy Drinks' That Contained Battery Acid",
+    "hook": "A Colombian 'sports tonic' manufacturer added sulfuric acid to his energy drinks to give athletes a 'zesty burn'—but it dissolved their esophageal lining over months.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 60,
+    "estimated_short_retention": 83,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "energy drink",
+      "battery acid",
+      "Colombia",
+      "tonic",
+      "esophagus"
+    ],
+    "overlap_check_hash": "5943f555278b2b04",
+    "why_this_can_go_viral": "The 'what's really in your drink?' fear factor + body horror makes this a high-retention, high-share topic."
+  },
+  {
+    "unique_id": "sports_0073_017_6c38948add6c7a75",
+    "title": "The Doping Ring That Used Placenta Injections from HIV-Positive Mothers",
+    "hook": "A black-market doping network in South Africa harvested placentas from HIV-positive women and injected the extracts into rugby players as a 'growth serum'.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "placenta",
+      "HIV",
+      "rugby",
+      "South Africa",
+      "growth serum"
+    ],
+    "overlap_check_hash": "6c38948add6c7a75",
+    "why_this_can_go_viral": "The medical horror and ethical violation are extreme—this story will spread via shock and outrage across multiple platforms."
+  },
+  {
+    "unique_id": "sports_0073_018_7740036934e08b49",
+    "title": "The Mafia That Owned a Hockey Team's Zamboni Driver to Control the Ice",
+    "hook": "A Russian mafia group bribed a Zamboni driver to manipulate ice temperature during critical games—softer ice slowed down the opposing team's fastest skaters.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 79,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "hockey",
+      "Zamboni",
+      "ice quality",
+      "mafia",
+      "Russia"
+    ],
+    "overlap_check_hash": "7740036934e08b49",
+    "why_this_can_go_viral": "The 'lowest-tech sabotage in a high-tech sport' angle is fascinating—hockey fans will fight in the comments over whether this really works."
+  },
+  {
+    "unique_id": "sports_0073_019_40106e4d6fd493c3",
+    "title": "The Coach Who Kept His Swimmers in Blindfolds for Weeks to Sharpen Their Feel",
+    "hook": "A Japanese swimming coach believed depriving athletes of sight for 14 days would heighten their spatial awareness in the water—but they emerged with permanent visual hallucinations.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "blindfold",
+      "swimming",
+      "sensory deprivation",
+      "Japan",
+      "hallucination"
+    ],
+    "overlap_check_hash": "40106e4d6fd493c3",
+    "why_this_can_go_viral": "Sensory deprivation is a perennial dark-psychology hook—the 'permanent damage' twist elevates it to horror-doc territory."
+  },
+  {
+    "unique_id": "sports_0073_020_f8403677ae1e39d6",
+    "title": "The Referee Who Fixed MMA Fights by Pretending Not to See Taps",
+    "hook": "A referee in underground MMA was paid to 'miss' tap-outs—letting fighters get choked unconscious so the betting favorite could win by technical knockout instead of submission.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 83,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "MMA",
+      "referee",
+      "tap-out",
+      "fixed fight",
+      "technical knockout"
+    ],
+    "overlap_check_hash": "f8403677ae1e39d6",
+    "why_this_can_go_viral": "Fight fans obsess over referee decisions—the idea that a ref deliberately ignored taps to rig a bet is infuriating and highly shareable."
+  },
+  {
+    "unique_id": "sports_0073_022_c8868e0699f81cef",
+    "title": "The Psychologist Who Hypnotized a Soccer Team to Forget Their Formation",
+    "hook": "A rival team hired a hypnotist to sit in the stands and repeatedly flash a subliminal image during a match, causing defenders to forget their positions and let in goals.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 77,
+    "educational_value": 50,
+    "estimated_short_retention": 78,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "soccer",
+      "hypnosis",
+      "subliminal",
+      "formation",
+      "rival"
+    ],
+    "overlap_check_hash": "c8868e0699f81cef",
+    "why_this_can_go_viral": "The 'mind control' angle is highly clickable—soccer fans will debate whether hypnosis actually works in the comments, boosting engagement."
+  },
+  {
+    "unique_id": "sports_0073_023_0f6fde9af4147669",
+    "title": "The Match-Fixing Network That Used Tattoo Ink Codes on Players' Necks",
+    "hook": "A European match-fixing ring paid soccer players to get 'temporary tattoos' before games—the invisible ink revealed betting signals only under UV light in the tunnel.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 79,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "tattoo",
+      "UV ink",
+      "soccer",
+      "betting",
+      "match-fixing"
+    ],
+    "overlap_check_hash": "0f6fde9af4147669",
+    "why_this_can_go_viral": "Spy-tech meets sports—the hidden-in-plain-sight mechanism is exactly the kind of clever detail that drives high curiosity clicks."
+  },
+  {
+    "unique_id": "sports_0073_024_aed8fe7514e86fb5",
+    "title": "The Businessman Who Sold 'Oxygen Bars' That Gave Athletes Carbon Monoxide Poisoning",
+    "hook": "A fitness entrepreneur opened 'oxygen bars' for athletes—but the machines were faulty and pumped carbon monoxide instead, silently starving their blood of oxygen mid-workout.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 86,
+    "educational_value": 60,
+    "estimated_short_retention": 77,
+    "niche_name": "sports",
+    "subcategory": "sports dark business",
+    "keywords": [
+      "oxygen bar",
+      "carbon monoxide",
+      "fitness",
+      "poisoning",
+      "entrepreneur"
+    ],
+    "overlap_check_hash": "aed8fe7514e86fb5",
+    "why_this_can_go_viral": "The 'wellness trend that kills you slowly' narrative is highly shareable—viewers love to feel smarter than the victims of a dangerous fad."
+  }
+]

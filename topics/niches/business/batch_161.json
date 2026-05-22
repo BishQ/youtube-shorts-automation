@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "business_0161_001_6b70de03f605098c",
+    "title": "The CEO Who Posed as a Patient—Then Poisoned Rival Hospital Chains",
+    "hook": "A healthcare CEO faked terminal illness to infiltrate 12 competing hospitals, injecting bacteria into their IV supplies to trigger sepsis outbreaks and sink their reputations.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "hospital sabotage",
+      "CEO infiltration",
+      "medical fraud",
+      "corporate war",
+      "bio attack"
+    ],
+    "overlap_check_hash": "6b70de03f605098c",
+    "why_this_can_go_viral": "Medical horror meets corporate thriller—viewers are obsessed with how far CEOs will go to destroy competition, especially when lives are at stake."
+  },
+  {
+    "unique_id": "business_0161_002_8b605fc0afb4faee",
+    "title": "The Shell Company That Traded Air—How a Ghost Firm Made $2 Billion on Nothing",
+    "hook": "A shell company in a Cayman mailroom issued fake carbon credits for 'air purification' and sold them to 40 Fortune 500 firms, pocketing $2 billion before vanishing.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 82,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "shell company",
+      "carbon credit scam",
+      "ghost firm",
+      "empty trading",
+      "billion-dollar fraud"
+    ],
+    "overlap_check_hash": "8b605fc0afb4faee",
+    "why_this_can_go_viral": "The sheer audacity of selling 'nothing' to giants like Apple and Exxon triggers outrage and disbelief, perfect for share-bait."
+  },
+  {
+    "unique_id": "business_0161_003_5c3e8b29359510a0",
+    "title": "The Startup Sold 'Smart' Refrigerators—They Were Mining Your DNA from Leftovers",
+    "hook": "A kitchen tech startup offered free 'smart' fridges that scanned your food waste, secretly extracted DNA from discarded apple cores, and sold your genetic profile to insurers.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "smart fridge",
+      "DNA theft",
+      "genetic privacy",
+      "startup scam",
+      "biohacking"
+    ],
+    "overlap_check_hash": "5c3e8b29359510a0",
+    "why_this_can_go_viral": "DNA privacy is a top-tier fear trigger; combining it with a household appliance makes it feel inescapable and terrifyingly real."
+  },
+  {
+    "unique_id": "business_0161_004_e2751d71d52c3539",
+    "title": "The Monopoly That Bought Every Vineyard—Then Laced Grapes with Microplastics",
+    "hook": "A wine conglomerate bought 80% of global vineyards, then secretly sprayed microplastics onto grapes to create 'artificial aging'—and charged luxury prices for poison.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 94,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "wine monopoly",
+      "microplastic scandal",
+      "luxury poison",
+      "grape sabotage",
+      "food fraud"
+    ],
+    "overlap_check_hash": "e2751d71d52c3539",
+    "why_this_can_go_viral": "Wine lovers and health-conscious viewers collide—this reveals a hidden contaminant in a status symbol, driving massive disgust and shares."
+  },
+  {
+    "unique_id": "business_0161_005_2cfdb6e1042d2eb3",
+    "title": "The Corporate Spy Who Used Perfume to Steal Rival's Trade Secret Formula",
+    "hook": "A spy wore a custom-designed perfume that absorbed airborne chemical compounds in a competitor's factory, then analyzed the scent to reverse-engineer their flagship product.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 79,
+    "educational_value": 80,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "scent espionage",
+      "trade secret theft",
+      "perfume hack",
+      "chemical sniffing",
+      "industrial spy"
+    ],
+    "overlap_check_hash": "2cfdb6e1042d2eb3",
+    "why_this_can_go_viral": "The James-Bond-like novelty of using perfume as a spy tool is instantly shareable—people love real-world spycraft."
+  },
+  {
+    "unique_id": "business_0161_007_eda5ea2f8a209492",
+    "title": "The Supply Chain Secret of 'Wild Caught' Salmon—It Was Sewage-Fed Farm Fish",
+    "hook": "A major seafood supplier dyed gray farmed salmon pink, fed them on sewage sludge, and stamped them 'wild caught Alaskan'—a secret that sickened 12,000 people.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 96,
+    "educational_value": 85,
+    "estimated_short_retention": 91,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "salmon fraud",
+      "sewage fish",
+      "wild caught lie",
+      "seafood scandal",
+      "food poisoning"
+    ],
+    "overlap_check_hash": "eda5ea2f8a209492",
+    "why_this_can_go_viral": "Seafood fraud is a universal concern—this detail (sewage-fed fish) is so grotesque it guarantees shares and comments."
+  },
+  {
+    "unique_id": "business_0161_008_c1781b70daacfb68",
+    "title": "The Industry Cover-Up of 'Fire-Resistant' Paint—It Melted Homes into Infernos",
+    "hook": "A construction giant sold fire-resistant paint that actually contained accelerants, causing 50 homes to burn faster—then paid victims to sign NDAs in exchange for hospital bills.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 93,
+    "educational_value": 80,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "paint cover-up",
+      "fire hazard",
+      "NDA scandal",
+      "home burning",
+      "construction fraud"
+    ],
+    "overlap_check_hash": "c1781b70daacfb68",
+    "why_this_can_go_viral": "Home safety betrayal is a primal fear; viewers will share to warn friends and family, especially in fire-prone regions."
+  },
+  {
+    "unique_id": "business_0161_009_fd87232258e15457",
+    "title": "The Trader Who Used Fishing Sonar to Predict Oil Spill Stocks",
+    "hook": "A hedge fund rigged a fishing trawler with military-grade sonar to detect underwater oil leaks before BP did, then shorted oil stocks minutes before public announcements.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 84,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "oil spill trading",
+      "sonar hack",
+      "insider info",
+      "environmental fraud",
+      "hedge fund trick"
+    ],
+    "overlap_check_hash": "fd87232258e15457",
+    "why_this_can_go_viral": "Turning an environmental disaster into profit is a classic 'evil genius' story that sparks outrage and fascination."
+  },
+  {
+    "unique_id": "business_0161_010_3eb8aca672d6c2a6",
+    "title": "The Startup Sold 'Eco-Friendly' Coffins—They Were Hollow Cardboard Death Traps",
+    "hook": "A green funeral startup sold biodegradable coffins made of recycled cardboard that collapsed during burials, dumping bodies into open pits and contaminating groundwater.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 95,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "coffin scam",
+      "eco funeral",
+      "cardboard death",
+      "burial disaster",
+      "greenwashing"
+    ],
+    "overlap_check_hash": "3eb8aca672d6c2a6",
+    "why_this_can_go_viral": "Death and greenwashing combined—people feel duped twice, making it highly emotional and shareable."
+  },
+  {
+    "unique_id": "business_0161_011_0945644e781921da",
+    "title": "The Monopoly That Bought Every Pharmacy—Then Sold Fake Insulin for $1,000 a Vial",
+    "hook": "A pharma monopoly acquired 90% of independent pharmacies, then replaced insulin with a diluted sugar-water solution, blamed 'supply chain issues,' and raised prices 500%.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 99,
+    "educational_value": 88,
+    "estimated_short_retention": 94,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "insulin scam",
+      "fake insulin",
+      "pharmacy monopoly",
+      "sugar water",
+      "price gouging"
+    ],
+    "overlap_check_hash": "0945644e781921da",
+    "why_this_can_go_viral": "Insulin is a literal life-or-death necessity—this story enrages diabetics and allies, guaranteeing massive sharing and calls for justice."
+  },
+  {
+    "unique_id": "business_0161_012_d04fcd3990b88735",
+    "title": "The Corporate Spy Who Bathed in Rival's Sewage to Steal Chemical Recipes",
+    "hook": "A spy crawled into a competitor's industrial sewer pipe, collected sludge samples, and analyzed the chemical runoff to replicate their best-selling cleaning formula.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 76,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "sewer spy",
+      "chemical theft",
+      "industrial espionage",
+      "sludge hack",
+      "formula steal"
+    ],
+    "overlap_check_hash": "d04fcd3990b88735",
+    "why_this_can_go_viral": "The grotesque method (bathing in sewage) is unforgettable—gross-out curiosity drives clicks and shares."
+  },
+  {
+    "unique_id": "business_0161_013_5bdb9146825f3fc0",
+    "title": "The Dark Marketing Firm That Turned Church Tithe Records Into Loan Shaming",
+    "hook": "A marketing firm bought church donation databases, identified members who gave less than 10%, and mailed them threatening 'suggested donation' invoices—which were actually loan contracts with 400% interest.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "church scam",
+      "tithe exploitation",
+      "loan shaming",
+      "religious fraud",
+      "debt trap"
+    ],
+    "overlap_check_hash": "5bdb9146825f3fc0",
+    "why_this_can_go_viral": "Religious betrayal crosses a moral line—believers and skeptics alike share this as a warning about fake piety."
+  },
+  {
+    "unique_id": "business_0161_014_f81ae0eb6642ab94",
+    "title": "The Supply Chain Secret of 'Organic' Chicken—It Was Injected with Pork Fat and Dye",
+    "hook": "A poultry giant injected organic-labeled chickens with pork fat and red dye to make them look plump, then sold them as 'free-range'—halal and kosher communities were poisoned.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 84,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "chicken fraud",
+      "organic lie",
+      "pork injection",
+      "religious contamination",
+      "food scam"
+    ],
+    "overlap_check_hash": "f81ae0eb6642ab94",
+    "why_this_can_go_viral": "Religious dietary violations add a layer of cultural betrayal—this story triggers anger across multiple communities."
+  },
+  {
+    "unique_id": "business_0161_015_ef95daf0a10db06b",
+    "title": "The Industry Cover-Up of 'Lead-Free' Pipes—They Were Leaching Arsenic into Schools",
+    "hook": "A pipe manufacturer sold 'lead-free' copper pipes that were actually coated in arsenic-laced solder, contaminating drinking water in 200 elementary schools—then blamed 'old infrastructure.'",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 86,
+    "estimated_short_retention": 92,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "pipe scandal",
+      "arsenic water",
+      "school poisoning",
+      "infrastructure cover-up",
+      "lead-free lie"
+    ],
+    "overlap_check_hash": "ef95daf0a10db06b",
+    "why_this_can_go_viral": "Children's health + corporate lies = explosive viral formula—parents will share aggressively."
+  },
+  {
+    "unique_id": "business_0161_016_38396ddc66bf1e90",
+    "title": "The Trader Who Used Tidal Sensors to Predict Shipping Cartel Crashes",
+    "hook": "A rogue trader hacked government tidal sensors, used wave-height data to estimate cargo ship speeds, and shorted shipping stocks before 20 port congestion announcements.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 82,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "tidal hack",
+      "shipping stocks",
+      "port congestion",
+      "rogue trader",
+      "sensor exploit"
+    ],
+    "overlap_check_hash": "38396ddc66bf1e90",
+    "why_this_can_go_viral": "Using nature data to manipulate markets is a fresh, clever angle that appeals to 'tech genius' fascination."
+  },
+  {
+    "unique_id": "business_0161_017_ade3c4fc526f7936",
+    "title": "The Startup Sold 'Smart' Baby Monitors—They Were Livestreaming to Pedophile Rings",
+    "hook": "A baby tech startup equipped monitors with hidden cameras that streamed directly to a dark web site, where buyers paid $500 monthly to watch infants undetected.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 100,
+    "educational_value": 70,
+    "estimated_short_retention": 96,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "baby monitor hack",
+      "dark web stream",
+      "child safety",
+      "smart home horror",
+      "spy cam"
+    ],
+    "overlap_check_hash": "ade3c4fc526f7936",
+    "why_this_can_go_viral": "Maximum darkness and parental fear—this is the kind of story that spreads instantly via outrage and horror."
+  },
+  {
+    "unique_id": "business_0161_018_f12ba004c8c0ea73",
+    "title": "The Monopoly That Bought Every Toy Factory—Then Sold Dolls with Hidden Razors",
+    "hook": "A toy monopoly acquired all rival factories, then secretly embedded tiny blades inside plush dolls to injure children, driving families to buy their 'safe' replacement line.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 75,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "toy sabotage",
+      "hidden razor",
+      "child injury",
+      "monopoly trap",
+      "safe line scam"
+    ],
+    "overlap_check_hash": "f12ba004c8c0ea73",
+    "why_this_can_go_viral": "Children as collateral damage is the ultimate taboo—this story will trigger viral anger and safety warnings."
+  },
+  {
+    "unique_id": "business_0161_019_25643e33a72c201e",
+    "title": "The Corporate Spy Who Trained a Parrot to Record Rival's Board Meetings",
+    "hook": "A spy left a trained parrot in a competitor's office for six months—the bird memorized 17 hours of confidential meetings and repeated them verbatim for a $2 million payoff.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 71,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "parrot spy",
+      "talking bird",
+      "board meeting theft",
+      "animal espionage",
+      "trade secret"
+    ],
+    "overlap_check_hash": "25643e33a72c201e",
+    "why_this_can_go_viral": "The absurdity is gold—people will share for the 'no way' factor, driving massive curiosity clicks."
+  },
+  {
+    "unique_id": "business_0161_022_186fc101d1591367",
+    "title": "The Industry Cover-Up of 'Soundproof' Windows—They Amplified Traffic Noise by 300%",
+    "hook": "A window monopoly sold 'soundproof' panes that were actually built with resonance chambers, making street noise louder indoors—then bribed noise inspectors to certify them.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 83,
+    "educational_value": 77,
+    "estimated_short_retention": 79,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "window scam",
+      "noise pollution",
+      "soundproof lie",
+      "bribery",
+      "home horror"
+    ],
+    "overlap_check_hash": "186fc101d1591367",
+    "why_this_can_go_viral": "Home improvement scams are relatable—everyone who bought soundproof windows will share in fury."
+  },
+  {
+    "unique_id": "business_0161_024_8bc8060e63796a0f",
+    "title": "The CEO Who Bought a Cable Company—Then Sold User Data to Stalkers",
+    "hook": "A CEO bought a regional cable ISP, installed spyware on routers, gathered GPS and browsing data from 200,000 homes, and sold it to domestic abusers and stalkers for $50 a pop.",
+    "virality_score": 94,
+    "curiosity_gap_score": 98,
+    "darkness_score": 100,
+    "educational_value": 80,
+    "estimated_short_retention": 95,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "cable spyware",
+      "stalker data",
+      "CEO crime",
+      "privacy violation",
+      "domestic abuse"
+    ],
+    "overlap_check_hash": "8bc8060e63796a0f",
+    "why_this_can_go_viral": "Privacy violation plus domestic violence creates a perfect storm of outrage—this will be shared as a warning."
+  },
+  {
+    "unique_id": "business_0161_025_7de1b93c4a4882a7",
+    "title": "The Startup Sold 'Smart' Locks—They Had Master Keys Sold on the Dark Web",
+    "hook": "A smart lock startup installed a universal backdoor (a 'master code') and sold access to dark web burglars, who could unlock any door and leave no trace.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 94,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "smart lock hack",
+      "dark web key",
+      "home security scam",
+      "burglar backdoor",
+      "IoT fraud"
+    ],
+    "overlap_check_hash": "7de1b93c4a4882a7",
+    "why_this_can_go_viral": "Home security turned into vulnerability is a primal fear—millions with smart locks will share in panic."
+  }
+]

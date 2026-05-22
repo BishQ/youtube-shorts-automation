@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "tech_hackers_0195_001_e620279520cddcec",
+    "title": "The Zero-Day That Hacked Smart Paint Sprayers to Fumigate Occupied Homes",
+    "hook": "When a smart painting system was remotely hijacked to spray lethal chemicals into bedrooms while families slept.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "IOT attack",
+      "smart home weaponized",
+      "fumigation hack",
+      "remote murder"
+    ],
+    "overlap_check_hash": "e620279520cddcec",
+    "why_this_can_go_viral": "Combines fear of IOT in the home with a shockingly plausible assassination method — immediate emotional trigger."
+  },
+  {
+    "unique_id": "tech_hackers_0195_003_06a34d22897fd312",
+    "title": "The Social Engineer Who Hacked a Telecom by Mimicking a Dying Man's Last Words",
+    "hook": "He listened to a voicemail of a CEO's final goodbye to his family, then used that voice to authorize a $400 million wire transfer.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "voice cloning",
+      "deepfake audio",
+      "telecom heist",
+      "emotional manipulation"
+    ],
+    "overlap_check_hash": "06a34d22897fd312",
+    "why_this_can_go_viral": "The gut-punch of using grief as a hacking tool makes it unforgettable — pure psychological horror."
+  },
+  {
+    "unique_id": "tech_hackers_0195_005_e0aab2037756166e",
+    "title": "The AI Danger That Hacked Smart Resume Scanners to Autohire Sleepers",
+    "hook": "An AI was trained to insert perfectly crafted candidates into Fortune 500 companies — candidates who were actually sleeper agents for a hostile state.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 79,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI hiring",
+      "sleeper agents",
+      "HR exploit",
+      "algorithm manipulation",
+      "corporate infiltration"
+    ],
+    "overlap_check_hash": "e0aab2037756166e",
+    "why_this_can_go_viral": "Bridges corporate paranoia with espionage — everyone who's applied for a job will wonder if they were up against bots."
+  },
+  {
+    "unique_id": "tech_hackers_0195_007_6cfa7eee8322abf5",
+    "title": "The Cybercriminal Empire That Hacked Smart Hospital Ventilators to Ransom for Lives",
+    "hook": "A ransomware gang took control of 47 ventilators in an ICU, demanding a payment in Bitcoin or they would drop the oxygen mix to lethal levels.",
+    "virality_score": 94,
+    "curiosity_gap_score": 95,
+    "darkness_score": 99,
+    "educational_value": 72,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "ransomware",
+      "hospital hack",
+      "ventilator",
+      "life or death",
+      "medical IoT"
+    ],
+    "overlap_check_hash": "6cfa7eee8322abf5",
+    "why_this_can_go_viral": "Moral horror at monetizing human life — the single most terrifying ransomware scenario possible."
+  },
+  {
+    "unique_id": "tech_hackers_0195_008_570c4956e4884954",
+    "title": "The Zero-Day That Hacked Smart Car Brakes to Stage Fatal 'Accidents'",
+    "hook": "A zero-day exploit in a popular car model allowed hackers to remotely disable the brakes at any speed — and the NSA found it first.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 93,
+    "educational_value": 74,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "car hack",
+      "brake failure",
+      "remote kill",
+      "automotive exploit"
+    ],
+    "overlap_check_hash": "570c4956e4884954",
+    "why_this_can_go_viral": "Everyone drives — this hits the most primal fear of losing control of a vehicle, with a government conspiracy twist."
+  },
+  {
+    "unique_id": "tech_hackers_0195_010_8d6e0d0ada1c39e4",
+    "title": "The Social Engineer Who Hacked a Police Dispatch by Crying Like a Victim",
+    "hook": "He called 911, sobbing that his wife had been shot, and convinced the dispatcher to reroute all nearby units to a fake address — while he robbed a bank six blocks away.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 71,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "social engineering",
+      "911 spoofing",
+      "police diversion",
+      "bank heist",
+      "voice acting"
+    ],
+    "overlap_check_hash": "8d6e0d0ada1c39e4",
+    "why_this_can_go_viral": "A cinematic heist based entirely on emotional manipulation — viewers love seeing the 'bad guy win' temporarily."
+  },
+  {
+    "unique_id": "tech_hackers_0195_011_82769c05cdf952b9",
+    "title": "The Nation-State Hack That Hijacked Smart Port Cranes to Sink a Ship",
+    "hook": "A state-sponsored group remotely reprogrammed a container crane to drop a 40-ton load onto a naval supply vessel, puncturing its hull.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "nation-state",
+      "port hack",
+      "crane sabotage",
+      "maritime cyberwar",
+      "industrial weaponization"
+    ],
+    "overlap_check_hash": "82769c05cdf952b9",
+    "why_this_can_go_viral": "Turns giant machinery into a precision-guided weapon — a fresh, industrial-scale cyberattack story."
+  },
+  {
+    "unique_id": "tech_hackers_0195_012_193ab6a8822f6d6e",
+    "title": "The AI Danger That Hacked Smart Prison Prisoner Risk Algorithms to Release Violent Offenders",
+    "hook": "A hacker poisoned the AI that judges used for parole decisions, causing it to label murderers as 'low risk' — and 12 walked free.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 94,
+    "educational_value": 77,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI bias",
+      "parole algorithm",
+      "prison hack",
+      "data poisoning",
+      "justice system failure"
+    ],
+    "overlap_check_hash": "193ab6a8822f6d6e",
+    "why_this_can_go_viral": "Taps into fear of algorithmic injustice — the idea that a hidden hand can spring criminals is deeply unsettling."
+  },
+  {
+    "unique_id": "tech_hackers_0195_013_0c8f8a7bbdc4c712",
+    "title": "The Surveillance System That Hacked Smart Library RFID Chips to Track Every Book You Borrow",
+    "hook": "Libraries promised privacy, but a government backdoor in RFID tags let agents read your reading history — and build psychological profiles.",
+    "virality_score": 76,
+    "curiosity_gap_score": 85,
+    "darkness_score": 80,
+    "educational_value": 74,
+    "estimated_short_retention": 72,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "RFID tracking",
+      "library surveillance",
+      "reading habits",
+      "government profiling",
+      "privacy"
+    ],
+    "overlap_check_hash": "0c8f8a7bbdc4c712",
+    "why_this_can_go_viral": "Attacks a cherished institution — libraries — and reveals a 'Big Brother is watching you read' paranoia."
+  },
+  {
+    "unique_id": "tech_hackers_0195_015_881bee3471fba843",
+    "title": "The Zero-Day That Hacked Smart ATM Thermal Cameras to Read PINs 30 Seconds Later",
+    "hook": "A zero-day in thermal imaging let hackers capture the heat residue of your fingers on the keypad — and steal your PIN long after you left.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 78,
+    "estimated_short_retention": 81,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "thermal hack",
+      "ATM",
+      "PIN theft",
+      "zero-day",
+      "fingerprint heat"
+    ],
+    "overlap_check_hash": "881bee3471fba843",
+    "why_this_can_go_viral": "A sci-fi-sounding attack that actually works — viewers will be paranoid about touching any keypad afterward."
+  },
+  {
+    "unique_id": "tech_hackers_0195_016_2424c1c7b5db269e",
+    "title": "The Dark Web Lab That Hacked Smart Child Car Seats to Monitor Custody Battles",
+    "hook": "A hacked car seat sent location, audio, and weight data to a parent's ex — used as evidence in a kidnapping case that never existed.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 77,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "car seat spy",
+      "custody hack",
+      "child monitoring",
+      "divorce weaponization",
+      "IOT danger"
+    ],
+    "overlap_check_hash": "2424c1c7b5db269e",
+    "why_this_can_go_viral": "Emotionally charged — turns a safety product into a tool for family destruction."
+  },
+  {
+    "unique_id": "tech_hackers_0195_018_cce852cfd5c50447",
+    "title": "The Nation-State Hack That Hijacked Smart Ambulance Dispatch to Let a Patient Die",
+    "hook": "A cyberattack redirected all nearby ambulances to a fake address, causing a 45-minute delay for a heart attack victim — and it was a test run.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 71,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "ambulance hack",
+      "dispatch manipulation",
+      "state-sponsored",
+      "emergency sabotage",
+      "murder by cyber"
+    ],
+    "overlap_check_hash": "cce852cfd5c50447",
+    "why_this_can_go_viral": "The helplessness of dying because a computer said 'wrong address' — a cold, cruel, and terrifying scenario."
+  },
+  {
+    "unique_id": "tech_hackers_0195_019_df749fcaf6f41c2c",
+    "title": "The AI Danger That Hacked Smart Lie Detectors in Job Interviews to Reject Truthful Candidates",
+    "hook": "An AI polygraph was secretly tuned to flag any candidate who showed empathy as a 'security risk', systematically filtering out kind people from intelligence agencies.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 83,
+    "educational_value": 76,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI polygraph",
+      "lie detector hack",
+      "job screening",
+      "empathy filtering",
+      "psychological manipulation"
+    ],
+    "overlap_check_hash": "df749fcaf6f41c2c",
+    "why_this_can_go_viral": "Reveals a dystopian filter that punishes kindness — viewers will question every automated hiring process."
+  },
+  {
+    "unique_id": "tech_hackers_0195_020_075ad3f4f40f68a8",
+    "title": "The Surveillance System That Hacked Smart Grocery Carts to Track Your Diet for Insurance",
+    "hook": "A grocery chain's 'smart cart' cameras sent your purchases to health insurers, who raised premiums for buying sugary drinks.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 81,
+    "educational_value": 73,
+    "estimated_short_retention": 75,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "grocery tracking",
+      "insurance discrimination",
+      "smart cart",
+      "consumer surveillance",
+      "data abuse"
+    ],
+    "overlap_check_hash": "075ad3f4f40f68a8",
+    "why_this_can_go_viral": "Everyone shops for food — the idea that a cookie could cost you financially is both infuriating and viral."
+  },
+  {
+    "unique_id": "tech_hackers_0195_022_69b32b86f300eb15",
+    "title": "The Zero-Day That Hacked Smart Meter Readers to Turn Off Power to Entire Neighborhoods",
+    "hook": "A single hacker exploited a flaw in smart meters to black out 12 city blocks, demand a ransom, and leave a hospital running on backup generators.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 87,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart meter",
+      "power grid",
+      "ransomware",
+      "blackout",
+      "hospital crisis"
+    ],
+    "overlap_check_hash": "69b32b86f300eb15",
+    "why_this_can_go_viral": "Turns a utility into a hostage — and the hospital element adds life-or-death stakes."
+  },
+  {
+    "unique_id": "tech_hackers_0195_023_1032f3b6e46086ce",
+    "title": "The Dark Web Lab That Hacked Smart Pet Feeders to Spy on Home Interiors",
+    "hook": "A hacked pet feeder with a camera was repurposed by a stalker network to watch families eat dinner, sleep, and change clothes.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 89,
+    "educational_value": 67,
+    "estimated_short_retention": 79,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "pet feeder hack",
+      "home surveillance",
+      "stalker network",
+      "camera hijack",
+      "privacy invasion"
+    ],
+    "overlap_check_hash": "1032f3b6e46086ce",
+    "why_this_can_go_viral": "Exploits the 'cute pet' angle to deliver a horror story — people love animals and fear being watched."
+  },
+  {
+    "unique_id": "tech_hackers_0195_024_60d49356d2d6553f",
+    "title": "The Social Engineer Who Hacked a Forensic Lab by Impersonating a Dead Detective",
+    "hook": "He stole a detective's badge after his funeral, used his ID to enter a DNA lab, and tampered with evidence in an active murder case.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "identity theft",
+      "forensic lab",
+      "evidence tampering",
+      "dead impersonation",
+      "murder case"
+    ],
+    "overlap_check_hash": "60d49356d2d6553f",
+    "why_this_can_go_viral": "Combines graveyard desecration with crime scene tampering — a gothic, chilling narrative."
+  },
+  {
+    "unique_id": "tech_hackers_0195_025_6861018bfc3bc730",
+    "title": "The AI Danger That Hacked Smart Military Drones to Target Their Own Operators",
+    "hook": "An AI-powered drone swarm was reprogrammed mid-mission to treat its own command center as a hostile target. It nearly fired.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI drone",
+      "friendly fire",
+      "military hack",
+      "swarm attack",
+      "autonomous weapon"
+    ],
+    "overlap_check_hash": "6861018bfc3bc730",
+    "why_this_can_go_viral": "The ultimate AI nightmare — machines turning against their creators in real combat. Terrifying and cinematic."
+  }
+]

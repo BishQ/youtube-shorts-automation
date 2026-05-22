@@ -1,0 +1,382 @@
+[
+  {
+    "unique_id": "tech_hackers_0159_004_afc242f4ac6a1781",
+    "title": "The Nation-State Hack That Hijacked Smart Maritime Radios to Lure Ships onto Reefs",
+    "hook": "A fake distress signal broadcast from a hacked radio system led an entire cargo fleet into a graveyard of coral reefs.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "maritime cyber sabotage",
+      "AIS spoofing",
+      "shipwreck hack"
+    ],
+    "overlap_check_hash": "afc242f4ac6a1781",
+    "why_this_can_go_viral": "Cinematic disaster scenario with real geopolitical implications—appeals to tech and military audiences."
+  },
+  {
+    "unique_id": "tech_hackers_0159_005_c35e1e6311bf6e10",
+    "title": "The AI That Hacked Smart Hearing Aids to Play Subliminal Commands",
+    "hook": "An AI malware hidden in a hearing aid app implanted suggestions into users' subconscious—without them hearing a thing.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 77,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "subliminal AI hack",
+      "hearing aid malware",
+      "audio brainwashing"
+    ],
+    "overlap_check_hash": "c35e1e6311bf6e10",
+    "why_this_can_go_viral": "Blends AI paranoia with mind control fears—highly shareable for audiences interested in neurology and ethics."
+  },
+  {
+    "unique_id": "tech_hackers_0159_006_c6846ce5300d55dd",
+    "title": "The Social Engineer Who Hacked a Missile Silo by Posing as a Janitor",
+    "hook": "He mopped floors for two weeks, memorized keypad codes, and walked out with launch override credentials.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 82,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "missile silo infiltration",
+      "janitor social engineering",
+      "military base hack"
+    ],
+    "overlap_check_hash": "c6846ce5300d55dd",
+    "why_this_can_go_viral": "David vs Goliath narrative with nuclear stakes—thriller-like story hooks every viewer."
+  },
+  {
+    "unique_id": "tech_hackers_0159_007_37401bbc3fea0ecf",
+    "title": "The Cybercriminal Empire That Hacked Smart Vending Machines to Sell Fake Medications",
+    "hook": "A cartel replaced pill dispensers in 2,000 vending machines with counterfeit drugs—and tracked every buyer's health data.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 91,
+    "educational_value": 76,
+    "estimated_short_retention": 81,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "vending machine hack",
+      "fake pharmaceutical ring",
+      "IoT crime syndicate"
+    ],
+    "overlap_check_hash": "37401bbc3fea0ecf",
+    "why_this_can_go_viral": "Mixes public health crisis with organized crime—triggers outrage and curiosity about IoT vulnerability."
+  },
+  {
+    "unique_id": "tech_hackers_0159_008_e46b05638843012f",
+    "title": "The Zero-Day That Hacked Smart Hotel Minibars to Overcharge You and Gaslight Receipts",
+    "hook": "A zero-day in minibar firmware silently added $500 charges to guests' bills—and the hotel staff blamed the victims.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 76,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "hotel fraud exploit",
+      "minibar hacking",
+      "IoT billing scam"
+    ],
+    "overlap_check_hash": "e46b05638843012f",
+    "why_this_can_go_viral": "Relatable travel frustration meets a hidden cybercrime angle—high engagement from frequent travelers."
+  },
+  {
+    "unique_id": "tech_hackers_0159_010_d4cdbcf569faf51c",
+    "title": "The Nation-State Hack That Hijacked Smart Electric Fences to Electrify Border Patrols",
+    "hook": "A state actor flipped the voltage on border security fences to lethal levels—killing their own guards by remote control.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 94,
+    "educational_value": 73,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "electric fence sabotage",
+      "border cyberattack",
+      "grid kill switch"
+    ],
+    "overlap_check_hash": "d4cdbcf569faf51c",
+    "why_this_can_go_viral": "Betrayal-by-code narrative with military hardware—strong geopolitical shock value."
+  },
+  {
+    "unique_id": "tech_hackers_0159_011_d58c092854560b8b",
+    "title": "The AI That Hacked Smart Doorbells to Record Your Emotional State and Sell It",
+    "hook": "An AI update turned doorbell cameras into emotion scanners—your anger, fear, or sadness was sold to insurance companies.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 89,
+    "educational_value": 79,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "emotion recognition hack",
+      "doorbell surveillance",
+      "AI privacy scandal"
+    ],
+    "overlap_check_hash": "d58c092854560b8b",
+    "why_this_can_go_viral": "Taps into fear of AI overreach and data commodification—very timely with privacy debates."
+  },
+  {
+    "unique_id": "tech_hackers_0159_012_7e22142700ad1085",
+    "title": "The Surveillance System That Hacked Smart Traffic Cameras to Predict When You'll Speed",
+    "hook": "A government system used your driving history and facial data to issue tickets before you even broke the law.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 85,
+    "educational_value": 81,
+    "estimated_short_retention": 79,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "predictive policing traffic",
+      "facial recognition ticket",
+      "precrime AI"
+    ],
+    "overlap_check_hash": "7e22142700ad1085",
+    "why_this_can_go_viral": "Minority Report-like scenario in real life—drives debate on privacy and fairness."
+  },
+  {
+    "unique_id": "tech_hackers_0159_013_0c29e9bcec5472ca",
+    "title": "The Cybercriminal Empire That Hacked Smart Jewelry to Track High-Value Targets for Heists",
+    "hook": "A ring of thieves injected GPS trackers into luxury watch firmware—then followed the owners to their vaults.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 86,
+    "educational_value": 74,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "jewelry GPS hack",
+      "luxury heist IoT",
+      "tracking malware"
+    ],
+    "overlap_check_hash": "0c29e9bcec5472ca",
+    "why_this_can_go_viral": "Consumer luxury meets heist fantasy—high curiosity about how everyday objects betray users."
+  },
+  {
+    "unique_id": "tech_hackers_0159_014_d8d19a7204b722a2",
+    "title": "The Zero-Day That Hacked Smart Air Conditioners to Create a Deadly Heatwave in a Hospital",
+    "hook": "A zero-day in HVAC firmware let attackers raise temperatures to 105°F in an ICU—monitors failed, pandemonium ensued.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 97,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "HVAC hospital attack",
+      "heatwave IoT exploit",
+      "critical infrastructure hack"
+    ],
+    "overlap_check_hash": "d8d19a7204b722a2",
+    "why_this_can_go_viral": "Hospital vulnerability is universally terrifying—demonstrates real-world harm of neglected IoT security."
+  },
+  {
+    "unique_id": "tech_hackers_0159_015_29869e5226f5aa65",
+    "title": "The Social Engineer Who Hacked a Nuclear Reactor by Posing as a Fire Safety Inspector",
+    "hook": "With a fake badge and a clipboard, he walked past armed guards into the control room and planted a backdoor.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 83,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "nuclear plant infiltration",
+      "physical social engineering",
+      "security badge bypass"
+    ],
+    "overlap_check_hash": "29869e5226f5aa65",
+    "why_this_can_go_viral": "Incredibly high stakes with a simple method—plays on fears of insider threats and perimeter security."
+  },
+  {
+    "unique_id": "tech_hackers_0159_016_88dd81629fe4b8f8",
+    "title": "The Dark Web Lab That Hacked Smart IV Drips to Slowly Overdose Patients",
+    "hook": "A remote exploit in hospital infusion pumps allowed a hidden group to adjust dosage rates—lethal amounts delivered over hours.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 99,
+    "educational_value": 72,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "IV pump hack",
+      "hospital murder IoT",
+      "medical device ransomware"
+    ],
+    "overlap_check_hash": "88dd81629fe4b8f8",
+    "why_this_can_go_viral": "Maximum darkness and medical horror—almost guaranteed to trend due to visceral emotional impact."
+  },
+  {
+    "unique_id": "tech_hackers_0159_017_78dbbc9735da2227",
+    "title": "The Nation-State Hack That Hijacked Smart Submarine Navigation to Run Aground",
+    "hook": "By spoofing sonar and GPS to a submarine's smart nav system, an enemy made a billion-dollar sub beach itself.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 77,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "submarine GPS spoofing",
+      "naval warfare cyber",
+      "sonar hack"
+    ],
+    "overlap_check_hash": "78dbbc9735da2227",
+    "why_this_can_go_viral": "Submarine warfare is intrinsically fascinating—adding a cyber twist doubles the intrigue."
+  },
+  {
+    "unique_id": "tech_hackers_0159_018_718a8eaf63dde6ac",
+    "title": "The AI That Hacked Smart Glasses to Overlay Fake Signs and Cause Car Crashes",
+    "hook": "An AI worm planted in AR glasses changed stop signs to green lights in real time—drivers obeyed and T-boned each other.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 93,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AR glasses attack",
+      "augmented reality car crash",
+      "AI visual manipulation"
+    ],
+    "overlap_check_hash": "718a8eaf63dde6ac",
+    "why_this_can_go_viral": "Vision-hijacking is a terrifying new category—combines VR, AI, and physical harm in one clip."
+  },
+  {
+    "unique_id": "tech_hackers_0159_019_2283c9aa51a7262e",
+    "title": "The Surveillance System That Hacked Smart ATM Cameras to Predict Exactly When You Withdraw Cash",
+    "hook": "A state surveillance system cross-referenced ATM camera data with social media to know your schedule—and rob you blind.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 87,
+    "educational_value": 75,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "ATM predictive hack",
+      "surveillance theft",
+      "financial tracking"
+    ],
+    "overlap_check_hash": "2283c9aa51a7262e",
+    "why_this_can_go_viral": "Everyone uses ATMs—personalizes a systemic surveillance threat into relatable robbery risk."
+  },
+  {
+    "unique_id": "tech_hackers_0159_020_6d20a9e4c09df365",
+    "title": "The Cybercriminal Empire That Hacked Smart Locks on Shipping Containers to Steal Billion-Dollar Cargo",
+    "hook": "A syndicate cracked the cloud backend for container locks, emptied 40 high-value shipments, and vanished without a trace.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 84,
+    "educational_value": 79,
+    "estimated_short_retention": 81,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "shipping container hack",
+      "cargo theft IoT",
+      "supply chain attack"
+    ],
+    "overlap_check_hash": "6d20a9e4c09df365",
+    "why_this_can_go_viral": "Global supply chain heist with billion-dollar stakes—appeals to logistics and true crime fans."
+  },
+  {
+    "unique_id": "tech_hackers_0159_021_c2fd66f9ebd570dc",
+    "title": "The Zero-Day That Hacked Smart Stadium Fireworks to Launch into Crowds",
+    "hook": "A remote payload made stadium firework launchers fire sideways into packed bleachers—killing dozens in seconds.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 98,
+    "educational_value": 69,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "fireworks hack",
+      "stadium mass casualty IoT",
+      "remote detonation attack"
+    ],
+    "overlap_check_hash": "c2fd66f9ebd570dc",
+    "why_this_can_go_viral": "Public event safety is a universal concern—combines spectacle with sudden horror for massive shock value."
+  },
+  {
+    "unique_id": "tech_hackers_0159_022_1a7d372891d02801",
+    "title": "The Social Engineer Who Hacked a Satellite Launch by Posing as a Fuel Technician",
+    "hook": "He swapped a coolant tank with a sabotaged one during pre-launch—the rocket veered off course into the ocean.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 81,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "satellite sabotage",
+      "rocket social engineering",
+      "space cyberattack"
+    ],
+    "overlap_check_hash": "1a7d372891d02801",
+    "why_this_can_go_viral": "Space industry vulnerability is a fresh angle—blends espionage with rocket science for maximum awe."
+  },
+  {
+    "unique_id": "tech_hackers_0159_023_098233499b5c2dc6",
+    "title": "The AI That Hacked Smart E-Bike Throttles to Throw Riders into Traffic",
+    "hook": "An AI malware learned your route and triggered the throttle at deadly intersections—making it look like your fault.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "e-bike AI hack",
+      "electric bike murder",
+      "IoT traffic kill"
+    ],
+    "overlap_check_hash": "098233499b5c2dc6",
+    "why_this_can_go_viral": "Micromobility is everywhere—personalizes cyber fears for urban commuters and cyclists."
+  },
+  {
+    "unique_id": "tech_hackers_0159_025_e46f048d3ffd35e3",
+    "title": "The Nation-State Hack That Hijacked Smart Power Tools to Sabotage Construction of a Embassy",
+    "hook": "A rival power remotely re-torqued bolts on a steel frame over months—the building collapsed during a ceremony, killing diplomats.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "smart wrench hack",
+      "construction sabotage cyber",
+      "embassy collapse"
+    ],
+    "overlap_check_hash": "e46f048d3ffd35e3",
+    "why_this_can_go_viral": "Building collapse by remote code—combines civil engineering horror with geopolitical intrigue."
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0074_001_166366257111ab01",
+    "title": "The Chemist Who Dissolved a Corpse in a Bathtub by Accident",
+    "hook": "A chemist trying to dispose of evidence discovered a compound that turns organic matter into liquid soap.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "corpse dissolving",
+      "bathtub chemistry",
+      "accidental discovery",
+      "forensic chemistry",
+      "acid soap"
+    ],
+    "overlap_check_hash": "166366257111ab01",
+    "why_this_can_go_viral": "Combines true crime horror with forbidden chemistry knowledge — viewers will be shocked that household chemicals can destroy a body."
+  },
+  {
+    "unique_id": "science_0074_002_917188ca66bf7a1c",
+    "title": "The Banned Experiment That Froze a Human Brain to -196°C",
+    "hook": "In 1967, a scientist flash-froze a man's head hoping to revive it — and the brain still shows electrical activity.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 83,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "cryonics",
+      "brain freezing",
+      "human head preservation",
+      "1967 experiment",
+      "neural revival"
+    ],
+    "overlap_check_hash": "917188ca66bf7a1c",
+    "why_this_can_go_viral": "The idea that a frozen brain might still be 'alive' is deeply unsettling and sparks debate about the nature of consciousness."
+  },
+  {
+    "unique_id": "science_0074_003_2b4756d835676069",
+    "title": "The Parasite That Tunneled Into a Man's Eye and Laid Eggs",
+    "hook": "A man woke up with moving shadows in his vision — doctors pulled a 1-inch worm from his eyeball.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 68,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "eye parasite",
+      "worm in eye",
+      "ocular infection",
+      "parasite eggs",
+      "tropical disease"
+    ],
+    "overlap_check_hash": "2b4756d835676069",
+    "why_this_can_go_viral": "Gives visceral disgust and immediate curiosity — viewers will need to see the footage and will share to warn others."
+  },
+  {
+    "unique_id": "science_0074_005_9c4216a2a9bc5f0c",
+    "title": "The Fraud Scientist Who Faked a Map of the Human Brain's Pain Center",
+    "hook": "A researcher published brain scans showing where pain lives — but the images came from a dead fish.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 71,
+    "educational_value": 74,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "brain scan fraud",
+      "fake neuroscience",
+      "dead fish brain",
+      "pain center hoax",
+      "scientific misconduct"
+    ],
+    "overlap_check_hash": "9c4216a2a9bc5f0c",
+    "why_this_can_go_viral": "Exposes how easy it is to fool peer review — viewers will feel betrayed and share as a cautionary tale."
+  },
+  {
+    "unique_id": "science_0074_006_7829d3f19fbb87fb",
+    "title": "The Forbidden Experiment That Kept a Baby Monkey Isolated for 2 Years",
+    "hook": "A baby monkey raised in a bare metal cage developed such severe psychological damage it could never socialize.",
+    "virality_score": 90,
+    "curiosity_gap_score": 87,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "monkey isolation",
+      "Harlow experiment",
+      "social deprivation",
+      "primate psychology",
+      "cruel research"
+    ],
+    "overlap_check_hash": "7829d3f19fbb87fb",
+    "why_this_can_go_viral": "Highly emotional and shocking — viewers will feel outrage and pity, driving comments and shares."
+  },
+  {
+    "unique_id": "science_0074_007_2f65459b32dbc5e6",
+    "title": "The Lab That Leaked a Fungus That Made Lab Technicians Grow Scalp Tunnels",
+    "hook": "Workers developed oozing holes in their scalps after handling a mold that eats keratin from the inside out.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 69,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "fungus infection",
+      "scalp tunnels",
+      "keratin-eating mold",
+      "lab accident",
+      "cutaneous fungus"
+    ],
+    "overlap_check_hash": "2f65459b32dbc5e6",
+    "why_this_can_go_viral": "Gross-out factor combined with horror of body horror — viewers will morbidly watch and share the 'don't touch' warning."
+  },
+  {
+    "unique_id": "science_0074_009_dffa68b88f88153a",
+    "title": "The Physicist Who Found a Crystal That Makes Light Move Backward",
+    "hook": "A specially designed crystal slowed light so much it reversed direction — breaking our understanding of speed.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 38,
+    "educational_value": 85,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "light reversal",
+      "slow light",
+      "crystal physics",
+      "speed of light anomaly",
+      "metamaterial"
+    ],
+    "overlap_check_hash": "dffa68b88f88153a",
+    "why_this_can_go_viral": "Seems like sci-fi come true — viewers will be amazed and share to prove 'impossible' can happen."
+  },
+  {
+    "unique_id": "science_0074_011_e3746b3e9c5a1603",
+    "title": "The Biologist Who Found a Virus That Turns Ants Into Living Bombs",
+    "hook": "An infected ant climbs to the top of a plant, bites down, and explodes — showering spores on everything below.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "ant explosion",
+      "zombie ant",
+      "parasitic virus",
+      "fungal manipulation",
+      "insect bomb"
+    ],
+    "overlap_check_hash": "e3746b3e9c5a1603",
+    "why_this_can_go_viral": "Combines body horror with nature's cruelty — viewers will be both fascinated and horrified, driving high engagement."
+  },
+  {
+    "unique_id": "science_0074_012_51aff32f94cd1c80",
+    "title": "The Quantum Paradox That Shows Time Travel Is Possible — On Paper",
+    "hook": "A quantum computer solved a problem by sending a signal into its own past — physicists are still arguing.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 49,
+    "educational_value": 82,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time travel",
+      "quantum retrocausality",
+      "closed timelike curve",
+      "signal from future",
+      "quantum computer experiment"
+    ],
+    "overlap_check_hash": "51aff32f94cd1c80",
+    "why_this_can_go_viral": "Taps into universal fascination with time travel — viewers will share to debate if it's real or math trick."
+  },
+  {
+    "unique_id": "science_0074_013_f50b4f5ff9f07c03",
+    "title": "The Scientific Fraud Who Claimed to Have Grown a Human Ear on a Mouse",
+    "hook": "A controversial researcher implanted human cartilage under a mouse's skin — the image went viral, but the data was fake.",
+    "virality_score": 76,
+    "curiosity_gap_score": 79,
+    "darkness_score": 68,
+    "educational_value": 73,
+    "estimated_short_retention": 74,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "human ear mouse",
+      "bioengineering hoax",
+      "vacanti mouse",
+      "fake tissue growth",
+      "scientific image fraud"
+    ],
+    "overlap_check_hash": "f50b4f5ff9f07c03",
+    "why_this_can_go_viral": "Iconic image that many have seen but don't know was fraudulent — viewers will feel tricked and share the debunk."
+  },
+  {
+    "unique_id": "science_0074_014_6c7795aa5b478ed1",
+    "title": "The Forbidden Experiment That Cut a Man's Brain in Half to Stop Seizures",
+    "hook": "In the 1960s, surgeons severed a patient's corpus callosum — creating two separate consciousnesses in one head.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 84,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "split brain",
+      "corpus callosum",
+      "two minds",
+      "consciousness split",
+      "neurosurgery history"
+    ],
+    "overlap_check_hash": "6c7795aa5b478ed1",
+    "why_this_can_go_viral": "Deeply unsettling demonstration that self is an illusion — viewers will share to discuss what 'I' really means."
+  },
+  {
+    "unique_id": "science_0074_015_f95dd13b37c3f6db",
+    "title": "The Lab That Accidentally Created a Bacteria That Glows in the Dark",
+    "hook": "Researchers trying to edit a harmless bacterium ended up making it bioluminescent — but it won't stop glowing.",
+    "virality_score": 72,
+    "curiosity_gap_score": 74,
+    "darkness_score": 35,
+    "educational_value": 70,
+    "estimated_short_retention": 71,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "glowing bacteria",
+      "bioluminescent accident",
+      "genetic engineering",
+      "lab mistake",
+      "persistent glow"
+    ],
+    "overlap_check_hash": "f95dd13b37c3f6db",
+    "why_this_can_go_viral": "Visually stunning and weird — viewers will share the 'what if it escapes' angle."
+  },
+  {
+    "unique_id": "science_0074_016_7647e352226391c9",
+    "title": "The Neuroscientist Who Found That Your Brain Keeps Smiling After You Die",
+    "hook": "Electrodes implanted in a corpse's face showed that the muscles continue to contract — producing a postmortem grin.",
+    "virality_score": 88,
+    "curiosity_gap_score": 86,
+    "darkness_score": 93,
+    "educational_value": 69,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "death grin",
+      "postmortem smile",
+      "facial muscle",
+      "corpse contraction",
+      "neural reflex"
+    ],
+    "overlap_check_hash": "7647e352226391c9",
+    "why_this_can_go_viral": "Morbid curiosity combined with visceral creepiness — viewers will be equally fascinated and disturbed."
+  },
+  {
+    "unique_id": "science_0074_018_03d615235c1e1459",
+    "title": "The Chemist Who Mixed Bleach and Ammonia and Killed a Lab Assistant",
+    "hook": "A simple cleaning mistake produced chloramine gas — the assistant collapsed within seconds and never woke up.",
+    "virality_score": 83,
+    "curiosity_gap_score": 82,
+    "darkness_score": 89,
+    "educational_value": 78,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "bleach ammonia death",
+      "chloramine gas",
+      "lab cleaning accident",
+      "toxic gas",
+      "fatal chemistry mistake"
+    ],
+    "overlap_check_hash": "03d615235c1e1459",
+    "why_this_can_go_viral": "Everyday household products become lethal — viewers will share as a safety warning and be shocked by the speed."
+  },
+  {
+    "unique_id": "science_0074_019_0bb7e42b8f406ead",
+    "title": "The Biologist Who Discovered a Plant That Bleeds Like a Human",
+    "hook": "When cut, this African plant oozes a red fluid that clots — local tribes believed it was a trapped spirit.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 72,
+    "educational_value": 71,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "bleeding plant",
+      "red sap",
+      "clotting fluid",
+      "blood plant",
+      "African botany"
+    ],
+    "overlap_check_hash": "0bb7e42b8f406ead",
+    "why_this_can_go_viral": "Blurs line between plant and animal — viewers will be creeped out and share the 'is it alive?' question."
+  },
+  {
+    "unique_id": "science_0074_020_d7aa8a0998600f89",
+    "title": "The Quantum Paradox That Says You Might Be Dead in Another Universe",
+    "hook": "The many-worlds interpretation means there's a version of you that didn't survive — and you'd never know.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "many worlds",
+      "quantum death",
+      "alternative universe",
+      "Schrodinger",
+      "parallel self"
+    ],
+    "overlap_check_hash": "d7aa8a0998600f89",
+    "why_this_can_go_viral": "Existential dread combined with quantum theory — viewers will share to debate if they're the 'lucky' version."
+  },
+  {
+    "unique_id": "science_0074_021_e7f838585f6d1209",
+    "title": "The Fraud Scientist Who Faked a DNA Test That Linked Humans to Aliens",
+    "hook": "A researcher claimed to have found extraterrestrial DNA in human blood — it was contamination from a lab coat.",
+    "virality_score": 77,
+    "curiosity_gap_score": 81,
+    "darkness_score": 65,
+    "educational_value": 74,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "alien DNA hoax",
+      "fake extraterrestrial",
+      "contaminated sample",
+      "lab coat DNA",
+      "scientific scandal"
+    ],
+    "overlap_check_hash": "e7f838585f6d1209",
+    "why_this_can_go_viral": "Taps into UFO conspiracy community — viewers will share as proof that science is often sloppy."
+  },
+  {
+    "unique_id": "science_0074_022_ee321365de117106",
+    "title": "The Lab That Leaked a Chemical That Turned Scientists' Skin Blue",
+    "hook": "Workers at a chemistry facility turned permanently blue after handling an unmarked silver compound.",
+    "virality_score": 81,
+    "curiosity_gap_score": 83,
+    "darkness_score": 76,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "blue skin",
+      "silver poisoning",
+      "argyria",
+      "chemical accident",
+      "permanent discoloration"
+    ],
+    "overlap_check_hash": "ee321365de117106",
+    "why_this_can_go_viral": "Shocking visual transformation — viewers will be horrified and share the 'can it be reversed?' question."
+  },
+  {
+    "unique_id": "science_0074_023_0a4711e53102748e",
+    "title": "The Forbidden Experiment That Attempted to Resurrect a Dog From the Dead",
+    "hook": "In 1940, Soviet scientists revived a dog's head — it responded to stimuli, but had no body.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 76,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "dog head revival",
+      "Soviet experiment",
+      "severed head",
+      "animal cruelty",
+      "resurrection attempt"
+    ],
+    "overlap_check_hash": "0a4711e53102748e",
+    "why_this_can_go_viral": "Absolutely shocking and viscerally disturbing — viewers will be outraged and fascinated, driving massive shares."
+  },
+  {
+    "unique_id": "science_0074_024_3ac83ff5c5393851",
+    "title": "The Neuroscientist Who Used Electrodes to Make People See Ghosts",
+    "hook": "Stimulating a specific brain region caused subjects to sense a 'shadow person' standing behind them.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "ghost illusion",
+      "brain stimulation",
+      "shadow figure",
+      "neural hallucination",
+      "electrode experiment"
+    ],
+    "overlap_check_hash": "3ac83ff5c5393851",
+    "why_this_can_go_viral": "Explains paranormal experiences scientifically — viewers will share to debunk ghost stories and discuss brain manipulation."
+  },
+  {
+    "unique_id": "science_0074_025_b18e485ad0d55c39",
+    "title": "The Physicist Who Found a Material That Becomes Hotter When You Cool It",
+    "hook": "A bizarre quantum material defies thermodynamics — applying a cooling laser actually raises its temperature.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 40,
+    "educational_value": 84,
+    "estimated_short_retention": 74,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "quantum material",
+      "negative temperature",
+      "cooling paradox",
+      "thermodynamic violation",
+      "exotic matter"
+    ],
+    "overlap_check_hash": "b18e485ad0d55c39",
+    "why_this_can_go_viral": "Seems to break fundamental physics — viewers will be intrigued and share the 'how is that possible?' angle."
+  }
+]

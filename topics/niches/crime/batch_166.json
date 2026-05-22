@@ -1,0 +1,44 @@
+[
+  {
+    "unique_id": "crime_0166_001_c8480cdefcfb0af1",
+    "title": "The Unsolved Murder Where the Killer Left a Confession on a Victim's Phone—As a Ringtone",
+    "hook": "Detectives found the killer's full name and confession hidden as a custom ringtone on the victim's phone, but no one noticed for three years.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 72,
+    "educational_value": 55,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "hidden confession",
+      "ringtone clue",
+      "forensic audio",
+      "cold case"
+    ],
+    "overlap_check_hash": "c8480cdefcfb0af1",
+    "why_this_can_go_viral": "People love tech-related murder mysteries, and the idea of a clue hiding in plain sight as a ringtone is deeply unsettling and intriguing."
+  },
+  {
+    "unique_id": "crime_0166_002_cf3ffa3e95bdc7b0",
+    "title": "The Criminal Mastermind Who Robbed 12 Banks Using a Single Fake Phone Call",
+    "hook": "He never entered a single bank. A single phone call tricked managers into wiring millions, all by impersonating a CEO with a cloned voice.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 68,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "social engineering",
+      "voice cloning",
+      "bank heist",
+      "CEO fraud",
+      "psychological manipulation"
+    ],
+    "overlap_check_hash": "cf3ffa3e95bdc7b0",
+    "why_this_can_go_viral": "The audacity and simplicity of using a single call to rob banks is shocking and showcases a criminal genius at work."
+  }
+]

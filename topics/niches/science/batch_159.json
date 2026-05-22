@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "science_0159_001_43914115afe833c5",
+    "title": "The Lab That Created a Sound That Kills—and Lost the Mute Button",
+    "hook": "A frequency that liquefies organs was accidentally generated in a Russian lab—and it never stopped.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "infrasound",
+      "acoustic resonance",
+      "Russian lab",
+      "organ liquefaction",
+      "forbidden frequency"
+    ],
+    "overlap_check_hash": "43914115afe833c5",
+    "why_this_can_go_viral": "Combines a real acoustic weapon concept with a 'runaway' disaster—people fear invisible killers."
+  },
+  {
+    "unique_id": "science_0159_002_7438ae6db77a6cae",
+    "title": "The Neuroscientist Who Made Mice See Things That Weren't There—Forever",
+    "hook": "He implanted a false memory of a predator into a mouse's brain—and it lived in terror for life.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "false memory",
+      "implanted fear",
+      "mouse hallucination",
+      "optogenetics",
+      "memory manipulation"
+    ],
+    "overlap_check_hash": "7438ae6db77a6cae",
+    "why_this_can_go_viral": "Taps into deep anxiety about mind control and the fragility of reality."
+  },
+  {
+    "unique_id": "science_0159_003_b48caa9aa47e08c4",
+    "title": "The Forbidden Experiment Where a Dog Was Kept Alive Without a Brain",
+    "hook": "Soviet scientists decapitated a dog and kept its body alive for weeks—then made it play fetch.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "decapitation",
+      "Soviet science",
+      "Brukhonenko",
+      "headless dog",
+      "life support"
+    ],
+    "overlap_check_hash": "b48caa9aa47e08c4",
+    "why_this_can_go_viral": "Shockingly graphic, historically real, and sounds like science fiction."
+  },
+  {
+    "unique_id": "science_0159_004_54bf6c0ceca0550a",
+    "title": "The Chemist Who Accidentally Made a Polymer That Eats People",
+    "hook": "A sticky substance meant for bandages dissolved flesh on contact—and nobody knew how to stop it.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 94,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "polymer accident",
+      "flesh dissolving",
+      "super glue disaster",
+      "chemical burn",
+      "runaway reaction"
+    ],
+    "overlap_check_hash": "54bf6c0ceca0550a",
+    "why_this_can_go_viral": "Gory body horror combined with real chemistry—perfect for morbid curiosity."
+  },
+  {
+    "unique_id": "science_0159_005_71dc49f098d0961e",
+    "title": "The Biolab That Grew a Human Ear on a Rat's Back—and the Rat Moved It",
+    "hook": "The ear wasn't just cosmetic—it twitched and responded to sound, while the rat ignored it.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "human ear",
+      "rat back",
+      "tissue engineering",
+      "Vacanti mouse",
+      "bioart"
+    ],
+    "overlap_check_hash": "71dc49f098d0961e",
+    "why_this_can_go_viral": "Iconic grotesque image that everyone half-remembers—deep dive into the horror is fresh."
+  },
+  {
+    "unique_id": "science_0159_006_3da1df632121aa38",
+    "title": "The Physicist Who Split a Single Atom—and Watched Reality Glitch",
+    "hook": "For a split second, the atom existed in two places at once—and so did the scientist's hand.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 75,
+    "educational_value": 78,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "atom split",
+      "quantum superposition",
+      "reality glitch",
+      "observation effect",
+      "micro macro"
+    ],
+    "overlap_check_hash": "3da1df632121aa38",
+    "why_this_can_go_viral": "Quantum woo meets personal horror—suggests the observer can be quantum too."
+  },
+  {
+    "unique_id": "science_0159_007_7078705da4d73002",
+    "title": "The Scientific Fraud Who Faked a 'Gravity Shield'—and the CIA Came Knocking",
+    "hook": "He built a box that supposedly blocked gravity—and the US government believed him for 8 years.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 76,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "gravity shield",
+      "CIA hoax",
+      "antigravity",
+      "Podkletnov",
+      "government deception"
+    ],
+    "overlap_check_hash": "7078705da4d73002",
+    "why_this_can_go_viral": "Conspiracy + high-tech fraud + government gullibility—hits multiple viral notes."
+  },
+  {
+    "unique_id": "science_0159_008_0e27db7ee5d5b7a5",
+    "title": "The Quantum Computer That Destroyed Its Own Future",
+    "hook": "It solved a problem by borrowing computing power from tomorrow—then it never existed.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 68,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum computer",
+      "time borrowing",
+      "future destruction",
+      "causality",
+      "impossible algorithm"
+    ],
+    "overlap_check_hash": "0e27db7ee5d5b7a5",
+    "why_this_can_go_viral": "Time travel + computing + paradox—brain-breaking and instantly shareable."
+  },
+  {
+    "unique_id": "science_0159_011_f3736e91597a9d51",
+    "title": "The Chemist Who Brewed a Liquid That Boils at Room Temperature—and Burned His Lungs",
+    "hook": "He breathed vapor thinking it was harmless—it boiled inside his airways, instantly scarring them.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 93,
+    "educational_value": 73,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "low boiling point",
+      "room temperature boil",
+      "lung burn",
+      "volatile liquid",
+      "chemical accident"
+    ],
+    "overlap_check_hash": "f3736e91597a9d51",
+    "why_this_can_go_viral": "Visceral, painful, and teaches a real chemical principle in the worst way."
+  },
+  {
+    "unique_id": "science_0159_013_b8d756c5fa4509e3",
+    "title": "The Physicist Who Created a Crystal That Absorbs All Light—and Saw Nothing",
+    "hook": "It's the blackest material ever made—but when he stared into it, he felt the void stare back.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "blackest material",
+      "light absorption",
+      "Vantablack",
+      "void",
+      "optical horror"
+    ],
+    "overlap_check_hash": "b8d756c5fa4509e3",
+    "why_this_can_go_viral": "Cosmic horror vibe combined with real science—perfect for existential dread."
+  },
+  {
+    "unique_id": "science_0159_015_e219b5119a46b429",
+    "title": "The Lab Catastrophe Where a Scientist Was Exposed to a Prion—and Started Forgetting His Own Face",
+    "hook": "Prions have no cure, no treatment, no test—he watched himself die over 10 years, fully aware.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 99,
+    "educational_value": 81,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "prion",
+      "CJD",
+      "lab accident",
+      "slow death",
+      "neurological horror"
+    ],
+    "overlap_check_hash": "e219b5119a46b429",
+    "why_this_can_go_viral": "Prions are terrifying—incurable, silent, and this personal story of decay is unforgettable."
+  },
+  {
+    "unique_id": "science_0159_017_88780690cad862c0",
+    "title": "The Neuroscientist Who Turned a Man's Memories Into a Nightmare—On Purpose",
+    "hook": "He used mild shocks to make a mundane childhood photo trigger pure terror—and it never reversed.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 76,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory rewriting",
+      "trauma induction",
+      "neural conditioning",
+      "fear memory",
+      "PTSD creation"
+    ],
+    "overlap_check_hash": "88780690cad862c0",
+    "why_this_can_go_viral": "Explores how easily our past can be corrupted—deeply unsettling."
+  },
+  {
+    "unique_id": "science_0159_020_751eb5501f1073b0",
+    "title": "The Forbidden Experiment Where a Chimp Was Taught to Hate Humans—and It Taught Others",
+    "hook": "She learned to smash cameras, throw feces, and coordinate attacks—the lab had to be evacuated.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "chimp aggression",
+      "ape revenge",
+      "lab uprising",
+      "primate experiment",
+      "animal intelligence"
+    ],
+    "overlap_check_hash": "751eb5501f1073b0",
+    "why_this_can_go_viral": "Planet of the Apes vibes—real story of an ape organizing rebellion."
+  },
+  {
+    "unique_id": "science_0159_021_62ced93f8ee3de67",
+    "title": "The Physicist Who Built a Machine That Detects Parallel Universes—and Saw His Other Self Die",
+    "hook": "The quantum radar showed a version of himself in another timeline—just as it was crushed.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "parallel universe",
+      "quantum radar",
+      "many worlds",
+      "alternate self",
+      "death vision"
+    ],
+    "overlap_check_hash": "62ced93f8ee3de67",
+    "why_this_can_go_viral": "Personal, eerie, and touches on the multiverse obsession—with a morbid twist."
+  },
+  {
+    "unique_id": "science_0159_022_6495ba57ecf47ce3",
+    "title": "The Scientific Fraud Who Faked a 'Zero-Calorie Fat'—and Made People Starve to Death",
+    "hook": "The fake fat passed through the body undigested—but it carried away vitamins. Patients withered.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 91,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "Olestra",
+      "fake fat",
+      "nutrient depletion",
+      "diet hoax",
+      "malnutrition"
+    ],
+    "overlap_check_hash": "6495ba57ecf47ce3",
+    "why_this_can_go_viral": "Exposes a real product disaster—makes people furious at corporate science."
+  },
+  {
+    "unique_id": "science_0159_023_f30ac3c422100889",
+    "title": "The Biolab That Engineered a Fish With Teeth—and It Learned to Hunt on Land",
+    "hook": "It wasn't supposed to survive outside water—but it crawled, bit, and dragged prey into the tank.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 84,
+    "educational_value": 76,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "land fish",
+      "engineered predator",
+      "teeth evolution",
+      "lab escape",
+      "amphibious horror"
+    ],
+    "overlap_check_hash": "f30ac3c422100889",
+    "why_this_can_go_viral": "Evolution in fast-forward—creates primal fear of something coming out of the water."
+  },
+  {
+    "unique_id": "science_0159_025_93178301f6bc2a00",
+    "title": "The Quantum Computer That Found a Message Inside Pi—and Then Erased Itself",
+    "hook": "It detected a non-random pattern in the digits—a sequence that spelled something—then it went dark.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 87,
+    "educational_value": 69,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "pi message",
+      "quantum computer",
+      "hidden pattern",
+      "self erasure",
+      "universe code"
+    ],
+    "overlap_check_hash": "93178301f6bc2a00",
+    "why_this_can_go_viral": "Taps into simulation theory and cosmic mystery—leaves viewers questioning reality."
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "health_0052_001_0db4ba2cf786931a",
+    "title": "The Hospital That Vaccinated Babies with Syphilis",
+    "hook": "In 1946, a doctor injected 1400 babies with syphilis—and called it 'prevention'.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "syphilis experiment",
+      "baby vaccine",
+      "Tuskegee style",
+      "medical atrocity",
+      "1940s horror"
+    ],
+    "overlap_check_hash": "0db4ba2cf786931a",
+    "why_this_can_go_viral": "The idea of injecting babies with syphilis is shocking and instantly raises moral outrage, driving shares."
+  },
+  {
+    "unique_id": "health_0052_003_3b898cb0b3958dac",
+    "title": "The Suppressed Cure: How a $3 Root Killed MRSA in Hours",
+    "hook": "A plant root so powerful it destroyed superbugs—but the FDA refused to approve it.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "natural antibiotic",
+      "MRSA cure",
+      "suppressed medicine",
+      "big pharma",
+      "herbal remedy"
+    ],
+    "overlap_check_hash": "3b898cb0b3958dac",
+    "why_this_can_go_viral": "The trope of a cheap natural cure being buried by pharma is viral catnip for anti-establishment audiences."
+  },
+  {
+    "unique_id": "health_0052_004_17decbff32fa0e88",
+    "title": "The Pharmaceutical Company That Sold Placenta as a 'Lung Tonic'",
+    "hook": "They ground up afterbirth, mixed it with alcohol, and claimed it cured tuberculosis.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "placenta medicine",
+      "fake cure",
+      "tuberculosis",
+      "Victorian scam",
+      "human tissue"
+    ],
+    "overlap_check_hash": "17decbff32fa0e88",
+    "why_this_can_go_viral": "Gross-out factor combined with historical scam outrage drives comments and shares."
+  },
+  {
+    "unique_id": "health_0052_005_bc0dbc0f328775a1",
+    "title": "The Toxic Sunscreen That Caused Skin Cancer",
+    "hook": "A bestselling sunscreen actually triggered melanoma—and the company knew for years.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "sunscreen danger",
+      "cancer cover-up",
+      "toxic skincare",
+      "benzene",
+      "summer scandal"
+    ],
+    "overlap_check_hash": "bc0dbc0f328775a1",
+    "why_this_can_go_viral": "It flips the obvious narrative: the product meant to protect you actually gives you cancer. High shock value."
+  },
+  {
+    "unique_id": "health_0052_006_f9ad57fde65c53c7",
+    "title": "The Disease Cover-Up: How a Vitamin Deficiency Was Called 'Normal Aging'",
+    "hook": "For 50 years, doctors told millions their symptoms were just 'old age'—but it was a simple deficiency all along.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 90,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "misdiagnosis",
+      "vitamin deficiency",
+      "aging myth",
+      "medical negligence",
+      "nutrition scam"
+    ],
+    "overlap_check_hash": "f9ad57fde65c53c7",
+    "why_this_can_go_viral": "Relatable fear of being gaslit by doctors mixed with easy solution creates high engagement."
+  },
+  {
+    "unique_id": "health_0052_008_df2445799cf16933",
+    "title": "The Hospital That Billed Patients for Organ Harvesting Without Consent",
+    "hook": "Patients woke up missing a kidney—and received a bill for the 'operation'.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "organ theft",
+      "illegal transplant",
+      "medical billing scam",
+      "kidney theft",
+      "hospital crime"
+    ],
+    "overlap_check_hash": "df2445799cf16933",
+    "why_this_can_go_viral": "Combines two triggers: fear of waking up without an organ and fury at being billed for it."
+  },
+  {
+    "unique_id": "health_0052_009_8f7de2ecb61838bb",
+    "title": "The Suppressed Cure: How a $5 Ultrasound Zapped Alzheimer's Plaque",
+    "hook": "A cheap ultrasound machine cleared toxic brain plaque in mice—and no one funded human trials.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 72,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "Alzheimer's cure",
+      "ultrasound therapy",
+      "suppressed research",
+      "big pharma",
+      "amyloid plaque"
+    ],
+    "overlap_check_hash": "8f7de2ecb61838bb",
+    "why_this_can_go_viral": "The idea that a cure for Alzheimer's is being ignored is deeply emotional and anger-inducing."
+  },
+  {
+    "unique_id": "health_0052_010_2d67fc44af1028ea",
+    "title": "The Toxic Period Product That Gave Women Toxic Shock—and Wasn't Recalled",
+    "hook": "A tampon brand caused thousands of women to collapse with fever—the manufacturer hid the link for a decade.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "tampon danger",
+      "toxic shock syndrome",
+      "women's health",
+      "product cover-up",
+      "menstrual scandal"
+    ],
+    "overlap_check_hash": "2d67fc44af1028ea",
+    "why_this_can_go_viral": "Highly relatable female audience, visceral fear of everyday product, and company negligence drive outrage."
+  },
+  {
+    "unique_id": "health_0052_011_3d71f4b3c0ba0cd9",
+    "title": "The Experimental Drug That Turned Patients' Skin Transparent",
+    "hook": "A clinical trial for an acne drug made patients' skin so thin you could see their muscles—and it never left shelves fast enough.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 89,
+    "educational_value": 65,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "skin transparency",
+      "acne drug horror",
+      "clinical trial gone wrong",
+      "body horror",
+      "dermatology scandal"
+    ],
+    "overlap_check_hash": "3d71f4b3c0ba0cd9",
+    "why_this_can_go_viral": "The visual of transparent skin is so bizarre it compels clicks, and the horror keeps viewers watching."
+  },
+  {
+    "unique_id": "health_0052_012_b9f65383dc2c837c",
+    "title": "The Doctor Who Prescribed Heroin for Coughs—to 10 Million Children",
+    "hook": "In the 1900s, a bestselling cough syrup for kids was pure heroin—and doctors called it 'safe'.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "heroin syrup",
+      "children's medicine",
+      "opioid history",
+      "cough syrup scandal",
+      "medical negligence"
+    ],
+    "overlap_check_hash": "b9f65383dc2c837c",
+    "why_this_can_go_viral": "The shock that children were legally given heroin triggers disbelief and historical fascination."
+  },
+  {
+    "unique_id": "health_0052_013_18cc0a9bd3f7ecf5",
+    "title": "The Hospital That Kept Dead Patients on Life Support to Bill Insurance",
+    "hook": "Corpses were kept on ventilators for days while the hospital billed Medicare—until an insider exposed it.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "corpse billing",
+      "Medicare fraud",
+      "life support scam",
+      "hospital crime",
+      "death fraud"
+    ],
+    "overlap_check_hash": "18cc0a9bd3f7ecf5",
+    "why_this_can_go_viral": "Ghoulish concept + financial greed + dead bodies = maximum morbid curiosity and outrage shares."
+  },
+  {
+    "unique_id": "health_0052_014_0c8ce867dac9f89c",
+    "title": "The Disease Cover-Up: How a Food Additive Caused 50,000 Heart Attacks",
+    "hook": "A common preservative in bread and butter was linked to massive heart failure—the FDA kept it legal for 30 years.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "trans fat",
+      "food additive danger",
+      "heart disease cover-up",
+      "FDA corruption",
+      "processed food"
+    ],
+    "overlap_check_hash": "0c8ce867dac9f89c",
+    "why_this_can_go_viral": "Relatable everyday food product danger + systemic cover-up = high engagement and anger."
+  },
+  {
+    "unique_id": "health_0052_015_74a3598264272825",
+    "title": "The Toxic Lipstick That Gave Women Mouth Cancer",
+    "hook": "A popular lipstick brand contained lead and asbestos—and gave hundreds of women oral cancer before it was pulled.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "lipstick cancer",
+      "lead in makeup",
+      "asbestos",
+      "cosmetic danger",
+      "women's health"
+    ],
+    "overlap_check_hash": "74a3598264272825",
+    "why_this_can_go_viral": "Everyday beauty product danger for female audience creates visceral fear and sharing."
+  },
+  {
+    "unique_id": "health_0052_017_e96be2bbf11dfce0",
+    "title": "The Experiment That Made Orphans Drink Radioactive Milk—and Called It 'Nutrition'",
+    "hook": "In the 1950s, orphans were fed radioactive milk to study digestion—the results were buried for 40 years.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "radioactive milk",
+      "orphan experiments",
+      "cold war science",
+      "radiation poisoning",
+      "child abuse"
+    ],
+    "overlap_check_hash": "e96be2bbf11dfce0",
+    "why_this_can_go_viral": "Vulnerable children + radioactive material + government cover-up hits all outrage triggers."
+  },
+  {
+    "unique_id": "health_0052_018_f9b55fc5aa44c469",
+    "title": "The Suppressed Cure: How a $10 Light Therapy Killed Antibiotic-Resistant Bacteria",
+    "hook": "A cheap blue light device sterilized wounds in minutes—pharma companies lobbied to ban it.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 68,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "light therapy",
+      "antibiotic alternative",
+      "blue light",
+      "superbug cure",
+      "suppressed technology"
+    ],
+    "overlap_check_hash": "f9b55fc5aa44c469",
+    "why_this_can_go_viral": "Simple, cheap solution vs. big pharma greed narrative drives anti-establishment sharing."
+  },
+  {
+    "unique_id": "health_0052_019_244c7655d06999ef",
+    "title": "The Doctor Who Deliberately Gave Patients Typhus—for 'Immunity'",
+    "hook": "A New York doctor injected 300 patients with live typhus bacteria—and said it was a vaccine.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "typhus experiment",
+      "fake vaccine",
+      "doctor crime",
+      "bioterrorism",
+      "historical horror"
+    ],
+    "overlap_check_hash": "244c7655d06999ef",
+    "why_this_can_go_viral": "Live bacteria injection without consent is pure nightmare fuel, drives shock and discussion."
+  },
+  {
+    "unique_id": "health_0052_020_6bada744b749a799",
+    "title": "The Toxic Carpet That Caused Children to Bleed from Their Lungs",
+    "hook": "A stain-resistant carpet chemical caused pulmonary hemorrhage in babies—and the company hid the data for 20 years.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "carpet poison",
+      "SC Johnson",
+      "pulmonary hemorrhage",
+      "baby health",
+      "chemical cover-up"
+    ],
+    "overlap_check_hash": "6bada744b749a799",
+    "why_this_can_go_viral": "Home product danger + sick babies + corporate cover-up is emotionally devastating and shareable."
+  },
+  {
+    "unique_id": "health_0052_021_96a9f449b3e2b6ad",
+    "title": "The Hospital That Strapped Mental Patients to Chairs for 30 Years",
+    "hook": "In a state hospital, hundreds of patients were bolted to wooden chairs in a basement—some never stood again.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 98,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "mental health abuse",
+      "patient restraint",
+      "Willowbrook",
+      "psychiatric horror",
+      "institutional abuse"
+    ],
+    "overlap_check_hash": "96a9f449b3e2b6ad",
+    "why_this_can_go_viral": "Visual of permanent restraint is shocking, and the long-term cruelty makes it unforgettable."
+  },
+  {
+    "unique_id": "health_0052_023_62fce75f413f9e64",
+    "title": "The Disease Cover-Up: How a Soda Company Caused an Obesity Epidemic—and Knew It",
+    "hook": "Internal memos proved a soda giant knew sugar caused liver failure in 1960—they spent billions hiding it.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 85,
+    "educational_value": 90,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "soda cover-up",
+      "sugar conspiracy",
+      "obesity epidemic",
+      "coca cola",
+      "liver disease"
+    ],
+    "overlap_check_hash": "62fce75f413f9e64",
+    "why_this_can_go_viral": "Massive conspiracy with a universally consumed product generates anger and shareability."
+  },
+  {
+    "unique_id": "health_0052_024_9be912652ac9a851",
+    "title": "The Doctor Who Removed Women's Ovaries for 'Hysteria'",
+    "hook": "For decades, thousands of women had healthy ovaries removed because male doctors said they were 'emotional'.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 85,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "hysterectomy",
+      "hysteria diagnosis",
+      "women's health abuse",
+      "medical sexism",
+      "unnecessary surgery"
+    ],
+    "overlap_check_hash": "9be912652ac9a851",
+    "why_this_can_go_viral": "Gender-based medical abuse resonates deeply with female audience, drives outrage and conversation."
+  },
+  {
+    "unique_id": "health_0052_025_db7cc3615f626a4e",
+    "title": "The Toxic Teething Powder That Gave Babies Brain Damage",
+    "hook": "A popular teething powder contained mercury—and gave thousands of infants irreversible neurological damage.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "teething powder",
+      "mercury poisoning",
+      "baby brain damage",
+      "calomel",
+      "infant product scandal"
+    ],
+    "overlap_check_hash": "db7cc3615f626a4e",
+    "why_this_can_go_viral": "Babies + mercury + trusted product = maximum parental fear and viral anger."
+  }
+]

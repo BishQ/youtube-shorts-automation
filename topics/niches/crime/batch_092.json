@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "crime_0092_001_d17e7c2c5ec1134c",
+    "title": "The Mortician Who Sold Bodies to the Cartel—As Spare Parts",
+    "hook": "When families paid for cremation, their loved ones were actually being dismantled for illegal organ transplants.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "organ trafficking",
+      "mortician",
+      "black market",
+      "body parts"
+    ],
+    "overlap_check_hash": "d17e7c2c5ec1134c",
+    "why_this_can_go_viral": "Combines universal fear of death with betrayal by trusted professionals; extreme darkness triggers morbid curiosity."
+  },
+  {
+    "unique_id": "crime_0092_006_236945b639562843",
+    "title": "The Mob That Used a Funeral Home's Crematorium to Vanish Witnesses",
+    "hook": "The witnesses were listed as 'cremated remains' before they were even reported missing.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 96,
+    "educational_value": 55,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob",
+      "witness protection",
+      "cremation",
+      "disappearance",
+      "funeral home"
+    ],
+    "overlap_check_hash": "236945b639562843",
+    "why_this_can_go_viral": "Systematic exploitation of a sacred institution; viewers will share in disbelief."
+  },
+  {
+    "unique_id": "crime_0092_008_196027ea398dcf7b",
+    "title": "The White-Collar Criminal Who Stole a City's Pension Fund—By Becoming the Fund Manager",
+    "hook": "He applied for the job, got hired, and within six months had transferred $200 million to his own shell companies.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 72,
+    "educational_value": 80,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "pension",
+      "embezzlement",
+      "shell company",
+      "fund manager",
+      "city"
+    ],
+    "overlap_check_hash": "196027ea398dcf7b",
+    "why_this_can_go_viral": "Relatable rage bait—everyone fears their retirement savings being stolen."
+  },
+  {
+    "unique_id": "crime_0092_009_aeb3e0a31864bda5",
+    "title": "The Cartel That Used a Pet Adoption Center to Move Cocaine in Puppy Bellies",
+    "hook": "Families adopted 'rescued puppies'—not knowing the animals were carrying cocaine pellets in surgically implanted pouches.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "puppy",
+      "adoption",
+      "cocaine",
+      "smuggling",
+      "surgery"
+    ],
+    "overlap_check_hash": "aeb3e0a31864bda5",
+    "why_this_can_go_viral": "Emotional manipulation of cute animals creates outrage and high shareability."
+  },
+  {
+    "unique_id": "crime_0092_010_c9e29384a297173b",
+    "title": "The Serial Killer Who Only Murdered People Who Had Survived a Near-Death Experience",
+    "hook": "He believed he was 'finishing the job' that fate had botched—and kept a journal of his twisted theology.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 55,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "near death",
+      "survivor",
+      "theology",
+      "serial killer",
+      "fate"
+    ],
+    "overlap_check_hash": "c9e29384a297173b",
+    "why_this_can_go_viral": "Philosophical horror—makes viewers question what counts as 'lucky'."
+  },
+  {
+    "unique_id": "crime_0092_012_f12a37e2d7879514",
+    "title": "The Unsolved Murder Where the Victim's Bones Were Arranged in a Map of Their Own Life",
+    "hook": "Each bone marked a place they had lived—except one, which pointed to a location that didn't exist on any map.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "bone map",
+      "unsolved",
+      "ritual",
+      "mystery",
+      "life map"
+    ],
+    "overlap_check_hash": "f12a37e2d7879514",
+    "why_this_can_go_viral": "The 'map to nowhere' creates a mystery viewers will try to solve in comments."
+  },
+  {
+    "unique_id": "crime_0092_013_d928e99bdb3864a4",
+    "title": "The Mob That Used a Wedding Photography Studio to Photograph Rivals for Hitmen",
+    "hook": "The photographer's 'engagement shoots' were actually surveillance missions—each couple's photo contained coded location data.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "wedding",
+      "photography",
+      "mob",
+      "surveillance",
+      "hitman"
+    ],
+    "overlap_check_hash": "d928e99bdb3864a4",
+    "why_this_can_go_viral": "The innocence of wedding photos turned into death sentences is deeply unsettling."
+  },
+  {
+    "unique_id": "crime_0092_014_17fd8e85fc95b2ff",
+    "title": "The Criminal Mastermind Who Ran a Drug Empire from Inside Solitary Confinement",
+    "hook": "He communicated with his lieutenants through a code of tapping on pipes—and nobody in the prison ever figured it out.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "prison",
+      "solitary confinement",
+      "code",
+      "drug lord",
+      "communication"
+    ],
+    "overlap_check_hash": "17fd8e85fc95b2ff",
+    "why_this_can_go_viral": "Underdog-turned-villain narrative with a 'how did he do it?' hook."
+  },
+  {
+    "unique_id": "crime_0092_016_6c13ec793c768307",
+    "title": "The Cartel That Used a Children's Hospital's Ambulance Fleet to Move Heroin",
+    "hook": "The ambulances had real patients in the back—with heroin hidden inside IV bags and medical equipment.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "ambulance",
+      "hospital",
+      "children",
+      "heroin",
+      "cartel"
+    ],
+    "overlap_check_hash": "6c13ec793c768307",
+    "why_this_can_go_viral": "The ultimate betrayal of trust—hiding drugs inside a children's hospital is universally condemned."
+  },
+  {
+    "unique_id": "crime_0092_017_4a6a26fc4d2cc9d2",
+    "title": "The Unsolved Murder Where the Victim's Fingerprints Were Found on Their Own Body—In Impossible Places",
+    "hook": "His own prints were on the back of his neck, inside his own mouth, and on the soles of his feet—places he could never have touched.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 92,
+    "educational_value": 60,
+    "estimated_short_retention": 92,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "fingerprints",
+      "impossible",
+      "body",
+      "mystery",
+      "forensic"
+    ],
+    "overlap_check_hash": "4a6a26fc4d2cc9d2",
+    "why_this_can_go_viral": "The 'impossible fingerprint' puzzle generates intense curiosity and debate."
+  },
+  {
+    "unique_id": "crime_0092_018_f202cebdbac5ab4e",
+    "title": "The White-Collar Criminal Who Stole a Fortune by Selling Fake 'Emotional Support Animal' Certifications",
+    "hook": "He sold $5,000 'certifications' that let people bring horses, snakes, and even a bear onto airplanes—until the crashes happened.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 68,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "emotional support",
+      "fake certification",
+      "airplane",
+      "scam",
+      "animals"
+    ],
+    "overlap_check_hash": "f202cebdbac5ab4e",
+    "why_this_can_go_viral": "Absurd premise with real-world consequences—viewers will laugh then feel horrified."
+  },
+  {
+    "unique_id": "crime_0092_019_ae559fa62728de03",
+    "title": "The Serial Killer Who Used a Dating App's 'Super Like' Feature to Identify Vulnerable Users",
+    "hook": "He swiped right on thousands of women—but only murdered those who 'super liked' him first, seeing it as an invitation.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 55,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "dating app",
+      "super like",
+      "serial killer",
+      "vulnerability",
+      "algorithm"
+    ],
+    "overlap_check_hash": "ae559fa62728de03",
+    "why_this_can_go_viral": "Immediately relatable to dating app users; creates fear and paranoia."
+  },
+  {
+    "unique_id": "crime_0092_020_eecd4167d71f0815",
+    "title": "The Heist Where Thieves Stole a Gold Bullion Vault—By Freezing the Security Cameras' Wiring",
+    "hook": "They used liquid nitrogen to freeze the camera cables, making them brittle, then snapped them in silence—the vault opened 20 minutes later.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 60,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "liquid nitrogen",
+      "gold heist",
+      "security camera",
+      "vault",
+      "freeze"
+    ],
+    "overlap_check_hash": "eecd4167d71f0815",
+    "why_this_can_go_viral": "Technical ingenuity makes viewers feel like they're learning a secret trick."
+  },
+  {
+    "unique_id": "crime_0092_021_3b0c87132765edac",
+    "title": "The Mob That Used a Bakery's Delivery Trucks to Move Weapons—Inside Wedding Cakes",
+    "hook": "The cakes were hollowed out and filled with handguns, while the frosting hid the seams perfectly.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 72,
+    "educational_value": 55,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "bakery",
+      "wedding cake",
+      "weapons",
+      "mob",
+      "delivery"
+    ],
+    "overlap_check_hash": "3b0c87132765edac",
+    "why_this_can_go_viral": "Visual contrast between celebration and crime creates strong image-based recall."
+  },
+  {
+    "unique_id": "crime_0092_022_9621ec12595723c9",
+    "title": "The Criminal Mastermind Who Built a Fake Police Dispatch Center—To Divert Cops Away from Crimes",
+    "hook": "He set up a radio station that mimicked the police frequency and sent officers to fake emergencies while his crew robbed banks.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "police dispatch",
+      "fake radio",
+      "bank robbery",
+      "diversion",
+      "mastermind"
+    ],
+    "overlap_check_hash": "9621ec12595723c9",
+    "why_this_can_go_viral": "The arrogance and cleverness of the plan makes viewers root for and against him simultaneously."
+  },
+  {
+    "unique_id": "crime_0092_023_3ecd0348f92649cb",
+    "title": "The Billion-Dollar Fraud That Sold Fake 'Retirement Villages' to the Elderly—That Were Just Desert Lots",
+    "hook": "Thousands of seniors bought 'luxury retirement homes'—only to receive a deed to an empty patch of dirt in the middle of nowhere.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "retirement",
+      "elderly",
+      "desert",
+      "fake homes",
+      "scam"
+    ],
+    "overlap_check_hash": "3ecd0348f92649cb",
+    "why_this_can_go_viral": "Targeting vulnerable elderly people generates intense protective outrage."
+  },
+  {
+    "unique_id": "crime_0092_024_1ac65bc07a080831",
+    "title": "The Unsolved Murder Where the Victim's Body Was Found in a Sealed Barrel—Filled with Vintage Wine",
+    "hook": "The wine was worth $50,000 a bottle—and the killer had aged it for 15 years before anyone discovered the body inside.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "wine",
+      "barrel",
+      "aged",
+      "murder",
+      "vintage"
+    ],
+    "overlap_check_hash": "1ac65bc07a080831",
+    "why_this_can_go_viral": "The juxtaposition of luxury and death creates a grotesque fascination."
+  },
+  {
+    "unique_id": "crime_0092_025_0def620f258e2891",
+    "title": "The White-Collar Criminal Who Stole a State's Unemployment Fund—By Creating 10,000 Fake Jobs",
+    "hook": "He registered 'employees' who were all dead people, collected their benefits for three years, and nobody checked a single name.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "unemployment",
+      "fake jobs",
+      "dead people",
+      "fraud",
+      "system"
+    ],
+    "overlap_check_hash": "0def620f258e2891",
+    "why_this_can_go_viral": "Reveals a broken system—viewers will be angry at both the criminal and the government."
+  }
+]

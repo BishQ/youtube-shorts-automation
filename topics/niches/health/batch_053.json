@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "health_0053_003_3b23ff27ff8a24f2",
+    "title": "The Hospital That Stole Patients' Skin to Sell as Grafts",
+    "hook": "A morgue attendant was cutting skin off dead bodies—while the hospital billed living patients for 'skin grafts.'",
+    "virality_score": 96,
+    "curiosity_gap_score": 98,
+    "darkness_score": 97,
+    "educational_value": 70,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "skin graft theft",
+      "body harvesting hospital",
+      "morgue scandal",
+      "organ theft",
+      "medical fraud"
+    ],
+    "overlap_check_hash": "3b23ff27ff8a24f2",
+    "why_this_can_go_viral": "Body horror + financial fraud creates a visceral, shareable shock factor."
+  },
+  {
+    "unique_id": "health_0053_004_4bf072b511f940f2",
+    "title": "The Suppressed Cure: How DMSO Was Banned While It Saved Lives",
+    "hook": "DMSO cured arthritis, injuries, and infections—until the FDA buried it in a 20-year legal war that most people never heard about.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 82,
+    "educational_value": 88,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "DMSO cure",
+      "suppressed arthritis treatment",
+      "FDA DMSO ban",
+      "alternative medicine suppressed",
+      "dimethyl sulfoxide"
+    ],
+    "overlap_check_hash": "4bf072b511f940f2",
+    "why_this_can_go_viral": "Taps into deep distrust of pharma regulatory systems; 'miracle cure' narrative drives engagement."
+  },
+  {
+    "unique_id": "health_0053_005_e4187b1662d9fe20",
+    "title": "The Toxic Baby Shampoo That Gave Children Chemical Burns",
+    "hook": "Parents trusted this brand for years—until babies started screaming under the faucet and doctors found chemical burns in their scalps.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "baby shampoo burns",
+      "toxic children's products",
+      "chemical burn cover-up",
+      "Johnson & Johnson scandal",
+      "formaldehyde baby wash"
+    ],
+    "overlap_check_hash": "e4187b1662d9fe20",
+    "why_this_can_go_viral": "Parents are a massive audience; betrayal of trust in baby products triggers intense emotional response."
+  },
+  {
+    "unique_id": "health_0053_006_7f5ac8316322017b",
+    "title": "The Disease Cover-Up: How Lead in Paint Was Blamed on 'Bad Parenting'",
+    "hook": "For decades, the paint industry knew lead poisoned children—but they paid doctors to call it 'parental neglect.'",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "lead paint cover-up",
+      "lead poisoning hidden",
+      "corporate disease cover-up",
+      "childhood lead exposure",
+      "paint industry scandal"
+    ],
+    "overlap_check_hash": "7f5ac8316322017b",
+    "why_this_can_go_viral": "Exposes deliberate corporate gaslighting; ties to ongoing environmental health anxiety."
+  },
+  {
+    "unique_id": "health_0053_007_b1d6bb11c6408b01",
+    "title": "The Pharmaceutical Company That Sold Cough Syrup Laced with Opioids",
+    "hook": "Children took this 'safe' syrup for colds—until the company admitted it was basically liquid heroin with cherry flavoring.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 89,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "opioid cough syrup",
+      "children opioid scandal",
+      "pharma laced syrup",
+      "cough medicine addiction",
+      "codeine cough syrup ban"
+    ],
+    "overlap_check_hash": "b1d6bb11c6408b01",
+    "why_this_can_go_viral": "‘Kids + hidden opioids’ is radioactive; triggers both anger and shock sharing."
+  },
+  {
+    "unique_id": "health_0053_008_bf904c1514a65446",
+    "title": "The Doctor Who Performed C-Sections Without Anesthesia—for Research",
+    "hook": "In the 1940s, a doctor cut into conscious women to study 'pain tolerance'—and no one stopped him for 10 years.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 98,
+    "educational_value": 74,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "unethical C-section experiments",
+      "pain research without consent",
+      "babies no anesthesia",
+      "medical torture women",
+      "historical patient abuse"
+    ],
+    "overlap_check_hash": "bf904c1514a65446",
+    "why_this_can_go_viral": "Extreme bodily violation + vulnerable subjects = guaranteed outrage and shares."
+  },
+  {
+    "unique_id": "health_0053_010_20f40e3d3030430f",
+    "title": "The Suppressed Cure: How a $4 Clay Stopped Radiation Poisoning",
+    "hook": "When a nuclear plant leaked, a handful of cheap clay absorbed the radiation—until the government classified it as 'alternative medicine.'",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 82,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "bentonite clay radiation",
+      "suppressed nuclear cure",
+      "clay detox radiation",
+      "alternative radiation treatment",
+      "Chernobyl clay cure"
+    ],
+    "overlap_check_hash": "20f40e3d3030430f",
+    "why_this_can_go_viral": "Ties into nuclear fear and government suppression; easy to visualize and share."
+  },
+  {
+    "unique_id": "health_0053_011_a0f34e4faa3d850b",
+    "title": "The Toxic Perfume That Gave Women Miscarriages",
+    "hook": "Luxury perfume caused a wave of miscarriages across Europe—and the company hid the ingredient for 15 years.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 79,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "perfume miscarriage",
+      "toxic fragrance cover-up",
+      "phthalates pregnancy loss",
+      "luxury perfume scandal",
+      "chemical miscarriage risk"
+    ],
+    "overlap_check_hash": "a0f34e4faa3d850b",
+    "why_this_can_go_viral": "Pregnancy + luxury product = emotional landmine; female audience drives massive engagement."
+  },
+  {
+    "unique_id": "health_0053_012_f8502c390d0ffb6c",
+    "title": "The Disease Cover-Up: How a Fungus in Bread Caused Schizophrenia",
+    "hook": "A contaminated grain supply may have driven thousands into madness—and the government called it 'normal mental illness.'",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 86,
+    "educational_value": 83,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "ergot bread schizophrenia",
+      "fungus mental illness cover-up",
+      "bread contamination insanity",
+      "hidden cause schizophrenia",
+      "fungal psychosis"
+    ],
+    "overlap_check_hash": "f8502c390d0ffb6c",
+    "why_this_can_go_viral": "Paranoia about food + mental health mystery = high curiosity and debate."
+  },
+  {
+    "unique_id": "health_0053_014_deefa51e812ddb3b",
+    "title": "The FDA-Approved Drug That Caused People to Sleepwalk and Crash Cars",
+    "hook": "Patients took this sleeping pill and woke up behind the wheel—or in the hospital. The FDA approved it anyway.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 79,
+    "educational_value": 77,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "sleep driving drug",
+      "Ambien sleepwalking crash",
+      "FDA sleeping pill danger",
+      "zolpidem car accident",
+      "sleep medication side effects"
+    ],
+    "overlap_check_hash": "deefa51e812ddb3b",
+    "why_this_can_go_viral": "Relatable fear (driving while unconscious) + legal drug = high share potential."
+  },
+  {
+    "unique_id": "health_0053_016_8e7026f07d3b2aa5",
+    "title": "The Experiment That Starved 36 Men—and Called It 'Science'",
+    "hook": "During WWII, scientists starved volunteers for months, studying their mental collapse—and the results were buried for 50 years.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 84,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "Minnesota starvation experiment",
+      "human starvation study",
+      "Ancel Keys experiment",
+      "starvation psychology",
+      "hidden WWII experiments"
+    ],
+    "overlap_check_hash": "8e7026f07d3b2aa5",
+    "why_this_can_go_viral": "Grim, shocking human experiment with long-lasting ethical questions."
+  },
+  {
+    "unique_id": "health_0053_017_b6e496c44988673f",
+    "title": "The Hospital That Burned Patients Alive—Then Blamed the Victims",
+    "hook": "A hospital fire killed 34 patients—but investigators found the staff had locked the doors and fled, leaving them to die.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 68,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "hospital fire locked doors",
+      "staff abandoned patients",
+      "deadly hospital negligence",
+      "patient burned alive",
+      "healthcare crime scene"
+    ],
+    "overlap_check_hash": "b6e496c44988673f",
+    "why_this_can_go_viral": "Real-life horror with clear villains; easy to visualize and share."
+  },
+  {
+    "unique_id": "health_0053_018_ce1c98c157c2b208",
+    "title": "The Suppressed Cure: How a $1 Vitamin Stopped 40% of Heart Attacks",
+    "hook": "A simple B vitamin was proven to cut heart attack deaths—until the drug industry paid to kill the study.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 87,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "vitamin B heart attack",
+      "suppressed heart cure",
+      "niacin heart attack prevention",
+      "pharma killed study",
+      "cheap cure suppressed"
+    ],
+    "overlap_check_hash": "ce1c98c157c2b208",
+    "why_this_can_go_viral": "Cheap solution vs. greedy system; every heart patient wants this to be true."
+  },
+  {
+    "unique_id": "health_0053_019_fb287f0c4f8aba74",
+    "title": "The Toxic Mattress That Gave Infants SIDS",
+    "hook": "Babies were dying in their cribs—and a scientist discovered the mattress itself was poisoning them with toxic gas.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 92,
+    "educational_value": 82,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "SIDS mattress gas",
+      "toxic crib mattress",
+      "baby death cover-up",
+      "SIDS cause discovered",
+      "infant poisoning product"
+    ],
+    "overlap_check_hash": "fb287f0c4f8aba74",
+    "why_this_can_go_viral": "Terrifying for new parents; conspiracy-level cover-up narrative drives engagement."
+  },
+  {
+    "unique_id": "health_0053_020_32b074635d7b967c",
+    "title": "The Disease Cover-Up: How an Insecticide Was Sold as 'Symptom-Free' While It Caused Blindness",
+    "hook": "A common bug spray caused children to go blind—and the company called it 'an allergic reaction' for 20 years.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 87,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "insecticide blindness",
+      "bug spray cover-up",
+      "children blind from spray",
+      "chemical blindness epidemic",
+      "pesticide cover-up"
+    ],
+    "overlap_check_hash": "32b074635d7b967c",
+    "why_this_can_go_viral": "Children + blindness + corporate lying = guaranteed visceral reaction."
+  },
+  {
+    "unique_id": "health_0053_022_95c8561d4c28d52c",
+    "title": "The FDA-Approved Drug That Made People Bite Their Own Tongues Off",
+    "hook": "A legal prescription caused a rare reaction that made patients lose control of their jaws—the FDA called it 'extremely rare.'",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "drug caused tongue biting",
+      "tardive dyskinesia medication",
+      "FDA approved side effect",
+      "antipsychotic jaw lock",
+      "rare drug reaction horror"
+    ],
+    "overlap_check_hash": "95c8561d4c28d52c",
+    "why_this_can_go_viral": "Gross-out factor + medical horror = high share and reaction engagement."
+  },
+  {
+    "unique_id": "health_0053_023_e51fb043d2aa7661",
+    "title": "The Hospital That Harvested Eggs from Unconscious Women",
+    "hook": "While women were under anesthesia for surgery, doctors were removing their eggs without consent—and selling them to fertility clinics.",
+    "virality_score": 98,
+    "curiosity_gap_score": 99,
+    "darkness_score": 99,
+    "educational_value": 78,
+    "estimated_short_retention": 97,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "egg harvesting without consent",
+      "fertility clinic horror",
+      "unconscious women eggs stolen",
+      "hospital fertility scandal",
+      "reproductive exploitation"
+    ],
+    "overlap_check_hash": "e51fb043d2aa7661",
+    "why_this_can_go_viral": "Combines bodily autonomy violation, female vulnerability, and medical betrayal—maximum outrage potential."
+  },
+  {
+    "unique_id": "health_0053_024_61baf301eeac6c41",
+    "title": "The Pharmaceutical Company That Sold a Vaccine That Gave Children Paralysis",
+    "hook": "A contaminated polio vaccine actually caused polio in thousands of children—and the company knew before the first shot.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 84,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "polio vaccine paralysis",
+      "Cutter incident",
+      "contaminated vaccine scandal",
+      "vaccine caused disease",
+      "pharma hidden contamination"
+    ],
+    "overlap_check_hash": "61baf301eeac6c41",
+    "why_this_can_go_viral": "Vaccine safety is a massive cultural flashpoint; this story predates modern anti-vax narratives."
+  },
+  {
+    "unique_id": "health_0053_025_ea6570fb1734dabc",
+    "title": "The Toxic Nail Polish That Made Women's Fingers Fall Off",
+    "hook": "This popular nail brand promised 'long-lasting color'—but users ended up losing their fingernails, and eventually their fingers.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 86,
+    "educational_value": 74,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "nail polish finger loss",
+      "toxic beauty products",
+      "nail chemical burn",
+      "acrylic nail infection horror",
+      "cosmetic cover-up"
+    ],
+    "overlap_check_hash": "ea6570fb1734dabc",
+    "why_this_can_go_viral": "Beauty products + body horror = perfect storm for female audience share."
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "health_0165_001_5c2f815320a1e59d",
+    "title": "The Hospital That Pumped Sewage Gas Into Recovery Wards",
+    "hook": "Patients woke up choking on methane, and the hospital blamed a bad batch of oxygen.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "sewage gas",
+      "hospital cover-up",
+      "patient poisoning",
+      "methane deaths",
+      "medical negligence"
+    ],
+    "overlap_check_hash": "5c2f815320a1e59d",
+    "why_this_can_go_viral": "Combines a visceral, disgusting detail with a systemic failure, triggering both outrage and a need to share."
+  },
+  {
+    "unique_id": "health_0165_003_d92616e86f6b3d78",
+    "title": "The Doctor Who Implanting Pig Hearts Into Living Orphans",
+    "hook": "He claimed it would cure their lung disease. They died screaming on the table.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "xenotransplant horror",
+      "orphan experiments",
+      "pig heart implant",
+      "unethical surgery",
+      "medical atrocities"
+    ],
+    "overlap_check_hash": "d92616e86f6b3d78",
+    "why_this_can_go_viral": "Combines vulnerable children, forbidden surgery, and fatal outcome—a perfect storm for dark documentary shares."
+  },
+  {
+    "unique_id": "health_0165_005_0ef28fb2f5c22310",
+    "title": "The Government That Gave Free Milk to School Kids—It Was Radioactive",
+    "hook": "For a decade, children drank 'fortified' milk secretly laced with strontium-90.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 74,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "radioactive milk",
+      "strontium-90",
+      "child poisoning",
+      "government cover-up",
+      "cancer epidemic"
+    ],
+    "overlap_check_hash": "0ef28fb2f5c22310",
+    "why_this_can_go_viral": "The innocent image of school milk vs. nuclear poison creates extreme cognitive dissonance, perfect for viral outrage."
+  },
+  {
+    "unique_id": "health_0165_007_eaa82707d3080061",
+    "title": "The Pharmaceutical Company That Gave Epileptics Placebo for 5 Years",
+    "hook": "Half the trial patients got sugar pills—while their seizures multiplied and brains swelled.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "placebo trial fraud",
+      "epilepsy drug scam",
+      "patient deaths",
+      "pharma crime",
+      "unethical trials"
+    ],
+    "overlap_check_hash": "eaa82707d3080061",
+    "why_this_can_go_viral": "The betrayal of vulnerable patients by for-profit deception taps into deep distrust of pharma."
+  },
+  {
+    "unique_id": "health_0165_008_af506acf4d861d1b",
+    "title": "The Clinic That Sold 'Cancer Cures'—Made of Rat Poison and Bleach",
+    "hook": "Patients paid $50,000 for a 'natural detox' that destroyed their organs in days.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 87,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "fake cancer cure",
+      "rat poison treatment",
+      "alternative medicine scam",
+      "patient death",
+      "medical fraud"
+    ],
+    "overlap_check_hash": "af506acf4d861d1b",
+    "why_this_can_go_viral": "The word 'bleach' triggers immediate revulsion; the price tag adds incredulity. High share value among health-concerned viewers."
+  },
+  {
+    "unique_id": "health_0165_009_7256a45f2fd04482",
+    "title": "The Hospital That Kept Accepting Organs from a 'Brain Dead' Donor—Who Was Alive",
+    "hook": "He was conscious, moving, and crying—but surgeons harvested his heart anyway.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 98,
+    "educational_value": 72,
+    "estimated_short_retention": 96,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "alive organ harvest",
+      "brain dead misdiagnosis",
+      "organ trafficking",
+      "medical murder",
+      "transplant horror"
+    ],
+    "overlap_check_hash": "7256a45f2fd04482",
+    "why_this_can_go_viral": "The ultimate nightmare—being conscious during your own death. Instant shock factor and discussion fuel."
+  },
+  {
+    "unique_id": "health_0165_010_9bb6c8d9c1fcbb2a",
+    "title": "The FDA-Approved Vaccine That Gave Children a Fatal Sleep Disorder",
+    "hook": "Healthy kids got a shot and suddenly couldn't stay awake—some never woke up.",
+    "virality_score": 90,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 76,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "vaccine narcolepsy",
+      "swine flu scandal",
+      "Pandemrix disaster",
+      "children sleep disorder",
+      "FDA negligence"
+    ],
+    "overlap_check_hash": "9bb6c8d9c1fcbb2a",
+    "why_this_can_go_viral": "Parents are the most share-happy demographic; a vaccine that causes permanent sleep triggers primal fear."
+  },
+  {
+    "unique_id": "health_0165_011_aa3ce043fdf4509c",
+    "title": "The Doctor Who Injected Women with 'Fertility Drugs'—It Was Industrial Acid",
+    "hook": "Dozens of women became sterile for life after a single 'treatment' from a trusted clinic.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "fertility scam",
+      "acid injection",
+      "sterilization horror",
+      "women's health crime",
+      "medical fraud"
+    ],
+    "overlap_check_hash": "aa3ce043fdf4509c",
+    "why_this_can_go_viral": "Destroys the hope of having children—a universally feared outcome. High emotional engagement."
+  },
+  {
+    "unique_id": "health_0165_013_9f09baaf4be75007",
+    "title": "The 'Stress Relief' Tea That Sent 30 People to the Hospital with Organ Failure",
+    "hook": "It was marketed as 'all-natural herbal calm'—until labs found toxic heavy metals inside.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 82,
+    "educational_value": 69,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "heavy metal tea",
+      "herbal poison",
+      "stress relief scam",
+      "organ failure",
+      "supplement danger"
+    ],
+    "overlap_check_hash": "9f09baaf4be75007",
+    "why_this_can_go_viral": "Everyone drinks tea; the idea of it destroying your kidneys is intimate and terrifying."
+  },
+  {
+    "unique_id": "health_0165_014_f0dc0e96d3e1836d",
+    "title": "The Government That Sprayed a City with 'Fog for Mosquitoes'—It Was Anthrax",
+    "hook": "Residents woke up with bleeding lungs. Officials called it 'a tragic misunderstanding.'",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 71,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "anthrax spray",
+      "city bioattack",
+      "government experiment",
+      "cover-up disease",
+      "biological warfare"
+    ],
+    "overlap_check_hash": "f0dc0e96d3e1836d",
+    "why_this_can_go_viral": "The 'fog' imagery is cinematic and terrifying; the government lie fuels conspiracy shareability."
+  },
+  {
+    "unique_id": "health_0165_015_2e8c9fc14b008dba",
+    "title": "The Surgeon Who Deliberately Punched Patients During Surgery—For 'Research'",
+    "hook": "He claimed 'blunt force trauma to the abdomen' would help him study recovery.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "surgery assault",
+      "doctor violence",
+      "patient abuse",
+      "sadistic doctor",
+      "medical research fraud"
+    ],
+    "overlap_check_hash": "2e8c9fc14b008dba",
+    "why_this_can_go_viral": "Absurdly evil premise—punching anesthetized patients—creates strong emotional reaction and discussion."
+  },
+  {
+    "unique_id": "health_0165_016_8e43e41669d8c67d",
+    "title": "The Clinic That Harvested Placenta from Poor Women—And Sold It as Anti-Aging Shots",
+    "hook": "Women were paid $20 for 'donation'—their placentas ended up in Beverly Hills syringes.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 86,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "placenta harvesting",
+      "anti-aging scam",
+      "organ trade",
+      "poor women exploitation",
+      "beauty industry crime"
+    ],
+    "overlap_check_hash": "8e43e41669d8c67d",
+    "why_this_can_go_viral": "Class warfare + body horror + beauty obsession = perfect dark viral cocktail."
+  },
+  {
+    "unique_id": "health_0165_017_fa5cd6816bc07f82",
+    "title": "The FDA Allowed a Drug That Gave Patients Permanent Uncontrollable Jerking",
+    "hook": "It was meant to treat nausea—instead, it caused a lifetime of violent spasms no one could stop.",
+    "virality_score": 83,
+    "curiosity_gap_score": 85,
+    "darkness_score": 84,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "tardive dyskinesia",
+      "Reglan scandal",
+      "nausea drug horror",
+      "permanent movement disorder",
+      "FDA failure"
+    ],
+    "overlap_check_hash": "fa5cd6816bc07f82",
+    "why_this_can_go_viral": "The visual of uncontrollable jerking is highly shareable and triggers sympathy/anger."
+  },
+  {
+    "unique_id": "health_0165_018_bc9ddc501fee1552",
+    "title": "The Doctor Who Faked 10,000 Pap Smears—Allowing Cancer to Spread Undetected",
+    "hook": "For 15 years, she just wrote 'normal' without looking at the slides. Patients died silently.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 73,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "fake pap smear",
+      "cancer misdiagnosis",
+      "pathologist fraud",
+      "women's health scandal",
+      "preventable deaths"
+    ],
+    "overlap_check_hash": "bc9ddc501fee1552",
+    "why_this_can_go_viral": "Every woman who has had a pap will feel visceral betrayal; extreme scale (10,000) adds shock."
+  },
+  {
+    "unique_id": "health_0165_019_93fdf97ca060737b",
+    "title": "The 'All-Natural' Protein Powder Made Entirely of Construction Plaster",
+    "hook": "Bodybuilders gained muscle mass—because their stomachs were filled with indigestible chalk.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "protein powder scam",
+      "plaster in supplements",
+      "fake protein",
+      "gym fraud",
+      "supplement contamination"
+    ],
+    "overlap_check_hash": "93fdf97ca060737b",
+    "why_this_can_go_viral": "Gym culture is huge; the absurdity of eating drywall is meme-worthy and shareable."
+  },
+  {
+    "unique_id": "health_0165_020_4868b7087cc4319f",
+    "title": "The Pharmaceutical Company That Tested Seizure Drugs on Orphans—Without Consent",
+    "hook": "They gave powerful experimental drugs to babies, then wrote papers calling them 'volunteers.'",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 75,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "orphan drug testing",
+      "unethical pediatric trials",
+      "pharma orphans",
+      "seizure drug horror",
+      "medical abuse"
+    ],
+    "overlap_check_hash": "4868b7087cc4319f",
+    "why_this_can_go_viral": "Babies + profit motive + lack of consent = maximum moral outrage and shareability."
+  },
+  {
+    "unique_id": "health_0165_021_a51480c2de7ded48",
+    "title": "The Hospital That Burned Infectious Waste Inside Patient Wards",
+    "hook": "Nurses wore masks, but patients breathed toxic fumes for years—hospital blamed 'budget cuts.'",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 83,
+    "educational_value": 67,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "hospital waste burning",
+      "toxic fumes patients",
+      "healthcare neglect",
+      "budget cuts deaths",
+      "air poisoning"
+    ],
+    "overlap_check_hash": "a51480c2de7ded48",
+    "why_this_can_go_viral": "The image of patients breathing smoke from their own hospital's waste is dystopian and shareable."
+  },
+  {
+    "unique_id": "health_0165_022_a2a6a2396924a5c2",
+    "title": "The 'Weight Loss' Tea That Contained Abortion-Inducing Chemicals",
+    "hook": "Women drank it to slim down—and ended up in emergency rooms losing their pregnancies.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 89,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "weight loss tea abortion",
+      "pregnancy loss",
+      "herbal poison",
+      "women's health danger",
+      "supplement scam"
+    ],
+    "overlap_check_hash": "a2a6a2396924a5c2",
+    "why_this_can_go_viral": "Combines body image pressure with pregnancy risk—highly controversial and emotionally charged."
+  },
+  {
+    "unique_id": "health_0165_023_4c435723a0e0adce",
+    "title": "The Government That Injected 8,000 Prisoners with 'Flu Vaccines'—It Was Agent Orange",
+    "hook": "Prisoners were promised immunity—instead, they got cancer-causing dioxin in their veins.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 98,
+    "educational_value": 74,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "prisoner experiments",
+      "Agent Orange vaccine",
+      "government biotest",
+      "dioxin injection",
+      "human experimentation"
+    ],
+    "overlap_check_hash": "4c435723a0e0adce",
+    "why_this_can_go_viral": "Agent Orange is already infamous; combining it with fake vaccines creates explosive share potential."
+  },
+  {
+    "unique_id": "health_0165_024_2c66bad214529c90",
+    "title": "The Doctor Who Gave Patients Electrical Shocks for 'Hysteria'—Until They Had Seizures",
+    "hook": "He believed women's anxiety could be 'reset' with voltage. Hundreds suffered permanent brain damage.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 86,
+    "educational_value": 69,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "electroshock hysteria",
+      "women's medical abuse",
+      "psychiatric torture",
+      "shock therapy horror",
+      "medical misogyny"
+    ],
+    "overlap_check_hash": "2c66bad214529c90",
+    "why_this_can_go_viral": "Historical medical misogyny is a powerful current topic; the electrical detail adds visceral shock."
+  },
+  {
+    "unique_id": "health_0165_025_ef8f68c4974e9a85",
+    "title": "The FDA-Approved Painkiller That Made Patients' Hair Fall Out—and Their Teeth Rot",
+    "hook": "It was marketed as 'safer than ibuprofen' until patients started leaving clumps of hair in the shower.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 71,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "painkiller hair loss",
+      "teeth rotting drug",
+      "FDA painkiller scandal",
+      "opioid side effects",
+      "pharma deception"
+    ],
+    "overlap_check_hash": "ef8f68c4974e9a85",
+    "why_this_can_go_viral": "Visual side effects (hair loss, rotten teeth) are highly shareable and relatable to painkiller users."
+  }
+]

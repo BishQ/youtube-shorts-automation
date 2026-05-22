@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "science_0162_003_1216548ffce2eade",
+    "title": "The Chemist Who Synthesized a Molecule That Kills Cancer—and Healthy Cells",
+    "hook": "A promising cancer drug turned out to trigger a chain reaction that annihilated everything—including the scientist's own tissue sample.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "cancer drug failure",
+      "molecular chain reaction",
+      "lab accident",
+      "tissue destruction",
+      "failed therapy"
+    ],
+    "overlap_check_hash": "1216548ffce2eade",
+    "why_this_can_go_viral": "Hope-to-horror narrative arc; viewers love stories where 'cure' becomes 'curse'."
+  },
+  {
+    "unique_id": "science_0162_008_4294262fc20659ce",
+    "title": "The Physicist Who Proved Time Can Flow Backward—For One Particle",
+    "hook": "In a 2023 experiment, a single atom appeared to 'remember' its future state before it had occurred—breaking causality on a quantum level.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 65,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time reversal",
+      "quantum memory",
+      "causality violation",
+      "backward time",
+      "atom experiment"
+    ],
+    "overlap_check_hash": "4294262fc20659ce",
+    "why_this_can_go_viral": "Time travel implications excite everyone; the 'atom remembers future' twist adds a sci-fi horror element."
+  },
+  {
+    "unique_id": "science_0162_009_a514cb39c83b2379",
+    "title": "The Scientific Fraud Who Invented a New Element—and Fooled the Periodic Table",
+    "hook": "A chemist faked the discovery of element 118, complete with fabricated data—and the world's top journals fell for it for years.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 68,
+    "educational_value": 72,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "element 118",
+      "fabricated data",
+      "periodic table hoax",
+      "scientific misconduct",
+      "chemistry fraud"
+    ],
+    "overlap_check_hash": "a514cb39c83b2379",
+    "why_this_can_go_viral": "Undermines trust in science, feels like a heist movie with lab coats."
+  },
+  {
+    "unique_id": "science_0162_010_9714d69ac8d01f3e",
+    "title": "The Lab That Created a Self-Replicating Protein That Learned to Eat Plastic",
+    "hook": "A misfolded prion-like protein in a petri dish began replicating—and then started consuming the plastic dish itself.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "self-replicating protein",
+      "prion",
+      "plastic-eating",
+      "runaway replication",
+      "bio-error"
+    ],
+    "overlap_check_hash": "9714d69ac8d01f3e",
+    "why_this_can_go_viral": "Combines environmental fear with uncontrollable biological emergence; 'mutant protein' is a classic horror trope."
+  },
+  {
+    "unique_id": "science_0162_011_af039953676af654",
+    "title": "The Neuroscientist Who Made a Paralyzed Man Walk—Then His Brain Rejected the Chip",
+    "hook": "A spinal implant restored movement for 6 months, until the man's own immune system attacked his brain—and he lost control again.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 82,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "spinal implant",
+      "brain rejection",
+      "immune attack",
+      "paralysis recovery",
+      "neural interface"
+    ],
+    "overlap_check_hash": "af039953676af654",
+    "why_this_can_go_viral": "Hope shattered by biology; deeply emotional and tragic narrative."
+  },
+  {
+    "unique_id": "science_0162_012_47e26112823ebdc5",
+    "title": "The Chemist Who Accidentally Made a New State of Matter—and It Consumed His Lab",
+    "hook": "A synthesis gone wrong produced a weird gelatinous phase that absorbed everything it touched—including metal and glass.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 79,
+    "educational_value": 68,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "new state of matter",
+      "gelatinous phase",
+      "lab contamination",
+      "absorbent material",
+      "chemical accident"
+    ],
+    "overlap_check_hash": "47e26112823ebdc5",
+    "why_this_can_go_viral": "Visually striking 'blob that eats everything' narrative is irresistible."
+  },
+  {
+    "unique_id": "science_0162_013_e1ac31495e7d16ca",
+    "title": "The Forbidden Experiment Where a Woman Was Kept Asleep for 6 Months",
+    "hook": "In the 1960s, a researcher induced a half-year coma in a volunteer to study sleep—and she woke up unable to form new memories.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 93,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "induced coma",
+      "sleep experiment",
+      "memory loss",
+      "ethical horror",
+      "human guinea pig"
+    ],
+    "overlap_check_hash": "e1ac31495e7d16ca",
+    "why_this_can_go_viral": "Extreme duration and haunting permanent damage make it a cautionary tale of scientific overreach."
+  },
+  {
+    "unique_id": "science_0162_014_763ab55e651c97fd",
+    "title": "The Quantum Computer That Found a Glitch in the Fabric of Space",
+    "hook": "A quantum processor detected an inexplicable anomaly in its calculations—as if the universe's code had a bug.",
+    "virality_score": 81,
+    "curiosity_gap_score": 90,
+    "darkness_score": 72,
+    "educational_value": 70,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum glitch",
+      "space anomaly",
+      "universe code",
+      "computation error",
+      "reality bug"
+    ],
+    "overlap_check_hash": "763ab55e651c97fd",
+    "why_this_can_go_viral": "Simulation theory fans and sci-fi enthusiasts will share it widely; mystery is compelling."
+  },
+  {
+    "unique_id": "science_0162_015_9a22ebfbe21123cb",
+    "title": "The Biolab That Engineered a Chicken With Dinosaur Legs—and It Survived",
+    "hook": "By activating ancient reptilian genes, scientists gave a chicken clawed feet and a tail—and it acted like a predator.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 74,
+    "educational_value": 76,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "chicken evolution",
+      "dinosaur genes",
+      "reverse evolution",
+      "genetic reversion",
+      "transgenic animal"
+    ],
+    "overlap_check_hash": "9a22ebfbe21123cb",
+    "why_this_can_go_viral": "Dinosaur nostalgia + 'playing god' fear + visual shock of a 'dino-chicken'."
+  },
+  {
+    "unique_id": "science_0162_016_2c2259602cd791f9",
+    "title": "The Physicist Who Measured a Particle Moving Faster Than Light—and Died Mysteriously",
+    "hook": "A researcher claimed to have recorded superluminal neutrinos—and then died in a car accident that some called suspicious.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "faster than light",
+      "neutrino anomaly",
+      "suspicious death",
+      "physics cover-up",
+      "OPERA experiment"
+    ],
+    "overlap_check_hash": "2c2259602cd791f9",
+    "why_this_can_go_viral": "Conspiracy + physics breakthrough + death = viral gold."
+  },
+  {
+    "unique_id": "science_0162_017_197249ed8a8ad694",
+    "title": "The Scientific Fraud Who Faked a Bionic Eye—and Blind Patients Paid With Their Sight",
+    "hook": "A startup implanted fake 'bionic eyes' into 20 blind people—the devices were never functional, and the surgeries destroyed remaining nerve tissue.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 98,
+    "educational_value": 75,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "bionic eye scam",
+      "blind patients",
+      "fake implant",
+      "medical fraud",
+      "nerve damage"
+    ],
+    "overlap_check_hash": "197249ed8a8ad694",
+    "why_this_can_go_viral": "Outrage, betrayal, and permanent harm to vulnerable people create maximum emotional engagement."
+  },
+  {
+    "unique_id": "science_0162_018_d169e85c0c39c9b4",
+    "title": "The Lab Catastrophe Where a Scientist Was Injected With a Chemical by Mistake",
+    "hook": "A lab assistant mistook a syringe of caustic solvent for saline and injected it into a colleague's arm—the limb had to be amputated within hours.",
+    "virality_score": 77,
+    "curiosity_gap_score": 82,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "needle accident",
+      "caustic injection",
+      "amputation",
+      "lab safety failure",
+      "chemical injury"
+    ],
+    "overlap_check_hash": "d169e85c0c39c9b4",
+    "why_this_can_go_viral": "Gory, immediate, and avoidable—viewers love 'worst day at work' stories."
+  },
+  {
+    "unique_id": "science_0162_019_f821041eaeae2808",
+    "title": "The Neuroscientist Who Stimulated a Mouse's Pleasure Center—Until It Starved to Death",
+    "hook": "A mouse with an electrode in its nucleus accumbens pressed a lever for pleasure 10,000 times an hour—forgetting to eat or drink.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 78,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "pleasure center",
+      "self-stimulation",
+      "addiction",
+      "mouse experiment",
+      "nucleus accumbens"
+    ],
+    "overlap_check_hash": "f821041eaeae2808",
+    "why_this_can_go_viral": "Disturbing metaphor for human addiction; visceral reminder of biology's trap."
+  },
+  {
+    "unique_id": "science_0162_020_dd3999b8cea10cb2",
+    "title": "The Chemist Who Created a Drug That Reverses Aging—But Kills From the Inside",
+    "hook": "A compound extended lifespan in mice by 40%, but caused their organs to calcify into stone—turning them into living statues.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "anti-aging drug",
+      "calcification",
+      "organ failure",
+      "mouse experiment",
+      "longevity trap"
+    ],
+    "overlap_check_hash": "dd3999b8cea10cb2",
+    "why_this_can_go_viral": "The 'fountain of youth that kills you' angle resonates with aging fears."
+  },
+  {
+    "unique_id": "science_0162_021_cf24be7f157bddfb",
+    "title": "The Forbidden Experiment Where Twins Were Raised Apart—and One Became a Killer",
+    "hook": "In a secret twin study, identical twins were separated at birth—one grew up normal, the other became a serial killer.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 94,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "twin study",
+      "nature vs nurture",
+      "separated twins",
+      "serial killer",
+      "genetic fate"
+    ],
+    "overlap_check_hash": "cf24be7f157bddfb",
+    "why_this_can_go_viral": "Extreme case study of genetic determinism vs environment; deeply unsettling."
+  },
+  {
+    "unique_id": "science_0162_022_b591ecdfe933e5bf",
+    "title": "The Physicist Who Built a Laser That Creates Matter From Nothing",
+    "hook": "By focusing intense energy into a vacuum, a physicist coaxed particles to appear out of empty space—proving the vacuum isn't empty.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 62,
+    "educational_value": 82,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "laser physics",
+      "particle creation",
+      "vacuum energy",
+      "Schwinger effect",
+      "matter from nothing"
+    ],
+    "overlap_check_hash": "b591ecdfe933e5bf",
+    "why_this_can_go_viral": "Sounds like magic, challenges basic intuition about 'nothingness.'"
+  },
+  {
+    "unique_id": "science_0162_023_952be35f3217983e",
+    "title": "The Biolab That Made a Glowing Rabbit—and It Spread the Gene to Wild Rabbits",
+    "hook": "A transgenic GFP rabbit escaped, mated with wild bunnies, and spawned a population of glowing offspring in the countryside.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 76,
+    "educational_value": 74,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "glowing rabbit",
+      "gene escape",
+      "transgenic animal",
+      "GFP",
+      "ecological contamination"
+    ],
+    "overlap_check_hash": "952be35f3217983e",
+    "why_this_can_go_viral": "Cute + horrifying + 'what have we unleashed' narrative."
+  },
+  {
+    "unique_id": "science_0162_024_03db813fcfbb8621",
+    "title": "The Scientific Fraud Who Faked a 'Cure for Death'—and Drained Millions From Investors",
+    "hook": "A biotech CEO claimed to have reversed aging in human cells—but the cells were from a dead donor and the data was entirely fabricated.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 84,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "aging reversal",
+      "cell therapy fraud",
+      "biotech scam",
+      "immortality hoax",
+      "fabricated data"
+    ],
+    "overlap_check_hash": "03db813fcfbb8621",
+    "why_this_can_go_viral": "Exploits the dream of immortality and the anger of betrayal; classic 'Theranos 2.0' vibes."
+  },
+  {
+    "unique_id": "science_0162_025_4aabe209e3974834",
+    "title": "The Quantum Paradox Where a Particle Exploded Because It Was Measured Too Hard",
+    "hook": "A measurement so intense it caused the particle to annihilate itself—observation literally killed the subject.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 74,
+    "educational_value": 72,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "measurement destruction",
+      "particle annihilation",
+      "quantum death",
+      "observer effect extreme",
+      "quantum measurement"
+    ],
+    "overlap_check_hash": "4aabe209e3974834",
+    "why_this_can_go_viral": "Dramatic metaphor for 'looking too hard breaks things'; easy to visualize and share."
+  }
+]

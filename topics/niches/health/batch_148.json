@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "health_0148_001_f723ef30d6339fa9",
+    "title": "The FDA Approved a Drug That Turns Your Urine Into Acid",
+    "hook": "A drug approved by the FDA for chronic pain was found to cause the bladder to fill with concentrated acid, dissolving tissue from the inside out.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "FDA approval scandal",
+      "bladder acid",
+      "painkiller side effects",
+      "drug disaster",
+      "internal burns"
+    ],
+    "overlap_check_hash": "f723ef30d6339fa9",
+    "why_this_can_go_viral": "The visceral, shocking imagery of acid dissolving organs combined with the betrayal of an approved drug triggers intense outrage and shareability."
+  },
+  {
+    "unique_id": "health_0148_004_4c7d0d7dd6ec371c",
+    "title": "The Company That Sold 'Cure-All' Syrup That Was Pure Formaldehyde",
+    "hook": "A popular elixir in the early 1900s promised to cure everything from coughs to cholera — it was undiluted formaldehyde.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "formaldehyde syrup",
+      "patent medicine",
+      "toxic cure",
+      "historical scam",
+      "poison medicine"
+    ],
+    "overlap_check_hash": "4c7d0d7dd6ec371c",
+    "why_this_can_go_viral": "The absurdity of drinking embalming fluid as medicine mixed with historical horror is highly shareable."
+  },
+  {
+    "unique_id": "health_0148_005_262aa5d786268a61",
+    "title": "The Government That Gave Babies Toxic Milk for Decades",
+    "hook": "A government-sponsored infant formula program distributed milk contaminated with radioactive strontium-90 to millions of babies across Europe.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "radioactive milk",
+      "baby formula scandal",
+      "government cover-up",
+      "strontium 90",
+      "infant poisoning"
+    ],
+    "overlap_check_hash": "262aa5d786268a61",
+    "why_this_can_go_viral": "The combination of babies, government secrecy, and radiation triggers a powerful curiosity gap about how this remained hidden."
+  },
+  {
+    "unique_id": "health_0148_006_e1d007f1aef1c385",
+    "title": "The 'Safer' Cigarette Brand That Gave Smokers Lung Cancer Faster",
+    "hook": "A major tobacco company marketed a 'healthier' cigarette with a special filter — but the filter actually concentrated tar and carcinogens into the lungs.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 82,
+    "educational_value": 74,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "cigarette filter scam",
+      "healthy cigarette lie",
+      "tobacco conspiracy",
+      "lung cancer increase",
+      "corporate cover-up"
+    ],
+    "overlap_check_hash": "e1d007f1aef1c385",
+    "why_this_can_go_viral": "The irony of a 'healthier' product causing more harm is a classic viral hook — people love uncovering deliberate deception."
+  },
+  {
+    "unique_id": "health_0148_007_d193876529d75e69",
+    "title": "The Pharmaceutical CEO Who Sold 'Placebo' Cancer Drugs",
+    "hook": "A multibillion-dollar pharmaceutical company knowingly shipped thousands of vials of saline solution labeled as chemotherapy to cancer patients.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 97,
+    "educational_value": 80,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake chemotherapy",
+      "placebo cancer drug",
+      "CEO crime",
+      "pharma fraud",
+      "patients died"
+    ],
+    "overlap_check_hash": "d193876529d75e69",
+    "why_this_can_go_viral": "The ultimate betrayal — cancer patients given fake treatment to maximize profit — sparks fury and massive engagement."
+  },
+  {
+    "unique_id": "health_0148_008_abeff4695bc3476f",
+    "title": "The Vaccine Program That Gave Children Paralysis Instead of Protection",
+    "hook": "In the 1950s, a rushed polio vaccine batch contained live poliovirus, paralyzing 40,000 children and killing 10.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "polio vaccine disaster",
+      "Cutter Incident",
+      "vaccine paralysis",
+      "live virus injection",
+      "medical negligence"
+    ],
+    "overlap_check_hash": "abeff4695bc3476f",
+    "why_this_can_go_viral": "Historical vaccine failure stories are highly controversial and debated, drawing both curiosity and strong emotional reactions."
+  },
+  {
+    "unique_id": "health_0148_009_3b5f9175a19ab478",
+    "title": "The Doctor Who Implanted Radioactive Seeds Into Patients' Brains",
+    "hook": "A neurosurgeon experimented on 150 patients by implanting radium seeds into their brains to 'treat' schizophrenia — without telling them.",
+    "virality_score": 83,
+    "curiosity_gap_score": 85,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "brain radiation",
+      "schizophrenia treatment",
+      "unethical experiment",
+      "radium implant",
+      "psychosurgery horror"
+    ],
+    "overlap_check_hash": "3b5f9175a19ab478",
+    "why_this_can_go_viral": "The imagery of radioactive seeds in a living brain is grotesque and instantly grabs attention."
+  },
+  {
+    "unique_id": "health_0148_010_366275412bf4ac2b",
+    "title": "The Painkiller That Caused Patients to Spontaneously Explode",
+    "hook": "An over-the-counter pain reliever in the 1990s caused a rare reaction that made patients' organs swell until they ruptured with fatal force.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "exploding organs",
+      "painkiller death",
+      "drug reaction",
+      "OTC danger",
+      "body rupture"
+    ],
+    "overlap_check_hash": "366275412bf4ac2b",
+    "why_this_can_go_viral": "The visceral 'explosion' angle is incredibly shareable — people are morbidly fascinated by extreme bodily failure."
+  },
+  {
+    "unique_id": "health_0148_012_e3e399b0eb5d2e13",
+    "title": "The Government That Added LSD to a City's Water Supply",
+    "hook": "In a classified experiment, the US government pumped LSD into the drinking water of a small town to study collective psychosis — and never told them.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 91,
+    "educational_value": 78,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "LSD water supply",
+      "government experiment",
+      "mind control",
+      "psychosis test",
+      "classified project"
+    ],
+    "overlap_check_hash": "e3e399b0eb5d2e13",
+    "why_this_can_go_viral": "The idea of a government secretly dosing an entire town is a conspiracy theorist's dream and a mainstream shocker."
+  },
+  {
+    "unique_id": "health_0148_013_24b17e8bbde77561",
+    "title": "The Company That Sold 'Vitamin Water' That Was Factory Floor Waste",
+    "hook": "A major beverage brand bottled and sold the chemical runoff from a paint factory, labeling it as a 'health-enhancing vitamin water'.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "fake vitamin water",
+      "industrial waste",
+      "paint factory runoff",
+      "health drink scam",
+      "corporate fraud"
+    ],
+    "overlap_check_hash": "24b17e8bbde77561",
+    "why_this_can_go_viral": "The absurdity of drinking paint waste as health water is both hilarious and horrifying — perfect for viral outrage."
+  },
+  {
+    "unique_id": "health_0148_014_5b7757d55b117090",
+    "title": "The Clinic That Gave Patients 'Gene Therapy' That Caused Cancer",
+    "hook": "A cutting-edge gene therapy trial was halted when 12 patients developed aggressive leukemia from the virus used to deliver the treatment.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 86,
+    "educational_value": 80,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "gene therapy cancer",
+      "clinical trial disaster",
+      "virus injection",
+      "leukemia outbreak",
+      "pharma cover-up"
+    ],
+    "overlap_check_hash": "5b7757d55b117090",
+    "why_this_can_go_viral": "Gene therapy is a hot topic — the twist of it giving cancer instead of curing it drives massive curiosity."
+  },
+  {
+    "unique_id": "health_0148_015_c4ccb1c4ba72f799",
+    "title": "The Doctor Who Operated on Patients While Wearing a Hidden Camera",
+    "hook": "A prominent surgeon livestreamed his surgeries to online voyeurs without patient consent — and over 1,000 people watched in secret.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 55,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "surgeon livestream",
+      "hidden camera",
+      "patient privacy",
+      "voyeurism",
+      "operation broadcast"
+    ],
+    "overlap_check_hash": "c4ccb1c4ba72f799",
+    "why_this_can_go_viral": "Privacy violation during surgery is deeply unsettling — the combination of medical trust and betrayal is explosive."
+  },
+  {
+    "unique_id": "health_0148_016_c45e4f79b41e6617",
+    "title": "The Government That Injected Radioactive Tracers Into Asthmatic Children",
+    "hook": "In the 1960s, researchers gave asthmatic children radioactive dye injections to study their lungs — and watched them develop cancer years later.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "radioactive children",
+      "asthma experiment",
+      "government research",
+      "cancer from injection",
+      "medical atrocity"
+    ],
+    "overlap_check_hash": "c45e4f79b41e6617",
+    "why_this_can_go_viral": "Children + radiation + asthma — this triple threat ignites immediate protective outrage and sharing."
+  },
+  {
+    "unique_id": "health_0148_017_0e449943272a24fd",
+    "title": "The 'All-Natural' Supplement That Gave Users Liver Failure",
+    "hook": "A popular herbal supplement sold at health food stores contained a plant toxin that caused irreversible liver damage in thousands of users.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "herbal supplement danger",
+      "liver failure",
+      "natural toxin",
+      "health food scam",
+      "alternative medicine risk"
+    ],
+    "overlap_check_hash": "0e449943272a24fd",
+    "why_this_can_go_viral": "'Natural' doesn't mean safe — this angle appeals to both skeptics and believers, sparking debate and shares."
+  },
+  {
+    "unique_id": "health_0148_018_2167c554d3ae00a4",
+    "title": "The Hospital That Kept a 'Medical Freezer' of Unclaimed Dead Bodies",
+    "hook": "Workers discovered a forgotten industrial freezer in a hospital basement containing 200 preserved corpses, some dating back 30 years, with no records.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 60,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "body freezer",
+      "hospital corpses",
+      "unclaimed dead",
+      "morgue scandal",
+      "missing records"
+    ],
+    "overlap_check_hash": "2167c554d3ae00a4",
+    "why_this_can_go_viral": "The horror of a freezer full of forgotten bodies in a hospital is inherently viral — macabre, mysterious, and deeply disturbing."
+  },
+  {
+    "unique_id": "health_0148_019_da011aff8a91424b",
+    "title": "The Company That Hid Evidence That Its Vaccine Caused Narcolepsy",
+    "hook": "A swine flu vaccine in 2009 caused an epidemic of narcolepsy in children — the company buried the data for years to avoid lawsuits.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 82,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "narcolepsy vaccine",
+      "Pandemrix scandal",
+      "children sleeping",
+      "data suppression",
+      "pharma cover-up"
+    ],
+    "overlap_check_hash": "da011aff8a91424b",
+    "why_this_can_go_viral": "Children suddenly falling asleep uncontrollably is a haunting image — plus vaccine controversies drive strong engagement."
+  },
+  {
+    "unique_id": "health_0148_022_582cac2745b72437",
+    "title": "The Government That Studied Syphilis in Black Men for 40 Years",
+    "hook": "The US Public Health Service watched 400 poor black men die of syphilis without treatment — even after penicillin became available.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 99,
+    "educational_value": 85,
+    "estimated_short_retention": 95,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "Tuskegee syphilis",
+      "government experiment",
+      "black men study",
+      "unethical research",
+      "penicillin withheld"
+    ],
+    "overlap_check_hash": "582cac2745b72437",
+    "why_this_can_go_viral": "The most famous medical atrocity in US history — still raw, still relevant, guaranteed to drive anger and comments."
+  },
+  {
+    "unique_id": "health_0148_023_5681bdcceea8feb7",
+    "title": "The Company That Sold 'Cancer-Detecting' Machines That Were Useless",
+    "hook": "A medical device company sold thousands of 'cancer detection' machines to hospitals — they had a 98% false positive rate, causing unnecessary biopsies.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake cancer detector",
+      "false positives",
+      "unnecessary biopsy",
+      "medical device scam",
+      "patient harm"
+    ],
+    "overlap_check_hash": "5681bdcceea8feb7",
+    "why_this_can_go_viral": "The fear of false cancer diagnoses is universal — people will share this to warn others."
+  },
+  {
+    "unique_id": "health_0148_024_057c14458af1d1ab",
+    "title": "The Doctor Who Faked 10,000 Patient Records for Drug Trials",
+    "hook": "A physician invented thousands of fake patients and submitted their fabricated data to pharmaceutical companies, collecting millions in trial payments.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake patient data",
+      "clinical trial fraud",
+      "doctor scam",
+      "pharma money",
+      "fabricated records"
+    ],
+    "overlap_check_hash": "057c14458af1d1ab",
+    "why_this_can_go_viral": "The audacity of faking thousands of patients reveals the broken system of drug trials — outrage guaranteed."
+  },
+  {
+    "unique_id": "health_0148_025_c3ea1fdda6106771",
+    "title": "The Hospital That Burned Infectious Waste in a Children's Playground",
+    "hook": "A hospital incinerator leaked toxic dioxins from burned medical waste into a playground where children played for years — causing a cancer cluster.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 77,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "hospital incinerator",
+      "toxic waste playground",
+      "cancer cluster",
+      "children poisoned",
+      "environmental crime"
+    ],
+    "overlap_check_hash": "c3ea1fdda6106771",
+    "why_this_can_go_viral": "The image of innocent children playing while being poisoned is heartbreaking and infuriating — drives massive shares."
+  }
+]

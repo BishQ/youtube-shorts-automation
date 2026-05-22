@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "cosmic_0194_001_03bf28d240c61c56",
+    "title": "The Star That Vanished—3 Telescopes Saw It Die in Real Time",
+    "hook": "A star the size of a thousand suns just winked out of existence, and no one can explain why the light simply stopped.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "star disappearance",
+      "impossible stellar death",
+      "telescope anomaly",
+      "cosmic vanishing",
+      "supernova fail"
+    ],
+    "overlap_check_hash": "03bf28d240c61c56",
+    "why_this_can_go_viral": "The idea that a star can just 'turn off' defies basic physics and triggers deep existential dread—perfect for the cosmic horror audience."
+  },
+  {
+    "unique_id": "cosmic_0194_002_99df3f1cbf3551ea",
+    "title": "The Asteroid That Has a Face—And It's Staring at Earth",
+    "hook": "NASA's deep-space probe captured a formation on an asteroid that looks exactly like a human face—and it's aimed directly at us.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 75,
+    "educational_value": 40,
+    "estimated_short_retention": 90,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "asteroid face",
+      "pareidolia space",
+      "NASA cover-up",
+      "alien artifact",
+      "space threat"
+    ],
+    "overlap_check_hash": "99df3f1cbf3551ea",
+    "why_this_can_go_viral": "Face pareidolia goes viral instantly, and combining it with a potential threat from space creates irresistible click-through."
+  },
+  {
+    "unique_id": "cosmic_0194_003_e3bb44a32cb535c3",
+    "title": "The Signal That Came From a Dead Galaxy—Light-Years Past the Edge",
+    "hook": "Astronomers picked up a repeating radio burst from a galaxy that went dark 2 billion years ago—something is still transmitting.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "dead galaxy signal",
+      "FRB origin",
+      "alien transmission",
+      "ghost signal",
+      "cosmic message"
+    ],
+    "overlap_check_hash": "e3bb44a32cb535c3",
+    "why_this_can_go_viral": "The idea of a signal from a dead source plays on the creepiest trope—'the call is coming from inside the house,' but cosmic scale."
+  },
+  {
+    "unique_id": "cosmic_0194_004_4f5f915f558deed3",
+    "title": "The Dark Matter That Is Slowly Shredding Earth's Magnetic Field",
+    "hook": "A dense patch of dark matter is drifting through the solar system, and it's already peeling away our magnetic shield from the inside.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter threat",
+      "magnetic field damage",
+      "invisible danger",
+      "Earth shield collapse",
+      "cosmic destruction"
+    ],
+    "overlap_check_hash": "4f5f915f558deed3",
+    "why_this_can_go_viral": "Dark matter is already mysterious, but framing it as an active, invisible threat to Earth gives it a horror-movie urgency."
+  },
+  {
+    "unique_id": "cosmic_0194_005_26b75d263bbb5d84",
+    "title": "The Classified Russian Space Station That Found a Door in Orbit",
+    "hook": "Declassified cosmonaut logs describe a perfectly rectangular hatch floating in low Earth orbit—and it opened when they approached.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 82,
+    "educational_value": 50,
+    "estimated_short_retention": 92,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "Russian space secret",
+      "orbital door",
+      "cosmonaut encounter",
+      "classified space object",
+      "space hatch"
+    ],
+    "overlap_check_hash": "26b75d263bbb5d84",
+    "why_this_can_go_viral": "The fusion of classified Soviet space programs with a literal 'door in space' triggers both conspiracy curiosity and sci-fi wonder."
+  },
+  {
+    "unique_id": "cosmic_0194_007_c88e0e04f47616ce",
+    "title": "The Black Hole That Is Eating a Galaxy—But Leaving the Stars Intact",
+    "hook": "A supermassive black hole is devouring a neighboring galaxy, but every star remains perfectly in orbit around nothing—a ghost galaxy.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 79,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "black hole anomaly",
+      "ghost galaxy",
+      "stellar skeleton",
+      "cosmic cannibalism",
+      "impossible orbit"
+    ],
+    "overlap_check_hash": "c88e0e04f47616ce",
+    "why_this_can_go_viral": "The visual of stars orbiting empty space is haunting and creates a 'skeleton galaxy' metaphor that sticks with viewers."
+  },
+  {
+    "unique_id": "cosmic_0194_008_0ebb8f229b8b5eda",
+    "title": "The Fermi Paradox Answer: We Live in a Cosmic Desert—And Something Is Blocking the Exit",
+    "hook": "New calculations show that a massive gravitational barrier surrounds our local cluster—nothing gets in, nothing gets out.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 88,
+    "educational_value": 74,
+    "estimated_short_retention": 89,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "cosmic prison",
+      "gravitational barrier",
+      "Fermi paradox solution",
+      "local void",
+      "galactic quarantine"
+    ],
+    "overlap_check_hash": "0ebb8f229b8b5eda",
+    "why_this_can_go_viral": "The idea that we're trapped in a cosmic prison is a viral existential punch—combines Fermi paradox with sci-fi horror."
+  },
+  {
+    "unique_id": "cosmic_0194_010_e21e3d0e0445b241",
+    "title": "The Star That Erupted With a Plasma Wave—And It's Headed Straight for Us",
+    "hook": "A Wolf-Rayet star 8,000 light-years away just unleashed a plasma wave traveling at relativistic speed—Earth is in its path.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "plasma wave",
+      "Wolf-Rayet threat",
+      "stellar eruption",
+      "Earth impact",
+      "cosmic tsunami"
+    ],
+    "overlap_check_hash": "e21e3d0e0445b241",
+    "why_this_can_go_viral": "Imminent cosmic doom is an evergreen viral trigger—'something is coming for us' always drives engagement."
+  },
+  {
+    "unique_id": "cosmic_0194_011_b6c8d6a5b81d4f53",
+    "title": "The Secret NASA Briefing on the Asteroid That Changed Color Overnight",
+    "hook": "NASA held an emergency closed-door meeting when an asteroid shifted from red to blue in under 12 hours—something painted it.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 81,
+    "educational_value": 55,
+    "estimated_short_retention": 91,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "asteroid color shift",
+      "secret NASA meeting",
+      "alien interference",
+      "asteroid anomaly",
+      "classified briefing"
+    ],
+    "overlap_check_hash": "b6c8d6a5b81d4f53",
+    "why_this_can_go_viral": "Color change on a cosmic scale is impossible by natural means—implies intelligence, which drives massive conspiracy interest."
+  },
+  {
+    "unique_id": "cosmic_0194_012_d64fdd65111290c0",
+    "title": "The Dark Matter That Leaked Into the Solar System—And Warped Every Orbit",
+    "hook": "An invisible cloud of dark matter passed through the inner solar system in 2017, and every planet wobbled—no one told the public.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 87,
+    "educational_value": 76,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter cloud",
+      "planet wobble",
+      "solar system anomaly",
+      "invisible wave",
+      "planetary disruption"
+    ],
+    "overlap_check_hash": "d64fdd65111290c0",
+    "why_this_can_go_viral": "A hidden catastrophe that already happened—and we weren't told—is a classic viral conspiracy hook."
+  },
+  {
+    "unique_id": "cosmic_0194_013_8af267c1eee3a3dc",
+    "title": "The Comet That Carried a Perfectly Cut Crystal—Geometry Impossible in Nature",
+    "hook": "A diamond-like crystal with 18 faces was found inside a comet sample—no natural process creates that symmetry.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "alien crystal",
+      "comet artifact",
+      "impossible geometry",
+      "perfect crystal space",
+      "man-made object comet"
+    ],
+    "overlap_check_hash": "8af267c1eee3a3dc",
+    "why_this_can_go_viral": "Impossible geometry triggers the 'ancient alien artifact' reflex, a proven viral driver in the cosmic niche."
+  },
+  {
+    "unique_id": "cosmic_0194_015_e92894b44cfe3029",
+    "title": "The Black Hole That's Older Than the Universe—A Paradox at the Center of a Galaxy",
+    "hook": "A black hole with a mass of 12 billion suns formed just 800 million years after the Big Bang—it should not exist.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 76,
+    "educational_value": 80,
+    "estimated_short_retention": 83,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "impossible black hole",
+      "early universe",
+      "cosmic paradox",
+      "time anomaly",
+      "supermassive mystery"
+    ],
+    "overlap_check_hash": "e92894b44cfe3029",
+    "why_this_can_go_viral": "Time paradoxes always go viral—'older than the universe' is a mind-bending hook that stops the scroll."
+  },
+  {
+    "unique_id": "cosmic_0194_016_bf2158ab76034903",
+    "title": "The Classified Space Plane That Flew for 780 Days—No One Knows What It Did",
+    "hook": "The US military's X-37B space plane stayed in orbit for over two years—and the only thing that came back was a sealed container.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 87,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "X-37B secret mission",
+      "classified space plane",
+      "military space program",
+      "sealed container",
+      "orbital mystery"
+    ],
+    "overlap_check_hash": "bf2158ab76034903",
+    "why_this_can_go_viral": "Secret military space missions with unknown payloads are conspiracy gold—the secrecy itself drives curiosity."
+  },
+  {
+    "unique_id": "cosmic_0194_017_a5d052d072417d72",
+    "title": "The Signal That Matched the Prime Numbers—And Came From a Rogue Planet",
+    "hook": "A rogue planet ejected from its star system is broadcasting prime numbers—the universal sign of intelligence—on a loop.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 83,
+    "educational_value": 69,
+    "estimated_short_retention": 93,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "prime number signal",
+      "rogue planet",
+      "alien intelligence",
+      "cosmic broadcast",
+      "SETI detection"
+    ],
+    "overlap_check_hash": "a5d052d072417d72",
+    "why_this_can_go_viral": "Prime numbers are the 'calling card' of intelligence—combining that with a drifting, homeless planet is cinematic horror."
+  },
+  {
+    "unique_id": "cosmic_0194_018_bb566cb90c4fe509",
+    "title": "The Extinction Event That Happened in the Ocean—And Left No Land Trace",
+    "hook": "A massive extinction struck the deep ocean 100 million years ago—every sea creature died, but the land was untouched. We don't know what caused it.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 81,
+    "educational_value": 79,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "ocean extinction",
+      "selective extinction",
+      "marine die-off",
+      "hidden catastrophe",
+      "deep sea mystery"
+    ],
+    "overlap_check_hash": "bb566cb90c4fe509",
+    "why_this_can_go_viral": "A selective extinction event that targeted only the ocean is deeply unsettling and raises questions about targeted cosmic forces."
+  },
+  {
+    "unique_id": "cosmic_0194_019_faeb07fba38b0a02",
+    "title": "The Dark Matter That Hummed a Melody—Perfect Pitch, No Source",
+    "hook": "Scientists detected a perfect B-flat note emanating from a cloud of dark matter—a sound with no physical origin.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 77,
+    "educational_value": 68,
+    "estimated_short_retention": 81,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter sound",
+      "cosmic hum",
+      "B-flat note",
+      "invisible music",
+      "universe frequency"
+    ],
+    "overlap_check_hash": "faeb07fba38b0a02",
+    "why_this_can_go_viral": "The universe 'singing' is a poetic and eerie concept—music from nothing triggers both wonder and unease."
+  },
+  {
+    "unique_id": "cosmic_0194_021_be50256601a1f57c",
+    "title": "The Star That Has a Ring Around It—Made of Something That Absorbs All Light",
+    "hook": "A star 1,500 light-years away is encircled by a perfectly dark ring that absorbs every wavelength—a structure, not a cloud.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 67,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "dark ring star",
+      "light absorbing structure",
+      "Dyson sphere theory",
+      "alien megastructure",
+      "stellar anomaly"
+    ],
+    "overlap_check_hash": "be50256601a1f57c",
+    "why_this_can_go_viral": "Anything that suggests a Dyson Sphere or alien megastructure is an instant viral trigger in the cosmic niche."
+  },
+  {
+    "unique_id": "cosmic_0194_023_f50e4a00caee1426",
+    "title": "The Comet That Left a Trail of Antimatter—Annihilating Everything in Its Path",
+    "hook": "A comet's tail contained positrons that annihilated dust particles as it passed—a trail of tiny explosions across the solar system.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 84,
+    "educational_value": 73,
+    "estimated_short_retention": 82,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "antimatter comet",
+      "positron trail",
+      "cosmic annihilation",
+      "dangerous comet",
+      "particle destruction"
+    ],
+    "overlap_check_hash": "f50e4a00caee1426",
+    "why_this_can_go_viral": "Antimatter is already a buzzword—combining it with a comet that 'destroys what it touches' creates dramatic visual tension."
+  },
+  {
+    "unique_id": "cosmic_0194_024_2a8a4d7367b27b57",
+    "title": "The Black Hole That Is Emitting Structured Light—A Beacon from the Abyss",
+    "hook": "A black hole is firing focused beams of light in a repeating pattern—like a lighthouse from the edge of existence.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 71,
+    "estimated_short_retention": 81,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "black hole beacon",
+      "structured light",
+      "cosmic lighthouse",
+      "patterned emission",
+      "black hole signal"
+    ],
+    "overlap_check_hash": "2a8a4d7367b27b57",
+    "why_this_can_go_viral": "The 'lighthouse from hell' metaphor is instantly gripping—implies intent, navigation, or warning from the abyss."
+  },
+  {
+    "unique_id": "cosmic_0194_025_215542eaf93ce6ae",
+    "title": "The Classified Apollo Mission That Found Footprints—Not Human, Not Animal",
+    "hook": "Declassified Apollo 17 surface photos show a chain of perfectly spaced, three-toed footprints near the Taurus-Littrow valley.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 93,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "Apollo footprints",
+      "lunar anomaly",
+      "classfied moon photos",
+      "alien tracks",
+      "NASA coverup"
+    ],
+    "overlap_check_hash": "215542eaf93ce6ae",
+    "why_this_can_go_viral": "Footprints on the moon that aren't human is the ultimate classified lunar conspiracy—drives massive debate and shares."
+  }
+]

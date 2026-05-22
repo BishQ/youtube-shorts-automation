@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "health_0110_001_a63ca1cbc4b5f08b",
+    "title": "The FDA Cleaner That Gave 500 Janitors Lung Cancer",
+    "hook": "A hospital-grade disinfectant was killing the staff who used it—and the FDA knew for 12 years.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 91,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "FDA",
+      "cleaner",
+      "lung cancer",
+      "hospital scandal",
+      "toxic chemicals"
+    ],
+    "overlap_check_hash": "a63ca1cbc4b5f08b",
+    "why_this_can_go_viral": "Combines a trusted product with a hidden body count—viewers feel betrayed by an everyday item."
+  },
+  {
+    "unique_id": "health_0110_002_f07f3cbd44660fc2",
+    "title": "The Surgeon Who Sewed Patients' Eyelids Shut for 'Rest'",
+    "hook": "He believed sleep was optional, so he forcibly closed people's eyes with surgical thread.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 60,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "surgeon",
+      "eyelids",
+      "forced sleep",
+      "medical abuse",
+      "psychopath doctor"
+    ],
+    "overlap_check_hash": "f07f3cbd44660fc2",
+    "why_this_can_go_viral": "The image of sewn eyes is viscerally disturbing and instantly shareable."
+  },
+  {
+    "unique_id": "health_0110_003_a21055de7de34c76",
+    "title": "The Pill That Turned 300 Women's Skin Blue Permanently",
+    "hook": "A prescription medication for acne had a side effect the company buried for years—your skin turns blue and stays that way.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 74,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "acne pill",
+      "blue skin",
+      "pharma cover-up",
+      "side effect",
+      "permanent damage"
+    ],
+    "overlap_check_hash": "a21055de7de34c76",
+    "why_this_can_go_viral": "Shocking visual transformation makes people stop scrolling and demand answers."
+  },
+  {
+    "unique_id": "health_0110_004_3afbe97dbf4e7741",
+    "title": "The Suppressed $0.02 Spice That Reversed 100% of Sepsis",
+    "hook": "A common kitchen spice outperformed every antibiotic in trials—then the patent holders vanished.",
+    "virality_score": 82,
+    "curiosity_gap_score": 89,
+    "darkness_score": 79,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "suppressed cure",
+      "sepsis",
+      "spice",
+      "natural remedy",
+      "big pharma"
+    ],
+    "overlap_check_hash": "3afbe97dbf4e7741",
+    "why_this_can_go_viral": "Cheap accessible cure vs. greedy system—classic underdog narrative with high shareability."
+  },
+  {
+    "unique_id": "health_0110_007_fb48a3f820f020cd",
+    "title": "The Doctor Who Injected 200 Patients with Rat Venom",
+    "hook": "He claimed it cured arthritis. Instead, it liquefied their joints from the inside.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 94,
+    "educational_value": 69,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "rat venom",
+      "arthritis",
+      "doctor experiment",
+      "joint damage",
+      "unethical medicine"
+    ],
+    "overlap_check_hash": "fb48a3f820f020cd",
+    "why_this_can_go_viral": "Visceral, grotesque imagery of dissolving joints hooks the audience immediately."
+  },
+  {
+    "unique_id": "health_0110_008_1ed8ebfc80c008ac",
+    "title": "The FDA-Approved Antacid That Dissolved Stomachs",
+    "hook": "It was supposed to calm heartburn—instead, it ate through the lining of 1,000 patients' stomachs.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 77,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "antacid",
+      "stomach dissolved",
+      "FDA approved",
+      "dangerous drug",
+      "internal bleeding"
+    ],
+    "overlap_check_hash": "1ed8ebfc80c008ac",
+    "why_this_can_go_viral": "Everyday product turned deadly—viewers will check their medicine cabinets immediately."
+  },
+  {
+    "unique_id": "health_0110_010_953267f08cc7a914",
+    "title": "The Maternity Ward That Gave Mothers Bleach Instead of Painkillers",
+    "hook": "A labeling error that took 5 years to fix—and 12 women died from internal chemical burns.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 71,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "maternity",
+      "bleach",
+      "painkiller mix-up",
+      "hospital error",
+      "mothers died"
+    ],
+    "overlap_check_hash": "953267f08cc7a914",
+    "why_this_can_go_viral": "Targets the most vulnerable patients—mothers and newborns—creating maximum emotional investment."
+  },
+  {
+    "unique_id": "health_0110_011_a7ce9e5489a403ff",
+    "title": "The Doctor Who Used Radioactive Drops for Pink Eye",
+    "hook": "He treated conjunctivitis with radium water—and 50 children later developed jaw cancer.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 73,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "radium",
+      "pink eye",
+      "children",
+      "jaw cancer",
+      "radioactive medicine"
+    ],
+    "overlap_check_hash": "a7ce9e5489a403ff",
+    "why_this_can_go_viral": "Radium + children = immediate shock and historical horror that begs for explanation."
+  },
+  {
+    "unique_id": "health_0110_012_6269c9eef0f8275d",
+    "title": "The Hospital That Stored Organs in a Trash Freezer for 20 Years",
+    "hook": "Patients thought they were getting transplants. Instead, their new organs came from a rotting dumpster freezer.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 68,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "organ transplant",
+      "trash freezer",
+      "hospital scandal",
+      "contaminated organs",
+      "patient death"
+    ],
+    "overlap_check_hash": "6269c9eef0f8275d",
+    "why_this_can_go_viral": "Shocking, disgusting, and deeply violating—perfect for strong emotional reactions and shares."
+  },
+  {
+    "unique_id": "health_0110_013_3d898b24ca49c551",
+    "title": "The Arthritis Cream That Gave 1 in 5 Users Kidney Failure",
+    "hook": "It was sold over the counter for 10 years before anyone noticed patients were dropping dead.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 89,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "arthritis cream",
+      "kidney failure",
+      "OTC danger",
+      "toxic product",
+      "cover-up"
+    ],
+    "overlap_check_hash": "3d898b24ca49c551",
+    "why_this_can_go_viral": "Everyday pain relief turned lethal—personal relevance drives massive click-through."
+  },
+  {
+    "unique_id": "health_0110_014_9704232afc6c576b",
+    "title": "The 'Flu Vaccine' That Gave Patients Mad Cow Disease",
+    "hook": "A contaminated batch from the 1990s used cow brain tissue—and triggered a fatal brain disease in 200 people.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 79,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "mad cow",
+      "flu vaccine",
+      "brain disease",
+      "vaccine contamination",
+      "CJD"
+    ],
+    "overlap_check_hash": "9704232afc6c576b",
+    "why_this_can_go_viral": "Vaccine-related fear is a hot button—this historical case triggers both curiosity and outrage."
+  },
+  {
+    "unique_id": "health_0110_016_749349b7d1c5ecb1",
+    "title": "The Chemotherapy Drug That Was Actually Industrial Floor Stripper",
+    "hook": "For 3 years, cancer patients received a chemical meant to remove wax from hospital floors—not kill tumors.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 78,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake chemo",
+      "floor stripper",
+      "cancer fraud",
+      "pharma crime",
+      "patients died"
+    ],
+    "overlap_check_hash": "749349b7d1c5ecb1",
+    "why_this_can_go_viral": "Maximum betrayal—people already fear chemo, and learning it could be poison is explosive."
+  },
+  {
+    "unique_id": "health_0110_020_59f15eea0b961cab",
+    "title": "The Suppressed $0.10 Root That Reversed 100% of Chemo Resistance",
+    "hook": "A Chinese herbal root made chemotherapy work again on resistant tumors—then the patent was buried.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 82,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "chemo resistance",
+      "herbal root",
+      "suppressed cure",
+      "cancer",
+      "big pharma"
+    ],
+    "overlap_check_hash": "59f15eea0b961cab",
+    "why_this_can_go_viral": "Hope vs. greed—a simple natural solution blocked by corporate interests resonates deeply."
+  },
+  {
+    "unique_id": "health_0110_021_6856548e74bcf5e3",
+    "title": "The Ice Cream That Gave 5,000 People Paralysis Overnight",
+    "hook": "A contaminated batch of vanilla used industrial coolant instead of flavoring—victims woke up unable to move.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 73,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "ice cream",
+      "paralysis",
+      "food contamination",
+      "industrial coolant",
+      "mass poisoning"
+    ],
+    "overlap_check_hash": "6856548e74bcf5e3",
+    "why_this_can_go_viral": "Innocent treat turned nightmarish—highly relatable product creates personal fear."
+  },
+  {
+    "unique_id": "health_0110_022_85ad875a52f46eb6",
+    "title": "The Hospital That Diagnosed 300 Healthy People with Cancer for Profit",
+    "hook": "They told patients they were dying—then billed Medicare for millions in unnecessary chemo that never happened.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "false cancer diagnosis",
+      "Medicare fraud",
+      "unnecessary chemo",
+      "hospital scam",
+      "healthy patients"
+    ],
+    "overlap_check_hash": "85ad875a52f46eb6",
+    "why_this_can_go_viral": "Existential horror—being told you're dying when you're not—triggers deep fear and outrage."
+  },
+  {
+    "unique_id": "health_0110_023_d3733c9f9eba935f",
+    "title": "The Pharmacy That Sold Rat Poison as Blood Thinner for 4 Years",
+    "hook": "Patients thought they were preventing strokes—instead, their blood slowly turned into sludge from rodenticide.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 74,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "rat poison",
+      "blood thinner",
+      "pharmacy fraud",
+      "stroke prevention",
+      "toxic drugs"
+    ],
+    "overlap_check_hash": "d3733c9f9eba935f",
+    "why_this_can_go_viral": "Shocking substitution of a lethal poison for a lifesaving drug—easy to visualize and share."
+  },
+  {
+    "unique_id": "health_0110_025_1466cd79228c2e85",
+    "title": "The Baby Formula That Contained Industrial Glass Powder",
+    "hook": "Infants were drinking microscopic glass shards for 18 months before the company recalled it—after 40 babies died.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 100,
+    "educational_value": 77,
+    "estimated_short_retention": 95,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "baby formula",
+      "glass powder",
+      "infant death",
+      "toxic product",
+      "corporate cover-up"
+    ],
+    "overlap_check_hash": "1466cd79228c2e85",
+    "why_this_can_go_viral": "Harming babies is the ultimate emotional trigger—outrage and grief drive massive sharing."
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "psychology_0178_001_13416e5b9d08a4b4",
+    "title": "The Social Engineer Who Stole a Fortune by Guessing a Password",
+    "hook": "He never asked for the password—he just watched the target's keyboard from across the room.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "social engineering",
+      "password theft",
+      "shoulder surfing",
+      "manipulation",
+      "heist psychology"
+    ],
+    "overlap_check_hash": "13416e5b9d08a4b4",
+    "why_this_can_go_viral": "Combines a relatable fear (password theft) with a near-magical method of manipulation, triggering both curiosity and caution."
+  },
+  {
+    "unique_id": "psychology_0178_002_ce9307bc703506f6",
+    "title": "The Propaganda System That Turned a Country Against Its Own Shadow",
+    "hook": "A government convinced millions that their own shadows were enemy spies—and it worked for decades.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 85,
+    "estimated_short_retention": 95,
+    "niche_name": "psychology",
+    "subcategory": "propaganda systems",
+    "keywords": [
+      "propaganda",
+      "mass paranoia",
+      "shadow surveillance",
+      "psychological control",
+      "state manipulation"
+    ],
+    "overlap_check_hash": "ce9307bc703506f6",
+    "why_this_can_go_viral": "Absurd yet terrifying premise creates immediate 'how is this real?' reaction, driving shares."
+  },
+  {
+    "unique_id": "psychology_0178_003_c5f9650de02fe535",
+    "title": "The Real Mind Control That Made a Man Fear His Own Reflection",
+    "hook": "After a single session, he couldn't look in a mirror without screaming—and no one knew why.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "psychology",
+    "subcategory": "real mind control",
+    "keywords": [
+      "mind control",
+      "fear conditioning",
+      "mirror phobia",
+      "psychological experiment",
+      "trauma induction"
+    ],
+    "overlap_check_hash": "c5f9650de02fe535",
+    "why_this_can_go_viral": "Extreme, relatable phobia turned into a mystery—viewers will ask 'could this happen to me?'"
+  },
+  {
+    "unique_id": "psychology_0178_005_aefed884b6622510",
+    "title": "The Psychological Warfare That Made a Town Beg for Its Own Destruction",
+    "hook": "They used a single frequency to turn a peaceful village into a mob begging for war.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 92,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "psychology",
+    "subcategory": "psychological warfare",
+    "keywords": [
+      "psychological warfare",
+      "frequency manipulation",
+      "mob psychology",
+      "sonic weapon",
+      "crowd control"
+    ],
+    "overlap_check_hash": "aefed884b6622510",
+    "why_this_can_go_viral": "Combines secret weapon tech with mass psychology—triggering fear and fascination."
+  },
+  {
+    "unique_id": "psychology_0178_007_3f60a7b56adbb051",
+    "title": "The Mass Psychology That Made a Stadium Freeze in Terror for 4 Minutes",
+    "hook": "One person stopped cheering—then 80,000 people went silent without knowing why.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 76,
+    "estimated_short_retention": 91,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "mass psychology",
+      "crowd silence",
+      "herd behavior",
+      "freeze response",
+      "collective fear"
+    ],
+    "overlap_check_hash": "3f60a7b56adbb051",
+    "why_this_can_go_viral": "Visual, eerie scenario that viewers can imagine themselves in—triggers social curiosity."
+  },
+  {
+    "unique_id": "psychology_0178_010_26284cd49d7d4503",
+    "title": "The Social Engineer Who Hacked a Police Database by Complaining About Parking",
+    "hook": "He got the chief to give him access—by pretending to be a frustrated neighbor.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "social engineering",
+      "police hack",
+      "phone scam",
+      "psychological trick",
+      "access manipulation"
+    ],
+    "overlap_check_hash": "26284cd49d7d4503",
+    "why_this_can_go_viral": "Relatable everyday scenario turned into a high-stakes hack—creates 'I could fall for that' tension."
+  },
+  {
+    "unique_id": "psychology_0178_011_49e45ad1bb983f94",
+    "title": "The Real Mind Control That Made a Patient Forget Her Entire Life—But Remember a Song",
+    "hook": "She couldn't name her husband—but she could hum a melody she'd never heard before.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 77,
+    "estimated_short_retention": 90,
+    "niche_name": "psychology",
+    "subcategory": "real mind control",
+    "keywords": [
+      "mind control",
+      "memory loss",
+      "music therapy",
+      "brain anomaly",
+      "identity erasure"
+    ],
+    "overlap_check_hash": "49e45ad1bb983f94",
+    "why_this_can_go_viral": "Emotional mystery with a musical twist—appeals to both empathy and curiosity."
+  },
+  {
+    "unique_id": "psychology_0178_012_7394d22b4f4fb933",
+    "title": "The Cognitive Bias That Made a Village Starve—Because They Trusted a Stranger",
+    "hook": "He told them the river was poisoned—so they drank from a well that was actually toxic.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 81,
+    "estimated_short_retention": 91,
+    "niche_name": "psychology",
+    "subcategory": "cognitive bias destruction",
+    "keywords": [
+      "cognitive bias",
+      "trust manipulation",
+      "village tragedy",
+      "false information",
+      "mass harm"
+    ],
+    "overlap_check_hash": "7394d22b4f4fb933",
+    "why_this_can_go_viral": "Tragic irony and real-world consequence make it highly shareable as a warning."
+  },
+  {
+    "unique_id": "psychology_0178_014_24e53ed67b569e56",
+    "title": "The Dark Persuasion That Made a Woman Give Away Her Inheritance in One Phone Call",
+    "hook": "The caller never asked for money—he just made her feel sorry for him.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "psychology",
+    "subcategory": "dark persuasion science",
+    "keywords": [
+      "dark persuasion",
+      "inheritance scam",
+      "emotional manipulation",
+      "phone fraud",
+      "sympathy exploit"
+    ],
+    "overlap_check_hash": "24e53ed67b569e56",
+    "why_this_can_go_viral": "Relatable scenario (phone scam) with extreme outcome—triggers both anger and caution."
+  },
+  {
+    "unique_id": "psychology_0178_015_48cea86c449ef0fd",
+    "title": "The Mass Psychology That Made a Park Empty After a Single Bird Fell Silent",
+    "hook": "The birds stopped singing—and 3,000 people left without anyone saying a word.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 86,
+    "educational_value": 74,
+    "estimated_short_retention": 93,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "mass psychology",
+      "collective behavior",
+      "silence trigger",
+      "herd evacuation",
+      "nature psychology"
+    ],
+    "overlap_check_hash": "48cea86c449ef0fd",
+    "why_this_can_go_viral": "Eerie, visual, and mysterious—feels like a scene from a thriller, driving shares."
+  },
+  {
+    "unique_id": "psychology_0178_017_bb8d3825e69824c7",
+    "title": "The Real Mind Control That Made a Mother Forget Her Baby's Face Every Morning",
+    "hook": "Each day, she woke up believing the child was a stranger—until a doctor discovered the trigger.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 96,
+    "educational_value": 76,
+    "estimated_short_retention": 94,
+    "niche_name": "psychology",
+    "subcategory": "real mind control",
+    "keywords": [
+      "mind control",
+      "motherhood",
+      "memory disorder",
+      "face blindness",
+      "psychological tragedy"
+    ],
+    "overlap_check_hash": "bb8d3825e69824c7",
+    "why_this_can_go_viral": "Deeply emotional and terrifying—appeals to parental fear and medical mystery."
+  },
+  {
+    "unique_id": "psychology_0178_019_d46f0830a5aa1f4b",
+    "title": "The Social Engineer Who Hacked a Prison by Befriending the Warden's Dog",
+    "hook": "He didn't need keys—he just needed the dog to like him.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 77,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "social engineering",
+      "prison hack",
+      "animal manipulation",
+      "trust exploit",
+      "security bypass"
+    ],
+    "overlap_check_hash": "d46f0830a5aa1f4b",
+    "why_this_can_go_viral": "Unusual and amusing yet terrifying—'dog as security flaw' is instantly memorable."
+  },
+  {
+    "unique_id": "psychology_0178_020_2d1e63bd5f0f7961",
+    "title": "The Cognitive Bias That Made a Genius Believe His Own Lie—Until He Died",
+    "hook": "He faked his academic record so well that he forgot it was a lie—and built a career on it.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 79,
+    "estimated_short_retention": 90,
+    "niche_name": "psychology",
+    "subcategory": "cognitive bias destruction",
+    "keywords": [
+      "cognitive bias",
+      "self-deception",
+      "impostor syndrome",
+      "career fraud",
+      "memory bias"
+    ],
+    "overlap_check_hash": "2d1e63bd5f0f7961",
+    "why_this_can_go_viral": "Moral ambiguity and self-destruction story—viewers will debate whether he was a victim or villain."
+  },
+  {
+    "unique_id": "psychology_0178_022_808220183ce8c4d8",
+    "title": "The Dark Persuasion That Made a Father Abandon His Family—Over a Single Dream",
+    "hook": "A stranger planted the dream—and he woke up believing his wife was a threat.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 77,
+    "estimated_short_retention": 93,
+    "niche_name": "psychology",
+    "subcategory": "dark persuasion science",
+    "keywords": [
+      "dark persuasion",
+      "dream manipulation",
+      "family destruction",
+      "psychological planting",
+      "subconscious control"
+    ],
+    "overlap_check_hash": "808220183ce8c4d8",
+    "why_this_can_go_viral": "Sounds like science fiction but is real—triggers extreme curiosity and fear."
+  },
+  {
+    "unique_id": "psychology_0178_023_362fc4f444b4440b",
+    "title": "The Mass Psychology That Made a City Chant a Single Word for 3 Hours",
+    "hook": "One person started—then 500,000 voices joined in without knowing why.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 81,
+    "educational_value": 73,
+    "estimated_short_retention": 88,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "mass psychology",
+      "crowd chant",
+      "herd behavior",
+      "collective trance",
+      "word contagion"
+    ],
+    "overlap_check_hash": "362fc4f444b4440b",
+    "why_this_can_go_viral": "Hypnotic, visual, and bizarre—perfect for short-form video loops and shares."
+  },
+  {
+    "unique_id": "psychology_0178_025_ebc74a7081c2798d",
+    "title": "The Propaganda System That Made a Country Blame Its Own Weather for a War",
+    "hook": "They convinced millions that the rain was an enemy weapon—so they declared war on the sky.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 83,
+    "estimated_short_retention": 93,
+    "niche_name": "psychology",
+    "subcategory": "propaganda systems",
+    "keywords": [
+      "propaganda",
+      "weather manipulation",
+      "false enemy",
+      "mass delusion",
+      "war justification"
+    ],
+    "overlap_check_hash": "ebc74a7081c2798d",
+    "why_this_can_go_viral": "Absurd yet terrifying—viewers will share for the 'can you believe this happened?' factor."
+  }
+]

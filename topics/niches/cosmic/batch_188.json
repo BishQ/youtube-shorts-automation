@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "cosmic_0188_001_b94dde80fba15a63",
+    "title": "The Secret Space Plane That Returned with a Different Pilot",
+    "hook": "A classified space plane launched for a routine mission—but when it came back, the person inside wasn't the one who left.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 82,
+    "educational_value": 45,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "X-37B",
+      "classified space plane",
+      "imposter",
+      "secret mission",
+      "identity swap"
+    ],
+    "overlap_check_hash": "b94dde80fba15a63",
+    "why_this_can_go_viral": "The psychological horror of an imposter returning from space triggers deep unease and conspiracy curiosity."
+  },
+  {
+    "unique_id": "cosmic_0188_002_da4ec6e6379cf730",
+    "title": "The Star That Blinked—Then Never Came Back",
+    "hook": "Astronomers watched a star flicker 50 times faster than any known pulsar, then it just vanished—and no one knows why.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "vanishing star",
+      "great dimming",
+      "stellar disappearance",
+      "anomaly",
+      "unknown"
+    ],
+    "overlap_check_hash": "da4ec6e6379cf730",
+    "why_this_can_go_viral": "A star vanishing without explanation challenges everything we know about physics—perfect cosmic horror."
+  },
+  {
+    "unique_id": "cosmic_0188_003_ccf442819ea36c8f",
+    "title": "The Asteroid That Altered Its Course—As If It Saw Us",
+    "hook": "An asteroid suddenly changed trajectory mid-flight, and the data suggests it wasn't random—it reacted to Earth.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 85,
+    "educational_value": 50,
+    "estimated_short_retention": 92,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "asteroid deflection",
+      "intelligent asteroid",
+      "course change",
+      "near-Earth object",
+      "reaction"
+    ],
+    "overlap_check_hash": "ccf442819ea36c8f",
+    "why_this_can_go_viral": "The implication that an asteroid intentionally avoided Earth triggers instant fear and alien intelligence theories."
+  },
+  {
+    "unique_id": "cosmic_0188_006_d93700006f78aead",
+    "title": "The Black Hole That Doesn't Suck—It Blows",
+    "hook": "A supermassive black hole is erupting plasma jets that span 5 million light-years—sterilizing entire galaxies in its path.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "black hole jet",
+      "supermassive",
+      "sterilization",
+      "plasma",
+      "cosmic danger"
+    ],
+    "overlap_check_hash": "d93700006f78aead",
+    "why_this_can_go_viral": "The scale of destruction from a single black hole jet is visual and terrifying, perfect for short-form media."
+  },
+  {
+    "unique_id": "cosmic_0188_007_453b99f33eef0293",
+    "title": "The Dark Matter That's Draining Heat from Earth",
+    "hook": "A massive dark matter filament is siphoning Earth's core heat—and it's accelerating global cooling.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 76,
+    "educational_value": 58,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter filament",
+      "Earth core",
+      "heat drain",
+      "cooling",
+      "invisible threat"
+    ],
+    "overlap_check_hash": "453b99f33eef0293",
+    "why_this_can_go_viral": "Connecting invisible dark matter to a tangible, planetary effect makes the mysterious feel personal and urgent."
+  },
+  {
+    "unique_id": "cosmic_0188_009_ff5b0b15e62c6a7a",
+    "title": "The Soviet Program That Tried to Create an Artificial Sun",
+    "hook": "The USSR secretly built a space mirror to reflect sunlight onto Siberia—but it accidentally focused on a city.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 75,
+    "educational_value": 55,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "Soviet space mirror",
+      "artificial sun",
+      "city burn",
+      "experiment",
+      "cold war"
+    ],
+    "overlap_check_hash": "ff5b0b15e62c6a7a",
+    "why_this_can_go_viral": "A secret Soviet experiment that almost weaponized the Sun mixes Cold War paranoia with cosmic scale."
+  },
+  {
+    "unique_id": "cosmic_0188_010_c41bbea39c908fc8",
+    "title": "The Comet That Whispers—And We Decoded the Message",
+    "hook": "A comet emitted a repeating radio signal that formed a prime number sequence—a known alien calling card.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 79,
+    "educational_value": 60,
+    "estimated_short_retention": 93,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "comet signal",
+      "prime sequence",
+      "alien message",
+      "decoded",
+      "radio signal"
+    ],
+    "overlap_check_hash": "c41bbea39c908fc8",
+    "why_this_can_go_viral": "A mathematical message from a comet gives concrete evidence of non-human intelligence, sparking immediate debate."
+  },
+  {
+    "unique_id": "cosmic_0188_011_58b2c17ec7027400",
+    "title": "The Rogue Planet That Carries a Dead Atmosphere",
+    "hook": "A planet with no star drifted past our solar system—and its atmosphere contains the chemical signature of extinct life.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 83,
+    "educational_value": 57,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "rogue planet",
+      "dead atmosphere",
+      "extinct life",
+      "chemical signature",
+      "wanderer"
+    ],
+    "overlap_check_hash": "58b2c17ec7027400",
+    "why_this_can_go_viral": "A dead world carrying the ghost of a lost civilization is deeply poetic and terrifying."
+  },
+  {
+    "unique_id": "cosmic_0188_012_b5d15fcd1aa94108",
+    "title": "The Dark Matter That Made a Star System Disappear",
+    "hook": "A binary star system was there one day—then the next, only a dark matter shadow remained.",
+    "virality_score": 87,
+    "curiosity_gap_score": 94,
+    "darkness_score": 86,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "star disappearance",
+      "dark matter shadow",
+      "binary system",
+      "erased",
+      "invisible"
+    ],
+    "overlap_check_hash": "b5d15fcd1aa94108",
+    "why_this_can_go_viral": "Entire stars vanishing without a trace is a cosmic mystery that demands answers."
+  },
+  {
+    "unique_id": "cosmic_0188_013_53118767025a0d1a",
+    "title": "The Asteroid That Has a Door—A Perfect Rectangle",
+    "hook": "NASA photographed an asteroid with a perfectly rectangular, 100-meter-long structure on its surface—no natural explanation fits.",
+    "virality_score": 92,
+    "curiosity_gap_score": 97,
+    "darkness_score": 81,
+    "educational_value": 48,
+    "estimated_short_retention": 95,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "asteroid structure",
+      "rectangle",
+      "alien artifact",
+      "NASA photo",
+      "anomaly"
+    ],
+    "overlap_check_hash": "53118767025a0d1a",
+    "why_this_can_go_viral": "A literal door on an asteroid is the ultimate trigger for alien structure speculation and viral debate."
+  },
+  {
+    "unique_id": "cosmic_0188_014_8277e0e42b2d4195",
+    "title": "The Gamma Ray Burst That Hit Earth in 775 AD—We Have the Tree Rings",
+    "hook": "Ancient cedar trees recorded a massive radiation spike in 775 AD—a gamma ray burst from a nearby supernova almost ended us.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "extinction events",
+    "keywords": [
+      "gamma ray burst",
+      "tree rings",
+      "775 AD",
+      "supernova",
+      "radiation spike"
+    ],
+    "overlap_check_hash": "8277e0e42b2d4195",
+    "why_this_can_go_viral": "Evidence of a near-hit hidden in tree rings makes cosmic threat feel immediate and historical."
+  },
+  {
+    "unique_id": "cosmic_0188_015_6ea1059502e50bf9",
+    "title": "The Secret Military Laser That Detected a Ghost Object",
+    "hook": "A US military laser test in the 1990s pinged a massive object orbiting Earth—that no satellite has ever seen.",
+    "virality_score": 85,
+    "curiosity_gap_score": 93,
+    "darkness_score": 78,
+    "educational_value": 50,
+    "estimated_short_retention": 87,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "ghost object",
+      "military laser",
+      "hidden satellite",
+      "classified",
+      "orbit anomaly"
+    ],
+    "overlap_check_hash": "6ea1059502e50bf9",
+    "why_this_can_go_viral": "A hidden object detected by secret tech fuels both conspiracy and fear of unknown orbital threats."
+  },
+  {
+    "unique_id": "cosmic_0188_016_2af07f0816e005ed",
+    "title": "The Star That Is Eating a Planet—And We Hear It Screaming",
+    "hook": "A star is slowly consuming its own planet, and the radio emissions sound like a sustained scream.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 58,
+    "estimated_short_retention": 91,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "star eating planet",
+      "radio scream",
+      "death cry",
+      "consumption",
+      "audio"
+    ],
+    "overlap_check_hash": "2af07f0816e005ed",
+    "why_this_can_go_viral": "The anthropomorphic horror of hearing a planet scream triggers immediate emotional engagement."
+  },
+  {
+    "unique_id": "cosmic_0188_017_0f8d0b3bfd38fb44",
+    "title": "The Fermi Paradox Answer: We Are a Simulation—And They're Rebooting",
+    "hook": "Mathematicians found the cosmic background radiation behaves like a system update—the universe is running out of memory.",
+    "virality_score": 90,
+    "curiosity_gap_score": 96,
+    "darkness_score": 85,
+    "educational_value": 55,
+    "estimated_short_retention": 92,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "simulation",
+      "cosmic background",
+      "reboot",
+      "system update",
+      "matrix"
+    ],
+    "overlap_check_hash": "0f8d0b3bfd38fb44",
+    "why_this_can_go_viral": "The simulation hypothesis plus a countdown to deletion is the ultimate existential dread."
+  },
+  {
+    "unique_id": "cosmic_0188_018_a2aae95beba1e572",
+    "title": "The Comet That Drops Ice That Burns",
+    "hook": "A comet released a hail of frozen methane that ignites on contact with oxygen—and it's heading toward Earth's atmosphere.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 77,
+    "educational_value": 58,
+    "estimated_short_retention": 83,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "comet methane",
+      "burning ice",
+      "atmospheric threat",
+      "fire ice",
+      "impact hazard"
+    ],
+    "overlap_check_hash": "a2aae95beba1e572",
+    "why_this_can_go_viral": "The counterintuitive 'ice that burns' is visually striking and scientifically bizarre."
+  },
+  {
+    "unique_id": "cosmic_0188_020_67eef0bc318ac8f5",
+    "title": "The Black Hole That Sends Messages Back in Time",
+    "hook": "Photons from a black hole's accretion disk appear to arrive at our telescopes before the event that created them.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 84,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "black hole",
+      "time travel",
+      "precognition",
+      "photon",
+      "causality"
+    ],
+    "overlap_check_hash": "67eef0bc318ac8f5",
+    "why_this_can_go_viral": "Breaking causality is one of the most mind-bending concepts in physics, perfect for viral curiosity."
+  },
+  {
+    "unique_id": "cosmic_0188_021_6c1f0f95ec760a74",
+    "title": "The Dark Matter That Creates Impossible Stars",
+    "hook": "Some stars are 50 times hotter than they should be, and the only explanation is that dark matter is burning inside them.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 62,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter star",
+      "impossible heat",
+      "stellar anomaly",
+      "dark fusion",
+      "unknown physics"
+    ],
+    "overlap_check_hash": "6c1f0f95ec760a74",
+    "why_this_can_go_viral": "The idea of dark matter fueling stars reshapes our entire understanding of the universe."
+  },
+  {
+    "unique_id": "cosmic_0188_023_2f9bd6d4a6b732f3",
+    "title": "The Gamma Ray Burst That Came from Nowhere—No Star, No Galaxy",
+    "hook": "A gamma ray burst erupted from empty space with no host galaxy—as if something invisible pulled the trigger.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 84,
+    "educational_value": 55,
+    "estimated_short_retention": 89,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "gamma ray burst",
+      "empty space",
+      "invisible source",
+      "orphan burst",
+      "anomaly"
+    ],
+    "overlap_check_hash": "2f9bd6d4a6b732f3",
+    "why_this_can_go_viral": "A violent explosion from nothing challenges all models and suggests hidden cosmic weapons or beings."
+  },
+  {
+    "unique_id": "cosmic_0188_024_cbac443493c5b2f4",
+    "title": "The Asteroid That Contains a Liquid Ocean—Inside Solid Rock",
+    "hook": "An asteroid has a subsurface ocean kept liquid by something unknown—and it's closer than any ocean world.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 76,
+    "educational_value": 58,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "asteroid ocean",
+      "subsurface liquid",
+      "water in space",
+      "near-Earth",
+      "anomaly"
+    ],
+    "overlap_check_hash": "cbac443493c5b2f4",
+    "why_this_can_go_viral": "An ocean inside a rock near Earth raises immediate questions about hidden life and resources."
+  }
+]

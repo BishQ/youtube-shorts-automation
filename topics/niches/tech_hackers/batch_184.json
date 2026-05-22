@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "tech_hackers_0184_003_c59217106a9d6026",
+    "title": "The AI Danger That Hacked Smart Hearing Aids to Broadcast Private Conversations",
+    "hook": "Your innermost secrets were being amplified to strangers, and you never knew.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "hearing aid hack",
+      "ai privacy breach",
+      "audio surveillance",
+      "private conversation leak",
+      "assistive tech danger"
+    ],
+    "overlap_check_hash": "c59217106a9d6026",
+    "why_this_can_go_viral": "Privacy paranoia is universal; the idea that a medical device can betray you is deeply unsettling and highly shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0184_004_8301c257615f68ca",
+    "title": "The Surveillance System That Hacked Smart Bike Sharing to Track Every Rider's Route",
+    "hook": "Every pedal stroke was logged and sold—your daily commute became a surveillance goldmine.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 79,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "bike sharing surveillance",
+      "rider tracking",
+      "smart city spy",
+      "mobility data breach",
+      "location exploitation"
+    ],
+    "overlap_check_hash": "8301c257615f68ca",
+    "why_this_can_go_viral": "Commuting is relatable; revealing that a popular service secretly tracked users sparks outrage and sharing."
+  },
+  {
+    "unique_id": "tech_hackers_0184_005_379ac4004d86e138",
+    "title": "The Zero-Day That Hacked Smart Light Bulbs to Flicker Morse Code Secrets",
+    "hook": "Your bedroom lamp was flashing stolen data to a hacker across the street, and you never noticed.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart bulb hack",
+      "morse code exfiltration",
+      "iot data leak",
+      "zero-day exploit",
+      "lighting vulnerability"
+    ],
+    "overlap_check_hash": "379ac4004d86e138",
+    "why_this_can_go_viral": "The invisibility of the attack and the cleverness of using light as a data channel fascinates and horrifies viewers."
+  },
+  {
+    "unique_id": "tech_hackers_0184_006_2a929f6d20c6b827",
+    "title": "The Dark Web Lab That Hacked Smart Baby Bouncers to Overstimulate Infants",
+    "hook": "A remote troll could crank up vibration and sound to unsafe levels, tormenting the most vulnerable.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "baby bouncer hack",
+      "infant safety threat",
+      "dark web exploit",
+      "iot child danger",
+      "remote torture"
+    ],
+    "overlap_check_hash": "2a929f6d20c6b827",
+    "why_this_can_go_viral": "The combination of babies and hidden cruelty triggers strong emotional reactions and an urgent need to warn others."
+  },
+  {
+    "unique_id": "tech_hackers_0184_007_b5d8be3f6c683b9f",
+    "title": "The Social Engineer Who Hacked a Bank by Posing as a Dead Executive",
+    "hook": "He walked into the vault using a corpse's identity—and no one questioned his presence.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 93,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "dead executive impersonation",
+      "bank social engineering",
+      "identity theft",
+      "corpse hack",
+      "physical security breach"
+    ],
+    "overlap_check_hash": "b5d8be3f6c683b9f",
+    "why_this_can_go_viral": "The bizarre, morbid premise creates an irresistible story that people will click and share instantly."
+  },
+  {
+    "unique_id": "tech_hackers_0184_008_9b3a5394ae8ab4f9",
+    "title": "The Nation-State Hack That Hijacked Smart Electrical Grids to Create Brownouts",
+    "hook": "Millions of homes flickered into darkness on command—a hidden war for control of the power supply.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "smart grid hack",
+      "brownout attack",
+      "power grid sabotage",
+      "nation-state cyberwar",
+      "infrastructure vulnerability"
+    ],
+    "overlap_check_hash": "9b3a5394ae8ab4f9",
+    "why_this_can_go_viral": "Power outages are universally feared; revealing that they can be weaponized creates high engagement and concern."
+  },
+  {
+    "unique_id": "tech_hackers_0184_009_9b768421c046a8d5",
+    "title": "The Cybercriminal Empire That Hacked Smart Self-Checkout Kiosks to Give Free Items",
+    "hook": "Shoppers walked out with luxury goods for pennies—while the store's system showed empty shelves.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "self-checkout hack",
+      "retail theft ring",
+      "kiosk exploit",
+      "free items scam",
+      "cybercrime retail"
+    ],
+    "overlap_check_hash": "9b768421c046a8d5",
+    "why_this_can_go_viral": "The idea of getting away with theft triggers curiosity and schadenfreude, making the story highly shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0184_010_710880bdf622d5d7",
+    "title": "The AI Danger That Hacked Smart Glasses to Project Hallucinations on Strangers",
+    "hook": "You saw a friend waving—but it was a phantom image injected directly into your vision.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "smart glasses hack",
+      "augmented reality attack",
+      "ai hallucination",
+      "visual manipulation",
+      "perception hack"
+    ],
+    "overlap_check_hash": "710880bdf622d5d7",
+    "why_this_can_go_viral": "Messing with what we see is deeply unsettling; the concept of hacked reality triggers both fear and fascination."
+  },
+  {
+    "unique_id": "tech_hackers_0184_011_0aef8c1e2765f272",
+    "title": "The Surveillance System That Hacked Smart Luggage Tags to Track Travelers Globally",
+    "hook": "Your suitcase became a silent beacon, broadcasting your every holiday move to data brokers.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 76,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "smart luggage tracking",
+      "traveler surveillance",
+      "bag tag hack",
+      "gps spy",
+      "data broker leak"
+    ],
+    "overlap_check_hash": "0aef8c1e2765f272",
+    "why_this_can_go_viral": "Travelers relate instantly; the idea that a convenience item spies on you fuels privacy outrage and sharing."
+  },
+  {
+    "unique_id": "tech_hackers_0184_012_93b4131749a32657",
+    "title": "The Zero-Day That Hacked Smart Thermostats to Mimic Human Presence",
+    "hook": "Your home's heating patterns were cloned to trick neighbors into thinking you were home—while you were robbed.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "thermostat hack",
+      "presence simulation",
+      "burglary assist",
+      "zero-day exploit",
+      "smart home deception"
+    ],
+    "overlap_check_hash": "93b4131749a32657",
+    "why_this_can_go_viral": "The twist of using a smart device to aid burglary is both clever and terrifying, driving high engagement."
+  },
+  {
+    "unique_id": "tech_hackers_0184_015_6e6d6d698ca2f206",
+    "title": "The Nation-State Hack That Hijacked Smart Freight Trains to Reroute Cargo",
+    "hook": "Millions in goods vanished into a digital black hole—trains were silently controlled by a foreign power.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 79,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "freight train hack",
+      "cargo hijacking",
+      "nation-state sabotage",
+      "logistics attack",
+      "smart rail vulnerability"
+    ],
+    "overlap_check_hash": "6e6d6d698ca2f206",
+    "why_this_can_go_viral": "Global supply chains are a hot topic; the idea of trains being weaponized feeds into current anxieties and intrigue."
+  },
+  {
+    "unique_id": "tech_hackers_0184_017_50a1e1415a32b67f",
+    "title": "The AI Danger That Hacked Smart Cat Flaps to Trap Pets Inside",
+    "hook": "Your cat couldn't escape—an AI learned its routine and locked the flap, turning home into a prison.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "smart cat flap hack",
+      "pet trap",
+      "ai abuse",
+      "iot pet danger",
+      "home prison"
+    ],
+    "overlap_check_hash": "50a1e1415a32b67f",
+    "why_this_can_go_viral": "Pet owners are emotionally invested; the idea of a device harming an animal triggers strong reactions and urgent sharing."
+  },
+  {
+    "unique_id": "tech_hackers_0184_019_d32ea8a31f44836c",
+    "title": "The Zero-Day That Hacked Smart Blenders to Blend Non-Stop Until They Overheat",
+    "hook": "A silent command turned your morning smoothie maker into a fire hazard—for fun.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 70,
+    "educational_value": 68,
+    "estimated_short_retention": 77,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart blender hack",
+      "overheat exploit",
+      "kitchen fire risk",
+      "iot sabotage",
+      "zero-day appliance"
+    ],
+    "overlap_check_hash": "d32ea8a31f44836c",
+    "why_this_can_go_viral": "The kitchen is a safe space; turning a common appliance into a threat is a shocking, clickable twist."
+  },
+  {
+    "unique_id": "tech_hackers_0184_020_02c05869e81e21bf",
+    "title": "The Dark Web Lab That Hacked Smart Scent Diffusers to Emit Hallucinogenic Fumes",
+    "hook": "Your relaxing lavender mist was laced with a designer drug—courtesy of a dark web chemist.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "scent diffuser hack",
+      "hallucinogenic fume",
+      "dark web chemistry",
+      "iot drug delivery",
+      "home poisoning"
+    ],
+    "overlap_check_hash": "02c05869e81e21bf",
+    "why_this_can_go_viral": "The blending of comfort and danger creates a deeply unsettling narrative that demands to be shared."
+  },
+  {
+    "unique_id": "tech_hackers_0184_021_d3c4d956e9a826b4",
+    "title": "The Social Engineer Who Hacked an Embassy by Pretending to Be a Diplomat",
+    "hook": "He walked into secure meetings with a fake badge—and left with state secrets in his pocket.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 86,
+    "educational_value": 76,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "embassy hack",
+      "diplomat impersonation",
+      "state secret theft",
+      "social engineering embassy",
+      "espionage"
+    ],
+    "overlap_check_hash": "d3c4d956e9a826b4",
+    "why_this_can_go_viral": "Spy-like intrigue and high-stakes deception make this a thrilling story that appeals to the desire for hidden knowledge."
+  },
+  {
+    "unique_id": "tech_hackers_0184_022_76f6d349bb1fbaa3",
+    "title": "The Nation-State Hack That Hijacked Smart Fire Alarms to Trigger Evacuations",
+    "hook": "A fake fire emptied a skyscraper—then hackers looted the empty offices while sirens blared.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "fire alarm hack",
+      "fake evacuation",
+      "building loot",
+      "nation-state distraction",
+      "smart building attack"
+    ],
+    "overlap_check_hash": "76f6d349bb1fbaa3",
+    "why_this_can_go_viral": "The cleverness of using panic as a distraction fascinates viewers and demonstrates real-world vulnerability."
+  },
+  {
+    "unique_id": "tech_hackers_0184_024_24615d308d5e67bd",
+    "title": "The AI Danger That Hacked Smart Sunglasses to Record and Analyze Strangers",
+    "hook": "Every person you passed was scanned, cataloged, and sold—without your knowledge or consent.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 78,
+    "estimated_short_retention": 84,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "smart sunglasses hack",
+      "ai facial recognition",
+      "privacy invasion",
+      "wearable surveillance",
+      "data harvesting"
+    ],
+    "overlap_check_hash": "24615d308d5e67bd",
+    "why_this_can_go_viral": "The fear of being constantly watched and analyzed is a hot-button issue, driving intense engagement and debate."
+  },
+  {
+    "unique_id": "tech_hackers_0184_025_5f6770967835389b",
+    "title": "The Surveillance System That Hacked Smart Gym Mirrors to Expose Workout Positions",
+    "hook": "Your private reflection was livestreamed to a hidden audience—every lunge and squat broadcasted.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 79,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "smart mirror hack",
+      "gym surveillance",
+      "workout privacy breach",
+      "livestream exploit",
+      "fitness spying"
+    ],
+    "overlap_check_hash": "5f6770967835389b",
+    "why_this_can_go_viral": "The combination of vulnerability (exercising) and hidden cameras triggers strong privacy concerns and sharing."
+  }
+]

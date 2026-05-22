@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "science_0144_002_6da51e29ee51200d",
+    "title": "The Lab That Mined Bacteria From a Volcano — and Unleashed a Boiling Black Slime",
+    "hook": "Deep in an Indonesian crater, researchers extracted a thermophilic bacterium — it melted through stainless steel within hours.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "extremophile",
+      "thermophilic bacteria",
+      "volcano lab",
+      "biohazard",
+      "steel corrosion"
+    ],
+    "overlap_check_hash": "6da51e29ee51200d",
+    "why_this_can_go_viral": "The visual of organic slime eating through metal is nightmare fuel, high shareability on horror-science feeds."
+  },
+  {
+    "unique_id": "science_0144_003_fd9c5fe59ee66a87",
+    "title": "The Physicist Who Calculated That We Live in a Simulation — Then Found the Glitch",
+    "hook": "Using lattice quantum chromodynamics, a researcher found a numeric anomaly that suggests our universe might have a rendering limit.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 72,
+    "educational_value": 85,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "simulation theory",
+      "quantum glitch",
+      "lattice QCD",
+      "universe rendering",
+      "reality break"
+    ],
+    "overlap_check_hash": "fd9c5fe59ee66a87",
+    "why_this_can_go_viral": "Simulation hypothesis is evergreen — adding 'real glitch found' triggers massive debate and shareability."
+  },
+  {
+    "unique_id": "science_0144_005_8a631bebfc870e18",
+    "title": "The Neuroscientist Who Erased Pain From a Monkey's Brain — It Didn't Stop Moving",
+    "hook": "By ablating the anterior cingulate cortex, a researcher removed the perception of pain — the monkey kept using its broken arm until the bone pierced the skin.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "pain erasure",
+      "cingulate cortex",
+      "animal experiment",
+      "neurosurgery horror",
+      "body damage without pain"
+    ],
+    "overlap_check_hash": "8a631bebfc870e18",
+    "why_this_can_go_viral": "Extreme body horror combined with neuroscience revelation — viewers will be shocked and horrified, leading to high engagement."
+  },
+  {
+    "unique_id": "science_0144_008_5b5788028f8cad3e",
+    "title": "The Chemist Who Made a Glue That Bonds to Human Bone — It Fused His Fingers Together",
+    "hook": "A cyanoacrylate derivative designed for orthopedic use accidentally bonded a researcher's fingers to his own radius — surgically inseparable.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 83,
+    "educational_value": 68,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "bone glue",
+      "cyanoacrylate",
+      "orthopedic accident",
+      "finger fusion",
+      "surgical horror"
+    ],
+    "overlap_check_hash": "5b5788028f8cad3e",
+    "why_this_can_go_viral": "Gross-out factor plus medical horror — viewers will wince and share the visceral story."
+  },
+  {
+    "unique_id": "science_0144_009_b3875d423cce621b",
+    "title": "The Biolab That Grew a Human Brain That Learned to Play Pong — Then Grew Depressed",
+    "hook": "A cerebral organoid with 100 million neurons mastered the game in 5 minutes — but stopped responding when the reward signal was removed.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "brain organoid",
+      "sentient lab",
+      "pong",
+      "neuron culture",
+      "consciousness debate"
+    ],
+    "overlap_check_hash": "b3875d423cce621b",
+    "why_this_can_go_viral": "Human-like AI suffering in a dish is profoundly disturbing and philosophically explosive — high debate and comment potential."
+  },
+  {
+    "unique_id": "science_0144_010_f918a011d7f03c2f",
+    "title": "The Physicist Who Found a Particle That Exists Backwards in Time — It Killed the Detector",
+    "hook": "A muon with reversed entropy signature appeared in a cloud chamber — it rewound the chamber's own ionization trail before causing a cascade failure.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 88,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time reversal",
+      "muon anomaly",
+      "entropy reversal",
+      "particle paradox",
+      "detector kill"
+    ],
+    "overlap_check_hash": "f918a011d7f03c2f",
+    "why_this_can_go_viral": "Time travel at particle scale is mind-bending — the idea of a particle 'killing' equipment adds destructive intrigue."
+  },
+  {
+    "unique_id": "science_0144_011_60be2e0ae2c0546d",
+    "title": "The Neuroscientist Who Discovered That Your Brain Has a 'Kill Switch' for Fear — and Flipped It",
+    "hook": "Stimulating the infralimbic cortex in a human subject erased a phobia of spiders instantly — but also removed all caution around danger.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 81,
+    "educational_value": 76,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "fear erasure",
+      "infralimbic cortex",
+      "phobia removal",
+      "danger blindness",
+      "brain hack"
+    ],
+    "overlap_check_hash": "60be2e0ae2c0546d",
+    "why_this_can_go_viral": "The promise of erasing fear is universally appealing, but the dark side (loss of self-preservation) adds ethical shock."
+  },
+  {
+    "unique_id": "science_0144_012_a103d75101323a34",
+    "title": "The Lab Catastrophe Where a Bio-Reactor Pressure Valve Failed — and Sprayed Lung Tissue Everywhere",
+    "hook": "A lung epithelial culture bioreactor overpressurized at 50 PSI — the aerosolized human cells coated every surface in the cleanroom.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 86,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "bioreactor explosion",
+      "lung tissue spray",
+      "aerosolized cells",
+      "cleanroom disaster",
+      "biological contamination"
+    ],
+    "overlap_check_hash": "a103d75101323a34",
+    "why_this_can_go_viral": "Visceral, body-horror visual of human tissue covering a lab — disgusting yet fascinating, perfect for morbid curiosity."
+  },
+  {
+    "unique_id": "science_0144_013_93e225fe1c931d5c",
+    "title": "The Scientific Fraud Who Faked a 'Zero-Point Energy' Device — the Lab Burned Down",
+    "hook": "A cold fusion grifter claimed to extract energy from the vacuum — when he tried to demonstrate it to investors, the device exploded in a blue flash.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 74,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "zero-point energy",
+      "cold fusion scam",
+      "explosion fraud",
+      "investor death",
+      "vacuum energy hoax"
+    ],
+    "overlap_check_hash": "93e225fe1c931d5c",
+    "why_this_can_go_viral": "Fraud + explosion + death is a classic viral combo — people love stories of con artists getting burned."
+  },
+  {
+    "unique_id": "science_0144_014_bdff574857722677",
+    "title": "The Biolab That Created a Symbiotic Algae-Human Cell Hybrid — It Started Photosynthesizing",
+    "hook": "By fusing human keratinocytes with chloroplast-bearing algae, the hybrid cells began converting CO2 into oxygen — inside the incubator.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 73,
+    "educational_value": 79,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "algae hybrid",
+      "chloroplast human",
+      "photosynthetic cells",
+      "chimeric biology",
+      "lab grown skin"
+    ],
+    "overlap_check_hash": "bdff574857722677",
+    "why_this_can_go_viral": "The idea of human cells turning green and living like plants is uncanny and raises profound bioethics questions."
+  },
+  {
+    "unique_id": "science_0144_015_0717bafd135431cb",
+    "title": "The Chemist Who Made a Metal That Melts in Your Hand — but Reacts Violently With Sweat",
+    "hook": "A gallium-indium alloy liquefies at 10°C — but when a researcher held it, the molten metal reacted with his skin salts and erupted in sparks.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 71,
+    "educational_value": 73,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "gallium alloy",
+      "liquid metal",
+      "skin reaction",
+      "sweat ignition",
+      "spark eruption"
+    ],
+    "overlap_check_hash": "0717bafd135431cb",
+    "why_this_can_go_viral": "Liquid metal reacting with the human body is visually spectacular and dangerous — perfect for slow-mo viral clips."
+  },
+  {
+    "unique_id": "science_0144_016_5618a9c8c319abee",
+    "title": "The Physicist Who Proved That Quantum Entanglement Works Through Walls — Then His Lab Went Dark",
+    "hook": "A pair of entangled photons continued to correlate through a lead shield 10 cm thick — until a sudden power surge killed the entire experiment.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 65,
+    "educational_value": 84,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "entanglement lead shield",
+      "quantum correlation",
+      "power surge",
+      "photon paradox",
+      "experiment failure"
+    ],
+    "overlap_check_hash": "5618a9c8c319abee",
+    "why_this_can_go_viral": "Spooky action at a distance meets mysterious lab failure — the 'why did it stop?' hook drives speculation."
+  },
+  {
+    "unique_id": "science_0144_019_e1043bb2d8b9b908",
+    "title": "The Lab Catastrophe Where a Cryogenic Dewar Exploded — Turning Air Into a Frozen Cloud",
+    "hook": "A liquid nitrogen dewar at 80 bar burst — the rapid expansion flash-froze all moisture in the room, creating a blizzard that buried the lab.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 75,
+    "educational_value": 68,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "cryogenic explosion",
+      "liquid nitrogen",
+      "flash freeze",
+      "indoor blizzard",
+      "dewar failure"
+    ],
+    "overlap_check_hash": "e1043bb2d8b9b908",
+    "why_this_can_go_viral": "Visually stunning disaster — a frozen lab is cinematic and terrifying, perfect for dramatic reenactments."
+  },
+  {
+    "unique_id": "science_0144_020_7e6080d5604b7c55",
+    "title": "The Scientific Fraud Who Faked a 'Brain Transplant' in Dogs — and Left Them Brain-Dead",
+    "hook": "A Soviet scientist claimed to transplant heads between dogs — in reality, he stitched together blood supplies, leaving the animals in permanent vegetative states.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 77,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "head transplant",
+      "dog experiment",
+      "soviet fraud",
+      "brain-dead animals",
+      "Vladimir Demikhov"
+    ],
+    "overlap_check_hash": "7e6080d5604b7c55",
+    "why_this_can_go_viral": "Animal cruelty + Soviet secrecy + fake science = a dark history story that spreads fast on TikTok and YouTube."
+  },
+  {
+    "unique_id": "science_0144_021_b11ac779b568ecff",
+    "title": "The Biolab That Engineered a Bacterium That Eats Carbon Monoxide — It Made the Lab Air Toxic",
+    "hook": "A synthetic Methylobacterium strain consumed CO from the lab air — but its waste product was a neurotoxic gas that put three researchers in the hospital.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 82,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "CO eating bacteria",
+      "neurotoxic waste",
+      "synthetic biology accident",
+      "air poisoning",
+      "gas leak"
+    ],
+    "overlap_check_hash": "b11ac779b568ecff",
+    "why_this_can_go_viral": "The irony of a 'good' bacteria creating poison is a compelling cautionary tale about bioengineering risks."
+  },
+  {
+    "unique_id": "science_0144_022_441e896eed138087",
+    "title": "The Physicist Who Found a Crystal That 'Remembers' Light — It Replayed a Laser Pulse 10 Years Later",
+    "hook": "A europium-doped crystal stored a hologram of a laser pulse — when re-excited a decade later, it perfectly re-emitted the original waveform.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 62,
+    "educational_value": 86,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "light memory crystal",
+      "europium",
+      "holographic storage",
+      "time delay",
+      "laser replay"
+    ],
+    "overlap_check_hash": "441e896eed138087",
+    "why_this_can_go_viral": "Magical-sounding physics — light trapped for years feels like a sci-fi artifact, sparking wonder and curiosity."
+  },
+  {
+    "unique_id": "science_0144_024_51366e779f06889e",
+    "title": "The Neuroscientist Who Discovered a 'Ghost Neuron' That Only Fires When You Think You're Dead",
+    "hook": "A rare neuron cluster in the temporoparietal junction activates exclusively during depersonalization — one patient's brain fired it for 6 hours straight.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "ghost neuron",
+      "depersonalization",
+      "temporoparietal junction",
+      "death perception",
+      "brain anomaly"
+    ],
+    "overlap_check_hash": "51366e779f06889e",
+    "why_this_can_go_viral": "The concept of a 'death neuron' is deeply spooky and existential — perfect for dark science content."
+  },
+  {
+    "unique_id": "science_0144_025_f437822ea14fa4fd",
+    "title": "The Lab That Created a Quantum 'Time Mirror' — and Saw the Reflection Before the Light Hit",
+    "hook": "A time-reversed quantum mirror was tested — the reflected photon was detected 2 nanoseconds before the original pulse reached the mirror surface.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 69,
+    "educational_value": 87,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time mirror",
+      "quantum reflection",
+      "backward causality",
+      "photon paradox",
+      "nanosecond reversal"
+    ],
+    "overlap_check_hash": "f437822ea14fa4fd",
+    "why_this_can_go_viral": "Effectively seeing the future — a physics paradox that breaks intuitive understanding, drives massive curiosity."
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "unique_id": "science_0175_002_8b9c41160629bf8f",
+    "title": "The Chemist Who Made a Polymer That Never Cures—And It Ate the Lab",
+    "hook": "A sticky liquid designed to harden into plastic instead kept spreading, absorbing everything in its path like a chemical blob.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "polymer",
+      "uncured plastic",
+      "lab accident",
+      "chemical blob",
+      "spreading disaster"
+    ],
+    "overlap_check_hash": "8b9c41160629bf8f",
+    "why_this_can_go_viral": "The 'blob that eats the lab' hook is visually compelling and taps into fear of uncontrollable chemical reactions."
+  },
+  {
+    "unique_id": "science_0175_003_8a867b66096a819b",
+    "title": "The Neuroscientist Who Implanted a Fake Childhood—And the Patient Cried for Her Mother",
+    "hook": "A false memory experiment made a woman recall being abandoned in a park—she never left her home that day.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "false memory",
+      "neuroscience experiment",
+      "emotional manipulation",
+      "patient trauma",
+      "memory implant"
+    ],
+    "overlap_check_hash": "8a867b66096a819b",
+    "why_this_can_go_viral": "Taps into existential fear of how unreliable memory is—emotionally charged and deeply disturbing."
+  },
+  {
+    "unique_id": "science_0175_004_238416a2a037e0a4",
+    "title": "The Forbidden Experiment Where Scientists Fed a Man Only Sugar Water for 6 Months",
+    "hook": "To test starvation limits, a volunteer consumed nothing but sugar water—his body began digesting itself from the inside out.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "starvation experiment",
+      "sugar water",
+      "human testing",
+      "self-digestion",
+      "medical ethics"
+    ],
+    "overlap_check_hash": "238416a2a037e0a4",
+    "why_this_can_go_viral": "Grim human experimentation always triggers shock and outrage, driving comments and shares."
+  },
+  {
+    "unique_id": "science_0175_006_0574abee33c33ede",
+    "title": "The Biolab That Created a Virus That Makes Hosts Seek Water—And People Drowned",
+    "hook": "A genetically modified virus triggered uncontrollable thirst in test subjects, leading them to drink until their lungs filled.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "GM virus",
+      "thirst",
+      "drowning",
+      "lab escape",
+      "genetic modification"
+    ],
+    "overlap_check_hash": "0574abee33c33ede",
+    "why_this_can_go_viral": "Visceral body horror meets bioweapon fear—highly shareable due to shock factor and 'what if' dread."
+  },
+  {
+    "unique_id": "science_0175_007_3154b226fffd79b9",
+    "title": "The Quantum Computer That Crashed After Simulating a Parallel Universe—And Came Back Changed",
+    "hook": "After simulating a universe with different physical laws, the quantum processor started outputting data in languages no one recognized.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum simulation",
+      "parallel universe",
+      "alien data",
+      "quantum crash",
+      "reality shift"
+    ],
+    "overlap_check_hash": "3154b226fffd79b9",
+    "why_this_can_go_viral": "Mysterious AI behavior and alternate reality hooks are guaranteed clickbait in the science niche."
+  },
+  {
+    "unique_id": "science_0175_010_34123f1e866d4e35",
+    "title": "The Neuroscientist Who Zapped a Woman's Brain—And She Developed a Perfect Photographic Memory",
+    "hook": "Electrical stimulation to the hippocampus gave a patient total recall for 48 hours—then she forgot how to forget.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 76,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain stimulation",
+      "photographic memory",
+      "hippocampus",
+      "forced recall",
+      "mental overload"
+    ],
+    "overlap_check_hash": "34123f1e866d4e35",
+    "why_this_can_go_viral": "Superhuman abilities gone wrong—everyone imagines having perfect memory, then realizes the horror."
+  },
+  {
+    "unique_id": "science_0175_012_00ae84e52a689247",
+    "title": "The Physicist Who Fired a Particle Beam Into a Black Box—And Out Came a Living Shadow",
+    "hook": "A high-energy beam hit an unknown substance and cast a 3D shadow that moved independently—no light source present.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 84,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "particle beam",
+      "living shadow",
+      "unknown substance",
+      "3D shadow",
+      "anomaly"
+    ],
+    "overlap_check_hash": "00ae84e52a689247",
+    "why_this_can_go_viral": "Mysterious physics phenomena that defy explanation—shadow with agency is a perfect horror hook."
+  },
+  {
+    "unique_id": "science_0175_013_66d8abf40881e2bf",
+    "title": "The Biolab That Engineered a Fungus That Grows on Human Tears—And It Got in the Ventilation",
+    "hook": "A moisture-loving fungus designed to feed on tear ducts spread through the air system—staff woke up with eyes sealed shut.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 66,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "engineered fungus",
+      "eye infection",
+      "tear duct",
+      "lab escape",
+      "body horror"
+    ],
+    "overlap_check_hash": "66d8abf40881e2bf",
+    "why_this_can_go_viral": "Gross, personal, and terrifying—fungal infections near eyes trigger extreme disgust and shares."
+  },
+  {
+    "unique_id": "science_0175_015_96e8f378b38872fb",
+    "title": "The Scientific Fraud Who Faked a 'Cure for Death'—And Froze People Alive",
+    "hook": "A biotech CEO claimed he could revive the dead—his 'cryonics' patients were frozen while still breathing, then declared legally dead.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "cryonics fraud",
+      "frozen alive",
+      "death cure",
+      "biotech scam",
+      "revival"
+    ],
+    "overlap_check_hash": "96e8f378b38872fb",
+    "why_this_can_go_viral": "Death and deception combo—outrage at exploitation mixed with fascination with immortality."
+  },
+  {
+    "unique_id": "science_0175_017_a4ba985bedcb6658",
+    "title": "The Neuroscientist Who Shocked a Man's Amygdala—And He Became a Psychopath for 20 Minutes",
+    "hook": "Targeted electrical stimulation turned a gentle volunteer cold, calculating, and remorseless—the effect vanished when the current stopped.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 87,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "amygdala stimulation",
+      "psychopath",
+      "temporary",
+      "personality change",
+      "ethics"
+    ],
+    "overlap_check_hash": "a4ba985bedcb6658",
+    "why_this_can_go_viral": "Suggests that evil is a switch in the brain—deeply unsettling and philosophically provocative."
+  },
+  {
+    "unique_id": "science_0175_018_4e054141d5260005",
+    "title": "The Forbidden Experiment Where Scientists Gave LSD to an Elephant—And It Died Mysteriously",
+    "hook": "Researchers dosed a 4-ton elephant with a massive hallucinogen dose—it collapsed, but no one could explain why it stopped breathing.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "LSD",
+      "elephant",
+      "animal testing",
+      "psychedelic",
+      "mysterious death"
+    ],
+    "overlap_check_hash": "4e054141d5260005",
+    "why_this_can_go_viral": "Bizarre historical experiment with a tragic twist—animal lovers and psychonauts both engage."
+  },
+  {
+    "unique_id": "science_0175_019_d1d70cf194948d58",
+    "title": "The Physicist Who Discovered a Crystal That Vibrates Forever—And It Resonated With a Human Skull",
+    "hook": "A piezoelectric crystal oscillated without energy input—when placed near a skull, it made the bone hum audibly.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 74,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "perpetual vibration",
+      "piezoelectric",
+      "skull resonance",
+      "crystal anomaly",
+      "hum"
+    ],
+    "overlap_check_hash": "d1d70cf194948d58",
+    "why_this_can_go_viral": "Eerie combination of physics mystery and human remains—creates visual and auditory curiosity."
+  },
+  {
+    "unique_id": "science_0175_020_00778e7d17b6ce25",
+    "title": "The Biolab That Created a Bacteria That Feeds on Plastic—And It Mutated Into a Predator",
+    "hook": "A plastic-eating microbe was meant to clean pollution—instead it evolved a taste for the organic polymers in human skin.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "plastic-eating bacteria",
+      "mutation",
+      "predator",
+      "skin",
+      "biohazard"
+    ],
+    "overlap_check_hash": "00778e7d17b6ce25",
+    "why_this_can_go_viral": "Classic 'solution becomes nightmare' story—environmental hope turning into personal horror drives shares."
+  },
+  {
+    "unique_id": "science_0175_021_c92221937c2507d9",
+    "title": "The Quantum Computer That Proved Time Travel Is Impossible—By Traveling Through Time",
+    "hook": "A quantum simulation of a closed timelike curve caused the algorithm to output results before the calculation finished.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 72,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time travel proof",
+      "quantum simulation",
+      "CTC",
+      "before calculation",
+      "paradox"
+    ],
+    "overlap_check_hash": "c92221937c2507d9",
+    "why_this_can_go_viral": "Paradox within paradox—the self-contradictory nature is intellectually addictive and debate-worthy."
+  },
+  {
+    "unique_id": "science_0175_024_3135550aea05082f",
+    "title": "The Neuroscientist Who Induced a Stroke in a Healthy Brain—And the Patient Became a Genius Artist",
+    "hook": "Temporary blockage of a woman's left temporal lobe unleashed a sudden, brilliant artistic ability—she painted feverishly until blood flow returned.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 82,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "stroke",
+      "temporary genius",
+      "savant",
+      "brain suppression",
+      "artistic ability"
+    ],
+    "overlap_check_hash": "3135550aea05082f",
+    "why_this_can_go_viral": "Flips a terrifying event into a 'superpower'—curious if damage can unlock hidden potential."
+  },
+  {
+    "unique_id": "science_0175_025_dbd6d372049fb598",
+    "title": "The Forbidden Experiment Where a Scientist Bred Flies to Fear the Color Red—And They Attacked Her",
+    "hook": "After generations of conditioning, flies were genetically wired to fear red—then they swarmed anything red, including the researcher's eyes.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 79,
+    "educational_value": 76,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "genetic conditioning",
+      "flies",
+      "fear",
+      "red",
+      "insect attack"
+    ],
+    "overlap_check_hash": "dbd6d372049fb598",
+    "why_this_can_go_viral": "Satisfies 'experiment backfires' trope with a gross, visceral outcome—insect horror is universally effective."
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "science_0004_001_7b821952fc24fb44",
+    "title": "The Man Who Was Buried Alive for Science",
+    "hook": "In 1999, a scientist convinced a volunteer to be buried alive for 72 hours to study how the human mind unravels in total darkness and isolation.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "buried alive",
+      "isolation experiment",
+      "human mind",
+      "darkness",
+      "psychological breakdown"
+    ],
+    "overlap_check_hash": "7b821952fc24fb44",
+    "why_this_can_go_viral": "Burial phobia is primal; the idea of someone volunteering for a slow suffocation nightmare triggers immediate morbid curiosity."
+  },
+  {
+    "unique_id": "science_0004_002_dfaa6981470341bd",
+    "title": "The Chemist Who Invented a Poison That Leaves No Trace",
+    "hook": "In the 1950s, a Soviet chemist synthesized a colorless, odorless toxin so perfect that autopsies couldn't detect it—until one victim's cat revealed the truth.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "undetectable poison",
+      "Soviet chemistry",
+      "perfect murder",
+      "toxin",
+      "forensic failure"
+    ],
+    "overlap_check_hash": "dfaa6981470341bd",
+    "why_this_can_go_viral": "The fantasy of the perfect undetectable poison is a dark universal fascination, and the twist with the cat adds a shocking reveal."
+  },
+  {
+    "unique_id": "science_0004_003_5da0732f40b39731",
+    "title": "The Lab That Accidentally Made a Material That Cuts Through Anything",
+    "hook": "A lab mishap in 2019 produced a synthetic crystal so sharp it can slice through diamond—and no one knows how to un-make it.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "superhard material",
+      "lab accident",
+      "indestructible",
+      "diamond cutter",
+      "synthetic crystal"
+    ],
+    "overlap_check_hash": "5da0732f40b39731",
+    "why_this_can_go_viral": "The idea of an uncontrollable, super-sharp substance created by accident taps into sci-fi horror and real-world awe."
+  },
+  {
+    "unique_id": "science_0004_004_b7ac7a166d300a13",
+    "title": "The Fungus That Controls Human Behavior",
+    "hook": "Ergot fungus contains chemicals that can cause hallucinations, convulsions, and mass hysteria—some researchers believe it once influenced entire human migrations.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "ergot fungus",
+      "mind control",
+      "hallucinogen",
+      "mass hysteria",
+      "LSD precursor"
+    ],
+    "overlap_check_hash": "b7ac7a166d300a13",
+    "why_this_can_go_viral": "The idea that a fungus could secretly manipulate human history is a mind-bending conspiracy hook that blends science and horror."
+  },
+  {
+    "unique_id": "science_0004_005_b904eab7c150b3fd",
+    "title": "The Quantum Experiment That Turned a Particle Into a Wave by Just Looking",
+    "hook": "In the double-slit experiment, merely observing a particle changes its behavior—proving reality might be a illusion controlled by consciousness.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 55,
+    "educational_value": 85,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "double-slit",
+      "observer effect",
+      "quantum mechanics",
+      "reality illusion",
+      "consciousness"
+    ],
+    "overlap_check_hash": "b904eab7c150b3fd",
+    "why_this_can_go_viral": "The observer effect is one of the most mind-warping concepts in science; viewers crave the existential dread of a universe that changes when you blink."
+  },
+  {
+    "unique_id": "science_0004_006_a14fd1ff0a47ddad",
+    "title": "The Scientist Who Faked a Nobel Prize-Winning Discovery",
+    "hook": "For over a decade, a Japanese stem-cell researcher published flawless data—until a single misplaced image unraveled one of the biggest frauds in history.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 74,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "STAP cells",
+      "scientific fraud",
+      "stem cell scandal",
+      "fake data",
+      "Japan research"
+    ],
+    "overlap_check_hash": "a14fd1ff0a47ddad",
+    "why_this_can_go_viral": "Exposing a fake Nobel-level discovery taps into the public's distrust of institutions and love for behind-the-scenes scandal."
+  },
+  {
+    "unique_id": "science_0004_009_076eec3a74f4aa37",
+    "title": "The Virus That Makes Your Brain Rot While You're Still Alive",
+    "hook": "Prion diseases like Creutzfeldt-Jakob literally turn your brain into a sponge, yet you remain conscious until the very end—aware of your own decay.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 98,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "prion disease",
+      "brain decay",
+      "slow death",
+      "zombie brain",
+      "Creutzfeldt-Jakob"
+    ],
+    "overlap_check_hash": "076eec3a74f4aa37",
+    "why_this_can_go_viral": "The idea of being conscious while your brain disintegrates is pure body horror, guaranteed to shock and stick with viewers."
+  },
+  {
+    "unique_id": "science_0004_010_cffaf1145908b1e2",
+    "title": "The Physicist Who Proved Time Is an Illusion",
+    "hook": "Dr. Carlo Rovelli's theory of 'thermal time' suggests time doesn't exist—it's just an artifact of our inability to see the universe as a static block.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 60,
+    "educational_value": 82,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time illusion",
+      "Carlo Rovelli",
+      "thermal time",
+      "block universe",
+      "physics theory"
+    ],
+    "overlap_check_hash": "cffaf1145908b1e2",
+    "why_this_can_go_viral": "The idea that time isn't real is a deep existential rabbit hole, perfect for viewers who love having their reality shaken."
+  },
+  {
+    "unique_id": "science_0004_011_f262bdeae9fc734f",
+    "title": "The Experiment That Gave Mice Human Brain Cells",
+    "hook": "Scientists injected human glial cells into mouse brains, creating rodents with human-like intelligence—and then debated whether they had become conscious.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human-mouse chimera",
+      "brain transplant",
+      "consciousness",
+      "glial cells",
+      "bioethics"
+    ],
+    "overlap_check_hash": "f262bdeae9fc734f",
+    "why_this_can_go_viral": "Blurring the line between human and animal consciousness raises uncanny valley horror and ethical panic."
+  },
+  {
+    "unique_id": "science_0004_012_292f2f7c74838650",
+    "title": "The Chemist Who Died After Tasting His Own Discovery",
+    "hook": "Swedish chemist Carl Scheele discovered oxygen but died after tasting a test tube of his own compound—hydrocyanic acid, a poison that kills in minutes.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 90,
+    "educational_value": 68,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "Carl Scheele",
+      "poison tasting",
+      "hydrocyanic acid",
+      "deadly discovery",
+      "chemist death"
+    ],
+    "overlap_check_hash": "292f2f7c74838650",
+    "why_this_can_go_viral": "A scientist killed by his own curiosity is an ironic tragedy that feels like a Shakespearean parable."
+  },
+  {
+    "unique_id": "science_0004_013_4fcbefc7ca0d18aa",
+    "title": "The Man Who Couldn't Stop Laughing—and Then Dropped Dead",
+    "hook": "In 1962, a Tanzanian schoolgirl started laughing uncontrollably, sparking an epidemic that paralyzed villages—and the condition still has no cure.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "laughter epidemic",
+      "Tanzania",
+      "mysterious illness",
+      "mass hysteria",
+      "neurological disorder"
+    ],
+    "overlap_check_hash": "4fcbefc7ca0d18aa",
+    "why_this_can_go_viral": "A laughing epidemic that turns deadly is bizarre and unsettling, blending horror with real medical mystery."
+  },
+  {
+    "unique_id": "science_0004_014_e68a4fffcf43bbd2",
+    "title": "The Quantum Glitch That Made a Particle Age Backwards",
+    "hook": "In a 2020 experiment, a qubit appeared to reverse entropy, effectively getting younger—a violation of the second law of thermodynamics.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 55,
+    "educational_value": 80,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time reversal",
+      "qubit",
+      "entropy",
+      "second law",
+      "quantum glitch"
+    ],
+    "overlap_check_hash": "e68a4fffcf43bbd2",
+    "why_this_can_go_viral": "The idea of reversing time at a particle level triggers deep sci-fi wonder and existential confusion."
+  },
+  {
+    "unique_id": "science_0004_015_1ffcee9c65143aec",
+    "title": "The Doctor Who Transplanted a Human Head Onto a Dead Body",
+    "hook": "In 2017, a neurosurgeon claimed to have successfully transplanted a human head onto a donor body—but the patient never survived the aftermath.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 94,
+    "educational_value": 68,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "head transplant",
+      "Sergio Canavero",
+      "ethics",
+      "surgery horror",
+      "immortality quest"
+    ],
+    "overlap_check_hash": "1ffcee9c65143aec",
+    "why_this_can_go_viral": "The Frankenstein-like experiment evokes primal fear of body violation and the limits of medical hubris."
+  },
+  {
+    "unique_id": "science_0004_016_093dd9edc899a3a2",
+    "title": "The Lab That Accidentally Created a New Element",
+    "hook": "In 1940, a team of UC Berkeley scientists bombarded uranium with neutrons and created something that didn't exist in nature—plutonium, the heart of the atomic bomb.",
+    "virality_score": 77,
+    "curiosity_gap_score": 82,
+    "darkness_score": 74,
+    "educational_value": 78,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "plutonium discovery",
+      "accidental element",
+      "nuclear weapon",
+      "Berkeley lab",
+      "uranium"
+    ],
+    "overlap_check_hash": "093dd9edc899a3a2",
+    "why_this_can_go_viral": "Creating a new element by accident feels like alchemy; the atomic bomb connection adds heavy dark historical weight."
+  },
+  {
+    "unique_id": "science_0004_019_83f5f965e4128299",
+    "title": "The Toxin That Causes Instant Rigor Mortis",
+    "hook": "Tetrodotoxin, found in pufferfish, paralyzes your muscles instantly—you remain fully conscious, unable to move or speak, trapped in your own body.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 93,
+    "educational_value": 68,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "tetrodotoxin",
+      "pufferfish poison",
+      "locked-in syndrome",
+      "instant death",
+      "paralysis"
+    ],
+    "overlap_check_hash": "83f5f965e4128299",
+    "why_this_can_go_viral": "The fear of being trapped in a paralyzed body is one of the deepest human terrors; the toxin's exotic origin adds intrigue."
+  },
+  {
+    "unique_id": "science_0004_020_31e9bdcd928c3b97",
+    "title": "The Scientist Who Gave Himself a Heart Attack on Purpose",
+    "hook": "In 1950, Dr. Werner Forssmann inserted a catheter into his own arm and pushed it into his heart—then X-rayed himself to prove it was possible.",
+    "virality_score": 76,
+    "curiosity_gap_score": 83,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "self-experimentation",
+      "cardiac catheter",
+      "Werner Forssmann",
+      "heart attack",
+      "Nobel Prize"
+    ],
+    "overlap_check_hash": "31e9bdcd928c3b97",
+    "why_this_can_go_viral": "A doctor who knowingly risked his life for science is a dramatic, almost suicidal act of dedication that shocks and inspires."
+  },
+  {
+    "unique_id": "science_0004_021_57d416ccba55cbba",
+    "title": "The Quantum Computer That Solved a Problem in Minutes That Would Take 10,000 Years",
+    "hook": "In 2019, Google's Sycamore quantum computer completed a calculation in 200 seconds that would take a classical supercomputer 10,000 years—sparking fears of reality-bending speed.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 60,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum supremacy",
+      "Sycamore",
+      "Google quantum",
+      "supercomputer",
+      "speed limit broken"
+    ],
+    "overlap_check_hash": "57d416ccba55cbba",
+    "why_this_can_go_viral": "The idea of a machine breaking the limits of computation feels like magic, tapping into techno-thriller dread."
+  },
+  {
+    "unique_id": "science_0004_022_94c6728299540fab",
+    "title": "The Experiment That Made People Forget Their Own Faces",
+    "hook": "In a 2015 study, researchers used virtual reality to make subjects believe their own body belonged to someone else—erasing self-recognition entirely.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "body ownership",
+      "VR illusion",
+      "self-identity",
+      "rubber hand",
+      "brain hack"
+    ],
+    "overlap_check_hash": "94c6728299540fab",
+    "why_this_can_go_viral": "The loss of self-identity is a deeply unsettling concept; VR as a tool for brain manipulation is both fascinating and terrifying."
+  },
+  {
+    "unique_id": "science_0004_023_a1d9b5b6e2087a83",
+    "title": "The Chemical That Turned a Lake Into a Dead Zone",
+    "hook": "In 1986, a chemical spill in Basel, Switzerland, released 30 tons of toxic pesticides into the Rhine River—turning it into a 500-mile dead zone for fish.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 82,
+    "educational_value": 76,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "Basel spill",
+      "chemical disaster",
+      "Rhine pollution",
+      "toxic spill",
+      "environmental catastrophe"
+    ],
+    "overlap_check_hash": "a1d9b5b6e2087a83",
+    "why_this_can_go_viral": "A man-made river of death is a visceral environmental horror story with clear villain and victim."
+  },
+  {
+    "unique_id": "science_0004_025_6ff440ed44f93ac0",
+    "title": "The Brain Implant That Made a Paralyzed Man Feel Again",
+    "hook": "In 2020, scientists implanted microelectrodes into a paralyzed man's brain, restoring touch sensation—but also opening a door to potential mind control.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 72,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain implant",
+      "paralysis cure",
+      "neurotechnology",
+      "touch restoration",
+      "mind control fear"
+    ],
+    "overlap_check_hash": "6ff440ed44f93ac0",
+    "why_this_can_go_viral": "The breakthrough of restoring sensation is heartwarming, but the dark side of potential mind control keeps viewers hooked on the ethical dilemma."
+  }
+]

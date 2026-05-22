@@ -1,0 +1,296 @@
+[
+  {
+    "unique_id": "crime_0146_001_c6d53c6a4cb4692c",
+    "title": "The Mob That Bought a Town's Voting Machines",
+    "hook": "They didn't just rig an election—they bought the entire electoral infrastructure for a small town.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob",
+      "election rigging",
+      "voting machines",
+      "organized crime",
+      "small town"
+    ],
+    "overlap_check_hash": "c6d53c6a4cb4692c",
+    "why_this_can_go_viral": "Taps into modern fears about election integrity with a historical mob twist, highly shareable."
+  },
+  {
+    "unique_id": "crime_0146_002_4b731117006c38fc",
+    "title": "The Serial Killer Who Used a Psychic Hotline to Find Victims",
+    "hook": "He called a psychic hotline for advice—and then used the caller list to stalk his next target.",
+    "virality_score": 85,
+    "curiosity_gap_score": 92,
+    "darkness_score": 89,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "psychic hotline",
+      "victim selection",
+      "true crime",
+      "manipulation"
+    ],
+    "overlap_check_hash": "4b731117006c38fc",
+    "why_this_can_go_viral": "Absurd yet true premise creates massive curiosity gap and shock value."
+  },
+  {
+    "unique_id": "crime_0146_003_6cdc0839cad16c67",
+    "title": "The Heist Where Thieves Stole a City's Sewer System",
+    "hook": "They didn't steal money—they stole the pipes underground, piece by piece, for scrap metal.",
+    "virality_score": 77,
+    "curiosity_gap_score": 85,
+    "darkness_score": 68,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "sewer heist",
+      "infrastructure theft",
+      "scrap metal",
+      "crime",
+      "urban decay"
+    ],
+    "overlap_check_hash": "6cdc0839cad16c67",
+    "why_this_can_go_viral": "Bizarre and almost comical premise contrasts with serious consequences, perfect for reaction content."
+  },
+  {
+    "unique_id": "crime_0146_004_15c8218834e80564",
+    "title": "The Unsolved Murder Where the Victim Was Buried Alive in Concrete",
+    "hook": "The autopsy showed dirt in the lungs—they were breathing when the concrete was poured.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 65,
+    "estimated_short_retention": 95,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "buried alive",
+      "concrete",
+      "unsolved murder",
+      "forensic evidence",
+      "horror"
+    ],
+    "overlap_check_hash": "15c8218834e80564",
+    "why_this_can_go_viral": "Extreme darkness and visceral detail trigger morbid curiosity and strong emotional reaction."
+  },
+  {
+    "unique_id": "crime_0146_009_e451838cb491c49b",
+    "title": "The Unsolved Murder Where the Killer Left a Perfect Alibi on a Voicemail",
+    "hook": "The voicemail proved he was miles away—except the timestamp was faked by a second phone.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "voicemail alibi",
+      "fake timestamp",
+      "unsolved murder",
+      "forensic audio",
+      "trick"
+    ],
+    "overlap_check_hash": "e451838cb491c49b",
+    "why_this_can_go_viral": "Technological angle on classic alibi twist appeals to true crime and tech enthusiasts."
+  },
+  {
+    "unique_id": "crime_0146_010_71d6cf3927dc0c50",
+    "title": "The Serial Killer Who Lived in His Victim's House for a Year",
+    "hook": "He moved in after the murder, paid the mortgage, and told neighbors the owner was on vacation.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 94,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "victim's house",
+      "imposter",
+      "true crime",
+      "psychological horror"
+    ],
+    "overlap_check_hash": "71d6cf3927dc0c50",
+    "why_this_can_go_viral": "Deep psychological horror and the 'monster next door' trope guarantee high engagement."
+  },
+  {
+    "unique_id": "crime_0146_011_0e7e5b40fb57d9c4",
+    "title": "The Heist Where Thieves Stole a Museum's Night Vision Goggles",
+    "hook": "They needed the goggles to see in the dark—but stole them from the same museum they were robbing.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 65,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "museum heist",
+      "night vision",
+      "irony",
+      "theft",
+      "planning"
+    ],
+    "overlap_check_hash": "0e7e5b40fb57d9c4",
+    "why_this_can_go_viral": "Ironic twist and absurd logic make it highly shareable and memorable."
+  },
+  {
+    "unique_id": "crime_0146_016_9845800558c77f1a",
+    "title": "The White-Collar Criminal Who Stole a Country's Olympic Medal Budget",
+    "hook": "He diverted funds meant for training athletes into offshore accounts—then blamed 'inflation'.",
+    "virality_score": 75,
+    "curiosity_gap_score": 81,
+    "darkness_score": 73,
+    "educational_value": 78,
+    "estimated_short_retention": 77,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "Olympic fraud",
+      "athlete funding",
+      "embezzlement",
+      "national scandal",
+      "budget theft"
+    ],
+    "overlap_check_hash": "9845800558c77f1a",
+    "why_this_can_go_viral": "Patriotic outrage and sports angle make it relatable to a broad audience."
+  },
+  {
+    "unique_id": "crime_0146_017_47655f300eb549cd",
+    "title": "The Unsolved Murder Where the Victim's Body Was Found in a Funeral Home",
+    "hook": "The killer worked there—and hid the body among the dead for three days before anyone noticed.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 91,
+    "educational_value": 62,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "funeral home",
+      "hidden body",
+      "unsolved murder",
+      "morbid",
+      "true crime"
+    ],
+    "overlap_check_hash": "47655f300eb549cd",
+    "why_this_can_go_viral": "Morbid setting and macabre details create strong emotional and curiosity response."
+  },
+  {
+    "unique_id": "crime_0146_019_e78cd695517bb913",
+    "title": "The Heist Where Thieves Stole a Fire Truck to Ram a Bank",
+    "hook": "They didn't steal a getaway car—they stole a fire truck to smash through the bank's reinforced wall.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "fire truck heist",
+      "bank robbery",
+      "ram raid",
+      "theft",
+      "creative crime"
+    ],
+    "overlap_check_hash": "e78cd695517bb913",
+    "why_this_can_go_viral": "Brutal and ridiculous method creates visual spectacle and shareability."
+  },
+  {
+    "unique_id": "crime_0146_021_0c7eb4c9f0fd4498",
+    "title": "The Criminal Mastermind Who Stole a Train by Changing Its Destination Sign",
+    "hook": "He swapped the route board at a station—the train went to a siding where his crew unloaded it.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 68,
+    "educational_value": 74,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "train theft",
+      "destination sign",
+      "siding",
+      "mastermind",
+      "railway crime"
+    ],
+    "overlap_check_hash": "0c7eb4c9f0fd4498",
+    "why_this_can_go_viral": "Simple analog trick versus high-tech security creates satisfying 'how?' curiosity."
+  },
+  {
+    "unique_id": "crime_0146_022_1a28ae4d25de3e88",
+    "title": "The Cartel That Used a Children's Birthday Party Service to Deliver Drugs",
+    "hook": "Clowns handed out balloons—but inside the latex were small bags of cocaine for the parents.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 86,
+    "educational_value": 63,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "birthday party",
+      "clown",
+      "drug delivery",
+      "children"
+    ],
+    "overlap_check_hash": "1a28ae4d25de3e88",
+    "why_this_can_go_viral": "Disturbing juxtaposition of innocence and crime creates strong emotional reaction."
+  },
+  {
+    "unique_id": "crime_0146_024_d68af46d5f6016f5",
+    "title": "The White-Collar Criminal Who Stole a City's Parking Meter Revenue",
+    "hook": "He reprogrammed the meters to send all coins to his own bank account—for 10 years.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 68,
+    "educational_value": 78,
+    "estimated_short_retention": 79,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "parking meter",
+      "reprogramming",
+      "city revenue",
+      "fraud",
+      "long-term scam"
+    ],
+    "overlap_check_hash": "d68af46d5f6016f5",
+    "why_this_can_go_viral": "Relatable everyday annoyance turned into massive theft, easy to understand and share."
+  },
+  {
+    "unique_id": "crime_0146_025_27f6844c6c2ed057",
+    "title": "The Unsolved Murder Where the Victim Was Killed by a Falling Piano",
+    "hook": "It fell from a sixth-floor window—but the autopsy showed the rope was cut from above on purpose.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "falling piano",
+      "murder",
+      "rope cut",
+      "unsolved",
+      "classic trope turned real"
+    ],
+    "overlap_check_hash": "27f6844c6c2ed057",
+    "why_this_can_go_viral": "Cartoonish premise turned deadly serious creates strong intrigue and dark humor potential."
+  }
+]

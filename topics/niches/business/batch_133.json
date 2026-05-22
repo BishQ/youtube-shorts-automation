@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "business_0133_002_a6af89c74e58a8b4",
+    "title": "The Trader Who Crashed a Market With a Fake 'Presidential Heart Attack' Alert",
+    "hook": "A rogue trader used a hacked news wire to publish a false alert about a president's health, triggering a $2 billion sell-off before anyone could fact-check.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "fake news trading",
+      "market crash",
+      "presidential alert",
+      "hacked news wire",
+      "insider trading"
+    ],
+    "overlap_check_hash": "a6af89c74e58a8b4",
+    "why_this_can_go_viral": "Combines high-stakes financial crime with a shocking, fast-paced plot — perfect for short-form suspense."
+  },
+  {
+    "unique_id": "business_0133_003_0683498ea28662fc",
+    "title": "The Startup That Sold a 'Smart Diaper' That Tracked Baby Poop—Then Sold the Data to Insurance",
+    "hook": "A health-tech startup raised millions for a diaper that monitored infant digestion, but its real product was selling the medical data to deny families coverage.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 86,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "smart diaper scam",
+      "health data sold",
+      "insurance fraud",
+      "startup deception",
+      "IoT privacy"
+    ],
+    "overlap_check_hash": "0683498ea28662fc",
+    "why_this_can_go_viral": "Taps into parental fear and outrage over data privacy — highly shareable among new parents."
+  },
+  {
+    "unique_id": "business_0133_004_4ddb6f2f10027bfb",
+    "title": "The Monopoly That Made Every Movie Theater Use the Same Broken Projector",
+    "hook": "One company bought every cinema projector patent, then forced theaters to rent devices that intentionally broke after 1,000 hours—ensuring endless repair fees.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 74,
+    "estimated_short_retention": 81,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "projector monopoly",
+      "planned obsolescence",
+      "cinema scam",
+      "patent abuse",
+      "rental trap"
+    ],
+    "overlap_check_hash": "4ddb6f2f10027bfb",
+    "why_this_can_go_viral": "Reveals a hidden system that affects millions of moviegoers — triggers curiosity and anger."
+  },
+  {
+    "unique_id": "business_0133_005_71762d73990a37d6",
+    "title": "The Corporate Spy Who Hid a Camera in a Rival's Bathroom—for 18 Months",
+    "hook": "A corporate spy embedded a micro-camera inside a competitor's executive bathroom mirror, streaming product launch plans directly to a rival for over a year.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 89,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "hidden camera",
+      "corporate spy",
+      "bathroom espionage",
+      "trade secrets stolen",
+      "long-term surveillance"
+    ],
+    "overlap_check_hash": "71762d73990a37d6",
+    "why_this_can_go_viral": "Extreme invasion of privacy and a jaw-dropping duration — highly shareable for shock value."
+  },
+  {
+    "unique_id": "business_0133_006_f416186c9f7c8bdb",
+    "title": "The Dark Marketing Agency That Used a 'Mood Ring' App to Sell Antidepressants",
+    "hook": "A marketing firm created a popular mood-tracking app, then secretly fed user data to pharma companies to target emotionally vulnerable people with drug ads.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 73,
+    "estimated_short_retention": 79,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "mood app scam",
+      "pharma targeting",
+      "vulnerable user data",
+      "dark marketing",
+      "emotion tracking"
+    ],
+    "overlap_check_hash": "f416186c9f7c8bdb",
+    "why_this_can_go_viral": "Combines tech privacy fears with pharma ethics — triggers both concern and curiosity."
+  },
+  {
+    "unique_id": "business_0133_008_e6caae418c00602b",
+    "title": "The Industry Cover-Up of 'Anti-Fatigue' Mats—They Cause Chronic Back Pain",
+    "hook": "A major flooring company sold 'ergonomic' mats to factories for decades, hiding internal tests that proved the mats actually accelerated spinal damage.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 84,
+    "educational_value": 78,
+    "estimated_short_retention": 77,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "anti-fatigue mat scam",
+      "ergonomic fraud",
+      "back pain cover-up",
+      "industrial deception",
+      "worker health"
+    ],
+    "overlap_check_hash": "e6caae418c00602b",
+    "why_this_can_go_viral": "Affects millions of workers — triggers anger and a sense of betrayal by trusted safety products."
+  },
+  {
+    "unique_id": "business_0133_009_2394c62d766a3b6e",
+    "title": "The CEO Who Used a Fake Charity to Steal His Own Company's Pension Fund",
+    "hook": "A CEO created a nonprofit 'for disabled veterans,' funneled his company's entire pension fund into it, then declared the charity bankrupt—leaving 3,000 retirees with nothing.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 77,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "CEO theft",
+      "pension fund scam",
+      "fake charity",
+      "veteran fraud",
+      "retiree devastation"
+    ],
+    "overlap_check_hash": "2394c62d766a3b6e",
+    "why_this_can_go_viral": "Betrayal of the most vulnerable workers — highly emotional and anger-driven sharing."
+  },
+  {
+    "unique_id": "business_0133_010_ab0a44d9d26ec57b",
+    "title": "The Trader Who Used a Fake Satellite Image to Manipulate Oil Futures",
+    "hook": "A trader photoshopped satellite images of an oil tanker 'leaking' in the Strait of Hormuz, then shorted crude oil futures before the market realized it was a hoax.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 87,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "fake satellite image",
+      "oil futures scam",
+      "Strait of Hormuz",
+      "trader deception",
+      "market hoax"
+    ],
+    "overlap_check_hash": "ab0a44d9d26ec57b",
+    "why_this_can_go_viral": "Combines high-stakes global finance with a clever, almost cinematic fraud — perfect for viral storytelling."
+  },
+  {
+    "unique_id": "business_0133_011_3527a63d32542873",
+    "title": "The Startup That Sold 'Eternal' Cloud Storage—Then Permanently Deleted Everything",
+    "hook": "A cloud storage startup promised 'lifetime forever' backups, but after raising $50 million, it quietly wiped every user's data and shut down overnight.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "cloud storage scam",
+      "data deletion",
+      "startup failure",
+      "lifetime promise",
+      "user betrayal"
+    ],
+    "overlap_check_hash": "3527a63d32542873",
+    "why_this_can_go_viral": "Relatable fear of losing digital memories — triggers anxiety and curiosity about the scam."
+  },
+  {
+    "unique_id": "business_0133_012_98bde5426ce50ae0",
+    "title": "The Monopoly That Bought Every Maternity Ward—Then Charged $10,000 for a Birth",
+    "hook": "One private equity firm quietly acquired majority ownership of maternity wards across three states, then raised delivery prices by 400% with no alternatives left.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 79,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "maternity monopoly",
+      "birth price hike",
+      "private equity scam",
+      "hospital monopoly",
+      "healthcare cost"
+    ],
+    "overlap_check_hash": "98bde5426ce50ae0",
+    "why_this_can_go_viral": "Targets a universal life event — birth — with extreme financial exploitation, sparking outrage and discussion."
+  },
+  {
+    "unique_id": "business_0133_013_d127500f06be4779",
+    "title": "The Corporate Spy Who Posed as a Janitor for 7 Years—Then Sold the Entire Company",
+    "hook": "A corporate spy worked as a janitor in a biotech firm for seven years, memorizing lab notes, then sold the complete formula portfolio to a competitor for millions.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 86,
+    "educational_value": 71,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "janitor spy",
+      "long-term espionage",
+      "biotech theft",
+      "formula stolen",
+      "corporate infiltration"
+    ],
+    "overlap_check_hash": "d127500f06be4779",
+    "why_this_can_go_viral": "Incredible patience and deceit — a true undercover story that feels like a movie."
+  },
+  {
+    "unique_id": "business_0133_014_ddfc2ec812ad0a2c",
+    "title": "The Dark Marketing Firm That Used Hospital Wi-Fi to Sell Funeral Plans",
+    "hook": "A marketing firm intercepted hospital Wi-Fi networks, tracking when patients entered critical care, then sending funeral plan ads to their families' phones within minutes.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 74,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "hospital Wi-Fi scam",
+      "funeral plan targeting",
+      "patient data exploitation",
+      "grief marketing",
+      "dark marketing"
+    ],
+    "overlap_check_hash": "ddfc2ec812ad0a2c",
+    "why_this_can_go_viral": "Extremely unethical targeting of vulnerable people in crisis — triggers outrage and disbelief."
+  },
+  {
+    "unique_id": "business_0133_016_2a9e0ff79502412a",
+    "title": "The Industry Cover-Up of 'Safe' Microwave Popcorn—It Causes 'Popcorn Lung' in Kids",
+    "hook": "A snack company knew its butter flavoring caused permanent lung damage in factory workers, but hid the studies and marketed the popcorn as 'family safe' for 20 years.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 86,
+    "educational_value": 80,
+    "estimated_short_retention": 79,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "popcorn lung scam",
+      "microwave popcorn danger",
+      "butter flavoring cover-up",
+      "food industry fraud",
+      "hidden health risk"
+    ],
+    "overlap_check_hash": "2a9e0ff79502412a",
+    "why_this_can_go_viral": "Relatable everyday product with a hidden deadly risk — triggers fear and a desire to warn others."
+  },
+  {
+    "unique_id": "business_0133_017_64758a8fc170ec6d",
+    "title": "The CEO Who Hired a Lookalike to Serve His 5-Year Prison Sentence",
+    "hook": "A convicted CEO paid a homeless man $100,000 to dye his hair, memorize his biography, and serve a five-year prison sentence in his place—and it worked for 3 years.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 93,
+    "educational_value": 69,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "CEO impersonator",
+      "prison swap",
+      "lookalike scam",
+      "sentence fraud",
+      "corporate escape"
+    ],
+    "overlap_check_hash": "64758a8fc170ec6d",
+    "why_this_can_go_viral": "Astonishing, near-unbelievable true crime story — perfect for shock and disbelief shares."
+  },
+  {
+    "unique_id": "business_0133_018_679ec7ec436b417f",
+    "title": "The Trader Who Used a Fake 'Tornado Warning' to Crash Grain Futures",
+    "hook": "A commodities trader hacked into the NOAA weather alert system, faked a tornado warning over the Great Plains, and shorted wheat futures before the market recovered.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 73,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "fake tornado warning",
+      "grain futures scam",
+      "NOAA hacked",
+      "weather manipulation",
+      "commodity fraud"
+    ],
+    "overlap_check_hash": "679ec7ec436b417f",
+    "why_this_can_go_viral": "High-stakes weather crime with a clever, tech-savvy angle — triggers fascination with hacking and finance."
+  },
+  {
+    "unique_id": "business_0133_019_7b987bbd73a2f856",
+    "title": "The Startup That Sold 'Unhackable' Voting Machines—They Were Repurposed Vending Machines",
+    "hook": "A startup claimed to build secure electronic voting machines for developing countries, but they were just old soda vending machines with a new screen—and they got certified.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 84,
+    "educational_value": 76,
+    "estimated_short_retention": 78,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "fake voting machines",
+      "vending machine scam",
+      "election fraud",
+      "startup deception",
+      "tech certification scam"
+    ],
+    "overlap_check_hash": "7b987bbd73a2f856",
+    "why_this_can_go_viral": "Democratic integrity at stake — triggers outrage and political curiosity, highly shareable."
+  },
+  {
+    "unique_id": "business_0133_020_89c79b069ce89f42",
+    "title": "The Monopoly That Owns Every Pet Crematorium—Then Charged $2,000 for 'Ash Return'",
+    "hook": "One company bought every pet crematorium in a 200-mile radius, then charged grieving owners $2,000 for ashes that were actually cement dust from a construction site.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 72,
+    "estimated_short_retention": 81,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "pet cremation scam",
+      "monopoly abuse",
+      "fake ashes",
+      "grief exploitation",
+      "pet death fraud"
+    ],
+    "overlap_check_hash": "89c79b069ce89f42",
+    "why_this_can_go_viral": "Targets the emotional bond with pets — triggers anger and a need to warn fellow pet owners."
+  },
+  {
+    "unique_id": "business_0133_021_9ccc090da6c07608",
+    "title": "The Corporate Spy Who Infiltrated a Rival's Lab by Faking a Brain Injury",
+    "hook": "A corporate spy faked a traumatic brain injury, volunteered for a rival's neural implant trial, and used the implanted device to stream confidential data for two years.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 74,
+    "estimated_short_retention": 87,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "brain implant spy",
+      "fake injury",
+      "neural data theft",
+      "medical espionage",
+      "long-term infiltration"
+    ],
+    "overlap_check_hash": "9ccc090da6c07608",
+    "why_this_can_go_viral": "Sci-fi level deception in real life — triggers intense curiosity about medical and tech espionage."
+  },
+  {
+    "unique_id": "business_0133_022_7d6f9133339caac8",
+    "title": "The Dark Marketing Firm That Used Toilet Paper Barcode Scans to Sell Diet Pills",
+    "hook": "A marketing firm paid grocery stores to install barcode scanners in bathroom stalls, tracking what people ate by their purchases, then targeting them with weight loss ads.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 87,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "barcode tracking",
+      "bathroom surveillance",
+      "diet pill targeting",
+      "privacy invasion",
+      "shopping data abuse"
+    ],
+    "overlap_check_hash": "7d6f9133339caac8",
+    "why_this_can_go_viral": "Extreme privacy invasion in a private moment — triggers outrage and curiosity about surveillance."
+  },
+  {
+    "unique_id": "business_0133_024_6b054941703b0899",
+    "title": "The Industry Cover-Up of 'Soundproof' Hotel Rooms—They Pipe in Street Noise for Atmosphere",
+    "hook": "A hotel chain sold 'soundproof' rooms at a premium, but secretly installed speakers that played amplified street noise recordings to make the rooms feel 'authentic' and justify lower prices elsewhere.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 81,
+    "educational_value": 70,
+    "estimated_short_retention": 79,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "soundproof scam",
+      "hotel deception",
+      "fake street noise",
+      "premium room fraud",
+      "hospitality cover-up"
+    ],
+    "overlap_check_hash": "6b054941703b0899",
+    "why_this_can_go_viral": "Reveals a bizarre, manipulative marketing trick that affects travelers — triggers curiosity and anger."
+  },
+  {
+    "unique_id": "business_0133_025_a22cd3564b297bcf",
+    "title": "The CEO Who Faked His Own Death to Escape a $500 Million Fraud Trial",
+    "hook": "A CEO faked a drowning accident in the Caribbean, assumed a new identity, and lived in a remote village for 11 years before being recognized by a documentary crew.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 91,
+    "educational_value": 68,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "fake death CEO",
+      "fraud escape",
+      "identity change",
+      "long-term hiding",
+      "corporate fugitive"
+    ],
+    "overlap_check_hash": "a22cd3564b297bcf",
+    "why_this_can_go_viral": "Incredible true crime escape story with a cinematic twist — perfect for viral storytelling and speculation."
+  }
+]

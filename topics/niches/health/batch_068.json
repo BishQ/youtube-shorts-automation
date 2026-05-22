@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "health_0068_001_268cee699882ce84",
+    "title": "The Doctor Who Sold 10,000 Fake Cancer Diagnoses",
+    "hook": "He told thousands they had cancer, charged them for chemo, and they never had it.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "fake diagnosis",
+      "cancer scam",
+      "medical fraud",
+      "false chemo",
+      "doctor arrested"
+    ],
+    "overlap_check_hash": "268cee699882ce84",
+    "why_this_can_go_viral": "The moral outrage and betrayal of trust triggers immediate sharing; the idea of paying for fake cancer treatment is universally terrifying."
+  },
+  {
+    "unique_id": "health_0068_002_8de909a328973917",
+    "title": "The Experiment That Gave 400 Orphans Heroin for Months",
+    "hook": "They were told it was medicine. They became addicts. The hospital called it research.",
+    "virality_score": 97,
+    "curiosity_gap_score": 98,
+    "darkness_score": 99,
+    "educational_value": 80,
+    "estimated_short_retention": 95,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "orphan experiment",
+      "heroin addiction",
+      "unethical research",
+      "child abuse",
+      "medical horror"
+    ],
+    "overlap_check_hash": "8de909a328973917",
+    "why_this_can_go_viral": "Combines vulnerable children, drug addiction, and institutional betrayal — a viral outrage trifecta."
+  },
+  {
+    "unique_id": "health_0068_003_9941707c79bfccbf",
+    "title": "The Pharmaceutical CEO Who Knew the Drug Caused Strokes",
+    "hook": "Internal emails proved they knew. They sold it for 12 more years.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 91,
+    "educational_value": 85,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "drug cover-up",
+      "stroke risk",
+      "pharma CEO",
+      "internal emails",
+      "hidden deaths"
+    ],
+    "overlap_check_hash": "9941707c79bfccbf",
+    "why_this_can_go_viral": "Corporate greed causing preventable deaths is a powerful narrative; leaked emails add undeniable proof."
+  },
+  {
+    "unique_id": "health_0068_004_06552c9adba7f45d",
+    "title": "The Suppressed Cure: $2 Honey Stops 100% of Wound Infections",
+    "hook": "Hospitals threw it out because it costs less than the bandage. Studies proved it works.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 90,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "honey wound cure",
+      "medical grade honey",
+      "suppressed treatment",
+      "antibiotic alternative",
+      "cheap cure"
+    ],
+    "overlap_check_hash": "06552c9adba7f45d",
+    "why_this_can_go_viral": "The contrast between a cheap natural cure and expensive medical products drives curiosity and anger."
+  },
+  {
+    "unique_id": "health_0068_006_ef524b669bbfb0b7",
+    "title": "The Toxic Baby Oil That Gave 1 in 3 Boys Infertility",
+    "hook": "It was sold for 40 years. The chemical inside did permanent damage to unborn boys.",
+    "virality_score": 92,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "baby oil toxicity",
+      "infertility",
+      "phthalates",
+      "endocrine disruptor",
+      "product cover-up"
+    ],
+    "overlap_check_hash": "ef524b669bbfb0b7",
+    "why_this_can_go_viral": "Targets new parents and anyone planning a family — high emotional stakes and personal relevance."
+  },
+  {
+    "unique_id": "health_0068_007_9f11124716041269",
+    "title": "The Disease Cover-Up: How Tap Water Caused 20% of Autism Cases",
+    "hook": "The chemical was in drinking water for decades. Officials called it safe. Then the data leaked.",
+    "virality_score": 96,
+    "curiosity_gap_score": 97,
+    "darkness_score": 94,
+    "educational_value": 88,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "autism cause",
+      "tap water danger",
+      "chemical cover-up",
+      "fluoride debate",
+      "public health scandal"
+    ],
+    "overlap_check_hash": "9f11124716041269",
+    "why_this_can_go_viral": "Highly controversial and personal for millions of parents; sparks debate and urgent sharing."
+  },
+  {
+    "unique_id": "health_0068_008_a1eca1ef6bbb91a0",
+    "title": "The FDA-Approved Painkiller That Made People Stop Breathing in Sleep",
+    "hook": "It was sold as 'safe.' It killed 200,000 people before they pulled it.",
+    "virality_score": 95,
+    "curiosity_gap_score": 96,
+    "darkness_score": 93,
+    "educational_value": 82,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "opioid crisis",
+      "FDA failure",
+      "painkiller death",
+      "respiratory arrest",
+      "drug recall"
+    ],
+    "overlap_check_hash": "a1eca1ef6bbb91a0",
+    "why_this_can_go_viral": "Connects to the ongoing opioid epidemic; the idea of a 'safe' drug killing silently is terrifying."
+  },
+  {
+    "unique_id": "health_0068_009_fe51180b93025354",
+    "title": "The Doctor Who Removed 100 Healthy Uteruses for Cash",
+    "hook": "He told women they had cancer. They didn't. He got a bonus for each organ removed.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 96,
+    "educational_value": 72,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "unnecessary hysterectomy",
+      "organ removal scam",
+      "doctor bonus",
+      "female patient abuse",
+      "medical fraud"
+    ],
+    "overlap_check_hash": "fe51180b93025354",
+    "why_this_can_go_viral": "Violates bodily autonomy and targets women specifically — powerful audience engagement and outrage."
+  },
+  {
+    "unique_id": "health_0068_010_2e90c1489a1c4aa0",
+    "title": "The Experiment That Exposed 500 People to Asbestos Without Consent",
+    "hook": "They sprayed it into rooms where people slept. Then watched them die 20 years later.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 98,
+    "educational_value": 78,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "asbestos experiment",
+      "non-consensual research",
+      "mesothelioma",
+      "corporate crime",
+      "deadly exposure"
+    ],
+    "overlap_check_hash": "2e90c1489a1c4aa0",
+    "why_this_can_go_viral": "The slow-motion murder aspect creates horror and fascination; the lack of consent enrages viewers."
+  },
+  {
+    "unique_id": "health_0068_012_7c4d674d4819c19f",
+    "title": "The Suppressed Cure: $1 Vitamin C Reversed 50% of Sepsis Deaths",
+    "hook": "Hospitals knew the protocol works. They refused to use it because it costs $1 per dose.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 82,
+    "educational_value": 88,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "vitamin C sepsis",
+      "cheap cure suppressed",
+      "ICU protocol",
+      "medical cost scandal",
+      "treatment block"
+    ],
+    "overlap_check_hash": "7c4d674d4819c19f",
+    "why_this_can_go_viral": "The life-or-death stakes and absurd cheapness of the cure drive intense curiosity and anger."
+  },
+  {
+    "unique_id": "health_0068_013_0728d313230a405c",
+    "title": "The Hospital That Refused to Treat 1,000 Uninsured Patients — Let Them Die",
+    "hook": "They had a list. Uninsured patients were turned away at the door. The state knew.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 97,
+    "educational_value": 78,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "uninsured death",
+      "hospital denial",
+      "healthcare inequality",
+      "patient abandonment",
+      "profit over life"
+    ],
+    "overlap_check_hash": "0728d313230a405c",
+    "why_this_can_go_viral": "Taps into universal fear of medical bankruptcy and death; strong emotional and political appeal."
+  },
+  {
+    "unique_id": "health_0068_014_799482f94335ee99",
+    "title": "The Toxic Laundry Detergent That Gave 1 in 4 Kids Asthma",
+    "hook": "It was marketed as 'fresh scent.' That scent was poisoning children's lungs.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 88,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "laundry detergent asthma",
+      "toxic fragrance",
+      "child lung damage",
+      "product cover-up",
+      "VOC danger"
+    ],
+    "overlap_check_hash": "799482f94335ee99",
+    "why_this_can_go_viral": "Every home uses detergent — the personal relevance triggers immediate concern and sharing among parents."
+  },
+  {
+    "unique_id": "health_0068_015_44d332788a539c55",
+    "title": "The Disease Cover-Up: How Carpet Cleaning Chemicals Caused 30% of Parkinson's",
+    "hook": "The chemical is in every home. The manufacturer knew. They hid it for 30 years.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 86,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "Parkinson's cause",
+      "carpet chemical",
+      "TCE exposure",
+      "environmental disease",
+      "cover-up scandal"
+    ],
+    "overlap_check_hash": "44d332788a539c55",
+    "why_this_can_go_viral": "Links a common household item to a devastating neurological disease — fear and curiosity drive shares."
+  },
+  {
+    "unique_id": "health_0068_017_93d7d7d43970aa68",
+    "title": "The Doctor Who Injected 200 Patients with Cow Blood — Called It 'Plasma'",
+    "hook": "He thought cow blood could replace human blood. 80 patients died. He called it a success.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 75,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "cow blood transfusion",
+      "historical medical horror",
+      "deadly experiment",
+      "mad doctor",
+      "blood scandal"
+    ],
+    "overlap_check_hash": "93d7d7d43970aa68",
+    "why_this_can_go_viral": "The absurdity and horror of the concept make it highly shareable; almost unbelievable."
+  },
+  {
+    "unique_id": "health_0068_018_9c4474ee41fd188e",
+    "title": "The Experiment That Gave 100 Prisoners Electrocution 'Therapy'",
+    "hook": "They were told it would cure their addiction. It gave them seizures. They were paid $1.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 78,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "prisoner experiment",
+      "electrocution therapy",
+      "unethical research",
+      "addiction torture",
+      "human rights abuse"
+    ],
+    "overlap_check_hash": "9c4474ee41fd188e",
+    "why_this_can_go_viral": "Combines power imbalance, torture, and pseudoscience — strong moral outrage and curiosity."
+  },
+  {
+    "unique_id": "health_0068_019_4e89ad5ba4caa4c4",
+    "title": "The CEO Who Laughed While Announcing a 4,000% Drug Price Hike",
+    "hook": "The drug cost $1 to make. He raised it to $750 per pill. And laughed on camera.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "price gouging",
+      "CEO greed",
+      "drug pricing scandal",
+      "Martin Shkreli",
+      "pharma corruption"
+    ],
+    "overlap_check_hash": "4e89ad5ba4caa4c4",
+    "why_this_can_go_viral": "The visible arrogance and contempt trigger viral anger; very easy to clip and share."
+  },
+  {
+    "unique_id": "health_0068_021_d0b83b78a064db97",
+    "title": "The Hospital That Sterilized 500 Poor Women Without Their Knowledge",
+    "hook": "They signed consent for a hernia surgery. They woke up unable to have children.",
+    "virality_score": 96,
+    "curiosity_gap_score": 98,
+    "darkness_score": 99,
+    "educational_value": 80,
+    "estimated_short_retention": 95,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "forced sterilization",
+      "patient abuse",
+      "eugenics",
+      "medical racism",
+      "non-consensual surgery"
+    ],
+    "overlap_check_hash": "d0b83b78a064db97",
+    "why_this_can_go_viral": "Reproductive rights violation plus systemic abuse creates explosive emotional response and sharing."
+  },
+  {
+    "unique_id": "health_0068_023_ecce7ad32847ac83",
+    "title": "The Disease Cover-Up: How Air Fresheners Caused 40% of Childhood Asthma Hospitalizations",
+    "hook": "The fragrance molecules triggered attacks. The company funded studies to prove they were 'safe.'",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 86,
+    "educational_value": 85,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "air freshener asthma",
+      "childhood asthma",
+      "fragrance cover-up",
+      "VOC danger",
+      "household toxin"
+    ],
+    "overlap_check_hash": "ecce7ad32847ac83",
+    "why_this_can_go_viral": "Pervasive household product + child health = viral parental concern and sharing."
+  },
+  {
+    "unique_id": "health_0068_025_a69c6703f5041c30",
+    "title": "The Doctor Who Harvested 500 Bones from Dead Patients — Sold Them to Dentists",
+    "hook": "He removed skulls, femurs, and jaws. The families were never told. The bodies were dumped in trash.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 99,
+    "educational_value": 72,
+    "estimated_short_retention": 93,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "body parts theft",
+      "bone harvesting",
+      "dental implant scandal",
+      "corpse abuse",
+      "organ trafficking"
+    ],
+    "overlap_check_hash": "a69c6703f5041c30",
+    "why_this_can_go_viral": "Gothic horror-level real crime — the violation of the dead combined with profit creates massive shock value."
+  }
+]

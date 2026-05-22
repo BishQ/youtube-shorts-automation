@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "science_0198_002_94d39669edeef286",
+    "title": "The Lab Catastrophe Where a Scientist Drank a Beaker of Brain-Eating Amoebas",
+    "hook": "A researcher accidentally swallowed a culture of Naegleria fowleri, and the cameras kept rolling as the amoeba began dissolving his olfactory bulb from the inside.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 99,
+    "educational_value": 82,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "brain-eating amoeba",
+      "lab accident",
+      "Naegleria fowleri",
+      "fatal mistake",
+      "biological horror"
+    ],
+    "overlap_check_hash": "94d39669edeef286",
+    "why_this_can_go_viral": "The combination of a slow-motion medical horror and a preventable lab error creates unbearable tension and a 'don't eat in the lab' cautionary narrative."
+  },
+  {
+    "unique_id": "science_0198_003_6c43f8b09f26bb01",
+    "title": "The Biolab That Created a 'Mirror Bacteria' That Cannot Be Killed by Any Antibiotic",
+    "hook": "Scientists synthesized a bacterium with a reversed molecular chirality, and when it escaped, every drug in the world stopped working against it.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 85,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "mirror bacteria",
+      "chirality",
+      "antibiotic resistance",
+      "synthetic life",
+      "biohazard"
+    ],
+    "overlap_check_hash": "6c43f8b09f26bb01",
+    "why_this_can_go_viral": "The concept of an unstoppable, unnatural life form taps into pandemic fears and the horror of technology creating something we can't control."
+  },
+  {
+    "unique_id": "science_0198_004_fbee384aa3c9c902",
+    "title": "The Physicist Who Slowed Light to a Dead Stop—and Then Started It Again",
+    "hook": "In 1999, a team at Harvard froze a beam of light inside a cloud of supercooled rubidium, turning it into a solid for a fraction of a second before releasing it intact.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 35,
+    "educational_value": 92,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "frozen light",
+      "slow light",
+      "Bose-Einstein condensate",
+      "Lene Hau",
+      "quantum physics"
+    ],
+    "overlap_check_hash": "fbee384aa3c9c902",
+    "why_this_can_go_viral": "The idea of stopping something as fundamental as light breaks intuitive physics and feels like science fiction becoming real, driving high shareability."
+  },
+  {
+    "unique_id": "science_0198_005_83caf8b6a49d22cc",
+    "title": "The Scientific Fraud Who Faked a 'Telepathy Device' Using a Dead Rat's Brain",
+    "hook": "A respected neuroscientist claimed he could transmit thoughts between rats using a hacked chip—until a graduate student found the rat carcass wired to a radio receiver.",
+    "virality_score": 86,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "telepathy fraud",
+      "dead rat",
+      "neuroscience hoax",
+      "data fabrication",
+      "brain chip"
+    ],
+    "overlap_check_hash": "83caf8b6a49d22cc",
+    "why_this_can_go_viral": "The shocking juxtaposition of a high-tech claim and a macabre, low-tech prop creates a perfect 'how was this not caught?' outrage story."
+  },
+  {
+    "unique_id": "science_0198_006_6f06c3180ea14fbe",
+    "title": "The Chemist Who Made a Polymer That Eats Plastic—and Then Started Eating the Lab",
+    "hook": "An enzyme designed to break down PET bottles mutated overnight, and by morning it had dissolved the floor, the walls, and a technician's shoe.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 83,
+    "educational_value": 84,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "self-eating polymer",
+      "enzyme mutation",
+      "plastic eating",
+      "lab contamination",
+      "runaway reaction"
+    ],
+    "overlap_check_hash": "6f06c3180ea14fbe",
+    "why_this_can_go_viral": "The visual of a material that eats itself and then spreads to everything else is a nightmare scenario that feels like a sci-fi horror movie."
+  },
+  {
+    "unique_id": "science_0198_007_49216c2f6e660a08",
+    "title": "The Neuroscientist Who Found That Your Brain Creates a 'Pain Double' of Your Body",
+    "hook": "When they stimulated a specific spot in the temporoparietal junction, subjects reported a phantom replica of their own body being tortured five feet away.",
+    "virality_score": 93,
+    "curiosity_gap_score": 97,
+    "darkness_score": 96,
+    "educational_value": 88,
+    "estimated_short_retention": 96,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "pain double",
+      "doppelganger",
+      "out of body",
+      "brain stimulation",
+      "phantom body"
+    ],
+    "overlap_check_hash": "49216c2f6e660a08",
+    "why_this_can_go_viral": "The discovery that the brain can split a person's sense of self and inflict pain on a ghost version of them is deeply unsettling and philosophically provocative."
+  },
+  {
+    "unique_id": "science_0198_010_7ff782d89dcca846",
+    "title": "The Lab Catastrophe Where a Virus Got into the Air Vents—and They Sealed the Building",
+    "hook": "A lab in Wuhan accidentally aerosolized a bat coronavirus in 2019, and within hours, the entire facility was locked down with 50 people inside.",
+    "virality_score": 95,
+    "curiosity_gap_score": 89,
+    "darkness_score": 97,
+    "educational_value": 86,
+    "estimated_short_retention": 97,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "lab leak",
+      "coronavirus",
+      "biosafety failure",
+      "aerosol accident",
+      "Wuhan lab"
+    ],
+    "overlap_check_hash": "7ff782d89dcca846",
+    "why_this_can_go_viral": "The direct connection to a global pandemic makes this feel like forbidden history being revealed, with high emotional charge and conspiracy undertones."
+  },
+  {
+    "unique_id": "science_0198_012_42e5399da1b4541b",
+    "title": "The Physicist Who Made a 'Black Hole' That Sucked Sound Out of a Room",
+    "hook": "Using a ring of loudspeakers and a nonlinear crystal, a physicist created an acoustic event horizon—a point where sound waves enter and never come back.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 30,
+    "educational_value": 89,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "sound black hole",
+      "acoustic horizon",
+      "sonic vacuum",
+      "Hawking radiation",
+      "phonon trap"
+    ],
+    "overlap_check_hash": "42e5399da1b4541b",
+    "why_this_can_go_viral": "The phrase 'black hole that sucks sound' is inherently clickable, and the sci-fi feel of a silent zone created in a lab is visually compelling."
+  },
+  {
+    "unique_id": "science_0198_013_056a2556698fba7b",
+    "title": "The Scientific Fraud Who Faked a 'Gravity Shielding' Device—Using a Magnet and a Lie",
+    "hook": "A physicist claimed his spinning superconducting disc reduced weight by 2%, but independent tests showed his 'gravity shield' was just a fridge magnet taped to a scale.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 45,
+    "educational_value": 78,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "gravity shield",
+      "Podkletnov",
+      "scientific hoax",
+      "superconductor",
+      "fake discovery"
+    ],
+    "overlap_check_hash": "056a2556698fba7b",
+    "why_this_can_go_viral": "The audacity of faking anti-gravity with a simple magnet is both hilarious and infuriating, making it a perfect 'exposed' story."
+  },
+  {
+    "unique_id": "science_0198_014_eae3499c23bb83c8",
+    "title": "The Chemist Who Made a Compound That Burns Underwater—and Then Burns Through Water",
+    "hook": "A fluorine-based compound reacted so violently with water that it ignited underwater, creating a flame that continued to burn even as it sank.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 68,
+    "educational_value": 85,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "underwater fire",
+      "fluorine compound",
+      "hypergolic",
+      "chemical reaction",
+      "impossible flame"
+    ],
+    "overlap_check_hash": "eae3499c23bb83c8",
+    "why_this_can_go_viral": "The violation of a basic expectation—that fire needs air—creates a stunning visual paradox that viewers will want to share."
+  },
+  {
+    "unique_id": "science_0198_015_d400657bfb6a5fdb",
+    "title": "The Neuroscientist Who Discovered That Your Brain Can Be Trained to Forget Language",
+    "hook": "By repeatedly applying transcranial magnetic stimulation to the Broca's area, a researcher induced temporary aphasia, making subjects unable to speak or understand words.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 82,
+    "educational_value": 91,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "forgetting language",
+      "TMS",
+      "Broca's area",
+      "aphasia",
+      "brain reprogramming"
+    ],
+    "overlap_check_hash": "d400657bfb6a5fdb",
+    "why_this_can_go_viral": "The idea that a simple magnetic pulse can rob a person of their ability to speak is a terrifying demonstration of how fragile the mind is."
+  },
+  {
+    "unique_id": "science_0198_017_311d22d00381eb12",
+    "title": "The Forbidden Experiment Where They Fused Human and Cow Cells to Make a Chimeric Embryo",
+    "hook": "In a secret lab in 2017, scientists injected human stem cells into a cow embryo, creating a hybrid that grew for 28 days before it was destroyed.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 96,
+    "educational_value": 82,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human-cow chimera",
+      "stem cell hybrid",
+      "embryo experiment",
+      "species crossing",
+      "bioethics nightmare"
+    ],
+    "overlap_check_hash": "311d22d00381eb12",
+    "why_this_can_go_viral": "The creation of a human-animal hybrid is a primal taboo, and the secrecy around it makes the story feel like a leaked classified document."
+  },
+  {
+    "unique_id": "science_0198_018_dfa7e125f2c0d127",
+    "title": "The Lab Catastrophe Where a Cryotank Exploded and Released 30 Years of Frozen Samples",
+    "hook": "A liquid nitrogen tank ruptured at a biobank, spraying 10,000 vials of viruses, bacteria, and human tissues across the lab floor in a frozen slurry.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 79,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "cryotank explosion",
+      "biobank disaster",
+      "frozen virus",
+      "lab contamination",
+      "biohazard spill"
+    ],
+    "overlap_check_hash": "dfa7e125f2c0d127",
+    "why_this_can_go_viral": "The mental image of a floor covered in thawing pathogens is a visceral nightmare, and the '30 years of samples' adds a sense of historical loss."
+  },
+  {
+    "unique_id": "science_0198_019_3ac9f4d49be8f825",
+    "title": "The Biolab That Created a 'Suicide Enzyme' That Kills Only Cancer Cells—Then Attacked Healthy Ones",
+    "hook": "A gene-edited enzyme designed to trigger apoptosis in tumors mutated, and instead of saving patients, it began eating their healthy organs from the inside.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 98,
+    "educational_value": 85,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "suicide enzyme",
+      "gene therapy gone wrong",
+      "apoptosis",
+      "cancer treatment disaster",
+      "mutated therapy"
+    ],
+    "overlap_check_hash": "3ac9f4d49be8f825",
+    "why_this_can_go_viral": "The irony of a 'cure' that becomes a weapon taps into deep medical distrust, and the body-horror description is irresistible."
+  },
+  {
+    "unique_id": "science_0198_020_24124e84b0fb5c96",
+    "title": "The Physicist Who Built a 'Warp Drive' That Didn't Move—But Bent Space Around It",
+    "hook": "Using a ring of lasers and a metamaterial shell, a researcher created a local spacetime distortion that made light travel faster inside the bubble than outside.",
+    "virality_score": 83,
+    "curiosity_gap_score": 92,
+    "darkness_score": 25,
+    "educational_value": 90,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "warp bubble",
+      "Alcubierre drive",
+      "spacetime distortion",
+      "laser ring",
+      "light speed"
+    ],
+    "overlap_check_hash": "24124e84b0fb5c96",
+    "why_this_can_go_viral": "The word 'warp drive' instantly evokes Star Trek, and claiming it was built in a lab bridges sci-fi and reality."
+  },
+  {
+    "unique_id": "science_0198_021_a9c1c684ce2baf6d",
+    "title": "The Scientific Fraud Who Faked a 'Microbiome Transplant' That Turned Mice Into Zombies",
+    "hook": "A researcher claimed feces from depressed patients made mice suicidal, but the data was fabricated—the mice were just drugged with sedatives before the test.",
+    "virality_score": 85,
+    "curiosity_gap_score": 93,
+    "darkness_score": 80,
+    "educational_value": 76,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "fecal transplant fraud",
+      "microbiome hoax",
+      "mouse zombie",
+      "data manipulation",
+      "psychobiotics"
+    ],
+    "overlap_check_hash": "a9c1c684ce2baf6d",
+    "why_this_can_go_viral": "The absurd combination of feces, mind control, and drugged mice creates a darkly comic story that exposes the weakness of peer review."
+  },
+  {
+    "unique_id": "science_0198_022_34f897f11dd9ff67",
+    "title": "The Chemist Who Made a Liquid That Freezes Instantly When Touched—and Then Shatters Like Glass",
+    "hook": "A supercooled solution of sodium acetate was so unstable that a single grain of dust would trigger a chain reaction, turning the entire flask into a solid in seconds.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 20,
+    "educational_value": 86,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "instant freezing",
+      "sodium acetate",
+      "supercooling",
+      "chain reaction",
+      "solidification"
+    ],
+    "overlap_check_hash": "34f897f11dd9ff67",
+    "why_this_can_go_viral": "The dramatic visual of a liquid turning to solid in an instant is hypnotic, and the 'shatters like glass' adds a destructive element."
+  },
+  {
+    "unique_id": "science_0198_023_d2e3837856c25eca",
+    "title": "The Neuroscientist Who Discovered That Your Brain Can 'Delete' Memories of Faces Permanently",
+    "hook": "A targeted dose of a protein synthesis inhibitor injected into the fusiform gyrus made subjects unable to recognize any face—including their own reflection.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 93,
+    "educational_value": 89,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "face blindness",
+      "memory deletion",
+      "fusiform gyrus",
+      "prosopagnosia",
+      "brain injection"
+    ],
+    "overlap_check_hash": "d2e3837856c25eca",
+    "why_this_can_go_viral": "The idea of losing the ability to recognize people, especially oneself, is a profound identity horror that generates intense discussion."
+  },
+  {
+    "unique_id": "science_0198_024_2b6c2df043905f51",
+    "title": "The Quantum Paradox Where a Particle 'Asked' Another Particle to Switch Places—and It Did",
+    "hook": "In a quantum swap test, two entangled particles exchanged their states without any information transfer, as if they silently agreed to trade identities.",
+    "virality_score": 76,
+    "curiosity_gap_score": 86,
+    "darkness_score": 30,
+    "educational_value": 87,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum swap",
+      "particle exchange",
+      "entanglement",
+      "identity trade",
+      "informationless transfer"
+    ],
+    "overlap_check_hash": "2b6c2df043905f51",
+    "why_this_can_go_viral": "The anthropomorphic framing of particles 'asking' to switch places makes a bizarre quantum effect feel like a spy movie plot."
+  },
+  {
+    "unique_id": "science_0198_025_e3bcd3d17e14c80a",
+    "title": "The Forbidden Experiment Where They Kept a Human in a 'Pleasure Machine' for 200 Hours",
+    "hook": "A subject was wired to a device that stimulated their medial forebrain bundle on demand, and he pressed the button 5,000 times an hour until he collapsed from dehydration.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 99,
+    "educational_value": 84,
+    "estimated_short_retention": 98,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "pleasure machine",
+      "brain stimulation",
+      "addiction experiment",
+      "Olds and Milner",
+      "self-stimulation"
+    ],
+    "overlap_check_hash": "e3bcd3d17e14c80a",
+    "why_this_can_go_viral": "The image of a person voluntarily starving to death for pleasure is a deeply disturbing commentary on human nature and addiction."
+  }
+]

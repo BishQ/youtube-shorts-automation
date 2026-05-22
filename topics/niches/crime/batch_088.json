@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "crime_0088_001_fd9b439fde6e106e",
+    "title": "The Unsolved Murder Where the Victim's Hair Was Dyed Post-Mortem",
+    "hook": "A woman is found dead with freshly dyed hair—but witnesses say her natural color never changed. Forensic analysis reveals the killer styled her after death. Why?",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "post-mortem alteration",
+      "hair dye evidence",
+      "strange crime scene",
+      "forensic mystery"
+    ],
+    "overlap_check_hash": "fd9b439fde6e106e",
+    "why_this_can_go_viral": "The visceral, grotesque detail of a killer grooming a victim post-death triggers deep curiosity about motive and ritual."
+  },
+  {
+    "unique_id": "crime_0088_003_ae0e8500f12fd2a3",
+    "title": "The Mob That Used a Bakery's Ovens to Dispose of Witnesses",
+    "hook": "A bakery's daily bread had a secret ingredient—human remains. For years, the mob ran a crematorium disguised as a pizzeria, and no one noticed the smell.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 50,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob disposal",
+      "bakery crematorium",
+      "organized crime",
+      "hidden bodies",
+      "witness protection gone wrong"
+    ],
+    "overlap_check_hash": "ae0e8500f12fd2a3",
+    "why_this_can_go_viral": "The dark irony of baking bread over human ashes creates an unforgettable, shareable shock factor."
+  },
+  {
+    "unique_id": "crime_0088_004_f4c07b9e2b7a852b",
+    "title": "The Serial Killer Who Left Victims' Shadows on Walls as Signatures",
+    "hook": "Each crime scene had a perfect shadow silhouette burned into the wall—like a photograph of death. Detectives later realized the killer used a specific flash technique to mark his kills.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "shadow signature",
+      "crime scene photography",
+      "killer ritual",
+      "forensic psychology"
+    ],
+    "overlap_check_hash": "f4c07b9e2b7a852b",
+    "why_this_can_go_viral": "The visual imagery of a shadow as a signature is haunting and instantly shareable; the psychological angle drives comments."
+  },
+  {
+    "unique_id": "crime_0088_007_064d4acbc4c9168d",
+    "title": "The Cartel That Used a Car Wash to Drown Rivals",
+    "hook": "Behind the soap and foam, a cartel ran a death trap: a pressurized car wash bay that could flood in seconds, drowning victims while customers waited outside.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 45,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "car wash murder",
+      "drowning trap",
+      "narco tactics",
+      "hidden killing"
+    ],
+    "overlap_check_hash": "064d4acbc4c9168d",
+    "why_this_can_go_viral": "The everyday location turned killing machine is terrifying and highly visual—drives up engagement and shock value."
+  },
+  {
+    "unique_id": "crime_0088_008_36849ef9523a9aec",
+    "title": "The White-Collar Criminal Who Stole a Fortune by Faking 9/11 Insurance Claims",
+    "hook": "After the towers fell, one man filed claims for 50 phantom companies—each with fake staff, fake losses, and fake addresses. He collected $200 million before anyone checked.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 77,
+    "educational_value": 60,
+    "estimated_short_retention": 86,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "9/11 fraud",
+      "insurance scam",
+      "white-collar crime",
+      "fake claims",
+      "billion dollar theft"
+    ],
+    "overlap_check_hash": "36849ef9523a9aec",
+    "why_this_can_go_viral": "Tapping into a major historical tragedy with a hidden fraud angle creates moral outrage and deep curiosity."
+  },
+  {
+    "unique_id": "crime_0088_010_02b360f0463705a8",
+    "title": "The Criminal Mastermind Who Built a Fake Airport to Steal Planes",
+    "hook": "He constructed a full-scale runway, control tower, and terminal—in the desert—to trick cargo pilots into landing. Then he emptied their holds and vanished.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 95,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake airport",
+      "plane theft",
+      "desert heist",
+      "criminal mastermind",
+      "aviation fraud"
+    ],
+    "overlap_check_hash": "02b360f0463705a8",
+    "why_this_can_go_viral": "The sheer scale and audacity of building a fake airport is mind-blowing—perfect for high-reach storytelling."
+  },
+  {
+    "unique_id": "crime_0088_012_c3853a92b9e2b55d",
+    "title": "The Serial Killer Who Used a Weather App to Plan Murders",
+    "hook": "He checked wind, rain, and moon phases before every kill—not for comfort, but to ensure his footprints would wash away and his car wouldn't be seen on cameras.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 82,
+    "educational_value": 55,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "weather planning",
+      "forensic countermeasures",
+      "killer psychology",
+      "technology used for murder"
+    ],
+    "overlap_check_hash": "c3853a92b9e2b55d",
+    "why_this_can_go_viral": "Modern tech meets ancient cunning—relatable everyday tool turned sinister, sparking 'should I be worried?' comments."
+  },
+  {
+    "unique_id": "crime_0088_013_9bafb0e9db4d53e5",
+    "title": "The Heist Where Thieves Stole a Museum's Skeleton Collection—Bone by Bone",
+    "hook": "Over six months, thieves replaced 200 human skeletons in a museum's storage with plaster copies. They sold the real bones on the black market to private collectors.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 60,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "skeleton heist",
+      "museum theft",
+      "bone smuggling",
+      "black market",
+      "audacious heist"
+    ],
+    "overlap_check_hash": "9bafb0e9db4d53e5",
+    "why_this_can_go_viral": "Macabre, slow-burn theft of human remains has a 'museum heist meets horror' vibe—high shareability."
+  },
+  {
+    "unique_id": "crime_0088_014_501de47593a3489f",
+    "title": "The Billion-Dollar Fraud That Sold Fake Hurricane Relief—To the Government",
+    "hook": "A company billed FEMA for 10,000 pallets of water that never existed after a hurricane. The government paid $300 million—and no one checked the empty warehouses.",
+    "virality_score": 82,
+    "curiosity_gap_score": 84,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "FEMA fraud",
+      "hurricane relief scam",
+      "government fraud",
+      "billion dollar fraud",
+      "disaster profiteering"
+    ],
+    "overlap_check_hash": "501de47593a3489f",
+    "why_this_can_go_viral": "Outrage at government incompetence and disaster profiteering fuels engagement and shares across political lines."
+  },
+  {
+    "unique_id": "crime_0088_015_44a28551ec9d28b6",
+    "title": "The Cartel That Used a Candy Factory to Smuggle Cocaine in Lollipops",
+    "hook": "Children's lollipops had a secret twist: the stick was hollow, packed with cocaine, and resealed with edible wax. Millions of units were sold internationally before the recipe was cracked.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 55,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel smuggling",
+      "candy factory",
+      "cocaine lollipops",
+      "drug trafficking",
+      "hidden narcotics"
+    ],
+    "overlap_check_hash": "44a28551ec9d28b6",
+    "why_this_can_go_viral": "The innocent facade of candy hiding a deadly drug is visually powerful, shocking, and highly shareable."
+  },
+  {
+    "unique_id": "crime_0088_016_d7611f6ba5f4df88",
+    "title": "The White-Collar Criminal Who Stole a Billion by Selling Fake Movie Royalties",
+    "hook": "He convinced investors he owned the rights to 500 classic films—none of which he had. They paid for 'Mr. Smith Goes to Washington' royalties that belonged to a dead man's estate.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 68,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "movie royalties fraud",
+      "fake IP",
+      "white-collar crime",
+      "Hollywood scam",
+      "billion dollar fraud"
+    ],
+    "overlap_check_hash": "d7611f6ba5f4df88",
+    "why_this_can_go_viral": "The blend of Hollywood glamour and high-finance deception creates a compelling narrative with broad appeal."
+  },
+  {
+    "unique_id": "crime_0088_017_28f46cf93ce73471",
+    "title": "The Unsolved Murder Where the Killer Used a Victim's Own Blood to Paint a Symbol",
+    "hook": "On the wall, a symbol no one recognized—drawn in the victim's blood. Years later, a cryptographer decoded it: a map to a grave that held nothing but a single tooth.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 50,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "blood symbol",
+      "cryptic clue",
+      "cold case",
+      "ritualistic crime"
+    ],
+    "overlap_check_hash": "28f46cf93ce73471",
+    "why_this_can_go_viral": "Mysterious symbols and hidden maps trigger puzzle-solving instincts—users will speculate in comments, boosting retention."
+  },
+  {
+    "unique_id": "crime_0088_018_3a9e5408d16421b6",
+    "title": "The Criminal Mastermind Who Faked an Entire Police Force to Rob a Casino",
+    "hook": "He dressed 20 men as SWAT officers, staged a fake drug bust at a casino, and walked out with $40 million in 'confiscated' cash—while the real police watched from outside.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 80,
+    "educational_value": 60,
+    "estimated_short_retention": 94,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "fake police",
+      "casino heist",
+      "criminal mastermind",
+      "audacious robbery",
+      "SWAT impersonation"
+    ],
+    "overlap_check_hash": "3a9e5408d16421b6",
+    "why_this_can_go_viral": "The 'fake authority' trope is universally compelling—this feels like a movie plot gone real, driving massive shares."
+  },
+  {
+    "unique_id": "crime_0088_019_6fb6185ff5f5d457",
+    "title": "The Mob That Used a Funeral Home's Hearse Fleet to Deliver Drugs",
+    "hook": "No one stops a hearse—especially one carrying a 'body.' The mob used that to move kilos of heroin across state lines, with a cadaver in the back as cover.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 50,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob drug trafficking",
+      "hearse smuggling",
+      "organized crime",
+      "body cover",
+      "narco tactics"
+    ],
+    "overlap_check_hash": "6fb6185ff5f5d457",
+    "why_this_can_go_viral": "The dark humor and taboo-breaking image of a 'dead body' serving as a drug mule is inherently shareable."
+  },
+  {
+    "unique_id": "crime_0088_021_e1b1e47455c87eca",
+    "title": "The Heist Where Thieves Stole a Ship—By Replacing the Crew With Impostors",
+    "hook": "A cargo ship loaded with $50 million in electronics was at sea when a fake crew boarded by helicopter, locked the real sailors below, and sailed the ship to a new port.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 73,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "ship heist",
+      "crew impostors",
+      "maritime theft",
+      "cargo robbery",
+      "helicopter heist"
+    ],
+    "overlap_check_hash": "e1b1e47455c87eca",
+    "why_this_can_go_viral": "High-seas hijacking with a fake crew twist feels like a Bond film—action-packed and highly shareable."
+  },
+  {
+    "unique_id": "crime_0088_023_15d78c88eb829dbc",
+    "title": "The Cartel That Used a Veterinary Clinic to Dismember Victims",
+    "hook": "The clinic had an industrial bone saw for 'large animal surgeries'—but the blood found in the drain was human. The cartel used it to quietly dispose of rivals under the cover of pet care.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 45,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "veterinary clinic",
+      "dismemberment",
+      "body disposal",
+      "narco violence"
+    ],
+    "overlap_check_hash": "15d78c88eb829dbc",
+    "why_this_can_go_viral": "The innocence of a vet clinic turned charnel house is deeply disturbing and visually evocative—high shock shareability."
+  },
+  {
+    "unique_id": "crime_0088_024_845193fea9d39f93",
+    "title": "The White-Collar Criminal Who Stole a Billion by Faking Celebrity Endorsements",
+    "hook": "He forged contracts with dead celebrities—Marilyn Monroe, Elvis, even Tupac—and sold 'exclusive' product lines using their names. The estates didn't find out for years.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 67,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "celebrity endorsement fraud",
+      "fake contracts",
+      "white-collar crime",
+      "estate theft",
+      "billion dollar fraud"
+    ],
+    "overlap_check_hash": "845193fea9d39f93",
+    "why_this_can_go_viral": "Pop culture nostalgia meets fraud—users love 'behind the scenes' of fake celebrity deals, driving shares and engagement."
+  }
+]

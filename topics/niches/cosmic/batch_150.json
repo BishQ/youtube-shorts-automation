@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "cosmic_0150_001_b42ecdf1bdb3bd5d",
+    "title": "The Secret Soviet Program That Found a Living Thing on Venus",
+    "hook": "In 1970, a Soviet probe crashed on Venus and transmitted something that wasn't supposed to be there—a signal that sounded like breathing.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "Soviet",
+      "Venus",
+      "classified",
+      "signal",
+      "alien life"
+    ],
+    "overlap_check_hash": "b42ecdf1bdb3bd5d",
+    "why_this_can_go_viral": "Combines Cold War secrecy with the terrifying possibility of alien life in a hellish environment—high curiosity and darkness."
+  },
+  {
+    "unique_id": "cosmic_0150_002_b64c1a21fe4abbf7",
+    "title": "The Asteroid That's Being Towed by an Invisible Force",
+    "hook": "Astronomers spotted an asteroid accelerating for no reason—something invisible is pulling it, and it's heading toward Earth.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "asteroid",
+      "invisible force",
+      "Earth impact",
+      "anomaly",
+      "dark matter"
+    ],
+    "overlap_check_hash": "b64c1a21fe4abbf7",
+    "why_this_can_go_viral": "Imminent threat with a mysterious invisible cause—taps into fear of the unknown and planetary defense."
+  },
+  {
+    "unique_id": "cosmic_0150_005_0e0ff260beb76a2d",
+    "title": "The Classified Program That Found a Magnetic Wall Around Earth",
+    "hook": "Declassified documents reveal the US detected a giant magnetic barrier surrounding Earth—placed there by something not human.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "magnetic wall",
+      "classified",
+      "Earth shield",
+      "alien tech",
+      "government secrecy"
+    ],
+    "overlap_check_hash": "0e0ff260beb76a2d",
+    "why_this_can_go_viral": "Implies a hidden alien structure around Earth—triggers paranoia and wonder in equal measure."
+  },
+  {
+    "unique_id": "cosmic_0150_006_478cfc40a284332d",
+    "title": "The Dark Matter Stream That's Drilling Through the Planet",
+    "hook": "A river of dark matter is cutting through Earth right now, and it's causing earthquakes in places where they shouldn't happen.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 79,
+    "educational_value": 72,
+    "estimated_short_retention": 78,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter stream",
+      "earthquakes",
+      "Earth interior",
+      "invisible",
+      "anomaly"
+    ],
+    "overlap_check_hash": "478cfc40a284332d",
+    "why_this_can_go_viral": "Connects an abstract concept (dark matter) to a visceral threat (earthquakes)—highly shareable."
+  },
+  {
+    "unique_id": "cosmic_0150_007_a56050d06158aea3",
+    "title": "The Strange Signal That Was a Message from a Dead Sun",
+    "hook": "A repeating signal from deep space turned out to be the death cry of a star swallowed by a black hole—but it was in perfect binary.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 81,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "signal",
+      "binary",
+      "dead star",
+      "black hole",
+      "message"
+    ],
+    "overlap_check_hash": "a56050d06158aea3",
+    "why_this_can_go_viral": "A signal that mimics intelligence from a violent cosmic event—blurs the line between natural and artificial."
+  },
+  {
+    "unique_id": "cosmic_0150_008_1aa77467bb2455fb",
+    "title": "The Rogue Black Hole That's Drifting Toward the Solar System",
+    "hook": "A lone black hole is silently traveling through our galaxy, and its trajectory suggests it will pass through the Oort Cloud in 500 years.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 84,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "stellar dangers",
+    "keywords": [
+      "rogue black hole",
+      "solar system",
+      "threat",
+      "Oort Cloud",
+      "stellar danger"
+    ],
+    "overlap_check_hash": "1aa77467bb2455fb",
+    "why_this_can_go_viral": "A slow-motion apocalypse that's already underway—scales from abstract to personal."
+  },
+  {
+    "unique_id": "cosmic_0150_010_289e6ec2e11fde5f",
+    "title": "The Comet That Contained a Perfectly Preserved Alien Molecule",
+    "hook": "A comet sample returned to Earth held a complex organic molecule that shouldn't exist in nature—and it looks like a code.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "comet",
+      "alien molecule",
+      "organic",
+      "code",
+      "panspermia"
+    ],
+    "overlap_check_hash": "289e6ec2e11fde5f",
+    "why_this_can_go_viral": "Suggests alien engineering in the building blocks of life—bridges chemistry and conspiracy."
+  },
+  {
+    "unique_id": "cosmic_0150_011_ff710d774a93edaf",
+    "title": "The Secret NASA Mission That Found a Hole in the Universe",
+    "hook": "A NASA probe detected a region of space where nothing exists—not even dark matter—and it's growing.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 86,
+    "educational_value": 71,
+    "estimated_short_retention": 91,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "NASA classified",
+      "hole in universe",
+      "void",
+      "growing",
+      "dark matter"
+    ],
+    "overlap_check_hash": "ff710d774a93edaf",
+    "why_this_can_go_viral": "The idea of a literal hole in reality is deeply frightening and incredibly shareable."
+  },
+  {
+    "unique_id": "cosmic_0150_012_7b8b9e1350938c2c",
+    "title": "The Dark Matter Cloud That Swallowed a Galaxy Whole",
+    "hook": "A galaxy was being pulled apart by an invisible cloud of dark matter—and then it just disappeared inside it.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 83,
+    "educational_value": 69,
+    "estimated_short_retention": 83,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter cloud",
+      "galaxy swallowed",
+      "disappeared",
+      "invisible",
+      "cosmic horror"
+    ],
+    "overlap_check_hash": "7b8b9e1350938c2c",
+    "why_this_can_go_viral": "Visually terrifying concept of a galaxy being consumed by nothing—pure cosmic horror."
+  },
+  {
+    "unique_id": "cosmic_0150_013_98055afcff52b5dc",
+    "title": "The Asteroid That Triggered a Global Panic—Then Vanished",
+    "hook": "In 2024, an asteroid the size of a football field was on course to hit Earth—then it just disappeared from radar.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 76,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "asteroid",
+      "vanished",
+      "panic",
+      "2024",
+      "near miss"
+    ],
+    "overlap_check_hash": "98055afcff52b5dc",
+    "why_this_can_go_viral": "Recent and relatable—taps into real-world fear of asteroid impacts with a bizarre twist."
+  },
+  {
+    "unique_id": "cosmic_0150_016_affb15488675537b",
+    "title": "The Fermi Paradox Filter That Is a Cosmic Quarantine",
+    "hook": "What if civilizations aren't silent because they die—but because something is isolating us from the rest of the galaxy?",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 89,
+    "educational_value": 64,
+    "estimated_short_retention": 90,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "Fermi paradox",
+      "quarantine",
+      "isolation",
+      "great filter",
+      "alien silence"
+    ],
+    "overlap_check_hash": "affb15488675537b",
+    "why_this_can_go_viral": "Disturbing and mind-expanding—implies we're in a prison, not a zoo."
+  },
+  {
+    "unique_id": "cosmic_0150_017_d397f8f651ad6c3a",
+    "title": "The Strange Signal That Was a Time Loop from a Dead Civilization",
+    "hook": "A signal from a distant galaxy repeats every 16 days—and it's a perfect loop of a civilization's last broadcast before extinction.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 87,
+    "educational_value": 73,
+    "estimated_short_retention": 88,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "time loop",
+      "signal",
+      "dead civilization",
+      "extinction",
+      "repeat"
+    ],
+    "overlap_check_hash": "d397f8f651ad6c3a",
+    "why_this_can_go_viral": "Combines time-loop mystery with the tragedy of a lost civilization—high emotional impact."
+  },
+  {
+    "unique_id": "cosmic_0150_018_28c71cb3145c6e75",
+    "title": "The Classified CIA Report on a Space Object That Moved Intelligently",
+    "hook": "A declassified CIA document describes an object in orbit that responded to radio commands—from an unknown source.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 85,
+    "educational_value": 62,
+    "estimated_short_retention": 92,
+    "niche_name": "cosmic",
+    "subcategory": "classified space programs",
+    "keywords": [
+      "CIA",
+      "classified",
+      "intelligent object",
+      "orbit",
+      "UFO"
+    ],
+    "overlap_check_hash": "28c71cb3145c6e75",
+    "why_this_can_go_viral": "Official government documentation of something alien—maximizes credibility and conspiracy appeal."
+  },
+  {
+    "unique_id": "cosmic_0150_019_cb8c8a9706cf9297",
+    "title": "The Rogue Planet That Carried a Frozen Ocean with Organisms",
+    "hook": "A planet drifting between stars has an ocean of liquid water trapped under ice—and something is moving beneath it.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 77,
+    "educational_value": 74,
+    "estimated_short_retention": 81,
+    "niche_name": "cosmic",
+    "subcategory": "astronomical anomalies",
+    "keywords": [
+      "rogue planet",
+      "frozen ocean",
+      "organisms",
+      "alien life",
+      "interstellar"
+    ],
+    "overlap_check_hash": "cb8c8a9706cf9297",
+    "why_this_can_go_viral": "The promise of alien life in a hidden ocean is irresistible and cinematic."
+  },
+  {
+    "unique_id": "cosmic_0150_020_ffc3b965d9073685",
+    "title": "The Dark Matter Particle That Caused a City's Power Grid to Fail",
+    "hook": "A massive dark matter interaction knocked out power across a European city—and governments covered it up as a solar flare.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "cosmic",
+    "subcategory": "dark matter mysteries",
+    "keywords": [
+      "dark matter",
+      "power grid",
+      "cover up",
+      "city blackout",
+      "solar flare"
+    ],
+    "overlap_check_hash": "ffc3b965d9073685",
+    "why_this_can_go_viral": "Combines real-world infrastructure collapse with a hidden cosmic cause—fear and mystery."
+  },
+  {
+    "unique_id": "cosmic_0150_023_fd08e2312ad7068c",
+    "title": "The Secret Signal That NASA Received from Inside Jupiter",
+    "hook": "A radio burst originating from deep within Jupiter's atmosphere matched an encrypted military code—and NASA never explained it.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 81,
+    "educational_value": 63,
+    "estimated_short_retention": 91,
+    "niche_name": "cosmic",
+    "subcategory": "strange cosmic signals",
+    "keywords": [
+      "Jupiter",
+      "NASA",
+      "encrypted signal",
+      "military code",
+      "cover up"
+    ],
+    "overlap_check_hash": "fd08e2312ad7068c",
+    "why_this_can_go_viral": "Implies something in Jupiter is broadcasting in human military code—unsettling and mysterious."
+  },
+  {
+    "unique_id": "cosmic_0150_024_7860c03ef886af50",
+    "title": "The Fermi Paradox Solution That Is a Cosmic Censorship",
+    "hook": "A simulation suggests that all advanced civilizations eventually discover a truth so terrible they stop communicating—and we're next.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 91,
+    "educational_value": 67,
+    "estimated_short_retention": 89,
+    "niche_name": "cosmic",
+    "subcategory": "fermi paradox",
+    "keywords": [
+      "Fermi paradox",
+      "censorship",
+      "terrible truth",
+      "silence",
+      "simulation"
+    ],
+    "overlap_check_hash": "7860c03ef886af50",
+    "why_this_can_go_viral": "The darkest possible resolution to the Fermi paradox—pure existential dread."
+  },
+  {
+    "unique_id": "cosmic_0150_025_693456cea89f51eb",
+    "title": "The Asteroid That Left a Trail of Black Glass Across the Tundra",
+    "hook": "In Siberia, an asteroid exploded and left a 400-mile-long path of black glass—and the pattern spells something in an unknown language.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 79,
+    "educational_value": 69,
+    "estimated_short_retention": 84,
+    "niche_name": "cosmic",
+    "subcategory": "space threats to Earth",
+    "keywords": [
+      "asteroid",
+      "Siberia",
+      "black glass",
+      "pattern",
+      "language"
+    ],
+    "overlap_check_hash": "693456cea89f51eb",
+    "why_this_can_go_viral": "Bizarre physical aftermath that looks like a message—high visual impact and mystery."
+  }
+]

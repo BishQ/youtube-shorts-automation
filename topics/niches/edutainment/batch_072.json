@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "edutainment_0072_002_0c433e07bd1587c6",
+    "title": "The Earthquake That Made the Sun Shake",
+    "hook": "A 2011 earthquake in Japan was so powerful it made the Sun vibrate — NASA recorded it.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 60,
+    "educational_value": 85,
+    "estimated_short_retention": 92,
+    "niche_name": "edutainment",
+    "subcategory": "reality-breaking statistics",
+    "keywords": [
+      "earthquake",
+      "sun",
+      "vibration",
+      "NASA",
+      "seismic waves"
+    ],
+    "overlap_check_hash": "0c433e07bd1587c6",
+    "why_this_can_go_viral": "The idea that an event on Earth could affect the Sun is mind-bending and triggers a 'wait, what?' reaction."
+  },
+  {
+    "unique_id": "edutainment_0072_003_2c2783f95dbf690e",
+    "title": "The Hidden Sound That Makes Plants Grow Faster",
+    "hook": "Scientists discovered a specific frequency that accelerates plant growth by 30% — but no one knows why.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 40,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "edutainment",
+    "subcategory": "strange science facts",
+    "keywords": [
+      "plants",
+      "sound frequency",
+      "growth",
+      "experiment",
+      "acoustic stimulation"
+    ],
+    "overlap_check_hash": "2c2783f95dbf690e",
+    "why_this_can_go_viral": "Viewers love hidden hacks about nature, and the mystery of an unknown mechanism creates strong curiosity gap."
+  },
+  {
+    "unique_id": "edutainment_0072_004_03ff6cd09c379a55",
+    "title": "The Secret Code Hidden in Every New York Subway Map",
+    "hook": "The NYC subway map contains a hidden code that reveals secret stations — and possibly government tunnels.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "subway",
+      "NYC",
+      "hidden code",
+      "secret stations",
+      "government tunnels"
+    ],
+    "overlap_check_hash": "03ff6cd09c379a55",
+    "why_this_can_go_viral": "Treasure hunt vibes plus urban conspiracy makes viewers feel like they're being let in on a secret."
+  },
+  {
+    "unique_id": "edutainment_0072_005_66b39511442352e0",
+    "title": "The Woman Who Couldn't Stop Feeling Pain — 24/7",
+    "hook": "A rare genetic mutation made one woman feel constant, excruciating pain — even from a gentle breeze.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "pain",
+      "genetic mutation",
+      "rare condition",
+      "hyperalgesia",
+      "medical mystery"
+    ],
+    "overlap_check_hash": "66b39511442352e0",
+    "why_this_can_go_viral": "Extreme human suffering combined with medical anomaly is inherently clickable and empathy-driven."
+  },
+  {
+    "unique_id": "edutainment_0072_006_0b439f1db2c8b2de",
+    "title": "The Experiment That Made People Lie — Without Knowing",
+    "hook": "Psychologists tricked participants into lying to strangers — and their brains rewired in real time.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "edutainment",
+    "subcategory": "strange science facts",
+    "keywords": [
+      "lying",
+      "brain",
+      "psychology",
+      "experiment",
+      "neuroplasticity"
+    ],
+    "overlap_check_hash": "0b439f1db2c8b2de",
+    "why_this_can_go_viral": "The idea of being manipulated into lying without awareness is unsettling and highly shareable."
+  },
+  {
+    "unique_id": "edutainment_0072_007_7b24eb872d6d8a55",
+    "title": "The Hidden Network of Caves That Connect Continents",
+    "hook": "An underground cave system stretches from Europe to Africa — and no one knows how far it really goes.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 65,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "caves",
+      "underground",
+      "Europe",
+      "Africa",
+      "connected"
+    ],
+    "overlap_check_hash": "7b24eb872d6d8a55",
+    "why_this_can_go_viral": "Massive hidden infrastructure beneath our feet sparks awe and a sense of discovery."
+  },
+  {
+    "unique_id": "edutainment_0072_008_4bd85400ecf0080c",
+    "title": "The Secret Satellite That Can Read Your Mail from Space",
+    "hook": "A classified satellite can photograph documents on your desk from 400 miles up — with perfect clarity.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 91,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "satellite",
+      "spy",
+      "surveillance",
+      "classified",
+      "photography"
+    ],
+    "overlap_check_hash": "4bd85400ecf0080c",
+    "why_this_can_go_viral": "Paranoia-inducing technology that feels like sci-fi but is real — perfect for the 'forbidden knowledge' vibe."
+  },
+  {
+    "unique_id": "edutainment_0072_009_4c120fc65cd5a180",
+    "title": "The Island Where Time Runs Backward",
+    "hook": "On a remote island in the Pacific, the days are 26 hours long — and scientists can't explain why.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 55,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "edutainment",
+    "subcategory": "counterintuitive discoveries",
+    "keywords": [
+      "island",
+      "time",
+      "longer day",
+      "Pacific",
+      "mystery"
+    ],
+    "overlap_check_hash": "4c120fc65cd5a180",
+    "why_this_can_go_viral": "Time anomalies are universally fascinating; the idea of a place where clocks don't match reality hooks viewers."
+  },
+  {
+    "unique_id": "edutainment_0072_010_51fecb352bcf8540",
+    "title": "The Experiment That Made a City Forced to Forget Its Past",
+    "hook": "In a secret psychological experiment, an entire town was convinced their own history never happened.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 92,
+    "educational_value": 82,
+    "estimated_short_retention": 93,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "experiment",
+      "town",
+      "memory",
+      "psychology",
+      "manipulation"
+    ],
+    "overlap_check_hash": "51fecb352bcf8540",
+    "why_this_can_go_viral": "Collective memory manipulation is deeply unsettling and taps into fears of control and identity loss."
+  },
+  {
+    "unique_id": "edutainment_0072_013_e2dfc34eab933bd0",
+    "title": "The Secret Government Lab That Studies Alien Microbes",
+    "hook": "A classified facility in the desert grows microorganisms from meteorites — and some are alive.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 94,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "alien",
+      "microbes",
+      "government",
+      "lab",
+      "meteorite"
+    ],
+    "overlap_check_hash": "e2dfc34eab933bd0",
+    "why_this_can_go_viral": "Aliens plus secrecy plus real science — a perfect storm for viral curiosity."
+  },
+  {
+    "unique_id": "edutainment_0072_014_61a427c19c3dd272",
+    "title": "The Experiment That Made a Virus Evolve in Days",
+    "hook": "In a petri dish, scientists watched a virus learn to kill immune cells in just 72 hours.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "edutainment",
+    "subcategory": "counterintuitive discoveries",
+    "keywords": [
+      "virus",
+      "evolution",
+      "experiment",
+      "immune system",
+      "fast"
+    ],
+    "overlap_check_hash": "61a427c19c3dd272",
+    "why_this_can_go_viral": "Rapid evolution is terrifying and fascinating; viewers will imagine worst-case scenarios."
+  },
+  {
+    "unique_id": "edutainment_0072_015_9944ce05a995d2ae",
+    "title": "The Hidden Camera That Watches You From Inside Your TV",
+    "hook": "Smart TVs have built-in cameras that can activate remotely — and no law stops them from recording you.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 82,
+    "estimated_short_retention": 90,
+    "niche_name": "edutainment",
+    "subcategory": "secret mechanisms of the world",
+    "keywords": [
+      "smart TV",
+      "camera",
+      "surveillance",
+      "privacy",
+      "remote activation"
+    ],
+    "overlap_check_hash": "9944ce05a995d2ae",
+    "why_this_can_go_viral": "Privacy violation is a hot-button issue, and the idea of your TV spying on you is instantly relatable."
+  },
+  {
+    "unique_id": "edutainment_0072_016_eaeac514f3528e33",
+    "title": "The Secret Ocean Current That Moves Plastic Across the World",
+    "hook": "A hidden underwater conveyor belt carries plastic from the Pacific to the Arctic — creating a new continent of trash.",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 72,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "ocean current",
+      "plastic",
+      "Arctic",
+      "pollution",
+      "gyre"
+    ],
+    "overlap_check_hash": "eaeac514f3528e33",
+    "why_this_can_go_viral": "Environmental horror story with a hidden mechanism — combines guilt and curiosity."
+  },
+  {
+    "unique_id": "edutainment_0072_017_16e1ec14258b960c",
+    "title": "The Man Who Couldn't Stop Counting — Everything",
+    "hook": "A rare condition forced a man to count every letter, every step, every breath — for 30 years.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "counting",
+      "OCD",
+      "rare condition",
+      "compulsion",
+      "mental health"
+    ],
+    "overlap_check_hash": "16e1ec14258b960c",
+    "why_this_can_go_viral": "Extreme mental states fascinate viewers, especially when they disrupt everyday life."
+  },
+  {
+    "unique_id": "edutainment_0072_019_490e4771fbaa4510",
+    "title": "The Hidden Frequency That Makes Your Phone Listen to You",
+    "hook": "Advertisers use an inaudible ultrasonic signal to trigger your mic — without your permission.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 90,
+    "educational_value": 85,
+    "estimated_short_retention": 92,
+    "niche_name": "edutainment",
+    "subcategory": "secret mechanisms of the world",
+    "keywords": [
+      "ultrasonic",
+      "phone",
+      "listening",
+      "advertising",
+      "surveillance"
+    ],
+    "overlap_check_hash": "490e4771fbaa4510",
+    "why_this_can_go_viral": "Paranoia about phones listening is widespread; this confirms it with a technical twist."
+  },
+  {
+    "unique_id": "edutainment_0072_020_861d3fb3c4cf2593",
+    "title": "The Island Where Every Animal Is a Giant",
+    "hook": "On a remote island, rats are the size of cats, and spiders bigger than your hand — evolution went wild.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 60,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "edutainment",
+    "subcategory": "strange science facts",
+    "keywords": [
+      "giant animals",
+      "island",
+      "evolution",
+      "size",
+      "ecology"
+    ],
+    "overlap_check_hash": "861d3fb3c4cf2593",
+    "why_this_can_go_viral": "Giant animals trigger both awe and fear; viewers will imagine themselves on the island."
+  },
+  {
+    "unique_id": "edutainment_0072_022_8e96e3b760ca1b7d",
+    "title": "The Experiment That Made a Computer Predict Your Thoughts",
+    "hook": "An AI learned what you were going to think next — before you even knew it yourself.",
+    "virality_score": 90,
+    "curiosity_gap_score": 96,
+    "darkness_score": 85,
+    "educational_value": 82,
+    "estimated_short_retention": 93,
+    "niche_name": "edutainment",
+    "subcategory": "counterintuitive discoveries",
+    "keywords": [
+      "AI",
+      "thought prediction",
+      "experiment",
+      "brain",
+      "future"
+    ],
+    "overlap_check_hash": "8e96e3b760ca1b7d",
+    "why_this_can_go_viral": "Mind-reading AI feels like science fiction; the fact it's real is terrifying and shareable."
+  },
+  {
+    "unique_id": "edutainment_0072_024_74b5bbf11174ef85",
+    "title": "The Secret Algorithm That Decides If You Go to Prison",
+    "hook": "A hidden AI system rates your risk of committing a crime — and judges use it to set your sentence.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 85,
+    "estimated_short_retention": 91,
+    "niche_name": "edutainment",
+    "subcategory": "secret mechanisms of the world",
+    "keywords": [
+      "AI",
+      "prison",
+      "sentencing",
+      "algorithm",
+      "bias"
+    ],
+    "overlap_check_hash": "74b5bbf11174ef85",
+    "why_this_can_go_viral": "Injustice combined with hidden tech is a powerful emotional trigger; viewers will feel outraged."
+  },
+  {
+    "unique_id": "edutainment_0072_025_66f0f4e9d0382e58",
+    "title": "The Experiment That Made a City Sleepwalk — Literally",
+    "hook": "A mass sleepwalking event in a small town had hundreds of people walking in the streets — at 3 AM.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 78,
+    "educational_value": 74,
+    "estimated_short_retention": 89,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "sleepwalking",
+      "mass event",
+      "town",
+      "night",
+      "mystery"
+    ],
+    "overlap_check_hash": "66f0f4e9d0382e58",
+    "why_this_can_go_viral": "Mass hysteria stories are rare and eerie; the image of a town sleepwalking is unforgettable."
+  }
+]

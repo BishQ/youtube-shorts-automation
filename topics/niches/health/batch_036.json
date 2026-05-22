@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "health_0036_001_bb4d8d8869a958cd",
+    "title": "The FDA-Approved Vaccine That Gave Children Polio",
+    "hook": "In 1955, a batch of polio vaccine contaminated with live virus was approved for distribution, paralyzing 40,000 children before anyone stopped it.",
+    "virality_score": 92,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "polio",
+      "vaccine disaster",
+      "Cutter incident",
+      "FDA failure",
+      "paralyzed children"
+    ],
+    "overlap_check_hash": "bb4d8d8869a958cd",
+    "why_this_can_go_viral": "Exploits the raw fear that a government-approved vaccine caused the very disease it was meant to prevent — a dark irony that triggers visceral distrust."
+  },
+  {
+    "unique_id": "health_0036_003_49c0f0f5f7bec692",
+    "title": "The Dentist Who Filled Healthy Teeth for Insurance Money",
+    "hook": "One Texas dentist was caught drilling and filling perfectly healthy teeth on children — billing Medicaid over $2 million before anyone checked.",
+    "virality_score": 88,
+    "curiosity_gap_score": 84,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "dentist fraud",
+      "Medicaid scam",
+      "healthy teeth drilled",
+      "insurance abuse",
+      "child victims"
+    ],
+    "overlap_check_hash": "49c0f0f5f7bec692",
+    "why_this_can_go_viral": "Outrage over systemic greed targeting innocent children triggers moral anger and an immediate impulse to share as a warning."
+  },
+  {
+    "unique_id": "health_0036_004_8a24e5b4300014db",
+    "title": "The Company That Sold 'Vitamin Drops' Made from Antifreeze",
+    "hook": "A trusted brand of baby vitamins was secretly formulated with industrial antifreeze — and the company knew for months before babies started dying.",
+    "virality_score": 91,
+    "curiosity_gap_score": 87,
+    "darkness_score": 93,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "baby vitamins",
+      "antifreeze poisoning",
+      "product cover-up",
+      "infant deaths",
+      "corporate cover-up"
+    ],
+    "overlap_check_hash": "8a24e5b4300014db",
+    "why_this_can_go_viral": "The betrayal of a product meant to nurture babies into a poison weaponizes maternal instinct and triggers viral outrage."
+  },
+  {
+    "unique_id": "health_0036_005_bc984df52319a4b1",
+    "title": "The Doctor Who Injected Patients with Cow Blood to 'Cure' Diabetes",
+    "hook": "A 1920s doctor believed cow blood could reset the pancreas — so he pumped it directly into diabetic patients, killing half of them.",
+    "virality_score": 85,
+    "curiosity_gap_score": 82,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "cow blood",
+      "diabetes cure",
+      "quack doctor",
+      "deadly experiment",
+      "historical horror"
+    ],
+    "overlap_check_hash": "bc984df52319a4b1",
+    "why_this_can_go_viral": "Bizarre, grotesque, and historically true — the absurdity and horror of the method makes it clickable and shareable."
+  },
+  {
+    "unique_id": "health_0036_007_69a6bc9eac46d2e8",
+    "title": "The Pharmaceutical Giant That Sold 'Pain Pills' Filled with Rat Poison",
+    "hook": "A major drug company repackaged industrial rat poison as a painkiller — and doctors prescribed it to millions before the bodies piled up.",
+    "virality_score": 90,
+    "curiosity_gap_score": 88,
+    "darkness_score": 92,
+    "educational_value": 76,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "rat poison",
+      "painkiller scandal",
+      "drug contamination",
+      "pharmaceutical fraud",
+      "mass poisoning"
+    ],
+    "overlap_check_hash": "69a6bc9eac46d2e8",
+    "why_this_can_go_viral": "The shocking substitution of a deadly poison for a healing drug creates a visceral sense of betrayal that drives shares."
+  },
+  {
+    "unique_id": "health_0036_009_1dfd68c838c0db00",
+    "title": "The Company That Sold 'Herbal Tea' That Caused Liver Failure in Babies",
+    "hook": "A popular organic herbal tea for colicky infants was secretly laced with a liver-toxic fungus — and parents had no idea until their babies turned yellow.",
+    "virality_score": 88,
+    "curiosity_gap_score": 85,
+    "darkness_score": 90,
+    "educational_value": 74,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "herbal tea",
+      "baby liver failure",
+      "aflatoxin",
+      "organic poison",
+      "infant death"
+    ],
+    "overlap_check_hash": "1dfd68c838c0db00",
+    "why_this_can_go_viral": "Combining 'organic' trust with baby deaths creates a traumatic contrast that spreads rapidly among concerned parents."
+  },
+  {
+    "unique_id": "health_0036_010_a4782653645bb0b5",
+    "title": "The Doctor Who Deliberately Infected Cancer Patients with Gangrene",
+    "hook": "A respected surgeon injected gangrene bacteria into tumors, believing infection would eat the cancer — patients died of sepsis instead.",
+    "virality_score": 89,
+    "curiosity_gap_score": 86,
+    "darkness_score": 91,
+    "educational_value": 77,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "gangrene injection",
+      "cancer experiment",
+      "bacterial therapy",
+      "deadly doctor",
+      "sepsis death"
+    ],
+    "overlap_check_hash": "a4782653645bb0b5",
+    "why_this_can_go_viral": "The grotesque logic of fighting one deadly disease with another creates a horrifying narrative that compels clicks and shares."
+  },
+  {
+    "unique_id": "health_0036_011_8932d103ff2e591f",
+    "title": "The FDA-Approved Acne Cream That Melted Patients' Faces",
+    "hook": "A prescription acne cream was proven to cause chemical burns that ate through skin — yet the FDA left it on shelves for seven years.",
+    "virality_score": 87,
+    "curiosity_gap_score": 84,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "acne cream burns",
+      "FDA negligence",
+      "chemical burn",
+      "skin melting",
+      "dangerous drug"
+    ],
+    "overlap_check_hash": "8932d103ff2e591f",
+    "why_this_can_go_viral": "Cosmetic desperation turned into facial destruction is a nightmare visual that triggers fear and disgust, driving engagement."
+  },
+  {
+    "unique_id": "health_0036_012_e2aac68411a7eb9c",
+    "title": "The Hospital That Sold Black Market Organs from Living Homeless People",
+    "hook": "A network of doctors drugged homeless men, removed their kidneys without consent, and sold them to wealthy transplant patients for millions.",
+    "virality_score": 95,
+    "curiosity_gap_score": 92,
+    "darkness_score": 97,
+    "educational_value": 72,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "organ trafficking",
+      "homeless victims",
+      "black market kidneys",
+      "doctor criminal",
+      "transplant scandal"
+    ],
+    "overlap_check_hash": "e2aac68411a7eb9c",
+    "why_this_can_go_viral": "The exploitation of the most vulnerable for profit by those sworn to heal is a story of pure evil that demands to be seen."
+  },
+  {
+    "unique_id": "health_0036_013_17d1fa3e78661b64",
+    "title": "The Pharmaceutical Company That Sold 'Sleeping Pills' That Made People Sleepwalk to Their Deaths",
+    "hook": "Ambien was marketed as safe, but it sent users driving cars, cooking meals, and jumping off roofs — all while completely unconscious.",
+    "virality_score": 86,
+    "curiosity_gap_score": 82,
+    "darkness_score": 84,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "Ambien",
+      "sleepwalking deaths",
+      "zombie drug",
+      "FDA oversight",
+      "sleeping pill danger"
+    ],
+    "overlap_check_hash": "17d1fa3e78661b64",
+    "why_this_can_go_viral": "The surreal horror of doing fatal activities while 'asleep' taps into primal fear of losing control of one's own body."
+  },
+  {
+    "unique_id": "health_0036_014_5d2b442c4b5de8fc",
+    "title": "The Disease Cover-Up: They Knew the Fabric Softener Was Causing Asthma in Children",
+    "hook": "Chemical compounds in fabric softener release neurotoxic fumes linked to severe asthma in kids — and the industry paid to suppress the studies.",
+    "virality_score": 85,
+    "curiosity_gap_score": 81,
+    "darkness_score": 80,
+    "educational_value": 82,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "fabric softener",
+      "asthma cover-up",
+      "household toxin",
+      "industry suppression",
+      "child health"
+    ],
+    "overlap_check_hash": "5d2b442c4b5de8fc",
+    "why_this_can_go_viral": "A product in nearly every home linked to a chronic childhood disease makes viewers question everyday choices and share warnings."
+  },
+  {
+    "unique_id": "health_0036_015_52fb81f087d8a986",
+    "title": "The Doctor Who Stitched Patients' Eyelids Shut to 'Cure' Insomnia",
+    "hook": "A Victorian-era surgeon believed total darkness would reset the brain — so he sewed patients' eyes closed for weeks, leaving some permanently blind.",
+    "virality_score": 84,
+    "curiosity_gap_score": 80,
+    "darkness_score": 87,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "eyelid sewing",
+      "insomnia cure",
+      "Victorian medicine",
+      "blindness",
+      "medical torture"
+    ],
+    "overlap_check_hash": "52fb81f087d8a986",
+    "why_this_can_go_viral": "The sheer brutality and absurdity of the method makes it irresistible as a dark historical curiosity."
+  },
+  {
+    "unique_id": "health_0036_017_bc1ce066cde3a1e9",
+    "title": "The Hospital That Refused to Perform Surgery on a Patient With Insurance — and Let Him Die",
+    "hook": "A man with a treatable aneurysm was denied emergency surgery because his out-of-state insurance wasn't accepted — he coded in the waiting room.",
+    "virality_score": 91,
+    "curiosity_gap_score": 86,
+    "darkness_score": 93,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "insurance denial",
+      "patient death",
+      "hospital greed",
+      "emergency refusal",
+      "healthcare system failure"
+    ],
+    "overlap_check_hash": "bc1ce066cde3a1e9",
+    "why_this_can_go_viral": "A preventable death over paperwork triggers raw anger at a system that prioritizes profit over life — a deeply relatable fear."
+  },
+  {
+    "unique_id": "health_0036_018_541e6471c52fb9c5",
+    "title": "The Pharmaceutical Company That Sold 'Sleeping Pills' to Children as Young as Two",
+    "hook": "A major drug company marketed antihistamines as 'safe sleep aids' for toddlers — until doctors found the pills were causing seizures and heart failure.",
+    "virality_score": 88,
+    "curiosity_gap_score": 85,
+    "darkness_score": 90,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "sleep pills toddlers",
+      "child seizures",
+      "drug marketing scandal",
+      "infant heart failure",
+      "pharma greed"
+    ],
+    "overlap_check_hash": "541e6471c52fb9c5",
+    "why_this_can_go_viral": "Drugging toddlers for profit is a visceral, rage-inducing story that spreads instantly among parents and caregivers."
+  },
+  {
+    "unique_id": "health_0036_019_1581819dfb5135cd",
+    "title": "The Experiment Where Doctors Deliberately Gave Patients Cholera Through Drinking Water",
+    "hook": "In 1954, a researcher secretly spiked the water supply of an entire mental institution with cholera — to 'study transmission.'",
+    "virality_score": 90,
+    "curiosity_gap_score": 88,
+    "darkness_score": 94,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "cholera experiment",
+      "mental institution",
+      "water poisoning",
+      "non-consent",
+      "medical atrocity"
+    ],
+    "overlap_check_hash": "1581819dfb5135cd",
+    "why_this_can_go_viral": "The casual poisoning of helpless patients under the guise of science echoes the darkest chapters of medical history and demands outrage."
+  },
+  {
+    "unique_id": "health_0036_021_edcafcbef0b4e2f3",
+    "title": "The Skincare Company That Sold 'Sunscreen' That Gave People Third-Degree Burns",
+    "hook": "A popular sunscreen brand had a manufacturing error that actually intensified UV rays — users developed blisters and skin peeling within hours.",
+    "virality_score": 85,
+    "curiosity_gap_score": 81,
+    "darkness_score": 82,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "sunscreen burns",
+      "product failure",
+      "skin blisters",
+      "manufacturing error",
+      "summer danger"
+    ],
+    "overlap_check_hash": "edcafcbef0b4e2f3",
+    "why_this_can_go_viral": "A product meant to protect causing severe harm is a shocking inversion that resonates with anyone who's used sunscreen."
+  },
+  {
+    "unique_id": "health_0036_022_1a14cff61c769f6f",
+    "title": "The Hospital That Implanted Fetal Tissue Into Patients Without Consent",
+    "hook": "A pioneering surgeon secretly implanted aborted fetal tissue into women's brains to 'treat' Parkinson's — and never told them what it was.",
+    "virality_score": 91,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 71,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "fetal tissue implant",
+      "brain surgery",
+      "non-consent experiment",
+      "Parkinson's scandal",
+      "medical horror"
+    ],
+    "overlap_check_hash": "1a14cff61c769f6f",
+    "why_this_can_go_viral": "The combination of brain surgery, fetal tissue, and deception creates a morally charged, scientifically grotesque story that compels sharing."
+  },
+  {
+    "unique_id": "health_0036_023_20006157664f12e8",
+    "title": "The Pharmaceutical Giant That Added Opioids to Cough Syrup — and Knew It Was Addictive",
+    "hook": "In the 1950s, a drug company spiked children's cough syrup with heroin-like opioids and marketed it as 'non-addictive' — creating a generation of addicts.",
+    "virality_score": 89,
+    "curiosity_gap_score": 86,
+    "darkness_score": 91,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "opioid cough syrup",
+      "children addiction",
+      "heroin syrup",
+      "addictive medicine",
+      "pharma conspiracy"
+    ],
+    "overlap_check_hash": "20006157664f12e8",
+    "why_this_can_go_viral": "The idea that a medicine for children was secretly fueling the opioid crisis taps into generational trauma and systemic anger."
+  },
+  {
+    "unique_id": "health_0036_025_8a76d45362a2ed89",
+    "title": "The Disease Cover-Up: They Knew the Baby Wipes Were Causing Chemical Burns",
+    "hook": "Parents reported their babies screaming in pain after using a popular brand of wipes — the chemical preservative was eating through infant skin.",
+    "virality_score": 87,
+    "curiosity_gap_score": 83,
+    "darkness_score": 86,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "baby wipes",
+      "chemical burns",
+      "infant skin damage",
+      "methylisothiazolinone",
+      "product cover-up"
+    ],
+    "overlap_check_hash": "8a76d45362a2ed89",
+    "why_this_can_go_viral": "A product used daily by parents causing visible harm to babies is a viral trigger for parental guilt, anger, and warning sharing."
+  }
+]

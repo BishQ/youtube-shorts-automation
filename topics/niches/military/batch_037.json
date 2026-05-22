@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "military_0037_002_9b7959da583fe245",
+    "title": "The Psychological Op That Used Baby Cries to Guide Bombs",
+    "hook": "Specialists recorded infant distress sounds and broadcast them from drones to pinpoint enemy hideouts.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 94,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "baby cries",
+      "drone warfare",
+      "psychological warfare",
+      "enemy hideouts",
+      "sound weapon"
+    ],
+    "overlap_check_hash": "9b7959da583fe245",
+    "why_this_can_go_viral": "Extreme moral ambiguity and visceral audio imagery guarantee outrage and shares."
+  },
+  {
+    "unique_id": "military_0037_003_02ae1639c8d520b7",
+    "title": "The Covert Mission That Used a Fake Meteorite to Drop Spies",
+    "hook": "A burning rock fell from the sky, but inside was a human payload trained to blend into the crash zone.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "military",
+    "subcategory": "covert missions",
+    "keywords": [
+      "fake meteorite",
+      "spy drop",
+      "covert insertion",
+      "crash zone",
+      "human payload"
+    ],
+    "overlap_check_hash": "02ae1639c8d520b7",
+    "why_this_can_go_viral": "The idea of a 'Trojan meteor' is unbelievable and instantly shareable."
+  },
+  {
+    "unique_id": "military_0037_004_483b127fbc838b2d",
+    "title": "The Soldier Experiments Where They Were Dosed With Fear Hormones",
+    "hook": "Scientists extracted adrenaline from terrified prisoners and injected it into soldiers to see if panic is contagious.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 97,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "military",
+    "subcategory": "soldier experiments",
+    "keywords": [
+      "fear hormones",
+      "adrenaline",
+      "soldier experiments",
+      "panic",
+      "contagious fear"
+    ],
+    "overlap_check_hash": "483b127fbc838b2d",
+    "why_this_can_go_viral": "Taps into primal fear of losing control and revulsion at human experimentation."
+  },
+  {
+    "unique_id": "military_0037_005_8566f2fc34b25ae9",
+    "title": "The Secret Weapons Program That Built a Knife That Explodes Inside the Body",
+    "hook": "Designed for silent kills, this blade shattered on impact, leaving fragments that detonated minutes later.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 93,
+    "educational_value": 68,
+    "estimated_short_retention": 87,
+    "niche_name": "military",
+    "subcategory": "secret weapons programs",
+    "keywords": [
+      "exploding knife",
+      "silent kill",
+      "body fragments",
+      "undetectable weapon",
+      "blade"
+    ],
+    "overlap_check_hash": "8566f2fc34b25ae9",
+    "why_this_can_go_viral": "Gory, shocking weapon concept that feels like sci-fi horror made real."
+  },
+  {
+    "unique_id": "military_0037_007_bb258c03ec7bce4b",
+    "title": "The Classified Operation That Used a Fake Island to Sink Ships",
+    "hook": "Engineers built a floating island made of explosives and metal, then lured enemy vessels into its 'harbor.'",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "military",
+    "subcategory": "classified operations",
+    "keywords": [
+      "fake island",
+      "explosive trap",
+      "sinking ships",
+      "floating island",
+      "naval deception"
+    ],
+    "overlap_check_hash": "bb258c03ec7bce4b",
+    "why_this_can_go_viral": "Visual spectacle of a fake landmass hiding a bomb—easy to animate and share."
+  },
+  {
+    "unique_id": "military_0037_008_0b8baac68f617ca4",
+    "title": "The Black Budget Program That Built a Radio Powered by Human Organs",
+    "hook": "To keep comms running in the field, scientists created a device that drew energy from a soldier's own heart.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 66,
+    "estimated_short_retention": 89,
+    "niche_name": "military",
+    "subcategory": "black budget programs",
+    "keywords": [
+      "human organ radio",
+      "body power",
+      "field comms",
+      "bio-energy",
+      "heart device"
+    ],
+    "overlap_check_hash": "0b8baac68f617ca4",
+    "why_this_can_go_viral": "Morbid bio-tech concept blurs line between human and machine, sparking debate."
+  },
+  {
+    "unique_id": "military_0037_011_e2f7d1f908d24f99",
+    "title": "The Soldier Experiments Where They Were Blinded With Lasers for a Week",
+    "hook": "To test night vision recovery, volunteers had their retinas burned daily, then forced to navigate minefields.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 92,
+    "educational_value": 71,
+    "estimated_short_retention": 83,
+    "niche_name": "military",
+    "subcategory": "soldier experiments",
+    "keywords": [
+      "laser blinding",
+      "night vision",
+      "retina burn",
+      "minefield test",
+      "volunteer horror"
+    ],
+    "overlap_check_hash": "e2f7d1f908d24f99",
+    "why_this_can_go_viral": "Graphic medical cruelty and survival stakes hook viewers immediately."
+  },
+  {
+    "unique_id": "military_0037_013_96746099963956bf",
+    "title": "The War Crime Hidden Inside a Fake Cemetery for Mass Graves",
+    "hook": "Gravediggers stacked bodies under fresh tombstones, then sold the plots to grieving families above the dead.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 97,
+    "educational_value": 63,
+    "estimated_short_retention": 85,
+    "niche_name": "military",
+    "subcategory": "war crimes hidden",
+    "keywords": [
+      "fake cemetery",
+      "mass graves",
+      "tombstone scam",
+      "grieving families",
+      "body stacking"
+    ],
+    "overlap_check_hash": "96746099963956bf",
+    "why_this_can_go_viral": "Profane mixing of death, commerce, and deception triggers strong emotional reactions."
+  },
+  {
+    "unique_id": "military_0037_014_b1c8b76e01e706b3",
+    "title": "The Classified Operation That Used a Fake Royal Wedding to Ambush Generals",
+    "hook": "A staged procession with actors dressed as royalty drew enemy leaders into a kill zone.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 69,
+    "estimated_short_retention": 82,
+    "niche_name": "military",
+    "subcategory": "classified operations",
+    "keywords": [
+      "royal wedding",
+      "ambush",
+      "fake procession",
+      "enemy generals",
+      "kill zone"
+    ],
+    "overlap_check_hash": "b1c8b76e01e706b3",
+    "why_this_can_go_viral": "Opulence meets violence—high contrast imagery and tactical surprise."
+  },
+  {
+    "unique_id": "military_0037_015_92f6687d3c5f026d",
+    "title": "The Black Budget Program That Built a Submarine That Eats Sharks",
+    "hook": "A submersible equipped with acoustic lures and grinding blades that attracted and destroyed marine predators.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 84,
+    "educational_value": 66,
+    "estimated_short_retention": 86,
+    "niche_name": "military",
+    "subcategory": "black budget programs",
+    "keywords": [
+      "shark eating sub",
+      "acoustic lure",
+      "marine predator",
+      "submersible",
+      "underwater weapon"
+    ],
+    "overlap_check_hash": "92f6687d3c5f026d",
+    "why_this_can_go_viral": "Nature gone wrong meets military sci-fi—visceral and bizarre."
+  },
+  {
+    "unique_id": "military_0037_016_80fab1441422b3b9",
+    "title": "The Psychological Op That Used Fake Love Letters to Break Morale",
+    "hook": "Letters from 'wives' confessing affairs were airdropped over enemy camps, causing mass desertion.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 81,
+    "educational_value": 73,
+    "estimated_short_retention": 88,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "love letters",
+      "fake affairs",
+      "morale break",
+      "desertion",
+      "airdrop psychology"
+    ],
+    "overlap_check_hash": "80fab1441422b3b9",
+    "why_this_can_go_viral": "Emotional manipulation on a personal level feels relatable and cruel."
+  },
+  {
+    "unique_id": "military_0037_017_7babf76170268fb0",
+    "title": "The Covert Mission That Used a Fake Movie Theater to Exfiltrate Defectors",
+    "hook": "A cinema played a single film for months while defectors slipped through a trapdoor behind the screen.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 74,
+    "educational_value": 71,
+    "estimated_short_retention": 81,
+    "niche_name": "military",
+    "subcategory": "covert missions",
+    "keywords": [
+      "movie theater",
+      "defectors",
+      "exfiltration",
+      "trapdoor",
+      "cinema cover"
+    ],
+    "overlap_check_hash": "7babf76170268fb0",
+    "why_this_can_go_viral": "Spycraft in everyday setting—easy to visualize and retell."
+  },
+  {
+    "unique_id": "military_0037_018_9a79e929a1d05be3",
+    "title": "The Soldier Experiments Where They Were Forced to Live in a Chemical Fog",
+    "hook": "Volunteers breathed nerve agent vapors for weeks to see if the body builds tolerance—many didn't survive.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 96,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "military",
+    "subcategory": "soldier experiments",
+    "keywords": [
+      "chemical fog",
+      "nerve agent",
+      "tolerance test",
+      "volunteer death",
+      "gas chamber"
+    ],
+    "overlap_check_hash": "9a79e929a1d05be3",
+    "why_this_can_go_viral": "Gruesome human guinea pig story with high mortality—shocking and memorable."
+  },
+  {
+    "unique_id": "military_0037_019_61445ea52399ae05",
+    "title": "The Secret Weapons Program That Built a Missile That Targets Voices",
+    "hook": "A microphone-guided warhead that locks onto the sound of a specific person's speech from a mile away.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 89,
+    "educational_value": 72,
+    "estimated_short_retention": 89,
+    "niche_name": "military",
+    "subcategory": "secret weapons programs",
+    "keywords": [
+      "voice targeting",
+      "sound lock",
+      "microphone missile",
+      "speech kill",
+      "audio warhead"
+    ],
+    "overlap_check_hash": "61445ea52399ae05",
+    "why_this_can_go_viral": "Creepy precision weapon feels like a dystopian surveillance nightmare."
+  },
+  {
+    "unique_id": "military_0037_020_b17dbfd4b5b006ee",
+    "title": "The War Crime Hidden Inside a Fake Relief Convoy of Toys",
+    "hook": "Trucks carrying dolls and teddy bears were rigged with explosives, distributed to orphanages in enemy territory.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 100,
+    "educational_value": 68,
+    "estimated_short_retention": 94,
+    "niche_name": "military",
+    "subcategory": "war crimes hidden",
+    "keywords": [
+      "toy convoy",
+      "explosive dolls",
+      "orphanage attack",
+      "relief trap",
+      "child harm"
+    ],
+    "overlap_check_hash": "b17dbfd4b5b006ee",
+    "why_this_can_go_viral": "Ultimate violation of innocence—guaranteed viral outrage and sharing."
+  },
+  {
+    "unique_id": "military_0037_021_e4f2cc89bb1a167f",
+    "title": "The Classified Operation That Used a Fake Earthquake to Test a Superbomb",
+    "hook": "A massive underground detonation was reported as a natural disaster to hide a weapon 100 times stronger than nukes.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "military",
+    "subcategory": "classified operations",
+    "keywords": [
+      "fake earthquake",
+      "superbomb test",
+      "underground detonation",
+      "weapon cover up",
+      "natural disaster lie"
+    ],
+    "overlap_check_hash": "e4f2cc89bb1a167f",
+    "why_this_can_go_viral": "Makes viewers question every 'natural' disaster they've heard about."
+  },
+  {
+    "unique_id": "military_0037_022_a4a326739908346f",
+    "title": "The Black Budget Program That Built a Plane That Refuels From Lightning",
+    "hook": "Aircraft engineers designed a system to harvest electrical energy from storm clouds to stay airborne indefinitely.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 72,
+    "educational_value": 78,
+    "estimated_short_retention": 83,
+    "niche_name": "military",
+    "subcategory": "black budget programs",
+    "keywords": [
+      "lightning refuel",
+      "storm energy",
+      "airborne indefinitely",
+      "electric harvest",
+      "storm plane"
+    ],
+    "overlap_check_hash": "a4a326739908346f",
+    "why_this_can_go_viral": "Impossible-sounding tech that feels like a cheat code for endless flight."
+  },
+  {
+    "unique_id": "military_0037_023_c3bde645d06da775",
+    "title": "The Psychological Op That Used Fake Radio Stations to Warp Time Perception",
+    "hook": "Broadcasting distorted clocks and reverse audio made enemy soldiers lose track of days, causing friendly fire.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "time warp radio",
+      "distorted clocks",
+      "friendly fire",
+      "reverse audio",
+      "perception attack"
+    ],
+    "overlap_check_hash": "c3bde645d06da775",
+    "why_this_can_go_viral": "Mind-bending manipulation tactic that feels like a sci-fi plot."
+  },
+  {
+    "unique_id": "military_0037_024_d183760768e178e1",
+    "title": "The Covert Mission That Used a Fake Wedding Cake to Smuggle a Mini Sub",
+    "hook": "A twelve-tier cake contained a dismantled one-man submersible, reassembled in a hotel bathtub.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 73,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "military",
+    "subcategory": "covert missions",
+    "keywords": [
+      "wedding cake",
+      "mini sub",
+      "smuggle",
+      "dismantled",
+      "hotel bathtub"
+    ],
+    "overlap_check_hash": "d183760768e178e1",
+    "why_this_can_go_viral": "Absurdly creative smuggling story that’s perfect for visual retelling."
+  },
+  {
+    "unique_id": "military_0037_025_6c5b1b14804c2d53",
+    "title": "The Soldier Experiments Where They Were Given a Drug That Made Them Forget Pain",
+    "hook": "A compound erased the memory of injuries, so soldiers kept fighting with broken bones and bullet wounds.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 73,
+    "estimated_short_retention": 87,
+    "niche_name": "military",
+    "subcategory": "soldier experiments",
+    "keywords": [
+      "pain forgetting drug",
+      "broken bones",
+      "bullet wounds",
+      "memory block",
+      "super soldier"
+    ],
+    "overlap_check_hash": "6c5b1b14804c2d53",
+    "why_this_can_go_viral": "Disturbing concept of fighting through oblivion triggers both awe and horror."
+  }
+]

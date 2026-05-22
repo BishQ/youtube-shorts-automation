@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "science_0047_001_52bb2e5ffc88cca8",
+    "title": "The Chemist Who Boiled a Liquid and It Started Screaming",
+    "hook": "In a secret underground lab, a chemist heated a strange liquid to 200°C—and it emitted a human-like scream that lasted for hours.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "screaming liquid",
+      "thermoacoustics",
+      "forbidden chemistry",
+      "lab horror",
+      "unexplained phenomena"
+    ],
+    "overlap_check_hash": "52bb2e5ffc88cca8",
+    "why_this_can_go_viral": "The visceral, eerie imagery of a liquid screaming triggers immediate curiosity and horror, perfect for viral shock-and-awe content."
+  },
+  {
+    "unique_id": "science_0047_002_be108362095fa04a",
+    "title": "The Neuroscientist Who Found a Switch That Erases Fear Instantly",
+    "hook": "They discovered a tiny cluster of neurons in the amygdala—when zapped with a laser, all fear vanished in under a second.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 75,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "fear erasure",
+      "optogenetics",
+      "brain switch",
+      "amygdala",
+      "memory manipulation"
+    ],
+    "overlap_check_hash": "be108362095fa04a",
+    "why_this_can_go_viral": "The idea of erasing fear sounds like sci-fi but is real—people will share it out of awe and mild terror."
+  },
+  {
+    "unique_id": "science_0047_004_a390f127215c7896",
+    "title": "The Lab That Accidentally Created a Virus That Eats Its Own Host",
+    "hook": "A self-eating virus sounds impossible, but a genetic engineering error produced a pathogen that consumed its own protein shell—and then went hunting for more.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "self-eating virus",
+      "autocatalytic pathogen",
+      "lab accident",
+      "synthetic biology",
+      "viral anomaly"
+    ],
+    "overlap_check_hash": "a390f127215c7896",
+    "why_this_can_go_viral": "The grotesque, paradoxical nature of a self-consuming virus is both scientifically fascinating and viscerally disturbing."
+  },
+  {
+    "unique_id": "science_0047_005_89af0a846dad4979",
+    "title": "The Researcher Who Faked a Study Showing That Oxygen Is Toxic",
+    "hook": "They published a paper claiming oxygen causes cellular damage—and half the scientific community believed it before the fraud was exposed.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 68,
+    "educational_value": 85,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "oxygen toxicity",
+      "scientific fraud",
+      "faked research",
+      "retracted paper",
+      "misinformation"
+    ],
+    "overlap_check_hash": "89af0a846dad4979",
+    "why_this_can_go_viral": "Turns a common skeptic talking point on its head and reveals how easily science can be manipulated."
+  },
+  {
+    "unique_id": "science_0047_006_07ecc30eccb8f8a5",
+    "title": "The Chemist Who Made a Polymer That Absorbs Memories",
+    "hook": "They created a gel that stores electrical signals from neurons—and when touched, it replays someone else's forgotten memory.",
+    "virality_score": 87,
+    "curiosity_gap_score": 96,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "memory gel",
+      "polymer memory",
+      "brain interface",
+      "forbidden experiment",
+      "neural recording"
+    ],
+    "overlap_check_hash": "07ecc30eccb8f8a5",
+    "why_this_can_go_viral": "Memory extraction is a sci-fi staple—making it real with a simple polymer feels like a dark magic."
+  },
+  {
+    "unique_id": "science_0047_007_5666917c4f8e8dfe",
+    "title": "The Soviet Lab That Tried to Resurrect the Dead Using Electricity",
+    "hook": "In a secret Moscow facility, scientists zapped corpses with high voltage—and some of them sat up and blinked before collapsing.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "soviet resurrection",
+      "electro-reanimation",
+      "forbidden science",
+      "undead lab",
+      "cold war experiments"
+    ],
+    "overlap_check_hash": "5666917c4f8e8dfe",
+    "why_this_can_go_viral": "The macabre Soviet-era experiments combine Cold War mystery, horror, and forbidden science—a guaranteed viral formula."
+  },
+  {
+    "unique_id": "science_0047_009_6f625cfeae4bf01e",
+    "title": "The Lab That Unleashed a Bacterium That Eats Sulfur and Breathes Fire",
+    "hook": "A sulfur-metabolizing bug escaped containment—it started eating through metal pipes and producing flammable gas clouds.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 83,
+    "educational_value": 65,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "sulfur bacteria",
+      "extremophile escape",
+      "lab leak",
+      "metal-eating bacteria",
+      "flammable microbe"
+    ],
+    "overlap_check_hash": "6f625cfeae4bf01e",
+    "why_this_can_go_viral": "Fire-breathing bacteria sounds like a monster from a movie—real lab leaks make it terrifyingly plausible."
+  },
+  {
+    "unique_id": "science_0047_012_a52c880563fc708d",
+    "title": "The Biochemist Who Created a Molecule That Makes You Forget Everything You Learned Today",
+    "hook": "A single dose of this compound wiped out all memories formed in the past 24 hours—in rats. Human trials were hidden.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "memory erasure",
+      "forgetting drug",
+      "amnesia compound",
+      "hidden trials",
+      "neural inhibitor"
+    ],
+    "overlap_check_hash": "a52c880563fc708d",
+    "why_this_can_go_viral": "The idea of a drug that erases your day is both terrifying and fascinating—perfect for dark curiosity."
+  },
+  {
+    "unique_id": "science_0047_013_0630d81ea318575e",
+    "title": "The Researcher Who Faked a Study Showing That Night Air Carries Disease",
+    "hook": "A 19th-century scientist fabricated data about 'miasma'—and the false theory delayed germ theory by decades.",
+    "virality_score": 77,
+    "curiosity_gap_score": 82,
+    "darkness_score": 65,
+    "educational_value": 85,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "miasma theory",
+      "scientific fraud",
+      "night air",
+      "germ theory delay",
+      "historical hoax"
+    ],
+    "overlap_check_hash": "0630d81ea318575e",
+    "why_this_can_go_viral": "Reveals how a single lie set back medicine for years—people love stories of hidden history."
+  },
+  {
+    "unique_id": "science_0047_014_8eb3d2d5a79420df",
+    "title": "The Chemist Who Made a Plastic That Never Degrades—and It's Covering the Ocean Floor",
+    "hook": "They created an indestructible polymer in the '50s—now it forms a continent-sized blanket at the bottom of the ocean.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "eternal plastic",
+      "ocean plastic continent",
+      "non-degradable polymer",
+      "environmental disaster",
+      "chemical legacy"
+    ],
+    "overlap_check_hash": "8eb3d2d5a79420df",
+    "why_this_can_go_viral": "A haunting environmental horror story with a clear villain—the chemist who made material that outlives everything."
+  },
+  {
+    "unique_id": "science_0047_015_653439e54ec8cee0",
+    "title": "The Quantum Physicist Who Found That Teleportation Destroys the Original",
+    "hook": "Quantum teleportation works—but the original particle always dies. Perfect copies mean the old 'you' ceases to exist.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 84,
+    "educational_value": 82,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum teleportation",
+      "identity death",
+      "original destruction",
+      "quantum cloning",
+      "teleportation paradox"
+    ],
+    "overlap_check_hash": "653439e54ec8cee0",
+    "why_this_can_go_viral": "The dark implication that teleportation is actually suicide is a mind-bending existential horror that sparks debate."
+  },
+  {
+    "unique_id": "science_0047_016_7754402ba9fe73ee",
+    "title": "The Lab That Accidentally Created a Fungus That Thinks",
+    "hook": "A slime mold in a petri dish started solving mazes—then it began communicating with lab equipment. It was not supposed to be conscious.",
+    "virality_score": 92,
+    "curiosity_gap_score": 97,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "thinking slime mold",
+      "fungus intelligence",
+      "lab accident",
+      "non-human consciousness",
+      "biological anomaly"
+    ],
+    "overlap_check_hash": "7754402ba9fe73ee",
+    "why_this_can_go_viral": "A fungus that thinks is both adorable and terrifying—people will share it for the sheer creepiness."
+  },
+  {
+    "unique_id": "science_0047_018_34c22d3ed8fdae01",
+    "title": "The Soviet Lab That Gave Dogs Human Blood—and They Started Standing",
+    "hook": "In a grotesque transfusion experiment, dogs given human blood began walking on hind legs and making human-like sounds.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 97,
+    "educational_value": 65,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "soviet dog experiments",
+      "human blood transfusion",
+      "animal humanization",
+      "forbidden biology",
+      "cold war horror"
+    ],
+    "overlap_check_hash": "34c22d3ed8fdae01",
+    "why_this_can_go_viral": "The disturbing image of upright dogs behaving like humans is nightmare fuel—viral gold."
+  },
+  {
+    "unique_id": "science_0047_020_e47e310604b77fe9",
+    "title": "The Chemist Who Made a Dye That Changes Color When Someone Lies",
+    "hook": "A color-changing polymer reacts to micro-expressions and sweat—it turns red when you lie. Interrogators have used it secretly.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 76,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "lie detector dye",
+      "color-changing polymer",
+      "truth serum alternative",
+      "interrogation chemical",
+      "behavioral chemistry"
+    ],
+    "overlap_check_hash": "e47e310604b77fe9",
+    "why_this_can_go_viral": "A real-life truth-telling dye is both cool and frightening—everyone imagines it used on them."
+  },
+  {
+    "unique_id": "science_0047_021_80a924d6e3987ee8",
+    "title": "The Researcher Who Faked a Study Proving That Trees Can Scream in Pain",
+    "hook": "They hooked electrodes to plants and claimed ultrasonic screams were recorded when leaves were cut—the world believed it for years.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 69,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "plant screaming",
+      "fake plant study",
+      "plant communication fraud",
+      "pseudoscience",
+      "scientific hoax"
+    ],
+    "overlap_check_hash": "80a924d6e3987ee8",
+    "why_this_can_go_viral": "The idea that plants scream is darkly funny and deeply unsettling—perfect for viral debate."
+  },
+  {
+    "unique_id": "science_0047_022_87be20021bba482e",
+    "title": "The Physicist Who Discovered That Information Can Never Be Destroyed—Even by a Black Hole",
+    "hook": "They proved that every thought, every image, every moment persists forever in the universe's fabric—nothing is ever truly lost.",
+    "virality_score": 82,
+    "curiosity_gap_score": 89,
+    "darkness_score": 68,
+    "educational_value": 88,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "information paradox",
+      "black hole preservation",
+      "no deletion theorem",
+      "quantum information",
+      "eternal data"
+    ],
+    "overlap_check_hash": "87be20021bba482e",
+    "why_this_can_go_viral": "The metaphysical implication that nothing ever disappears is both comforting and terrifying—high shareability."
+  },
+  {
+    "unique_id": "science_0047_023_98c3cf2863c602f3",
+    "title": "The Lab That Unleashed a Self-Replicating Organic Circuit That Never Stops Computing",
+    "hook": "They built a biological computer from bacterial DNA—it continued running calculations after containment was breached, evolving its code.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "living computer",
+      "self-replicating circuit",
+      "biological AI",
+      "lab escape",
+      "organic processor"
+    ],
+    "overlap_check_hash": "98c3cf2863c602f3",
+    "why_this_can_go_viral": "A runaway biological computer is a perfect modern horror story blending tech and biology."
+  },
+  {
+    "unique_id": "science_0047_024_f6b75c0cedc84de1",
+    "title": "The Quantum Physicist Who Found That Entanglement Can Be Used to Communicate Instantaneously",
+    "hook": "They demonstrated that entangled particles can transmit information across any distance with zero delay—breaking Einstein's speed limit.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 84,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum communication",
+      "faster than light",
+      "entanglement signaling",
+      "Einstein violation",
+      "quantum internet"
+    ],
+    "overlap_check_hash": "f6b75c0cedc84de1",
+    "why_this_can_go_viral": "Faster-than-light communication is a holy grail—if real, it changes everything. High emotional charge."
+  }
+]

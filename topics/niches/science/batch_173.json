@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "science_0173_002_e4470cd5dae9930a",
+    "title": "The Lab That Created a Bacteria That Eats Plastic—And It Won't Stop",
+    "hook": "In 2016, scientists engineered a mutant enzyme that devours PET plastic—but it began mutating faster than they could control, threatening to consume all plastic on Earth.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "plastic eating bacteria",
+      "enzyme mutation",
+      "bioremediation gone wrong",
+      "self replicating plastic eater",
+      "ecological disaster"
+    ],
+    "overlap_check_hash": "e4470cd5dae9930a",
+    "why_this_can_go_viral": "The idea of a 'solution' becoming an uncontrollable threat taps into eco-anxiety and the horror of unintended consequences."
+  },
+  {
+    "unique_id": "science_0173_003_5aa0d91c374ed3ef",
+    "title": "The Chemist Who Discovered a Compound That Melts Everything—Including the Safe",
+    "hook": "A chemist at Dow Chemical synthesized the most powerful solvent ever—it dissolved through the container, the table, and the lab floor before they could stop it.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "universal solvent",
+      "lab disaster",
+      "fluoroantimonic acid",
+      "dangerous chemistry",
+      "dissolved everything"
+    ],
+    "overlap_check_hash": "5aa0d91c374ed3ef",
+    "why_this_can_go_viral": "The mental image of a liquid eating through reality itself is visceral and shareable; viewers want to know what happened next."
+  },
+  {
+    "unique_id": "science_0173_004_23bba9c70729be42",
+    "title": "The Neuroscientist Who Implanted a False Memory—And the Subject Confessed to a Crime They Didn't Commit",
+    "hook": "By stimulating a single brain region, a researcher made a person 'remember' stabbing someone with a knife—a crime that never happened.",
+    "virality_score": 92,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 85,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "false memory implantation",
+      "brain manipulation",
+      "memory distortion",
+      "neuroscience ethics",
+      "crime confabulation"
+    ],
+    "overlap_check_hash": "23bba9c70729be42",
+    "why_this_can_go_viral": "The implication that our memories are not real is terrifying and philosophically destabilizing; it challenges the very foundation of identity and justice."
+  },
+  {
+    "unique_id": "science_0173_005_4312d145e1d5f94f",
+    "title": "The Quantum Computer That Proved Reality Is a Simulation—Then Crashed",
+    "hook": "A team of physicists ran a simulation of a quantum system that was too complex—the computer returned a result that implied our universe was running on another computer, then overheated and shut down.",
+    "virality_score": 87,
+    "curiosity_gap_score": 94,
+    "darkness_score": 72,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "simulation hypothesis",
+      "quantum computer crash",
+      "reality glitch",
+      "computational universe",
+      "physics anomaly"
+    ],
+    "overlap_check_hash": "4312d145e1d5f94f",
+    "why_this_can_go_viral": "Simulation theory is massively viral already; framing it as a 'direct evidence' event with a dramatic failure adds urgency and mystery."
+  },
+  {
+    "unique_id": "science_0173_006_8f10a4278b0062c0",
+    "title": "The Scientific Fraud Who Faked a 'Human-Animal Hybrid'—And the Media Believed It",
+    "hook": "A Japanese scientist published images of a human-mouse hybrid embryo—it was a hoax, but not before governments banned the research, and one lab tried to replicate it in secret.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 80,
+    "educational_value": 73,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "human animal hybrid",
+      "scientific hoax",
+      "fake embryo",
+      "media panic",
+      "chimeric fraud"
+    ],
+    "overlap_check_hash": "8f10a4278b0062c0",
+    "why_this_can_go_viral": "The combination of taboo science, government panic, and a cover-up is irresistible; viewers will share to debate ethics."
+  },
+  {
+    "unique_id": "science_0173_007_424b3db8ae075a18",
+    "title": "The Lab That Accidentally Created a Fungus That Eats Human Flesh—From a Moldy Sandwich",
+    "hook": "A forgotten sandwich in a university lab grew a black mold that, when examined, was digesting meat faster than any known pathogen—it had spontaneously evolved a flesh-eating enzyme.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 90,
+    "educational_value": 72,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "flesh eating fungus",
+      "lab accident",
+      "mold mutation",
+      "necrotizing fungus",
+      "sandwich horror"
+    ],
+    "overlap_check_hash": "424b3db8ae075a18",
+    "why_this_can_go_viral": "Gross-out factor plus 'it came from something ordinary' makes it extremely shareable; people love real-world body horror."
+  },
+  {
+    "unique_id": "science_0173_008_4f5fb1ff79f18893",
+    "title": "The Physicist Who Built a Machine That Detects 'Ghosts'—And It Found a Pattern in Empty Rooms",
+    "hook": "A physicist used a muon detector to map empty rooms—the data showed a persistent, moving anomaly that appeared only when no living person was present.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 68,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "muon ghost detector",
+      "empty room anomaly",
+      "paranormal physics",
+      "scientific ghost hunting",
+      "unexplained particle traces"
+    ],
+    "overlap_check_hash": "4f5fb1ff79f18893",
+    "why_this_can_go_viral": "Blends hard science with the paranormal—a perfect recipe for debate in comments and high engagement."
+  },
+  {
+    "unique_id": "science_0173_010_08a5b601d6baa5e7",
+    "title": "The Chemist Who Made a Gas That Smells Like Death—And It Triggered a Panic Attack in Everyone",
+    "hook": "A synthetic chemist created putrescine, the chemical that makes rotting flesh smell—accidentally releasing it in the lab caused every researcher to feel sudden dread and nausea.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 84,
+    "educational_value": 74,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "death smell",
+      "putrescine disaster",
+      "alarm pheromone",
+      "chemical panic",
+      "lab odor accident"
+    ],
+    "overlap_check_hash": "08a5b601d6baa5e7",
+    "why_this_can_go_viral": "It taps into primal fear of death and the idea that smells can bypass rational thought; very few people know this chemical exists."
+  },
+  {
+    "unique_id": "science_0173_011_e6e700bf7126acca",
+    "title": "The Neuroscientist Who Electrified a Brain and Made a Person Forget Their Own Mother",
+    "hook": "During deep brain stimulation surgery, a single jolt to the amygdala made a patient instantly forget who their mother was—the memory returned when the current stopped.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 91,
+    "educational_value": 81,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain stimulation memory loss",
+      "amygdala forgetting",
+      "electrical identity erasure",
+      "failed DBS",
+      "forgetting mother"
+    ],
+    "overlap_check_hash": "e6e700bf7126acca",
+    "why_this_can_go_viral": "The horror of losing your most fundamental relationship at the flip of a switch is emotionally devastating and deeply shareable."
+  },
+  {
+    "unique_id": "science_0173_014_b5f81087e34454cf",
+    "title": "The Lab That Grafted a Human Ear Onto a Rat's Back—And It Heard Sounds",
+    "hook": "In 1997, scientists grew a human ear on a mouse using cartilage cells—but the ear developed its own blood supply and, strangely, seemed to twitch toward loud noises.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 72,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "human ear on mouse",
+      "vacanti mouse",
+      "bioengineering horror",
+      "ear twitching",
+      "grotesque experiment"
+    ],
+    "overlap_check_hash": "b5f81087e34454cf",
+    "why_this_can_go_viral": "The image is shocking and unforgettable; the auditory detail adds a layer of eerie life to the graft."
+  },
+  {
+    "unique_id": "science_0173_016_0a3f3f4736b1962a",
+    "title": "The Chemist Who Made a Crystal That Absorbs Sound—And a Room Went Completely Silent",
+    "hook": "A materials chemist synthesized a crystal that could absorb 99.9% of sound waves—when placed in a test chamber, the silence was so total that people began hallucinating.",
+    "virality_score": 82,
+    "curiosity_gap_score": 89,
+    "darkness_score": 79,
+    "educational_value": 74,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "sound absorbing crystal",
+      "total silence",
+      "anechoic chamber horror",
+      "silence hallucinations",
+      "acoustic anomaly"
+    ],
+    "overlap_check_hash": "0a3f3f4736b1962a",
+    "why_this_can_go_viral": "Total silence is a known trigger for hallucinations—the 'science of creepy' is highly shareable."
+  },
+  {
+    "unique_id": "science_0173_017_51afd5cff7e71803",
+    "title": "The Forbidden Experiment Where Scientists Tried to Make a Human-Pig Hybrid—And It Grew Human Teeth",
+    "hook": "A team injected human stem cells into pig embryos to grow transplantable organs—the resulting hybrid had a jaw with fully formed human teeth, and it was terminated immediately.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 92,
+    "educational_value": 78,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human pig hybrid",
+      "chimeric embryo",
+      "human teeth pig",
+      "stem cell horror",
+      "organ farming gone wrong"
+    ],
+    "overlap_check_hash": "51afd5cff7e71803",
+    "why_this_can_go_viral": "The image of a pig with human teeth is both absurd and deeply disturbing—guaranteed to be shared for shock value."
+  },
+  {
+    "unique_id": "science_0173_018_32c43920ff908064",
+    "title": "The Neuroscientist Who Shocked a Brain Region—And the Person Lost All Fear Forever",
+    "hook": "A woman with a rare brain disorder had a tiny region called the amygdala surgically destroyed—afterward, she approached strangers, snakes, and knives without any fear at all.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 83,
+    "educational_value": 82,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "fearless woman",
+      "amygdala damage",
+      "no fear condition",
+      "Urbach Wiethe disease",
+      "extreme neuroscience"
+    ],
+    "overlap_check_hash": "32c43920ff908064",
+    "why_this_can_go_viral": "The idea of living without fear sounds freeing but is actually terrifying—viewers will debate whether it's a superpower or a curse."
+  },
+  {
+    "unique_id": "science_0173_019_0d72d7ed2086febb",
+    "title": "The Quantum Computer That Calculated the End of the Universe—And Gave a Date",
+    "hook": "A team used a quantum algorithm to simulate vacuum decay—the result implied a 'false vacuum' collapse could happen at any moment, and the number 10^100 years became notorious.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 79,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "vacuum decay",
+      "end of universe date",
+      "false vacuum simulation",
+      "quantum doom",
+      "apocalypse math"
+    ],
+    "overlap_check_hash": "0d72d7ed2086febb",
+    "why_this_can_go_viral": "Apocalypse dates always go viral; wrapping it in legitimate quantum physics makes it feel scarily credible."
+  },
+  {
+    "unique_id": "science_0173_020_d821439f0a098770",
+    "title": "The Scientific Fraud Who Faked a 'Telepathy' Study—And the Government Classified It",
+    "hook": "A researcher fabricated data showing that twins could communicate telepathically—the Pentagon classified the paper and spent millions trying to replicate it before the hoax was exposed.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 81,
+    "educational_value": 74,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "telepathy fraud",
+      "government classification",
+      "twin telepathy hoax",
+      "Pentagon psychic research",
+      "fake ESP study"
+    ],
+    "overlap_check_hash": "d821439f0a098770",
+    "why_this_can_go_viral": "Government secrecy plus psychic powers is a conspiracy goldmine; the fraud revelation adds a twist."
+  },
+  {
+    "unique_id": "science_0173_021_4a79b3b0fad5bc26",
+    "title": "The Lab That Leaked a Virus That Makes Hosts Obsessive About Cleaning—And It Hit a Hospital",
+    "hook": "A lab-engineered virus designed to study grooming behavior in mice escaped containment—rats in the facility began cleaning themselves until they bled, and one janitor developed compulsive hand-washing.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 91,
+    "educational_value": 73,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "grooming virus",
+      "compulsive cleaning",
+      "lab leak horror",
+      "OCD virus",
+      "behavioral contagion"
+    ],
+    "overlap_check_hash": "4a79b3b0fad5bc26",
+    "why_this_can_go_viral": "The idea of a virus controlling behavior is pure body horror; the real-world hospital setting makes it feel plausible."
+  },
+  {
+    "unique_id": "science_0173_022_e27f089a4b6aa48c",
+    "title": "The Physicist Who Built a Machine That Reverses Entropy—And the Lab Got Colder",
+    "hook": "A physicist constructed a 'time crystal' that appeared to reverse entropy in a tiny region—the lab temperature dropped 0.1 Kelvin, and the device emitted a low hum that made researchers nauseous.",
+    "virality_score": 83,
+    "curiosity_gap_score": 92,
+    "darkness_score": 77,
+    "educational_value": 81,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time crystal",
+      "entropy reversal",
+      "lab temperature drop",
+      "impossible device",
+      "thermodynamics violation"
+    ],
+    "overlap_check_hash": "e27f089a4b6aa48c",
+    "why_this_can_go_viral": "Breaking the second law of thermodynamics is mind-blowing; the nauseating hum adds a creepy, tangible effect."
+  },
+  {
+    "unique_id": "science_0173_024_934d8405a4eb05e7",
+    "title": "The Forbidden Experiment Where a Scientist Injected Himself With a Jellyfish Gene—And Glowed in the Dark",
+    "hook": "In 1999, a biologist injected himself with the GFP gene from jellyfish—his skin produced a faint green glow under UV light, and he claimed it gave him night vision.",
+    "virality_score": 90,
+    "curiosity_gap_score": 92,
+    "darkness_score": 79,
+    "educational_value": 77,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "self experiment GFP",
+      "glowing human",
+      "jellyfish gene injection",
+      "biohacker",
+      "night vision claim"
+    ],
+    "overlap_check_hash": "934d8405a4eb05e7",
+    "why_this_can_go_viral": "The idea of a real-life glowing human is visually stunning and philosophically provocative—viewers will argue about ethics and science."
+  }
+]

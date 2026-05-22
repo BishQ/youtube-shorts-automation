@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "edutainment_0063_001_30bd1eb79df7d561",
+    "title": "The Underground Lab Where Scientists Created a Black Hole on Earth",
+    "hook": "In 2016, physicists in a Swiss tunnel generated a gravitational anomaly so dense it mimicked the edge of a black hole — and they nearly lost control.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "black hole",
+      "CERN",
+      "physics experiment",
+      "gravitational anomaly",
+      "near disaster"
+    ],
+    "overlap_check_hash": "30bd1eb79df7d561",
+    "why_this_can_go_viral": "The concept of accidentally creating a black hole taps into deep existential fear and forbidden science, driving shares and comments."
+  },
+  {
+    "unique_id": "edutainment_0063_003_c9079cb21ef953a2",
+    "title": "The Hidden Satellite That Listens to Every Human Heartbeat",
+    "hook": "A classified NASA payload can detect your pulse from orbit — and it's been used to monitor entire populations without consent.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "satellite surveillance",
+      "heartbeat detection",
+      "NASA",
+      "mass surveillance",
+      "privacy violation"
+    ],
+    "overlap_check_hash": "c9079cb21ef953a2",
+    "why_this_can_go_viral": "Combines government secrecy with a deeply personal invasion (heartbeat), sparking outrage and curiosity about surveillance tech."
+  },
+  {
+    "unique_id": "edutainment_0063_004_2004ca1782b73e5e",
+    "title": "The Man Who Couldn't Stop Vomiting — For 40 Years",
+    "hook": "A rare autonomic disorder locked his body into perpetual nausea, and doctors discovered his own immune system was attacking his stomach nerves.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "chronic vomiting",
+      "autoimmune disorder",
+      "medical mystery",
+      "rare disease",
+      "Gastroparesis"
+    ],
+    "overlap_check_hash": "2004ca1782b73e5e",
+    "why_this_can_go_viral": "Extreme medical anomaly stories drive empathy and shock, with high replay value due to the grotesque detail."
+  },
+  {
+    "unique_id": "edutainment_0063_005_058a6a8e36818fb4",
+    "title": "The Secret Algorithm That Predicts Your Next Crime Before You Commit It",
+    "hook": "A predictive policing system used by 20 US cities claims to forecast your location and crime type — with 90% accuracy based on your past 5 moves.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 87,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "predictive policing",
+      "algorithm",
+      "pre-crime",
+      "surveillance",
+      "minority report"
+    ],
+    "overlap_check_hash": "058a6a8e36818fb4",
+    "why_this_can_go_viral": "Taps into 'Minority Report' fears and real-world AI ethics debates, triggering both awe and outrage."
+  },
+  {
+    "unique_id": "edutainment_0063_006_242b2f05a3dcf4f0",
+    "title": "Why a Single Cave in Mexico Has Air That Makes You Hallucinate",
+    "hook": "Deep in the Cave of Crystals, methane and sulfuric gas mixtures create a high-altitude effect that induces vivid hallucinations within 10 minutes.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "edutainment",
+    "subcategory": "strange science facts",
+    "keywords": [
+      "hallucinogenic cave",
+      "crystal cave",
+      "Mexico",
+      "methane hallucinations",
+      "toxic air"
+    ],
+    "overlap_check_hash": "242b2f05a3dcf4f0",
+    "why_this_can_go_viral": "Visually stunning location plus psychedelic twist appeals to curiosity about altered states and natural anomalies."
+  },
+  {
+    "unique_id": "edutainment_0063_008_ac0b22e48fdce1e0",
+    "title": "The Hidden Fiber Optic Cable That Controls All Global Stock Trades",
+    "hook": "A single 1,300-mile cable under the Atlantic shaves 1.5 milliseconds off trading times — and it's protected by armed guards 24/7.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 72,
+    "educational_value": 82,
+    "estimated_short_retention": 83,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "stock market cable",
+      "high frequency trading",
+      "undersea cable",
+      "financial infrastructure",
+      "time advantage"
+    ],
+    "overlap_check_hash": "ac0b22e48fdce1e0",
+    "why_this_can_go_viral": "Reveals the invisible backbone of global finance, making viewers feel like insiders."
+  },
+  {
+    "unique_id": "edutainment_0063_009_701ba6b8cf3ed0cd",
+    "title": "The Man Who Couldn't Stop Growing — Even After 60",
+    "hook": "A undiagnosed pituitary tumor kept his IGF-1 levels 10x normal, making him gain 2 inches per decade until his heart gave out at 7'9\".",
+    "virality_score": 79,
+    "curiosity_gap_score": 83,
+    "darkness_score": 77,
+    "educational_value": 70,
+    "estimated_short_retention": 81,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "giant",
+      "acromegaly",
+      "pituitary tumor",
+      "gigantism",
+      "medical anomaly"
+    ],
+    "overlap_check_hash": "701ba6b8cf3ed0cd",
+    "why_this_can_go_viral": "Extreme human growth story blends freak-show curiosity with medical education, driving high retention."
+  },
+  {
+    "unique_id": "edutainment_0063_010_e7a7e9bb7be86bd0",
+    "title": "Why a Single Island in Indonesia Has Waves That Glow Electric Blue",
+    "hook": "Bioluminescent plankton on Krakatoa's shores create waves that flash blue with every break — but only during a specific lunar phase.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 65,
+    "educational_value": 74,
+    "estimated_short_retention": 84,
+    "niche_name": "edutainment",
+    "subcategory": "strange science facts",
+    "keywords": [
+      "bioluminescent waves",
+      "Krakatoa",
+      "glowing ocean",
+      "plankton",
+      "lunar cycle"
+    ],
+    "overlap_check_hash": "e7a7e9bb7be86bd0",
+    "why_this_can_go_viral": "Visually stunning natural phenomenon with a rare condition, perfect for aesthetic short-form loops."
+  },
+  {
+    "unique_id": "edutainment_0063_011_f99a15ca3c6e56eb",
+    "title": "The Secret Bunker Where Scientists Keep a Human Brain Alive Outside a Body",
+    "hook": "A biotech facility in Switzerland maintains a fully functional pig brain in a vat — and they're planning a human trial next year.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 91,
+    "educational_value": 78,
+    "estimated_short_retention": 91,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "brain in a vat",
+      "consciousness experiment",
+      "neuroscience",
+      "organ preservation",
+      "biotech ethics"
+    ],
+    "overlap_check_hash": "f99a15ca3c6e56eb",
+    "why_this_can_go_viral": "Ethical horror meets scientific breakthrough — viewers will argue in comments about consciousness and morality."
+  },
+  {
+    "unique_id": "edutainment_0063_012_a1c1067e8d28cd08",
+    "title": "The Hidden Tunnel Network Under Paris That Leads to a Secret City",
+    "hook": "Over 200 miles of catacombs house a self-sustained underground society with cinemas, bars, and a police force — all invisible from above.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 76,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "Paris catacombs",
+      "underground city",
+      "secret society",
+      "urban exploration",
+      "hidden world"
+    ],
+    "overlap_check_hash": "a1c1067e8d28cd08",
+    "why_this_can_go_viral": "Secret cities beneath famous landmarks tap into mystery and adventure fantasy, driving high engagement."
+  },
+  {
+    "unique_id": "edutainment_0063_014_8a750b4c221354d7",
+    "title": "Why a Single Lake in Australia Turns Pink for One Day Every Year",
+    "hook": "A rare combination of algae, salinity, and UV radiation turns Lake Hillier a shocking magenta — but only on the summer solstice.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 60,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "edutainment",
+    "subcategory": "strange science facts",
+    "keywords": [
+      "pink lake",
+      "Lake Hillier",
+      "algae bloom",
+      "Australia",
+      "solstice phenomenon"
+    ],
+    "overlap_check_hash": "8a750b4c221354d7",
+    "why_this_can_go_viral": "Rare, photogenic natural anomaly with a specific timing — perfect for curiosity-driven watchtime."
+  },
+  {
+    "unique_id": "edutainment_0063_015_59e514a001b62483",
+    "title": "The Secret Program That Used Dreams to Program Soldiers",
+    "hook": "During the Cold War, a classified DARPA project used subliminal audio during REM sleep to implant combat reflexes — without waking the subject.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "dream manipulation",
+      "DARPA",
+      "subliminal programming",
+      "sleep conditioning",
+      "Cold War experiment"
+    ],
+    "overlap_check_hash": "59e514a001b62483",
+    "why_this_can_go_viral": "Mind control conspiracies mixed with real government programs — triggers paranoia and deep engagement."
+  },
+  {
+    "unique_id": "edutainment_0063_017_6707bb975e55ffa0",
+    "title": "Why a Single Glacier in Norway Has Ice That Burns When Touched",
+    "hook": "Methane trapped in ancient ice creates flammable pockets that ignite on contact with skin — one hiker lost three fingers to a blue flame.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 79,
+    "educational_value": 74,
+    "estimated_short_retention": 82,
+    "niche_name": "edutainment",
+    "subcategory": "strange science facts",
+    "keywords": [
+      "burning ice",
+      "methane glacier",
+      "Norway",
+      "flammable ice",
+      "glacial anomaly"
+    ],
+    "overlap_check_hash": "6707bb975e55ffa0",
+    "why_this_can_go_viral": "Contradictory concept (ice that burns) combined with real danger — visually and conceptually striking."
+  },
+  {
+    "unique_id": "edutainment_0063_018_9d25f829676b97bd",
+    "title": "The Hidden Vault That Stores a Sample of Every Known Virus",
+    "hook": "Deep in Siberia's permafrost, a natural freezer holds 2,000 viral strains — including smallpox and the 1918 flu — unguarded and accessible.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "virus vault",
+      "Siberia",
+      "permafrost",
+      "smallpox",
+      "bioweapon risk"
+    ],
+    "overlap_check_hash": "9d25f829676b97bd",
+    "why_this_can_go_viral": "Pandemic-era fears combined with hidden knowledge — triggers anxiety and curiosity about global security."
+  },
+  {
+    "unique_id": "edutainment_0063_019_d9b25656ef771f0f",
+    "title": "The Experiment That Gave a Rat a Human Ear — And It Grew Blood Vessels",
+    "hook": "As early as 1995, scientists grew a human ear on a rat's back using cartilage scaffolding — and claimed it could hear frequencies humans can't.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "human ear on rat",
+      "tissue engineering",
+      "bioethics",
+      "cartilage growth",
+      "animal experiment"
+    ],
+    "overlap_check_hash": "d9b25656ef771f0f",
+    "why_this_can_go_viral": "Visually grotesque yet scientifically fascinating — shocks viewers while teaching about bioengineering."
+  },
+  {
+    "unique_id": "edutainment_0063_021_2dedec8a926f56b4",
+    "title": "The Secret Algorithm That Decides Which News You See — And It's Rigged",
+    "hook": "An AI model used by 60% of news apps ranks stories by 'emotional contagion' — not truth — boosting rage content by 40%.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "news algorithm",
+      "emotional contagion",
+      "AI bias",
+      "media manipulation",
+      "rage bait"
+    ],
+    "overlap_check_hash": "2dedec8a926f56b4",
+    "why_this_can_go_viral": "Explains why viewers feel angry — exposes hidden system, triggering outrage and shares from all sides."
+  },
+  {
+    "unique_id": "edutainment_0063_022_9a733921a98a21b4",
+    "title": "The Man Who Couldn't Stop Sleeping — For 10 Days Straight",
+    "hook": "A rare autoimmune disorder attacked his hypothalamus, locking him in a sleep cycle that lasted 240 hours — doctors thought he was faking.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 74,
+    "educational_value": 71,
+    "estimated_short_retention": 81,
+    "niche_name": "edutainment",
+    "subcategory": "bizarre world records",
+    "keywords": [
+      "sleep disorder",
+      "hypersomnia",
+      "autoimmune",
+      "Kleine Levin syndrome",
+      "medical mystery"
+    ],
+    "overlap_check_hash": "9a733921a98a21b4",
+    "why_this_can_go_viral": "Extreme medical anomaly with a dramatic hook — viewers will empathize and debate."
+  },
+  {
+    "unique_id": "edutainment_0063_023_2e992c0e86dec4dc",
+    "title": "Why a Single Tree in Australia Grows Fruit That Explodes on Contact",
+    "hook": "The dynamite tree's seed pods build up internal pressure until they detonate with a force that can break human bones — and they hunt for warmth.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 73,
+    "educational_value": 72,
+    "estimated_short_retention": 83,
+    "niche_name": "edutainment",
+    "subcategory": "strange science facts",
+    "keywords": [
+      "dynamite tree",
+      "exploding fruit",
+      "Australia",
+      "Hura crepitans",
+      "plant defense"
+    ],
+    "overlap_check_hash": "2e992c0e86dec4dc",
+    "why_this_can_go_viral": "Dangerous plant with a shocking mechanism — perfect for 'nature is metal' content."
+  },
+  {
+    "unique_id": "edutainment_0063_024_9eb8e4931b2ab29a",
+    "title": "The Forbidden Experiment That Tried to Give a Plant Human Emotions",
+    "hook": "Back in 1966, a polygraph expert attached electrodes to a plant and claimed it screamed when his thoughts turned violent — the CIA investigated.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 85,
+    "niche_name": "edutainment",
+    "subcategory": "forbidden knowledge unlocked",
+    "keywords": [
+      "plant emotions",
+      "polygraph plant",
+      "CIA investigation",
+      "Backster effect",
+      "pseudoscience"
+    ],
+    "overlap_check_hash": "9eb8e4931b2ab29a",
+    "why_this_can_go_viral": "Blurs the line between science and paranormal — perfect for debate and conspiracy-driven comments."
+  },
+  {
+    "unique_id": "edutainment_0063_025_8632f164a6bfc792",
+    "title": "The Hidden Room Where a Computer Recreates Every Crime Scene in 3D",
+    "hook": "A secret FBI lab uses laser scanning and AI to reconstruct murders — down to the blood spatter angle — and solve cold cases decades old.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "edutainment",
+    "subcategory": "hidden systems explained",
+    "keywords": [
+      "crime reconstruction",
+      "FBI lab",
+      "3D scanning",
+      "cold cases",
+      "forensic tech"
+    ],
+    "overlap_check_hash": "8632f164a6bfc792",
+    "why_this_can_go_viral": "Makes viewers feel like they're accessing classified crime-solving methods — taps into true crime obsession."
+  }
+]

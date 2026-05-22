@@ -1,0 +1,44 @@
+[
+  {
+    "unique_id": "sports_0164_003_76288352f28c94dd",
+    "title": "The Ref Who Fixed a Rugby Match by Shortening the First Half",
+    "hook": "A referee adjusted his watch mid-game, shaving off 12 minutes — the team that needed time to catch up never had a chance.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "referee fix",
+      "rugby corruption",
+      "time manipulation",
+      "watch tampering",
+      "match fixing"
+    ],
+    "overlap_check_hash": "76288352f28c94dd",
+    "why_this_can_go_viral": "Time manipulation is a universally understood betrayal — viewers will rewatch to catch the trick."
+  },
+  {
+    "unique_id": "sports_0164_021_298d3f79d113c0f5",
+    "title": "The Psychologist Who Made a Golfer Flinch on Every Putt Using Subliminal Snake Images",
+    "hook": "A single frame of a snake hidden in the tournament program — and the golfer flinched on every putt for a year.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 77,
+    "educational_value": 73,
+    "estimated_short_retention": 81,
+    "niche_name": "sports",
+    "subcategory": "psychological manipulation",
+    "keywords": [
+      "subliminal snake",
+      "golf sabotage",
+      "flinch trigger",
+      "mind programming",
+      "putting yips"
+    ],
+    "overlap_check_hash": "298d3f79d113c0f5",
+    "why_this_can_go_viral": "The subtlety of a single hidden frame causing visible physical flinching is mind-blowing — viewers will want to test it."
+  }
+]

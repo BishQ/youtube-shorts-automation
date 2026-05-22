@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "wealth_0020_001_0ea4581f99d9b9d1",
+    "title": "The Bank That Only Opens Vaults When the Owner Dies",
+    "hook": "Inside a Swiss vault that can only be accessed after a billionaire's death—no next of kin, no lawyers, just a single passcode sent to a dead man's phone.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "wealth",
+    "subcategory": "shadow banking",
+    "keywords": [
+      "death vault",
+      "billionaire banking",
+      "shadow banking",
+      "post-mortem access",
+      "secret bank"
+    ],
+    "overlap_check_hash": "0ea4581f99d9b9d1",
+    "why_this_can_go_viral": "Death, secrecy, and forbidden access trigger deep curiosity and morbid fascination."
+  },
+  {
+    "unique_id": "wealth_0020_002_ccaffb47e8bd18ad",
+    "title": "The Heir Who Had to Kill His Own Charity to Inherit",
+    "hook": "A billion-dollar trust fund that forced an heir to dismantle a homeless shelter he founded—or lose everything.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 55,
+    "estimated_short_retention": 80,
+    "niche_name": "wealth",
+    "subcategory": "trust fund dynasties",
+    "keywords": [
+      "trust fund curse",
+      "inheritance trap",
+      "billionaire condition",
+      "charity destruction",
+      "wealth test"
+    ],
+    "overlap_check_hash": "ccaffb47e8bd18ad",
+    "why_this_can_go_viral": "Moral dilemma and emotional conflict make viewers question wealth's true cost."
+  },
+  {
+    "unique_id": "wealth_0020_003_707cb7fd6f2f528a",
+    "title": "The Algorithm That Hunts for 'Genetic Gold' in the Poor",
+    "hook": "A hedge fund that scans DNA databases to find unborn children whose genes could cure a billionaire's disease—then buys their futures.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "wealth",
+    "subcategory": "dark money flows",
+    "keywords": [
+      "genetic hedge fund",
+      "DNA trading",
+      "billionaire health",
+      "genetic futures",
+      "biowealth"
+    ],
+    "overlap_check_hash": "707cb7fd6f2f528a",
+    "why_this_can_go_viral": "Bioethics horror meets financial manipulation—highly shareable and shocking."
+  },
+  {
+    "unique_id": "wealth_0020_004_8fe331816d93ff4f",
+    "title": "The Offshore Island Where Money Is Turned Into Diamonds",
+    "hook": "A Caribbean tax haven where cash is compressed into synthetic diamonds and stored in a vault under the ocean floor.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 75,
+    "educational_value": 60,
+    "estimated_short_retention": 78,
+    "niche_name": "wealth",
+    "subcategory": "offshore tax havens",
+    "keywords": [
+      "diamond money",
+      "offshore storage",
+      "synthetic diamond",
+      "hidden wealth",
+      "ocean vault"
+    ],
+    "overlap_check_hash": "8fe331816d93ff4f",
+    "why_this_can_go_viral": "Visual concept of turning cash into gems is easy to imagine and absurdly fascinating."
+  },
+  {
+    "unique_id": "wealth_0020_005_1b428a9df8399f47",
+    "title": "The Psychologist Who Made the Rich Feel Poor on Purpose",
+    "hook": "A therapy method that forces billionaires to live below the poverty line for 30 days—and the dark side effects nobody talks about.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 70,
+    "educational_value": 70,
+    "estimated_short_retention": 75,
+    "niche_name": "wealth",
+    "subcategory": "wealth psychology",
+    "keywords": [
+      "wealth therapy",
+      "poverty simulation",
+      "billionaire mindset",
+      "psychological trap",
+      "affluence guilt"
+    ],
+    "overlap_check_hash": "1b428a9df8399f47",
+    "why_this_can_go_viral": "Reverses the rich-poor dynamic—creates emotional tension and relatability."
+  },
+  {
+    "unique_id": "wealth_0020_006_0720599fe50c611f",
+    "title": "The Accountant Who Laundered Gold Through a Dead Volcano",
+    "hook": "A shadow accountant used an inactive volcano in Iceland to store gold bars for a fugitive billionaire—no questions, no paperwork.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 82,
+    "educational_value": 55,
+    "estimated_short_retention": 80,
+    "niche_name": "wealth",
+    "subcategory": "hidden wealth systems",
+    "keywords": [
+      "volcano gold",
+      "accountant laundering",
+      "hidden gold",
+      "Iceland wealth",
+      "fugitive billionaire"
+    ],
+    "overlap_check_hash": "0720599fe50c611f",
+    "why_this_can_go_viral": "Geological hiding spots plus illegal wealth—feels like a heist movie."
+  },
+  {
+    "unique_id": "wealth_0020_007_7e11a60bcc27a61b",
+    "title": "The Broker Who Sold Life Insurance on Strangers—Without Their Consent",
+    "hook": "A Wall Street broker took out life insurance policies on homeless people and collected millions when they died—legally.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 92,
+    "niche_name": "wealth",
+    "subcategory": "financial manipulation",
+    "keywords": [
+      "death betting",
+      "life insurance fraud",
+      "homeless exploitation",
+      "broker scam",
+      "ghost policies"
+    ],
+    "overlap_check_hash": "7e11a60bcc27a61b",
+    "why_this_can_go_viral": "Outrage and horror fuel shares—viewers can't believe this is legal."
+  },
+  {
+    "unique_id": "wealth_0020_010_c6e8e2f07720643c",
+    "title": "The Algorithm That Determines Your 'Worth' to the 0.01%",
+    "hook": "A secret scoring system ranks ordinary people by how useful they could be to billionaires—your score determines if you get 'sponsored' or ignored.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 60,
+    "estimated_short_retention": 79,
+    "niche_name": "wealth",
+    "subcategory": "wealth psychology",
+    "keywords": [
+      "human scoring",
+      "billionaire algorithm",
+      "social ranking",
+      "wealth gatekeeping",
+      "value system"
+    ],
+    "overlap_check_hash": "c6e8e2f07720643c",
+    "why_this_can_go_viral": "Taps into anxiety about being judged by invisible systems—relatable and creepy."
+  },
+  {
+    "unique_id": "wealth_0020_011_f75c8f669730b808",
+    "title": "The Shell Company That Owns the World's Largest Prison",
+    "hook": "A private prison in the US is actually owned by a shell company in the Cayman Islands—used to launder money for foreign oligarchs.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "wealth",
+    "subcategory": "shadow banking",
+    "keywords": [
+      "prison shell company",
+      "oligarch money laundering",
+      "private prison",
+      "Cayman Islands",
+      "shadow ownership"
+    ],
+    "overlap_check_hash": "f75c8f669730b808",
+    "why_this_can_go_viral": "Combines incarceration, corruption, and offshore secrecy—explosive mix."
+  },
+  {
+    "unique_id": "wealth_0020_012_3a3523d1b63b1e88",
+    "title": "The Billionaire Who Bought a Dictator's Debt for Control",
+    "hook": "A tech billionaire purchased a developing country's sovereign debt to force the government into a secret economic deal—essentially owning a nation.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "wealth",
+    "subcategory": "billionaire tactics",
+    "keywords": [
+      "sovereign debt",
+      "billionaire takeover",
+      "country ownership",
+      "economic control",
+      "dictator debt"
+    ],
+    "overlap_check_hash": "3a3523d1b63b1e88",
+    "why_this_can_go_viral": "David vs. Goliath on a global scale—viewers love to hate the ultra-powerful."
+  },
+  {
+    "unique_id": "wealth_0020_015_59913a93b44140c8",
+    "title": "The Lawyer Who Drafted a Contract That Bans You From Being Poor",
+    "hook": "A legal document that forces heirs to maintain a net worth of $10 million—if they drop below, they lose everything. It's totally enforceable.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "wealth",
+    "subcategory": "billionaire tactics",
+    "keywords": [
+      "wealth maintenance clause",
+      "billionaire contract",
+      "enforceable poverty ban",
+      "trust loophole",
+      "legal trap"
+    ],
+    "overlap_check_hash": "59913a93b44140c8",
+    "why_this_can_go_viral": "Absurd yet true—makes people rage at the legal system's bias toward the rich."
+  },
+  {
+    "unique_id": "wealth_0020_016_c8835e830418609e",
+    "title": "The Shadow Bank That Only Lends to People With Terminal Illnesses",
+    "hook": "A secret lending institution offers massive loans to the dying—knowing they'll never repay. The real profit comes from their life insurance policies.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 66,
+    "estimated_short_retention": 90,
+    "niche_name": "wealth",
+    "subcategory": "shadow banking",
+    "keywords": [
+      "death loan",
+      "terminal illness lending",
+      "life insurance scam",
+      "shadow lender",
+      "death profit"
+    ],
+    "overlap_check_hash": "c8835e830418609e",
+    "why_this_can_go_viral": "Mortality + exploitation is a gut punch—guaranteed outrage shares."
+  },
+  {
+    "unique_id": "wealth_0020_017_09af8621060549b9",
+    "title": "The Algorithm That Predicts How Much Your Silence Is Worth",
+    "hook": "A data firm calculates the exact price a billionaire would pay to keep you quiet about a secret—then sells that information to the highest bidder.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 62,
+    "estimated_short_retention": 84,
+    "niche_name": "wealth",
+    "subcategory": "financial manipulation",
+    "keywords": [
+      "silence pricing",
+      "NDA algorithm",
+      "billionaire secrets",
+      "data exploitation",
+      "blackmail value"
+    ],
+    "overlap_check_hash": "09af8621060549b9",
+    "why_this_can_go_viral": "Everyone has secrets—the idea that an algorithm appraises them is terrifyingly personal."
+  },
+  {
+    "unique_id": "wealth_0020_018_0fc3618d8d2b3bd9",
+    "title": "The Offshore Bank That Employs Only Blind Tellers",
+    "hook": "A bank in a remote tax haven hires only blind staff—so they can't identify the clients carrying in hundred-million-dollar cash deposits.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 50,
+    "estimated_short_retention": 81,
+    "niche_name": "wealth",
+    "subcategory": "offshore tax havens",
+    "keywords": [
+      "blind tellers",
+      "offshore bank",
+      "anonymous banking",
+      "cash deposits",
+      "tax haven secrets"
+    ],
+    "overlap_check_hash": "0fc3618d8d2b3bd9",
+    "why_this_can_go_viral": "Stranger than fiction—makes viewers question how far banks go for secrecy."
+  },
+  {
+    "unique_id": "wealth_0020_019_9a8d2002d40d2854",
+    "title": "The Dynasty That Hid Its Fortune Inside a City of the Dead",
+    "hook": "A European aristocratic family stored their wealth in a network of tombs beneath a cemetery—guarded by the dead, untaxed for centuries.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 84,
+    "educational_value": 55,
+    "estimated_short_retention": 79,
+    "niche_name": "wealth",
+    "subcategory": "hidden wealth systems",
+    "keywords": [
+      "cemetery wealth",
+      "dynasty tombs",
+      "hidden fortune",
+      "aristocratic estate",
+      "underground vault"
+    ],
+    "overlap_check_hash": "9a8d2002d40d2854",
+    "why_this_can_go_viral": "Gothic horror meets real history—visually rich and deeply eerie."
+  },
+  {
+    "unique_id": "wealth_0020_020_736dcf248951cf1f",
+    "title": "The Heir Who Had to Fail a Polygraph to Inherit",
+    "hook": "A billion-dollar trust fund required the heir to lie under oath during a polygraph test—if the machine caught the truth, the money was gone.",
+    "virality_score": 77,
+    "curiosity_gap_score": 83,
+    "darkness_score": 75,
+    "educational_value": 50,
+    "estimated_short_retention": 74,
+    "niche_name": "wealth",
+    "subcategory": "trust fund dynasties",
+    "keywords": [
+      "polygraph inheritance",
+      "lie to inherit",
+      "billionaire condition",
+      "trust fund game",
+      "deception test"
+    ],
+    "overlap_check_hash": "736dcf248951cf1f",
+    "why_this_can_go_viral": "Psychological games within families—high drama and intense relatability."
+  },
+  {
+    "unique_id": "wealth_0020_022_58b7b4d76327e9f5",
+    "title": "The Algorithm That Flags Children for 'Low Wealth Potential'",
+    "hook": "Schools in wealthy districts use a secret algorithm to identify kids unlikely to become rich—then subtly redirect them away from resources.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 89,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "wealth",
+    "subcategory": "dark money flows",
+    "keywords": [
+      "wealth algorithm",
+      "child scoring",
+      "school tracking",
+      "class bias",
+      "future prediction"
+    ],
+    "overlap_check_hash": "58b7b4d76327e9f5",
+    "why_this_can_go_viral": "Class warfare meets education—parents and students will be furious and engaged."
+  },
+  {
+    "unique_id": "wealth_0020_024_2272d2d1637279d9",
+    "title": "The Psychologist Who Discovered That Money Can Erase Empathy",
+    "hook": "A study found that after reaching $50 million, the brain literally stops processing others' pain—and the ultra-rich fund research to keep it hidden.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "wealth",
+    "subcategory": "wealth psychology",
+    "keywords": [
+      "empathy loss",
+      "billionaire brain",
+      "wealth neuroscience",
+      "moral blindness",
+      "rich psychology"
+    ],
+    "overlap_check_hash": "2272d2d1637279d9",
+    "why_this_can_go_viral": "Explains why the rich seem disconnected—scientific backing makes it shareable."
+  },
+  {
+    "unique_id": "wealth_0020_025_7f687201c66527e6",
+    "title": "The Offshore Island Where Money Is Buried in a Nuclear Bunker",
+    "hook": "A decommissioned Cold War bunker on a remote island now stores billions in cash and gold for anonymous owners—guarded by former military contractors.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 58,
+    "estimated_short_retention": 80,
+    "niche_name": "wealth",
+    "subcategory": "offshore tax havens",
+    "keywords": [
+      "nuclear bunker wealth",
+      "offshore gold",
+      "cold war vault",
+      "anonymous storage",
+      "military guards"
+    ],
+    "overlap_check_hash": "7f687201c66527e6",
+    "why_this_can_go_viral": "Cold War nostalgia + hidden treasure + secrecy = cinematic and compelling."
+  }
+]

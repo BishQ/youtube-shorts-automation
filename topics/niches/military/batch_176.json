@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "military_0176_001_4c9da3b60d3f8455",
+    "title": "The Black Budget Plane That Refueled Using Lightning",
+    "hook": "Deep inside a classified hangar, engineers built an aircraft that could siphon energy directly from thunderstorms to stay airborne for weeks.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "military",
+    "subcategory": "black budget programs",
+    "keywords": [
+      "lightning",
+      "black budget",
+      "aircraft",
+      "energy",
+      "classified"
+    ],
+    "overlap_check_hash": "4c9da3b60d3f8455",
+    "why_this_can_go_viral": "Combines impossible tech with real atmospheric physics—viewers want to believe it's real."
+  },
+  {
+    "unique_id": "military_0176_002_c8eb84129ea1e32c",
+    "title": "The Soldier Who Was Partially Rebuilt With Titanium Bones",
+    "hook": "A battlefield injury was so catastrophic that military surgeons decided to replace half his skeleton with experimental metal implants.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 76,
+    "niche_name": "military",
+    "subcategory": "soldier experiments",
+    "keywords": [
+      "titanium",
+      "implants",
+      "experimental",
+      "surgery",
+      "survival"
+    ],
+    "overlap_check_hash": "c8eb84129ea1e32c",
+    "why_this_can_go_viral": "Blends body horror with futuristic military medicine—shock value and awe drive shares."
+  },
+  {
+    "unique_id": "military_0176_003_6f46ebde02969afd",
+    "title": "The Covert Mission That Swapped a Dictator's Body Double",
+    "hook": "Operatives kidnapped a lookalike, surgically altered him, and installed him on the throne—while the real ruler was buried in a shallow grave.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 88,
+    "educational_value": 50,
+    "estimated_short_retention": 88,
+    "niche_name": "military",
+    "subcategory": "covert missions",
+    "keywords": [
+      "body double",
+      "dictator",
+      "swap",
+      "assassination",
+      "imposter"
+    ],
+    "overlap_check_hash": "6f46ebde02969afd",
+    "why_this_can_go_viral": "Puppet master conspiracy meets true-crime horror—viewers will debate whether this could happen today."
+  },
+  {
+    "unique_id": "military_0176_004_ad7fb5e739fcea99",
+    "title": "The War Crime Where a Commander Gassed His Own Troops to Test a Cure",
+    "hook": "In a remote zone, a general exposed his own men to a nerve agent just to see if the untested antidote would bring them back.",
+    "virality_score": 88,
+    "curiosity_gap_score": 87,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "military",
+    "subcategory": "war crimes hidden",
+    "keywords": [
+      "nerve agent",
+      "antidote",
+      "human testing",
+      "commander",
+      "gassed"
+    ],
+    "overlap_check_hash": "ad7fb5e739fcea99",
+    "why_this_can_go_viral": "Betrayal of the highest order—moral outrage and morbid curiosity fuel engagement."
+  },
+  {
+    "unique_id": "military_0176_005_7eeb05a63e01df03",
+    "title": "The Psychological Op That Made an Enemy General Hear Voices From Heaven",
+    "hook": "Using hidden speakers and a captive priest, a unit convinced a general that God himself was ordering him to surrender.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 55,
+    "estimated_short_retention": 78,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "god",
+      "voices",
+      "speakers",
+      "surrender",
+      "religious"
+    ],
+    "overlap_check_hash": "7eeb05a63e01df03",
+    "why_this_can_go_viral": "Divine intervention revealed as a cheap trick—viewers love the manipulation behind the miracle."
+  },
+  {
+    "unique_id": "military_0176_006_dab26070f85b767d",
+    "title": "The Secret Weapons Program That Built a Rifle That Fired Acid Bullets",
+    "hook": "Designed to dissolve tank armor from the inside, these rounds were so cruel the project was buried and never spoken of again.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 89,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "military",
+    "subcategory": "secret weapons programs",
+    "keywords": [
+      "acid",
+      "bullets",
+      "tank",
+      "armor",
+      "dissolve"
+    ],
+    "overlap_check_hash": "dab26070f85b767d",
+    "why_this_can_go_viral": "Visual horror of melting metal—viewers will imagine the effect on human flesh and click instantly."
+  },
+  {
+    "unique_id": "military_0176_007_bf820d2a117728c8",
+    "title": "The Classified Operation Where a Submarine Was Used as a Hearse",
+    "hook": "A nuclear sub was secretly converted to carry the frozen body of a fallen soldier across enemy waters for a burial at sea.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 70,
+    "educational_value": 60,
+    "estimated_short_retention": 72,
+    "niche_name": "military",
+    "subcategory": "classified operations",
+    "keywords": [
+      "submarine",
+      "hearse",
+      "frozen",
+      "body",
+      "burial"
+    ],
+    "overlap_check_hash": "bf820d2a117728c8",
+    "why_this_can_go_viral": "Sacred and secret—honor mixed with high-stakes stealth resonates deeply."
+  },
+  {
+    "unique_id": "military_0176_008_4fb071dc1b93e1d0",
+    "title": "The Military Deception That Dropped Fake Bodies to Mislead Snipers",
+    "hook": "Rubber corpses loaded with blood bags were parachuted into warzones to draw enemy fire and reveal hidden shooter positions.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "military",
+    "subcategory": "military deceptions",
+    "keywords": [
+      "fake",
+      "bodies",
+      "snipers",
+      "blood",
+      "parachute"
+    ],
+    "overlap_check_hash": "4fb071dc1b93e1d0",
+    "why_this_can_go_viral": "Grim and ingenious—viewers love tactics that weaponize enemy instincts."
+  },
+  {
+    "unique_id": "military_0176_009_53115eb09b1e4cb1",
+    "title": "The Black Budget Lab That Built a Bomb That Targeted Only People With Blue Eyes",
+    "hook": "A genetic weapon designed to identify and kill based on iris color—shelved only because it couldn't be aimed precisely enough.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 93,
+    "educational_value": 50,
+    "estimated_short_retention": 88,
+    "niche_name": "military",
+    "subcategory": "black budget programs",
+    "keywords": [
+      "genetic",
+      "blue eyes",
+      "bomb",
+      "target",
+      "iris"
+    ],
+    "overlap_check_hash": "53115eb09b1e4cb1",
+    "why_this_can_go_viral": "Eugenics-level horror combined with sci-fi tech—triggers deep fear and debate."
+  },
+  {
+    "unique_id": "military_0176_010_05b8ea3796aa9fb0",
+    "title": "The Soldier Experiment Where They Tested a Drug That Erased Memory of Pain",
+    "hook": "Troops were injected with an experimental compound that made them forget every wound they suffered—until the next morning.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 76,
+    "niche_name": "military",
+    "subcategory": "soldier experiments",
+    "keywords": [
+      "memory",
+      "pain",
+      "drug",
+      "injection",
+      "forget"
+    ],
+    "overlap_check_hash": "05b8ea3796aa9fb0",
+    "why_this_can_go_viral": "Biological gaslighting—viewers will wonder how many soldiers were ruined by repeated trauma."
+  },
+  {
+    "unique_id": "military_0176_012_86ed9f28641fba14",
+    "title": "The War Crime Hidden Where Prisoners Were Starved and Fed Paper",
+    "hook": "Captives were given only sheets of treated paper to eat—claimed as 'rations' while the guards filmed their slow decline for study.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 97,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "military",
+    "subcategory": "war crimes hidden",
+    "keywords": [
+      "paper",
+      "starved",
+      "rations",
+      "filmed",
+      "study"
+    ],
+    "overlap_check_hash": "86ed9f28641fba14",
+    "why_this_can_go_viral": "Bizarre cruelty that feels almost unreal—shock and disgust drive shares."
+  },
+  {
+    "unique_id": "military_0176_013_455e247765f4a2bd",
+    "title": "The Psychological Op That Used a Dead Soldier's Voice to Haunt an Enemy Platoon",
+    "hook": "Recordings of a fallen man's final words were played through the jungle at night, making his killers believe his ghost was hunting them.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 50,
+    "estimated_short_retention": 84,
+    "niche_name": "military",
+    "subcategory": "psychological operations",
+    "keywords": [
+      "ghost",
+      "voice",
+      "haunt",
+      "recordings",
+      "jungle"
+    ],
+    "overlap_check_hash": "455e247765f4a2bd",
+    "why_this_can_go_viral": "Supernatural horror weaponized—viewers love the line between psychological warfare and paranormal."
+  },
+  {
+    "unique_id": "military_0176_014_ffbe545d2f3c6872",
+    "title": "The Secret Weapons Program That Built a Missile That Navigated by Stars",
+    "hook": "Before GPS, engineers created a warhead that could read constellations to strike targets on the other side of the planet.",
+    "virality_score": 76,
+    "curiosity_gap_score": 81,
+    "darkness_score": 65,
+    "educational_value": 80,
+    "estimated_short_retention": 72,
+    "niche_name": "military",
+    "subcategory": "secret weapons programs",
+    "keywords": [
+      "stars",
+      "missile",
+      "navigate",
+      "constellation",
+      "GPS"
+    ],
+    "overlap_check_hash": "ffbe545d2f3c6872",
+    "why_this_can_go_viral": "Ancient navigation meets modern warfare—intelligent viewers love the ingenious hack."
+  },
+  {
+    "unique_id": "military_0176_015_1fa47ad5aa84b9fb",
+    "title": "The Classified Operation Where a Plane Was Flown Into a Hurricane to Drop a Bomb",
+    "hook": "The military flew a bomber directly into the eye of a Category 5 storm to test if a detonation could disrupt the hurricane's path.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 72,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "military",
+    "subcategory": "classified operations",
+    "keywords": [
+      "hurricane",
+      "bomber",
+      "eye",
+      "storm",
+      "detonation"
+    ],
+    "overlap_check_hash": "1fa47ad5aa84b9fb",
+    "why_this_can_go_viral": "Weather as a weapon—mix of disaster spectacle and secret science hooks viewers."
+  },
+  {
+    "unique_id": "military_0176_018_02bca232b1fe4be6",
+    "title": "The Soldier Experiment Where They Tested a Serum That Made Troops Immune to Fear of Heights",
+    "hook": "Paratroopers were given an untested compound that eliminated vertigo—then pushed out of planes at 30,000 feet.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 76,
+    "educational_value": 65,
+    "estimated_short_retention": 74,
+    "niche_name": "military",
+    "subcategory": "soldier experiments",
+    "keywords": [
+      "serum",
+      "fear",
+      "heights",
+      "paratroopers",
+      "vertigo"
+    ],
+    "overlap_check_hash": "02bca232b1fe4be6",
+    "why_this_can_go_viral": "Experimental bravery with lethal stakes—viewers root for and recoil at the concept."
+  },
+  {
+    "unique_id": "military_0176_019_9b20fb5d59197593",
+    "title": "The Covert Mission Where a Team Crawled Through Sewers to Poison a Water Supply",
+    "hook": "Operatives navigated miles of raw sewage carrying a biological agent meant to incapacitate an entire city garrison.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 84,
+    "educational_value": 55,
+    "estimated_short_retention": 80,
+    "niche_name": "military",
+    "subcategory": "covert missions",
+    "keywords": [
+      "sewers",
+      "poison",
+      "water",
+      "biological",
+      "garrison"
+    ],
+    "overlap_check_hash": "9b20fb5d59197593",
+    "why_this_can_go_viral": "Gritty, disgusting, and extremely high-stakes—viewers love the visceral underdog angle."
+  },
+  {
+    "unique_id": "military_0176_022_363205a0f300767e",
+    "title": "The Secret Weapons Program That Built a Flamethrower That Shot Liquid Magnesium",
+    "hook": "Burning at over 4,000 degrees, this weapon could melt through concrete and couldn't be extinguished with water.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "military",
+    "subcategory": "secret weapons programs",
+    "keywords": [
+      "magnesium",
+      "flamethrower",
+      "concrete",
+      "melt",
+      "unquenchable"
+    ],
+    "overlap_check_hash": "363205a0f300767e",
+    "why_this_can_go_viral": "Extreme heat plus unstoppable fire—visual and conceptual shock drives virality."
+  },
+  {
+    "unique_id": "military_0176_025_1dc193701df534a1",
+    "title": "The Black Budget Lab That Built a Gun That Fired Hypodermic Darts Filled With Acid",
+    "hook": "Silent, untraceable, and designed to dissolve internal organs—a weapon made to disappear its own evidence.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "military",
+    "subcategory": "black budget programs",
+    "keywords": [
+      "darts",
+      "acid",
+      "hypodermic",
+      "silent",
+      "evidence"
+    ],
+    "overlap_check_hash": "1dc193701df534a1",
+    "why_this_can_go_viral": "Assassin fantasy meets body horror—viewers recoil but can't look away."
+  }
+]

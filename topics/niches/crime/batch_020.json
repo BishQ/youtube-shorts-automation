@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "crime_0020_001_185c86dc1c0ea01e",
+    "title": "The Heist Where Thieves Used a Tunneling Robot to Break Into a Vault",
+    "hook": "A team of criminals used a remote-controlled digging machine to tunnel directly beneath a bank vault, bypassing all alarms—until a tiny miscalculation flooded the tunnel with sewage.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 65,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "robot heist",
+      "tunnel vault",
+      "bank security bypass",
+      "engineering crime",
+      "underground robbery"
+    ],
+    "overlap_check_hash": "185c86dc1c0ea01e",
+    "why_this_can_go_viral": "Combines high-tech gadgetry with a gross, unexpected twist audiences love."
+  },
+  {
+    "unique_id": "crime_0020_002_bc0f0020486c3e3d",
+    "title": "The Fraudster Who Sold the Same $100 Million Painting to 5 Different Billionaires",
+    "hook": "She convinced five of the world's richest men they each owned a lost Picasso—by storing it in a secret room that none of them ever visited.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 60,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "art fraud",
+      "Picasso duplicate",
+      "billionaire scam",
+      "fake ownership",
+      "luxury crime"
+    ],
+    "overlap_check_hash": "bc0f0020486c3e3d",
+    "why_this_can_go_viral": "Billionaire humiliation is universally satisfying; the twist is absurdly unbelievable."
+  },
+  {
+    "unique_id": "crime_0020_003_d7a97f08dcb0d4dd",
+    "title": "The Cartel That Built a Passenger Submarine Fleet for Drug Smuggling",
+    "hook": "They weren't using speedboats—they built actual semi-submersible vessels that could cross oceans, and they painted them like fishing trawlers.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "drug submarine",
+      "narco sub",
+      "cartel engineering",
+      "ocean smuggling",
+      "covert shipping"
+    ],
+    "overlap_check_hash": "d7a97f08dcb0d4dd",
+    "why_this_can_go_viral": "Submarines as drug mules is a mind-blowing scale of criminal engineering."
+  },
+  {
+    "unique_id": "crime_0020_004_9a8e60ed1599b056",
+    "title": "The Unsolved Murder Where the Killer Left a Coded Message in the Victim's Clock",
+    "hook": "The only evidence was a stopped grandfather clock with its hands pointing to 11:47—years later, detectives realized it was a grid coordinate.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "clock code",
+      "cold case",
+      "hidden coordinates",
+      "unsolved mystery",
+      "murder puzzle"
+    ],
+    "overlap_check_hash": "9a8e60ed1599b056",
+    "why_this_can_go_viral": "True-crime fans love decoding clues; the clock twist feels like a real-life Da Vinci Code."
+  },
+  {
+    "unique_id": "crime_0020_005_2a038fc221f912dd",
+    "title": "The White-Collar Criminal Who Forged His Own Death Certificate—Then Emailed His Boss",
+    "hook": "He faked a fatal heart attack, collected life insurance, then sent a resignation email from 'beyond the grave' because he forgot to close a spreadsheet.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 70,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "fake death",
+      "insurance scam",
+      "stupid criminal",
+      "forgery",
+      "office fraud"
+    ],
+    "overlap_check_hash": "2a038fc221f912dd",
+    "why_this_can_go_viral": "Absurdly relatable mistake + massive fraud = perfect dark comedy."
+  },
+  {
+    "unique_id": "crime_0020_007_bff673e5f881e142",
+    "title": "The Organized Crime Empire That Used a Funeral Home to Ship Drugs Across State Lines",
+    "hook": "They drove hearses carrying 'corpses' packed with cocaine—and even embalmed a few real bodies to keep the smell convincing.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 95,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "funeral home drug smuggling",
+      "hearse cocaine",
+      "mob undertaker",
+      "body trafficking",
+      "cross-state crime"
+    ],
+    "overlap_check_hash": "bff673e5f881e142",
+    "why_this_can_go_viral": "Morbid, taboo-breaking premise that feels like a movie plot but is 100% real."
+  },
+  {
+    "unique_id": "crime_0020_008_eb2d4aa87c96d157",
+    "title": "The Criminal Mastermind Who Stole a Boeing 747 by Posing as Its Pilot",
+    "hook": "He walked into the airport wearing a fake uniform, boarded a passenger jet, and flew it to a secret airstrip—all before anyone noticed the real pilot was tied up.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "stolen airplane",
+      "imposter pilot",
+      "airport security breach",
+      "aviation heist",
+      "fake uniform scam"
+    ],
+    "overlap_check_hash": "eb2d4aa87c96d157",
+    "why_this_can_go_viral": "Grand theft airplane is instantly cinematic; the impersonation twist is shocking."
+  },
+  {
+    "unique_id": "crime_0020_009_790ccb27b54930dc",
+    "title": "The Heist Where Thieves Stole a Diamond by Replacing It with a Glass Eye",
+    "hook": "A museum guard with a glass eye swapped a 50-carat diamond for his prosthetic—and walked out with the jewel concealed in his own socket.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 70,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "glass eye heist",
+      "diamond swap",
+      "body cavity theft",
+      "museum security",
+      "prosthetic trick"
+    ],
+    "overlap_check_hash": "790ccb27b54930dc",
+    "why_this_can_go_viral": "Body horror meets clever deception; visual and unforgettable."
+  },
+  {
+    "unique_id": "crime_0020_011_009e5c786d736a6c",
+    "title": "The Cartel That Used a Hot Air Balloon Festival to Fly Cocaine Across Borders",
+    "hook": "Disguised as a family tourist attraction, they launched drug-laden balloons that drifted silently over border fences every October.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "hot air balloon drugs",
+      "border smuggling",
+      "festival cover",
+      "airborne cocaine",
+      "cartel creativity"
+    ],
+    "overlap_check_hash": "009e5c786d736a6c",
+    "why_this_can_go_viral": "Whimsical setting contrasted with dark crime creates strong visual intrigue."
+  },
+  {
+    "unique_id": "crime_0020_012_4f26442de1c02f69",
+    "title": "The White-Collar Criminal Who Sold Fake Sea Monsters to Maritime Museums",
+    "hook": "He manufactured 'giant squid carcasses' from pig bladders and latex, and fooled four natural history museums into paying $2 million each.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 60,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "fake sea monster",
+      "museum fraud",
+      "giant squid scam",
+      "maritime deception",
+      "cryptozoology crime"
+    ],
+    "overlap_check_hash": "4f26442de1c02f69",
+    "why_this_can_go_viral": "Mix of sci-fi, cryptozoology, and white-collar greed—irresistible to click."
+  },
+  {
+    "unique_id": "crime_0020_013_0de5705d959b56e8",
+    "title": "The Unsolved Murder Where the Victim Was Killed with an Antique Sword That Disappeared",
+    "hook": "The murder weapon was a centuries-old samurai blade—but when police arrived, it was gone, and the only fingerprints belonged to a dead man.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "samurai sword murder",
+      "cold case weapon",
+      "fingerprint mystery",
+      "antique crime",
+      "unsolved mystery"
+    ],
+    "overlap_check_hash": "0de5705d959b56e8",
+    "why_this_can_go_viral": "High contrast of ancient weapon in modern crime + impossible evidence = compulsive mystery."
+  },
+  {
+    "unique_id": "crime_0020_014_d181d994e2d8e329",
+    "title": "The Serial Killer Who Used a Police Scanner to Avoid Capture for 12 Years",
+    "hook": "He listened to real-time police radio, always staying two blocks ahead of patrols—until he was caught because his scanner battery died.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "police scanner killer",
+      "evading capture",
+      "tech savvy murderer",
+      "real-time avoidance",
+      "battery failure arrest"
+    ],
+    "overlap_check_hash": "d181d994e2d8e329",
+    "why_this_can_go_viral": "Technological cat-and-mouse story with a Shakespearean tragic flaw ending."
+  },
+  {
+    "unique_id": "crime_0020_015_ab4dbb1606ba4cb9",
+    "title": "The Organized Crime Empire That Used a Puppet Theater to Smuggle Illegal Weapons",
+    "hook": "They hollowed out marionette dolls and stuffed them with disassembled machine guns—performing shows for children while trafficking arms.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "puppet weapon smuggling",
+      "marionette guns",
+      "children's theater cover",
+      "arms trafficking",
+      "organized crime tactic"
+    ],
+    "overlap_check_hash": "ab4dbb1606ba4cb9",
+    "why_this_can_go_viral": "Innocence twisted into horror—the most viral true-crime content uses family-safe fronts for evil."
+  },
+  {
+    "unique_id": "crime_0020_017_fd71dfaa4ebfd9dd",
+    "title": "The Heist Where Thieves Stole a Safe by Replacing It with a Perfect Replica Made of Wood",
+    "hook": "They measured the original safe to millimeter precision, built a hollow wooden duplicate, swapped it overnight—and nobody noticed for six months.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 65,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "wooden safe replica",
+      "safe swap heist",
+      "craftsmanship crime",
+      "museum theft",
+      "perfect duplicate"
+    ],
+    "overlap_check_hash": "fd71dfaa4ebfd9dd",
+    "why_this_can_go_viral": "Displays incredible craftsmanship and patience; viewer sees the audacity of the trade."
+  },
+  {
+    "unique_id": "crime_0020_018_ba41c927dcc5b4bb",
+    "title": "The Billion-Dollar Fraud That Sold Fake Birthday Parties for Dead Celebrities",
+    "hook": "He charged $50,000 for 'exclusive birthday experiences' with Elvis, Tupac, and Kurt Cobain—using holograms and impostors—and sold 2,000 tickets.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 75,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "dead celebrity scam",
+      "hologram parties",
+      "Elvis fraud",
+      "Tupac experience",
+      "grief exploitation"
+    ],
+    "overlap_check_hash": "ba41c927dcc5b4bb",
+    "why_this_can_go_viral": "Blends pop culture, death, and absurd gullibility—shareable and emotionally charged."
+  },
+  {
+    "unique_id": "crime_0020_019_70b02e4fe0f89784",
+    "title": "The Cartel That Used a Fake Ambulance Service to Move Victims Across the Country",
+    "hook": "They painted a fleet of vans with Red Cross logos, installed sirens, and drove kidnapped rivals through checkpoints—cops waved them through every time.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "fake ambulance kidnapping",
+      "cartel ambulance",
+      "human trafficking",
+      "checkpoint bypass",
+      "emergency vehicle crime"
+    ],
+    "overlap_check_hash": "70b02e4fe0f89784",
+    "why_this_can_go_viral": "Exploits trust in first responders; morally shocking and visually cinematic."
+  },
+  {
+    "unique_id": "crime_0020_020_3a0d90b7c8cab08d",
+    "title": "The White-Collar Criminal Who Stole $10 Million by Selling Fake Internet Domain Names to NASA",
+    "hook": "He registered domain names that were one typo away from NASA's internal servers, then sold them back to the agency for millions—for 8 years.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 65,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "domain typo scam",
+      "NASA fraud",
+      "cybersquatting crime",
+      "government hack",
+      "IT exploitation"
+    ],
+    "overlap_check_hash": "3a0d90b7c8cab08d",
+    "why_this_can_go_viral": "High-tech, low-effort crime against a massive institution feels like a hacker fantasy."
+  },
+  {
+    "unique_id": "crime_0020_022_afe14d5afebfb020",
+    "title": "The Serial Killer Who Only Killed People Who Had Recently Gotten a Raise",
+    "hook": "He accessed payroll databases at a dozen companies and targeted employees exactly one week after their salary bump—until an accountant noticed the pattern.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "payroll killer",
+      "salary raise murders",
+      "data mining crime",
+      "corporate victim selection",
+      "financial pattern"
+    ],
+    "overlap_check_hash": "afe14d5afebfb020",
+    "why_this_can_go_viral": "Combines workplace anxiety with chilling calculation—viewers will check their own pay stubs."
+  },
+  {
+    "unique_id": "crime_0020_023_02f25421be512d08",
+    "title": "The Organized Crime Empire That Controlled a Whole Town's Septic System to Transport Drugs",
+    "hook": "They ran cocaine through underground sewage pipes directly into the town's water treatment plant—then extracted it from a secret valve at the pump station.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "sewage drug pipeline",
+      "underground crime",
+      "septic system smuggling",
+      "town infiltration",
+      "infrastructure crime"
+    ],
+    "overlap_check_hash": "02f25421be512d08",
+    "why_this_can_go_viral": "Gut-level disgust and sheer audacity—viewers will be both horrified and fascinated."
+  },
+  {
+    "unique_id": "crime_0020_024_b8de013f3d042e1b",
+    "title": "The Criminal Mastermind Who Stole a Yacht from a Billionaire—Then Used It to Host His Own Wedding",
+    "hook": "He sailed the stolen 150-foot yacht into a different port, changed the name, and married his fiancée on the deck—with the real owner's family on the next dock.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 70,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "stolen yacht",
+      "billionaire theft",
+      "wedding crime",
+      "audacious thief",
+      "nautical heist"
+    ],
+    "overlap_check_hash": "b8de013f3d042e1b",
+    "why_this_can_go_viral": "Incredible real-life audacity with a romantic twist—perfect for shareability."
+  },
+  {
+    "unique_id": "crime_0020_025_a4d64120102e4b52",
+    "title": "The Heist Where Thieves Stole a Museum's Entire Collection by Replacing Each Painting with a Photocopy",
+    "hook": "They scanned 30 masterpieces on a flatbed scanner, printed them on canvas, hung the fakes back up, and walked out with the originals in a laundry bag.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 68,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "photocopy art heist",
+      "museum swap",
+      "art theft",
+      "fake painting",
+      "low-tech high-value"
+    ],
+    "overlap_check_hash": "a4d64120102e4b52",
+    "why_this_can_go_viral": "The low-tech, high-payoff method is both hilarious and terrifying; viewers love 'simple but genius' heists."
+  }
+]

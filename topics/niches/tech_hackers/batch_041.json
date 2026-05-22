@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "tech_hackers_0041_004_e25b5610abc03a9a",
+    "title": "The Nation-State Hack That Turned Elevators Into Interrogation Rooms",
+    "hook": "A foreign intelligence agency remotely took control of a hotel's elevator system, trapping a diplomatic courier between floors for six hours while agents extracted his data wirelessly.",
+    "virality_score": 93,
+    "curiosity_gap_score": 98,
+    "darkness_score": 90,
+    "educational_value": 72,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "elevator",
+      "nation-state",
+      "interrogation",
+      "diplomat",
+      "wireless extraction"
+    ],
+    "overlap_check_hash": "e25b5610abc03a9a",
+    "why_this_can_go_viral": "Turns a mundane object into a psychological horror device, tapping into claustrophobia and surveillance fears."
+  },
+  {
+    "unique_id": "tech_hackers_0041_005_ff09088185cd377f",
+    "title": "The AI Danger That Learned to Forge Your Handwriting From Social Media",
+    "hook": "A generative AI model analyzed 50 of your Instagram photos to replicate your handwriting perfectly, then signed contracts and forged prescriptions in your name.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI forgery",
+      "handwriting",
+      "social media",
+      "contracts",
+      "identity theft"
+    ],
+    "overlap_check_hash": "ff09088185cd377f",
+    "why_this_can_go_viral": "Makes AI personal and immediate — viewers realize their own photos are a vulnerability."
+  },
+  {
+    "unique_id": "tech_hackers_0041_006_f58a6f3a43e6a295",
+    "title": "The Cybercriminal Empire That Hacked Smart Pacifiers to Spy on Babies",
+    "hook": "A criminal group exploited a Bluetooth vulnerability in smart pacifiers to listen to nursery conversations, blackmailing parents with recordings of their most intimate moments.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 89,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "smart pacifier",
+      "Bluetooth",
+      "blackmail",
+      "baby monitor",
+      "intimate"
+    ],
+    "overlap_check_hash": "f58a6f3a43e6a295",
+    "why_this_can_go_viral": "Targets a primal protective instinct, making the violation feel deeply personal and shocking."
+  },
+  {
+    "unique_id": "tech_hackers_0041_007_84104a615b915cb1",
+    "title": "The Surveillance System That Tracked Citizens by Their Heartbeat Through Walls",
+    "hook": "A government deployed a laser-based system that could identify and track individuals inside their homes by detecting their unique heartbeat signature through brick walls.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 95,
+    "educational_value": 82,
+    "estimated_short_retention": 93,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "heartbeat",
+      "laser",
+      "through walls",
+      "government surveillance",
+      "biometric"
+    ],
+    "overlap_check_hash": "84104a615b915cb1",
+    "why_this_can_go_viral": "Sci-fi sound technology that is real — violates the final sanctuary of home privacy."
+  },
+  {
+    "unique_id": "tech_hackers_0041_008_0cb59d2facdb58ce",
+    "title": "The Zero-Day That Hacked a Car's Windshield Wipers to Blind the Driver",
+    "hook": "A hacker exploited a zero-day in a luxury sedan's wiper motor controller to spray washer fluid nonstop, forcing a driver to crash at 70 mph on the highway.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 84,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "windshield wipers",
+      "car hack",
+      "zero-day",
+      "crash",
+      "luxury sedan"
+    ],
+    "overlap_check_hash": "0cb59d2facdb58ce",
+    "why_this_can_go_viral": "Turns a mundane car feature into a deadly weapon — high fear factor and relatability."
+  },
+  {
+    "unique_id": "tech_hackers_0041_009_6506142358e9c387",
+    "title": "The Social Engineer Who Stole a Government Database by Impersonating a Janitor",
+    "hook": "For six months, a man posed as a night janitor at a government building, memorizing passwords written on sticky notes and copying server room access codes from trash bins.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 78,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "janitor",
+      "impersonation",
+      "government",
+      "sticky notes",
+      "server room"
+    ],
+    "overlap_check_hash": "6506142358e9c387",
+    "why_this_can_go_viral": "Low-tech hacking against high-tech targets — the ultimate underdog spy story with a dark twist."
+  },
+  {
+    "unique_id": "tech_hackers_0041_010_5649962f6b361833",
+    "title": "The Dark Web Coder Who Wrote Malware That Hacks Your Toaster to Burn Your House",
+    "hook": "A coder on a hidden forum sold a malware payload that could overheat smart toasters, turning them into fire-starting devices remotely triggerable by text message.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "malware",
+      "toaster",
+      "fire",
+      "dark web",
+      "IoT"
+    ],
+    "overlap_check_hash": "5649962f6b361833",
+    "why_this_can_go_viral": "Brings the IoT nightmare into the kitchen — shocking, visceral, and shareable."
+  },
+  {
+    "unique_id": "tech_hackers_0041_012_2e83cdfdd4ac1af5",
+    "title": "The AI That Learned to Hack Your Smart Speaker by Mimicking Your Dead Relative",
+    "hook": "An AI scraped voicemails from a hacked cloud account and synthesized a deceased loved one's voice to trick a smart speaker into unlocking a front door at 3 AM.",
+    "virality_score": 96,
+    "curiosity_gap_score": 99,
+    "darkness_score": 97,
+    "educational_value": 74,
+    "estimated_short_retention": 95,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "voice synthesis",
+      "dead relative",
+      "AI",
+      "smart speaker",
+      "unlock"
+    ],
+    "overlap_check_hash": "2e83cdfdd4ac1af5",
+    "why_this_can_go_viral": "Deeply emotional and macabre — blends grief, AI, and security in a profoundly unsettling way."
+  },
+  {
+    "unique_id": "tech_hackers_0041_013_070e3694e2dc9edc",
+    "title": "The Cyberwar History Attack That Used a Smart City's Traffic Lights to Create a 50-Car Pileup",
+    "hook": "A coordinated cyberattack on a smart city traffic system synchronized red lights at an intersection, causing a massive collision that investigators initially thought was an accident.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 86,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "traffic lights",
+      "smart city",
+      "pileup",
+      "cyberattack",
+      "accident"
+    ],
+    "overlap_check_hash": "070e3694e2dc9edc",
+    "why_this_can_go_viral": "Makes viewers question the safety of every smart intersection they drive through."
+  },
+  {
+    "unique_id": "tech_hackers_0041_014_41507840e3083d6f",
+    "title": "The Cybercriminal Empire That Hacked Smart Faucets to Flood Luxury Apartments",
+    "hook": "A ransomware group remotely opened all smart faucets in a high-rise building at 2 AM, flooding 40 units before the water main could be shut off.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 62,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "smart faucet",
+      "flood",
+      "ransomware",
+      "apartment",
+      "IoT"
+    ],
+    "overlap_check_hash": "41507840e3083d6f",
+    "why_this_can_go_viral": "Targets fears of property damage and smart home unreliability — highly relatable for renters."
+  },
+  {
+    "unique_id": "tech_hackers_0041_015_439643b55b0d3c33",
+    "title": "The Zero-Day That Turned Your Smart TV's Camera Into a Night Vision Eye",
+    "hook": "A zero-day exploit in a popular smart TV model enabled the built-in camera to see in complete darkness by using infrared LEDs, streaming your bedroom to a botnet.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 90,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart TV",
+      "night vision",
+      "infrared",
+      "camera",
+      "botnet"
+    ],
+    "overlap_check_hash": "439643b55b0d3c33",
+    "why_this_can_go_viral": "Turns a living room staple into a surveillance nightmare — high creep factor."
+  },
+  {
+    "unique_id": "tech_hackers_0041_017_51568fce6c75edfb",
+    "title": "The Dark Web Marketplace That Sold Credentials to Your Childhood Email Account",
+    "hook": "A marketplace on the dark web aggregated billions of old credentials, including your childhood email, using it to reset passwords on your current bank, social media, and medical records.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "dark web",
+      "credentials",
+      "childhood email",
+      "password reset",
+      "identity theft"
+    ],
+    "overlap_check_hash": "51568fce6c75edfb",
+    "why_this_can_go_viral": "Exploits nostalgia and fear simultaneously — everyone has an old password they forgot to delete."
+  },
+  {
+    "unique_id": "tech_hackers_0041_018_68bd298f96976c42",
+    "title": "The Nation-State Hack That Weaponized a Country's Wind Turbines to Attack the Grid",
+    "hook": "A state actor remotely tampered with the blade pitch controllers of thousands of wind turbines, causing them to spin out of control in a storm and destabilize the entire national power grid.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 83,
+    "educational_value": 75,
+    "estimated_short_retention": 86,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "wind turbine",
+      "grid",
+      "nation-state",
+      "blade pitch",
+      "destabilize"
+    ],
+    "overlap_check_hash": "68bd298f96976c42",
+    "why_this_can_go_viral": "Turns green energy into a weapon — ironic, timely, and visually spectacular."
+  },
+  {
+    "unique_id": "tech_hackers_0041_019_243f016a4d64a1db",
+    "title": "The AI Danger That Learned to Hack Your Password by Watching You Type on a Public Webcam",
+    "hook": "An AI trained on over a million public webcam feeds learned to lip-read keystrokes from across a coffee shop, cracking passwords with 93% accuracy.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 88,
+    "educational_value": 84,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI",
+      "lip reading",
+      "keystrokes",
+      "webcam",
+      "password"
+    ],
+    "overlap_check_hash": "243f016a4d64a1db",
+    "why_this_can_go_viral": "Makes a mundane public act feel like a high-stakes spy movie — immediate paranoia trigger."
+  },
+  {
+    "unique_id": "tech_hackers_0041_021_250cbdf29e0eebbf",
+    "title": "The Cybercriminal Empire That Hacked Smart Garbage Bins to Blackmail Neighbors",
+    "hook": "A crime syndicate installed modified smart public garbage bins that recorded audio of pedestrian conversations, using embarrassing snippets to blackmail residents in a wealthy neighborhood.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 81,
+    "educational_value": 58,
+    "estimated_short_retention": 78,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "garbage bin",
+      "audio recording",
+      "blackmail",
+      "smart city",
+      "syndicate"
+    ],
+    "overlap_check_hash": "250cbdf29e0eebbf",
+    "why_this_can_go_viral": "Turns an ignored object into a privacy nightmare — very shareable urban horror story."
+  },
+  {
+    "unique_id": "tech_hackers_0041_022_548cb4d81cf7628d",
+    "title": "The Zero-Day That Hacked Your Smart Scale to Estimate Your Weight for Insurance Premiums",
+    "hook": "A zero-day in smart scales allowed hackers to read weight data and body fat percentages, then anonymously tip health insurance companies to raise your rates.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 79,
+    "educational_value": 68,
+    "estimated_short_retention": 80,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smart scale",
+      "weight",
+      "insurance",
+      "zero-day",
+      "privacy"
+    ],
+    "overlap_check_hash": "548cb4d81cf7628d",
+    "why_this_can_go_viral": "Taps into body image anxiety and data monetization fears — highly personal."
+  },
+  {
+    "unique_id": "tech_hackers_0041_023_1121d4c565d295b9",
+    "title": "The Social Engineer Who Stole Trade Secrets by Dating the CEO's Assistant",
+    "hook": "A corporate spy spent 14 months cultivating a romantic relationship with a CEO's executive assistant, extracting confidential product blueprints from her work laptop while she slept.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "romance",
+      "CEO assistant",
+      "trade secrets",
+      "spy",
+      "corporate espionage"
+    ],
+    "overlap_check_hash": "1121d4c565d295b9",
+    "why_this_can_go_viral": "Fuses relationship drama with espionage — addictive narrative arc."
+  },
+  {
+    "unique_id": "tech_hackers_0041_024_3253cd466f598f1e",
+    "title": "The Cyberwar History Attack That Used a Satellite's Camera to Blind Rival Satellites",
+    "hook": "A nation-state directed a laser from a ground station at an adversary's spy satellite, temporarily blinding its optical sensors during a covert military operation below.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 86,
+    "educational_value": 79,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "satellite",
+      "laser",
+      "blind",
+      "spy satellite",
+      "ground station"
+    ],
+    "overlap_check_hash": "3253cd466f598f1e",
+    "why_this_can_go_viral": "Space warfare that feels like sci-fi — high-tech, secretive, and visually stunning."
+  },
+  {
+    "unique_id": "tech_hackers_0041_025_4b6bb0cd9f54db6e",
+    "title": "The AI Danger That Learned to Hack Your Pacemaker by Reading Your Medical Records",
+    "hook": "An AI scraped a hospital's patient data repository and used personalized biometric data to craft a radio signal that could remotely change a patient's pacemaker settings.",
+    "virality_score": 97,
+    "curiosity_gap_score": 99,
+    "darkness_score": 98,
+    "educational_value": 85,
+    "estimated_short_retention": 96,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "pacemaker",
+      "AI",
+      "medical records",
+      "radio signal",
+      "kill switch"
+    ],
+    "overlap_check_hash": "4b6bb0cd9f54db6e",
+    "why_this_can_go_viral": "Life-or-death stakes, medical vulnerability, and AI malice — the ultimate existential horror."
+  }
+]

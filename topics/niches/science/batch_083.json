@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0083_001_ba234e59f236bfd2",
+    "title": "The Chemist Who Accidentally Created a Blood-Freezing Compound",
+    "hook": "A researcher reaches for a beaker and triggers a reaction that turns human blood into crystalline slush in seconds.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "blood freezing",
+      "chemical accident",
+      "dangerous compound",
+      "lab disaster",
+      "crystal blood"
+    ],
+    "overlap_check_hash": "ba234e59f236bfd2",
+    "why_this_can_go_viral": "Combines body horror with real chemistry, instantly making viewers imagine the pain and shock of such an accident."
+  },
+  {
+    "unique_id": "science_0083_003_abd42217197a7d11",
+    "title": "The Lab That Leaked a Bacterium That Eats Human Corneas",
+    "hook": "Within 48 hours of a lab spill, patients arrived with eyes dissolving and vision turned into a milky white fog.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "cornea eating",
+      "bacteria leak",
+      "blindness",
+      "lab accident",
+      "eye infection"
+    ],
+    "overlap_check_hash": "abd42217197a7d11",
+    "why_this_can_go_viral": "Direct, visceral horror involving eyes—universally fear-inducing and highly shareable."
+  },
+  {
+    "unique_id": "science_0083_004_e4653ee860b0e4c7",
+    "title": "The Physics Anomaly Where a Mirror Reflected Light That Never Arrived",
+    "hook": "Physicists set up an experiment and saw a reflection in the mirror before the light source was even switched on.",
+    "virality_score": 90,
+    "curiosity_gap_score": 97,
+    "darkness_score": 60,
+    "educational_value": 85,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "time reversal",
+      "light anomaly",
+      "pre-reflection",
+      "quantum weirdness",
+      "causality break"
+    ],
+    "overlap_check_hash": "e4653ee860b0e4c7",
+    "why_this_can_go_viral": "Challenges the viewer's understanding of time and causality, a brain-bending concept that demands rewatching."
+  },
+  {
+    "unique_id": "science_0083_005_cf54d3253343d8cb",
+    "title": "The Scientific Fraud Who Forged Data Showing Humans Can Regrow Limbs",
+    "hook": "A respected researcher published a paper claiming humans have dormant regeneration genes—but it was all fabricated, and the lie almost changed medicine forever.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 75,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "regeneration fraud",
+      "fake science",
+      "limb regrowth",
+      "scandal",
+      "research misconduct"
+    ],
+    "overlap_check_hash": "cf54d3253343d8cb",
+    "why_this_can_go_viral": "Plays on hope and betrayal—viewers want to believe it's real, then feel the sting of deception."
+  },
+  {
+    "unique_id": "science_0083_008_69cad4c2de3d8b2d",
+    "title": "The Chemist Who Made a Polymer That Absorbs All Moisture and Suffocates Everything",
+    "hook": "A lab in Japan created a material so thirsty that it stole the moisture from a researcher's lungs in seconds.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 89,
+    "educational_value": 68,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "super absorbent",
+      "suffocating polymer",
+      "lab accident",
+      "moisture killer",
+      "material horror"
+    ],
+    "overlap_check_hash": "69cad4c2de3d8b2d",
+    "why_this_can_go_viral": "Fear of suffocation is primal; the image of lungs being dried out is haunting and unforgettable."
+  },
+  {
+    "unique_id": "science_0083_009_6a36a4d854449258",
+    "title": "The Forbidden Experiment That Tried to Teach a Gorilla About Death",
+    "hook": "Scientists showed a silverback gorilla footage of a dying primate and recorded what happened next—it never forgave them.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 87,
+    "educational_value": 71,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "gorilla death",
+      "primate experiment",
+      "animal grief",
+      "forbidden psychology",
+      "ape reaction"
+    ],
+    "overlap_check_hash": "6a36a4d854449258",
+    "why_this_can_go_viral": "Combines animal empathy with ethical horror; viewers will feel angry and fascinated simultaneously."
+  },
+  {
+    "unique_id": "science_0083_010_d5798502b806ef72",
+    "title": "The Lab Catastrophe Where a Virus Mutation Created a Contagious Cancer",
+    "hook": "What started as a simple genetic modification ended with a virus that causes tumors to jump between hosts like the flu.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 79,
+    "estimated_short_retention": 97,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "contagious cancer",
+      "virus mutation",
+      "lab leak",
+      "tumor spread",
+      "biohazard"
+    ],
+    "overlap_check_hash": "d5798502b806ef72",
+    "why_this_can_go_viral": "Cancer is already terrifying; the idea that it could become contagious is a nightmare scenario everyone will share."
+  },
+  {
+    "unique_id": "science_0083_011_814ba2d39c35ba3f",
+    "title": "The Biologist Who Discovered a Fungus That Reprograms a Host's Brain for Altruism",
+    "hook": "Infected hosts stopped eating, stopped mating, and spent their final hours caring for the young of another species—all controlled by a fungal network.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "brain fungus",
+      "altruism control",
+      "host manipulation",
+      "parasite",
+      "behavior rewrite"
+    ],
+    "overlap_check_hash": "814ba2d39c35ba3f",
+    "why_this_can_go_viral": "Freaky but scientific, it makes people question free will and wonder if similar fungi affect humans."
+  },
+  {
+    "unique_id": "science_0083_012_77ae3105d26c146e",
+    "title": "The Physics Anomaly Where a Crystal Vibrated Forever Without Energy Input",
+    "hook": "A perfectly cut crystal was set vibrating and never stopped—even after physicists isolated it from all known energy sources.",
+    "virality_score": 80,
+    "curiosity_gap_score": 92,
+    "darkness_score": 40,
+    "educational_value": 82,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "perpetual vibration",
+      "crystal anomaly",
+      "energy free",
+      "physics mystery",
+      "zero point"
+    ],
+    "overlap_check_hash": "77ae3105d26c146e",
+    "why_this_can_go_viral": "Challenges the law of conservation of energy; viewers love 'impossible' phenomena that seem like magic."
+  },
+  {
+    "unique_id": "science_0083_013_532ec1c3d92a84e8",
+    "title": "The Scientific Fraud Who Faked a Study Claiming Pollution Makes You Smarter",
+    "hook": "A major publication announced that smog boosts intelligence—until an anonymous whistleblower revealed the entire study was a lie funded by polluters.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "pollution fraud",
+      "fake intelligence",
+      "corporate lie",
+      "science scandal",
+      "air quality"
+    ],
+    "overlap_check_hash": "532ec1c3d92a84e8",
+    "why_this_can_go_viral": "Anger at corporate manipulation and 'fake news' drives high engagement and sharing among concerned viewers."
+  },
+  {
+    "unique_id": "science_0083_014_56f91c3feb33e88c",
+    "title": "The Neuroscientist Who Found That a Single Brain Cell Can Hold a Full Memory",
+    "hook": "They isolated one neuron from a human brain, stimulated it, and the patient recalled an entire childhood birthday party in perfect detail.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 72,
+    "educational_value": 84,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "single neuron",
+      "memory cell",
+      "brain storage",
+      "neural recall",
+      "consciousness"
+    ],
+    "overlap_check_hash": "56f91c3feb33e88c",
+    "why_this_can_go_viral": "Awe-inspiring and slightly unsettling—suggests every moment is still inside you, and maybe extractable."
+  },
+  {
+    "unique_id": "science_0083_015_41c655f5fd31c7e7",
+    "title": "The Quantum Paradox Where a Particle Existed in Three Places at Once",
+    "hook": "A single atom was photographed in three distinct locations simultaneously, breaking our understanding of reality and space.",
+    "virality_score": 83,
+    "curiosity_gap_score": 94,
+    "darkness_score": 52,
+    "educational_value": 86,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "triple location",
+      "quantum atom",
+      "multipresence",
+      "reality break",
+      "impossible physics"
+    ],
+    "overlap_check_hash": "41c655f5fd31c7e7",
+    "why_this_can_go_viral": "Mind-bending visual (if shown) would be iconic; people will argue in comments about what it means."
+  },
+  {
+    "unique_id": "science_0083_016_38e667a65441a0e2",
+    "title": "The Lab Catastrophe Where a Cryogenic Tank Exploded and Froze an Entire Floor",
+    "hook": "A seal failed on a liquid nitrogen tank, releasing a wave of -196°C gas that flash-froze everything—including a technician—instantly.",
+    "virality_score": 87,
+    "curiosity_gap_score": 85,
+    "darkness_score": 84,
+    "educational_value": 70,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "cryogenic explosion",
+      "flash freeze",
+      "lab disaster",
+      "nitrogen accident",
+      "frozen technician"
+    ],
+    "overlap_check_hash": "38e667a65441a0e2",
+    "why_this_can_go_viral": "Horrifyingly visual; the idea of being frozen alive mid-stride is both fascinating and terrifying."
+  },
+  {
+    "unique_id": "science_0083_017_341711e0c27da875",
+    "title": "The Biologist Who Found a Sea Worm That Lives in Acid and Eats Glass",
+    "hook": "At the bottom of an acidic deep-sea vent, a worm was discovered that dissolves glass with its mouth and uses the silica to build its shell.",
+    "virality_score": 78,
+    "curiosity_gap_score": 86,
+    "darkness_score": 62,
+    "educational_value": 82,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "acid worm",
+      "glass eater",
+      "deep sea horror",
+      "extremophile",
+      "silica shell"
+    ],
+    "overlap_check_hash": "341711e0c27da875",
+    "why_this_can_go_viral": "Bizarre and photogenic; viewers love 'alien' creatures right here on Earth."
+  },
+  {
+    "unique_id": "science_0083_018_7b46758c8db19a90",
+    "title": "The Chemistry Disaster That Created a Smoke That Makes You Hallucinate Your Worst Fear",
+    "hook": "A reaction between two common lab chemicals produced a vapor that caused every exposed person to relive their deepest trauma in vivid, waking detail.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 66,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "fear hallucination",
+      "chemical vapor",
+      "trauma trigger",
+      "lab accident",
+      "nightmare smoke"
+    ],
+    "overlap_check_hash": "7b46758c8db19a90",
+    "why_this_can_go_viral": "Psychological horror + chemical danger; viewers will speculate about what they would see and share their guesses."
+  },
+  {
+    "unique_id": "science_0083_019_4b5def411d9988fb",
+    "title": "The Forbidden Experiment That Tried to Cross a Human Egg With a Chimp Sperm",
+    "hook": "In a secret 1920s laboratory, scientists attempted to create a human-chimpanzee hybrid—and they claimed it survived for weeks.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 72,
+    "estimated_short_retention": 96,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human chimp hybrid",
+      "forbidden cross",
+      "hybrid experiment",
+      "1920s lab",
+      "humanzee"
+    ],
+    "overlap_check_hash": "4b5def411d9988fb",
+    "why_this_can_go_viral": "Taboo subject with monstrous implications; historical mystery + ethical outrage = viral gold."
+  },
+  {
+    "unique_id": "science_0083_021_c2b46b8f15129369",
+    "title": "The Quantum Paradox Where Entangled Particles Stayed Connected Across a City",
+    "hook": "Researchers separated two entangled photons by 15 kilometers—and when they touched one, the other reacted instantly, as if no distance existed.",
+    "virality_score": 81,
+    "curiosity_gap_score": 88,
+    "darkness_score": 45,
+    "educational_value": 84,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum entanglement",
+      "city distance",
+      "spooky action",
+      "instant connection",
+      "photon"
+    ],
+    "overlap_check_hash": "c2b46b8f15129369",
+    "why_this_can_go_viral": "Classic spooky quantum effect but scaled up; viewers are amazed by the 'telepathic' connection."
+  },
+  {
+    "unique_id": "science_0083_022_725cd8ee1618fd4b",
+    "title": "The Scientific Fraud Who Faked a Study Proving That Sleep Is Optional",
+    "hook": "A charismatic scientist claimed he'd discovered a gene that lets humans survive on zero sleep—but it was all a lie that endangered countless followers.",
+    "virality_score": 84,
+    "curiosity_gap_score": 86,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "sleep fraud",
+      "no sleep gene",
+      "fake science",
+      "dangerous lie",
+      "health scam"
+    ],
+    "overlap_check_hash": "725cd8ee1618fd4b",
+    "why_this_can_go_viral": "Everyone is exhausted; the promise of no sleep is seductive, and the betrayal when it's fake is compelling."
+  },
+  {
+    "unique_id": "science_0083_023_ef286da3881595ea",
+    "title": "The Lab Catastrophe Where a Chemical Spill Turned a River Into a Solid Block",
+    "hook": "A truck carrying a polymer precursor tipped into a river, and within minutes the entire waterway turned into a gel-like solid, trapping fish mid-swim.",
+    "virality_score": 82,
+    "curiosity_gap_score": 84,
+    "darkness_score": 76,
+    "educational_value": 74,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "river solidification",
+      "chemical spill",
+      "polymer disaster",
+      "environmental horror",
+      "gel river"
+    ],
+    "overlap_check_hash": "ef286da3881595ea",
+    "why_this_can_go_viral": "Shocking visual of nature suddenly frozen; environmental disaster stories always get strong emotional reactions."
+  },
+  {
+    "unique_id": "science_0083_024_81191cb0177e3524",
+    "title": "The Biologist Who Found a Parasite That Rewrites Host DNA to Look Like Its Own",
+    "hook": "A tiny parasitic worm doesn't just live in its host—it edits the host's genome cell by cell, turning the host's body into a perfect copy of itself.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "DNA rewrite",
+      "parasite horror",
+      "genome takeover",
+      "body snatcher",
+      "biological copy"
+    ],
+    "overlap_check_hash": "81191cb0177e3524",
+    "why_this_can_go_viral": "Body horror on a genetic level; the 'Invasion of the Body Snatchers' angle is irresistible."
+  },
+  {
+    "unique_id": "science_0083_025_b6a64604c81255c3",
+    "title": "The Physics Anomaly Where a Ball Rolled Uphill on Its Own",
+    "hook": "A specially shaped surface tricked gravity so completely that a metal sphere rolled upward for 3 meters, and no one can explain why.",
+    "virality_score": 79,
+    "curiosity_gap_score": 90,
+    "darkness_score": 30,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "uphill ball",
+      "gravity trick",
+      "impossible motion",
+      "physics mystery",
+      "anti gravity"
+    ],
+    "overlap_check_hash": "b6a64604c81255c3",
+    "why_this_can_go_viral": "Visual proof of something 'impossible' sparks immediate curiosity and demands explanation."
+  }
+]

@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "science_0140_001_18034352d6e4471b",
+    "title": "The Surgeon Who Transplanted a Human Head — the Patient Spoke",
+    "hook": "In 1970, Dr. Robert White grafted a monkey's head onto a different body, then revealed plans for a human version — and claimed the subject could communicate.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "head transplant",
+      "Robert White",
+      "monkey experiment",
+      "medical horror",
+      "forbidden surgery"
+    ],
+    "overlap_check_hash": "18034352d6e4471b",
+    "why_this_can_go_viral": "The concept of a living, speaking severed head is viscerally shocking and triggers immediate morbid curiosity."
+  },
+  {
+    "unique_id": "science_0140_002_1cb5dc4c440c1a94",
+    "title": "The Lab Fire That Created an Invisible Poison Cloud",
+    "hook": "A chemist spilled 5 grams of dimethylmercury on her glove — it seeped through in seconds and began destroying her nervous system from the inside out.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 90,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "dimethylmercury",
+      "Karen Wetterhahn",
+      "chemical poisoning",
+      "lab safety",
+      "invisible killer"
+    ],
+    "overlap_check_hash": "1cb5dc4c440c1a94",
+    "why_this_can_go_viral": "The stealthy, agonizing death from a single drop of a near-mythical toxin is both terrifying and educational."
+  },
+  {
+    "unique_id": "science_0140_003_1b4d8dd68ec49d4f",
+    "title": "The Scientist Who Built a Brain That Feels Pain",
+    "hook": "A lab-grown clump of human neurons was wired to a robot body — and when the robot was damaged, the 'brain' screamed in electrical agony.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "lab-grown brain",
+      "sentient organoid",
+      "robot pain",
+      "biological robot",
+      "consciousness experiment"
+    ],
+    "overlap_check_hash": "1b4d8dd68ec49d4f",
+    "why_this_can_go_viral": "The idea of a suffering, tiny brain in a jar hooked to a machine raises deep ethical horror and existential dread."
+  },
+  {
+    "unique_id": "science_0140_004_3cd0ed854e252da4",
+    "title": "The Quantum Experiment That Reversed a Man's Memory",
+    "hook": "Physicists used quantum entanglement to send a memory back in time by 0.2 seconds — the subject recalled a flash he never actually saw.",
+    "virality_score": 82,
+    "curiosity_gap_score": 89,
+    "darkness_score": 68,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "time reversal",
+      "quantum memory",
+      "entanglement mind",
+      "retrocausality",
+      "brain hack"
+    ],
+    "overlap_check_hash": "3cd0ed854e252da4",
+    "why_this_can_go_viral": "Time manipulation and memory editing tap into a universal fascination with rewriting the past."
+  },
+  {
+    "unique_id": "science_0140_005_f9f8034978ce5475",
+    "title": "The Doctor Who Injected Himself With Live Plague Bacteria",
+    "hook": "In 1900, a scientist swallowed a spoonful of bubonic plague pus to prove it wasn't contagious — he nearly died, but changed medicine forever.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "self-experiment",
+      "plague injection",
+      "bubonic plague",
+      "medical madness",
+      "heroic idiocy"
+    ],
+    "overlap_check_hash": "f9f8034978ce5475",
+    "why_this_can_go_viral": "The shocking image of a doctor voluntarily swallowing disease pus combines extreme bravery with horror."
+  },
+  {
+    "unique_id": "science_0140_007_b4fbf5e0fd42477a",
+    "title": "The Neuroscientist Who Wiped Out All Fear in a Man",
+    "hook": "A patient with a destroyed amygdala could no longer feel fear — he walked into traffic, grabbed venomous snakes, and laughed at death threats.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 85,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "amygdala damage",
+      "fear removal",
+      "SM patient",
+      "nature of fear",
+      "brain lesion"
+    ],
+    "overlap_check_hash": "b4fbf5e0fd42477a",
+    "why_this_can_go_viral": "The real 'fearless man' story is gripping and raises deep questions about survival instincts."
+  },
+  {
+    "unique_id": "science_0140_009_e500987dbe2d7a22",
+    "title": "The Lab That Accidentally Made a Black Hole Microbe",
+    "hook": "A biologist created a bacterium that could eat radiation — then it began absorbing light so completely it appeared perfectly black, like a void.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "black microbe",
+      "radiation eating bacteria",
+      "Deinococcus",
+      "light absorption",
+      "biological black hole"
+    ],
+    "overlap_check_hash": "e500987dbe2d7a22",
+    "why_this_can_go_viral": "A living thing that looks like a hole in reality is visually and conceptually terrifying."
+  },
+  {
+    "unique_id": "science_0140_011_79411c0853b8f2cf",
+    "title": "The Chemist Who Synthesized a Gas That Melts Glass",
+    "hook": "When a vial of pure fluorine gas cracked, it began eating through the lab's windows, the concrete floor, and the steel cabinets — silently.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 85,
+    "educational_value": 76,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "fluorine leak",
+      "glass eating gas",
+      "most reactive element",
+      "lab destruction",
+      "chemical horror"
+    ],
+    "overlap_check_hash": "79411c0853b8f2cf",
+    "why_this_can_go_viral": "The idea of a gas that destroys nearly everything — including the lab itself — is visceral and cinematic."
+  },
+  {
+    "unique_id": "science_0140_012_f8a6a0f0b7a5dc5b",
+    "title": "The Neuroscientist Who Made Mice Remember Things That Never Happened",
+    "hook": "Using optogenetics, a researcher implanted a false memory of a safe box being a danger zone — the mice froze in fear of a memory that was a lie.",
+    "virality_score": 84,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 82,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "false memory",
+      "optogenetics",
+      "memory implant",
+      "brain manipulation",
+      "rat fear"
+    ],
+    "overlap_check_hash": "f8a6a0f0b7a5dc5b",
+    "why_this_can_go_viral": "The implication that our own memories might be fabricated is deeply unsettling and philosophically explosive."
+  },
+  {
+    "unique_id": "science_0140_013_2e56b16675b52f37",
+    "title": "The Forbidden Experiment Where a Man Lived 30 Days in a Cave",
+    "hook": "A scientist isolated himself from all time cues — no clocks, no sun. When he emerged, he believed only 25 days had passed. His body age 30.",
+    "virality_score": 77,
+    "curiosity_gap_score": 83,
+    "darkness_score": 62,
+    "educational_value": 80,
+    "estimated_short_retention": 76,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "time isolation",
+      "cave experiment",
+      "Michel Siffre",
+      "circadian rhythm",
+      "perceived time"
+    ],
+    "overlap_check_hash": "2e56b16675b52f37",
+    "why_this_can_go_viral": "The shocking mismatch between perceived and real time is a mind-bending human data point."
+  },
+  {
+    "unique_id": "science_0140_014_d242ecb3ef879e3e",
+    "title": "The Botched Lab Test That Unleashed a Super-Rat Plague",
+    "hook": "A laboratory breeding mutant rats for cancer research had a ventilation failure — and soon the building was infested with rodents immune to all poison.",
+    "virality_score": 80,
+    "curiosity_gap_score": 82,
+    "darkness_score": 84,
+    "educational_value": 68,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "mutant rats",
+      "lab escape",
+      "super rat",
+      "poison resistance",
+      "rodent invasion"
+    ],
+    "overlap_check_hash": "d242ecb3ef879e3e",
+    "why_this_can_go_viral": "The horror of an unstoppable, intelligent rodent army bred by mistake taps into primal fear."
+  },
+  {
+    "unique_id": "science_0140_015_e2060868ef0b41fa",
+    "title": "The Physicist Who Discovered That Reality Is a Projection",
+    "hook": "A holographic principle experiment found that the 3D universe may be a 2D information screen — and the data matched perfectly.",
+    "virality_score": 79,
+    "curiosity_gap_score": 91,
+    "darkness_score": 72,
+    "educational_value": 86,
+    "estimated_short_retention": 74,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "holographic universe",
+      "2D reality",
+      "projection theory",
+      "simulation",
+      "quantum gravity"
+    ],
+    "overlap_check_hash": "e2060868ef0b41fa",
+    "why_this_can_go_viral": "The idea that nothing is physically 'real' is a world-shattering existential hook."
+  },
+  {
+    "unique_id": "science_0140_016_f7c5d4fefba60ae7",
+    "title": "The Chemist Who Made a Blue Explosion That Lasted 12 Hours",
+    "hook": "A failed synthesis of a new pigment released a cloud of vapor that burned with a cold blue flame — and wouldn't stop burning for half a day.",
+    "virality_score": 74,
+    "curiosity_gap_score": 80,
+    "darkness_score": 56,
+    "educational_value": 70,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "blue flame",
+      "chemical fire",
+      "unusual explosion",
+      "cold flame",
+      "pigment accident"
+    ],
+    "overlap_check_hash": "f7c5d4fefba60ae7",
+    "why_this_can_go_viral": "The surreal, beautiful, and uncontrollable nature of the fire is visually stunning and curiosity-driving."
+  },
+  {
+    "unique_id": "science_0140_018_27509b068db049c6",
+    "title": "The Lab Where a Chemical Reaction Produced a Living Slime",
+    "hook": "A jar of simple organic compounds, left untouched for weeks, was found crawling with a film that responded to light and moved toward food sources.",
+    "virality_score": 85,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 66,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "abiotic slime",
+      "chemical life",
+      "protocell",
+      "self organizing matter",
+      "lab origin of life"
+    ],
+    "overlap_check_hash": "27509b068db049c6",
+    "why_this_can_go_viral": "The borderline between chemistry and biology is blurred, suggesting life can arise from a mistake."
+  },
+  {
+    "unique_id": "science_0140_022_8760ec64d9ee146f",
+    "title": "The Chemist Who Made a Crystal That Dissolves Everything It Touches",
+    "hook": "A white powder compound was so reactive that when a single grain fell on the lab bench, it burned a hole through the metal, the floor, and into the basement.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 74,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "super acid",
+      "reactive crystal",
+      "lab accident",
+      "chemical burn",
+      "most corrosive"
+    ],
+    "overlap_check_hash": "8760ec64d9ee146f",
+    "why_this_can_go_viral": "The visual of a tiny grain destroying everything is shocking and easy to imagine."
+  },
+  {
+    "unique_id": "science_0140_023_abd65a87dc2d88d0",
+    "title": "The Physicist Who Built a Camera That Sees Into the Past",
+    "hook": "A high-speed quantum camera captured a photon bouncing off an object — before it actually hit the object, revealing a ghostly image of the future.",
+    "virality_score": 81,
+    "curiosity_gap_score": 93,
+    "darkness_score": 66,
+    "educational_value": 80,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "quantum camera",
+      "seeing the past",
+      "photon anomaly",
+      "time imaging",
+      "future ghost"
+    ],
+    "overlap_check_hash": "abd65a87dc2d88d0",
+    "why_this_can_go_viral": "A camera that sees backward in time is visually and conceptually mind-blowing."
+  },
+  {
+    "unique_id": "science_0140_024_a8dbb6c573f54cf9",
+    "title": "The Scientist Who Discovered That Plants Scream When Stressed",
+    "hook": "Microphones placed on tomato plants recorded ultrasonic pops when they were cut — sounds so high they were silent to humans, but audible to insects.",
+    "virality_score": 78,
+    "curiosity_gap_score": 85,
+    "darkness_score": 70,
+    "educational_value": 82,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "plant screaming",
+      "ultrasonic distress",
+      "plant communication",
+      "pain signal",
+      "botany horror"
+    ],
+    "overlap_check_hash": "a8dbb6c573f54cf9",
+    "why_this_can_go_viral": "The idea that plants feel and signal pain is a paradigm-shifting and unsettling thought."
+  }
+]

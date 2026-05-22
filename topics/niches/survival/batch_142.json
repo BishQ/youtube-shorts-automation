@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "survival_0142_003_f6b3e39c36d00678",
+    "title": "The Survivor Who Was Trapped in a Pyre—And the Smoke Spoke to Him",
+    "hook": "After a wildfire encircled his camp, a hiker inhaled smoke that showed him visions of every person who had died in that forest for the last century.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 45,
+    "estimated_short_retention": 88,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "wildfire",
+      "smoke inhalation",
+      "visions",
+      "forest",
+      "hallucination"
+    ],
+    "overlap_check_hash": "f6b3e39c36d00678",
+    "why_this_can_go_viral": "The sensory horror of smoke as a medium for traumatic memory triggers primal fear and curiosity about deathbed visions."
+  },
+  {
+    "unique_id": "survival_0142_005_93b768f2ad31fc4a",
+    "title": "The Stranded Climber Who Ate Lichen—And Saw Colors That Didn't Exist",
+    "hook": "After three days eating only a rare alpine lichen, a climber's vision shifted—he could see ultraviolet patterns on the rocks that led him to a hidden water source.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 65,
+    "educational_value": 55,
+    "estimated_short_retention": 82,
+    "niche_name": "survival",
+    "subcategory": "stranded expeditions",
+    "keywords": [
+      "climber",
+      "lichen",
+      "hallucination",
+      "ultraviolet",
+      "survival"
+    ],
+    "overlap_check_hash": "93b768f2ad31fc4a",
+    "why_this_can_go_viral": "The concept of a hallucinogenic survival food turning a weakness into superhuman perception is irresistible."
+  },
+  {
+    "unique_id": "survival_0142_007_5aa7a04e84b7d659",
+    "title": "The Explorer Who Got Lost in a Forest Where the Animals Formed a Circle",
+    "hook": "Every night, the same ring of wolves, deer, and foxes surrounded his camp—not attacking, just watching, as if waiting for something to happen.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 35,
+    "estimated_short_retention": 87,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "forest",
+      "animals",
+      "circle",
+      "behavior",
+      "mystery"
+    ],
+    "overlap_check_hash": "5aa7a04e84b7d659",
+    "why_this_can_go_viral": "Animal behavior that defies natural instincts creates uncanny valley horror and sparks theories about collective intelligence."
+  },
+  {
+    "unique_id": "survival_0142_008_38399bc840caa69a",
+    "title": "The Shipwrecked Crew That Drifted Into a Sea Where the Water Was Thick as Blood",
+    "hook": "After a storm, the ocean turned into a viscous, red liquid that clung to their skin, and the raft stopped moving—as if it had been caught in jelly.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 93,
+    "educational_value": 40,
+    "estimated_short_retention": 93,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "sea",
+      "thick water",
+      "red ocean",
+      "algae bloom",
+      "raft"
+    ],
+    "overlap_check_hash": "38399bc840caa69a",
+    "why_this_can_go_viral": "The visceral, almost Lovecraftian imagery of 'blood-thick water' triggers disgust and awe simultaneously."
+  },
+  {
+    "unique_id": "survival_0142_009_a77ecd98ee000056",
+    "title": "The Group Stranded in a Cave Where the Echoes Repeated Their Future Conversations",
+    "hook": "Three trapped cavers began hearing their own voices echoing back—but the words were conversations they hadn't had yet, predicting their escape attempts.",
+    "virality_score": 89,
+    "curiosity_gap_score": 96,
+    "darkness_score": 82,
+    "educational_value": 30,
+    "estimated_short_retention": 94,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "cave",
+      "echo",
+      "premonition",
+      "trapped",
+      "voices"
+    ],
+    "overlap_check_hash": "a77ecd98ee000056",
+    "why_this_can_go_viral": "Precognitive echoes flip survival horror into a philosophical puzzle about free will and fate."
+  },
+  {
+    "unique_id": "survival_0142_010_7d11fec113d0f0ac",
+    "title": "The Survivor Who Washed Ashore on an Island Where the Birds Sang in Human Voices",
+    "hook": "A castaway heard his dead mother's lullaby coming from the trees—the local birds had learned human speech from a previous inhabitant who never left.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 90,
+    "educational_value": 35,
+    "estimated_short_retention": 91,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "island",
+      "birds",
+      "human speech",
+      "grief",
+      "castaway"
+    ],
+    "overlap_check_hash": "7d11fec113d0f0ac",
+    "why_this_can_go_viral": "The emotional gut punch of hearing a deceased loved one's voice in nature blends grief, horror, and mystery."
+  },
+  {
+    "unique_id": "survival_0142_011_981d760d0ddaf0a7",
+    "title": "The Climber Who Was Stranded in a Storm—Where the Lightning Struck the Same Spot 47 Times",
+    "hook": "Huddled on a narrow ledge, a climber watched lightning hit the same rock every few minutes—until she realized the strikes were spelling out a pattern in the scorch marks.",
+    "virality_score": 82,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 45,
+    "estimated_short_retention": 86,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "lightning",
+      "storm",
+      "mountain",
+      "pattern",
+      "climber"
+    ],
+    "overlap_check_hash": "981d760d0ddaf0a7",
+    "why_this_can_go_viral": "The idea of lightning as a communicator or mapmaker taps into pattern-seeking psychology."
+  },
+  {
+    "unique_id": "survival_0142_012_fc48216edc7bbd0a",
+    "title": "The Survivor Who Was Trapped in a Ravine—And the Walls Absorbed His Screams",
+    "hook": "Every time he shouted for help, the sound seemed to vanish into the rock—and he realized the ravine had an echo that only worked in one direction, toward something deeper.",
+    "virality_score": 80,
+    "curiosity_gap_score": 88,
+    "darkness_score": 86,
+    "educational_value": 35,
+    "estimated_short_retention": 85,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "ravine",
+      "echo",
+      "sound",
+      "trapped",
+      "geology"
+    ],
+    "overlap_check_hash": "fc48216edc7bbd0a",
+    "why_this_can_go_viral": "Acoustic anomalies are deeply unsettling; the idea of screams being eaten by rock taps into primal isolation fear."
+  },
+  {
+    "unique_id": "survival_0142_013_421cf7c6a330f61a",
+    "title": "The Diver Who Got Stuck in a Wreck—And the Fish Were Arranging the Debris",
+    "hook": "Trapped in a sunken freighter, a diver watched a school of fish systematically pushing objects into shapes—a message no human could read.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 72,
+    "educational_value": 50,
+    "estimated_short_retention": 88,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "shipwreck",
+      "fish",
+      "behavior",
+      "debris",
+      "diver"
+    ],
+    "overlap_check_hash": "421cf7c6a330f61a",
+    "why_this_can_go_viral": "Animal intelligence used in a mysterious, almost ritualistic manner creates curiosity about underwater cognition."
+  },
+  {
+    "unique_id": "survival_0142_014_00d81d7118c66b2e",
+    "title": "The Explorer Who Found a River Flowing Uphill—Into a Mountain That Breathed",
+    "hook": "In a remote valley, a geologist discovered a river that defied gravity—and at the summit, the water disappeared into a fissure that expanded and contracted like lungs.",
+    "virality_score": 91,
+    "curiosity_gap_score": 96,
+    "darkness_score": 84,
+    "educational_value": 60,
+    "estimated_short_retention": 93,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "river",
+      "uphill",
+      "mountain",
+      "breathing",
+      "geology"
+    ],
+    "overlap_check_hash": "00d81d7118c66b2e",
+    "why_this_can_go_viral": "Defying gravity plus a living mountain hits two curiosity triggers at once."
+  },
+  {
+    "unique_id": "survival_0142_015_1cc7dfa81a568569",
+    "title": "The Stranded Hiker Who Found a Cabin Where the Door Only Opened From Inside",
+    "hook": "A hiker stumbled upon a cabin in deep wilderness—the door had no handle on the outside, but through the window, she saw a fresh meal on the table.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 89,
+    "educational_value": 25,
+    "estimated_short_retention": 92,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "cabin",
+      "door",
+      "mystery",
+      "wilderness",
+      "hiker"
+    ],
+    "overlap_check_hash": "1cc7dfa81a568569",
+    "why_this_can_go_viral": "The classic 'impossible door' trope combined with domestic creepiness creates immediate tension."
+  },
+  {
+    "unique_id": "survival_0142_016_9a3c3355dc3563a1",
+    "title": "The Survivor Who Was Stranded in a Desert—Where the Sand Formed Faces at Night",
+    "hook": "Under the moonlight, the dunes reshaped themselves into human faces, frozen in expressions of agony—and by dawn, they had flattened back to normal.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 30,
+    "estimated_short_retention": 89,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "desert",
+      "sand",
+      "faces",
+      "dunes",
+      "night"
+    ],
+    "overlap_check_hash": "9a3c3355dc3563a1",
+    "why_this_can_go_viral": "The combination of pareidolia and temporal mystery makes viewers question reality."
+  },
+  {
+    "unique_id": "survival_0142_017_f8a3fba01a6e1dd2",
+    "title": "The Expedition That Found a Lake Where the Water Was Silent—No Splash, No Ripple",
+    "hook": "When they threw a stone into the lake, it made no sound—the water absorbed all vibration, and beneath the surface, they saw no bottom, only a void.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 87,
+    "educational_value": 45,
+    "estimated_short_retention": 91,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "lake",
+      "silence",
+      "void",
+      "water",
+      "expedition"
+    ],
+    "overlap_check_hash": "f8a3fba01a6e1dd2",
+    "why_this_can_go_viral": "Silence in nature is deeply unsettling; the visual of a stone sinking without a sound sells itself."
+  },
+  {
+    "unique_id": "survival_0142_018_60c87a1e5e6371fd",
+    "title": "The Shipwrecked Sailor Who Survived by Drinking Dew—And Found His Skin Turning Transparent",
+    "hook": "After weeks drinking only condensed ocean mist, a sailor's veins became visible through his skin—and he could see the salt crystallizing under his flesh.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 84,
+    "niche_name": "survival",
+    "subcategory": "shipwreck survival",
+    "keywords": [
+      "sailor",
+      "dew",
+      "skin",
+      "transparent",
+      "survival"
+    ],
+    "overlap_check_hash": "60c87a1e5e6371fd",
+    "why_this_can_go_viral": "Body horror mixed with survival science creates a visceral, shareable visual concept."
+  },
+  {
+    "unique_id": "survival_0142_019_f757bcfac7811a98",
+    "title": "The Climber Who Was Stranded on a Face—Where the Wind Screamed His Name",
+    "hook": "Every gust of wind carried a voice that called out his full name, spoken in the accent of his childhood—but he was alone, 3,000 feet up a vertical wall.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 25,
+    "estimated_short_retention": 90,
+    "niche_name": "survival",
+    "subcategory": "psychological breaking points",
+    "keywords": [
+      "climber",
+      "wind",
+      "voice",
+      "mountain",
+      "hallucination"
+    ],
+    "overlap_check_hash": "f757bcfac7811a98",
+    "why_this_can_go_viral": "Personalized auditory hallucinations tap into deep fear of losing one's mind under pressure."
+  },
+  {
+    "unique_id": "survival_0142_020_a069301e4894bff4",
+    "title": "The Survivor Who Was Trapped in a Mire—Where the Mud Held Memories",
+    "hook": "Sinking into a peat bog, a hiker began seeing flashes of the past—the bog's preserved bodies were leaking their life stories into his mind through the mud.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 92,
+    "educational_value": 50,
+    "estimated_short_retention": 87,
+    "niche_name": "survival",
+    "subcategory": "near-death escape stories",
+    "keywords": [
+      "bog",
+      "mud",
+      "memories",
+      "peat",
+      "hallucination"
+    ],
+    "overlap_check_hash": "a069301e4894bff4",
+    "why_this_can_go_viral": "Bog bodies are already viral; adding psychic absorption amplifies the horror factor."
+  },
+  {
+    "unique_id": "survival_0142_021_da09887ca651199b",
+    "title": "The Group Stranded in a Forest Where the Trees Rearranged Overnight",
+    "hook": "Every morning, the landmarks were different—trees had moved, trails had vanished, and the group realized the forest was alive and herding them toward a central clearing.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 30,
+    "estimated_short_retention": 93,
+    "niche_name": "survival",
+    "subcategory": "group survival dynamics",
+    "keywords": [
+      "forest",
+      "moving trees",
+      "lost",
+      "herding",
+      "maze"
+    ],
+    "overlap_check_hash": "da09887ca651199b",
+    "why_this_can_go_viral": "The living labyrinth concept combines survival pressure with intelligent nature, a rich vein for speculation."
+  },
+  {
+    "unique_id": "survival_0142_023_dc1abefa83251a88",
+    "title": "The Explorer Who Got Lost in a Canyon—Where the Shadows Were Deeper Than Darkness",
+    "hook": "The canyon's shadows didn't just block light—they absorbed sound, heat, and eventually the explorer's own reflection, leaving a void in the rock.",
+    "virality_score": 83,
+    "curiosity_gap_score": 91,
+    "darkness_score": 89,
+    "educational_value": 30,
+    "estimated_short_retention": 86,
+    "niche_name": "survival",
+    "subcategory": "wilderness disasters",
+    "keywords": [
+      "canyon",
+      "shadow",
+      "darkness",
+      "void",
+      "explorer"
+    ],
+    "overlap_check_hash": "dc1abefa83251a88",
+    "why_this_can_go_viral": "Abstract horror around light and absence creates a unique visual pitch that's hard to scroll past."
+  },
+  {
+    "unique_id": "survival_0142_024_a7814c28db74c7c1",
+    "title": "The Stranded Family That Found a Signal—From a Tower That Hadn't Been Built Yet",
+    "hook": "Lost in remote mountains, a family picked up a radio broadcast giving survival instructions—in their own voices, recorded 10 years in the future.",
+    "virality_score": 90,
+    "curiosity_gap_score": 96,
+    "darkness_score": 80,
+    "educational_value": 35,
+    "estimated_short_retention": 94,
+    "niche_name": "survival",
+    "subcategory": "stranded expeditions",
+    "keywords": [
+      "family",
+      "signal",
+      "radio",
+      "future",
+      "mountain"
+    ],
+    "overlap_check_hash": "a7814c28db74c7c1",
+    "why_this_can_go_viral": "Future self-help via radio creates an emotional, paradoxical narrative that compels shares."
+  },
+  {
+    "unique_id": "survival_0142_025_609cd7fc8e4c4943",
+    "title": "The Survivor Who Washed Ashore on a Coast Where the Waves Freeze Mid-Air",
+    "hook": "On a beach where the temperature was normal, waves rose into arcs and froze solid, suspended—as if the ocean had forgotten how to fall.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 80,
+    "educational_value": 50,
+    "estimated_short_retention": 89,
+    "niche_name": "survival",
+    "subcategory": "extreme survival situations",
+    "keywords": [
+      "waves",
+      "frozen",
+      "beach",
+      "anomaly",
+      "survivor"
+    ],
+    "overlap_check_hash": "609cd7fc8e4c4943",
+    "why_this_can_go_viral": "The visual of frozen waves defies physics expectations, making it immediately shareable as a curiosity."
+  }
+]

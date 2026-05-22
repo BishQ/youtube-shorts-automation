@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "science_0151_001_04975fe12551c35a",
+    "title": "The Chemist Who Invented a Polymer That Eats Itself — and Consumed His Lab",
+    "hook": "A self-destroying plastic was supposed to save the planet — until it started devouring the building, floor by floor.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "self-eating polymer",
+      "lab catastrophe",
+      "polymer degradation",
+      "chemistry disaster",
+      "autocatalytic reaction"
+    ],
+    "overlap_check_hash": "04975fe12551c35a",
+    "why_this_can_go_viral": "Combines a sci-fi premise (material that eats itself) with a real-world lab disaster, triggering deep curiosity about how chemistry can backfire catastrophically."
+  },
+  {
+    "unique_id": "science_0151_002_24acc478d5078dfe",
+    "title": "The Neuroscientist Who Implanted a False Childhood — and the Subject Believed It for Years",
+    "hook": "She didn't just plant a fake memory — she gave him a complete childhood, with smells, sounds, and a mother's voice he never had.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "false memory implantation",
+      "memory manipulation",
+      "neuroscience ethics",
+      "brain hacking",
+      "identity erosion"
+    ],
+    "overlap_check_hash": "24acc478d5078dfe",
+    "why_this_can_go_viral": "Taps into existential fear: if your memories aren't real, who are you? The hook promises a deeply unsettling neuroscience revelation."
+  },
+  {
+    "unique_id": "science_0151_003_41259f64dc677d26",
+    "title": "The Quantum Experiment Where a Particle Remembered Its Future — and Flipped a Switch in the Past",
+    "hook": "A photon was measured, then it went back in time and changed the experiment that created it — and the lab logs proved it.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum retrocausality",
+      "time loop experiment",
+      "delayed choice",
+      "quantum eraser",
+      "causality violation"
+    ],
+    "overlap_check_hash": "41259f64dc677d26",
+    "why_this_can_go_viral": "Quantum time travel is endlessly fascinating. The idea that a particle 'remembered' its future flips cause and effect, which is mind-blowing and highly shareable."
+  },
+  {
+    "unique_id": "science_0151_006_9f082cda1e7fa27c",
+    "title": "The Physicist Who Built a Machine That Detected Parallel Universes — and Opened a Door",
+    "hook": "His quantum interferometer picked up a signal from another reality. Then the machine started receiving messages — in English.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 72,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "parallel universe detection",
+      "quantum interferometer",
+      "multiverse signal",
+      "alternate reality",
+      "experimental physics"
+    ],
+    "overlap_check_hash": "9f082cda1e7fa27c",
+    "why_this_can_go_viral": "Multiverse theory is viral gold. Framing it as a machine that actually 'opened a door' turns abstract physics into a thrilling, tangible discovery."
+  },
+  {
+    "unique_id": "science_0151_007_9ac74fe13744f92f",
+    "title": "The Scientific Fraud Who Faked a 'Soul Weight' Experiment — and Millions Believed Him",
+    "hook": "He claimed dying patients lost 21 grams at the moment of death. He never published raw data, but the myth spread across the world.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 74,
+    "educational_value": 77,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "21 grams soul",
+      "soul weight fraud",
+      "Duncan MacDougall",
+      "pseudoscience",
+      "scientific hoax"
+    ],
+    "overlap_check_hash": "9ac74fe13744f92f",
+    "why_this_can_go_viral": "The 'soul weight' myth is widely known but rarely debunked with dark details. It blends science, death, and belief — a potent mix for virality."
+  },
+  {
+    "unique_id": "science_0151_008_e7d262120947d72a",
+    "title": "The Chemistry Disaster That Created a Blob of Endless Foam — and Smothered a City Street",
+    "hook": "A single leak from a detergent factory turned an entire street into a waist-deep foam monster that wouldn't pop, dissolve, or go away.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 70,
+    "educational_value": 73,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "foam disaster",
+      "detergent spill",
+      "non-dissolving foam",
+      "chemical pollution",
+      "environmental disaster"
+    ],
+    "overlap_check_hash": "e7d262120947d72a",
+    "why_this_can_go_viral": "Visual insanity: a street buried in foam that behaves like a living creature. The absurdity and danger make it perfect for short-form video."
+  },
+  {
+    "unique_id": "science_0151_009_81c64bcc73985d77",
+    "title": "The Neuroscientist Who Made a Man See Through His Tongue — and Rewired His Brain in Days",
+    "hook": "He plugged a camera into a blind man's tongue, and within a week, his visual cortex started processing tongue signals as sight.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 68,
+    "educational_value": 82,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "sensory substitution",
+      "tongue vision",
+      "neuroplasticity",
+      "brain rewiring",
+      "blindness cure"
+    ],
+    "overlap_check_hash": "81c64bcc73985d77",
+    "why_this_can_go_viral": "The idea of 'seeing with your tongue' is bizarre and counterintuitive. It showcases the brain's terrifying adaptability and challenges the definition of senses."
+  },
+  {
+    "unique_id": "science_0151_010_f2473968ec6cc0ce",
+    "title": "The Quantum Paradox Where a Crystal Stored Light for 60 Seconds — Then Released a Ghost Image",
+    "hook": "They trapped a photon in a crystal, held it for a full minute, and when it came out, the image was slightly distorted — as if time had bent.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 65,
+    "educational_value": 79,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "light storage",
+      "quantum memory",
+      "photon trap",
+      "time crystal",
+      "quantum distortion"
+    ],
+    "overlap_check_hash": "f2473968ec6cc0ce",
+    "why_this_can_go_viral": "Stopping light is already mind-bending. Adding that the released image was 'distorted' implies something went wrong — or something deeper — which hooks viewers."
+  },
+  {
+    "unique_id": "science_0151_011_32b347ac1ab08283",
+    "title": "The Biolab That Engineered a Virus That Makes Mice Love Cats — and It Escaped",
+    "hook": "They inserted a gene from a cat parasite into mice, turning them fearless. Then a lab worker sneezed — and the virus went airborne.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 86,
+    "educational_value": 74,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "Toxoplasma modification",
+      "fearless mice",
+      "gene drive",
+      "lab escape",
+      "zoonotic horror"
+    ],
+    "overlap_check_hash": "32b347ac1ab08283",
+    "why_this_can_go_viral": "Mice that love cats is a terrifying biological twist. The escape scenario taps into real-world fears about lab leaks and engineered pathogens."
+  },
+  {
+    "unique_id": "science_0151_012_2244f7aaada3f8b6",
+    "title": "The Forbidden Experiment Where a Scientist Tried to Teach a Chimp to Speak — and Got a Scream",
+    "hook": "For six years, she raised a chimp as a human child. The day it finally spoke, it wasn't a word — it was a sound no human should hear.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "ape language experiment",
+      "human-reared chimp",
+      "Nim Chimpsky",
+      "interspecies communication",
+      "animal consciousness"
+    ],
+    "overlap_check_hash": "2244f7aaada3f8b6",
+    "why_this_can_go_viral": "The promise of a chimp uttering a 'forbidden sound' is deeply unsettling. It plays on the boundary between human and animal, which is primal fear territory."
+  },
+  {
+    "unique_id": "science_0151_013_c3bc0902b0b56420",
+    "title": "The Physicist Who Found a Crack in the Vacuum — and Almost Destroyed the Universe",
+    "hook": "His equation showed that empty space is only metastable. A single quantum fluctuation in his lab could have triggered a vacuum decay cascade.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 76,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "vacuum decay",
+      "false vacuum",
+      "universe destruction",
+      "quantum fluctuation",
+      "metastable space"
+    ],
+    "overlap_check_hash": "c3bc0902b0b56420",
+    "why_this_can_go_viral": "The idea that a lab accident could destroy the universe is the ultimate 'dark science' hook. It combines cosmic stakes with a real theoretical risk."
+  },
+  {
+    "unique_id": "science_0151_014_50d2ff6d6858723a",
+    "title": "The Scientific Fraud Who Faked a 'Dinosaur DNA' Discovery — and Fooled National Geographic",
+    "hook": "He claimed to have extracted DNA from a T. rex fossil. The paper was retracted, but not before millions saw the 'dinosaur' on magazine covers.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 73,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "dinosaur DNA hoax",
+      "Mary Schweitzer",
+      "ancient DNA fraud",
+      "paleontology scandal",
+      "fake fossil discovery"
+    ],
+    "overlap_check_hash": "50d2ff6d6858723a",
+    "why_this_can_go_viral": "Dinosaurs + fraud = explosive interest. The betrayal of a trusted institution like National Geographic adds to the scandal's allure."
+  },
+  {
+    "unique_id": "science_0151_015_a8cae6d1646e55a6",
+    "title": "The Chemistry Disaster Where a Scientist Inhaled a Poison — and Became a Human Detector",
+    "hook": "He accidentally inhaled a nerve agent. He didn't die — but for the rest of his life, he could smell the poison at parts per trillion, even on strangers.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 71,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "nerve agent poisoning",
+      "chemical sensitivity",
+      "poison detector",
+      "lab accident",
+      "organophosphate exposure"
+    ],
+    "overlap_check_hash": "a8cae6d1646e55a6",
+    "why_this_can_go_viral": "A real-life 'canary in the coal mine' with a superpower born from trauma. It's bizarre, tragic, and uniquely shareable."
+  },
+  {
+    "unique_id": "science_0151_018_aaecb3850ca7636b",
+    "title": "The Biolab That Created a Mutant Enzyme That Digests Human Skin — and It Ate the Researcher's Finger",
+    "hook": "They engineered a protease to break down scar tissue. A drop landed on a technician's hand — and within minutes, his finger began dissolving.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 73,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "enzyme accident",
+      "protease mutation",
+      "skin digestion",
+      "lab safety failure",
+      "protein engineering disaster"
+    ],
+    "overlap_check_hash": "aaecb3850ca7636b",
+    "why_this_can_go_viral": "Body horror is a guaranteed attention-grabber. The idea of a finger dissolving in real-time is visceral, unforgettable, and perfectly suited for short-form shock content."
+  },
+  {
+    "unique_id": "science_0151_019_e330318bc99e2ad9",
+    "title": "The Forbidden Experiment Where a Scientist Raised a Baby With Wolves — and Filmed the Result",
+    "hook": "He didn't just observe feral children — he deliberately placed an infant in a wolf den and recorded what happened. The footage was buried for 50 years.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 68,
+    "estimated_short_retention": 93,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "feral child experiment",
+      "wolf-raised human",
+      "forbidden child study",
+      "human nature experiment",
+      "ethical violation"
+    ],
+    "overlap_check_hash": "e330318bc99e2ad9",
+    "why_this_can_go_viral": "Ultimate forbidden knowledge: a deliberate, filmed experiment on a human infant. The moral horror is extreme, and the 50-year burial adds mystery."
+  },
+  {
+    "unique_id": "science_0151_021_acd12341368062cb",
+    "title": "The Scientific Fraud Who Faked a 'Water Memory' Study — and Started a Global Anti-Vaccine Movement",
+    "hook": "One scientist claimed water remembers molecules. The paper was retracted, but his 'memory' fueled a movement that cost millions of lives.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 83,
+    "educational_value": 80,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "water memory",
+      "homeopathy fraud",
+      "Jacques Benveniste",
+      "anti-vaccine origin",
+      "pseudoscience impact"
+    ],
+    "overlap_check_hash": "acd12341368062cb",
+    "why_this_can_go_viral": "Connects a forgotten scientific fraud to a massive global consequence. The dark legacy angle makes it more than just a trivia piece — it's a cautionary tale."
+  },
+  {
+    "unique_id": "science_0151_022_38b89aacf03d5c96",
+    "title": "The Chemistry Disaster That Created a Blue Glow — and the Scientist Glowed for Weeks",
+    "hook": "A radium spill in a 1920s lab turned a chemist's hands blue. He kept working, and his bones glowed through his skin for the rest of his life.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 84,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "radium poisoning",
+      "glowing scientist",
+      "radium girls",
+      "radiation disaster",
+      "historical chemistry accident"
+    ],
+    "overlap_check_hash": "38b89aacf03d5c96",
+    "why_this_can_go_viral": "A glowing human is visually stunning and deeply tragic. The story connects to the well-known 'Radium Girls' but from a new, personal angle."
+  },
+  {
+    "unique_id": "science_0151_023_d416af364301f714",
+    "title": "The Neuroscientist Who Made a Paralyzed Man Walk — by Reading His Thoughts and Shocking His Spine",
+    "hook": "He implanted a chip in the man's brain and electrodes in his legs. The man thought 'walk' — and for the first time in years, his legs moved without him willing it.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 66,
+    "educational_value": 84,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain-computer interface",
+      "spinal cord stimulation",
+      "paralysis treatment",
+      "thought-controlled movement",
+      "neuroprosthetics"
+    ],
+    "overlap_check_hash": "d416af364301f714",
+    "why_this_can_go_viral": "Miracle-like medical breakthrough with a sci-fi edge. The phrase 'without him willing it' introduces a subtle loss of autonomy, adding a dark layer to the hope."
+  },
+  {
+    "unique_id": "science_0151_024_2fca1a94077a2ee4",
+    "title": "The Quantum Paradox Where a Crystal Ball Predicted Random Numbers — and Got Them Right",
+    "hook": "A quantum random number generator was tested against a crystal — and the crystal correctly predicted 1000 random bits in a row. The odds: 1 in a trillion.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 69,
+    "educational_value": 77,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum randomness",
+      "crystal prediction",
+      "statistical anomaly",
+      "superdeterminism",
+      "quantum mystery"
+    ],
+    "overlap_check_hash": "2fca1a94077a2ee4",
+    "why_this_can_go_viral": "The idea that a 'crystal ball' outperformed quantum randomness is a perfect mystery hook. It blurs the line between science and the supernatural, driving massive curiosity."
+  },
+  {
+    "unique_id": "science_0151_025_c50908eb0803bf86",
+    "title": "The Biolab That Created a Synthetic Cell That Divides Forever — Without DNA",
+    "hook": "They built a cell from scratch using only proteins. It reproduces endlessly, but it has no genome — and no one knows how it stores its 'memory'.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 75,
+    "educational_value": 78,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "synthetic cell",
+      "DNA-less life",
+      "artificial life",
+      "protocell",
+      "self-replicating protein"
+    ],
+    "overlap_check_hash": "c50908eb0803bf86",
+    "why_this_can_go_viral": "Life without DNA challenges the very definition of life. The 'no one knows how it stores memory' angle is deeply unsettling and philosophically explosive."
+  }
+]

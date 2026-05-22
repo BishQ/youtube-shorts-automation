@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "business_0138_001_c4db9651f6db2655",
+    "title": "The CEO Who Sold 'Employee Wellness'—It Was a Life Insurance Data Mine",
+    "hook": "A wellness app that tracked steps, sleep, and heart rate—then sold the data to insurers to deny claims and raise premiums on the employees who used it most.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "wellness app scam",
+      "health data sold",
+      "insurance fraud",
+      "employee tracking",
+      "corporate betrayal"
+    ],
+    "overlap_check_hash": "c4db9651f6db2655",
+    "why_this_can_go_viral": "Taps into the deep fear of being monitored at work, with a shocking twist that the 'benefit' was actually a weapon against the workers."
+  },
+  {
+    "unique_id": "business_0138_002_51aa6167a1bca0af",
+    "title": "The Trader Who Used a Fake 'Plague Ship' to Crash a Competitor's Stock",
+    "hook": "A single phone call to a port master, claiming a rival's ship had a mysterious illness onboard—caused a 23% stock drop before anyone realized the ship was empty.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "stock manipulation",
+      "fake pandemic",
+      "shipping fraud",
+      "insider trading",
+      "market crash tactic"
+    ],
+    "overlap_check_hash": "51aa6167a1bca0af",
+    "why_this_can_go_viral": "Combines a thriller-style narrative with the very real panic of pandemic-era markets, making viewers feel the fragility of the stock system."
+  },
+  {
+    "unique_id": "business_0138_003_29c125bd38bfbba0",
+    "title": "The Startup That Sold 'Infinite Battery' Tech—It Was Just a Tesla in a Box",
+    "hook": "A startup raised $40 million for a battery that never needed charging—until an engineer found the 'secret' was a hidden Tesla Powerwall running the demo.",
+    "virality_score": 87,
+    "curiosity_gap_score": 94,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "battery scam",
+      "fake tech startup",
+      "Tesla fraud",
+      "investor deception",
+      "demo trick"
+    ],
+    "overlap_check_hash": "29c125bd38bfbba0",
+    "why_this_can_go_viral": "The audacity of using a competitor's product to fake your own is a perfect story of startup hubris and deception."
+  },
+  {
+    "unique_id": "business_0138_004_0fbfc1d6c98a6205",
+    "title": "The Monopoly That Bought Every Urn—Then Made Ashes a Luxury Commodity",
+    "hook": "One company quietly acquired every major urn manufacturer, then raised prices 400%—forcing grieving families to pay $5,000 for a ceramic pot or scatter their loved ones illegally.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "funeral monopoly",
+      "urn price gouging",
+      "death industry",
+      "grief exploitation",
+      "anti-competitive"
+    ],
+    "overlap_check_hash": "0fbfc1d6c98a6205",
+    "why_this_can_go_viral": "The sheer emotional gut-punch of monetizing grief through a hidden monopoly creates instant outrage and sharing."
+  },
+  {
+    "unique_id": "business_0138_005_97fedda2278f9138",
+    "title": "The Corporate Spy Who Posed as a Janitor for 8 Years—Then Stole Customer Lists",
+    "hook": "A rival company planted a janitor who spent eight years memorizing floor plans, employee schedules, and trash data—all before walking out with 2 million client names.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 82,
+    "educational_value": 72,
+    "estimated_short_retention": 87,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "janitor spy",
+      "industrial espionage",
+      "customer list theft",
+      "long-term infiltration",
+      "trade secret theft"
+    ],
+    "overlap_check_hash": "97fedda2278f9138",
+    "why_this_can_go_viral": "The 'invisible' worker reveals how low-status jobs can be perfect cover for high-tech espionage, playing on paranoia about trust."
+  },
+  {
+    "unique_id": "business_0138_007_3315ad8985fe4f71",
+    "title": "The Supply Chain Secret of 'Organic' Avocados—They Were Grown on Toxic Waste Sites",
+    "hook": "A major organic avocado brand sourced from farms built on Superfund toxic waste sites, where the avocados absorbed heavy metals—yet passed all certification tests.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "organic food fraud",
+      "toxic avocados",
+      "Superfund sites",
+      "certification scam",
+      "heavy metals in food"
+    ],
+    "overlap_check_hash": "3315ad8985fe4f71",
+    "why_this_can_go_viral": "Health-conscious viewers will be stunned that the 'clean' label they trust is a cover for poison, driving massive shares among foodies."
+  },
+  {
+    "unique_id": "business_0138_009_eb07cc7e4240d8ee",
+    "title": "The Trader Who Used a Fake 'Oil Spill' Hoax to Corner the Gasoline Market",
+    "hook": "He sent a fake Coast Guard alert about a massive oil spill, crashing crude futures—then he bought the dip and made $14 million before anyone knew it was a prank call.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 83,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "oil spill hoax",
+      "gas market manipulation",
+      "fake news trading",
+      "futures fraud",
+      "commodity scam"
+    ],
+    "overlap_check_hash": "eb07cc7e4240d8ee",
+    "why_this_can_go_viral": "Feels like a heist movie, with a single fake call causing global market chaos—perfect for shares among finance enthusiasts."
+  },
+  {
+    "unique_id": "business_0138_010_35857a87a9447dab",
+    "title": "The Startup That Claimed to 'Recycle Plastic into Oil'—It Was Just Cooking Oil in a Pipe",
+    "hook": "Investors poured $50 million into a machine that supposedly turned plastic into crude, until a whistleblower revealed it was just a heater pumping recycled cooking oil into a tank.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "plastic recycling scam",
+      "fake green tech",
+      "cooking oil fraud",
+      "investor fraud",
+      "whistleblower reveal"
+    ],
+    "overlap_check_hash": "35857a87a9447dab",
+    "why_this_can_go_viral": "The absurd simplicity of the trick (just a pipe and some oil) makes it a perfect story of investor gullibility, shared for its shock value."
+  },
+  {
+    "unique_id": "business_0138_012_89c79bbe5b909d85",
+    "title": "The Corporate Spy Who Faked a Pregnancy to Steal a Baby Formula Recipe",
+    "hook": "A female spy joined a formula company as a 'maternity consultant', faked a pregnancy to gain access to the lab, and memorized the entire ingredient ratio in three days.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 86,
+    "educational_value": 68,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "pregnancy disguise",
+      "formula recipe theft",
+      "female spy",
+      "corporate spy",
+      "milk fraud"
+    ],
+    "overlap_check_hash": "89c79bbe5b909d85",
+    "why_this_can_go_viral": "The combination of motherhood as a disguise and the high-stakes baby formula industry creates a gripping, near-tabloid narrative."
+  },
+  {
+    "unique_id": "business_0138_014_775464a53a165c4c",
+    "title": "The Supply Chain Secret of 'Wild-Caught' Salmon—It Was Farmed in a Warehouse in Nebraska",
+    "hook": "A supplier labeled warehouse-raised salmon as 'wild-caught' from Alaska, using a fake fishing boat name and a photo of a different river, for over a decade.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "salmon fraud",
+      "fake wild-caught",
+      "seafood mislabeling",
+      "warehouse farming",
+      "food supply chain"
+    ],
+    "overlap_check_hash": "775464a53a165c4c",
+    "why_this_can_go_viral": "The sheer absurdity of 'Nebraska salmon' makes it a perfect shareable story, mixing food fraud with a geography fail."
+  },
+  {
+    "unique_id": "business_0138_015_ec285931d039b99d",
+    "title": "The Industry Cover-Up of 'Microwave-Safe' Plastic Containers—They Were Leaching Endocrine Disruptors",
+    "hook": "An FDA study found that 'microwave-safe' plastic released 400% more endocrine disruptors when heated—but the plastics lobby got the study buried for 12 years.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 90,
+    "educational_value": 92,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "microwave plastic danger",
+      "endocrine disruptors",
+      "FDA suppression",
+      "BPA scam",
+      "food safety cover-up"
+    ],
+    "overlap_check_hash": "ec285931d039b99d",
+    "why_this_can_go_viral": "Almost everyone microwaves plastic—this is a universal health scare with a hidden report angle, making it highly shareable among health-conscious viewers."
+  },
+  {
+    "unique_id": "business_0138_016_6b8daeecf7a578df",
+    "title": "The CEO Who Used a 'Mental Health' App to Monitor Employees' Therapy Sessions",
+    "hook": "A company offered free therapy via a branded app—but the app recorded session transcripts and flagged employees who mentioned 'quit' or 'lawsuit' to HR.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 96,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "therapy app spying",
+      "employee monitoring",
+      "mental health scam",
+      "HR surveillance",
+      "privacy violation"
+    ],
+    "overlap_check_hash": "6b8daeecf7a578df",
+    "why_this_can_go_viral": "The ultimate betrayal: using mental health support as a surveillance tool. Viewers will be furious and share as a warning."
+  },
+  {
+    "unique_id": "business_0138_017_ae8b2bf1db5ab27e",
+    "title": "The Trader Who Used a Fake 'Hurricane' Forecast to Manipulate Orange Juice Futures",
+    "hook": "A trader paid a meteorologist to issue a fake hurricane warning for Florida—then shorted orange juice futures for a $6 million profit before the 'storm' vanished.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 82,
+    "educational_value": 73,
+    "estimated_short_retention": 87,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "weather manipulation",
+      "orange juice futures",
+      "fake hurricane",
+      "commodity scam",
+      "forecast fraud"
+    ],
+    "overlap_check_hash": "ae8b2bf1db5ab27e",
+    "why_this_can_go_viral": "The idea that a single person can fake a weather event to make millions from breakfast is absurdly compelling, with a 'how did they get away with it?' hook."
+  },
+  {
+    "unique_id": "business_0138_018_30e5a1680702d3c3",
+    "title": "The Startup That Sold 'Artificial Intelligence'—It Was Just a Room of People in India",
+    "hook": "A Silicon Valley AI startup raised $30 million for a 'machine learning' service—until an investor found it was a room of 200 low-paid workers manually typing responses.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 76,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "AI fake",
+      "mechanical turk scam",
+      "fake automation",
+      "human in loop fraud",
+      "startup lie"
+    ],
+    "overlap_check_hash": "30e5a1680702d3c3",
+    "why_this_can_go_viral": "The 'fake AI' trope resonates with anyone who suspects tech is overhyped—the human-powered twist is both funny and dark."
+  },
+  {
+    "unique_id": "business_0138_019_b68e472ef798a15d",
+    "title": "The Monopoly That Controlled Every Wine Cork—Then Made Screw Caps Illegal",
+    "hook": "A cork conglomerate lobbied to ban screw caps in the EU, citing 'tradition'—but their real goal was to stop a cheaper, better seal that threatened their monopoly.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 79,
+    "educational_value": 88,
+    "estimated_short_retention": 79,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "cork monopoly",
+      "screw cap ban",
+      "wine industry scam",
+      "lobbying abuse",
+      "tradition fraud"
+    ],
+    "overlap_check_hash": "b68e472ef798a15d",
+    "why_this_can_go_viral": "Wine lovers will be fascinated that their 'tradition' is actually a corporate manipulation, driving shares among food and drink communities."
+  },
+  {
+    "unique_id": "business_0138_020_d00d6b4b43314f5d",
+    "title": "The Corporate Spy Who Used a Fake 'Funeral' to Access a Competitor's Server Room",
+    "hook": "A spy called the front desk pretending to be a grieving son, claiming his mother's will was on the CEO's computer—the receptionist let him into the server room unsupervised.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "funeral disguise",
+      "server room breach",
+      "social engineering",
+      "corporate spy",
+      "emotional manipulation"
+    ],
+    "overlap_check_hash": "d00d6b4b43314f5d",
+    "why_this_can_go_viral": "The emotional manipulation (using a fake death) is deeply unsettling, and the simplicity of the trick makes viewers wonder if their own office is vulnerable."
+  },
+  {
+    "unique_id": "business_0138_022_fe9a7e7b91eed92b",
+    "title": "The Supply Chain Secret of 'Fresh' Flowers—They Were 3 Months Old and Sprayed with Paint",
+    "hook": "Major flower suppliers kept roses in cold storage for months, then sprayed them with non-food-grade paint to look 'fresh'—causing skin rashes in thousands of customers.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 84,
+    "educational_value": 81,
+    "estimated_short_retention": 82,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "fake fresh flowers",
+      "painted roses",
+      "flower storage scam",
+      "skin rash cover-up",
+      "floral industry fraud"
+    ],
+    "overlap_check_hash": "fe9a7e7b91eed92b",
+    "why_this_can_go_viral": "Romantic gift givers will be horrified to learn that 'fresh' flowers are chemically preserved and painted—a shocking reveal that kills the illusion."
+  },
+  {
+    "unique_id": "business_0138_023_6d2a587be0bda747",
+    "title": "The Industry Cover-Up of 'Lead-Free' Lipstick—It Contained 10x the Legal Limit of Lead",
+    "hook": "A major brand claimed 'lead-free' lipstick, but internal tests showed 10x the legal limit—they paid an independent lab to destroy the samples and rewrite the report.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 89,
+    "educational_value": 87,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "lead lipstick",
+      "cosmetics fraud",
+      "lab bribery",
+      "toxic makeup",
+      "cover-up scandal"
+    ],
+    "overlap_check_hash": "6d2a587be0bda747",
+    "why_this_can_go_viral": "Beauty product safety is a massive concern—the idea of a 'safe' label being a lie and the cover-up being paid for by the brand is deeply angering."
+  },
+  {
+    "unique_id": "business_0138_025_c50f234c1a39e060",
+    "title": "The Startup That Sold 'Virtual Real Estate'—It Was a Database of Public Domain Images",
+    "hook": "A startup claimed to sell 'first-ever virtual land' for $10,000 per plot—but it was just a database of random public domain photos with a fake blockchain overlay.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 77,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "virtual land scam",
+      "metaverse fraud",
+      "fake real estate",
+      "blockchain scam",
+      "public domain theft"
+    ],
+    "overlap_check_hash": "c50f234c1a39e060",
+    "why_this_can_go_viral": "Taps into the current hype and skepticism around virtual real estate and NFTs—the absurdity of paying $10,000 for a Google Images screenshot is instantly shareable."
+  }
+]

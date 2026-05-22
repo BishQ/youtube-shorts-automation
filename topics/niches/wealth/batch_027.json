@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "wealth_0027_001_0287b39286237c38",
+    "title": "The Offshore Vault That Only Opens When a Billionaire Dies Alone",
+    "hook": "A vault in the Cayman Islands is programmed to unlock only when its owner's death is completely unaccompanied—no family, no friends, no witnesses.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "wealth",
+    "subcategory": "offshore tax havens",
+    "keywords": [
+      "offshore vault",
+      "billionaire death",
+      "Cayman Islands",
+      "hidden inheritance",
+      "solitary death"
+    ],
+    "overlap_check_hash": "0287b39286237c38",
+    "why_this_can_go_viral": "Combines morbid curiosity about death with secret wealth systems—viewers will ask 'Why would anyone design this?' and click to find out."
+  },
+  {
+    "unique_id": "wealth_0027_002_cbbe6ee31fa7c3cc",
+    "title": "The Accountant Who Hid $500 Million in a Dead Language No One Speaks",
+    "hook": "A Swiss accountant encoded an entire fortune using Aramaic script—because no living tax auditor could read it.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 72,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "wealth",
+    "subcategory": "hidden wealth systems",
+    "keywords": [
+      "dead language",
+      "Aramaic",
+      "Swiss accountant",
+      "hidden fortune",
+      "tax evasion"
+    ],
+    "overlap_check_hash": "cbbe6ee31fa7c3cc",
+    "why_this_can_go_viral": "Mystery of lost languages meets high-stakes financial crime—triggers both linguistic curiosity and wealth conspiracy intrigue."
+  },
+  {
+    "unique_id": "wealth_0027_004_3bd4b1d6b008c308",
+    "title": "The Billionaire Who Bought the Rights to Every Child Born on a Specific Date",
+    "hook": "A tech mogul purchased the future earnings of everyone born on March 15, 1990—making them effectively his property until age 65.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 55,
+    "estimated_short_retention": 87,
+    "niche_name": "wealth",
+    "subcategory": "billionaire tactics",
+    "keywords": [
+      "future earnings",
+      "human collateral",
+      "tech billionaire",
+      "birth date ownership",
+      "financial slavery"
+    ],
+    "overlap_check_hash": "3bd4b1d6b008c308",
+    "why_this_can_go_viral": "Feels like dystopian fiction but is rooted in real financial loopholes—outrage and disbelief drive engagement."
+  },
+  {
+    "unique_id": "wealth_0027_005_0dc072ae3b5bbf60",
+    "title": "The Psychologist Who Designed a 'Guilt Tax' for Billionaire Clients",
+    "hook": "A therapist created a system where billionaires pay a percentage of their net worth into a guilt fund—and the money flows to their worst enemies.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 76,
+    "educational_value": 50,
+    "estimated_short_retention": 80,
+    "niche_name": "wealth",
+    "subcategory": "wealth psychology",
+    "keywords": [
+      "guilt tax",
+      "billionaire therapist",
+      "wealth psychology",
+      "moral debt",
+      "enemy funding"
+    ],
+    "overlap_check_hash": "0dc072ae3b5bbf60",
+    "why_this_can_go_viral": "Psychological twist on wealth redistribution—viewers will love the idea of forcing the rich to fund their rivals."
+  },
+  {
+    "unique_id": "wealth_0027_006_1ef968868edb8ae3",
+    "title": "The Dynasty That Hides Gold Inside Frozen Human Organs",
+    "hook": "One family trust stores its gold reserves inside cryogenically preserved human hearts—because no bank can seize what's technically 'medical waste.'",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 45,
+    "estimated_short_retention": 89,
+    "niche_name": "wealth",
+    "subcategory": "hidden wealth systems",
+    "keywords": [
+      "cryogenic gold",
+      "human organs",
+      "trust fund",
+      "medical waste loophole",
+      "dynasty wealth"
+    ],
+    "overlap_check_hash": "1ef968868edb8ae3",
+    "why_this_can_go_viral": "Genuinely shocking and grotesque—viewers will immediately ask 'Is this real?' and share it for the sheer horror factor."
+  },
+  {
+    "unique_id": "wealth_0027_007_afd036846a523d4d",
+    "title": "The Tax Haven That Exists Only Inside a Hypersleep Chamber",
+    "hook": "A billionaire built a sealed vault in a cryo-chamber where his assets are legally considered 'frozen in time'—and thus untaxable.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 74,
+    "educational_value": 55,
+    "estimated_short_retention": 84,
+    "niche_name": "wealth",
+    "subcategory": "offshore tax havens",
+    "keywords": [
+      "cryo tax haven",
+      "hypersleep vault",
+      "time freeze loophole",
+      "billionaire cryonics",
+      "untaxable assets"
+    ],
+    "overlap_check_hash": "afd036846a523d4d",
+    "why_this_can_go_viral": "Sci-fi concept applied to real tax avoidance—feels like a Black Mirror episode that actually happened."
+  },
+  {
+    "unique_id": "wealth_0027_008_ded261f84c999149",
+    "title": "The Algorithm That Flags 'Worthless Heirs' and Cuts Their Bloodline",
+    "hook": "A trust family uses AI to predict which grandchildren will become 'financial liabilities'—and legally disinherits them before they turn 10.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 86,
+    "niche_name": "wealth",
+    "subcategory": "financial manipulation",
+    "keywords": [
+      "AI inheritance",
+      "heir prediction",
+      "trust fund algorithm",
+      "family cut off",
+      "bloodline control"
+    ],
+    "overlap_check_hash": "ded261f84c999149",
+    "why_this_can_go_viral": "Creepy blend of eugenics and finance—viewers will be both horrified and hooked on the mechanics."
+  },
+  {
+    "unique_id": "wealth_0027_009_543a15d31f4bea44",
+    "title": "The Broker Who Sold Insurance Policies on the Apollo Moon Landings",
+    "hook": "A shadow broker wrote life insurance for astronauts using a policy that paid out only if they were abandoned on the lunar surface.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "wealth",
+    "subcategory": "dark money flows",
+    "keywords": [
+      "Apollo insurance",
+      "astronaut policies",
+      "moon landing",
+      "shadow broker",
+      "abandonment clause"
+    ],
+    "overlap_check_hash": "543a15d31f4bea44",
+    "why_this_can_go_viral": "Space age conspiracy meets morbid finance—viewers love hidden stories behind iconic historical events."
+  },
+  {
+    "unique_id": "wealth_0027_010_b98d498496339dc0",
+    "title": "The Offshore Island Where Debt Is Measured in Human Tears",
+    "hook": "On a remote island in the Pacific, lenders collect 'emotional collateral'—tears in vials—as legal tender for debt repayment.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 80,
+    "educational_value": 40,
+    "estimated_short_retention": 78,
+    "niche_name": "wealth",
+    "subcategory": "offshore tax havens",
+    "keywords": [
+      "emotional collateral",
+      "tear debt",
+      "Pacific island",
+      "human tears as currency",
+      "offshore lending"
+    ],
+    "overlap_check_hash": "b98d498496339dc0",
+    "why_this_can_go_viral": "Bizarre and poetic concept—viewers will be drawn to the surreal imagery and the dark commentary on exploitation."
+  },
+  {
+    "unique_id": "wealth_0027_011_41d646e93d550168",
+    "title": "The Heiress Who Had to Live as a Beggar for One Year to Inherit $2 Billion",
+    "hook": "A trust fund forced its heir to survive on the streets for 365 days with no ID, no money, and no contact—or lose everything.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 84,
+    "educational_value": 55,
+    "estimated_short_retention": 89,
+    "niche_name": "wealth",
+    "subcategory": "wealth psychology",
+    "keywords": [
+      "beggar heir",
+      "trust fund test",
+      "year of poverty",
+      "inheritance challenge",
+      "billionaire suffering"
+    ],
+    "overlap_check_hash": "41d646e93d550168",
+    "why_this_can_go_viral": "Schadenfreude plus social experiment—viewers will revel in the idea of the ultra-rich being forced into extreme hardship."
+  },
+  {
+    "unique_id": "wealth_0027_012_730f6f4521fe22e0",
+    "title": "The Accountant Who Laundered $1 Billion Through a Fake Alien Artifact Trade",
+    "hook": "A financier created a black market for 'alien relics'—selling dirt from Area 51 to billionaires and funneling cash through shell companies.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 75,
+    "educational_value": 50,
+    "estimated_short_retention": 84,
+    "niche_name": "wealth",
+    "subcategory": "dark money flows",
+    "keywords": [
+      "alien artifact scam",
+      "Area 51 dirt",
+      "money laundering",
+      "shell companies",
+      "billionaire collector"
+    ],
+    "overlap_check_hash": "730f6f4521fe22e0",
+    "why_this_can_go_viral": "UFO lore meets financial crime—perfect crossover for two huge online communities."
+  },
+  {
+    "unique_id": "wealth_0027_013_b8f05f8a722098b7",
+    "title": "The Shadow Bank That Only Operates Inside Abandoned Nuclear Bunkers",
+    "hook": "A secret bank runs all transactions from a decommissioned Soviet missile silo—because it's legally considered 'off-planet' for tax purposes.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 77,
+    "educational_value": 60,
+    "estimated_short_retention": 83,
+    "niche_name": "wealth",
+    "subcategory": "shadow banking",
+    "keywords": [
+      "nuclear bunker bank",
+      "Soviet silo",
+      "off-planet tax loophole",
+      "underground finance",
+      "secret banking"
+    ],
+    "overlap_check_hash": "b8f05f8a722098b7",
+    "why_this_can_go_viral": ""
+  },
+  {
+    "unique_id": "wealth_0027_016_7e6a3df5e5227626",
+    "title": "The Broker Who Sold 'Curse Insurance' to Billionaires Afraid of Karma",
+    "hook": "A private broker offers policies that pay out if a billionaire suffers 'karmic retribution'—like losing a fortune due to a scandal they caused.",
+    "virality_score": 77,
+    "curiosity_gap_score": 83,
+    "darkness_score": 70,
+    "educational_value": 45,
+    "estimated_short_retention": 80,
+    "niche_name": "wealth",
+    "subcategory": "wealth psychology",
+    "keywords": [
+      "karma insurance",
+      "curse policy",
+      "billionaire fear",
+      "retribution coverage",
+      "supernatural finance"
+    ],
+    "overlap_check_hash": "7e6a3df5e5227626",
+    "why_this_can_go_viral": "Superstition meets wealth—viewers will enjoy the poetic justice angle and the absurdity of insuring against karma."
+  },
+  {
+    "unique_id": "wealth_0027_017_10610da47c203bbc",
+    "title": "The Tax Haven Physically Hidden Inside an Active Volcano",
+    "hook": "A vault built into the magma chamber of an Indonesian volcano is legally 'nonexistent' because it's destroyed and rebuilt every 10 years by eruptions.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 76,
+    "educational_value": 60,
+    "estimated_short_retention": 86,
+    "niche_name": "wealth",
+    "subcategory": "offshore tax havens",
+    "keywords": [
+      "volcano vault",
+      "magma chamber",
+      "tax haven destruction",
+      "Indonesian volcano",
+      "hidden wealth"
+    ],
+    "overlap_check_hash": "10610da47c203bbc",
+    "why_this_can_go_viral": "Extreme geography plus extreme wealth—viewers will be amazed by the audacity of hiding assets in a literal volcano."
+  },
+  {
+    "unique_id": "wealth_0027_018_27b520decc78b7d5",
+    "title": "The Algorithm That Hunts for 'Emotional Debt' in Families and Sells It",
+    "hook": "An AI scans private family messages to identify emotional manipulation—then bundles that 'debt' as a tradeable asset on a shadow market.",
+    "virality_score": 85,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "wealth",
+    "subcategory": "financial manipulation",
+    "keywords": [
+      "emotional debt",
+      "AI manipulation",
+      "family data",
+      "shadow market",
+      "tradeable emotions"
+    ],
+    "overlap_check_hash": "27b520decc78b7d5",
+    "why_this_can_go_viral": "Blends psychological horror with finance—viewers will be terrified that their private feelings could be commodified."
+  },
+  {
+    "unique_id": "wealth_0027_019_f399ba59c1ddd021",
+    "title": "The Heir Who Had to Win a Hunger Games-Style Competition to Inherit $1 Billion",
+    "hook": "A trust fund required its 12 heirs to compete in a 30-day survival challenge on a private island—the last one alive inherits everything.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 89,
+    "educational_value": 45,
+    "estimated_short_retention": 92,
+    "niche_name": "wealth",
+    "subcategory": "billionaire tactics",
+    "keywords": [
+      "survival competition",
+      "heir battle",
+      "private island death match",
+      "inheritance game",
+      "billionaire sadism"
+    ],
+    "overlap_check_hash": "f399ba59c1ddd021",
+    "why_this_can_go_viral": "Directly taps into the Hunger Games fantasy—viewers will be morbidly fascinated by the real-world version of a fictional nightmare."
+  },
+  {
+    "unique_id": "wealth_0027_021_2ca60b987572bb06",
+    "title": "The Accountant Who Faked His Own Death to Avoid Paying a Billionaire Client",
+    "hook": "A forensic accountant staged a drowning in the Mediterranean to escape a billionaire who wanted him to hide $300 million in war crimes funding.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 60,
+    "estimated_short_retention": 86,
+    "niche_name": "wealth",
+    "subcategory": "economic crimes",
+    "keywords": [
+      "faked death",
+      "accountant escape",
+      "billionaire threat",
+      "war crimes funding",
+      "Mediterranean fraud"
+    ],
+    "overlap_check_hash": "2ca60b987572bb06",
+    "why_this_can_go_viral": "High-stakes personal drama meets financial conspiracy—viewers will root for the accountant and crave the full story."
+  },
+  {
+    "unique_id": "wealth_0027_022_0be04c378aec0c4a",
+    "title": "The Island Where Your Debt Becomes a Time-Share on Your Future Self",
+    "hook": "On a private island in the Caribbean, defaulting on a loan means your future labor—and your children's—is owned by the lender indefinitely.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 85,
+    "educational_value": 55,
+    "estimated_short_retention": 83,
+    "niche_name": "wealth",
+    "subcategory": "economic crimes",
+    "keywords": [
+      "debt slavery",
+      "time-share future",
+      "Caribbean island",
+      "generational debt",
+      "loan default ownership"
+    ],
+    "overlap_check_hash": "0be04c378aec0c4a",
+    "why_this_can_go_viral": "Feudal-era horror in the modern world—viewers will be angry and captivated by the injustice."
+  },
+  {
+    "unique_id": "wealth_0027_023_4093996e208e8357",
+    "title": "The Dynasty That Hides Its Fortune Inside Abandoned Prison Cells",
+    "hook": "A family trust stores gold and deeds inside a maximum-security prison that was decommissioned—making it legally unreachable by any court.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 79,
+    "educational_value": 55,
+    "estimated_short_retention": 82,
+    "niche_name": "wealth",
+    "subcategory": "hidden wealth systems",
+    "keywords": [
+      "prison vault",
+      "abandoned prison",
+      "dynasty fortune",
+      "legal loophole",
+      "hidden gold"
+    ],
+    "overlap_check_hash": "4093996e208e8357",
+    "why_this_can_go_viral": "Creepy setting plus financial secrecy—viewers will love the image of treasure hidden behind bars."
+  },
+  {
+    "unique_id": "wealth_0027_024_5aa6c159abd32aca",
+    "title": "The Broker Who Sold 'Afterlife Insurance' to Billionaires Terrified of Hell",
+    "hook": "A broker in Geneva sells policies that claim to pay out to a 'soul trust' in the afterlife—using Vatican-linked accounts as collateral.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 77,
+    "educational_value": 50,
+    "estimated_short_retention": 85,
+    "niche_name": "wealth",
+    "subcategory": "wealth psychology",
+    "keywords": [
+      "afterlife insurance",
+      "soul trust",
+      "Vatican banking",
+      "billionaire fear",
+      "hell insurance"
+    ],
+    "overlap_check_hash": "5aa6c159abd32aca",
+    "why_this_can_go_viral": "Mixes religion, fear, and finance—viewers will be fascinated by the absurdity and the real Vatican connection."
+  },
+  {
+    "unique_id": "wealth_0027_025_ab4cb9a731b62af4",
+    "title": "The Algorithm That Identifies 'Lucky' People and Loans Them Money at Zero Interest",
+    "hook": "A shadow lender uses an AI trained on lifetime luck metrics—like surviving plane crashes—to offer no-interest loans to 'statistically blessed' individuals.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 74,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "wealth",
+    "subcategory": "financial manipulation",
+    "keywords": [
+      "luck algorithm",
+      "zero interest loan",
+      "survivor bias",
+      "shadow lending",
+      "statistical blessing"
+    ],
+    "overlap_check_hash": "ab4cb9a731b62af4",
+    "why_this_can_go_viral": "Philosophically intriguing and statistically weird—viewers will debate whether luck can be measured and monetized."
+  }
+]

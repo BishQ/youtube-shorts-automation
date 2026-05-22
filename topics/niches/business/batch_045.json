@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "business_0045_001_7f2e5068be94d308",
+    "title": "The CEO Who Sold 'Forever' Batteries—They Exploded After 2 Years",
+    "hook": "A startup promised batteries that would never die, but after exactly 24 months, every single one detonated.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "battery",
+      "explosion",
+      "CEO",
+      "scam",
+      "electronics"
+    ],
+    "overlap_check_hash": "7f2e5068be94d308",
+    "why_this_can_go_viral": "Combines fear of everyday product failure with corporate deception, triggering shareability and outrage."
+  },
+  {
+    "unique_id": "business_0045_002_f3585cc97909defd",
+    "title": "The Trader Who Bought a Dead Stock—Then Brought It Back to Life",
+    "hook": "He acquired shares of a bankrupt company, hired actors to pose as board members, and sold it all before the SEC noticed.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 80,
+    "educational_value": 55,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "stock",
+      "bankruptcy",
+      "fraud",
+      "SEC",
+      "phantom company"
+    ],
+    "overlap_check_hash": "f3585cc97909defd",
+    "why_this_can_go_viral": "Sounds like a Hollywood heist, but it's real—perfect for the 'impossible scenario' hook."
+  },
+  {
+    "unique_id": "business_0045_003_f5630a2b5a28ceff",
+    "title": "The Monopoly That Bought Every Pharmacy—Then Charged $10,000 for a Stitch",
+    "hook": "They owned all the pharmacies in a hundred-mile radius, so if you needed a simple suture, you paid their price or bled.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 78,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "pharmacy",
+      "monopoly",
+      "medical",
+      "price gouging",
+      "stitches"
+    ],
+    "overlap_check_hash": "f5630a2b5a28ceff",
+    "why_this_can_go_viral": "Taps into universal fear of medical exploitation and monopolies, sparking anger and discussion."
+  },
+  {
+    "unique_id": "business_0045_004_f1e840208ef8f758",
+    "title": "The Spy Who Stole a Car Design by Tasting the Paint",
+    "hook": "He licked the door of a prototype to memorize the chemical composition, then recreated it in a rival lab.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 70,
+    "educational_value": 50,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "spy",
+      "car",
+      "paint",
+      "taste",
+      "prototype"
+    ],
+    "overlap_check_hash": "f1e840208ef8f758",
+    "why_this_can_go_viral": "Absurd but true method of espionage—viewers will share for the 'eww' factor and disbelief."
+  },
+  {
+    "unique_id": "business_0045_007_ab184bc2c257b71d",
+    "title": "The Chemical Company That Sold 'Anti-Allergy' Air Fresheners—They Gave Everyone Asthma",
+    "hook": "A 'hypoallergenic' spray actually contained an irritant that triggered respiratory attacks within hours of use.",
+    "virality_score": 80,
+    "curiosity_gap_score": 83,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 76,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "air freshener",
+      "asthma",
+      "chemical",
+      "cover-up",
+      "allergy"
+    ],
+    "overlap_check_hash": "ab184bc2c257b71d",
+    "why_this_can_go_viral": "Relatable product, hidden danger—perfect for 'I use that!' shock and health-conscious shares."
+  },
+  {
+    "unique_id": "business_0045_008_62cee7429048282f",
+    "title": "The Startup That Sold 'AI' Weather Forecasting—It Was Just a Guy Guessing from a Basement",
+    "hook": "They raised $20 million for 'machine learning' weather predictions, but a man with a barometer in his basement was making every call.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 70,
+    "educational_value": 60,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "AI",
+      "weather",
+      "scam",
+      "basement",
+      "venture capital"
+    ],
+    "overlap_check_hash": "62cee7429048282f",
+    "why_this_can_go_viral": "Mocks overhyped AI startups and venture capital gullibility—satisfying for skeptics and tech critics."
+  },
+  {
+    "unique_id": "business_0045_009_6455f563bd6aef66",
+    "title": "The Trader Who Faked a CEO's Death Using a Doppelgänger",
+    "hook": "He hired an actor to pose as the dead CEO at a press conference, then shorted the stock when the 'resurrection' failed.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 85,
+    "educational_value": 50,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "CEO",
+      "death",
+      "doppelganger",
+      "short",
+      "stock"
+    ],
+    "overlap_check_hash": "6455f563bd6aef66",
+    "why_this_can_go_viral": "Shocking and bizarre—combines identity theft, acting, and finance in a story that sounds fake but happened."
+  },
+  {
+    "unique_id": "business_0045_010_abac9ba199280b8e",
+    "title": "The Monopoly That Bought Every Water Bottler—Then Shrunk the Bottles by 1% Every Year",
+    "hook": "They slowly reduced bottle volume while keeping the price, and nobody noticed for a decade because the label stayed the same size.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 75,
+    "estimated_short_retention": 79,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "water",
+      "shrinkflation",
+      "monopoly",
+      "bottle",
+      "price"
+    ],
+    "overlap_check_hash": "abac9ba199280b8e",
+    "why_this_can_go_viral": "Shrinkflation angers everyone—this extreme example is a perfect 'they're cheating us' story."
+  },
+  {
+    "unique_id": "business_0045_011_d6a57fee19b9bdd3",
+    "title": "The Spy Who Stole a Software Algorithm by Recording Keyboard Echoes",
+    "hook": "He placed a microphone near the office window and decoded the source code from the unique sound each keypress made.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "keyboard",
+      "sound",
+      "espionage",
+      "algorithm",
+      "microphone"
+    ],
+    "overlap_check_hash": "d6a57fee19b9bdd3",
+    "why_this_can_go_viral": "Spy tech meets everyday objects—viewers will marvel at the ingenuity and feel paranoid about their own keyboards."
+  },
+  {
+    "unique_id": "business_0045_012_b11e9fc7e1625ba3",
+    "title": "The Ad That Made You Believe Your Tap Water Was Poison—Then Sold You $50 'Filters' That Were Just Bottles",
+    "hook": "They doctored a water sample with food coloring in a hidden camera ad, then sold the 'solution' as a high-tech filter.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 77,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "water",
+      "filter",
+      "ad",
+      "scam",
+      "fear"
+    ],
+    "overlap_check_hash": "b11e9fc7e1625ba3",
+    "why_this_can_go_viral": "Fear of poisoning is primal—exposing the trick empowers viewers and triggers shares among health-conscious friends."
+  },
+  {
+    "unique_id": "business_0045_013_a3f8c97c98ff95f6",
+    "title": "The Supplier That Sold 'Free-Range' Eggs—The Chickens Lived in Darkness 24/7",
+    "hook": "They claimed 'free-range' meant the birds could roam, but they kept the coop sealed with no light to save feed costs.",
+    "virality_score": 79,
+    "curiosity_gap_score": 82,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 75,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "eggs",
+      "chicken",
+      "free-range",
+      "darkness",
+      "fraud"
+    ],
+    "overlap_check_hash": "a3f8c97c98ff95f6",
+    "why_this_can_go_viral": "Animal cruelty and label fraud outrage both vegans and omnivores—high emotional shareability."
+  },
+  {
+    "unique_id": "business_0045_015_3d8a5477b2b74c66",
+    "title": "The Startup That Sold 'Smart' Water Bottles—They Leaked Your Location to Stalkers",
+    "hook": "A fitness app synced with the bottle's GPS and broadcasted your jogging route on a public map without your consent.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "water bottle",
+      "GPS",
+      "stalker",
+      "privacy",
+      "app"
+    ],
+    "overlap_check_hash": "3d8a5477b2b74c66",
+    "why_this_can_go_viral": "Privacy violations are a hot button—this combines a mundane object with a terrifying threat."
+  },
+  {
+    "unique_id": "business_0045_016_3dac77c1eb76b8ef",
+    "title": "The Trader Who Shorted a Hotel Chain by Releasing Bedbugs in a Lobby",
+    "hook": "He planted bedbugs in a flagship hotel's lobby, filmed the panic, and shorted the stock before the video went viral.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 92,
+    "educational_value": 45,
+    "estimated_short_retention": 89,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "bedbugs",
+      "hotel",
+      "short",
+      "stock",
+      "sabotage"
+    ],
+    "overlap_check_hash": "3dac77c1eb76b8ef",
+    "why_this_can_go_viral": "Gross-out factor plus financial intrigue—viewers will be both disgusted and amazed at the audacity."
+  },
+  {
+    "unique_id": "business_0045_017_5d0a7db72aa25b1e",
+    "title": "The Monopoly That Bought Every Toothbrush Maker—Then Made Bristles Wear Out in 3 Days",
+    "hook": "They engineered a polymer that disintegrated rapidly, forcing customers to buy replacements every week.",
+    "virality_score": 78,
+    "curiosity_gap_score": 81,
+    "darkness_score": 80,
+    "educational_value": 72,
+    "estimated_short_retention": 74,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "toothbrush",
+      "planned obsolescence",
+      "monopoly",
+      "bristles",
+      "wear"
+    ],
+    "overlap_check_hash": "5d0a7db72aa25b1e",
+    "why_this_can_go_viral": "Everyday frustration with product durability—this exposes the deliberate design behind it."
+  },
+  {
+    "unique_id": "business_0045_019_7c7783efa4c481d1",
+    "title": "The Ad That Made You Think Your Car Was Leaking Gas—Then Sold You $300 'Fix' That Did Nothing",
+    "hook": "They sprayed a harmless oil on your driveway, then sold a 'sealant' that was just water with a green dye.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 68,
+    "estimated_short_retention": 78,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "car",
+      "leak",
+      "gas",
+      "scam",
+      "sealant"
+    ],
+    "overlap_check_hash": "7c7783efa4c481d1",
+    "why_this_can_go_viral": "Car owners are paranoid about repairs—this trick exposes a common fear and makes viewers feel smarter."
+  },
+  {
+    "unique_id": "business_0045_020_446e5a686da46893",
+    "title": "The Supplier That Sold 'Organic' Cotton—It Was Grown on a Former Nuclear Test Site",
+    "hook": "They planted cotton in irradiated soil, claimed it was organic, and sold it to eco-conscious brands that never tested for radionuclides.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 94,
+    "educational_value": 75,
+    "estimated_short_retention": 81,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "cotton",
+      "organic",
+      "nuclear",
+      "radiation",
+      "clothing"
+    ],
+    "overlap_check_hash": "446e5a686da46893",
+    "why_this_can_go_viral": "Combines environmentalism, health fear, and betrayal—three viral triggers in one."
+  },
+  {
+    "unique_id": "business_0045_021_e7ac11c19d923f46",
+    "title": "The Chemical Company That Sold 'Skin-Safe' Sunscreen—It Caused Melanoma in 10% of Users",
+    "hook": "They replaced the active ingredient with a cheaper chemical that actually accelerated UV damage, then hid the study.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 96,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "sunscreen",
+      "melanoma",
+      "chemical",
+      "cover-up",
+      "UV"
+    ],
+    "overlap_check_hash": "e7ac11c19d923f46",
+    "why_this_can_go_viral": "Cancer from 'protection' is a horrific irony—every sunscreen user will pause and share."
+  },
+  {
+    "unique_id": "business_0045_022_a429753ad20661f7",
+    "title": "The Startup That Sold 'Mindful' Meditation App—It Recorded Your Voice and Blackmailed You",
+    "hook": "The app asked for permissions to 'analyze stress' but secretly saved all audio, then threatened to leak intimate conversations unless you paid.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 95,
+    "educational_value": 60,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "meditation",
+      "app",
+      "blackmail",
+      "privacy",
+      "recording"
+    ],
+    "overlap_check_hash": "a429753ad20661f7",
+    "why_this_can_go_viral": "Exploits the wellness trend with a dark twist—highly shareable among app users who feel vulnerable."
+  },
+  {
+    "unique_id": "business_0045_023_bafacb7aad68ef4f",
+    "title": "The Trader Who Bought All the Oranges—Then Sold Them Back at 10x After a 'Shortage'",
+    "hook": "He cornered the citrus market by buying every orange in Florida, then created a fake outbreak of citrus greening to justify the price hike.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "oranges",
+      "market",
+      "corner",
+      "citrus",
+      "shortage"
+    ],
+    "overlap_check_hash": "bafacb7aad68ef4f",
+    "why_this_can_go_viral": "Old-school market manipulation with a food staple—relatable to everyone who buys groceries."
+  },
+  {
+    "unique_id": "business_0045_024_b65eb221af8e87d4",
+    "title": "The Monopoly That Bought Every Vending Machine—Then Made Snacks Expire in 1 Hour",
+    "hook": "They programmed the machines to change the expiry date by 30 days each time, so the stock was always 'old' and you had to buy fresh daily.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 76,
+    "educational_value": 72,
+    "estimated_short_retention": 76,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "vending machine",
+      "expiry",
+      "snack",
+      "monopoly",
+      "trick"
+    ],
+    "overlap_check_hash": "b65eb221af8e87d4",
+    "why_this_can_go_viral": "Office workers and students will share this out of sheer frustration with overpriced snacks."
+  }
+]

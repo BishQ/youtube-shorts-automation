@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "psychology_0074_001_d5d0954b8c0bffef",
+    "title": "The Manipulation That Made a Town Eat Its Own Pets—Using a Bell",
+    "hook": "A single bell ring convinced an entire town that their beloved animals were poison.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "mass hysteria",
+      "bell manipulation",
+      "pet killing",
+      "town psychology",
+      "dark persuasion"
+    ],
+    "overlap_check_hash": "d5d0954b8c0bffef",
+    "why_this_can_go_viral": "Shocking, visceral imagery of pets being eaten combined with a simple sound trigger creates irresistible horror and curiosity."
+  },
+  {
+    "unique_id": "psychology_0074_002_379572b024260985",
+    "title": "The Social Engineer Who Stole a Country's Election—Using a Lost Dog Poster",
+    "hook": "A missing dog poster was the only tool needed to access secure voting servers.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "election hacking",
+      "social engineering",
+      "lost dog",
+      "voter manipulation",
+      "security breach"
+    ],
+    "overlap_check_hash": "379572b024260985",
+    "why_this_can_go_viral": "Election interference is a hot topic; a bizarre method like a lost dog poster makes it uniquely memorable and shareable."
+  },
+  {
+    "unique_id": "psychology_0074_003_466fc9726b5c784a",
+    "title": "The Real Mind Control That Made a Man Forget His Wife—in a Single Session",
+    "hook": "A government-backed experiment erased a man's entire marriage in under an hour.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 78,
+    "niche_name": "psychology",
+    "subcategory": "real mind control",
+    "keywords": [
+      "memory erasure",
+      "mind control experiment",
+      "government project",
+      "forgetting wife",
+      "brainwashing"
+    ],
+    "overlap_check_hash": "466fc9726b5c784a",
+    "why_this_can_go_viral": "Memory erasure is a sci-fi concept made real; the emotional weight of forgetting a spouse drives deep engagement."
+  },
+  {
+    "unique_id": "psychology_0074_004_670e50c0c8f145fe",
+    "title": "The Propaganda System That Used Birthday Candles to Rank Loyalty",
+    "hook": "Your birthday party candles secretly determined if you were a traitor or a patriot.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 75,
+    "niche_name": "psychology",
+    "subcategory": "propaganda systems",
+    "keywords": [
+      "birthday propaganda",
+      "loyalty test",
+      "secret system",
+      "candle code",
+      "political control"
+    ],
+    "overlap_check_hash": "670e50c0c8f145fe",
+    "why_this_can_go_viral": "A seemingly innocent family celebration turned into a surveillance tool is both terrifying and highly clickable."
+  },
+  {
+    "unique_id": "psychology_0074_005_fd394c6280b33860",
+    "title": "The Cognitive Bias That Made a Pilot Crash a Plane—Because of a Coffee Cup",
+    "hook": "A misplaced coffee cup caused a pilot to ignore all warning lights and crash.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "psychology",
+    "subcategory": "cognitive bias destruction",
+    "keywords": [
+      "cognitive bias",
+      "pilot error",
+      "coffee cup",
+      "aviation disaster",
+      "attention blindness"
+    ],
+    "overlap_check_hash": "fd394c6280b33860",
+    "why_this_can_go_viral": "Aviation disasters fascinate; a trivial object like a coffee cup causing a crash is a perfect curiosity gap."
+  },
+  {
+    "unique_id": "psychology_0074_006_5992af19233ec3a9",
+    "title": "The Psychological Warfare That Made a Nation Destroy Its Own Radios—by a Song",
+    "hook": "A single song played on repeat for 72 hours made citizens smash their radios in panic.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 72,
+    "estimated_short_retention": 82,
+    "niche_name": "psychology",
+    "subcategory": "psychological warfare",
+    "keywords": [
+      "song weapon",
+      "radio destruction",
+      "nation panic",
+      "psychological attack",
+      "audio warfare"
+    ],
+    "overlap_check_hash": "5992af19233ec3a9",
+    "why_this_can_go_viral": "Music as a weapon is a unique angle; the idea of a song driving a population to violence is highly shareable."
+  },
+  {
+    "unique_id": "psychology_0074_010_acdffe1fea4ecd8c",
+    "title": "The Social Engineer Who Broke Into a Police Station—Using a Balloon",
+    "hook": "A child's birthday balloon was the only tool needed to access a police evidence locker.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 76,
+    "estimated_short_retention": 81,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "police infiltration",
+      "balloon trick",
+      "evidence theft",
+      "social engineer",
+      "security flaw"
+    ],
+    "overlap_check_hash": "acdffe1fea4ecd8c",
+    "why_this_can_go_viral": "A balloon as a hacking tool is absurd and brilliant, creating a strong curiosity gap and shareability."
+  },
+  {
+    "unique_id": "psychology_0074_012_dc5496bc37fc64f9",
+    "title": "The Propaganda System That Used Train Whistles to Signal Executions",
+    "hook": "A specific train whistle pattern told an entire city when a secret execution was taking place.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 96,
+    "educational_value": 72,
+    "estimated_short_retention": 84,
+    "niche_name": "psychology",
+    "subcategory": "propaganda systems",
+    "keywords": [
+      "train whistle",
+      "execution signal",
+      "city fear",
+      "secret system",
+      "audio propaganda"
+    ],
+    "overlap_check_hash": "dc5496bc37fc64f9",
+    "why_this_can_go_viral": "The merging of mundane train sounds with death creates a chilling atmosphere that demands clicks."
+  },
+  {
+    "unique_id": "psychology_0074_013_34ae366df9523230",
+    "title": "The Cognitive Bias That Made a Doctor Misdiagnose 500 Patients—Due to a Wall Color",
+    "hook": "A hospital's blue walls caused a doctor to repeatedly miss fatal symptoms.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 87,
+    "educational_value": 77,
+    "estimated_short_retention": 76,
+    "niche_name": "psychology",
+    "subcategory": "cognitive bias destruction",
+    "keywords": [
+      "wall color",
+      "medical error",
+      "cognitive bias",
+      "hospital design",
+      "misdiagnosis"
+    ],
+    "overlap_check_hash": "34ae366df9523230",
+    "why_this_can_go_viral": "Healthcare errors are relatable and scary; the idea that a wall color could cause death is both shocking and intriguing."
+  },
+  {
+    "unique_id": "psychology_0074_016_c55c40d89728cd6c",
+    "title": "The Manipulation Tactic That Made a Country Burn Its Own Libraries—Using a Whisper",
+    "hook": "A whispered rumor about a single sentence in a book caused a nation to destroy all its literature.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 95,
+    "educational_value": 74,
+    "estimated_short_retention": 81,
+    "niche_name": "psychology",
+    "subcategory": "manipulation tactics",
+    "keywords": [
+      "library burning",
+      "whisper campaign",
+      "book destruction",
+      "nation manipulation",
+      "rumor power"
+    ],
+    "overlap_check_hash": "c55c40d89728cd6c",
+    "why_this_can_go_viral": "Book burning is a powerful image; the idea that a whisper could trigger it is both terrifying and clickable."
+  },
+  {
+    "unique_id": "psychology_0074_017_a1b02f47e3128e68",
+    "title": "The Mass Psychology That Made 10,000 People Dance—Until They Collapsed",
+    "hook": "A mysterious rhythm compelled a city's population to dance for 48 hours straight, nonstop.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 89,
+    "educational_value": 75,
+    "estimated_short_retention": 83,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "dance plague",
+      "mass collapse",
+      "uncontrollable dancing",
+      "rhythm psychology",
+      "crowd madness"
+    ],
+    "overlap_check_hash": "a1b02f47e3128e68",
+    "why_this_can_go_viral": "Historical dancing plagues are already intriguing; adding a 'mysterious rhythm' angle increases the mystery and shareability."
+  },
+  {
+    "unique_id": "psychology_0074_018_ba74d881eb1a128e",
+    "title": "The Social Engineer Who Walked Into a Military Base—Using a Sandwich",
+    "hook": "A ham and cheese sandwich was the key to bypassing all security at a nuclear facility.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 77,
+    "estimated_short_retention": 84,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "military base",
+      "sandwich trick",
+      "nuclear security",
+      "infiltration method",
+      "food hack"
+    ],
+    "overlap_check_hash": "ba74d881eb1a128e",
+    "why_this_can_go_viral": "The absurdity of a sandwich breaching nuclear security creates immense curiosity and shares easily."
+  },
+  {
+    "unique_id": "psychology_0074_019_b4aa7a4008e4d847",
+    "title": "The Real Mind Control Experiment That Made Subjects Experience Someone Else's Pain",
+    "hook": "Volunteers in a lab felt the exact physical pain of a stranger in another room.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 79,
+    "niche_name": "psychology",
+    "subcategory": "real mind control",
+    "keywords": [
+      "shared pain",
+      "empathy experiment",
+      "mind control",
+      "pain transfer",
+      "neurological anomaly"
+    ],
+    "overlap_check_hash": "b4aa7a4008e4d847",
+    "why_this_can_go_viral": "The idea of feeling another's pain is sci-fi and deeply unsettling; real experiments make it even more viral."
+  },
+  {
+    "unique_id": "psychology_0074_020_92e78406dee6a69c",
+    "title": "The Propaganda System That Used Ice Cream Truck Songs to Control Curfews",
+    "hook": "A cheerful ice cream jingle told parents precisely when to lock their children inside.",
+    "virality_score": 83,
+    "curiosity_gap_score": 88,
+    "darkness_score": 85,
+    "educational_value": 71,
+    "estimated_short_retention": 78,
+    "niche_name": "psychology",
+    "subcategory": "propaganda systems",
+    "keywords": [
+      "ice cream truck",
+      "curfew control",
+      "child tracking",
+      "audio propaganda",
+      "innocent signal"
+    ],
+    "overlap_check_hash": "92e78406dee6a69c",
+    "why_this_can_go_viral": "The contrast between a happy childhood symbol and a tool of control is powerfully clickable."
+  },
+  {
+    "unique_id": "psychology_0074_022_6fdd09c50a398552",
+    "title": "The Psychological Warfare That Made a Population Fear Their Own Skin—Using a Color",
+    "hook": "A secret broadcast made an entire region believe their skin was changing color overnight.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 73,
+    "estimated_short_retention": 85,
+    "niche_name": "psychology",
+    "subcategory": "psychological warfare",
+    "keywords": [
+      "skin fear",
+      "color broadcast",
+      "mass delusion",
+      "psychological attack",
+      "body terror"
+    ],
+    "overlap_check_hash": "6fdd09c50a398552",
+    "why_this_can_go_viral": "Body horror combined with mass manipulation is a visceral, shareable concept that triggers deep curiosity."
+  },
+  {
+    "unique_id": "psychology_0074_024_3879a2ced80706ae",
+    "title": "The Manipulation Tactic That Made a Town Empty Its Own Bank—Using a Feather",
+    "hook": "A feather left on a bank counter caused a town to withdraw every single deposit in panic.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 86,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "psychology",
+    "subcategory": "manipulation tactics",
+    "keywords": [
+      "feather trick",
+      "bank run",
+      "town panic",
+      "symbol manipulation",
+      "financial collapse"
+    ],
+    "overlap_check_hash": "3879a2ced80706ae",
+    "why_this_can_go_viral": "A feather causing a financial collapse is absurd and fascinating, creating a strong curiosity gap."
+  },
+  {
+    "unique_id": "psychology_0074_025_34e033e216ab6b0c",
+    "title": "The Mass Psychology That Made 100 People Stop Eating—for a Stranger's Promise",
+    "hook": "A stranger's vague promise made an entire community starve themselves for two weeks.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 89,
+    "educational_value": 74,
+    "estimated_short_retention": 79,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "mass starvation",
+      "stranger promise",
+      "community trust",
+      "fasting psychology",
+      "extreme obedience"
+    ],
+    "overlap_check_hash": "34e033e216ab6b0c",
+    "why_this_can_go_viral": "The irrationality of mass self-starvation based on a promise is both shocking and deeply curious."
+  }
+]

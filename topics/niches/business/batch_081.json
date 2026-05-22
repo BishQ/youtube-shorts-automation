@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "business_0081_003_c026d7796a754725",
+    "title": "The Startup That Sold $50M of 'Miracle' Water—It Was Tap Water",
+    "hook": "A startup raised millions by bottling tap water and labeling it as a 'quantum energy' elixir, with fake testimonials from paid actors.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "fake miracle water",
+      "startup scam",
+      "bottled water fraud",
+      "quantum energy scam",
+      "fake product"
+    ],
+    "overlap_check_hash": "c026d7796a754725",
+    "why_this_can_go_viral": "Taps into the outrage about wellness scams and the gullibility of investors—a perfect mix of deception and irony."
+  },
+  {
+    "unique_id": "business_0081_004_c77ad1ea077d456b",
+    "title": "The Monopoly That Owns Every Lightbulb—and Built in Planned Obsolescence",
+    "hook": "One company secretly designed lightbulbs to burn out after 1,000 hours, then bought every patent that threatened that plan.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "planned obsolescence",
+      "lightbulb monopoly",
+      "cartel conspiracy",
+      "Phoebus cartel",
+      "product lifetime scam"
+    ],
+    "overlap_check_hash": "c77ad1ea077d456b",
+    "why_this_can_go_viral": "Classic dark business history that exposes how corporations intentionally shorten product lives—highly relatable and shareable."
+  },
+  {
+    "unique_id": "business_0081_006_474bf03b1f0f447f",
+    "title": "The Ad That Used Your Smart TV Camera to Sell You Anxiety Meds",
+    "hook": "A marketing firm remotely activated smart TV cameras to detect when you looked stressed—then played targeted pharmaceutical ads.",
+    "virality_score": 93,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 78,
+    "estimated_short_retention": 92,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "smart TV spying",
+      "camera surveillance ads",
+      "emotional targeting",
+      "privacy violation",
+      "pharma marketing"
+    ],
+    "overlap_check_hash": "474bf03b1f0f447f",
+    "why_this_can_go_viral": "Fears about smart devices spying on us are already viral; this confirms the worst-case scenario with terrifying specifics."
+  },
+  {
+    "unique_id": "business_0081_007_7b368c62265c3572",
+    "title": "The Factory That Packed Expired Meat in Bleach to 'Freshen' It",
+    "hook": "A meatpacking plant used industrial bleach to remove the smell of rotting meat, then sold it to school lunch programs.",
+    "virality_score": 89,
+    "curiosity_gap_score": 92,
+    "darkness_score": 97,
+    "educational_value": 74,
+    "estimated_short_retention": 87,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "expired meat scam",
+      "bleach food treatment",
+      "school lunch fraud",
+      "meatpacking corruption",
+      "food safety cover-up"
+    ],
+    "overlap_check_hash": "7b368c62265c3572",
+    "why_this_can_go_viral": "Shocking, gross, and directly affects consumers—outrage-driven content with massive share potential."
+  },
+  {
+    "unique_id": "business_0081_009_b64d0e080284341d",
+    "title": "The Trader Who Faked a Bank's Bankruptcy with a Single Tweet",
+    "hook": "One tweet from a hacked account made a bank lose $8 billion in market value—and the trader never got caught.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "fake tweet crash",
+      "bank stock manipulation",
+      "social media fraud",
+      "trader hacker",
+      "market panic"
+    ],
+    "overlap_check_hash": "b64d0e080284341d",
+    "why_this_can_go_viral": "Shows how fragile markets are to digital attacks—blends cyber fear with financial chaos."
+  },
+  {
+    "unique_id": "business_0081_010_6c5a9cf75d445d1b",
+    "title": "The Startup That Sold 'AI Hiring'—It Was Just a Guy with a Spreadsheet",
+    "hook": "A tech startup raised $30M for an AI hiring platform—the algorithm was just a man in a basement manually rejecting resumes.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 74,
+    "educational_value": 68,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "fake AI hiring scam",
+      "human algorithm",
+      "startup deception",
+      "resume rejection scam",
+      "tech fraud"
+    ],
+    "overlap_check_hash": "6c5a9cf75d445d1b",
+    "why_this_can_go_viral": "Exposes the 'fake it till you make it' culture in startups—highly ironic and relatable for job seekers."
+  },
+  {
+    "unique_id": "business_0081_012_053105bfba87a48d",
+    "title": "The Spy Who Infiltrated a Rival's Boardroom by Becoming Their Janitor",
+    "hook": "A corporate spy spent two years as a janitor, listening to board meetings from the ventilation shafts, and stole $200M in trade secrets.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 69,
+    "estimated_short_retention": 81,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "janitor spy",
+      "industrial espionage",
+      "hidden microphone",
+      "trade secret theft",
+      "corporate infiltration"
+    ],
+    "overlap_check_hash": "053105bfba87a48d",
+    "why_this_can_go_viral": "The 'undercover janitor' trope is instantly captivating—feels like a movie plot that actually happened."
+  },
+  {
+    "unique_id": "business_0081_013_d127a559eeec88fc",
+    "title": "The Ad Campaign That Used Your Internet History to Blackmail You",
+    "hook": "An ad network discovered your most shameful searches—then served you targeted ads that threatened to reveal them unless you bought their product.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 94,
+    "educational_value": 80,
+    "estimated_short_retention": 94,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "blackmail ads",
+      "internet history scam",
+      "shame targeting",
+      "predatory marketing",
+      "privacy horror"
+    ],
+    "overlap_check_hash": "d127a559eeec88fc",
+    "why_this_can_go_viral": "Taps into primal fears about privacy and shame—viewers will immediately check their own browser history."
+  },
+  {
+    "unique_id": "business_0081_014_cb9eaa7bd8bf622d",
+    "title": "The Factory That Sold 'Organic' Avocados—They Were Soaked in Pesticide",
+    "hook": "A massive avocado supplier secretly soaked fruit in banned pesticides, then sold it as organic to Whole Foods for a decade.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 76,
+    "estimated_short_retention": 85,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "organic fraud",
+      "avocado pesticide",
+      "food labeling scam",
+      "Whole Foods scandal",
+      "fake organic"
+    ],
+    "overlap_check_hash": "cb9eaa7bd8bf622d",
+    "why_this_can_go_viral": "Organic food trust is huge; exposing it as a lie sparks massive debate and shares."
+  },
+  {
+    "unique_id": "business_0081_015_cc8a313c30805128",
+    "title": "The Drug Company That Paid Funeral Homes to Push Its Opioids",
+    "hook": "A pharmaceutical firm paid funeral directors to recommend their painkillers to grieving families, creating thousands of addicts.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 98,
+    "educational_value": 84,
+    "estimated_short_retention": 91,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "opioid scandal",
+      "funeral home kickbacks",
+      "pharma corruption",
+      "addiction conspiracy",
+      "grief exploitation"
+    ],
+    "overlap_check_hash": "cc8a313c30805128",
+    "why_this_can_go_viral": "Extremely dark and shocking—targets the opioid crisis from a completely new angle."
+  },
+  {
+    "unique_id": "business_0081_016_e38ec545dd5a3758",
+    "title": "The Trader Who Used a Satellite to Count Cars in Competitor Parking Lots",
+    "hook": "A hedge fund bought a used satellite and counted cars in factory parking lots to predict earnings before anyone else.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 70,
+    "educational_value": 78,
+    "estimated_short_retention": 79,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "satellite trading",
+      "parking lot intelligence",
+      "alternative data",
+      "hedge fund spying",
+      "market prediction"
+    ],
+    "overlap_check_hash": "e38ec545dd5a3758",
+    "why_this_can_go_viral": "Reveals the insane lengths traders go to for an edge—fascinating and tech-heavy."
+  },
+  {
+    "unique_id": "business_0081_017_30d10ee07d5f830f",
+    "title": "The Startup That Faked a User Base of 1 Billion—with Bots from Bangladesh",
+    "hook": "A social media startup claimed 1 billion users—they paid a single call center in Bangladesh to run 100,000 fake accounts.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 72,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "fake users scam",
+      "bot startup fraud",
+      "billion user lie",
+      "social media deception",
+      "call center bots"
+    ],
+    "overlap_check_hash": "30d10ee07d5f830f",
+    "why_this_can_go_viral": "Exposes the 'vanity metrics' culture in Silicon Valley—cynical and highly shareable."
+  },
+  {
+    "unique_id": "business_0081_018_97fb4bea5ac68b82",
+    "title": "The Monopoly That Bought Every Milk Brand—Then Sold You Watered-Down Poison",
+    "hook": "One dairy conglomerate bought every competitor in the region, then diluted milk with toxic filler to increase profits.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 86,
+    "educational_value": 77,
+    "estimated_short_retention": 87,
+    "niche_name": "business",
+    "subcategory": "monopoly abuse",
+    "keywords": [
+      "milk monopoly",
+      "dairy fraud",
+      "watered-down milk",
+      "food poisoning scandal",
+      "conglomerate abuse"
+    ],
+    "overlap_check_hash": "97fb4bea5ac68b82",
+    "why_this_can_go_viral": "Everyone drinks milk—this feels personal and dangerous, sparking immediate outrage."
+  },
+  {
+    "unique_id": "business_0081_019_b7dbdcb5d60ebbf9",
+    "title": "The Spy Who Posed as a Fire Inspector to Photograph Rival Blueprints",
+    "hook": "A corporate spy bribed a city official for a fake fire inspector badge, then walked into a rival's office and photographed everything.",
+    "virality_score": 78,
+    "curiosity_gap_score": 81,
+    "darkness_score": 74,
+    "educational_value": 65,
+    "estimated_short_retention": 77,
+    "niche_name": "business",
+    "subcategory": "corporate espionage",
+    "keywords": [
+      "fake fire inspector",
+      "blueprint theft",
+      "industrial spy",
+      "corporate infiltration",
+      "trade secret heist"
+    ],
+    "overlap_check_hash": "b7dbdcb5d60ebbf9",
+    "why_this_can_go_viral": "Simple, clever, and dangerous—viewers love stories about audacious heists."
+  },
+  {
+    "unique_id": "business_0081_020_29be99659bac0041",
+    "title": "The Ad That Used Your Baby's Cries to Sell You Debt Relief",
+    "hook": "A marketing firm secretly listened to smart baby monitors, detected crying patterns, and targeted exhausted parents with predatory loan ads.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 79,
+    "estimated_short_retention": 90,
+    "niche_name": "business",
+    "subcategory": "dark marketing",
+    "keywords": [
+      "baby monitor spying",
+      "predatory ads",
+      "parent targeting",
+      "smart device abuse",
+      "debt relief scam"
+    ],
+    "overlap_check_hash": "29be99659bac0041",
+    "why_this_can_go_viral": "Combines parental anxiety with tech horror—extremely emotional and morally outrageous."
+  },
+  {
+    "unique_id": "business_0081_021_e1b70e238b7d627e",
+    "title": "The Factory That Made 'Luxury' Chocolate—It Was Packed with Lead",
+    "hook": "A premium chocolate brand used cheap lead-laced cocoa powder from a secret supplier, killing dozens of customers over a decade.",
+    "virality_score": 87,
+    "curiosity_gap_score": 89,
+    "darkness_score": 93,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "business",
+    "subcategory": "supply chain secrets",
+    "keywords": [
+      "lead chocolate",
+      "luxury food fraud",
+      "cocoa poisoning",
+      "supply chain crime",
+      "deadly ingredients"
+    ],
+    "overlap_check_hash": "e1b70e238b7d627e",
+    "why_this_can_go_viral": "Chocolate is universal—learning it could be deadly is visceral and shareable."
+  },
+  {
+    "unique_id": "business_0081_022_1e123696e18f203c",
+    "title": "The Industry Cover-Up of a 'Safe' Baby Shampoo That Caused Blindness",
+    "hook": "A major baby product company knew its shampoo caused corneal damage in infants—but hid the data for six years.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 86,
+    "estimated_short_retention": 93,
+    "niche_name": "business",
+    "subcategory": "industry cover-ups",
+    "keywords": [
+      "baby product scandal",
+      "blindness cover-up",
+      "toxic shampoo",
+      "infant safety fraud",
+      "corporate cover-up"
+    ],
+    "overlap_check_hash": "1e123696e18f203c",
+    "why_this_can_go_viral": "Babies are sacred—harming them for profit triggers maximum emotional response and sharing."
+  },
+  {
+    "unique_id": "business_0081_023_1a002b5907be8a2e",
+    "title": "The Trader Who Faked a Government Takeover to Dump His Stock",
+    "hook": "A desperate trader planted a fake news story about a government takeover of his sector, causing a panic, then sold his entire position.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 77,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "business",
+    "subcategory": "market manipulation",
+    "keywords": [
+      "fake takeover news",
+      "market panic scam",
+      "trader fraud",
+      "stock dump scheme",
+      "news manipulation"
+    ],
+    "overlap_check_hash": "1a002b5907be8a2e",
+    "why_this_can_go_viral": "Shows how easily markets can be manipulated with fake news—relevant in the age of misinformation."
+  },
+  {
+    "unique_id": "business_0081_024_a616a848c02a5a37",
+    "title": "The Startup That Sold 'Biodegradable' Packaging—It Was Just Plastic with a Green Label",
+    "hook": "A startup raised $100M for 'compostable' packaging—it was ordinary plastic with a fake eco-certification sticker printed in China.",
+    "virality_score": 85,
+    "curiosity_gap_score": 87,
+    "darkness_score": 76,
+    "educational_value": 74,
+    "estimated_short_retention": 83,
+    "niche_name": "business",
+    "subcategory": "startup fraud",
+    "keywords": [
+      "fake biodegradable",
+      "greenwashing scam",
+      "plastic fraud",
+      "eco-label lie",
+      "startup greenwashing"
+    ],
+    "overlap_check_hash": "a616a848c02a5a37",
+    "why_this_can_go_viral": "Environmental fraud is highly topical—exposes the dark side of the 'green' movement."
+  },
+  {
+    "unique_id": "business_0081_025_716a8af840dab242",
+    "title": "The Corporation That Paid Hackers to Lock Its Own Systems—for Insurance",
+    "hook": "A company paid hackers to launch a fake ransomware attack on itself, then collected $50 million in insurance payouts.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 71,
+    "estimated_short_retention": 84,
+    "niche_name": "business",
+    "subcategory": "corporate corruption",
+    "keywords": [
+      "fake ransomware",
+      "insurance fraud",
+      "corporate hacking",
+      "self-sabotage scam",
+      "cyber insurance fraud"
+    ],
+    "overlap_check_hash": "716a8af840dab242",
+    "why_this_can_go_viral": "Turns the ransomware narrative on its head—the company is the criminal, not the victim."
+  }
+]

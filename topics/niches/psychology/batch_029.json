@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "psychology_0029_001_a5443b409f67cce3",
+    "title": "The Therapist Who Made Patients Believe They Were Dogs",
+    "hook": "A real therapist used a single gesture to convince thirty patients they had transformed into canines.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 80,
+    "niche_name": "psychology",
+    "subcategory": "real mind control",
+    "keywords": [
+      "therapist",
+      "animal identity",
+      "mind control",
+      "psychology experiment",
+      "identity manipulation"
+    ],
+    "overlap_check_hash": "a5443b409f67cce3",
+    "why_this_can_go_viral": "The idea of someone losing their human identity through a therapist's manipulation is deeply unsettling and sparks immediate curiosity."
+  },
+  {
+    "unique_id": "psychology_0029_002_7bdf6a21bc5c1d65",
+    "title": "The Mass Delusion That Made a Village Believe Their Well Was Cursed",
+    "hook": "A single shiny stone at the bottom of a well caused an entire village to hallucinate for three days.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "mass delusion",
+      "village",
+      "hallucination",
+      "cursed well",
+      "collective hysteria"
+    ],
+    "overlap_check_hash": "7bdf6a21bc5c1d65",
+    "why_this_can_go_viral": "The visual of an entire community losing touch with reality over an object triggers both fear and fascination."
+  },
+  {
+    "unique_id": "psychology_0029_003_532e851a50eb8361",
+    "title": "The Social Engineer Who Entered a Bank Vault by Saying One Number",
+    "hook": "He just dialed a single number on the phone and the vault door swung open.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "social engineering",
+      "bank vault",
+      "phone hack",
+      "manipulation",
+      "security breach"
+    ],
+    "overlap_check_hash": "532e851a50eb8361",
+    "why_this_can_go_viral": "The simplicity of the method combined with the high-stakes setting makes it a perfect story of psychological cunning."
+  },
+  {
+    "unique_id": "psychology_0029_004_3b4b520d59be69a5",
+    "title": "The Cognitive Bias That Made a Chef Poison 50 People",
+    "hook": "A chef's brain tricked him into believing salt was sugar, resulting in a mass poisoning.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 78,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "psychology",
+    "subcategory": "cognitive bias destruction",
+    "keywords": [
+      "cognitive bias",
+      "chef",
+      "poisoning",
+      "salt sugar",
+      "confirmation bias"
+    ],
+    "overlap_check_hash": "3b4b520d59be69a5",
+    "why_this_can_go_viral": "The everyday setting of a kitchen turning deadly due to a mental glitch is highly relatable and shocking."
+  },
+  {
+    "unique_id": "psychology_0029_005_8a1a629d19fbd829",
+    "title": "The Propaganda System That Used a Lullaby to Control a Nation's Sleep",
+    "hook": "A government mandated a specific lullaby on the radio to make citizens sleep longer and work less.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "psychology",
+    "subcategory": "propaganda systems",
+    "keywords": [
+      "propaganda",
+      "lullaby",
+      "sleep control",
+      "government manipulation",
+      "mass psychology"
+    ],
+    "overlap_check_hash": "8a1a629d19fbd829",
+    "why_this_can_go_viral": "The idea of a song being weaponized to alter human behavior on a national scale is both eerie and fascinating."
+  },
+  {
+    "unique_id": "psychology_0029_006_07e9a86533bcd901",
+    "title": "The Manipulation Tactic That Used a Paperclip to Extract a Confession",
+    "hook": "An interrogator used a simple paperclip to make a suspect feel hopeless and confess to a crime he didn't commit.",
+    "virality_score": 79,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "psychology",
+    "subcategory": "manipulation tactics",
+    "keywords": [
+      "interrogation",
+      "paperclip",
+      "confession",
+      "psychological manipulation",
+      "false confession"
+    ],
+    "overlap_check_hash": "07e9a86533bcd901",
+    "why_this_can_go_viral": "The mundane object combined with a high-stakes psychological breakdown creates a powerful, shareable story."
+  },
+  {
+    "unique_id": "psychology_0029_007_dd25908a864098bc",
+    "title": "The Psychological Warfare That Used a Dead Flower to Break a Spy",
+    "hook": "A single wilting rose placed on a spy's pillow every night made him betray his own country.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "psychology",
+    "subcategory": "psychological warfare",
+    "keywords": [
+      "psychological warfare",
+      "spy",
+      "dead flower",
+      "break",
+      "betrayal"
+    ],
+    "overlap_check_hash": "dd25908a864098bc",
+    "why_this_can_go_viral": "The poetic and sinister nature of using a flower as a weapon of mental destruction is highly intriguing."
+  },
+  {
+    "unique_id": "psychology_0029_008_66a8ca2721c40ec2",
+    "title": "The Dark Persuasion That Made a Man Shave His Head Using a Single Word",
+    "hook": "A stranger whispered one word in a man's ear, and he immediately shaved his entire head in public.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 89,
+    "niche_name": "psychology",
+    "subcategory": "dark persuasion science",
+    "keywords": [
+      "dark persuasion",
+      "one word",
+      "shave head",
+      "public",
+      "hypnotic suggestion"
+    ],
+    "overlap_check_hash": "66a8ca2721c40ec2",
+    "why_this_can_go_viral": "The extreme simplicity and bizarre outcome make it a perfect curiosity-bait title that viewers must click."
+  },
+  {
+    "unique_id": "psychology_0029_010_24307ad0b72ead80",
+    "title": "The Mass Hysteria That Made a Hospital Think All Patients Were Zombies",
+    "hook": "A single misdiagnosis caused 200 hospital staff to believe their patients were turning into the undead.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 89,
+    "educational_value": 78,
+    "estimated_short_retention": 92,
+    "niche_name": "psychology",
+    "subcategory": "mass psychology",
+    "keywords": [
+      "mass hysteria",
+      "hospital",
+      "zombies",
+      "staff",
+      "misdiagnosis"
+    ],
+    "overlap_check_hash": "24307ad0b72ead80",
+    "why_this_can_go_viral": "The zombie angle combined with a real-world setting creates a high shareability factor and immediate curiosity."
+  },
+  {
+    "unique_id": "psychology_0029_011_2f364d626ccb5864",
+    "title": "The Social Engineer Who Got a Free Flight by Pretending to Be a Pilot's Brother",
+    "hook": "He called the airline, said 'I'm Captain Smith's brother,' and they upgraded him to first class for free.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 65,
+    "educational_value": 75,
+    "estimated_short_retention": 88,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "social engineering",
+      "pilot",
+      "brother",
+      "airline",
+      "free flight"
+    ],
+    "overlap_check_hash": "2f364d626ccb5864",
+    "why_this_can_go_viral": "The audacity and simplicity of the trick make it a story people love to share and discuss."
+  },
+  {
+    "unique_id": "psychology_0029_012_1bf0d6a0549e4f6a",
+    "title": "The Cognitive Bias That Made a Firefighter Ignore a Burning Building",
+    "hook": "A firefighter walked past a blazing house because his brain told him it was a mirage.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 80,
+    "educational_value": 82,
+    "estimated_short_retention": 80,
+    "niche_name": "psychology",
+    "subcategory": "cognitive bias destruction",
+    "keywords": [
+      "cognitive bias",
+      "firefighter",
+      "burning building",
+      "mirage",
+      "inattentional blindness"
+    ],
+    "overlap_check_hash": "1bf0d6a0549e4f6a",
+    "why_this_can_go_viral": "The life-or-death stakes combined with a counterintuitive mental failure create a compelling narrative."
+  },
+  {
+    "unique_id": "psychology_0029_013_b78199c11dc049ad",
+    "title": "The Propaganda System That Used a Bell's Ring to Make People Stay Indoors",
+    "hook": "A government installed bells that rang every hour, conditioning citizens to never leave their homes after dark.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 76,
+    "estimated_short_retention": 87,
+    "niche_name": "psychology",
+    "subcategory": "propaganda systems",
+    "keywords": [
+      "propaganda",
+      "bell",
+      "curfew",
+      "conditioning",
+      "government control"
+    ],
+    "overlap_check_hash": "b78199c11dc049ad",
+    "why_this_can_go_viral": "The subtle and creepy mechanism of using sound to control behavior is both informative and chilling."
+  },
+  {
+    "unique_id": "psychology_0029_015_6db529406e9a3de7",
+    "title": "The Psychological Warfare That Used a Shadow to Terrify a Prisoner",
+    "hook": "Guards projected a moving shadow on the wall that made a hardened prisoner beg for his life within an hour.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "psychology",
+    "subcategory": "psychological warfare",
+    "keywords": [
+      "psychological warfare",
+      "shadow",
+      "prisoner",
+      "torture",
+      "terror"
+    ],
+    "overlap_check_hash": "6db529406e9a3de7",
+    "why_this_can_go_viral": "The primal fear of shadows combined with a real-life scenario creates a visceral and shareable story."
+  },
+  {
+    "unique_id": "psychology_0029_016_353667c8960a0a30",
+    "title": "The Dark Persuasion That Made a Woman Jump Off a Bridge Using a Smile",
+    "hook": "A stranger smiled at her, and she stepped off the edge without a word.",
+    "virality_score": 89,
+    "curiosity_gap_score": 95,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "psychology",
+    "subcategory": "dark persuasion science",
+    "keywords": [
+      "dark persuasion",
+      "smile",
+      "jump",
+      "bridge",
+      "suicide trigger"
+    ],
+    "overlap_check_hash": "353667c8960a0a30",
+    "why_this_can_go_viral": "The contrast between a friendly gesture and a tragic outcome creates an intense emotional hook."
+  },
+  {
+    "unique_id": "psychology_0029_019_5dd53c2e18bc9c72",
+    "title": "The Social Engineer Who Stole a Car by Pretending to Be a Parking Attendant",
+    "hook": "He wore a yellow vest, pointed at a car, and the owner handed him the keys without a second thought.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 68,
+    "educational_value": 79,
+    "estimated_short_retention": 86,
+    "niche_name": "psychology",
+    "subcategory": "social engineering",
+    "keywords": [
+      "social engineering",
+      "parking attendant",
+      "car theft",
+      "vest",
+      "manipulation"
+    ],
+    "overlap_check_hash": "5dd53c2e18bc9c72",
+    "why_this_can_go_viral": "The simplicity and effectiveness of the method make it a cautionary yet fascinating story."
+  },
+  {
+    "unique_id": "psychology_0029_021_51663bd08675fff7",
+    "title": "The Propaganda System That Used a Candle's Flicker to Spread Fear",
+    "hook": "A regime synchronized candles across the city to flicker at the same time, making citizens believe a ghost was coming.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 86,
+    "educational_value": 74,
+    "estimated_short_retention": 87,
+    "niche_name": "psychology",
+    "subcategory": "propaganda systems",
+    "keywords": [
+      "propaganda",
+      "candle",
+      "flicker",
+      "fear",
+      "ghost"
+    ],
+    "overlap_check_hash": "51663bd08675fff7",
+    "why_this_can_go_viral": "The eerie visual of thousands of candles moving in unison creates a haunting and shareable image."
+  },
+  {
+    "unique_id": "psychology_0029_022_6dd4d531f58fa30d",
+    "title": "The Manipulation Tactic That Used a Raindrop to Make a Man Sign a Contract",
+    "hook": "A single raindrop fell on the paper, and the man signed a deal worth millions he never intended to accept.",
+    "virality_score": 79,
+    "curiosity_gap_score": 86,
+    "darkness_score": 77,
+    "educational_value": 73,
+    "estimated_short_retention": 82,
+    "niche_name": "psychology",
+    "subcategory": "manipulation tactics",
+    "keywords": [
+      "manipulation",
+      "raindrop",
+      "contract",
+      "sign",
+      "financial loss"
+    ],
+    "overlap_check_hash": "6dd4d531f58fa30d",
+    "why_this_can_go_viral": "The natural element turned into a psychological weapon is a fresh and intriguing angle."
+  },
+  {
+    "unique_id": "psychology_0029_023_97ce25abe7e34f95",
+    "title": "The Psychological Warfare That Used a Bird's Song to Break a Soldier's Will",
+    "hook": "A mockingbird was trained to mimic a dead comrade's voice, driving a soldier to desert his post.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 91,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "psychology",
+    "subcategory": "psychological warfare",
+    "keywords": [
+      "psychological warfare",
+      "bird song",
+      "soldier",
+      "desertion",
+      "trauma"
+    ],
+    "overlap_check_hash": "97ce25abe7e34f95",
+    "why_this_can_go_viral": "The use of nature as a weapon of psychological torment is both poetic and deeply disturbing."
+  },
+  {
+    "unique_id": "psychology_0029_024_94e40d19c9a6d0b9",
+    "title": "The Dark Persuasion That Made a Man Give Up His Fortune Using a Handshake",
+    "hook": "A firm handshake and three words later, a billionaire signed over everything to a stranger.",
+    "virality_score": 88,
+    "curiosity_gap_score": 93,
+    "darkness_score": 84,
+    "educational_value": 70,
+    "estimated_short_retention": 91,
+    "niche_name": "psychology",
+    "subcategory": "dark persuasion science",
+    "keywords": [
+      "dark persuasion",
+      "handshake",
+      "billionaire",
+      "fortune",
+      "sign over"
+    ],
+    "overlap_check_hash": "94e40d19c9a6d0b9",
+    "why_this_can_go_viral": "The high-stakes wealth loss combined with an incredibly simple trigger creates a viral hook."
+  }
+]

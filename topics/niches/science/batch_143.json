@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0143_001_f4966ec9d218adb6",
+    "title": "The Lab Where a Scientist Grew a Tumor That Learned to Talk",
+    "hook": "A researcher kept a living tumor alive in a petri dish for months — until it started making sounds.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 96,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "tumor",
+      "living tissue",
+      "vocalization",
+      "petri dish",
+      "forbidden biology"
+    ],
+    "overlap_check_hash": "f4966ec9d218adb6",
+    "why_this_can_go_viral": "The idea of a 'talking tumor' is deeply unsettling and triggers immediate curiosity about how a mass of cells could produce sound."
+  },
+  {
+    "unique_id": "science_0143_002_659ce94b04f41871",
+    "title": "The Quantum Physicist Who Saw a Particle Move Before It Existed",
+    "hook": "In a 2015 experiment, a physicist detected a particle's location before it was even created — and it broke causality.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 65,
+    "educational_value": 85,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum",
+      "causality",
+      "particle",
+      "time",
+      "paradox"
+    ],
+    "overlap_check_hash": "659ce94b04f41871",
+    "why_this_can_go_viral": "Challenges fundamental understanding of time and reality — a perfect mind-bending hook for science fans."
+  },
+  {
+    "unique_id": "science_0143_003_b54b67f49fac84b6",
+    "title": "The Chemist Who Made a Polymer That Absorbs Blood — and It Refused to Stop",
+    "hook": "A super-absorbent chemical designed for wounds kept expanding, pulling blood from living tissue even after removal.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "polymer",
+      "blood",
+      "absorption",
+      "wound",
+      "chemical accident"
+    ],
+    "overlap_check_hash": "b54b67f49fac84b6",
+    "why_this_can_go_viral": "Gory and visceral — combines medical horror with a lab experiment gone wrong."
+  },
+  {
+    "unique_id": "science_0143_004_e367b0fb8b41d07f",
+    "title": "The Forbidden Experiment Where a Man Lived in a Cage With a Starving Predator",
+    "hook": "A 1970s scientist locked himself in a small cage with a hungry wolf to test dominance — it didn't end well.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 95,
+    "educational_value": 55,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "cage",
+      "predator",
+      "dominance",
+      "human",
+      "animal experiment"
+    ],
+    "overlap_check_hash": "e367b0fb8b41d07f",
+    "why_this_can_go_viral": "Extreme human behavior and primal fear — viewers will watch to see if he survived."
+  },
+  {
+    "unique_id": "science_0143_006_e14eeed4ab44570d",
+    "title": "The Lab That Accidentally Created a Substance That Burns Forever",
+    "hook": "A white powder synthesized in 1994 ignited and continued burning through concrete, water, and steel.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 70,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "fire",
+      "chemical",
+      "burning",
+      "substance",
+      "accident"
+    ],
+    "overlap_check_hash": "e14eeed4ab44570d",
+    "why_this_can_go_viral": "Visually dramatic — viewers imagine an unstoppable fire that can't be extinguished."
+  },
+  {
+    "unique_id": "science_0143_007_b122eb76e3454424",
+    "title": "The Physicist Who Discovered That Your Brain Can Detect Quantum Collapse",
+    "hook": "A controversial study suggests human consciousness senses when a quantum wave function collapses — even without instruments.",
+    "virality_score": 80,
+    "curiosity_gap_score": 87,
+    "darkness_score": 55,
+    "educational_value": 80,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum",
+      "consciousness",
+      "collapse",
+      "brain",
+      "detection"
+    ],
+    "overlap_check_hash": "b122eb76e3454424",
+    "why_this_can_go_viral": "Blurs the line between physics and spirituality — perfect for debate and sharing."
+  },
+  {
+    "unique_id": "science_0143_008_f1b559c84f2b8ac6",
+    "title": "The Biolab That Created a Virus That Made Mice See Ghosts",
+    "hook": "Engineered a virus that triggered hallucinations — mice screamed at empty space as if being chased.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 90,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "virus",
+      "hallucination",
+      "mice",
+      "ghosts",
+      "engineering"
+    ],
+    "overlap_check_hash": "f1b559c84f2b8ac6",
+    "why_this_can_go_viral": "Combines horror and science — the idea of a 'ghost virus' is purely clickable."
+  },
+  {
+    "unique_id": "science_0143_009_65f1d2f920985d52",
+    "title": "The Chemist Who Made a Liquid That Flows Upward — and Defied Gravity",
+    "hook": "A special polymer solution climbed the walls of its container, obeying no known physics.",
+    "virality_score": 81,
+    "curiosity_gap_score": 89,
+    "darkness_score": 25,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "liquid",
+      "gravity",
+      "polymer",
+      "defy",
+      "physics"
+    ],
+    "overlap_check_hash": "65f1d2f920985d52",
+    "why_this_can_go_viral": "Visually mesmerizing — viewers will question if it's real or an illusion."
+  },
+  {
+    "unique_id": "science_0143_010_5dafa4657464ec93",
+    "title": "The Neuroscientist Who Implanted a Memory That Made Rats Fear Light",
+    "hook": "Using optogenetics, a lab made rats terrified of bright light — a fear they were never born with.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory",
+      "implant",
+      "rats",
+      "fear",
+      "optogenetics"
+    ],
+    "overlap_check_hash": "5dafa4657464ec93",
+    "why_this_can_go_viral": "Shows how easily memories can be fabricated — raises unsettling questions about human experience."
+  },
+  {
+    "unique_id": "science_0143_011_f799376e35dd6289",
+    "title": "The Lab Catastrophe Where a Reactor Leaked 'Neutron Sludge'",
+    "hook": "A 1960s lab accident turned a room into a radioactive soup — anyone who entered died within days.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "neutron",
+      "sludge",
+      "radiation",
+      "accident",
+      "death"
+    ],
+    "overlap_check_hash": "f799376e35dd6289",
+    "why_this_can_go_viral": "Classic dark disaster story with a horror-movie feel — rapid, invisible death."
+  },
+  {
+    "unique_id": "science_0143_012_53af158501b524b0",
+    "title": "The Scientific Fraud Who Faked an 'Anti-Gravity' Machine — and Investors Died",
+    "hook": "A physicist claimed to build a gravity nullifier — when a demo failed, the explosion killed three funders.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 60,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "anti-gravity",
+      "fraud",
+      "explosion",
+      "investors",
+      "death"
+    ],
+    "overlap_check_hash": "53af158501b524b0",
+    "why_this_can_go_viral": "Combines greed, deception, and deadly consequences — a cautionary tale with high drama."
+  },
+  {
+    "unique_id": "science_0143_013_e428a72e70273804",
+    "title": "The Physicist Who Found That Light Can Be Slowed to a Crawl — Then Stopped Dead",
+    "hook": "In 1999, a team slowed light to 17 meters per second, then froze it completely for a millisecond.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 15,
+    "educational_value": 88,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "light",
+      "slow",
+      "freeze",
+      "physics",
+      "experiment"
+    ],
+    "overlap_check_hash": "e428a72e70273804",
+    "why_this_can_go_viral": "Mind-bending science that feels like magic — highly shareable among curious audiences."
+  },
+  {
+    "unique_id": "science_0143_014_6be8ac22cbec8ea2",
+    "title": "The Biolab That Grew a Jellyfish From a Mouse's Heart Cells",
+    "hook": "Scientists reprogrammed mouse heart cells to swim like a jellyfish — a living hybrid that pulsed on its own.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 65,
+    "educational_value": 80,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "jellyfish",
+      "mouse",
+      "heart",
+      "hybrid",
+      "synthetic biology"
+    ],
+    "overlap_check_hash": "6be8ac22cbec8ea2",
+    "why_this_can_go_viral": "Bizarre and almost sci-fi — the image of a 'mouse-jellyfish' is impossible to ignore."
+  },
+  {
+    "unique_id": "science_0143_015_06bc62dadf03cdee",
+    "title": "The Chemist Who Made a Compound That Explodes When Touched by Air",
+    "hook": "A white crystalline powder detonated the moment it contacted oxygen — the lab lost a floor.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 78,
+    "educational_value": 65,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "explosion",
+      "air",
+      "compound",
+      "chemical",
+      "lab accident"
+    ],
+    "overlap_check_hash": "06bc62dadf03cdee",
+    "why_this_can_go_viral": "Extreme reactivity — viewers imagine touching something that destroys everything."
+  },
+  {
+    "unique_id": "science_0143_017_dabb935fdb4773f2",
+    "title": "The Forbidden Experiment Where a Scientist Bred Two Species That Never Met",
+    "hook": "A biologist forced a deep-sea fish and a desert lizard to mate — the offspring had no natural habitat.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 80,
+    "educational_value": 60,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "breeding",
+      "species",
+      "hybrid",
+      "unnatural",
+      "experiment"
+    ],
+    "overlap_check_hash": "dabb935fdb4773f2",
+    "why_this_can_go_viral": "Defies nature itself — creates a visceral reaction of wrongness and curiosity."
+  },
+  {
+    "unique_id": "science_0143_018_18311fa97d7b84bd",
+    "title": "The Lab Catastrophe Where a Laser Vaporized a Scientist's Hand Instantly",
+    "hook": "A high-powered laser accidentally discharged — the hand was gone before the brain registered pain.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 96,
+    "educational_value": 60,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "laser",
+      "vaporize",
+      "hand",
+      "accident",
+      "lab"
+    ],
+    "overlap_check_hash": "18311fa97d7b84bd",
+    "why_this_can_go_viral": "Shock and gore — a real-world horror story that feels like a sci-fi weapon."
+  },
+  {
+    "unique_id": "science_0143_019_ebc171cd6b5a9ef3",
+    "title": "The Scientific Fraud Who Faked a 'Telepathy Helmet' — and Left a Man Catatonic",
+    "hook": "A fake neural helmet claimed to transmit thoughts — a volunteer was left unresponsive for weeks.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "telepathy",
+      "helmet",
+      "fraud",
+      "catatonic",
+      "scam"
+    ],
+    "overlap_check_hash": "ebc171cd6b5a9ef3",
+    "why_this_can_go_viral": "Combines pseudoscience with real harm — a cautionary tale that sparks outrage."
+  },
+  {
+    "unique_id": "science_0143_021_6b10973d70eacf8b",
+    "title": "The Biolab That Engineered a Mold That Secretes Liquid Metal",
+    "hook": "A genetically modified fungus produced droplets of mercury — and started spreading through lab vents.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "mold",
+      "mercury",
+      "fungus",
+      "genetic",
+      "contamination"
+    ],
+    "overlap_check_hash": "6b10973d70eacf8b",
+    "why_this_can_go_viral": "Biological and chemical horror combined — a living organism that produces poison metal."
+  },
+  {
+    "unique_id": "science_0143_022_c00e1a0f244cf533",
+    "title": "The Neuroscientist Who Found That Your Brain Can Rewrite Its Own Past",
+    "hook": "A study showed that recalling a memory alters it — your brain literally changes what happened.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 60,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory",
+      "rewrite",
+      "brain",
+      "alteration",
+      "past"
+    ],
+    "overlap_check_hash": "c00e1a0f244cf533",
+    "why_this_can_go_viral": "Makes viewers question their own memories — deeply personal and unsettling."
+  },
+  {
+    "unique_id": "science_0143_024_f88a6c974bcce76e",
+    "title": "The Forbidden Experiment Where a Researcher Raised a Child With No Language",
+    "hook": "A 1940s psychologist kept a child in isolation for years to test if language is innate — the results were devastating.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 98,
+    "educational_value": 75,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "isolation",
+      "language",
+      "child",
+      "experiment",
+      "psychology"
+    ],
+    "overlap_check_hash": "f88a6c974bcce76e",
+    "why_this_can_go_viral": "Extreme ethical violation — evokes strong emotional response and outrage."
+  },
+  {
+    "unique_id": "science_0143_025_e3f9c111b7fcbb7f",
+    "title": "The Lab Catastrophe Where a Particle Beam Melted a Scientist's Retina",
+    "hook": "A stray proton beam burned through a researcher's eyeball — he saw a flash of light and went blind instantly.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 65,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "particle",
+      "beam",
+      "retina",
+      "blind",
+      "accident"
+    ],
+    "overlap_check_hash": "e3f9c111b7fcbb7f",
+    "why_this_can_go_viral": "Visceral and terrifying — a moment of carelessness leading to permanent loss."
+  }
+]

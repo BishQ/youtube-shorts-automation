@@ -1,0 +1,422 @@
+[
+  {
+    "unique_id": "cults_0033_002_e270226aa427a230",
+    "title": "The Leader Who Made Followers Believe Their Thoughts Were 'Leaking' Out Loud",
+    "hook": "He convinced them their brains emitted radio waves—and only he could silence the noise.",
+    "virality_score": 85,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "cults",
+    "subcategory": "cult leader manipulation",
+    "keywords": [
+      "mind control",
+      "radio waves",
+      "paranoia",
+      "thought police",
+      "manipulation"
+    ],
+    "overlap_check_hash": "e270226aa427a230",
+    "why_this_can_go_viral": "Taps into fear of surveillance and lost mental privacy, a universal anxiety."
+  },
+  {
+    "unique_id": "cults_0033_003_bfaca0cf132fb377",
+    "title": "The Online Cult That Harvested Your Dreams Through a 'Nightmare App'",
+    "hook": "Thousands downloaded it to 'decode' their dreams—but the data was used to predict their breaking point.",
+    "virality_score": 88,
+    "curiosity_gap_score": 94,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 92,
+    "niche_name": "cults",
+    "subcategory": "online cult radicalization",
+    "keywords": [
+      "nightmare",
+      "app",
+      "dream harvesting",
+      "data cult",
+      "prediction"
+    ],
+    "overlap_check_hash": "bfaca0cf132fb377",
+    "why_this_can_go_viral": "Combines modern tech anxiety with ancient dream mysticism; highly shareable on privacy-conscious platforms."
+  },
+  {
+    "unique_id": "cults_0033_004_52cafddbd1bdbe3c",
+    "title": "The Escape Who Fled by Replacing the Cult's 'Soul Scale' With a Counterweight",
+    "hook": "They measured your 'spiritual mass' to decide who was expendable—until one member tricked the system.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 78,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "cults",
+    "subcategory": "escaping cults",
+    "keywords": [
+      "escape",
+      "soul scale",
+      "counterweight",
+      "trick",
+      "survival"
+    ],
+    "overlap_check_hash": "52cafddbd1bdbe3c",
+    "why_this_can_go_viral": "Underdog story with a clever mechanical hack; feels like a thriller plot."
+  },
+  {
+    "unique_id": "cults_0033_006_fc70d3df8d7c0141",
+    "title": "The Cult Doctor Who 'Cured' Loneliness by Severing the Corpus Callosum",
+    "hook": "He split their brains so the left side didn't know the right side was alone.",
+    "virality_score": 86,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 80,
+    "estimated_short_retention": 89,
+    "niche_name": "cults",
+    "subcategory": "identity destruction methods",
+    "keywords": [
+      "brain surgery",
+      "corpus callosum",
+      "loneliness",
+      "split brain",
+      "doctor"
+    ],
+    "overlap_check_hash": "fc70d3df8d7c0141",
+    "why_this_can_go_viral": "Shocking medical horror that blends neurology with cult control; sparks disbelief."
+  },
+  {
+    "unique_id": "cults_0033_007_f7916ad9e28268a7",
+    "title": "The Leader Who Made Followers Donate Their 'First Thought of the Day'",
+    "hook": "He claimed morning thoughts were divine property—and punished anyone who kept one for themselves.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 80,
+    "educational_value": 62,
+    "estimated_short_retention": 80,
+    "niche_name": "cults",
+    "subcategory": "financial cult exploitation",
+    "keywords": [
+      "thought donation",
+      "morning",
+      "control",
+      "property",
+      "manipulation"
+    ],
+    "overlap_check_hash": "f7916ad9e28268a7",
+    "why_this_can_go_viral": "Relatable (morning thoughts) twisted into dystopian control; easy to imagine."
+  },
+  {
+    "unique_id": "cults_0033_008_dabb3c44d71419fb",
+    "title": "The Cult That Made Members Donate Their 'Shadow' to a Lightless Room",
+    "hook": "They believed shadows contained stolen soul fragments—and only total darkness could free them.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 86,
+    "educational_value": 55,
+    "estimated_short_retention": 84,
+    "niche_name": "cults",
+    "subcategory": "brainwashing techniques",
+    "keywords": [
+      "shadow",
+      "darkness",
+      "soul",
+      "brainwashing",
+      "ritual"
+    ],
+    "overlap_check_hash": "dabb3c44d71419fb",
+    "why_this_can_go_viral": "Visually striking and eerie; perfect for shadow-play video aesthetics."
+  },
+  {
+    "unique_id": "cults_0033_009_7eb5153fc20aac38",
+    "title": "The Online Cult That Made You 'Donate' Your Scroll Speed to a 'Patience Meter'",
+    "hook": "It tracked how fast you scrolled—and slower users were deemed 'ready for enlightenment'.",
+    "virality_score": 81,
+    "curiosity_gap_score": 87,
+    "darkness_score": 72,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "cults",
+    "subcategory": "online cult radicalization",
+    "keywords": [
+      "scroll speed",
+      "patience",
+      "meter",
+      "online cult",
+      "tracking"
+    ],
+    "overlap_check_hash": "7eb5153fc20aac38",
+    "why_this_can_go_viral": "Gamification of attention; viewers will test their own scroll speed immediately."
+  },
+  {
+    "unique_id": "cults_0033_010_08ac210704318585",
+    "title": "The Escape Who Fled by Replacing the Cult's 'Memory Elixir' With Plain Water",
+    "hook": "The leader said the elixir erased past trauma—but one escapee proved it was just tap water all along.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 74,
+    "educational_value": 68,
+    "estimated_short_retention": 78,
+    "niche_name": "cults",
+    "subcategory": "escaping cults",
+    "keywords": [
+      "memory",
+      "elixir",
+      "water",
+      "placebo",
+      "deception"
+    ],
+    "overlap_check_hash": "08ac210704318585",
+    "why_this_can_go_viral": "Simple debunking story with a satisfying 'aha' moment; exposes cult fraud."
+  },
+  {
+    "unique_id": "cults_0033_011_b60751c4b590d2b6",
+    "title": "The Mass Suicide Where They Drank 'Dissolved Gravity' to Float to Heaven",
+    "hook": "The leader convinced them gravity was a demon—and the only way up was to drink its opposite.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 96,
+    "educational_value": 72,
+    "estimated_short_retention": 91,
+    "niche_name": "cults",
+    "subcategory": "mass suicide psychology",
+    "keywords": [
+      "gravity",
+      "heaven",
+      "float",
+      "demon",
+      "antidote"
+    ],
+    "overlap_check_hash": "b60751c4b590d2b6",
+    "why_this_can_go_viral": "Absurd pseudoscience meets lethal faith; highly debateable, triggers strong reactions."
+  },
+  {
+    "unique_id": "cults_0033_012_e80ee726997f869e",
+    "title": "The Cult Doctor Who 'Cured' Boredom by Lesioning the Nucleus Accumbens",
+    "hook": "He removed the pleasure center so followers would never feel 'distracted' again.",
+    "virality_score": 84,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 82,
+    "estimated_short_retention": 87,
+    "niche_name": "cults",
+    "subcategory": "identity destruction methods",
+    "keywords": [
+      "pleasure",
+      "brain lesion",
+      "boredom",
+      "cure",
+      "control"
+    ],
+    "overlap_check_hash": "e80ee726997f869e",
+    "why_this_can_go_viral": "Horrifying medical experiment; viewers will question what makes life worth living."
+  },
+  {
+    "unique_id": "cults_0033_013_d6d8170c0d7a625e",
+    "title": "The Leader Who Made Followers Donate Their 'Worst Memory' to a 'Pain Vault'",
+    "hook": "He promised to lock away their trauma—but the vault had a 'release date' they didn't know about.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 83,
+    "educational_value": 66,
+    "estimated_short_retention": 81,
+    "niche_name": "cults",
+    "subcategory": "cult leader manipulation",
+    "keywords": [
+      "memory",
+      "pain vault",
+      "trauma",
+      "release",
+      "manipulation"
+    ],
+    "overlap_check_hash": "d6d8170c0d7a625e",
+    "why_this_can_go_viral": "Emotional hook about shared trauma; viewers will wonder if they'd fall for it."
+  },
+  {
+    "unique_id": "cults_0033_014_1048728aa6e17759",
+    "title": "The Cult That Made Members Donate Their 'Skin Cells' to a 'Divine Shedding'",
+    "hook": "They believed flaking skin was the soul molting—and collected it to build a 'new Adam'.",
+    "virality_score": 77,
+    "curiosity_gap_score": 83,
+    "darkness_score": 85,
+    "educational_value": 58,
+    "estimated_short_retention": 79,
+    "niche_name": "cults",
+    "subcategory": "brainwashing techniques",
+    "keywords": [
+      "skin",
+      "shedding",
+      "soul",
+      "molting",
+      "collection"
+    ],
+    "overlap_check_hash": "1048728aa6e17759",
+    "why_this_can_go_viral": "Body horror meets religious delusion; visually repulsive yet fascinating."
+  },
+  {
+    "unique_id": "cults_0033_015_d62bd251043034a2",
+    "title": "The Online Cult That Made You 'Donate' Your Keyboard Typing Errors to a 'Flaw Archive'",
+    "hook": "They claimed typos revealed hidden sins—and only erasing every mistake could save you.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 76,
+    "educational_value": 73,
+    "estimated_short_retention": 84,
+    "niche_name": "cults",
+    "subcategory": "online cult radicalization",
+    "keywords": [
+      "typos",
+      "flaws",
+      "archive",
+      "sin",
+      "perfection"
+    ],
+    "overlap_check_hash": "d62bd251043034a2",
+    "why_this_can_go_viral": "Relatable digital behavior weaponized into guilt; viewers will check their own typing."
+  },
+  {
+    "unique_id": "cults_0033_019_56fb56ed4f4e20d0",
+    "title": "The Leader Who Made Followers Donate Their 'Sense of Time' to a 'Clockless Realm'",
+    "hook": "He banned all clocks and told them time was an illusion—until they lost their minds.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 79,
+    "educational_value": 74,
+    "estimated_short_retention": 82,
+    "niche_name": "cults",
+    "subcategory": "cult leader manipulation",
+    "keywords": [
+      "time",
+      "clock",
+      "illusion",
+      "manipulation",
+      "disorientation"
+    ],
+    "overlap_check_hash": "56fb56ed4f4e20d0",
+    "why_this_can_go_viral": "Psychological experiment anyone can relate to; imagine living without time."
+  },
+  {
+    "unique_id": "cults_0033_020_27730e19687eb9d9",
+    "title": "The Cult That Made Members Donate Their 'Breath Condensation' to a 'Fog of Unity'",
+    "hook": "They collected each exhale in jars to 'merge souls'—but the jars were never opened.",
+    "virality_score": 78,
+    "curiosity_gap_score": 84,
+    "darkness_score": 81,
+    "educational_value": 60,
+    "estimated_short_retention": 80,
+    "niche_name": "cults",
+    "subcategory": "brainwashing techniques",
+    "keywords": [
+      "breath",
+      "fog",
+      "jars",
+      "unity",
+      "soul"
+    ],
+    "overlap_check_hash": "27730e19687eb9d9",
+    "why_this_can_go_viral": "Eerie and poetic; creates a haunting visual that sticks in the mind."
+  },
+  {
+    "unique_id": "cults_0033_021_a54cd5a980d88ca8",
+    "title": "The Online Cult That Made You 'Donate' Your Emoji Usage to a 'Soul Palette'",
+    "hook": "They analyzed your emojis to map your 'emotional spectrum'—then blackmailed you with it.",
+    "virality_score": 83,
+    "curiosity_gap_score": 89,
+    "darkness_score": 78,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "cults",
+    "subcategory": "online cult radicalization",
+    "keywords": [
+      "emoji",
+      "emotion",
+      "palette",
+      "blackmail",
+      "data"
+    ],
+    "overlap_check_hash": "a54cd5a980d88ca8",
+    "why_this_can_go_viral": "Funny on surface, terrifying underneath; viewers will check their own emoji history."
+  },
+  {
+    "unique_id": "cults_0033_022_e289f746386e0f42",
+    "title": "The Escape Who Fled by Replacing the Cult's 'Truth Serum' With Sugar Syrup",
+    "hook": "They said it forced total honesty—but one member switched it and still lied her way out.",
+    "virality_score": 74,
+    "curiosity_gap_score": 79,
+    "darkness_score": 70,
+    "educational_value": 63,
+    "estimated_short_retention": 76,
+    "niche_name": "cults",
+    "subcategory": "escaping cults",
+    "keywords": [
+      "truth serum",
+      "sugar",
+      "lie",
+      "escape",
+      "deception"
+    ],
+    "overlap_check_hash": "e289f746386e0f42",
+    "why_this_can_go_viral": "Clever and ironic; proves cults rely on suggestion, not magic."
+  },
+  {
+    "unique_id": "cults_0033_023_b29671045df9fde2",
+    "title": "The Mass Suicide Where They Drank 'Liquid Silence' to Stop Their Own Thoughts",
+    "hook": "The leader called thinking a disease—and the cure was a drink that 'stopped the noise' permanently.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 94,
+    "educational_value": 71,
+    "estimated_short_retention": 90,
+    "niche_name": "cults",
+    "subcategory": "mass suicide psychology",
+    "keywords": [
+      "silence",
+      "thoughts",
+      "cure",
+      "drink",
+      "noise"
+    ],
+    "overlap_check_hash": "b29671045df9fde2",
+    "why_this_can_go_viral": "Resonates with anyone overwhelmed by intrusive thoughts; darkly relatable."
+  },
+  {
+    "unique_id": "cults_0033_024_051ffb143d6ae5da",
+    "title": "The Cult Doctor Who 'Cured' Identity by Damaging the Angular Gyrus",
+    "hook": "He erased the sense of self so followers believed they were just 'vessels for the leader'.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 84,
+    "estimated_short_retention": 89,
+    "niche_name": "cults",
+    "subcategory": "identity destruction methods",
+    "keywords": [
+      "identity",
+      "angular gyrus",
+      "self",
+      "vessel",
+      "erase"
+    ],
+    "overlap_check_hash": "051ffb143d6ae5da",
+    "why_this_can_go_viral": "Neurological horror that questions the very concept of identity; deeply unsettling."
+  },
+  {
+    "unique_id": "cults_0033_025_89220deea4fa4bad",
+    "title": "The Leader Who Made Followers Donate Their 'First Breath of Morning' to a 'Dawn Tax'",
+    "hook": "He claimed the day's first inhale belonged to the universe—and charged them for it.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 77,
+    "educational_value": 64,
+    "estimated_short_retention": 81,
+    "niche_name": "cults",
+    "subcategory": "financial cult exploitation",
+    "keywords": [
+      "breath",
+      "dawn",
+      "tax",
+      "universe",
+      "charge"
+    ],
+    "overlap_check_hash": "89220deea4fa4bad",
+    "why_this_can_go_viral": "Absurd yet plausible financial scam; makes you think about what we take for granted."
+  }
+]

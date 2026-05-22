@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "sports_0149_001_d12b9e038950c13e",
+    "title": "The Doctor Who Planted Microchips in Athletes' Muscles to Track Their Pain",
+    "hook": "He said it was for recovery data — until athletes started feeling electric shocks during competition.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "microchip",
+      "athlete tracking",
+      "electrical shock",
+      "pain monitoring",
+      "experiment"
+    ],
+    "overlap_check_hash": "d12b9e038950c13e",
+    "why_this_can_go_viral": "Combines body horror with surveillance paranoia — two massive triggers for short-form shock loops."
+  },
+  {
+    "unique_id": "sports_0149_002_6fadd1493034e8e6",
+    "title": "The Mafia That Owned a Soccer Club's Medical Staff — and Diagnosed Fake Injuries",
+    "hook": "Players were told they had torn ligaments — just to bench them for a betting payout.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "mafia",
+      "fake injury",
+      "soccer",
+      "medical fraud",
+      "betting"
+    ],
+    "overlap_check_hash": "6fadd1493034e8e6",
+    "why_this_can_go_viral": "Everyone suspects medical corruption in soccer — this confirms the worst-case scenario."
+  },
+  {
+    "unique_id": "sports_0149_004_f7b122768e019601",
+    "title": "The Lab That Pumped Athletes' Lungs with Silicone to Seal Their Airways",
+    "hook": "They called it 'strength training' — but athletes couldn't breathe for 90 seconds after each session.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 60,
+    "estimated_short_retention": 91,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "silicone lungs",
+      "airway sealing",
+      "extreme training",
+      "lung damage",
+      "experiment"
+    ],
+    "overlap_check_hash": "f7b122768e019601",
+    "why_this_can_go_viral": "Horrifying medical abuse that feels like a sci-fi torture device — perfect for disgust-driven shares."
+  },
+  {
+    "unique_id": "sports_0149_005_91a189014e26459c",
+    "title": "The Betting Syndicate That Paid a Goalkeeper to Wear Wrong-Size Gloves",
+    "hook": "He couldn't grip the ball — and the odds shifted exactly as they predicted.",
+    "virality_score": 80,
+    "curiosity_gap_score": 86,
+    "darkness_score": 70,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "goalkeeper",
+      "wrong gloves",
+      "betting syndicate",
+      "match fixing",
+      "soccer"
+    ],
+    "overlap_check_hash": "91a189014e26459c",
+    "why_this_can_go_viral": "Simple, believable sabotage tactic that fans will replay in their heads — triggers 'I knew it' reactions."
+  },
+  {
+    "unique_id": "sports_0149_006_b7b556274e614cc5",
+    "title": "The Coach Who Forced Gymnasts to Train on Broken Ankles — Then Hid the X-Rays",
+    "hook": "He told them pain was weakness leaving the body. The X-rays told a different story.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "gymnastics",
+      "broken ankle",
+      "coach abuse",
+      "hidden X-rays",
+      "forced training"
+    ],
+    "overlap_check_hash": "b7b556274e614cc5",
+    "why_this_can_go_viral": "Gymnastics abuse is a hot-button issue — this specific hidden damage detail makes it deeply visceral."
+  },
+  {
+    "unique_id": "sports_0149_007_ab9b0bef611dbaad",
+    "title": "The Doctor Who Used Radioactive Injections to 'Sterilize' Athletes' Blood",
+    "hook": "He said it would prevent doping detection. Instead, it started breaking down their immune systems.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "radioactive injection",
+      "blood sterilization",
+      "doping cover-up",
+      "immune destruction",
+      "doctor"
+    ],
+    "overlap_check_hash": "ab9b0bef611dbaad",
+    "why_this_can_go_viral": "Radiation + doping + medical betrayal — three high-emotion hooks in one title."
+  },
+  {
+    "unique_id": "sports_0149_008_5fe169a6d0bc07fa",
+    "title": "The Mafia That Stole a Boxer's Fight Record by Paying the Commission to Erase Wins",
+    "hook": "He went from champion to unknown in one afternoon — and no one could prove it happened.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 80,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "boxer",
+      "record erasure",
+      "mafia commission",
+      "fight history",
+      "corruption"
+    ],
+    "overlap_check_hash": "5fe169a6d0bc07fa",
+    "why_this_can_go_viral": "Identity theft + sports legacy destruction — a nightmare scenario that feels plausible."
+  },
+  {
+    "unique_id": "sports_0149_011_8963cb6eabac4a92",
+    "title": "The Lab That Implanted Shark Cartilage into Swimmers' Shoulders for 'Hydrodynamics'",
+    "hook": "They believed human tissue was too soft. Shark cartilage would make them cut through water like blades.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "shark cartilage",
+      "swimmer implant",
+      "hydrodynamics",
+      "body modification",
+      "experiment"
+    ],
+    "overlap_check_hash": "8963cb6eabac4a92",
+    "why_this_can_go_viral": "Body horror meets sports science — the grotesque imagery guarantees shares."
+  },
+  {
+    "unique_id": "sports_0149_012_e1b02a553b9dccdc",
+    "title": "The Betting Syndicate That Used Drone Jamming to Distract a Free-Throw Shooter",
+    "hook": "The buzzer went silent. The clock froze. The shooter panicked — and missed every shot.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 72,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "drone jamming",
+      "free throw",
+      "basketball fix",
+      "technology sabotage",
+      "betting"
+    ],
+    "overlap_check_hash": "e1b02a553b9dccdc",
+    "why_this_can_go_viral": "High-tech sabotage in a low-tech moment — perfect for conspiracy-minded sports fans."
+  },
+  {
+    "unique_id": "sports_0149_013_510a7a92f387bd24",
+    "title": "The Coach Who Stitched Players' Fingers Together to Prevent 'Lazy Hands' in Rugby",
+    "hook": "He called it 'team bonding.' The hospital called it reconstructive surgery.",
+    "virality_score": 87,
+    "curiosity_gap_score": 93,
+    "darkness_score": 91,
+    "educational_value": 60,
+    "estimated_short_retention": 92,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "stitched fingers",
+      "rugby abuse",
+      "coach cruelty",
+      "body modification",
+      "team bonding"
+    ],
+    "overlap_check_hash": "510a7a92f387bd24",
+    "why_this_can_go_viral": "Grotesque, unbelievable, and immediately shareable — the mental image is unforgettable."
+  },
+  {
+    "unique_id": "sports_0149_014_28269f7e133abf40",
+    "title": "The Doctor Who Sold Athletes 'Recovery Blood' That Was Actually HIV-Positive Plasma",
+    "hook": "They thought they were getting supercharged regeneration. They got a death sentence instead.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 96,
+    "educational_value": 70,
+    "estimated_short_retention": 94,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "HIV plasma",
+      "blood doping",
+      "athlete infection",
+      "doctor fraud",
+      "death sentence"
+    ],
+    "overlap_check_hash": "28269f7e133abf40",
+    "why_this_can_go_viral": "Maximum darkness + real-world fear — triggers outrage, shock, and immediate sharing."
+  },
+  {
+    "unique_id": "sports_0149_015_e31e668e0e6d5bb8",
+    "title": "The Mafia That Used Stadium Echo Patterns to Send Secret Signals to Players",
+    "hook": "Every cheer from section 7 was code. The players didn't know they were following orders.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 78,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "stadium signals",
+      "crowd code",
+      "mafia communication",
+      "player manipulation",
+      "soccer"
+    ],
+    "overlap_check_hash": "e31e668e0e6d5bb8",
+    "why_this_can_go_viral": "Paranoia fuel — makes every stadium crowd seem suspicious. High rewatch value."
+  },
+  {
+    "unique_id": "sports_0149_017_50da285d582ca3ee",
+    "title": "The Referee Who Fixed a Football Game by Deflating the Ball at Halftime",
+    "hook": "The quarterback couldn't grip it. The score flipped. And the referee walked away with a suitcase full of cash.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 74,
+    "educational_value": 65,
+    "estimated_short_retention": 86,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "deflated ball",
+      "football fix",
+      "referee",
+      "halftime sabotage",
+      "betting"
+    ],
+    "overlap_check_hash": "50da285d582ca3ee",
+    "why_this_can_go_viral": "Taps into real Deflategate controversy — but adds a darker, criminal twist."
+  },
+  {
+    "unique_id": "sports_0149_018_e3227439b0624f10",
+    "title": "The Lab That Tried to Replace Athletes' Joints with Titanium — Without Anesthesia",
+    "hook": "They said metal joints would never wear out. The patients screamed through every procedure.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 70,
+    "estimated_short_retention": 91,
+    "niche_name": "sports",
+    "subcategory": "performance experiments",
+    "keywords": [
+      "titanium joints",
+      "no anesthesia",
+      "sports experiment",
+      "extreme surgery",
+      "pain"
+    ],
+    "overlap_check_hash": "e3227439b0624f10",
+    "why_this_can_go_viral": "Medical horror + sports ambition — the ultimate 'too far' story that triggers disgust and awe."
+  },
+  {
+    "unique_id": "sports_0149_019_118907567aade767",
+    "title": "The Betting Syndicate That Paid a Cyclist to Swap His Bike's Gears Mid-Race",
+    "hook": "He pedaled harder but went slower. The bookies knew exactly when he'd fail.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 66,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "sports",
+    "subcategory": "match fixing networks",
+    "keywords": [
+      "gear sabotage",
+      "cycling",
+      "betting syndicate",
+      "bike manipulation",
+      "race fix"
+    ],
+    "overlap_check_hash": "118907567aade767",
+    "why_this_can_go_viral": "Simple mechanical sabotage that any cyclist will understand — and rage at."
+  },
+  {
+    "unique_id": "sports_0149_020_0717f0ada1a818a0",
+    "title": "The Coach Who Kept a Swimmer in a Chlorine Tank for 12 Hours to 'Build Lung Capacity'",
+    "hook": "Her lungs burned for days. The coach called it adaptation. The doctor called it chemical burns.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 87,
+    "educational_value": 65,
+    "estimated_short_retention": 89,
+    "niche_name": "sports",
+    "subcategory": "athlete abuse systems",
+    "keywords": [
+      "chlorine tank",
+      "swimmer abuse",
+      "lung damage",
+      "coach cruelty",
+      "chemical burns"
+    ],
+    "overlap_check_hash": "0717f0ada1a818a0",
+    "why_this_can_go_viral": "Water + chemicals + abuse — a potent combo for visceral disgust and sympathy."
+  },
+  {
+    "unique_id": "sports_0149_021_96242642793d5927",
+    "title": "The Doctor Who Injected Athletes with Cobra Venom to 'Immunize' Their Nerves",
+    "hook": "They felt no pain — until their nerves started dying one by one.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 94,
+    "educational_value": 70,
+    "estimated_short_retention": 93,
+    "niche_name": "sports",
+    "subcategory": "doping conspiracies",
+    "keywords": [
+      "cobra venom",
+      "nerve immunization",
+      "athlete injection",
+      "nerve death",
+      "experiment"
+    ],
+    "overlap_check_hash": "96242642793d5927",
+    "why_this_can_go_viral": "Venom + sports + permanent damage — irresistible dark curiosity."
+  },
+  {
+    "unique_id": "sports_0149_022_0aa01bf2c50af348",
+    "title": "The Mafia That Owned a Stadium's Cleaning Crew — and Left 'Accidental' Slippery Floors",
+    "hook": "Three away players broke their ankles. The mafia cashed in on every single fall.",
+    "virality_score": 81,
+    "curiosity_gap_score": 86,
+    "darkness_score": 76,
+    "educational_value": 60,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "mafia in sports",
+    "keywords": [
+      "slippery floor",
+      "mafia cleaning crew",
+      "stadium sabotage",
+      "broken ankles",
+      "betting"
+    ],
+    "overlap_check_hash": "0aa01bf2c50af348",
+    "why_this_can_go_viral": "Everyday service workers as hidden villains — paranoia hook that feels possible in any stadium."
+  },
+  {
+    "unique_id": "sports_0149_024_6a3beaf365c28c37",
+    "title": "The Referee Who Fixed a Baseball Game by Tilting Home Plate",
+    "hook": "Every pitch that should have been a strike was called a ball — because the plate was angled by 3 degrees.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 68,
+    "educational_value": 75,
+    "estimated_short_retention": 84,
+    "niche_name": "sports",
+    "subcategory": "referee corruption",
+    "keywords": [
+      "home plate",
+      "tilted",
+      "baseball fix",
+      "referee",
+      "strike zone"
+    ],
+    "overlap_check_hash": "6a3beaf365c28c37",
+    "why_this_can_go_viral": "Extremely subtle cheat that baseball fans will obsess over — fuels debate and replay analysis."
+  }
+]

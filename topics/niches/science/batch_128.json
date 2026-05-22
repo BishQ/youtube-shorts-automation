@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "science_0128_001_c0d65cd1f211cf71",
+    "title": "The Lab That Accidentally Created a Black Goo That Absorbs Sound",
+    "hook": "A polymer experiment gone wrong produced a substance that engineers call a 'silence sink' — and it hasn't stopped growing.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 70,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "silence sink",
+      "polymer accident",
+      "sound absorption",
+      "lab goo",
+      "creeping substance"
+    ],
+    "overlap_check_hash": "c0d65cd1f211cf71",
+    "why_this_can_go_viral": "Combines a tangible horror (uncontrollable goo) with a sensory trigger (silence/absence of sound), creating a visceral 'what if' hook."
+  },
+  {
+    "unique_id": "science_0128_002_bb942415be84fe25",
+    "title": "The Physicist Who Saw a Particle Disobey Every Physical Law — And Destroyed Her Notes",
+    "hook": "She captured an anomaly that should have rewritten physics, then burned the evidence — fearing what it meant.",
+    "virality_score": 87,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "particle anomaly",
+      "physics law violation",
+      "burned notes",
+      "hidden discovery",
+      "fear of knowledge"
+    ],
+    "overlap_check_hash": "bb942415be84fe25",
+    "why_this_can_go_viral": "The mystery of a scientist destroying her own work triggers paranoia and 'forbidden knowledge' intrigue."
+  },
+  {
+    "unique_id": "science_0128_003_33e641ac4431dd5f",
+    "title": "The Forbidden Experiment Where a Doctor Raised a Child as a Dog",
+    "hook": "In a remote village, a physician tested if nurture could erase human consciousness — the child never learned to speak.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 95,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human experimentation",
+      "nurture vs nature",
+      "feral child",
+      "language deprivation",
+      "psychological horror"
+    ],
+    "overlap_check_hash": "33e641ac4431dd5f",
+    "why_this_can_go_viral": "Extreme human rights violation with a chilling moral question — viewers cannot look away from the 'what would I become' angle."
+  },
+  {
+    "unique_id": "science_0128_004_800d4d83f5fb5540",
+    "title": "The Biolab That Created a Bacterium That Only Survives in Living Eyes",
+    "hook": "It latches onto the retina and feeds on tears — engineers call it 'the last thing you'll ever see'.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 88,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "eye infection",
+      "retina bacteria",
+      "tear feeder",
+      "bioengineered pathogen",
+      "ocular horror"
+    ],
+    "overlap_check_hash": "800d4d83f5fb5540",
+    "why_this_can_go_viral": "Direct body horror targeting a vulnerable organ — instantly relatable fear of losing sight."
+  },
+  {
+    "unique_id": "science_0128_005_68c29460c6e66988",
+    "title": "The Scientific Fraud Who Published a Paper That Made Other Scientists Hallucinate",
+    "hook": "He laced his data with a pattern that triggered visual cortex seizures — peer reviewers saw things that weren't there.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 75,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "hallucinogenic data",
+      "peer review trap",
+      "visual cortex attack",
+      "fraud method",
+      "epileptic trigger"
+    ],
+    "overlap_check_hash": "68c29460c6e66988",
+    "why_this_can_go_viral": "Blends science fraud with a psychological attack — feels like a creepy-pasta but is (allegedly) real."
+  },
+  {
+    "unique_id": "science_0128_006_84d413257de7d2cd",
+    "title": "The Chemist Who Discovered a Compound That Makes Water Boil at Room Temperature",
+    "hook": "A single drop changed the boiling point of an entire beaker — and the reaction was irreversible.",
+    "virality_score": 76,
+    "curiosity_gap_score": 82,
+    "darkness_score": 62,
+    "educational_value": 85,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "boiling point anomaly",
+      "room temperature boil",
+      "catalyst disaster",
+      "unstable compound",
+      "thermal runaway"
+    ],
+    "overlap_check_hash": "84d413257de7d2cd",
+    "why_this_can_go_viral": "Visually striking phenomenon that breaks intuitive understanding of everyday water."
+  },
+  {
+    "unique_id": "science_0128_007_025a665c7b44bd53",
+    "title": "The Neuroscientist Who Found the Brain's 'Die Now' Button — And Pushed It on Mice",
+    "hook": "A precise electrical jolt to one region made healthy animals shut down in seconds — no damage. Just death.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 90,
+    "educational_value": 82,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "death switch",
+      "brain stimulation",
+      "instant death",
+      "mice experiment",
+      "neural kill switch"
+    ],
+    "overlap_check_hash": "025a665c7b44bd53",
+    "why_this_can_go_viral": "The idea that death can be triggered like a light switch is terrifying and deeply shareable."
+  },
+  {
+    "unique_id": "science_0128_009_73ac3af162577ab1",
+    "title": "The Lab Catastrophe Where a Scientist Drenched Herself in a Chemical That Melts Through Skin",
+    "hook": "It was supposed to be a solvent — but it dissolved fat, muscle, and bone in under three minutes.",
+    "virality_score": 91,
+    "curiosity_gap_score": 88,
+    "darkness_score": 95,
+    "educational_value": 74,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "chemical burn",
+      "skin melting",
+      "solvent accident",
+      "lab safety failure",
+      "horrific injury"
+    ],
+    "overlap_check_hash": "73ac3af162577ab1",
+    "why_this_can_go_viral": "Gory, fast, and real — the visceral description makes viewers recoil and share."
+  },
+  {
+    "unique_id": "science_0128_010_8255ffa98372e70e",
+    "title": "The Forbidden Experiment Where a Scientist Tried to Implant a Human Egg Into a Goat",
+    "hook": "He wanted to see if a human could be born from another species — the hybrid didn't survive birth.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 91,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "human goat hybrid",
+      "cross species",
+      "chimeric experiment",
+      "soviet science",
+      "ethical nightmare"
+    ],
+    "overlap_check_hash": "8255ffa98372e70e",
+    "why_this_can_go_viral": "Touches on the deepest taboo of mixing human and animal — both fascinating and repulsive."
+  },
+  {
+    "unique_id": "science_0128_011_b16802b01ba16e16",
+    "title": "The Biolab That Engineered a Fungus That Eats Cancer Cells — Then Eats the Patient",
+    "hook": "It cured tumors, but once the cancer was gone, it turned on healthy tissue — and nothing could stop it.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 90,
+    "educational_value": 76,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "cancer eating fungus",
+      "treatment gone wrong",
+      "fungal overgrowth",
+      "bioterror",
+      "medical nightmare"
+    ],
+    "overlap_check_hash": "b16802b01ba16e16",
+    "why_this_can_go_viral": "Hope-to-horror arc in one sentence — viewers emotionally invested in cure then betrayed."
+  },
+  {
+    "unique_id": "science_0128_012_e1be01c81907b4a3",
+    "title": "The Scientific Fraud Who Faked a 'Hibernation Pill' — Patients Didn't Wake Up",
+    "hook": "He claimed it could put astronauts into deep sleep — instead, it induced a coma that lasted forever.",
+    "virality_score": 78,
+    "curiosity_gap_score": 83,
+    "darkness_score": 82,
+    "educational_value": 72,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "hibernation drug",
+      "fake pill",
+      "coma induction",
+      "space sleep scam",
+      "eternal sleep"
+    ],
+    "overlap_check_hash": "e1be01c81907b4a3",
+    "why_this_can_go_viral": "Plays on fear of medical fraud and the unsettling idea of being trapped in your own body."
+  },
+  {
+    "unique_id": "science_0128_013_278c0ff1a9be26f8",
+    "title": "The Neuroscientist Who Removed a Woman's Ability to Feel Pain — She Died Within a Week",
+    "hook": "Without the signal of injury, she broke her spine sleeping, bit through her tongue, and bled internally — no one knew.",
+    "virality_score": 92,
+    "curiosity_gap_score": 94,
+    "darkness_score": 97,
+    "educational_value": 80,
+    "estimated_short_retention": 96,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "pain removal",
+      "nerve damage",
+      "silent injury",
+      "deadly experiment",
+      "painless death"
+    ],
+    "overlap_check_hash": "278c0ff1a9be26f8",
+    "why_this_can_go_viral": "Pain is universally understood as protective — removing it reveals a gruesome vulnerability."
+  },
+  {
+    "unique_id": "science_0128_014_3cf1692e37fc5937",
+    "title": "The Quantum Paradox Where a Particle Outran Its Own Light — and Vanished from Reality",
+    "hook": "It exceeded the speed of its own observation — and the universe 'forgot' it existed. No trace remained.",
+    "virality_score": 81,
+    "curiosity_gap_score": 89,
+    "darkness_score": 76,
+    "educational_value": 79,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "faster than light",
+      "particle disappearance",
+      "causality violation",
+      "quantum vanishing",
+      "reality deletion"
+    ],
+    "overlap_check_hash": "3cf1692e37fc5937",
+    "why_this_can_go_viral": "Taps into the unsettling idea that existence depends on being observed — and can be erased."
+  },
+  {
+    "unique_id": "science_0128_017_918969f34ad01ea7",
+    "title": "The Biolab That Created a Worm That Lives in Human Tears and Controls Eye Movement",
+    "hook": "It doesn't kill — it steers your gaze. Infected people look at things they don't want to see.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 71,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "eye worm",
+      "tear parasite",
+      "gaze control",
+      "mind control worm",
+      "ocular infection"
+    ],
+    "overlap_check_hash": "918969f34ad01ea7",
+    "why_this_can_go_viral": "Combines body horror with loss of autonomy — seeing something against your will is uniquely disturbing."
+  },
+  {
+    "unique_id": "science_0128_018_0606b1bcc5d5135b",
+    "title": "The Scientific Fraud Who Fabricated a 'Longevity Protein' — It Aged Skeletons in Days",
+    "hook": "He injected volunteers with a compound that was supposed to reverse aging — their bones crumbled like chalk.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 88,
+    "educational_value": 74,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "longevity scam",
+      "aging protein",
+      "bone disintegration",
+      "fake anti aging",
+      "medical fraud"
+    ],
+    "overlap_check_hash": "0606b1bcc5d5135b",
+    "why_this_can_go_viral": "Fear of quack science with a gruesome physical outcome — 'anti-aging' turns into 'instant osteoporosis'."
+  },
+  {
+    "unique_id": "science_0128_019_523f854127083604",
+    "title": "The Neuroscientist Who Discovered That Memories Can Be Transferred Through a Syringe",
+    "hook": "He extracted brain fluid from a trained rat and injected it into a naive one — it remembered the maze.",
+    "virality_score": 77,
+    "curiosity_gap_score": 84,
+    "darkness_score": 74,
+    "educational_value": 81,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "memory transfer",
+      "brain fluid",
+      "rat experiment",
+      "memory injection",
+      "neural transplant"
+    ],
+    "overlap_check_hash": "523f854127083604",
+    "why_this_can_go_viral": "Challenges the idea that memories are stored in neurons — opens door to identity theft via syringe."
+  },
+  {
+    "unique_id": "science_0128_020_ca063a05fdda218c",
+    "title": "The Quantum Paradox Where a Particle Changed Its Past to Avoid a Contradiction",
+    "hook": "It 'rewrote' its own history — the data showed it had always been in a different position, even though scientists saw it move.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 79,
+    "educational_value": 84,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "retrocausality",
+      "time rewriting",
+      "quantum history",
+      "particle contradiction",
+      "causality violation"
+    ],
+    "overlap_check_hash": "ca063a05fdda218c",
+    "why_this_can_go_viral": "Suggests reality is editable — a sci-fi concept that feels both impossible and logically proven."
+  },
+  {
+    "unique_id": "science_0128_021_5a6f6dd7b61fe373",
+    "title": "The Lab Catastrophe Where a Scientist Mixed Cleaning Agents and Created a Nerve Gas",
+    "hook": "Ammonia and bleach shouldn't create a weapon — but in a sealed room, it formed a cloud that stopped hearts.",
+    "virality_score": 76,
+    "curiosity_gap_score": 80,
+    "darkness_score": 78,
+    "educational_value": 86,
+    "estimated_short_retention": 81,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "chemical reaction",
+      "nerve gas accident",
+      "home chemicals",
+      "deadly mix",
+      "lab safety"
+    ],
+    "overlap_check_hash": "5a6f6dd7b61fe373",
+    "why_this_can_go_viral": "Relatable household products become deadly — viewers check their own cleaning supplies."
+  },
+  {
+    "unique_id": "science_0128_023_1984036aa563bd0b",
+    "title": "The Biolab That Engineered a Spore That Detects Fear and Germinates in the Lungs",
+    "hook": "The spore is dormant until you're afraid — then it inhales deeper, roots into tissue, and blooms.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 73,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fear triggered spore",
+      "lung fungus",
+      "emotion detection",
+      "biological weapon",
+      "panic pathogen"
+    ],
+    "overlap_check_hash": "1984036aa563bd0b",
+    "why_this_can_go_viral": "Your own fear becomes the trigger — a feedback loop of horror that makes viewers anxious watching."
+  },
+  {
+    "unique_id": "science_0128_024_8463cdf2959c95e3",
+    "title": "The Physicist Who Discovered That Gravity Can Be Reversed — Inside a Magnetic Field",
+    "hook": "She levitated a living frog in a magnetic field — then turned the field off. The frog hit the ceiling.",
+    "virality_score": 75,
+    "curiosity_gap_score": 79,
+    "darkness_score": 58,
+    "educational_value": 82,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "magnetic levitation",
+      "gravity reversal",
+      "frog experiment",
+      "diamagnetism",
+      "anti gravity"
+    ],
+    "overlap_check_hash": "8463cdf2959c95e3",
+    "why_this_can_go_viral": "Stunning visual of a living creature defying gravity — simple, shareable, and mind-bending."
+  },
+  {
+    "unique_id": "science_0128_025_b2e3f9e7389ad8dc",
+    "title": "The Chemist Who Discovered a Liquid That Dissolves Metal but Not Skin — Until You Sweat",
+    "hook": "It's perfectly safe on dry skin — but the moment you sweat, it becomes a flesh-dissolving acid.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 87,
+    "educational_value": 76,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "sweat activated acid",
+      "metal dissolving liquid",
+      "delayed reaction",
+      "chemical trap",
+      "skin danger"
+    ],
+    "overlap_check_hash": "b2e3f9e7389ad8dc",
+    "why_this_can_go_viral": "The 'safe until it's not' angle creates tension — viewers imagine handling it and sweating."
+  }
+]

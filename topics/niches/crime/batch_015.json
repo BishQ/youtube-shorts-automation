@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "crime_0015_001_163a22723883805a",
+    "title": "The Killer Who Used a Missing Person's Own Scent to Track Her Down",
+    "hook": "A serial killer didn't stalk his victims—he tracked them by their unique scent trails, and one woman's perfume led him right to her door.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 65,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "scent tracking",
+      "serial killer",
+      "forensic olfaction",
+      "missing person",
+      "psychological profiling"
+    ],
+    "overlap_check_hash": "163a22723883805a",
+    "why_this_can_go_viral": "The primal fear of being hunted by scent is visceral and taps into deep survival instincts, while the forensic twist is novel."
+  },
+  {
+    "unique_id": "crime_0015_002_8bc86e5808c90469",
+    "title": "The Heist Where Thieves Stole a Safe by Replacing It with a Fake—While Guards Watched",
+    "hook": "They swapped a 2-ton safe for a lightweight replica in front of security cameras, and no one noticed for three days.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 50,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "safe swap",
+      "museum heist",
+      "dummy safe",
+      "guard deception",
+      "perfect crime"
+    ],
+    "overlap_check_hash": "8bc86e5808c90469",
+    "why_this_can_go_viral": "The audacity and simplicity of a physical swap under surveillance is mind-bending; viewers will replay it to spot the trick."
+  },
+  {
+    "unique_id": "crime_0015_004_e6bc44deeaf6b88a",
+    "title": "The Unsolved Murder Where the Killer Left a Cipher Inside the Victim's Stomach",
+    "hook": "The victim swallowed a coded note before dying—and 30 years later, no codebreaker has cracked it.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 90,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "stomach cipher",
+      "unsolved murder",
+      "coded message",
+      "cold case",
+      "cryptography"
+    ],
+    "overlap_check_hash": "e6bc44deeaf6b88a",
+    "why_this_can_go_viral": "Unsolved codes are internet catnip; the mystery is layered and demands engagement from viewers who love puzzles."
+  },
+  {
+    "unique_id": "crime_0015_007_07d2060c23ecd357",
+    "title": "The Organized Crime Empire That Controlled a City's Entire Food Supply",
+    "hook": "They didn't run drugs—they ran every restaurant, grocery store, and farm within 50 miles, and anyone who refused starved.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "food monopoly",
+      "mafia control",
+      "city starvation",
+      "supply chain crime",
+      "silent empire"
+    ],
+    "overlap_check_hash": "07d2060c23ecd357",
+    "why_this_can_go_viral": "Food is universal—the idea that organized crime could control what you eat is terrifying and relatable."
+  },
+  {
+    "unique_id": "crime_0015_008_718417095adc15a1",
+    "title": "The White-Collar Criminal Who Stole a Fortune by Selling Fake Firefighting Licenses",
+    "hook": "He sold licenses to 'volunteer firefighters' who had never seen a flame—until a real fire killed 12 people.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 79,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "fake firefighter license",
+      "deadly scam",
+      "negligent homicide",
+      "license fraud",
+      "emergency corruption"
+    ],
+    "overlap_check_hash": "718417095adc15a1",
+    "why_this_can_go_viral": "The deadly consequences of white-collar greed make this both shocking and morally resonant, driving shares and comments."
+  },
+  {
+    "unique_id": "crime_0015_009_afc1bfd89daff110",
+    "title": "The Serial Killer Who Used a Travel Agency to Select His Victims",
+    "hook": "He didn't stalk—he booked dream vacations for strangers, then joined them on the trip. They never came back.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 94,
+    "educational_value": 60,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "travel agency killer",
+      "vacation murder",
+      "predator tactics",
+      "trust exploitation",
+      "serial killer methods"
+    ],
+    "overlap_check_hash": "afc1bfd89daff110",
+    "why_this_can_go_viral": "The betrayal of a travel agent—a trusted vacation planner—is a chilling twist on a familiar service, highly shareable."
+  },
+  {
+    "unique_id": "crime_0015_011_6f7c6911a919da7b",
+    "title": "The Cartel That Used a Radio Station to Broadcast Kill Orders in Song Lyrics",
+    "hook": "Listeners thought they were hearing love songs—but the 'I love you' meant 'execute,' and 'forever' meant 'bury the body.'",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 86,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "radio code songs",
+      "cartel communication",
+      "hidden messages",
+      "narco music",
+      "violence in lyrics"
+    ],
+    "overlap_check_hash": "6f7c6911a919da7b",
+    "why_this_can_go_viral": "The idea that pop songs are actually death warrants is surreal; viewers will obsess over decoding real music."
+  },
+  {
+    "unique_id": "crime_0015_012_98b5d0144b0d4def",
+    "title": "The Unsolved Murder Where the Killer Left a Doll Dressed Exactly Like the Victim",
+    "hook": "A handmade doll wearing the victim's clothes was found at the scene—stitched with hair from the corpse.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 95,
+    "educational_value": 50,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "doll clue",
+      "creepy evidence",
+      "ritualistic murder",
+      "unsolved case",
+      "message from killer"
+    ],
+    "overlap_check_hash": "98b5d0144b0d4def",
+    "why_this_can_go_viral": "Dolls are universally unsettling; the personalization makes it feel like a direct taunt, perfect for true crime forums."
+  },
+  {
+    "unique_id": "crime_0015_014_9cc7bcb3cda8dc45",
+    "title": "The Criminal Mastermind Who Faked a Nuclear Meltdown to Escape Prison",
+    "hook": "He triggered a radiation alarm, hid in a lead-lined coffin, and walked out with the evacuation crew—while guards searched for a ghost.",
+    "virality_score": 96,
+    "curiosity_gap_score": 99,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 94,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "prison escape nuclear",
+      "fake meltdown",
+      "lead coffin",
+      "evacuation trick",
+      "genius escape"
+    ],
+    "overlap_check_hash": "9cc7bcb3cda8dc45",
+    "why_this_can_go_viral": "Nuclear fear combined with a clever escape is gripping; the coffin detail is visceral and unforgettable."
+  },
+  {
+    "unique_id": "crime_0015_015_c89f4be5eb501c5d",
+    "title": "The Organized Crime Empire That Used a Zoo to Hide Its Hitmen",
+    "hook": "They hired hitmen as 'zookeepers'—and used the nightly animal feedings to cover the sounds of silenced executions.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 90,
+    "educational_value": 55,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "zoo crime front",
+      "hitmen zookeepers",
+      "animal noise cover",
+      "mafia zoo",
+      "execution concealment"
+    ],
+    "overlap_check_hash": "c89f4be5eb501c5d",
+    "why_this_can_go_viral": "The contrast between innocent animals and brutal murder creates a surreal, shareable shock factor."
+  },
+  {
+    "unique_id": "crime_0015_016_80c01b03c26fafc7",
+    "title": "The White-Collar Criminal Who Sold Fake Tickets to a Prison Tour—and the Prisoners Were the Guides",
+    "hook": "He sold VIP prison tours, and inmates led tourists through cells—while the 'guards' were his own hired actors.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 82,
+    "educational_value": 60,
+    "estimated_short_retention": 81,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "fake prison tour",
+      "inmate guides",
+      "actor guards",
+      "tourist scam",
+      "prison exploitation"
+    ],
+    "overlap_check_hash": "80c01b03c26fafc7",
+    "why_this_can_go_viral": "The meta-scam of faking a prison experience is ironic and disturbing; viewers will feel both amused and horrified."
+  },
+  {
+    "unique_id": "crime_0015_017_c052a39b2347a155",
+    "title": "The Serial Killer Who Only Killed in Motels Named After Flowers",
+    "hook": "He traveled across the country, checking into motels like Rose Inn and Daisy Lodge—and left a petal on each body.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 83,
+    "educational_value": 55,
+    "estimated_short_retention": 76,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "flower motel killer",
+      "geographic profiling",
+      "signature crime",
+      "serial killer motif",
+      "road trip murders"
+    ],
+    "overlap_check_hash": "c052a39b2347a155",
+    "why_this_can_go_viral": "The floral theme is poetic and creepy; viewers will try to guess the next motel, creating interactive engagement."
+  },
+  {
+    "unique_id": "crime_0015_018_5f1789b2be14b19d",
+    "title": "The Heist Where Thieves Stole a Gem by Replacing It with a Fake That Glowed in the Dark",
+    "hook": "They swapped a priceless diamond for a glowing replica—and the museum only noticed when the lights went out and the fake shone like a beacon.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 40,
+    "educational_value": 65,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "glowing replica",
+      "diamond swap",
+      "museum heist",
+      "UV light trick",
+      "art theft"
+    ],
+    "overlap_check_hash": "5f1789b2be14b19d",
+    "why_this_can_go_viral": "The visual of a glowing fake in a dark museum is cinematic and memorable; viewers will want to see the clip recreated."
+  },
+  {
+    "unique_id": "crime_0015_019_d907bbd423a12775",
+    "title": "The Cartel That Used a Fishermen's Union to Move Cocaine in Fish",
+    "hook": "They didn't hide drugs inside fish—they replaced entire fish with cocaine replicas, sealed in fish-scented plastic.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 65,
+    "estimated_short_retention": 80,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "fish smuggling",
+      "cocaine fish",
+      "fishermen cartel",
+      "drug disguise",
+      "maritime trafficking"
+    ],
+    "overlap_check_hash": "d907bbd423a12775",
+    "why_this_can_go_viral": "The absurdity of fake fish filled with cocaine is both funny and scary; it's a classic 'how did they get away with it' story."
+  },
+  {
+    "unique_id": "crime_0015_020_4c1d9577cafe5ea3",
+    "title": "The Unsolved Murder Where the Killer Left a Voicemail from the Victim's Own Phone—After She Was Dead",
+    "hook": "The victim's phone called her mother 6 hours after her death—and played 10 seconds of heavy breathing.",
+    "virality_score": 97,
+    "curiosity_gap_score": 99,
+    "darkness_score": 98,
+    "educational_value": 40,
+    "estimated_short_retention": 95,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "voicemail from dead",
+      "post-mortem call",
+      "killer taunt",
+      "unsolved case",
+      "digital evidence"
+    ],
+    "overlap_check_hash": "4c1d9577cafe5ea3",
+    "why_this_can_go_viral": "Post-mortem phone calls are a staple of creepypasta—but real cases are infinitely more viral; the psychological horror is unmatched."
+  },
+  {
+    "unique_id": "crime_0015_021_f02dccd78d6e6cfd",
+    "title": "The Billion-Dollar Fraud That Sold a Fake Social Network to Advertisers—With Bots as Users",
+    "hook": "He raised $500 million by selling ads on a 'social network' where 99% of the users were AI-generated profiles.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 70,
+    "educational_value": 85,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fake social network",
+      "AI bot users",
+      "ad fraud",
+      "Silicon Valley scam",
+      "fake engagement"
+    ],
+    "overlap_check_hash": "f02dccd78d6e6cfd",
+    "why_this_can_go_viral": "Exposes the dark side of the tech industry; viewers love seeing 'disruption' turned into a con."
+  },
+  {
+    "unique_id": "crime_0015_023_07cf81dbdf936c75",
+    "title": "The Organized Crime Syndicate That Ran a Funeral Home to Steal Organs",
+    "hook": "Families buried empty coffins—the bodies were shipped to private clinics, where organs were harvested before the funeral.",
+    "virality_score": 94,
+    "curiosity_gap_score": 96,
+    "darkness_score": 99,
+    "educational_value": 60,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "organ harvesting",
+      "funeral home crime",
+      "black market organs",
+      "body theft",
+      "medical mafia"
+    ],
+    "overlap_check_hash": "07cf81dbdf936c75",
+    "why_this_can_go_viral": "Organ harvesting taps into deep fears about medical corruption; the funeral home setting makes it unspeakably dark."
+  },
+  {
+    "unique_id": "crime_0015_024_06499b8524ceb1b7",
+    "title": "The White-Collar Criminal Who Stole Millions by Selling Fake Parole Board Seats",
+    "hook": "He convinced inmates' families he could 'buy' early release—and the phone calls from 'inside' were his own actors.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 65,
+    "estimated_short_retention": 77,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "fake parole",
+      "prison scam",
+      "family exploitation",
+      "inmate fraud",
+      "corruption"
+    ],
+    "overlap_check_hash": "06499b8524ceb1b7",
+    "why_this_can_go_viral": "Preying on desperate families is emotionally devastating; viewers will feel outrage and pity, driving shares and comments."
+  },
+  {
+    "unique_id": "crime_0015_025_d61ea8ee74e2f741",
+    "title": "The Serial Killer Who Used a Weather Map to Predict Where Bodies Would Wash Up",
+    "hook": "He studied ocean currents and GPS-predicted landing points—then placed his victims so they'd drift exactly where he wanted.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 88,
+    "educational_value": 75,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "ocean current murder",
+      "weather map killer",
+      "body disposal",
+      "forensic oceanography",
+      "calculated killer"
+    ],
+    "overlap_check_hash": "d61ea8ee74e2f741",
+    "why_this_can_go_viral": "Merges science and horror; viewers fascinated by weather or oceanography will engage deeply with the forensic detail."
+  }
+]

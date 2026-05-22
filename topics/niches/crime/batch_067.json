@@ -1,0 +1,401 @@
+[
+  {
+    "unique_id": "crime_0067_001_c36f057cf6e538fd",
+    "title": "The Unsolved Case Where Every Suspect Had an Alibi—Backed by GPS",
+    "hook": "A woman is found dead in a locked room, and every single suspect has flawless GPS data proving they were miles away—except the data was too perfect.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 60,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "unsolved murder",
+      "GPS alibi",
+      "locked room mystery",
+      "flawless evidence",
+      "crime puzzle"
+    ],
+    "overlap_check_hash": "c36f057cf6e538fd",
+    "why_this_can_go_viral": "The clash between ironclad digital proof and a seemingly impossible crime triggers viewers to debate how the alibi might have been faked."
+  },
+  {
+    "unique_id": "crime_0067_002_8227b8e20c77b1b0",
+    "title": "The Criminal Mastermind Who Controlled a Country's Water Supply",
+    "hook": "One man infiltrated the entire municipal water system of a small nation, poisoning reservoirs unless the government paid him billions—and got away with it for years.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 88,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "water supply",
+      "poisoning",
+      "extortion",
+      "infrastructure attack",
+      "hidden crime"
+    ],
+    "overlap_check_hash": "8227b8e20c77b1b0",
+    "why_this_can_go_viral": "The idea of a single person holding an entire country's water hostage taps into deep fears of infrastructure vulnerability and unseen threats."
+  },
+  {
+    "unique_id": "crime_0067_003_405c24b70c7a997e",
+    "title": "The Mob That Used a Children's Book Publisher to Launder Millions",
+    "hook": "A family-run mob operation bought a failing children's book publisher and printed fake bestsellers with empty pages, selling them to schools to clean drug money.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 82,
+    "educational_value": 65,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "mob",
+      "money laundering",
+      "children's books",
+      "fake publishing",
+      "organized crime"
+    ],
+    "overlap_check_hash": "405c24b70c7a997e",
+    "why_this_can_go_viral": "The juxtaposition of innocent children's books with brutal criminal enterprise is shocking and highly shareable."
+  },
+  {
+    "unique_id": "crime_0067_004_cef043515b54e46c",
+    "title": "The Serial Killer Who Only Targeted People With Blue Eyes",
+    "hook": "A killer in Eastern Europe left a note on each victim: 'The eyes are the window to the soul—and yours were the wrong color.' Police found 17 bodies, all blue-eyed.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 90,
+    "educational_value": 55,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "serial killer",
+      "blue eyes",
+      "psychological profiling",
+      "targeted victims",
+      "dark obsession"
+    ],
+    "overlap_check_hash": "cef043515b54e46c",
+    "why_this_can_go_viral": "The specific, chilling targeting based on a physical trait creates instant intrigue and horror, driving clicks and discussion."
+  },
+  {
+    "unique_id": "crime_0067_005_bfb1a61a24dbeb0d",
+    "title": "The Heist Where Thieves Stole a Jet by Faking Its Maintenance Logs",
+    "hook": "A group posing as mechanics forged maintenance records, walked into a private hangar, and flew a $50 million Gulfstream out of the country—before anyone knew it was missing.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 72,
+    "educational_value": 68,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "jet heist",
+      "fake maintenance logs",
+      "private hangar",
+      "aviation theft",
+      "audacity"
+    ],
+    "overlap_check_hash": "bfb1a61a24dbeb0d",
+    "why_this_can_go_viral": "The audacity of stealing a plane with paperwork alone feels like a Hollywood plot, making viewers desperate for the 'how'."
+  },
+  {
+    "unique_id": "crime_0067_007_4ee74e577053173a",
+    "title": "The Cartel That Built a Submarine Fleet From Public Blueprints",
+    "hook": "A cartel downloaded open-source submarine designs, built a fleet of 12 narco-subs in a jungle factory, and shipped $3 billion in cocaine before being discovered.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "narco-submarine",
+      "cartel",
+      "open-source",
+      "jungle factory",
+      "cocaine smuggling"
+    ],
+    "overlap_check_hash": "4ee74e577053173a",
+    "why_this_can_go_viral": "The idea of using free online plans to build a smuggling fleet feels like a real-life video game, sparking awe and horror."
+  },
+  {
+    "unique_id": "crime_0067_011_bbccab569e5eb560",
+    "title": "The Mob That Controlled a City's Taxi Fleet to Run a Drug Empire",
+    "hook": "A crime family bought 80% of a city's taxi medallions, using every cab to deliver cocaine—drivers were unknowing mules, and police couldn't stop them for years.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 83,
+    "educational_value": 65,
+    "estimated_short_retention": 84,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "taxi cartel",
+      "drug delivery",
+      "organized crime",
+      "city infiltration",
+      "hidden system"
+    ],
+    "overlap_check_hash": "bbccab569e5eb560",
+    "why_this_can_go_viral": "The thought that every taxi in a city could be part of a massive drug ring is a gripping, paranoid premise."
+  },
+  {
+    "unique_id": "crime_0067_013_ccbd68288b32d501",
+    "title": "The Heist Where Thieves Stole a Billion-Dollar Diamond by Replacing It With a Frozen Water Copy",
+    "hook": "During a private viewing, thieves swapped a 300-carat diamond with an exact replica made of ice—it melted in the vault, leaving no evidence except a puddle.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 70,
+    "educational_value": 60,
+    "estimated_short_retention": 91,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "diamond heist",
+      "ice replica",
+      "impossible theft",
+      "vault",
+      "audacious"
+    ],
+    "overlap_check_hash": "ccbd68288b32d501",
+    "why_this_can_go_viral": "The sheer creativity and elegance of the ice-swap trick makes this a perfect 'how did they do that?' video."
+  },
+  {
+    "unique_id": "crime_0067_014_427ecbae3215aa56",
+    "title": "The Billion-Dollar Fraud That Faked an Entire Country's Meteorite Market",
+    "hook": "A group sold fake meteorites to collectors for a decade, claiming they were from a remote African desert—they made $1.5 billion before a geologist noticed the 'space rocks' were painted basalt.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 76,
+    "educational_value": 71,
+    "estimated_short_retention": 85,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fake meteorites",
+      "fraud",
+      "collectors",
+      "basalt",
+      "space rock scam"
+    ],
+    "overlap_check_hash": "427ecbae3215aa56",
+    "why_this_can_go_viral": "The absurdity of fooling experts with painted rocks for over a decade is both hilarious and shocking, making it highly shareable."
+  },
+  {
+    "unique_id": "crime_0067_015_84db7461c6bc7232",
+    "title": "The Cartel That Used a Car Rental Agency to Track and Kidnap Rivals",
+    "hook": "A cartel bought a national car rental chain, installed GPS trackers in every vehicle, and used the data to kidnap and extort rival members—hundreds of 'accidents' were staged.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 91,
+    "educational_value": 68,
+    "estimated_short_retention": 88,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "cartel",
+      "car rental",
+      "GPS tracking",
+      "kidnapping",
+      "organized crime"
+    ],
+    "overlap_check_hash": "84db7461c6bc7232",
+    "why_this_can_go_viral": "The weaponization of a trusted everyday service like car rental creates a deep sense of vulnerability and dark fascination."
+  },
+  {
+    "unique_id": "crime_0067_016_49694299ea521fe9",
+    "title": "The White-Collar Criminal Who Stole $450M by Faking a Country's Cemetery Records",
+    "hook": "A funeral home director created thousands of fake burial plots, sold them to grieving families, and pocketed $450 million—the 'bodies' were buried in empty numbered slots.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 88,
+    "educational_value": 63,
+    "estimated_short_retention": 82,
+    "niche_name": "crime",
+    "subcategory": "white-collar crime",
+    "keywords": [
+      "cemetery fraud",
+      "fake burials",
+      "grief scam",
+      "white-collar",
+      "funeral home"
+    ],
+    "overlap_check_hash": "49694299ea521fe9",
+    "why_this_can_go_viral": "The exploitation of death and grief is deeply unsettling, and the scale of the scam makes viewers angry and curious."
+  },
+  {
+    "unique_id": "crime_0067_017_02b4c0dcb0eccae7",
+    "title": "The Unsolved Murder Where the Victim's Phone Called 911—From Inside a Locked Car at the Bottom of a Lake",
+    "hook": "A car was pulled from a lake with a body inside, and the victim's phone had called 911—but the car had been submerged for 2 years, and the battery was dead.",
+    "virality_score": 92,
+    "curiosity_gap_score": 98,
+    "darkness_score": 93,
+    "educational_value": 48,
+    "estimated_short_retention": 95,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "locked car",
+      "lake murder",
+      "impossible phone call",
+      "submerged",
+      "mystery"
+    ],
+    "overlap_check_hash": "02b4c0dcb0eccae7",
+    "why_this_can_go_viral": "The impossibility of a dead battery calling 911 from underwater creates a supernatural-level mystery that viewers will obsess over."
+  },
+  {
+    "unique_id": "crime_0067_018_6dcdec3d5ef56bde",
+    "title": "The Criminal Mastermind Who Faked a Country's Entire Bus Pass System to Steal $300M",
+    "hook": "A programmer cloned a nation's public transit database, issued 10 million fake bus passes, and sold them at a discount—the government didn't notice for 5 years.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 72,
+    "educational_value": 69,
+    "estimated_short_retention": 79,
+    "niche_name": "crime",
+    "subcategory": "criminal masterminds",
+    "keywords": [
+      "bus pass fraud",
+      "transit scam",
+      "database theft",
+      "government hack",
+      "system exploit"
+    ],
+    "overlap_check_hash": "6dcdec3d5ef56bde",
+    "why_this_can_go_viral": "The mundane yet massive exploit of a public transit system feels like a hidden gem of criminal ingenuity."
+  },
+  {
+    "unique_id": "crime_0067_019_175d722b5209d820",
+    "title": "The Mob That Used a Zoo to Hide Weapons in Animal Cages",
+    "hook": "A crime family bought a failing zoo, hid assault rifles inside fake rocks in the reptile house, and smuggled them to gangs—visitors walked past 'crocodile exhibits' full of AK-47s.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 86,
+    "educational_value": 62,
+    "estimated_short_retention": 87,
+    "niche_name": "crime",
+    "subcategory": "organized crime empires",
+    "keywords": [
+      "zoo weapons",
+      "organized crime",
+      "smuggling",
+      "animal cages",
+      "hidden cache"
+    ],
+    "overlap_check_hash": "175d722b5209d820",
+    "why_this_can_go_viral": "The surreal image of families visiting a zoo while weapons are hidden in reptile tanks is wildly shareable and darkly humorous."
+  },
+  {
+    "unique_id": "crime_0067_020_91d967f1e15e548c",
+    "title": "The Serial Killer Who Only Killed on February 29—Leap Day Murders",
+    "hook": "Over 20 years, a killer struck only on leap day, leaving victims with a calendar marked 'February 29'—police never found a pattern except the date itself.",
+    "virality_score": 90,
+    "curiosity_gap_score": 94,
+    "darkness_score": 88,
+    "educational_value": 55,
+    "estimated_short_retention": 89,
+    "niche_name": "crime",
+    "subcategory": "serial killer psychology",
+    "keywords": [
+      "leap day killer",
+      "serial killer",
+      "calendar murders",
+      "pattern",
+      "unsolved"
+    ],
+    "overlap_check_hash": "91d967f1e15e548c",
+    "why_this_can_go_viral": "The bizarre, once-every-four-years ritual creates a unique and haunting hook that viewers will remember and share."
+  },
+  {
+    "unique_id": "crime_0067_021_dadaaf1e8973f801",
+    "title": "The Heist Where Thieves Stole a $200 Million Art Collection by Replacing the Gallery's Security Cameras",
+    "hook": "Thieves hacked the gallery's camera system, swapped the live feed with a 24-hour loop of empty rooms, and walked out with 17 priceless paintings—no one noticed for 3 days.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 74,
+    "educational_value": 66,
+    "estimated_short_retention": 90,
+    "niche_name": "crime",
+    "subcategory": "heist operations",
+    "keywords": [
+      "art heist",
+      "security camera loop",
+      "gallery theft",
+      "priceless paintings",
+      "hack"
+    ],
+    "overlap_check_hash": "dadaaf1e8973f801",
+    "why_this_can_go_viral": "The simplicity and brilliance of replacing footage with a loop is a classic heist trope that viewers love to dissect."
+  },
+  {
+    "unique_id": "crime_0067_022_c40c1b6d7bb56151",
+    "title": "The Billion-Dollar Fraud That Faked an Entire Country's Endangered Species Trade",
+    "hook": "A group forged CITES permits for extinct animals, sold 'rare bird eggs' and 'rhino horn' made from resin, and made $1.1 billion—before a buyer noticed his 'tiger bone' was plastic.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 79,
+    "educational_value": 70,
+    "estimated_short_retention": 83,
+    "niche_name": "crime",
+    "subcategory": "billion-dollar fraud",
+    "keywords": [
+      "fake animal trade",
+      "endangered species",
+      "fraud",
+      "CITES",
+      "wildlife scam"
+    ],
+    "overlap_check_hash": "c40c1b6d7bb56151",
+    "why_this_can_go_viral": "The audacity of faking extinct animals and fooling collectors taps into both environmental and criminal curiosity."
+  },
+  {
+    "unique_id": "crime_0067_023_02ef3f0a6fdb7e9f",
+    "title": "The Cartel That Used a Hot Spring Resort to Boil Bodies Into Nothing",
+    "hook": "A cartel bought a remote hot spring resort, used the geothermal pools to dissolve bodies completely, and told tourists the 'bubbling' was natural—hundreds vanished without a trace.",
+    "virality_score": 95,
+    "curiosity_gap_score": 98,
+    "darkness_score": 97,
+    "educational_value": 58,
+    "estimated_short_retention": 94,
+    "niche_name": "crime",
+    "subcategory": "cartel operations",
+    "keywords": [
+      "hot spring",
+      "body disposal",
+      "cartel",
+      "geothermal",
+      "disappearances"
+    ],
+    "overlap_check_hash": "02ef3f0a6fdb7e9f",
+    "why_this_can_go_viral": "The horrifying combination of a relaxing resort and industrial-scale body disposal is deeply disturbing and utterly unforgettable."
+  },
+  {
+    "unique_id": "crime_0067_025_71feb9d089bb9277",
+    "title": "The Unsolved Murder Where the Victim's Body Was Found in a Tree—Stitched Into the Bark",
+    "hook": "A hiker found a skeleton fused into a tree trunk 30 feet up—forensics said the body was placed there before the tree grew around it, meaning the killer planted the tree over the corpse.",
+    "virality_score": 96,
+    "curiosity_gap_score": 99,
+    "darkness_score": 95,
+    "educational_value": 45,
+    "estimated_short_retention": 97,
+    "niche_name": "crime",
+    "subcategory": "unsolved murders",
+    "keywords": [
+      "tree murder",
+      "body in tree",
+      "bark fusion",
+      "unsolved",
+      "grotesque discovery"
+    ],
+    "overlap_check_hash": "71feb9d089bb9277",
+    "why_this_can_go_viral": "The image of a body growing into a tree over decades is so surreal and macabre that it will dominate social feeds and spark endless theories."
+  }
+]

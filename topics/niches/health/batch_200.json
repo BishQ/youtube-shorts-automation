@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "health_0200_002_ba49fbde116d22e0",
+    "title": "The Cancer Clinic That Charged Patients $500,000 for Sugar Water",
+    "hook": "A luxury clinic in Germany was injecting patients with nothing but flavored saline, charging $500,000 per round — and claiming it cured stage-4 cancer.",
+    "virality_score": 91,
+    "curiosity_gap_score": 95,
+    "darkness_score": 83,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "cancer fraud",
+      "sugar water treatment",
+      "medical scam",
+      "fake oncology",
+      "clinic exposed"
+    ],
+    "overlap_check_hash": "ba49fbde116d22e0",
+    "why_this_can_go_viral": "Million-dollar price tag on a worthless treatment triggers outrage, while the 'rich people scammed' angle drives shares."
+  },
+  {
+    "unique_id": "health_0200_003_43edb2702a0058a1",
+    "title": "The Government That Poisoned Babies With Radioactive Baby Formula",
+    "hook": "In the 1950s, the U.S. government distributed milk powder contaminated with strontium-90 to orphanages — to study how radiation moves through the food chain.",
+    "virality_score": 94,
+    "curiosity_gap_score": 97,
+    "darkness_score": 96,
+    "educational_value": 82,
+    "estimated_short_retention": 95,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "radioactive babies",
+      "strontium-90",
+      "orphan experiment",
+      "cold war experiments",
+      "atomic milk"
+    ],
+    "overlap_check_hash": "43edb2702a0058a1",
+    "why_this_can_go_viral": "Babies + radiation + government secrecy is a viral triad. The 'food chain study' detail makes it uniquely horrifying."
+  },
+  {
+    "unique_id": "health_0200_004_74519095ae782144",
+    "title": "The Dentist Who Gave 500 Patients Hep C — and Kept Practicing",
+    "hook": "An Oklahoma oral surgeon reused dirty needles and vials on patients for years, infecting hundreds with Hepatitis C — and the dental board let him keep his license.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "hepatitis c outbreak",
+      "dirty dentist",
+      "needle reuse",
+      "dental board",
+      "public health failure"
+    ],
+    "overlap_check_hash": "74519095ae782144",
+    "why_this_can_go_viral": "Medical trust betrayal + preventable suffering + systemic failure — viewers share out of anger and fear."
+  },
+  {
+    "unique_id": "health_0200_005_47c32b5067f4e33a",
+    "title": "The Cheap Generic Drug That Made Schizophrenics Attack Strangers",
+    "hook": "A widely prescribed antipsychotic was later found to cause extreme aggression and psychotic breaks — the manufacturer knew and kept selling it to prisons.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "antipsychotic violence",
+      "generic drug scandal",
+      "prison medications",
+      "pharmaceutical cover-up",
+      "mental health drugs"
+    ],
+    "overlap_check_hash": "47c32b5067f4e33a",
+    "why_this_can_go_viral": "Incarceration angle + violence + corporate greed taps into true crime and social justice audiences."
+  },
+  {
+    "unique_id": "health_0200_006_2231bfc990e2f52a",
+    "title": "The Doctor Who Removed Healthy Kidneys for Organ Harvesting",
+    "hook": "An NHS surgeon removed kidneys from living patients who didn't need surgery, sold them on the black market, and only got caught after a patient woke up missing an organ.",
+    "virality_score": 93,
+    "curiosity_gap_score": 96,
+    "darkness_score": 97,
+    "educational_value": 72,
+    "estimated_short_retention": 94,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "organ harvesting",
+      "NHS doctor",
+      "kidney theft",
+      "black market organs",
+      "surgical horror"
+    ],
+    "overlap_check_hash": "2231bfc990e2f52a",
+    "why_this_can_go_viral": "Waking up missing an organ is a primal fear. The NHS setting adds institutional shock value."
+  },
+  {
+    "unique_id": "health_0200_007_3746aad8291c0650",
+    "title": "The Vitamin Company That Sold Pure Lead as 'Calcium' for 20 Years",
+    "hook": "A bestselling prenatal vitamin supplement contained lead instead of calcium — thousands of women took it during pregnancy, and the FDA never tested it.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 89,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "prenatal poison",
+      "lead in vitamins",
+      "supplement scam",
+      "FDA failure",
+      "pregnancy danger"
+    ],
+    "overlap_check_hash": "3746aad8291c0650",
+    "why_this_can_go_viral": "Pregnant women + poison + regulatory failure = maximum emotional engagement and shareability among parents."
+  },
+  {
+    "unique_id": "health_0200_008_7cbba017250f37ae",
+    "title": "The Hospital That Burned Off Patients' Faces to 'Clean' Their Skin",
+    "hook": "In the 1960s, a dermatology clinic used a chemical peel so strong it melted skin off — they called it 'the fire treatment' and didn't use anesthesia.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 65,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "chemical peel horror",
+      "dermatology nightmare",
+      "1960s skin treatment",
+      "medical torture",
+      "burn treatment"
+    ],
+    "overlap_check_hash": "7cbba017250f37ae",
+    "why_this_can_go_viral": "The visceral image of burning skin triggers an immediate 'must watch' reaction — like a medical horror movie."
+  },
+  {
+    "unique_id": "health_0200_011_1a90454d85aaba5e",
+    "title": "The Cancer Charity That Sold Patients' Funeral Plans for Profit",
+    "hook": "A major cancer charity signed terminal patients into expensive funeral packages secretly owned by the charity's CEO — families lost everything.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 86,
+    "educational_value": 70,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "cancer charity scam",
+      "funeral fraud",
+      "terminal patients",
+      "nonprofit corruption",
+      "dying patients exploited"
+    ],
+    "overlap_check_hash": "1a90454d85aaba5e",
+    "why_this_can_go_viral": "Preying on dying cancer patients is a moral outrage that drives emotional shares and distrust in charities."
+  },
+  {
+    "unique_id": "health_0200_012_35ae7b0fe6aa1e98",
+    "title": "The Drug Industry's Secret: 1 in 3 Approved Drugs Later Cause Cancer",
+    "hook": "A whistleblower analysis revealed that 33% of FDA-approved drugs had carcinogenic impurities that were only discovered years after millions took them.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 87,
+    "educational_value": 88,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "carcinogenic drugs",
+      "FDA corruption",
+      "drug impurities",
+      "pharmaceutical cover-up",
+      "cancer risk"
+    ],
+    "overlap_check_hash": "35ae7b0fe6aa1e98",
+    "why_this_can_go_viral": "Mass-scale pharmaceutical betrayal with a shocking statistic — viewers who take medication will share out of fear."
+  },
+  {
+    "unique_id": "health_0200_015_28ab9aaf3f58a981",
+    "title": "The Government That Hid the Cure for Scurvy for 200 Years",
+    "hook": "The British Navy knew citrus cured scurvy in 1601, but suppressed the treatment for 200 years because it threatened the monopoly of their preserved food suppliers.",
+    "virality_score": 82,
+    "curiosity_gap_score": 87,
+    "darkness_score": 78,
+    "educational_value": 90,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "scurvy cure suppression",
+      "British Navy",
+      "citrus cure",
+      "corporate monopoly",
+      "200 year cover-up"
+    ],
+    "overlap_check_hash": "28ab9aaf3f58a981",
+    "why_this_can_go_viral": "The 'simple cure hidden for centuries' narrative fits the suppressed knowledge trope perfectly."
+  },
+  {
+    "unique_id": "health_0200_016_cd9587bc271de9cf",
+    "title": "The Chemotherapy Drug That Was Pure Industrial Pesticide",
+    "hook": "A batch of 'chemotherapy' sold across Latin America was actually a banned agricultural pesticide — patients died not from cancer, but from poisoning.",
+    "virality_score": 89,
+    "curiosity_gap_score": 94,
+    "darkness_score": 91,
+    "educational_value": 77,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "fake chemotherapy",
+      "pesticide in drugs",
+      "cancer patients poisoned",
+      "counterfeit medicine",
+      "Latin America health scandal"
+    ],
+    "overlap_check_hash": "cd9587bc271de9cf",
+    "why_this_can_go_viral": "The ultimate betrayal — patients trying to survive cancer are given poison instead. Guaranteed outrage."
+  },
+  {
+    "unique_id": "health_0200_018_2faa92a2599641f0",
+    "title": "The Hospital That Used Patients as Test Subjects for Untested Surgical Tools",
+    "hook": "A major teaching hospital allowed surgical residents to use experimental, unapproved staplers on living patients — without telling them or the FDA.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 85,
+    "educational_value": 74,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "unapproved surgical tools",
+      "teaching hospital experiment",
+      "patient unaware",
+      "FDA violation",
+      "surgical horror"
+    ],
+    "overlap_check_hash": "2faa92a2599641f0",
+    "why_this_can_go_viral": "The 'guinea pig while under anesthesia' fear is universal and deeply unsettling."
+  },
+  {
+    "unique_id": "health_0200_019_518f7e30f4a7c89e",
+    "title": "The Painkiller That Caused Permanent Hallucinations — and Was Sold to Kids",
+    "hook": "A children's cough syrup contained an ingredient later linked to permanent visual hallucinations and psychosis — it was sold over the counter for 15 years.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "cough syrup psychosis",
+      "children hallucinations",
+      "OTC drug danger",
+      "permanent side effects",
+      "FDA negligence"
+    ],
+    "overlap_check_hash": "518f7e30f4a7c89e",
+    "why_this_can_go_viral": "Children + permanent brain damage + OTC availability = viral pitchforks."
+  },
+  {
+    "unique_id": "health_0200_021_c2f9ff283be4cb8b",
+    "title": "The Government That Secretly Sprayed LSD Over a Small Town",
+    "hook": "In the 1950s, the CIA sprayed LSD over a French village to study mass psychosis — residents experienced collective hallucinations for months, and the agency blamed a 'toxic mold.'",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 93,
+    "educational_value": 82,
+    "estimated_short_retention": 95,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "LSD sprayed on town",
+      "CIA mind control",
+      "French village experiment",
+      "mass hallucination",
+      "MKUltra"
+    ],
+    "overlap_check_hash": "c2f9ff283be4cb8b",
+    "why_this_can_go_viral": "Small town + secret LSD + mass psychosis is a perfect viral combination of conspiracy and horror."
+  },
+  {
+    "unique_id": "health_0200_022_fddcbeb6f151db3d",
+    "title": "The Supplement That Gave Athletes Heart Attacks — Hidden as 'Natural'",
+    "hook": "A bestselling pre-workout supplement contained a synthetic stimulant 10 times stronger than meth — dozens of young athletes died of cardiac arrest.",
+    "virality_score": 88,
+    "curiosity_gap_score": 90,
+    "darkness_score": 87,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "pre-workout death",
+      "supplement overdose",
+      "DMAA danger",
+      "fitness supplement scam",
+      "heart attack young"
+    ],
+    "overlap_check_hash": "fddcbeb6f151db3d",
+    "why_this_can_go_viral": "Gym culture + hidden meth-like stimulant + young deaths = explosive virality in fitness communities."
+  },
+  {
+    "unique_id": "health_0200_023_be48dc441d91ad3d",
+    "title": "The Pharmaceutical Company That Patented a Common Herb, Then Sued Farmers",
+    "hook": "A drug giant patented a plant used in traditional medicine for centuries, then sued farmers for growing it — and forced cancer patients to pay $100,000 a year.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 85,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "patent on nature",
+      "herb monopoly",
+      "pharma lawsuit farmers",
+      "price gouging",
+      "traditional medicine stolen"
+    ],
+    "overlap_check_hash": "be48dc441d91ad3d",
+    "why_this_can_go_viral": "The 'owning nature' narrative appeals to both conspiracy and natural health audiences."
+  },
+  {
+    "unique_id": "health_0200_024_4df6824f86037018",
+    "title": "The Doctor Who Prescribed Heroin to Infants for 'Colic'",
+    "hook": "In the 1900s, a bestselling pediatrician recommended heroin drops for teething babies — thousands became addicted before the government stepped in.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 92,
+    "educational_value": 78,
+    "estimated_short_retention": 92,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "heroin for babies",
+      "pediatric addiction",
+      "1900s medicine",
+      "teething remedy",
+      "historical medical horror"
+    ],
+    "overlap_check_hash": "4df6824f86037018",
+    "why_this_can_go_viral": "Babies + heroin + trusted doctor = immediate visceral reaction and high shareability."
+  },
+  {
+    "unique_id": "health_0200_025_0455fe0fcf9f4510",
+    "title": "The FDA Approved a Device That Electrocuted People in Their Sleep",
+    "hook": "A 'sleep apnea' implant approved by the FDA delivered electric shocks to patients' tongues 20 times per hour — dozens reported severe burns and PTSD.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 84,
+    "educational_value": 74,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "sleep apnea implant",
+      "tongue shock device",
+      "FDA approved torture",
+      "medical device horror",
+      "PTSD from treatment"
+    ],
+    "overlap_check_hash": "0455fe0fcf9f4510",
+    "why_this_can_go_viral": "The image of being electrocuted while sleeping is terrifying and bizarre — tech/health crossover appeal."
+  }
+]

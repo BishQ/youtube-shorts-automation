@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "tech_hackers_0153_001_cf907f55cbb43765",
+    "title": "The Zero-Day That Hacked Smart Brake Pedals to Cause Phantom Collisions",
+    "hook": "A single line of code made thousands of cars slam on their brakes at random—on highways, in tunnels, over bridges.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "zero-day",
+      "smart brakes",
+      "car hacking",
+      "remote crash",
+      "phantom collision"
+    ],
+    "overlap_check_hash": "cf907f55cbb43765",
+    "why_this_can_go_viral": "Combines universal fear of driving with the invisible threat of software, creating immediate visceral tension."
+  },
+  {
+    "unique_id": "tech_hackers_0153_002_b7f08bf4d3c15589",
+    "title": "The Cyberwar Operation That Hacked Smart Missile Silos to Simulate a Launch",
+    "hook": "An adversary triggered full launch sequences inside a nuclear silo—without anyone touching a button.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 90,
+    "educational_value": 85,
+    "estimated_short_retention": 95,
+    "niche_name": "tech_hackers",
+    "subcategory": "cyberwar history",
+    "keywords": [
+      "nuclear silo",
+      "false alarm",
+      "cyberwar",
+      "launch simulation",
+      "nation-state hack"
+    ],
+    "overlap_check_hash": "b7f08bf4d3c15589",
+    "why_this_can_go_viral": "Nuclear brinkmanship plus hackable weapon systems is a cocktail of fear and fascination no viewer can scroll past."
+  },
+  {
+    "unique_id": "tech_hackers_0153_003_ef48f564ee9d2de5",
+    "title": "The AI That Hacked Smart Social Credit Cameras to Erase People from Existence",
+    "hook": "A dissident used facial recognition AI to scrub every image of a target from city surveillance—making them a ghost.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 85,
+    "educational_value": 70,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "social credit",
+      "facial recognition",
+      "AI hack",
+      "digital erasure",
+      "ghost protocol"
+    ],
+    "overlap_check_hash": "ef48f564ee9d2de5",
+    "why_this_can_go_viral": "Taps into dystopian fears about surveillance and identity, with a twist of weaponized AI turning the system inward."
+  },
+  {
+    "unique_id": "tech_hackers_0153_004_00226d5955112746",
+    "title": "The Dark Web Lab That Hacked Smart Hearing Aids to Trigger Migraines Remotely",
+    "hook": "A hired hacker targeted a journalist by sending inaudible ultrasonic pulses straight into their skull.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 80,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "hearing aid hack",
+      "ultrasonic attack",
+      "remote migraine",
+      "targeted harassment",
+      "dark web lab"
+    ],
+    "overlap_check_hash": "00226d5955112746",
+    "why_this_can_go_viral": "Personal, invasive, and almost sci-fi—viewers will immediately check their own earbuds out of sheer paranoia."
+  },
+  {
+    "unique_id": "tech_hackers_0153_005_089dd65c46b9b7a4",
+    "title": "The Social Engineer Who Hacked a Border Checkpoint by Posing as a Biometric Van Tech",
+    "hook": "He walked into a heavily guarded border crossing, plugged a box into the biometric scanner, and cloned everyone's fingerprints.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 82,
+    "educational_value": 85,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "biometric hack",
+      "fingerprint clone",
+      "border security",
+      "social engineering",
+      "physical penetration"
+    ],
+    "overlap_check_hash": "089dd65c46b9b7a4",
+    "why_this_can_go_viral": "High-stakes physical infiltration with a clever disguise—like a real-world spy movie with biometric data as the prize."
+  },
+  {
+    "unique_id": "tech_hackers_0153_006_2570a89c9258969d",
+    "title": "The Nation-State Hack That Hijacked Smart Power Substations to Burn Out a Grid",
+    "hook": "In the dead of winter, a remote hacker flipped a substation's safety logic off—melting transformers and freezing a city.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 88,
+    "educational_value": 80,
+    "estimated_short_retention": 94,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "power grid hack",
+      "substation sabotage",
+      "nation-state",
+      "blackout attack",
+      "critical infrastructure"
+    ],
+    "overlap_check_hash": "2570a89c9258969d",
+    "why_this_can_go_viral": "Taps into fear of winter blackouts and infrastructure vulnerability, a scenario every viewer can imagine suffering through."
+  },
+  {
+    "unique_id": "tech_hackers_0153_007_001fb20c7bc58b1e",
+    "title": "The AI That Hacked Smart Prison Risk Assessments to Free Violent Inmates",
+    "hook": "A gang leader fed false data into the prison's release algorithm, and the AI automatically signed his early parole.",
+    "virality_score": 89,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 78,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI parole",
+      "prison algorithm",
+      "gang hack",
+      "risk assessment",
+      "false data injection"
+    ],
+    "overlap_check_hash": "001fb20c7bc58b1e",
+    "why_this_can_go_viral": "Exploits public anxiety about algorithmic justice and the idea that criminals can game the system in plain sight."
+  },
+  {
+    "unique_id": "tech_hackers_0153_009_d795c42380eb278c",
+    "title": "The Zero-Day That Hacked Smart Seatbelt Pretensioners to Lock Passengers in a Crash",
+    "hook": "Instead of saving you, the seatbelt tightened so hard you couldn't move—as the car drove itself toward a wall.",
+    "virality_score": 86,
+    "curiosity_gap_score": 88,
+    "darkness_score": 84,
+    "educational_value": 80,
+    "estimated_short_retention": 92,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "seatbelt hack",
+      "car entrapment",
+      "zero-day",
+      "safety system weaponized",
+      "crash trap"
+    ],
+    "overlap_check_hash": "d795c42380eb278c",
+    "why_this_can_go_viral": "Inverts a life-saving device into a death trap, creating a visceral 'that could be me' reaction."
+  },
+  {
+    "unique_id": "tech_hackers_0153_010_194a11541dcec9bf",
+    "title": "The Cybercriminal Empire That Hacked Smart Hotel Key Chains to Unlock Any Room on Earth",
+    "hook": "A single RFID replay attack copied the master key code—and suddenly every hotel room in the chain was open to them.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 76,
+    "educational_value": 82,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "hotel key hack",
+      "RFID cloning",
+      "master key",
+      "room invasion",
+      "cybercriminal ring"
+    ],
+    "overlap_check_hash": "194a11541dcec9bf",
+    "why_this_can_go_viral": "Every traveler fears hotel room vulnerability—this turns that anxiety into a credible, high-tech heist story."
+  },
+  {
+    "unique_id": "tech_hackers_0153_012_92018b76ea99018d",
+    "title": "The Nation-State Hack That Hijacked Smart Border Drones to Smuggle Nuclear Material",
+    "hook": "A state-sponsored actor overwrote a border patrol drone's firmware—turning it into a courier for radioactive secrets.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 89,
+    "educational_value": 82,
+    "estimated_short_retention": 91,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "drone hijack",
+      "nuclear smuggling",
+      "border security",
+      "firmware attack",
+      "state actor"
+    ],
+    "overlap_check_hash": "92018b76ea99018d",
+    "why_this_can_go_viral": "Marries nuclear paranoia with drone warfare—two highly charged topics that generate instant disbelief and shareability."
+  },
+  {
+    "unique_id": "tech_hackers_0153_013_3f038c6e5a7b4578",
+    "title": "The AI That Hacked Smart Job Interview Bots to Get Clients Hired by Fraud",
+    "hook": "A shadowy service fed an AI that mimicked perfect answers in real time—and no hiring manager ever caught on.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 74,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "AI interview bot",
+      "hiring fraud",
+      "job cheat",
+      "bot mimicry",
+      "recruitment hack"
+    ],
+    "overlap_check_hash": "3f038c6e5a7b4578",
+    "why_this_can_go_viral": "Anyone who's ever bombed a job interview will feel a mix of envy and horror—and wonder if they've already been duped."
+  },
+  {
+    "unique_id": "tech_hackers_0153_014_74b29b8175c56cc9",
+    "title": "The Surveillance System That Hacked Smart Prison Guard Wristbands to Map Escape Routes",
+    "hook": "An inmate reverse-engineered the guard's wearable—showing every patrol pattern, blind spot, and unarmed corridor.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 81,
+    "educational_value": 76,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "prison hack",
+      "guard wristband",
+      "escape plan",
+      "wearable exploit",
+      "reverse engineering"
+    ],
+    "overlap_check_hash": "74b29b8175c56cc9",
+    "why_this_can_go_viral": "Prison break strategies always captivate—and using the guards' own tech against them is a perfect irony."
+  },
+  {
+    "unique_id": "tech_hackers_0153_015_46482ebf3dd9d988",
+    "title": "The Zero-Day That Hacked Smart Tractor GPS to Ruin a Nation's Food Supply",
+    "hook": "A single zero-day shifted the GPS coordinates on thousands of tractors—planting seeds in dead soil and saltwater fields.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 83,
+    "educational_value": 79,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "tractor hack",
+      "GPS spoofing",
+      "food supply",
+      "agricultural cyberattack",
+      "zero-day"
+    ],
+    "overlap_check_hash": "46482ebf3dd9d988",
+    "why_this_can_go_viral": "Attacks on food supply feel both ancient and futuristic—viewers will immediately think about where their next meal comes from."
+  },
+  {
+    "unique_id": "tech_hackers_0153_016_ee9b7f9eb5c42f2c",
+    "title": "The Cybercriminal Empire That Hacked Smart Parking Garage Gates to Trap Cars for Ransom",
+    "hook": "You pulled in, parked, and then the gate arm never lifted again—until you paid a cryptocurrency ransom to exit.",
+    "virality_score": 81,
+    "curiosity_gap_score": 84,
+    "darkness_score": 73,
+    "educational_value": 75,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "parking garage hack",
+      "ransomware",
+      "car trap",
+      "gate exploit",
+      "cybercriminal"
+    ],
+    "overlap_check_hash": "ee9b7f9eb5c42f2c",
+    "why_this_can_go_viral": "A claustrophobic, relatable scenario—every driver fears being stuck, and the ransom twist adds modern horror."
+  },
+  {
+    "unique_id": "tech_hackers_0153_019_1999a286c30bbe39",
+    "title": "The Nation-State Hack That Hijacked Smart Ocean Current Sensors to Sink a Submarine",
+    "hook": "By faking water density data, a hacker tricked a submarine into diving too deep—crushing it against the seafloor.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 90,
+    "educational_value": 80,
+    "estimated_short_retention": 93,
+    "niche_name": "tech_hackers",
+    "subcategory": "nation-state hacks",
+    "keywords": [
+      "submarine hack",
+      "ocean sensor",
+      "seafloor crush",
+      "data spoofing",
+      "naval warfare"
+    ],
+    "overlap_check_hash": "1999a286c30bbe39",
+    "why_this_can_go_viral": "Underwater military secrets and a brutal physics-based death—offers a rare, cinematic hook that feels both real and terrifying."
+  },
+  {
+    "unique_id": "tech_hackers_0153_020_187b9780abaf938d",
+    "title": "The AI That Hacked Smart E-Cigarettes to Deliver Surveillance Vapor",
+    "hook": "The vapor cloud itself became a screen—projecting hidden messages and silently uploading everything you said in the room.",
+    "virality_score": 84,
+    "curiosity_gap_score": 87,
+    "darkness_score": 79,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "tech_hackers",
+    "subcategory": "AI dangers exposed",
+    "keywords": [
+      "e-cigarette hack",
+      "vapor surveillance",
+      "smart vape",
+      "audio capture",
+      "AI weaponization"
+    ],
+    "overlap_check_hash": "187b9780abaf938d",
+    "why_this_can_go_viral": "Turns a common habit into a spy tool—viewers will second-guess every puff they've ever taken."
+  },
+  {
+    "unique_id": "tech_hackers_0153_021_fa2b6a706b702e1e",
+    "title": "The Surveillance System That Hacked Smart Ferry Terminals to Track Every Passenger's DNA",
+    "hook": "A hidden sensor in the ticket gate scraped skin cells from your hand—building a genetic profile of every commuter.",
+    "virality_score": 83,
+    "curiosity_gap_score": 86,
+    "darkness_score": 81,
+    "educational_value": 78,
+    "estimated_short_retention": 87,
+    "niche_name": "tech_hackers",
+    "subcategory": "surveillance systems",
+    "keywords": [
+      "DNA tracking",
+      "ferry terminal",
+      "biometric surveillance",
+      "skin cell scrape",
+      "genetic profiling"
+    ],
+    "overlap_check_hash": "fa2b6a706b702e1e",
+    "why_this_can_go_viral": "DNA surveillance is a deeply personal violation—viewers will feel exposed just by watching."
+  },
+  {
+    "unique_id": "tech_hackers_0153_022_0b23ba660e428234",
+    "title": "The Zero-Day That Hacked Smart Watch Skin Sensors to Steal Your Fingerprints While You Sleep",
+    "hook": "Your watch vibrated gently, and while you slept, it captured a 3D map of your fingerprint from the sweat on your wrist.",
+    "virality_score": 86,
+    "curiosity_gap_score": 89,
+    "darkness_score": 83,
+    "educational_value": 80,
+    "estimated_short_retention": 90,
+    "niche_name": "tech_hackers",
+    "subcategory": "zero-day exploits",
+    "keywords": [
+      "smartwatch hack",
+      "fingerprint steal",
+      "skin sensor exploit",
+      "biometric theft",
+      "sleep attack"
+    ],
+    "overlap_check_hash": "0b23ba660e428234",
+    "why_this_can_go_viral": "Turns a wearable comfort into an intimate threat—every smartwatch owner will feel uneasy and share."
+  },
+  {
+    "unique_id": "tech_hackers_0153_023_5f37eb93f573e838",
+    "title": "The Cybercriminal Empire That Hacked Smart Vending Machines Into Drug Dispensers",
+    "hook": "A simple firmware swap turned a snack machine into a 24/7 narcotics vending point—no human interaction needed.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 77,
+    "estimated_short_retention": 89,
+    "niche_name": "tech_hackers",
+    "subcategory": "cybercriminal empires",
+    "keywords": [
+      "vending machine hack",
+      "drug dispenser",
+      "firmware swap",
+      "illicit vending",
+      "cybercriminal"
+    ],
+    "overlap_check_hash": "5f37eb93f573e838",
+    "why_this_can_go_viral": "A real-world cyberpunk image—machines selling illegal drugs in plain sight—feels like a dystopian thriller plot."
+  },
+  {
+    "unique_id": "tech_hackers_0153_024_bd3a0d650b94347b",
+    "title": "The Social Engineer Who Hacked a Police Dispatch Center by Faking a 911 Supervisor Call",
+    "hook": "He phoned in, perfectly mimicked the supervisor's voice, and rerouted every patrol car in a city to a fake emergency.",
+    "virality_score": 88,
+    "curiosity_gap_score": 91,
+    "darkness_score": 85,
+    "educational_value": 82,
+    "estimated_short_retention": 94,
+    "niche_name": "tech_hackers",
+    "subcategory": "social engineering attacks",
+    "keywords": [
+      "911 dispatch hack",
+      "voice mimicry",
+      "police reroute",
+      "social engineering",
+      "emergency spoof"
+    ],
+    "overlap_check_hash": "bd3a0d650b94347b",
+    "why_this_can_go_viral": "Voice mimicry and emergency system manipulation is both terrifying and technically impressive—a perfect storytelling hook."
+  },
+  {
+    "unique_id": "tech_hackers_0153_025_87d18df57a5e5295",
+    "title": "The Dark Web Lab That Hacked Smart Sleep Masks to Plant Nightmare Suggestions",
+    "hook": "While you slept, the mask played barely audible audio that embedded a phobia—waking up, you'd be terrified of your own door.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 86,
+    "educational_value": 68,
+    "estimated_short_retention": 93,
+    "niche_name": "tech_hackers",
+    "subcategory": "dark web operations",
+    "keywords": [
+      "sleep mask hack",
+      "nightmare suggestion",
+      "subliminal audio",
+      "phobia planting",
+      "IoT psychology attack"
+    ],
+    "overlap_check_hash": "87d18df57a5e5295",
+    "why_this_can_go_viral": "Mixes sleep vulnerability, brain hacking, and horror—viewers will question everything they own that touches their face at night."
+  }
+]

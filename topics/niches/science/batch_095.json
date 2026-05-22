@@ -1,0 +1,380 @@
+[
+  {
+    "unique_id": "science_0095_001_66c28dc9d70d5477",
+    "title": "The Chemist Who Dissolved a Diamond With a Single Drop",
+    "hook": "A lab error created a liquid that eats the hardest known substance on Earth.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 70,
+    "educational_value": 80,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "diamond dissolution",
+      "superacid",
+      "chemistry accident",
+      "lab disaster",
+      "diamond destroyed"
+    ],
+    "overlap_check_hash": "66c28dc9d70d5477",
+    "why_this_can_go_viral": "The idea of the 'unbreakable' being casually destroyed sparks awe and disbelief."
+  },
+  {
+    "unique_id": "science_0095_003_5443ee23b3170508",
+    "title": "The Lab That Accidentally Turned a Mouse Into a Cannibal",
+    "hook": "One tweak to a single gene turned a docile animal into a predator that ate its own kind.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 97,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "genetic modification",
+      "cannibal mouse",
+      "genetic horror",
+      "biology experiment",
+      "animal behavior"
+    ],
+    "overlap_check_hash": "5443ee23b3170508",
+    "why_this_can_go_viral": "Shocking, primal fear of losing control and turning into a monster."
+  },
+  {
+    "unique_id": "science_0095_004_e90b31f23eadbd14",
+    "title": "The Physics Anomaly Where a Particle Moved Faster Than Light (and Broke Physics)",
+    "hook": "For a split second, the universe's ultimate speed limit was violated in a lab.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 60,
+    "educational_value": 90,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "faster than light",
+      "OPERA experiment",
+      "neutrino",
+      "physics broken",
+      "speed of light"
+    ],
+    "overlap_check_hash": "e90b31f23eadbd14",
+    "why_this_can_go_viral": "The phrase 'speed of light broken' is an instant clickbait goldmine that challenges reality."
+  },
+  {
+    "unique_id": "science_0095_005_bde606a6ccf3c870",
+    "title": "The Scientific Fraud Who Made Up 100 Studies—and Almost Won a Nobel",
+    "hook": "A researcher faked decades of cancer data, fooling everyone until a single error unraveled it all.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 85,
+    "educational_value": 88,
+    "estimated_short_retention": 92,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "research fraud",
+      "cancer fake",
+      "scientific scandal",
+      "fake data",
+      "Nobel fraud"
+    ],
+    "overlap_check_hash": "bde606a6ccf3c870",
+    "why_this_can_go_viral": "People love stories of betrayal and hubris, especially when it involves life-saving science."
+  },
+  {
+    "unique_id": "science_0095_006_7334af776fd0da08",
+    "title": "The Chemistry Disaster That Created a Glue That Never Unsticks",
+    "hook": "A super-adhesive was invented by accident—now nothing can remove it, not even acid.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 65,
+    "educational_value": 78,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "super glue",
+      "indestructible adhesive",
+      "chemistry accident",
+      "permanent bond",
+      "lab disaster"
+    ],
+    "overlap_check_hash": "7334af776fd0da08",
+    "why_this_can_go_viral": "The horror of being stuck forever to something is a visceral, relatable fear."
+  },
+  {
+    "unique_id": "science_0095_010_1124a01be17ad054",
+    "title": "The Chemist Who Made a Polymer That Sweats",
+    "hook": "A plastic material that 'sweats' water when stressed—like a living thing.",
+    "virality_score": 78,
+    "curiosity_gap_score": 82,
+    "darkness_score": 55,
+    "educational_value": 75,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "sweating polymer",
+      "smart material",
+      "living plastic",
+      "hydrogel",
+      "responsive material"
+    ],
+    "overlap_check_hash": "1124a01be17ad054",
+    "why_this_can_go_viral": "Blurs the line between living and non-living, triggering the uncanny valley."
+  },
+  {
+    "unique_id": "science_0095_012_c136a1c2a4cfba73",
+    "title": "The Physics Anomaly Where a Magnet Lost All Its Power at Midnight",
+    "hook": "Every night at the same time, a powerful magnet in a lab would suddenly die—and no one knew why.",
+    "virality_score": 84,
+    "curiosity_gap_score": 89,
+    "darkness_score": 65,
+    "educational_value": 78,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "magnet failure",
+      "midnight magnet",
+      "physics mystery",
+      "lab anomaly",
+      "spooky physics"
+    ],
+    "overlap_check_hash": "c136a1c2a4cfba73",
+    "why_this_can_go_viral": "Mysterious, time-based events are inherently creepy and create a narrative hook."
+  },
+  {
+    "unique_id": "science_0095_013_a7aa72283babfe2a",
+    "title": "The Biolab That Accidentally Grew a Virus That Attacks Plastic",
+    "hook": "A bacteriophage evolved to eat plastic polymers, threatening to break down our entire infrastructure.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 88,
+    "educational_value": 82,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "plastic eating virus",
+      "bacteriophage",
+      "plastic pollution",
+      "biohazard",
+      "infrastructure threat"
+    ],
+    "overlap_check_hash": "a7aa72283babfe2a",
+    "why_this_can_go_viral": "Taps into the fear of our modern world literally dissolving around us."
+  },
+  {
+    "unique_id": "science_0095_014_db7fb1dca4d4ad8f",
+    "title": "The Neuroscientist Who Proved That Free Will Doesn't Exist",
+    "hook": "Your brain makes decisions 7 seconds before you are consciously aware of them.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 90,
+    "educational_value": 90,
+    "estimated_short_retention": 94,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "free will",
+      "Libet experiment",
+      "brain decision",
+      "consciousness",
+      "predetermined"
+    ],
+    "overlap_check_hash": "db7fb1dca4d4ad8f",
+    "why_this_can_go_viral": "Directly threatens the viewer's sense of self and autonomy, a guaranteed debate starter."
+  },
+  {
+    "unique_id": "science_0095_015_1400fbd0712f99da",
+    "title": "The Chemistry Disaster That Created a Foam That Suffocates Everything",
+    "hook": "A firefighting foam was so effective, it suffocated not just fires, but the entire room's oxygen.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 78,
+    "educational_value": 75,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "firefighting foam",
+      "oxygen depletion",
+      "suffocation",
+      "chemical accident",
+      "dangerous foam"
+    ],
+    "overlap_check_hash": "1400fbd0712f99da",
+    "why_this_can_go_viral": "The idea of a 'cure' being worse than the problem is a compelling narrative."
+  },
+  {
+    "unique_id": "science_0095_016_121e6f93c1f7b45a",
+    "title": "The Scientific Fraud Who Faked a Study That Cured Baldness",
+    "hook": "A 'miracle cure' for hair loss was published, and millions celebrated—until the data was exposed as a lie.",
+    "virality_score": 82,
+    "curiosity_gap_score": 85,
+    "darkness_score": 75,
+    "educational_value": 80,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "hair loss cure",
+      "fake study",
+      "baldness fraud",
+      "medical scam",
+      "falsified data"
+    ],
+    "overlap_check_hash": "121e6f93c1f7b45a",
+    "why_this_can_go_viral": "Taps into a deep personal insecurity, making the betrayal feel personal for many viewers."
+  },
+  {
+    "unique_id": "science_0095_018_646596f4546e7213",
+    "title": "The Quantum Paradox Where an Object Was in Two Places at Once (and Stayed There)",
+    "hook": "A microscopic drum vibrated in two different states at the same time, refusing to 'choose' one.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 55,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum drum",
+      "superposition",
+      "two places at once",
+      "macroscopic quantum",
+      "NIST experiment"
+    ],
+    "overlap_check_hash": "646596f4546e7213",
+    "why_this_can_go_viral": "Makes the impossible feel tangible; a 'drum' is something everyone can visualize."
+  },
+  {
+    "unique_id": "science_0095_019_51818ed0b313b953",
+    "title": "The Experiment That Gave a Rat a Heart Attack Just by Showing It a Light",
+    "hook": "A rat learned to fear a harmless light so deeply, it triggered a fatal cardiac event.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 96,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "fear induced death",
+      "psychosomatic death",
+      "rat experiment",
+      "conditioned fear",
+      "heart attack"
+    ],
+    "overlap_check_hash": "51818ed0b313b953",
+    "why_this_can_go_viral": "The ultimate 'scared to death' story; terrifying and biologically profound."
+  },
+  {
+    "unique_id": "science_0095_020_e98f2cd2b3926f18",
+    "title": "The Neuroscientist Who Used a Magnet to Erase a Man's Ability to Lie",
+    "hook": "A powerful magnetic field applied to the brain temporarily wiped out the concept of deception.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 82,
+    "educational_value": 85,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "truth serum",
+      "transcranial magnetic stimulation",
+      "lie detection",
+      "brain manipulation",
+      "honesty"
+    ],
+    "overlap_check_hash": "e98f2cd2b3926f18",
+    "why_this_can_go_viral": "Fantastical 'superpower' meets real science; viewers will wonder if it could happen to them."
+  },
+  {
+    "unique_id": "science_0095_021_0ce80c0001481e9a",
+    "title": "The Chemistry Disaster That Made a Lake Explode",
+    "hook": "A quiet lake in Africa suddenly erupted, releasing a cloud of gas that suffocated thousands.",
+    "virality_score": 95,
+    "curiosity_gap_score": 97,
+    "darkness_score": 98,
+    "educational_value": 88,
+    "estimated_short_retention": 96,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "Lake Nyos",
+      "limnic eruption",
+      "carbon dioxide cloud",
+      "disaster",
+      "suffocation lake"
+    ],
+    "overlap_check_hash": "0ce80c0001481e9a",
+    "why_this_can_go_viral": "A real, apocalyptic event that sounds like a sci-fi movie; pure shock value."
+  },
+  {
+    "unique_id": "science_0095_023_9e8013711d3776c3",
+    "title": "The Physics Anomaly Where a Pendulum Stopped Swinging for No Reason",
+    "hook": "A Foucault pendulum in a sealed room gradually stopped over days, defying the laws of motion.",
+    "virality_score": 77,
+    "curiosity_gap_score": 81,
+    "darkness_score": 60,
+    "educational_value": 77,
+    "estimated_short_retention": 74,
+    "niche_name": "science",
+    "subcategory": "physics anomalies",
+    "keywords": [
+      "Foucault pendulum",
+      "stopped pendulum",
+      "physics mystery",
+      "energy loss",
+      "anomaly"
+    ],
+    "overlap_check_hash": "9e8013711d3776c3",
+    "why_this_can_go_viral": "A simple, elegant puzzle that feels like a ghost story for science lovers."
+  },
+  {
+    "unique_id": "science_0095_024_5fb52351c351ca23",
+    "title": "The Biolab That Bred a Flea That Jumps Through Human Skin",
+    "hook": "A parasitic insect engineered to burrow into flesh with a leap, causing internal infections.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "flea",
+      "skin burrowing",
+      "parasite",
+      "bioengineering",
+      "body horror"
+    ],
+    "overlap_check_hash": "5fb52351c351ca23",
+    "why_this_can_go_viral": "Triggers immediate, visceral disgust and fear of invasion."
+  },
+  {
+    "unique_id": "science_0095_025_38064e374ecd8a21",
+    "title": "The Scientific Fraud Who Convinced the World That Water Has Memory",
+    "hook": "Homeopathy's founding 'experiment' was a lie that persists today, influencing millions.",
+    "virality_score": 85,
+    "curiosity_gap_score": 88,
+    "darkness_score": 80,
+    "educational_value": 90,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "water memory",
+      "homeopathy fraud",
+      "Benveniste",
+      "pseudoscience",
+      "fake experiment"
+    ],
+    "overlap_check_hash": "38064e374ecd8a21",
+    "why_this_can_go_viral": "Exposes a massive, global belief as a lie, appealing to the audience's desire for truth over hype."
+  }
+]

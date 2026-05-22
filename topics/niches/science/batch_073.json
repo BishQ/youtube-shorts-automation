@@ -1,0 +1,359 @@
+[
+  {
+    "unique_id": "science_0073_002_383c29d2bea3913b",
+    "title": "The Banned Experiment That Tried to Make Humans Photosynthesize",
+    "hook": "In the 1970s, a rogue biologist injected chlorophyll into human volunteers, claiming they could survive on sunlight—with horrifying results.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 75,
+    "educational_value": 70,
+    "estimated_short_retention": 85,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "chlorophyll injection",
+      "human photosynthesis",
+      "forbidden biology",
+      "sunlight diet",
+      "rogue scientist"
+    ],
+    "overlap_check_hash": "383c29d2bea3913b",
+    "why_this_can_go_viral": "Combines body horror, pseudoscience, and a 'what if?' that viewers will immediately want to fact-check."
+  },
+  {
+    "unique_id": "science_0073_003_de7dac30b5483d0f",
+    "title": "The Lab That Leaked a Fungus That Turned Insects Into Zombies",
+    "hook": "A containment breach at a mycology lab unleashed a cordyceps strain that began infecting local ant colonies—then started targeting warm-blooded hosts.",
+    "virality_score": 91,
+    "curiosity_gap_score": 94,
+    "darkness_score": 85,
+    "educational_value": 75,
+    "estimated_short_retention": 90,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "zombie fungus",
+      "cordyceps outbreak",
+      "lab leak",
+      "mycology horror",
+      "fungal infection"
+    ],
+    "overlap_check_hash": "de7dac30b5483d0f",
+    "why_this_can_go_viral": "Taps into pandemic fears and the real-life horror of cordyceps, amplified by 'The Last of Us' cultural resonance."
+  },
+  {
+    "unique_id": "science_0073_004_80005a799fbc96a4",
+    "title": "The Neuroscientist Who Could Predict Crimes Before They Happened",
+    "hook": "Using fMRI scans, a researcher claimed he could spot a murderer's brain signature years before any crime was committed—and he was right 70% of the time.",
+    "virality_score": 85,
+    "curiosity_gap_score": 90,
+    "darkness_score": 80,
+    "educational_value": 85,
+    "estimated_short_retention": 82,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "predict crime",
+      "brain scan",
+      "fMRI prediction",
+      "precrime",
+      "neuroscience ethics"
+    ],
+    "overlap_check_hash": "80005a799fbc96a4",
+    "why_this_can_go_viral": "Raises unsettling questions about free will, surveillance, and whether we can be judged for future actions."
+  },
+  {
+    "unique_id": "science_0073_005_d0eb8a976af1928f",
+    "title": "The Fraud Scientist Who Faked a Paper That Claimed Humans Can Regrow Limbs",
+    "hook": "A respected researcher published 'proof' that a simple protein cocktail regenerated amputated fingers—until colleagues noticed the same mouse had two left feet.",
+    "virality_score": 80,
+    "curiosity_gap_score": 85,
+    "darkness_score": 55,
+    "educational_value": 78,
+    "estimated_short_retention": 78,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "regeneration fraud",
+      "fake limb regrowth",
+      "scientific misconduct",
+      "mouse photoshop",
+      "regenerative medicine hoax"
+    ],
+    "overlap_check_hash": "d0eb8a976af1928f",
+    "why_this_can_go_viral": "The specific image manipulation detail is shocking and meme-worthy, while the hope of limb regeneration hooks viewers emotionally."
+  },
+  {
+    "unique_id": "science_0073_007_a557632885e45b60",
+    "title": "The Quantum Paradox That Proves Time Doesn't Flow",
+    "hook": "A 2022 experiment using entangled photons showed that time might be an illusion—all moments exist simultaneously, and we just experience them in sequence.",
+    "virality_score": 84,
+    "curiosity_gap_score": 91,
+    "darkness_score": 45,
+    "educational_value": 95,
+    "estimated_short_retention": 79,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "block universe",
+      "time illusion",
+      "quantum entanglement",
+      "temporal paradox",
+      "eternalism"
+    ],
+    "overlap_check_hash": "a557632885e45b60",
+    "why_this_can_go_viral": "Challenges fundamental assumptions about reality, sparking deep existential discussion in comments."
+  },
+  {
+    "unique_id": "science_0073_008_471bb1d3b5fe69d5",
+    "title": "The Biologist Who Found a Virus That Lives in Boiling Acid",
+    "hook": "In a Yellowstone hot spring at pH 0 and 100°C, a biologist discovered a virus that not only survives but thrives—and it shares genes with human pathogens.",
+    "virality_score": 87,
+    "curiosity_gap_score": 90,
+    "darkness_score": 60,
+    "educational_value": 88,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "extremophile virus",
+      "acid virus",
+      "Yellowstone hot spring",
+      "hyperthermophile",
+      "virus survival"
+    ],
+    "overlap_check_hash": "471bb1d3b5fe69d5",
+    "why_this_can_go_viral": "The 'impossible survival' angle combined with potential human link creates dread and fascination."
+  },
+  {
+    "unique_id": "science_0073_009_557d275f770196cd",
+    "title": "The Forbidden Experiment That Wired a Man's Brain to a Computer in 1965",
+    "hook": "Decades before Neuralink, a US Navy scientist implanted electrodes into a human volunteer's visual cortex, making him 'see' patterns he'd never actually seen.",
+    "virality_score": 86,
+    "curiosity_gap_score": 92,
+    "darkness_score": 78,
+    "educational_value": 85,
+    "estimated_short_retention": 83,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "brain computer interface",
+      "1965 implant",
+      "visual cortex stimulation",
+      "Navy experiment",
+      "early neuralink"
+    ],
+    "overlap_check_hash": "557d275f770196cd",
+    "why_this_can_go_viral": "The secret history angle and comparison to modern tech (Neuralink) drives shareability and debate."
+  },
+  {
+    "unique_id": "science_0073_010_2afae45082c04232",
+    "title": "The Lab That Accidentally Created a Bacteria That Breaks Down Prosthetics",
+    "hook": "A routine sterilization error in a biomaterials lab spawned a microbe that devours surgical titanium and polyethylene—now it's contaminating hospitals.",
+    "virality_score": 82,
+    "curiosity_gap_score": 88,
+    "darkness_score": 72,
+    "educational_value": 76,
+    "estimated_short_retention": 80,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "metal eating bacteria",
+      "prosthetic destruction",
+      "hospital contamination",
+      "superbug",
+      "biomaterial failure"
+    ],
+    "overlap_check_hash": "2afae45082c04232",
+    "why_this_can_go_viral": "Personal stake—anyone with implants or joint replacements will be horrified and click immediately."
+  },
+  {
+    "unique_id": "science_0073_011_6499dd8b95f2178f",
+    "title": "The Neuroscientist Who Found That Your Brain Fires a 'Death Wave' After You Die",
+    "hook": "EEG recordings of dying rodents revealed a massive synchronized wave of electrical activity—a 'tsunami of consciousness' that may explain near-death experiences.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 90,
+    "educational_value": 82,
+    "estimated_short_retention": 88,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "death wave",
+      "brain after death",
+      "near death experience",
+      "EEG death",
+      "terminal lucidity"
+    ],
+    "overlap_check_hash": "6499dd8b95f2178f",
+    "why_this_can_go_viral": "Universally relevant, deeply existential, and scientifically mysterious—perfect for dark curiosity."
+  },
+  {
+    "unique_id": "science_0073_013_a16946a1549eace6",
+    "title": "The Chemist Who Mixed Sugar and Acid and Created a New Form of Carbon",
+    "hook": "In 1983, a lab technician accidentally torched sugar with sulfuric acid—and produced a mysterious black foam that turned out to be an unknown carbon allotrope.",
+    "virality_score": 75,
+    "curiosity_gap_score": 80,
+    "darkness_score": 40,
+    "educational_value": 85,
+    "estimated_short_retention": 72,
+    "niche_name": "science",
+    "subcategory": "chemistry disasters",
+    "keywords": [
+      "accidental discovery",
+      "new carbon",
+      "sugar acid reaction",
+      "carbon allotrope",
+      "black foam"
+    ],
+    "overlap_check_hash": "a16946a1549eace6",
+    "why_this_can_go_viral": "The 'household chemicals create breakthrough' narrative is extremely relatable and surprising."
+  },
+  {
+    "unique_id": "science_0073_014_e849e74db398fd3a",
+    "title": "The Biologist Who Found a Parasite That Makes Its Host Fearlessness",
+    "hook": "A single-celled parasite called Toxoplasma rewires rodent brains to erase fear of cats—and infects billions of humans, possibly altering our own risk-taking behavior.",
+    "virality_score": 90,
+    "curiosity_gap_score": 95,
+    "darkness_score": 82,
+    "educational_value": 88,
+    "estimated_short_retention": 87,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "toxoplasma",
+      "mind control parasite",
+      "fear erasure",
+      "cat parasite",
+      "behavior modification"
+    ],
+    "overlap_check_hash": "e849e74db398fd3a",
+    "why_this_can_go_viral": "The 'parasite controlling human behavior' angle is inherently viral, especially with the 'you might already be infected' twist."
+  },
+  {
+    "unique_id": "science_0073_015_ac08925dac094e53",
+    "title": "The Fraud Scientist Who Faked a Paper That Claimed to Teleport a Frog",
+    "hook": "In 1975, a biophysicist published photos of a frog 'disappearing and reappearing' inside a magnetic field—the images were later found to be double-exposed film.",
+    "virality_score": 77,
+    "curiosity_gap_score": 84,
+    "darkness_score": 48,
+    "educational_value": 70,
+    "estimated_short_retention": 75,
+    "niche_name": "science",
+    "subcategory": "scientific fraud",
+    "keywords": [
+      "teleportation fraud",
+      "frog teleport",
+      "magnetic teleport hoax",
+      "scientific scam",
+      "1975 fraud"
+    ],
+    "overlap_check_hash": "ac08925dac094e53",
+    "why_this_can_go_viral": "The absurdity of a fake frog teleportation study is perfect for short-form shock and mockery."
+  },
+  {
+    "unique_id": "science_0073_016_d03f8b46c034e31a",
+    "title": "The Lab That Leaked a Chemical That Made People Forget Their Own Names",
+    "hook": "A leak of the experimental amnestic agent BZ at a US Army lab caused 12 researchers to lose all autobiographical memory for 72 hours—some permanently.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 88,
+    "educational_value": 78,
+    "estimated_short_retention": 86,
+    "niche_name": "science",
+    "subcategory": "lab catastrophes",
+    "keywords": [
+      "BZ gas",
+      "memory loss",
+      "army lab leak",
+      "amnestic agent",
+      "chemical accident"
+    ],
+    "overlap_check_hash": "d03f8b46c034e31a",
+    "why_this_can_go_viral": "The horror of losing your identity taps into primal fear, and the secret government lab angle adds conspiracy allure."
+  },
+  {
+    "unique_id": "science_0073_018_bb086670ed1bb24b",
+    "title": "The Banned Experiment That Tried to Make a Dog Live Forever",
+    "hook": "A Soviet scientist in the 1950s attempted to keep a dog's head alive by connecting its blood supply to a living donor—the head survived for 29 days.",
+    "virality_score": 92,
+    "curiosity_gap_score": 96,
+    "darkness_score": 95,
+    "educational_value": 74,
+    "estimated_short_retention": 91,
+    "niche_name": "science",
+    "subcategory": "forbidden experiments",
+    "keywords": [
+      "dog head transplant",
+      "Soviet experiment",
+      "head survival",
+      "blood supply",
+      "immortality attempt"
+    ],
+    "overlap_check_hash": "bb086670ed1bb24b",
+    "why_this_can_go_viral": "Extreme macabre curiosity—the image of a living severed head is unforgettable and triggers immediate horror-sharing."
+  },
+  {
+    "unique_id": "science_0073_019_dadcdec2dc1c613e",
+    "title": "The Neuroscientist Who Found That Your Brain Secretly Hates Your Partner",
+    "hook": "fMRI scans of long-term couples revealed that when one partner succeeds, the other's brain shows activity in regions associated with envy—not joy.",
+    "virality_score": 86,
+    "curiosity_gap_score": 91,
+    "darkness_score": 72,
+    "educational_value": 80,
+    "estimated_short_retention": 84,
+    "niche_name": "science",
+    "subcategory": "neuroscience dark truths",
+    "keywords": [
+      "brain envy",
+      "partner jealousy",
+      "fMRI relationship",
+      "hidden resentment",
+      "neuroscience of love"
+    ],
+    "overlap_check_hash": "dadcdec2dc1c613e",
+    "why_this_can_go_viral": "Highly relatable and uncomfortable truth about human relationships—perfect for provoking comments and debate."
+  },
+  {
+    "unique_id": "science_0073_022_6fdca15ece0bf3ef",
+    "title": "The Biologist Who Found a Creature That Lives in Your Eyelashes and Eats Dead Skin",
+    "hook": "Demodex mites live on every human face, mating at night and laying eggs in your follicles—you can never get rid of them, and they're growing as you watch this.",
+    "virality_score": 91,
+    "curiosity_gap_score": 93,
+    "darkness_score": 78,
+    "educational_value": 85,
+    "estimated_short_retention": 89,
+    "niche_name": "science",
+    "subcategory": "biological horrors",
+    "keywords": [
+      "eyelash mites",
+      "demodex",
+      "face parasites",
+      "skin mites",
+      "human microbiome horror"
+    ],
+    "overlap_check_hash": "6fdca15ece0bf3ef",
+    "why_this_can_go_viral": "The 'you have them right now' immediacy creates intense disgust and compels viewers to share to freak out friends."
+  },
+  {
+    "unique_id": "science_0073_025_a1aa058ff2cfb14c",
+    "title": "The Quantum Paradox That Shows Observing Something Can Destroy It",
+    "hook": "In the quantum Zeno effect, simply watching an unstable particle keeps it from decaying—but the instant you look away, it vanishes forever.",
+    "virality_score": 79,
+    "curiosity_gap_score": 85,
+    "darkness_score": 42,
+    "educational_value": 88,
+    "estimated_short_retention": 77,
+    "niche_name": "science",
+    "subcategory": "quantum paradoxes",
+    "keywords": [
+      "quantum Zeno effect",
+      "observation destroys",
+      "watched particle",
+      "quantum freezing",
+      "measurement problem"
+    ],
+    "overlap_check_hash": "a1aa058ff2cfb14c",
+    "why_this_can_go_viral": "The 'look away and it dies' metaphor is simple yet profound, easily adapted into memes and philosophical discussion."
+  }
+]

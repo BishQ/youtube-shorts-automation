@@ -1,0 +1,443 @@
+[
+  {
+    "unique_id": "health_0172_001_5d17b16b5b6e7eaa",
+    "title": "The Doctor Who Gave Children Placebo Surgery—Without Consent",
+    "hook": "An orthopedic surgeon performed fake operations on kids, cutting them open and sewing them back up without fixing anything—and the medical board called it 'research.'",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 95,
+    "educational_value": 75,
+    "estimated_short_retention": 85,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "placebo surgery",
+      "fake operation",
+      "children surgery",
+      "unethical doctor",
+      "medical experiments"
+    ],
+    "overlap_check_hash": "5d17b16b5b6e7eaa",
+    "why_this_can_go_viral": "Combines medical betrayal, innocent victims, and the shocking concept of 'fake surgery'—a visceral outrage trigger."
+  },
+  {
+    "unique_id": "health_0172_003_4c4796c12ba36d37",
+    "title": "The Hospital That Used Radioactive Bed Sheets—Patients Glowed at Night",
+    "hook": "A 1950s hospital laundered sheets with radium-laced water to 'sterilize' them. Patients woke up glowing green. The hospital called it a 'side effect.'",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 70,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "radioactive sheets",
+      "radium hospital",
+      "glowing patients",
+      "1950s medicine",
+      "radiation poisoning"
+    ],
+    "overlap_check_hash": "4c4796c12ba36d37",
+    "why_this_can_go_viral": "Visually striking (glowing patients) and absurdly horrifying—perfect for short-form visceral shock value."
+  },
+  {
+    "unique_id": "health_0172_005_18c8486d7501cf30",
+    "title": "The Dentist Who Drilled Cavities Into Healthy Teeth—Then Billed Insurance",
+    "hook": "A Michigan dentist was caught intentionally drilling holes in patients' teeth just to fill them later—he did it over 1,200 times before anyone noticed.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 89,
+    "educational_value": 72,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "dentist fraud",
+      "false cavities",
+      "insurance scam",
+      "drilling healthy teeth",
+      "dental horror"
+    ],
+    "overlap_check_hash": "18c8486d7501cf30",
+    "why_this_can_go_viral": "Dental anxiety is universal—this story confirms the darkest suspicion many have about dentists, driving outrage and sharing."
+  },
+  {
+    "unique_id": "health_0172_006_7cd1d29d950609f6",
+    "title": "The 'Calcium' Supplement That Was Pure Ground Chicken Bones—With Feathers",
+    "hook": "A popular calcium supplement sold in 300 pharmacies was tested and found to contain crushed chicken bones, beaks, and feathers—none of it digestible.",
+    "virality_score": 79,
+    "curiosity_gap_score": 84,
+    "darkness_score": 82,
+    "educational_value": 68,
+    "estimated_short_retention": 78,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "calcium supplement",
+      "chicken bones",
+      "supplement fraud",
+      "contaminated pills",
+      "fake vitamins"
+    ],
+    "overlap_check_hash": "7cd1d29d950609f6",
+    "why_this_can_go_viral": "Gross-out factor + widespread consumer vulnerability—everyone who takes supplements will reconsider their purchase."
+  },
+  {
+    "unique_id": "health_0172_007_316ec042cb64da4f",
+    "title": "The Government That Sprayed Hepatitis B on Schoolchildren—Called It 'Immunization'",
+    "hook": "In the 1990s, a nation tested a new hepatitis B vaccine by spraying it into children's mouths without parental consent—hundreds developed liver damage.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 94,
+    "educational_value": 76,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "hepatitis B",
+      "mass vaccination",
+      "children experiment",
+      "government vaccine",
+      "oral spray vaccine"
+    ],
+    "overlap_check_hash": "316ec042cb64da4f",
+    "why_this_can_go_viral": "Children + forced medical experiments + government secrecy is a combustion engine for viral outrage and calls for justice."
+  },
+  {
+    "unique_id": "health_0172_008_be213db93c484095",
+    "title": "The Drug Company That Knew Its Birth Control Caused Blindness—And Sold It Anyway",
+    "hook": "Internal documents revealed executives knew their pill triggered optic neuritis and blindness in women, but decided profits outweighed the risk.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 77,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "birth control blindness",
+      "optic neuritis",
+      "pharma cover-up",
+      "women's health",
+      "pill side effects"
+    ],
+    "overlap_check_hash": "be213db93c484095",
+    "why_this_can_go_viral": "Affects half the population directly; hidden corporate malice + irreversible harm = massive shareability among women."
+  },
+  {
+    "unique_id": "health_0172_009_3ac7a0064f822a41",
+    "title": "The Chemotherapy That Melted Patients' Organs From the Inside",
+    "hook": "A 1990s chemo drug caused a rare reaction where internal organs turned to liquid—patients died within hours. The hospital kept using it for 4 more years.",
+    "virality_score": 90,
+    "curiosity_gap_score": 93,
+    "darkness_score": 96,
+    "educational_value": 71,
+    "estimated_short_retention": 89,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "chemotherapy death",
+      "organ melt",
+      "cancer drug horror",
+      "medical malpractice",
+      "fatal chemo"
+    ],
+    "overlap_check_hash": "3ac7a0064f822a41",
+    "why_this_can_go_viral": "Extremely visceral and horrifying imagery ('organs turned to liquid') combined with cancer fear triggers strong emotional reactions and shares."
+  },
+  {
+    "unique_id": "health_0172_011_d3bfd434fe88c9da",
+    "title": "The Clinic That Sold 'IV Vitamin Therapy'—It Was Industrial Bleach",
+    "hook": "A luxury wellness clinic in California was giving patients intravenous 'vitamin C' that was actually diluted industrial bleach—four people died.",
+    "virality_score": 86,
+    "curiosity_gap_score": 90,
+    "darkness_score": 92,
+    "educational_value": 73,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "IV vitamin scam",
+      "bleach injection",
+      "wellness clinic death",
+      "fake IV therapy",
+      "holistic fraud"
+    ],
+    "overlap_check_hash": "d3bfd434fe88c9da",
+    "why_this_can_go_viral": "Wellness industry trust is exploited—wealthy people paying for health and getting poison is a dark irony that resonates deeply."
+  },
+  {
+    "unique_id": "health_0172_012_6aa9a033128f8915",
+    "title": "The Government That Labeled a Fatal Disease as 'Stress'—While 15,000 Died",
+    "hook": "Workers at a nuclear plant developed a rare cancer, but the government insisted it was 'job stress' and denied compensation—for 30 years.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 90,
+    "educational_value": 79,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "nuclear plant cancer",
+      "government denial",
+      "stress diagnosis fake",
+      "radiation cover-up",
+      "worker deaths"
+    ],
+    "overlap_check_hash": "6aa9a033128f8915",
+    "why_this_can_go_viral": "Classic 'they knew and lied' narrative with a clear villain (government/corporation) and innocent victims—drives anger and sharing."
+  },
+  {
+    "unique_id": "health_0172_013_bf4caad381169a3c",
+    "title": "The Antidepressant That Caused Users to Sleepwalk—And Commit Murder",
+    "hook": "A widely prescribed SSRI was linked to somnambulistic homicides—patients killed family members while asleep, with no memory. The drug remained on the market.",
+    "virality_score": 92,
+    "curiosity_gap_score": 95,
+    "darkness_score": 97,
+    "educational_value": 80,
+    "estimated_short_retention": 91,
+    "niche_name": "health",
+    "subcategory": "dangerous approved drugs",
+    "keywords": [
+      "sleepwalking murder",
+      "antidepressant side effects",
+      "SSRI violence",
+      "sleep homicide",
+      "drug defense"
+    ],
+    "overlap_check_hash": "bf4caad381169a3c",
+    "why_this_can_go_viral": "Combines true crime, pharmaceutical danger, and the ultimate loss of control—perfect for morbid curiosity engines and debate."
+  },
+  {
+    "unique_id": "health_0172_014_1cc16237bb6f0d87",
+    "title": "The 'Detox Tea' That Caused Kidney Failure in 24 Hours",
+    "hook": "A Instagram-famous detox tea contained a Chinese herb that rapidly crystallizes in kidneys—users ended up on dialysis after one cup.",
+    "virality_score": 80,
+    "curiosity_gap_score": 84,
+    "darkness_score": 85,
+    "educational_value": 72,
+    "estimated_short_retention": 79,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "detox tea danger",
+      "kidney failure",
+      "herbal tea poison",
+      "Instagram wellness scam",
+      "dialysis"
+    ],
+    "overlap_check_hash": "1cc16237bb6f0d87",
+    "why_this_can_go_viral": "Directly targets influencer wellness culture; young women are the primary demographic and will share this as a warning."
+  },
+  {
+    "unique_id": "health_0172_015_b28dacf74851bf2a",
+    "title": "The Surgeon Who Left Sponges Inside Patients—100 Times, On Purpose",
+    "hook": "A hospital discovered a surgeon was deliberately leaving surgical sponges in patients' abdomens to create repeat business—he did it for a decade.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 70,
+    "estimated_short_retention": 84,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "sponge left in body",
+      "surgeon fraud",
+      "repeat surgery scam",
+      "medical malpractice",
+      "intentional error"
+    ],
+    "overlap_check_hash": "b28dacf74851bf2a",
+    "why_this_can_go_viral": "The idea of a doctor intentionally harming patients for profit is one of the most universally rage-inducing concepts possible."
+  },
+  {
+    "unique_id": "health_0172_016_67e057c5bb6f04dc",
+    "title": "The Drug Company That Paid Doctors to Diagnose Healthy Kids With ADHD",
+    "hook": "Pharmaceutical reps gave pediatricians bonuses for every new ADHD diagnosis—children as young as 3 were put on amphetamines with no evaluation.",
+    "virality_score": 87,
+    "curiosity_gap_score": 91,
+    "darkness_score": 93,
+    "educational_value": 82,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "ADHD fraud",
+      "pharma kickbacks",
+      "children on drugs",
+      "false diagnosis",
+      "amphetamines kids"
+    ],
+    "overlap_check_hash": "67e057c5bb6f04dc",
+    "why_this_can_go_viral": "Angry parents + corporate greed + vulnerable children is a guaranteed viral cocktail that sparks debate and shares."
+  },
+  {
+    "unique_id": "health_0172_017_d64109ee7c378ebb",
+    "title": "The Hospital That Reused Syringes on 10,000 Patients—And Caused an Epidemic",
+    "hook": "A rural hospital reused contaminated syringes for years, infecting thousands with hepatitis C—the outbreak was blamed on 'bad drugs' by the community.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 89,
+    "educational_value": 76,
+    "estimated_short_retention": 81,
+    "niche_name": "health",
+    "subcategory": "healthcare crimes",
+    "keywords": [
+      "syringe reuse",
+      "hepatitis outbreak",
+      "hospital infection",
+      "medical negligence",
+      "contaminated needles"
+    ],
+    "overlap_check_hash": "d64109ee7c378ebb",
+    "why_this_can_go_viral": "Trust in hospitals is foundational—violating it with dirty needles triggers primal disgust and fear of medical settings."
+  },
+  {
+    "unique_id": "health_0172_018_7904d89239c21071",
+    "title": "The 'All-Natural' Painkiller That Contained Ground Opium Poppies—Unlabeled",
+    "hook": "A popular herbal pain relief supplement contained active opium alkaloids. Users showed up in ERs with respiratory failure—and no idea why.",
+    "virality_score": 81,
+    "curiosity_gap_score": 85,
+    "darkness_score": 86,
+    "educational_value": 74,
+    "estimated_short_retention": 80,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "opium supplement",
+      "herbal painkiller",
+      "unlabeled opioid",
+      "ER overdose",
+      "natural drug fraud"
+    ],
+    "overlap_check_hash": "7904d89239c21071",
+    "why_this_can_go_viral": "The 'natural = safe' myth being shattered with hard evidence of hidden opioids is a high-concern, shareable warning."
+  },
+  {
+    "unique_id": "health_0172_019_462035d872d47bee",
+    "title": "The Government That Tested Anthrax on Prisoners—Disguised as Flu Shots",
+    "hook": "In the 1950s, US researchers injected anthrax into prisoners under the guise of a 'new flu vaccine.' Dozens developed severe infections and died.",
+    "virality_score": 89,
+    "curiosity_gap_score": 93,
+    "darkness_score": 95,
+    "educational_value": 78,
+    "estimated_short_retention": 88,
+    "niche_name": "health",
+    "subcategory": "patient experiments",
+    "keywords": [
+      "anthrax experiment",
+      "prisoner testing",
+      "bioethics horror",
+      "1950s medical experiments",
+      "flu shot cover"
+    ],
+    "overlap_check_hash": "462035d872d47bee",
+    "why_this_can_go_viral": "Combines government conspiracy, vulnerable populations, and bioweapon-level horror—these topics explode in short form."
+  },
+  {
+    "unique_id": "health_0172_020_be8b496ce576c85c",
+    "title": "The 'Weight Loss' Surgery That Replaced Stomachs With Pipes—Literally",
+    "hook": "A 1970s bariatric procedure removed patients' entire stomachs and replaced them with plastic tubes. All seven patients died within 6 months.",
+    "virality_score": 84,
+    "curiosity_gap_score": 88,
+    "darkness_score": 91,
+    "educational_value": 69,
+    "estimated_short_retention": 86,
+    "niche_name": "health",
+    "subcategory": "suppressed cures",
+    "keywords": [
+      "failed weight loss surgery",
+      "plastic stomach tube",
+      "1970s bariatric",
+      "experimental surgery death",
+      "obesity procedure"
+    ],
+    "overlap_check_hash": "be8b496ce576c85c",
+    "why_this_can_go_viral": "Extreme medical failure + grotesque concept = irresistible dark curiosity. Everyone who's considered weight loss surgery will pause."
+  },
+  {
+    "unique_id": "health_0172_021_2d074260aac799ec",
+    "title": "The Dentist Who Used Super Glue to Fix Crowns—Patients Jaws Locked Forever",
+    "hook": "A dentist used industrial-grade cyanoacrylate adhesive to attach crowns, bonding patients' jaws shut. Several required surgery to reopen their mouths.",
+    "virality_score": 82,
+    "curiosity_gap_score": 86,
+    "darkness_score": 88,
+    "educational_value": 71,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "medical scandals",
+    "keywords": [
+      "super glue dentist",
+      "jaw locked shut",
+      "dental glue disaster",
+      "crown scam",
+      "botched dentistry"
+    ],
+    "overlap_check_hash": "2d074260aac799ec",
+    "why_this_can_go_viral": "Universal dental fear + absurdly incompetent malpractice = shareable shock content that drives engagement in dental anxiety communities."
+  },
+  {
+    "unique_id": "health_0172_022_c56eca88fedca97e",
+    "title": "The Pharmaceutical CEO Who Sold Fake Cancer Cures—While His Wife Had Cancer",
+    "hook": "A drug company executive marketed an unproven 'cancer therapy' for $40,000 a dose—while secretly giving his own wife FDA-approved treatment.",
+    "virality_score": 88,
+    "curiosity_gap_score": 92,
+    "darkness_score": 94,
+    "educational_value": 77,
+    "estimated_short_retention": 87,
+    "niche_name": "health",
+    "subcategory": "pharmaceutical corruption",
+    "keywords": [
+      "fake cancer cure",
+      "pharma CEO fraud",
+      "hypocrite executive",
+      "scam treatment",
+      "alternative medicine lie"
+    ],
+    "overlap_check_hash": "c56eca88fedca97e",
+    "why_this_can_go_viral": "Perfect villain—hypocritical CEO profiting from dying people while privately knowing the truth. Moral outrage drives maximum sharing."
+  },
+  {
+    "unique_id": "health_0172_024_634b72300b6ed7ce",
+    "title": "The 'Oxygen Therapy' That Pumped Pure Ozone Into Blood—Patients Bled From Every Pore",
+    "hook": "A alternative clinic offered 'ozone blood therapy' for autoimmune disease—patients experienced massive hemorrhaging from eyes, nose, and skin.",
+    "virality_score": 83,
+    "curiosity_gap_score": 87,
+    "darkness_score": 90,
+    "educational_value": 73,
+    "estimated_short_retention": 82,
+    "niche_name": "health",
+    "subcategory": "toxic product cover-ups",
+    "keywords": [
+      "ozone therapy danger",
+      "alternative medicine death",
+      "bleeding from pores",
+      "autoimmune scam",
+      "blood therapy horror"
+    ],
+    "overlap_check_hash": "634b72300b6ed7ce",
+    "why_this_can_go_viral": "Visceral, grotesque imagery ('bled from every pore') + alternative medicine skepticism = viral creepy medical content."
+  },
+  {
+    "unique_id": "health_0172_025_49c893e294182e69",
+    "title": "The Government That Blamed a Mystery Illness on 'Mass Hysteria'—It Was Poisoned Rice",
+    "hook": "When 2,000 villagers died from a sudden neurological disease, authorities called it 'psychosomatic.' It took 5 years to find the arsenic in the rice supply.",
+    "virality_score": 85,
+    "curiosity_gap_score": 89,
+    "darkness_score": 91,
+    "educational_value": 80,
+    "estimated_short_retention": 83,
+    "niche_name": "health",
+    "subcategory": "disease cover-ups",
+    "keywords": [
+      "mass hysteria cover-up",
+      "arsenic poisoning",
+      "village deaths",
+      "government denial",
+      "neurological disease"
+    ],
+    "overlap_check_hash": "49c893e294182e69",
+    "why_this_can_go_viral": "Classic 'gaslighting by authorities' narrative + real physical harm + environmental poisoning—a triple threat for sharing."
+  }
+]
