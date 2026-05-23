@@ -39,6 +39,7 @@ from shorts_pipeline.planner.schema import NarrationPlan  # noqa: E402
 
 # Reuse topic loading + LLM generation from make_scripts.py
 from make_scripts import (  # noqa: E402
+    _build_topic_prompt,
     _slugify,
     generate_plan_for_topic,
     load_niche,
@@ -265,28 +266,37 @@ def main() -> int:
         if idx < args.start:
             continue
 
-        archive_name = f"{idx:03d}_{_slugify(topic)}"
+        # Topic can be a plain string or a rich dict (from niche_progress batches).
+        # Use the title for slug/key/display; pass the richer prompt to the planner.
+        if isinstance(topic, dict):
+            topic_text = topic["title"]
+            topic_for_prompt = _build_topic_prompt(topic)
+        else:
+            topic_text = topic
+            topic_for_prompt = topic
+
+        archive_name = f"{idx:03d}_{_slugify(topic_text)}"
 
         if not args.allow_overlap:
-            loose = normalize_figure_key_loose(topic)
+            loose = normalize_figure_key_loose(topic_text)
             if loose in batch_seen:
                 print(
                     f"[{idx:03d}] skip (duplicate in this batch, line {batch_seen[loose]}): "
-                    f"{topic[:60]}"
+                    f"{topic_text[:60]}"
                 )
                 skipped_overlap += 1
                 continue
             batch_seen[loose] = idx
 
         job_dir = resolve_job_dir(
-            jobs_root, topic, overlap_index, allow_overlap=args.allow_overlap
+            jobs_root, topic_text, overlap_index, allow_overlap=args.allow_overlap
         )
         plan_path = job_dir / "plan.json"
         wav_path = job_dir / "narration.wav"
 
         if (
             not args.allow_overlap
-            and overlap_index.find(topic) is not None
+            and overlap_index.find(topic_text) is not None
             and do_script
             and do_tts
             and plan_path.is_file()
@@ -297,20 +307,20 @@ def main() -> int:
                 if job_dir.is_relative_to(jobs_root)
                 else job_dir
             )
-            print(f"[{idx:03d}] skip (already prepared): {topic[:50]}  ->  {rel}")
+            print(f"[{idx:03d}] skip (already prepared): {topic_text[:50]}  ->  {rel}")
             skipped_overlap += 1
             continue
 
         if do_script and do_tts and plan_path.is_file() and _wav_ok(wav_path):
-            print(f"[{idx:03d}] skip (plan + wav): {topic[:70]}")
+            print(f"[{idx:03d}] skip (plan + wav): {topic_text[:70]}")
             if not args.allow_overlap:
-                overlap_index.register(topic, job_dir)
+                overlap_index.register(topic_text, job_dir)
             continue
         if args.tts_only and not plan_path.is_file():
-            print(f"[{idx:03d}] skip (no plan.json): {topic[:70]}", file=sys.stderr)
+            print(f"[{idx:03d}] skip (no plan.json): {topic_text[:70]}", file=sys.stderr)
             continue
 
-        print(f"[{idx:03d}] {topic[:70]}  ->  {job_dir.name}/")
+        print(f"[{idx:03d}] {topic_text[:70]}  ->  {job_dir.name}/")
         t0 = time.time()
         job_dir.mkdir(parents=True, exist_ok=True)
 
@@ -321,7 +331,7 @@ def main() -> int:
                     plan_dict = _load_plan_dict(plan_path, settings)
                 else:
                     print("  plan: generating…")
-                    plan_dict = generate_plan_for_topic(settings, niche_sys, niche_user_fn, topic, niche=args.niche)
+                    plan_dict = generate_plan_for_topic(settings, niche_sys, niche_user_fn, topic_for_prompt, niche=args.niche)
                     plan_dict["video_mode"] = args.mode
                     plan_dict["niche"] = args.niche
                     plan_path.write_text(
@@ -351,7 +361,7 @@ def main() -> int:
             continue
 
         if not args.allow_overlap:
-            fig = (plan_dict.get("historical_figure") or topic).strip()
+            fig = (plan_dict.get("historical_figure") or topic_text).strip()
             overlap_index.register(fig, job_dir)
 
         print(f"  done ({time.time() - t0:.1f}s)")
