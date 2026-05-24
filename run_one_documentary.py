@@ -14,7 +14,7 @@ Optional:
     python run_one_documentary.py --batch batch_002          # use a different batch
 
 Prerequisites (must all be running BEFORE you start this):
-    - Ollama on http://127.0.0.1:11434  (planner LLM)
+    - vLLM on http://127.0.0.1:8000/v1  (planner LLM)
     - ComfyUI on http://127.0.0.1:8188  (Qwen image + Wan I2V workflows)
     - Kokoro TTS model files in the expected path (settings.kokoro_*)
     - BGM file present (assets/bgm.wav or extra tools/bgm.mp3)

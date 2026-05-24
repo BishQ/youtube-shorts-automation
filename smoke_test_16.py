@@ -1,6 +1,6 @@
 """Smoke test: ONE FULL VIDEO per niche (16 videos total).
 
-PREP phase (light, can run anywhere with Ollama):
+PREP phase (light, can run anywhere with vLLM):
     prep_jobs.py <niche> <topics/niches/<niche>> --limit 1 --script-only
     → writes data/jobs/<slug>-<id>/plan.json
 

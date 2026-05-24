@@ -2809,9 +2809,10 @@ async function refreshGeminiUsage(){
   try{
     const u = await api('/api/gemini/usage');
     const pb = (u.planner_backend || '').toLowerCase();
-    if(pb === 'ollama'){
-      el.textContent = 'Planner: ollama removed — use gemini or hybrid in .env';
-      el.title = 'Set SHORTS_PLANNER_BACKEND=gemini or hybrid and restart the server';
+    if(pb === 'vllm' || pb === 'local' || pb === 'auto' || pb === 'ollama'){
+      const model = u.local_llm_model || '—';
+      el.textContent = 'Planner: vLLM · ' + model;
+      el.title = [u.note || '', u.local_llm_base_url || ''].filter(Boolean).join('\n');
       return;
     }
     const hybrid = pb === 'hybrid';

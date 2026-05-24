@@ -28,8 +28,8 @@ Examples:
     # Ad-hoc list:
     python make_scripts.py crime topics.txt --limit 10
 
-    # Local Qwen 3.6 27B via Ollama (no cloud API):
-    ollama pull qwen3.6:27b
+    # Local Qwen via vLLM (no cloud API):
+    python -m vllm.entrypoints.openai.api_server --model Qwen/Qwen3-32B --port 8000
     python make_scripts.py history test_topics.txt --backend local --limit 3
     # Or: set SHORTS_LOCAL_LLM_ONLY=1 in .env
 """
@@ -248,7 +248,7 @@ _MAX_RETRIES = 10
 
 
 # ────────────────────────────────────────────────────────────────────────────
-# Local Qwen (Ollama / OpenAI-compatible) — messages list with correction retries
+# Local Qwen (vLLM / OpenAI-compatible) — messages list with correction retries
 # ────────────────────────────────────────────────────────────────────────────
 
 _THINK_BLOCK_RE = re.compile(
@@ -291,7 +291,7 @@ def local_qwen_generate_with_retry(settings: Settings, system_prompt: str,
             except httpx.RequestError as e:
                 raise RuntimeError(
                     f"Local LLM connection error at {settings.local_llm_base_url}: {e}. "
-                    "Is Ollama running? Try: ollama serve"
+                    "Is vLLM running? Try: python -m vllm.entrypoints.openai.api_server --model Qwen/Qwen3-32B --port 8000"
                 ) from e
         if r.status_code >= 400:
             raise RuntimeError(
@@ -383,13 +383,13 @@ def generate_plan_for_topic(settings: Settings, niche_sys: str, niche_user_fn,
     full_system_prompt = budget_block + "\n" + niche_sys
     full_user_prompt = base_user_prompt + budget_block + _SCHEMA_PATCH
 
-    # Backend selection: only local Qwen via Ollama is supported.  The
+    # Backend selection: only local Qwen via vLLM is supported.  The
     # `backend` arg is preserved for CLI back-compat; any non-local value
     # is treated as local with a warning.
     backend = (backend or "local").lower().strip()
-    if backend not in ("local", "auto", "ollama"):
+    if backend not in ("local", "auto", "vllm", "ollama"):
         print(
-            f"  [warn] --backend {backend!r} is no longer supported; using local Ollama",
+            f"  [warn] --backend {backend!r} is no longer supported; using local vLLM",
             file=sys.stderr,
         )
 
@@ -432,9 +432,9 @@ def main() -> int:
                     help="normal = 59-60 s TTS 1×; long = same script rendered at 0.9× TTS + 3 s outro")
     ap.add_argument(
         "--backend",
-        choices=["local", "auto", "ollama"],
+        choices=["local", "auto", "vllm", "ollama"],
         default="local",
-        help="planner backend (only local Ollama Qwen 3.6 27B is supported)",
+        help="planner backend (only local vLLM Qwen is supported)",
     )
     args = ap.parse_args()
 

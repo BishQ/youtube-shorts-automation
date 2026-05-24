@@ -18,15 +18,15 @@ class Settings(BaseSettings):
     data_dir: Path = Field(default=Path("./data"))
 
     # ── Planner backend selector ─────────────────────────────────────────────
-    # Only local Ollama (OpenAI-compatible /v1) is supported.  Kept for back-
-    # compat: accepted values are "ollama" / "local" / "auto" — anything else
-    # raises in build_planner_client.
-    planner_backend: str = "ollama"
+    # Only local vLLM (OpenAI-compatible /v1) is supported.  Kept for back-
+    # compat: accepted values are "vllm" / "local" / "auto" / "ollama" —
+    # anything else raises in build_planner_client.
+    planner_backend: str = "vllm"
 
-    # ── Local LLM (Ollama default: http://127.0.0.1:11434/v1) ────────────────
-    # Default model: qwen3.6:27b (pull with `ollama pull qwen3.6:27b`).
-    local_llm_base_url: str = "http://127.0.0.1:11434/v1"
-    local_llm_model: str = "qwen3.6:27b"
+    # ── Local LLM (vLLM default: http://127.0.0.1:8000/v1) ───────────────────
+    # Default model must match vLLM --served-model-name (HuggingFace id).
+    local_llm_base_url: str = "http://127.0.0.1:8000/v1"
+    local_llm_model: str = "Qwen/Qwen3-32B"
     local_llm_timeout_s: float = 600.0
     local_llm_temperature: float = 0.4
     local_llm_max_tokens: int = 8000

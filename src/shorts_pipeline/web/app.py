@@ -264,7 +264,7 @@ def health() -> dict[str, str]:
 def gemini_usage() -> dict[str, object]:
     """Legacy endpoint — kept so the UI keeps functioning.
 
-    The pipeline now runs entirely on local Ollama; there is no remote
+    The pipeline now runs entirely on local vLLM; there is no remote
     quota to report.  Returns a minimal status payload.
     """
     s = _settings()
@@ -272,7 +272,7 @@ def gemini_usage() -> dict[str, object]:
         "planner_backend": s.planner_backend,
         "local_llm_model": s.local_llm_model,
         "local_llm_base_url": s.local_llm_base_url,
-        "note": "Pipeline runs on local Ollama — no remote rate limits.",
+        "note": "Pipeline runs on local vLLM — no remote rate limits.",
     }
 
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Pod bootstrap — RunPod / Spheron / any Linux GPU pod.
 #
-# One-shot setup: ComfyUI + custom nodes + all model weights + Ollama + Qwen3 LLM
+# One-shot setup: ComfyUI + custom nodes + all model weights + vLLM + Qwen3 LLM
 # + this repo + Python deps + smoke-test launch. Idempotent: re-running skips
 # anything already installed or downloaded.
 #
@@ -13,7 +13,9 @@
 # Env overrides (set BEFORE running):
 #   REPO_URL=https://github.com/<USER>/<REPO>.git   # required if no local clone
 #   GIT_BRANCH=main
-#   OLLAMA_MODEL=qwen3.6:27b                          # model tag for Ollama pull
+#   VLLM_MODEL=Qwen/Qwen3-32B                         # HuggingFace model for vLLM
+#   VLLM_SERVED_NAME=Qwen/Qwen3-32B                   # must match SHORTS_LOCAL_LLM_MODEL
+#   VLLM_PORT=8000
 #   SKIP_MODELS=0                                   # 1 = skip huggingface downloads
 #   SKIP_SMOKE=0                                    # 1 = setup only, don't launch render
 #   NICHES=history,crime,military                   # subset for smoke test
@@ -104,25 +106,35 @@ if [ "${SKIP_MODELS:-0}" != "1" ]; then
   du -sh diffusion_models text_encoders vae upscale_models
 fi
 
-# ─── 4. Ollama (LLM backend) ─────────────────────────────────────────────────
-if ! command -v ollama >/dev/null 2>&1; then
-  log "Installing Ollama…"
-  curl -fsSL https://ollama.com/install.sh | sh
-fi
+# ─── 4. vLLM (LLM backend) ───────────────────────────────────────────────────
+VLLM_MODEL=${VLLM_MODEL:-Qwen/Qwen3-32B}
+VLLM_SERVED_NAME=${VLLM_SERVED_NAME:-$VLLM_MODEL}
+VLLM_PORT=${VLLM_PORT:-8000}
 
-log "Starting Ollama service…"
-pkill -f "ollama serve" || true
-# Persist Ollama models on the network volume so pod restarts don't re-download.
-export OLLAMA_MODELS="$ROOT/ollama_models"
-mkdir -p "$OLLAMA_MODELS"
-OLLAMA_KEEP_ALIVE=2m OLLAMA_MODELS="$OLLAMA_MODELS" nohup ollama serve >"$LOG_DIR/ollama.log" 2>&1 &
-sleep 4
+log "Installing vLLM…"
+pip install -q vllm
 
-OLLAMA_MODEL=${OLLAMA_MODEL:-qwen3.6:27b}
-if ! ollama list | grep -q "$OLLAMA_MODEL"; then
-  log "Pulling LLM model: $OLLAMA_MODEL…"
-  ollama pull "$OLLAMA_MODEL"
-fi
+log "Starting vLLM OpenAI API server on :${VLLM_PORT}…"
+pkill -f "vllm.entrypoints.openai.api_server" || true
+export HF_HOME="${HF_HOME:-$ROOT/hf_cache}"
+mkdir -p "$HF_HOME"
+
+nohup python -m vllm.entrypoints.openai.api_server \
+  --model "$VLLM_MODEL" \
+  --served-model-name "$VLLM_SERVED_NAME" \
+  --port "$VLLM_PORT" \
+  --host 0.0.0.0 \
+  >"$LOG_DIR/vllm.log" 2>&1 &
+
+log "Waiting for vLLM to come up (model may download on first run)…"
+for i in {1..120}; do
+  if curl -sf "http://127.0.0.1:${VLLM_PORT}/v1/models" >/dev/null 2>&1; then
+    log "  vLLM ready."
+    break
+  fi
+  sleep 5
+  [ $i -eq 120 ] && warn "vLLM did not become ready in 600s — check $LOG_DIR/vllm.log"
+done
 
 # ─── 5. Shorts repo ──────────────────────────────────────────────────────────
 if [ ! -d "$REPO_DIR" ]; then
