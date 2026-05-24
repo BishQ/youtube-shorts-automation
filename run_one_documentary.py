@@ -93,7 +93,9 @@ def main() -> int:
     bgm = _resolve_bgm(settings)
     print(f"BGM: {bgm}")
 
-    store = JobStore(settings=settings)
+    db_path = settings.data_dir / "jobs.sqlite"
+    db_path.parent.mkdir(parents=True, exist_ok=True)
+    store = JobStore(db_path)
     handler = orchestrator_stage_handler(settings, store)
     runner = StageRunner(store, handler, settings=settings)
 
