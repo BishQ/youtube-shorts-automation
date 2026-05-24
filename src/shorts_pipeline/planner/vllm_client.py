@@ -33,6 +33,7 @@ log = get_logger(__name__)
 _MAX_RETRIES = 5
 _BACKOFF_BASE_S = 3.0
 _BACKOFF_MAX_S = 30.0
+_MAX_GENERATION_TOKENS = 4000
 
 
 class VllmPlannerError(Exception):
@@ -148,7 +149,7 @@ class VllmPlannerClient:
             "model": self._settings.local_llm_model,
             "temperature": self._settings.local_llm_temperature,
             "top_p": 0.95,
-            "max_tokens": min(self._settings.local_llm_max_tokens, 5000),
+            "max_tokens": min(self._settings.local_llm_max_tokens, _MAX_GENERATION_TOKENS),
         }
 
         use_figure_name = getattr(self._settings, "image_prompts_include_figure_name", False)
@@ -199,7 +200,6 @@ class VllmPlannerClient:
                     )
                     messages = [
                         *messages,
-                        {"role": "assistant", "content": content},
                         {
                             "role": "user",
                             "content": (
@@ -233,7 +233,7 @@ class VllmPlannerClient:
                 if attempt < _MAX_RETRIES:
                     messages = [
                         *messages,
-                        {"role": "assistant", "content": content},
+                        {"role": "assistant", "content": content[:1200]},
                         {"role": "user", "content": _build_correction_message(obj, err)},
                     ]
 

@@ -26,6 +26,7 @@ log = get_logger(__name__)
 _MAX_RETRIES = 4
 _BACKOFF_BASE_S = 3.0
 _BACKOFF_MAX_S = 30.0
+_MAX_RETRY_CONTEXT_CHARS = 1200
 
 
 class VllmPublisherError(Exception):
@@ -161,7 +162,7 @@ class VllmPublisherClient:
                     )
                     messages = [
                         *messages,
-                        {"role": "assistant", "content": content},
+                        {"role": "assistant", "content": content[:_MAX_RETRY_CONTEXT_CHARS]},
                         {
                             "role": "user",
                             "content": (
@@ -193,7 +194,7 @@ class VllmPublisherClient:
                 if attempt < _MAX_RETRIES:
                     messages = [
                         *messages,
-                        {"role": "assistant", "content": content},
+                        {"role": "assistant", "content": content[:_MAX_RETRY_CONTEXT_CHARS]},
                         {"role": "user", "content": build_correction_message(obj, err)},
                     ]
 
