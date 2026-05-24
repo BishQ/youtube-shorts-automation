@@ -134,7 +134,7 @@ export CUDA_HOME="${CUDA_HOME:-/usr/local/cuda}"
 export PATH="$CUDA_HOME/bin:${PATH}"
 
 log "Installing/upgrading vLLM…"
-pip install -q -U vllm ninja-build
+pip install -q -U vllm ninja
 
 if [ -f "$REPO_DIR/scripts/sync_env_llm.sh" ]; then
   VLLM_PORT="$VLLM_PORT" VLLM_SERVED_NAME="$VLLM_SERVED_NAME" \
