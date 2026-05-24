@@ -27,6 +27,7 @@ Output:
 from __future__ import annotations
 
 import argparse
+import re
 import sys
 import time
 from pathlib import Path
@@ -45,6 +46,11 @@ from shorts_pipeline.orchestrator import orchestrator_stage_handler
 log = get_logger(__name__)
 
 
+def _normalize_topic(line: str) -> str:
+    """Strip common numbered-list prefixes such as '1. David Bowie'."""
+    return re.sub(r"^\s*\d+[\.)]\s*", "", line).strip()
+
+
 def _first_topic(batch: str) -> str:
     path = ROOT / "topics" / "famous_people_1000" / batch / "topics.txt"
     if not path.is_file():
@@ -53,10 +59,7 @@ def _first_topic(batch: str) -> str:
         line = raw.strip()
         if not line:
             continue
-        # strip leading "1. " etc.
-        if line[:3].rstrip(".").isdigit():
-            line = line.split(".", 1)[1].strip()
-        return line
+        return _normalize_topic(line)
     raise SystemExit(f"no topics in {path}")
 
 
@@ -85,7 +88,7 @@ def main() -> int:
     ap.add_argument("--poll-secs", type=int, default=10, help="status poll interval")
     args = ap.parse_args()
 
-    topic = args.topic or _first_topic(args.batch)
+    topic = _normalize_topic(args.topic) if args.topic else _first_topic(args.batch)
     print(f"=== Running end-to-end for documentary topic: {topic!r} ===")
 
     base = Settings()

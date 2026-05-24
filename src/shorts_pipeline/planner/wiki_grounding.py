@@ -41,9 +41,14 @@ def _clean(text: str) -> str:
     return text.strip()
 
 
+def _normalize_query_name(name: str) -> str:
+    """Remove numbered-list prefixes before querying Wikipedia."""
+    return re.sub(r"^\s*\d+[\.)]\s*", "", name).strip()
+
+
 def _to_wiki_title(name: str) -> str:
     """Normalize a figure name to a Wikipedia-style title (Title Case, underscores)."""
-    return name.title().replace(" ", "_")
+    return _normalize_query_name(name).title().replace(" ", "_")
 
 
 def _resolve_canonical_title(query: str, *, timeout: float) -> str | None:
@@ -70,7 +75,8 @@ def fetch_grounding(figure_name: str, *, timeout: float = _TIMEOUT) -> WikiGroun
     Returns WikiGrounding with found=False if the page cannot be retrieved.
     Never raises — on any error returns found=False so the pipeline continues.
     """
-    title = _to_wiki_title(figure_name)
+    query_name = _normalize_query_name(figure_name)
+    title = _to_wiki_title(query_name)
 
     # Step 1: short summary via REST API
     summary = ""
@@ -85,12 +91,12 @@ def fetch_grounding(figure_name: str, *, timeout: float = _TIMEOUT) -> WikiGroun
             summary = _clean(data.get("extract", ""))
             title = data.get("title", title).replace(" ", "_")
         elif r.status_code == 404:
-            log.warning("wiki_not_found", figure=figure_name)
-            return WikiGrounding(title=figure_name, summary="", extract="", found=False)
+            log.warning("wiki_not_found", figure=figure_name, query=query_name)
+            return WikiGrounding(title=query_name, summary="", extract="", found=False)
         elif r.status_code == 403:
             # Some articles are restricted on the REST endpoint — try OpenSearch resolution
-            log.warning("wiki_rest_403", figure=figure_name, title=title)
-            canonical = _resolve_canonical_title(figure_name, timeout=timeout)
+            log.warning("wiki_rest_403", figure=figure_name, query=query_name, title=title)
+            canonical = _resolve_canonical_title(query_name, timeout=timeout)
             if canonical and canonical.lower() != title.lower():
                 log.info("wiki_canonical_resolved", original=title, canonical=canonical)
                 title = canonical
@@ -105,7 +111,7 @@ def fetch_grounding(figure_name: str, *, timeout: float = _TIMEOUT) -> WikiGroun
                     summary = _clean(data.get("extract", ""))
                     title = data.get("title", title).replace(" ", "_")
         else:
-            log.warning("wiki_rest_unexpected_status", status=r.status_code, figure=figure_name)
+            log.warning("wiki_rest_unexpected_status", status=r.status_code, figure=figure_name, query=query_name)
     except Exception as e:
         log.warning("wiki_summary_error", error=str(e))
 
@@ -125,12 +131,12 @@ def fetch_grounding(figure_name: str, *, timeout: float = _TIMEOUT) -> WikiGroun
                     extract = _clean(raw)[:_MAX_EXTRACT_CHARS]
                     break
         elif r3.status_code == 403:
-            log.warning("wiki_api_403", figure=figure_name, title=title)
+            log.warning("wiki_api_403", figure=figure_name, query=query_name, title=title)
     except Exception as e:
         log.warning("wiki_extract_error", error=str(e))
 
     if not summary and not extract:
-        return WikiGrounding(title=figure_name, summary="", extract="", found=False)
+        return WikiGrounding(title=query_name, summary="", extract="", found=False)
 
     log.info("wiki_grounding_fetched", figure=figure_name,
              summary_chars=len(summary), extract_chars=len(extract))
