@@ -7,7 +7,7 @@ import re
 import sqlite3
 import uuid
 from contextlib import contextmanager
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Iterator
@@ -234,8 +234,8 @@ def parse_topics(text: str) -> list[str]:
       lines — this skips title headers, footers, and stray plain text.
     - Otherwise fall back to every non-empty line as a topic.
     """
-    lines = [l.strip() for l in text.splitlines() if l.strip()]
-    numbered = [l for l in lines if _NUMBERED_LINE.match(l)]
+    lines = [line.strip() for line in text.splitlines() if line.strip()]
+    numbered = [line for line in lines if _NUMBERED_LINE.match(line)]
 
     if numbered:
         # Numbered doc — only take numbered items

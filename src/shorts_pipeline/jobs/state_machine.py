@@ -8,7 +8,8 @@ from typing import Protocol
 
 from shorts_pipeline.context import set_job_id
 from shorts_pipeline.config.settings import Settings
-from shorts_pipeline.jobs.exceptions import CooperativePauseError
+from shorts_pipeline.jobs.cancellation import raise_if_cancelled
+from shorts_pipeline.jobs.exceptions import CancelledJobError, CooperativePauseError
 from shorts_pipeline.jobs.models import (
     ArtifactType,
     JobErrorDetail,
@@ -138,6 +139,7 @@ class StageRunner:
 
         try:
             for stage in stage_order[start_idx:]:
+                raise_if_cancelled(self._store, job_id)
                 if self._gate_complete(job_id, stage):
                     log.info("stage_skip_idempotent", stage=stage.value)
                     self._store.record_stage_skip(job_id, stage, timing_label(stage))
@@ -165,6 +167,7 @@ class StageRunner:
                 finally:
                     self._store.record_stage_end(job_id)
 
+                raise_if_cancelled(self._store, job_id)
                 if not self._gate_complete(job_id, stage):
                     raise RuntimeError(
                         f"stage {stage.value} finished without valid artifacts"
@@ -191,6 +194,23 @@ class StageRunner:
                 status=JobStatus.paused,
                 clear_error=True,
             )
+            return
+        except CancelledJobError as e:
+            log.info("pipeline_cancelled", job_id=job_id)
+            self._store.close_open_stage_timings(job_id)
+            job = self._store.get_job(job_id)
+            if job is not None and job.status != JobStatus.failed:
+                current = job.current_stage
+                self._store.update_job_progress(
+                    job_id,
+                    status=JobStatus.failed,
+                    error=JobErrorDetail(
+                        stage=current.value if current else "cancelled",
+                        code="Cancelled",
+                        message=str(e),
+                        detail=None,
+                    ),
+                )
             return
         except Exception as e:
             log.exception("pipeline_failed", error=str(e))

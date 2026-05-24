@@ -114,7 +114,9 @@ def test_build_edit_plan_from_ranges(tmp_path: Path) -> None:
     bgm = tmp_path / "bgm.wav"
     fr = 8000
     with wave.open(str(bgm), "wb") as w:
-        w.setnchannels(1); w.setsampwidth(2); w.setframerate(fr)
+        w.setnchannels(1)
+        w.setsampwidth(2)
+        w.setframerate(fr)
         w.writeframes(b"\x00\x00" * fr * 10)
 
     ranges = [(0.0, 1.5), (3.0, 3.0), (6.0, 4.5), (9.0, 6.0)]

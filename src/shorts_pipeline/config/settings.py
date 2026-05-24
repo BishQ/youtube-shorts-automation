@@ -18,8 +18,8 @@ class Settings(BaseSettings):
     data_dir: Path = Field(default=Path("./data"))
 
     # ── Planner backend selector ─────────────────────────────────────────────
-    # Only local vLLM (OpenAI-compatible /v1) is supported.  Kept for back-
-    # compat: accepted values are "vllm" / "local" / "auto" / "ollama" —
+    # Only local vLLM (OpenAI-compatible /v1) is supported. Accepted values are
+    # "vllm" / "local" / "auto" —
     # anything else raises in build_planner_client.
     planner_backend: str = "vllm"
 
@@ -30,6 +30,11 @@ class Settings(BaseSettings):
     local_llm_timeout_s: float = 600.0
     local_llm_temperature: float = 0.4
     local_llm_max_tokens: int = 8000
+    # vLLM OpenAI server structured-output mode. "guided_json" is vLLM-native
+    # and prevents garbage/non-JSON planner output. Set "json_object" for older
+    # OpenAI-compatible servers, or "off" only for debugging.
+    local_llm_structured_output: str = "guided_json"
+    local_llm_planner_temperature: float = Field(default=0.05, ge=0.0, le=1.0)
 
     # ── Image backend selector ────────────────────────────────────────────────
     # "comfy"  → All images via local ComfyUI (default).
@@ -258,6 +263,11 @@ class Settings(BaseSettings):
 
     log_level: str = "INFO"
     log_json: bool = False
+    api_token: str | None = Field(
+        default=None,
+        description="Optional bearer token for the local FastAPI control plane.",
+    )
+    max_upload_bytes: int = Field(default=25 * 1024 * 1024, ge=1024)
 
     ass_font_name: str = "Arial Black"    # bolder face for viral Shorts look
     ass_font_size: int = 92              # strong but less likely to cover faces

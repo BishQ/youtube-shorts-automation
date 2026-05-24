@@ -14,9 +14,8 @@ from pydantic import ValidationInfo
 # are the **fallback** used when no niche is supplied — they are deliberately
 # conservative (set to the all-niche median observed in calibration).
 from shorts_pipeline.planner.niche_caps import (
-    DEFAULT_MAX_SYLLABLES as _DEFAULT_MAX_SYLLABLES,
     DEFAULT_MAX_WORDS as _DEFAULT_MAX_WORDS,
-    DEFAULT_MIN_WORDS as NARRATION_SCRIPT_MIN_WORDS,
+    DEFAULT_MIN_WORDS as _DEFAULT_MIN_WORDS,
     caps_for as _caps_for,
     count_syllables as _count_syllables,
     syllable_floor_for as _syllable_floor_for,
@@ -26,6 +25,7 @@ from shorts_pipeline.planner.niche_caps import (
 # `from schema import NARRATION_SCRIPT_MAX_WORDS`. New code should call
 # ``caps_for(niche)`` or pass the niche via ValidationInfo context.
 NARRATION_SCRIPT_MAX_WORDS = _DEFAULT_MAX_WORDS
+NARRATION_SCRIPT_MIN_WORDS = _DEFAULT_MIN_WORDS
 
 
 class DecisionLeverType(StrEnum):

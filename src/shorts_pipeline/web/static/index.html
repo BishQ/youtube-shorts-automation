@@ -27,7 +27,7 @@
     </div>
     <div class="header-right">
       <div class="header-badge">V1 · Historical Figures</div>
-      <div id="gemini-usage" title="">Gemini usage: …</div>
+      <div id="gemini-usage" title="">Planner: checking…</div>
     </div>
   </header>
 
@@ -1242,7 +1242,7 @@ document.getElementById('btn-script-regen').onclick = async () => {
   const feedback = document.getElementById('script-feedback').value.trim();
 
   saveBtn.disabled = true; regenBtn.disabled = true;
-  regenBtn.textContent = 'Sending to Gemini…';
+  regenBtn.textContent = 'Sending to planner…';
   status.textContent = '';
   try {
     await api('/api/jobs/' + encodeURIComponent(_scriptJobId) + '/script/regenerate', {
@@ -2802,64 +2802,23 @@ async function _doResume(fromIdx) {
   } catch(e) { toast('Error: ' + e.message); }
 }
 
-// ── Gemini usage (header) ────────────────────────────────────────────────
+// ── Planner status (header) ───────────────────────────────────────────────
 async function refreshGeminiUsage(){
   const el = document.getElementById('gemini-usage');
   if(!el) return;
   try{
-    const u = await api('/api/gemini/usage');
+    const u = await api('/api/planner/status');
     const pb = (u.planner_backend || '').toLowerCase();
-    if(pb === 'vllm' || pb === 'local' || pb === 'auto' || pb === 'ollama'){
+    if(pb === 'vllm' || pb === 'local' || pb === 'auto'){
       const model = u.local_llm_model || '—';
       el.textContent = 'Planner: vLLM · ' + model;
       el.title = [u.note || '', u.local_llm_base_url || ''].filter(Boolean).join('\n');
       return;
     }
-    const hybrid = pb === 'hybrid';
-    const hybridNote = hybrid
-      ? ('SHORTS_PLANNER_BACKEND=hybrid: try Gemini each job; on quota use DeepSeek, then Gemini again when free.\n')
-      : '';
-    if(!u.gemini_api_configured){
-      el.textContent = 'Gemini: set SHORTS_GEMINI_API_KEY';
-      el.title = 'Add your Google AI Studio key to .env then restart the server';
-      return;
-    }
-    const bits = [];
-    const h = u.rate_limit_headers;
-    if(h && typeof h === 'object'){
-      for(const [k, v] of Object.entries(h)){
-        const short = k.replace(/^x-/i, '');
-        bits.push(short + '=' + String(v).slice(0, 48));
-      }
-    }
-    const um = u.usage_metadata;
-    if(um && um.total_token_count != null)
-      bits.push('tokens ' + um.total_token_count);
-    else if(um && um.prompt_token_count != null)
-      bits.push('prompt tok ' + um.prompt_token_count);
-    if(!u.has_sample){
-      el.textContent = (hybrid ? 'Hybrid · ' : '') + 'Gemini · caps appear after next plan call';
-      const gm0 = Array.isArray(u.gemini_models) && u.gemini_models.length
-        ? ('Models (order): ' + u.gemini_models.join(' → '))
-        : '';
-      el.title = [hybridNote, gm0, u.note || '', u.ai_studio_rate_limits_url || ''].filter(Boolean).join('\n');
-      return;
-    }
-    const t = u.updated_at_unix
-      ? new Date(u.updated_at_unix * 1000).toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'})
-      : '';
-    const prefix = hybrid ? 'Hybrid · ' : '';
-    if(bits.length)
-      el.textContent = prefix + 'Gemini ' + (t ? '[' + t + '] ' : '') + bits.join(' · ');
-    else
-      el.textContent = prefix + 'Gemini ' + (t ? '[' + t + '] ' : '') + 'no x-ratelimit headers · see AI Studio';
-    const ds = u.deepseek_api_configured ? ('DeepSeek fallback: ' + (u.deepseek_model || 'deepseek-chat')) : '';
-    const gm = Array.isArray(u.gemini_models) && u.gemini_models.length
-      ? ('Models (order): ' + u.gemini_models.join(' → '))
-      : '';
-    el.title = [hybridNote, gm, ds, u.note, u.ai_studio_rate_limits_url, u.rate_limits_docs_url].filter(Boolean).join('\n');
+    el.textContent = 'Planner: ' + (pb || 'unknown');
+    el.title = u.note || '';
   }catch(e){
-    el.textContent = 'Gemini usage: —';
+    el.textContent = 'Planner: —';
     el.title = e.message || '';
   }
 }

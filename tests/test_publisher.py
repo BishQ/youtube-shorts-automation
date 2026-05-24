@@ -70,8 +70,8 @@ def _build_plan() -> NarrationPlan:
         "He killed his half-brother over a fish and never apologised.",
         "Forty thousand riders swore loyalty to a man with no clan.",
         "He outlawed kidnapping, codified mercy for women, and burned cities.",
-        "Persian scholars described him with two words: storm and patience.",
-        "His armies turned engineers into soldiers and rivers into highways.",
+        "Persian scholars described him with two words: storm and patience, ceremonial banners cracking.",
+        "His armies turned engineers into soldiers and rivers into highways, imperial messengers galloping.",
         "By forty he ruled more land than Rome conquered in eight centuries.",
         "He died on a steppe few men can find on any modern map.",
         "His grave was concealed by a thousand horses driven over the soil.",
@@ -112,7 +112,7 @@ def _build_plan() -> NarrationPlan:
         )
 
     full_script = " ".join(c.text for c in clauses)
-    assert 152 <= len(full_script.split()) <= 162
+    assert 160 <= len(full_script.split()) <= 210
 
     return NarrationPlan(
         historical_figure="Genghis Khan",

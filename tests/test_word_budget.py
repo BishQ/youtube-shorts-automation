@@ -59,14 +59,14 @@ def test_resync_when_full_script_bulkier_than_clauses() -> None:
 
 
 def test_default_clamp_uses_schema_max_words() -> None:
-    lengths = [23, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 21]
+    lengths = [23, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 46]
     clauses = [_make_clause(n) for n in lengths]
     clauses[0]["text"] = (
         "How does a shy child become a storm the world still whispers about? "
         + " ".join(f"t{i}" for i in range(10))
     )
     full_script = " ".join(c["text"] for c in clauses)
-    assert len(full_script.split()) == 200
+    assert len(full_script.split()) == 225
 
     obj: dict = {
         "historical_figure": "Test Subject",
@@ -83,7 +83,7 @@ def test_default_clamp_uses_schema_max_words() -> None:
 
     assert maybe_clamp_plan_json(obj) is True
     final_wc = len(obj["full_script"].split())
-    assert final_wc <= 162
+    assert final_wc <= 210
     assert "?" in obj["clauses"][0]["text"]
 
 

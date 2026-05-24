@@ -23,9 +23,14 @@ import httpx
 from shorts_pipeline.config.settings import Settings
 from shorts_pipeline.logging_setup import get_logger
 from shorts_pipeline.planner.client import _build_correction_message, _extract_json
-from shorts_pipeline.planner.word_budget import maybe_clamp_plan_json
 from shorts_pipeline.planner.prompts import COMPACT_SYSTEM_PROMPT, compact_user_prompt
 from shorts_pipeline.planner.schema import NarrationPlan, validate_english_figure_v1
+from shorts_pipeline.planner.structured_output import (
+    apply_structured_output,
+    json_schema_for,
+    looks_like_structured_output_rejection,
+)
+from shorts_pipeline.planner.word_budget import maybe_clamp_plan_json
 from shorts_pipeline.planner.wiki_grounding import fetch_grounding, format_for_prompt
 
 log = get_logger(__name__)
@@ -62,6 +67,35 @@ class VllmPlannerClient:
                 "(must match vLLM --served-model-name, e.g. Qwen/Qwen3-32B)."
             )
         self._settings = settings
+
+    def _post_structured(
+        self,
+        payload: dict[str, Any],
+        *,
+        schema: dict[str, Any],
+    ) -> str:
+        try:
+            structured = apply_structured_output(
+                payload,
+                mode=self._settings.local_llm_structured_output,
+                schema=schema,
+                name="NarrationPlan",
+            )
+        except ValueError as exc:
+            raise VllmPlannerError(str(exc)) from exc
+        try:
+            return self._post(structured)
+        except VllmPlannerError as exc:
+            if exc.status_code == 400 and looks_like_structured_output_rejection(exc.detail):
+                log.warning(
+                    "vllm_structured_output_rejected_retry_plain",
+                    mode=self._settings.local_llm_structured_output,
+                    detail=str(exc.detail)[:300],
+                )
+                fallback = dict(payload)
+                fallback["response_format"] = {"type": "json_object"}
+                return self._post(fallback)
+            raise
 
     def _post_once(self, payload: dict[str, Any]) -> str:
         base = self._settings.local_llm_base_url.rstrip("/")
@@ -147,8 +181,11 @@ class VllmPlannerClient:
 
         base_payload: dict[str, Any] = {
             "model": self._settings.local_llm_model,
-            "temperature": self._settings.local_llm_temperature,
-            "top_p": 0.95,
+            "temperature": min(
+                self._settings.local_llm_temperature,
+                self._settings.local_llm_planner_temperature,
+            ),
+            "top_p": 0.9,
             "max_tokens": min(self._settings.local_llm_max_tokens, _MAX_GENERATION_TOKENS),
         }
 
@@ -174,6 +211,7 @@ class VllmPlannerClient:
                     ),
                 },
             ]
+        initial_messages = list(messages)
 
         log.info(
             "vllm_generate_start",
@@ -184,9 +222,13 @@ class VllmPlannerClient:
 
         last_err: Exception | None = None
         last_obj: dict[str, Any] = {}
+        schema = json_schema_for(NarrationPlan, name="NarrationPlan")
 
         for attempt in range(1, _MAX_RETRIES + 1):
-            content = self._post({**base_payload, "messages": messages})
+            content = self._post_structured(
+                {**base_payload, "messages": messages},
+                schema=schema,
+            )
 
             try:
                 obj = _extract_json(content)
@@ -199,7 +241,7 @@ class VllmPlannerClient:
                         error=str(e)[:200],
                     )
                     messages = [
-                        *messages,
+                        *initial_messages,
                         {
                             "role": "user",
                             "content": (
@@ -207,7 +249,7 @@ class VllmPlannerClient:
                                 f"(parse error: {e}). "
                                 "Output ONLY a single valid JSON object — "
                                 "no prose, no markdown fences, no trailing commas, "
-                                "no comments, no truncation."
+                                "no comments, no truncation. Start with { and end with }."
                             ),
                         },
                     ]
@@ -232,8 +274,8 @@ class VllmPlannerClient:
                 last_obj = obj
                 if attempt < _MAX_RETRIES:
                     messages = [
-                        *messages,
-                        {"role": "assistant", "content": content[:1200]},
+                        *initial_messages,
+                        {"role": "assistant", "content": json.dumps(obj, ensure_ascii=False)[:1200]},
                         {"role": "user", "content": _build_correction_message(obj, err)},
                     ]
 

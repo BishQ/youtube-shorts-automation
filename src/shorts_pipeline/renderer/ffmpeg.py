@@ -651,7 +651,6 @@ def build_ffmpeg_argv(req: RenderRequest, settings: Settings) -> list[str]:  # n
 
     # ── Input: watermark (disabled — not applied to any render) ──────────────
     idx_wm: int | None = None
-    use_wm = False
 
     # ── Filter complex ────────────────────────────────────────────────────────
     parts: list[str] = []

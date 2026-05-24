@@ -44,7 +44,6 @@ from __future__ import annotations
 
 import base64
 import copy
-import json
 import random
 import time
 from dataclasses import dataclass
@@ -314,6 +313,18 @@ class RunPodComfyClient:
             exec_ms=result.get("executionTime"),
             delay_ms=result.get("delayTime"),
         )
+
+    def verify_png(self, path: Path, *, min_w: int, min_h: int) -> None:
+        """Match ComfyClient.verify_png so disk recovery works in either transport mode."""
+        try:
+            with Image.open(path) as im:
+                im.verify()
+            with Image.open(path) as im2:
+                w, h = im2.size
+        except Exception as e:
+            raise RunPodError(f"invalid PNG: {path}: {e}") from e
+        if w < min_w or h < min_h:
+            raise RunPodError(f"PNG too small: {w}x{h} < {min_w}x{min_h}")
 
 
 # ── Wan I2V client ────────────────────────────────────────────────────────────

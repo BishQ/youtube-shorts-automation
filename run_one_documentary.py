@@ -38,10 +38,9 @@ sys.path.insert(0, str(ROOT / "src"))
 from shorts_pipeline.config.settings import Settings
 from shorts_pipeline.config.ui_store import effective_settings
 from shorts_pipeline.jobs.models import JobConfigSnapshot, JobStatus
-from shorts_pipeline.jobs.state_machine import StageRunner
+from shorts_pipeline.jobs.pipeline_runner import PipelineRunner
 from shorts_pipeline.jobs.store import JobStore
 from shorts_pipeline.logging_setup import get_logger
-from shorts_pipeline.orchestrator import orchestrator_stage_handler
 
 log = get_logger(__name__)
 
@@ -99,8 +98,7 @@ def main() -> int:
     db_path = settings.data_dir / "jobs.sqlite"
     db_path.parent.mkdir(parents=True, exist_ok=True)
     store = JobStore(db_path)
-    handler = orchestrator_stage_handler(settings, store)
-    runner = StageRunner(store, handler, settings=settings)
+    runner = PipelineRunner(base, store)
 
     cfg = JobConfigSnapshot(
         figure_name=topic,
@@ -117,7 +115,7 @@ def main() -> int:
 
     started = time.time()
     try:
-        runner.resume_job(job_id)
+        runner.run_job(job_id)
     except Exception as exc:
         print(f"\n!! pipeline raised: {type(exc).__name__}: {exc}")
         record = store.get_job(job_id)

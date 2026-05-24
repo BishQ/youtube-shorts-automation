@@ -5,17 +5,16 @@ from __future__ import annotations
 import asyncio
 import json
 import logging
-import threading
+from contextlib import asynccontextmanager
 from pathlib import Path
 
-from fastapi import BackgroundTasks, FastAPI, File, HTTPException, Request, UploadFile
+from fastapi import FastAPI, File, HTTPException, Request, UploadFile
 from fastapi.responses import FileResponse, HTMLResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, ConfigDict, Field
 
 from shorts_pipeline.config.settings import Settings, get_settings
 from shorts_pipeline.config.ui_store import effective_settings, get_ui_store
-from shorts_pipeline.context import set_job_id
 from shorts_pipeline.jobs.batch_store import BatchStore, parse_topics
 from shorts_pipeline.jobs.image_recovery import (
     build_job_config_for_disk_import,
@@ -28,11 +27,14 @@ from shorts_pipeline.jobs.image_recovery import (
     scan_job_folder,
 )
 from shorts_pipeline.jobs.models import ArtifactType, JobConfigSnapshot, JobStatus, PipelineStage
-from shorts_pipeline.jobs.state_machine import StageRunner
+from shorts_pipeline.jobs.pipeline_runner import PipelineRunner
+from shorts_pipeline.jobs.preflight import run_preflight
+from shorts_pipeline.jobs.recovery import recover_interrupted_jobs
 from shorts_pipeline.jobs.store import JobStore
 from shorts_pipeline.logging_setup import configure_logging, get_logger
-from shorts_pipeline.orchestrator import PipelineOrchestrator, orchestrator_stage_handler
 from shorts_pipeline.web.log_buffer import job_log_buffer
+from shorts_pipeline.web.services.batch_scheduler import BatchScheduler
+from shorts_pipeline.web.services.document_parser import extract_text
 from shorts_pipeline.web.structlog_handler import JobLogHandler
 
 log = get_logger(__name__)
@@ -46,6 +48,8 @@ if _static_dir.is_dir():
 _settings_singleton: Settings | None = None
 _store_singleton: JobStore | None = None
 _batch_store_singleton: BatchStore | None = None
+_runner_singleton: PipelineRunner | None = None
+_batch_scheduler_singleton: BatchScheduler | None = None
 _log_handler_attached = False
 
 
@@ -72,14 +76,37 @@ def _batch_store() -> BatchStore:
     return _batch_store_singleton
 
 
-# ── Pipeline runner ───────────────────────────────────────────────────────────
+# ── Pipeline runner / batch scheduler ─────────────────────────────────────────
 
-def _run_pipeline(job_id: str) -> None:
-    set_job_id(job_id)
-    base = _settings()
-    s = effective_settings(base)
-    h = orchestrator_stage_handler(s, _store())
-    StageRunner(_store(), h, settings=_settings()).resume_job(job_id)
+def _runner() -> PipelineRunner:
+    global _runner_singleton
+    if _runner_singleton is None:
+        _runner_singleton = PipelineRunner(_settings(), _store())
+    return _runner_singleton
+
+
+def _batch_scheduler() -> BatchScheduler:
+    global _batch_scheduler_singleton
+    if _batch_scheduler_singleton is None:
+        _batch_scheduler_singleton = BatchScheduler(
+            settings=_settings(),
+            store=_store(),
+            batch_store=_batch_store(),
+            runner=_runner(),
+        )
+    return _batch_scheduler_singleton
+
+
+def _submit_pipeline(job_id: str) -> None:
+    fut = _runner().start_job(job_id)
+
+    def _log_done(f) -> None:
+        try:
+            f.result()
+        except BaseException as exc:
+            log.warning("background_pipeline_failed", job_id=job_id, error=str(exc)[:400])
+
+    fut.add_done_callback(_log_done)
 
 
 # ── Batch duplicate guard ─────────────────────────────────────────────────────
@@ -124,78 +151,7 @@ def _check_topic_duplicate(figure_name: str) -> str | None:
 # ── Batch watcher (auto-advances queue after each job finishes) ───────────────
 
 async def _tick_batch() -> None:
-    store = _store()
-    bs = _batch_store()
-
-    batch = bs.get_active()
-    if batch is None or batch.status != "running":
-        return
-
-    # Still processing a job — wait
-    if store.has_running_job():
-        return
-
-    # Check if the previous job failed (auto-pause on failure)
-    prev_idx = batch.current_index - 1
-    if 0 <= prev_idx < len(batch.job_ids):
-        prev_jid = batch.job_ids[prev_idx]
-        if prev_jid:
-            prev_job = store.get_job(prev_jid)
-            if prev_job and prev_job.status == JobStatus.failed:
-                cancelled = prev_job.error and "Cancelled" in (prev_job.error.message or "")
-                if not cancelled:
-                    bs.set_status(batch.id, "paused")
-                    log.warning("batch_auto_paused", reason="job_failed",
-                                job_id=prev_jid, index=prev_idx)
-                    return
-
-    # All topics done?
-    idx = batch.current_index
-    if idx >= len(batch.topics):
-        bs.set_status(batch.id, "completed")
-        log.info("batch_completed", batch_id=batch.id, total=len(batch.topics))
-        return
-
-    # Start the next job
-    topic = batch.topics[idx]
-    bgm = Path(batch.bgm_path)
-    if not bgm.is_file():
-        bs.set_status(batch.id, "paused")
-        log.error("batch_paused_bgm_missing", bgm=str(bgm))
-        return
-
-    # Duplicate guard: skip if final.mp4 already exists, delete stale failed jobs otherwise
-    existing_jid = _check_topic_duplicate(topic)
-    if existing_jid:
-        bs.record_job(batch.id, idx, existing_jid)
-        bs.set_current_index(batch.id, idx + 1)
-        log.info("batch_topic_skipped", batch_id=batch.id, topic=topic, index=idx, job_id=existing_jid)
-        return  # watcher will immediately advance on next tick
-
-    s = get_settings()
-    cfg = JobConfigSnapshot(
-        figure_name=topic,
-        bgm_path=str(bgm.resolve()),
-        topic_type=batch.topic_type,
-        language=batch.language,
-        watermark_enabled=s.watermark_enabled,
-        end_plate_enabled=s.end_plate_enabled,
-    )
-    jid = store.create_job(cfg)
-    bs.record_job(batch.id, idx, jid)
-    bs.set_current_index(batch.id, idx + 1)
-
-    loop = asyncio.get_event_loop()
-    fut = loop.run_in_executor(None, _run_pipeline, jid)
-
-    def _sink_executor_exc(f: asyncio.Future[object]) -> None:
-        try:
-            f.result()
-        except BaseException:
-            pass
-
-    fut.add_done_callback(_sink_executor_exc)
-    log.info("batch_job_started", batch_id=batch.id, topic=topic, index=idx, job_id=jid)
+    _batch_scheduler().tick_active()
 
 
 async def _batch_watcher() -> None:
@@ -209,8 +165,8 @@ async def _batch_watcher() -> None:
 
 # ── Startup ───────────────────────────────────────────────────────────────────
 
-@app.on_event("startup")
-async def _startup() -> None:
+@asynccontextmanager
+async def _lifespan(_app: FastAPI):
     global _log_handler_attached
     s = _settings()
     configure_logging(level=s.log_level, json_logs=s.log_json)
@@ -218,7 +174,37 @@ async def _startup() -> None:
         root = logging.getLogger()
         root.addHandler(JobLogHandler())
         _log_handler_attached = True
-    asyncio.create_task(_batch_watcher())
+    recover_interrupted_jobs(_store())
+    watcher = asyncio.create_task(_batch_watcher())
+    try:
+        yield
+    finally:
+        watcher.cancel()
+
+
+app.router.lifespan_context = _lifespan
+
+
+@app.middleware("http")
+async def _local_production_guards(request: Request, call_next):
+    s = _settings()
+    if request.url.path.startswith("/api/"):
+        length = request.headers.get("content-length")
+        if length:
+            try:
+                if int(length) > s.max_upload_bytes:
+                    return JSONResponse({"detail": "request body too large"}, status_code=413)
+            except ValueError:
+                return JSONResponse({"detail": "invalid content-length"}, status_code=400)
+        if s.api_token and request.url.path not in (
+            "/api/health",
+            "/api/health/live",
+            "/api/health/ready",
+        ):
+            expected = f"Bearer {s.api_token}"
+            if request.headers.get("authorization") != expected:
+                return JSONResponse({"detail": "unauthorized"}, status_code=401)
+    return await call_next(request)
 
 
 # ── Request bodies ────────────────────────────────────────────────────────────
@@ -257,7 +243,18 @@ class StartBatchBody(BaseModel):
 
 @app.get("/api/health")
 def health() -> dict[str, str]:
+    return {"status": "ok", "service": "shorts-pipeline"}
+
+
+@app.get("/api/health/live")
+def health_live() -> dict[str, str]:
     return {"status": "ok"}
+
+
+@app.get("/api/health/ready")
+def health_ready() -> JSONResponse:
+    report = run_preflight(_runner().effective_settings()).model_dump()
+    return JSONResponse(report, status_code=200 if report["ok"] else 503)
 
 
 @app.get("/api/gemini/usage")
@@ -274,6 +271,11 @@ def gemini_usage() -> dict[str, object]:
         "local_llm_base_url": s.local_llm_base_url,
         "note": "Pipeline runs on local vLLM — no remote rate limits.",
     }
+
+
+@app.get("/api/planner/status")
+def planner_status() -> dict[str, object]:
+    return gemini_usage()
 
 
 @app.get("/api/config")
@@ -653,7 +655,7 @@ def pause_after_image(job_id: str) -> JSONResponse:
 
 
 @app.post("/api/jobs/{job_id}/run")
-def run_job(job_id: str, tasks: BackgroundTasks) -> JSONResponse:
+def run_job(job_id: str) -> JSONResponse:
     j = _store().get_job(job_id)
     if j is None:
         raise HTTPException(status_code=404, detail="job not found")
@@ -661,7 +663,7 @@ def run_job(job_id: str, tasks: BackgroundTasks) -> JSONResponse:
         raise HTTPException(status_code=409, detail="job already running")
     if _store().has_blocking_pipeline_job(exclude_job_id=job_id):
         raise HTTPException(status_code=409, detail="another job is already running — wait for it to finish first")
-    tasks.add_task(_run_pipeline, job_id)
+    _submit_pipeline(job_id)
     return JSONResponse({"ok": True, "job_id": job_id})
 
 
@@ -805,16 +807,16 @@ def regenerate_script(job_id: str, body: ScriptRegenerateBody) -> JSONResponse:
 
     feedback = body.feedback.strip() or None
 
-    def _do() -> None:
-        try:
-            s = effective_settings(_settings())
-            orch = PipelineOrchestrator(s, store)
-            orch.run_rescript(job_id, user_feedback=feedback)
-            _run_pipeline(job_id)
-        except Exception as exc:
-            log.exception("rescript_pipeline_failed", job_id=job_id, error=str(exc)[:400])
-
-    threading.Thread(target=_do, daemon=True).start()
+    fut = _runner().start_regenerate_script(job_id, user_feedback=feedback)
+    fut.add_done_callback(
+        lambda f: log.warning(
+            "rescript_pipeline_failed",
+            job_id=job_id,
+            error=str(f.exception())[:400],
+        )
+        if f.exception()
+        else None
+    )
     return JSONResponse({"ok": True, "status": "regenerating"})
 
 
@@ -884,19 +886,8 @@ def download_publish_package_json(job_id: str) -> FileResponse:
     )
 
 
-def _regenerate_publish_package(job_id: str) -> None:
-    """Background task body: re-run the publish stage out-of-band."""
-    set_job_id(job_id)
-    base = _settings()
-    s = effective_settings(base)
-    h = orchestrator_stage_handler(s, _store())
-    h.run_publish(job_id)
-
-
 @app.post("/api/jobs/{job_id}/publish/regenerate")
-def regenerate_publish_package(
-    job_id: str, tasks: BackgroundTasks
-) -> JSONResponse:
+def regenerate_publish_package(job_id: str) -> JSONResponse:
     """Re-run only the publish stage. Useful for completed jobs that pre-date
     the publishing-package feature, or when the operator wants a fresh roll."""
     from shorts_pipeline.jobs.models import ArtifactType, PipelineStage
@@ -917,7 +908,7 @@ def regenerate_publish_package(
             status_code=409,
             detail="plan artifact missing — cannot generate publish package without it",
         )
-    tasks.add_task(_regenerate_publish_package, job_id)
+    _runner().start_regenerate_publish_package(job_id)
     log.info("publish_regenerate_requested", job_id=job_id)
     return JSONResponse({"ok": True, "job_id": job_id})
 
@@ -967,7 +958,7 @@ async def batch_parse(
     if file and file.filename:
         data = await file.read()
         try:
-            text = _extract_text(file.filename, data)
+            text = extract_text(file.filename, data)
         except Exception as exc:
             raise HTTPException(status_code=422, detail=f"Could not read file: {exc}")
     else:
@@ -1010,7 +1001,7 @@ def batch_get(batch_id: str) -> dict:
 
 
 @app.post("/api/batch/{batch_id}/start")
-def batch_start(batch_id: str, body: StartBatchBody, tasks: BackgroundTasks) -> JSONResponse:
+def batch_start(batch_id: str, body: StartBatchBody) -> JSONResponse:
     bs = _batch_store()
     b = bs.get(batch_id)
     if b is None:
@@ -1019,14 +1010,7 @@ def batch_start(batch_id: str, body: StartBatchBody, tasks: BackgroundTasks) -> 
         raise HTTPException(status_code=409, detail="batch already completed")
 
     from_idx = max(0, min(body.from_index, len(b.topics) - 1))
-    # Clear stale job_ids from restart point so the failure-detection logic in
-    # _tick_batch never sees an old failed job as the "previous" job.
-    bs.clear_job_ids_from(batch_id, from_idx)
-    bs.set_index_and_status(batch_id, from_idx, "running")
-
-    # Kick off immediately if nothing is running
-    if not _store().has_running_job():
-        tasks.add_task(_start_next_batch_job, batch_id)
+    _batch_scheduler().start(batch_id, from_idx)
 
     log.info("batch_started", batch_id=batch_id, from_index=from_idx)
     return JSONResponse({"ok": True, "batch_id": batch_id, "from_index": from_idx})
@@ -1053,48 +1037,9 @@ def batch_delete(batch_id: str) -> JSONResponse:
 
 def _start_next_batch_job(batch_id: str) -> None:
     """Synchronous helper: directly starts the next pending topic without the watcher."""
-    bs = _batch_store()
-    store = _store()
-
-    b = bs.get(batch_id)
-    if b is None or b.status != "running":
-        return
-    if store.has_running_job():
-        return  # watcher will pick it up
-
-    idx = b.current_index
-    if idx >= len(b.topics):
-        bs.set_status(batch_id, "completed")
-        return
-
-    topic = b.topics[idx]
-    bgm = Path(b.bgm_path)
-    if not bgm.is_file():
-        bs.set_status(batch_id, "paused")
-        return
-
-    # Duplicate guard: skip if final.mp4 already exists, delete stale failed jobs otherwise
-    existing_jid = _check_topic_duplicate(topic)
-    if existing_jid:
-        bs.record_job(batch_id, idx, existing_jid)
-        bs.set_current_index(batch_id, idx + 1)
-        log.info("batch_topic_skipped", batch_id=batch_id, topic=topic, index=idx, job_id=existing_jid)
-        return  # watcher will pick up the next topic
-
-    s = get_settings()
-    cfg = JobConfigSnapshot(
-        figure_name=topic,
-        bgm_path=str(bgm.resolve()),
-        topic_type=b.topic_type,
-        language=b.language,
-        watermark_enabled=s.watermark_enabled,
-        end_plate_enabled=s.end_plate_enabled,
-    )
-    jid = store.create_job(cfg)
-    bs.record_job(batch_id, idx, jid)
-    bs.set_current_index(batch_id, idx + 1)
-    threading.Thread(target=_run_pipeline, args=(jid,), daemon=True).start()
-    # Returns immediately; _batch_watcher advances to the next topic after this job finishes.
+    b = _batch_store().get(batch_id)
+    if b is not None:
+        _batch_scheduler().tick(b)
 
 
 def _batch_to_dict(b) -> dict:

@@ -20,6 +20,7 @@ from shorts_pipeline.image_worker.hybrid_image_generator import HybridImageGener
 from shorts_pipeline.image_worker.triple_hybrid_image_generator import TripleHybridImageGenerator
 from shorts_pipeline.image_worker.smart_grok_image_generator import SmartGrokImageGenerator
 from shorts_pipeline.jobs.exceptions import CooperativePauseError
+from shorts_pipeline.jobs.cancellation import raise_if_cancelled
 from shorts_pipeline.jobs.image_order import (
     clause_index_from_video_path,
     sort_clause_mp4_artifacts,
@@ -30,7 +31,7 @@ from shorts_pipeline.jobs.store import JobStore, verify_artifact_path
 from shorts_pipeline.logging_setup import get_logger
 from shorts_pipeline.planner.router import build_planner_client
 from shorts_pipeline.planner.schema import NarrationPlan
-from shorts_pipeline.runpod_adapter import make_i2v_client
+from shorts_pipeline.runpod_adapter import make_i2v_client, make_image_client
 from shorts_pipeline.video_worker.motion_resolver import resolve_motion_prompt
 from shorts_pipeline.video_worker.wan_i2v import load_i2v_bundle
 from shorts_pipeline.publisher import (
@@ -172,6 +173,7 @@ class PipelineOrchestrator:
         total = len(prompts)
         backend = self._settings.image_backend.lower().strip()
         log.info("images_start", job_id=job_id, total=total, backend=backend)
+        raise_if_cancelled(self._store, job_id)
 
         incremental_image_artifacts = False
         if backend == "hybrid":
@@ -241,10 +243,11 @@ class PipelineOrchestrator:
             wf_name = rec.config_snapshot.comfy_workflow_name or self._settings.comfy_workflow_name
             bundle_path = (self._settings.workflows_dir / f"{wf_name}.json").resolve()
             bundle = load_workflow_bundle(bundle_path)
-            comfy = ComfyClient(self._settings)
+            comfy = make_image_client(self._settings)
             out_dir.mkdir(parents=True, exist_ok=True)
             paths: list[Path] = []
             for i, ptxt in enumerate(prompts):
+                raise_if_cancelled(self._store, job_id)
                 log.info(
                     "image_generating",
                     index=i + 1,
@@ -293,6 +296,7 @@ class PipelineOrchestrator:
                         prompt_preview=ptxt[:80],
                     )
                 self._consume_pause_after_image(job_id)
+                raise_if_cancelled(self._store, job_id)
 
         if not incremental_image_artifacts:
             for p in paths:
@@ -426,6 +430,7 @@ class PipelineOrchestrator:
         for i, (clause, img_path, (start_s, end_s)) in enumerate(
             zip(plan.clauses, image_paths, ranges)
         ):
+            raise_if_cancelled(self._store, job_id)
             out_path = out_dir / f"clause_{i:03d}.mp4"
             if self._video_artifact_valid_for_path(job_id, out_path):
                 log.info("i2v_done", job_id=job_id, index=i + 1, total=len(plan.clauses), skipped=True)
@@ -462,6 +467,7 @@ class PipelineOrchestrator:
                 total=len(plan.clauses),
                 out=out_path.name,
             )
+            raise_if_cancelled(self._store, job_id)
 
         log.info("i2v_stage_done", job_id=job_id, total=len(plan.clauses))
 
@@ -940,24 +946,31 @@ def orchestrator_stage_handler(settings: Settings, store: JobStore):
 
     class _H:
         def run_plan(self, job_id: str) -> None:
-            orch.run_plan(job_id)
+            from shorts_pipeline.pipeline.stages import plan
+            plan.run(orch, job_id)
 
         def run_images(self, job_id: str) -> None:
-            orch.run_images(job_id)
+            from shorts_pipeline.pipeline.stages import images
+            images.run(orch, job_id)
 
         def run_tts(self, job_id: str) -> None:
-            orch.run_tts(job_id)
+            from shorts_pipeline.pipeline.stages import tts
+            tts.run(orch, job_id)
 
         def run_align(self, job_id: str) -> None:
-            orch.run_align(job_id)
+            from shorts_pipeline.pipeline.stages import align
+            align.run(orch, job_id)
 
         def run_i2v(self, job_id: str) -> None:
-            orch.run_i2v(job_id)
+            from shorts_pipeline.pipeline.stages import i2v
+            i2v.run(orch, job_id)
 
         def run_render(self, job_id: str) -> None:
-            orch.run_render(job_id)
+            from shorts_pipeline.pipeline.stages import render
+            render.run(orch, job_id)
 
         def run_publish(self, job_id: str) -> None:
-            orch.run_publish(job_id)
+            from shorts_pipeline.pipeline.stages import publish
+            publish.run(orch, job_id)
 
     return _H()
