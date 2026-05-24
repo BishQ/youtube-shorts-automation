@@ -281,7 +281,6 @@ def local_qwen_generate_with_retry(settings: Settings, system_prompt: str,
         payload = {
             "model": settings.local_llm_model,
             "messages": messages,
-            "response_format": {"type": "json_object"},
             "temperature": settings.local_llm_temperature,
             "max_tokens": settings.local_llm_max_tokens,
         }

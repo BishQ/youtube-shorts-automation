@@ -35,7 +35,8 @@ mkdir -p "$LOG_DIR"
 VLLM_MODEL=${VLLM_MODEL:-/workspace/models/gemma4-31b}
 VLLM_SERVED_NAME=${VLLM_SERVED_NAME:-gemma4-31b}
 VLLM_PORT=${VLLM_PORT:-8000}
-VLLM_MAX_NUM_BATCHED_TOKENS=${VLLM_MAX_NUM_BATCHED_TOKENS:-8192}
+VLLM_MAX_MODEL_LEN=${VLLM_MAX_MODEL_LEN:-32768}
+VLLM_MAX_NUM_BATCHED_TOKENS=${VLLM_MAX_NUM_BATCHED_TOKENS:-32768}
 VLLM_GPU_MEMORY_UTILIZATION=${VLLM_GPU_MEMORY_UTILIZATION:-0.90}
 
 log() { echo -e "\n\033[1;36m[bootstrap]\033[0m $*"; }
@@ -74,6 +75,7 @@ start_vllm_server() {
   if [ -f "$REPO_DIR/scripts/start_vllm.sh" ]; then
     VLLM_MODEL="$VLLM_MODEL" VLLM_SERVED_NAME="$VLLM_SERVED_NAME" \
       VLLM_PORT="$VLLM_PORT" \
+      VLLM_MAX_MODEL_LEN="$VLLM_MAX_MODEL_LEN" \
       VLLM_MAX_NUM_BATCHED_TOKENS="$VLLM_MAX_NUM_BATCHED_TOKENS" \
       VLLM_GPU_MEMORY_UTILIZATION="$VLLM_GPU_MEMORY_UTILIZATION" \
       bash "$REPO_DIR/scripts/start_vllm.sh"
@@ -89,6 +91,7 @@ start_vllm_server() {
     --served-model-name "$VLLM_SERVED_NAME" \
     --port "$VLLM_PORT" \
     --host 0.0.0.0 \
+    --max-model-len "$VLLM_MAX_MODEL_LEN" \
     --max-num-batched-tokens "$VLLM_MAX_NUM_BATCHED_TOKENS" \
     --gpu-memory-utilization "$VLLM_GPU_MEMORY_UTILIZATION" \
     --trust-remote-code \

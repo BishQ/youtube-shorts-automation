@@ -71,10 +71,11 @@ class VllmPublisherClient:
             ) from e
 
         if r.status_code >= 400:
+            detail = r.text[:2000]
             raise VllmPublisherError(
-                f"vLLM HTTP {r.status_code}",
+                f"vLLM HTTP {r.status_code}: {detail}",
                 status_code=r.status_code,
-                detail=r.text[:2000],
+                detail=detail,
             )
 
         try:
@@ -129,7 +130,6 @@ class VllmPublisherClient:
             "temperature": 0.9,
             "top_p": 0.95,
             "max_tokens": min(self._settings.local_llm_max_tokens, 4096),
-            "response_format": {"type": "json_object"},
         }
 
         messages: list[dict[str, str]] = [

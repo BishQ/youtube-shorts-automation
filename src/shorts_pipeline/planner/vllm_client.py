@@ -78,10 +78,11 @@ class VllmPlannerClient:
             ) from e
 
         if r.status_code >= 400:
+            detail = r.text[:2000]
             raise VllmPlannerError(
-                f"vLLM HTTP {r.status_code}",
+                f"vLLM HTTP {r.status_code}: {detail}",
                 status_code=r.status_code,
-                detail=r.text[:2000],
+                detail=detail,
             )
 
         try:
@@ -148,7 +149,6 @@ class VllmPlannerClient:
             "temperature": self._settings.local_llm_temperature,
             "top_p": 0.95,
             "max_tokens": self._settings.local_llm_max_tokens,
-            "response_format": {"type": "json_object"},
         }
 
         use_figure_name = getattr(self._settings, "image_prompts_include_figure_name", False)
