@@ -1,64 +1,56 @@
-"""Per-niche TTS word/syllable caps derived from empirical calibration.
+"""Per-niche TTS word/syllable caps targeting a 56.5–59.5 s final video.
 
-Generated from 47 plans rendered through Kokoro `am_adam` at speed=1.0,
-3 topics per niche (see ``calibration_results.csv`` for raw data).
+Target derivation:
+  • Final video window: 56.5–59.5 s (Shorts).
+  • Final = narration + outro (~2.0 s) + tail_pad (~0.5 s).
+  • Therefore narration target: 54.0–57.0 s.
+  • Empirical Kokoro `am_adam` rate: ~5.2 syllables/sec (measured from a
+    history run: 148 words × 1.73 syl/word = 256 syl → 49.4 s).
+  • Syllable target window: 281–296 syllables (54.0–57.0 s × 5.2).
 
-Methodology:
-  1. For each niche, render multiple plans → measure narration.wav duration.
-  2. Compute observed syllables-per-second (sps); Kokoro's sps is stable
-     within a niche (stdev ≈ 0.18 across all 47 samples) and bounded by the
-     average-syllables-per-word of the niche's vocabulary.
-  3. Take the worst (minimum) sps observed in the niche, multiply by 58 s
-     target × 0.95 safety → ``max_syllables``. Divide by mean syllables/word
-     in the niche → ``max_words``.
-
-Why syllable budgets matter more than word budgets:
-  • Across the calibration set, ``duration ~= 0.284 × syllables`` with
-    R² = 0.86. Word count alone only reaches R² = 0.21 because dense
-    technical vocabularies (science, history, tech_hackers) pack 1.7–1.9
-    syllables per word while sports/mythology run 1.44–1.57.
-  • A 178-word "history" script can run 78 s when packed with Latinate
-    technical terms — same word count, different duration. The schema
-    validator therefore caps both: words (cheap to count) AND syllables
-    (the true TTS load).
+Per-niche word ranges fall out of the syllable target divided by the niche's
+average syllables-per-word — dense niches (science, history) need fewer
+words to hit the same duration; light niches (mythology, wealth) need more.
+The validator rejects scripts outside ``[min_words, max_words]`` AND outside
+``[min_syllables, max_syllables]``, so under-budget scripts retry until the
+LLM lands inside the window.
 """
 
 from __future__ import annotations
 
-# Word cap strategy: ``max_words`` is set high enough (180) for the planner LLM
-# to reliably converge — calibration showed DeepSeek's natural compression floor
-# at ~175 words even after 10 correction retries. The TRUE TTS constraint is the
-# syllable cap. A 180-word plan with dense vocabulary (avg 1.8 syl/word) carries
-# 324 syllables and gets rejected; the model is forced to use shorter words.
-#
-# Anything that slips through the syllable gate but still overshoots the 58 s
-# Kokoro budget is handled by ``fit_narration.py`` (speed bump to <=1.22 + 59.5 s
-# hard cut). The validator+fit_narration combo guarantees ≤59.5 s output.
-DEFAULT_MAX_WORDS = 178
-DEFAULT_MAX_SYLLABLES = 260
-MIN_WORDS = 130
+# Defaults are intentionally wide — an unknown niche still has to clear the
+# syllable gate, but its word range can vary depending on vocabulary density.
+DEFAULT_MIN_WORDS = 160
+DEFAULT_MAX_WORDS = 210
+DEFAULT_MIN_SYLLABLES = 281
+DEFAULT_MAX_SYLLABLES = 296
+# Legacy export — some callers still import ``MIN_WORDS``.
+MIN_WORDS = DEFAULT_MIN_WORDS
 
-# Per-niche syllable budgets are the empirical (mean_sps × 58 s × 0.97) caps
-# from the 47-sample calibration set. avg_syl_per_word is informational — it
-# lets a niche prompt suggest "you have roughly N words at this density".
+# Each row targets the same 281–296 syllable window (≈54–57 s Kokoro).
+# avg_syl_per_word was recomputed from the few-shot examples themselves (the
+# real signal the LLM imitates) — the prior table was calibrated against
+# broken data (most rows were 2–3 s aborted TTS runs, not full narrations).
+# Word range = (syl_window / measured_spw) ± 7 word wiggle. The HARD gate is
+# the syllable budget; word range is the cheap proxy for prompt guidance.
 NICHE_CAPS: dict[str, dict[str, int | float]] = {
-    "business":     {"max_words": 178, "max_syllables": 270, "avg_syl_per_word": 1.65},
-    "cosmic":       {"max_words": 178, "max_syllables": 270, "avg_syl_per_word": 1.56},
-    "crime":        {"max_words": 178, "max_syllables": 270, "avg_syl_per_word": 1.59},
-    "cults":        {"max_words": 178, "max_syllables": 270, "avg_syl_per_word": 1.69},
-    "documentary":  {"max_words": 178, "max_syllables": 270, "avg_syl_per_word": 1.73},
-    "edutainment":  {"max_words": 178, "max_syllables": 270, "avg_syl_per_word": 1.59},
-    "health":       {"max_words": 178, "max_syllables": 270, "avg_syl_per_word": 1.63},
-    "history":      {"max_words": 178, "max_syllables": 270, "avg_syl_per_word": 1.73},
-    "lost_tech":    {"max_words": 178, "max_syllables": 270, "avg_syl_per_word": 1.62},
-    "military":     {"max_words": 178, "max_syllables": 270, "avg_syl_per_word": 1.58},
-    "mythology":    {"max_words": 178, "max_syllables": 270, "avg_syl_per_word": 1.47},
-    "psychology":   {"max_words": 178, "max_syllables": 270, "avg_syl_per_word": 1.61},
-    "science":      {"max_words": 178, "max_syllables": 270, "avg_syl_per_word": 1.80},
-    "sports":       {"max_words": 178, "max_syllables": 270, "avg_syl_per_word": 1.57},
-    "survival":     {"max_words": 178, "max_syllables": 270, "avg_syl_per_word": 1.57},
-    "tech_hackers": {"max_words": 178, "max_syllables": 270, "avg_syl_per_word": 1.66},
-    "wealth":       {"max_words": 178, "max_syllables": 270, "avg_syl_per_word": 1.51},
+    "business":     {"min_words": 162, "max_words": 185, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.67},
+    "cosmic":       {"min_words": 168, "max_words": 190, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.63},
+    "crime":        {"min_words": 176, "max_words": 199, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.53},
+    "cults":        {"min_words": 163, "max_words": 185, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.66},
+    "documentary":  {"min_words": 180, "max_words": 204, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.50},
+    "edutainment":  {"min_words": 179, "max_words": 202, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.51},
+    "health":       {"min_words": 174, "max_words": 198, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.55},
+    "history":      {"min_words": 180, "max_words": 204, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.50},
+    "lost_tech":    {"min_words": 174, "max_words": 198, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.55},
+    "military":     {"min_words": 170, "max_words": 193, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.59},
+    "mythology":    {"min_words": 206, "max_words": 230, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.32},
+    "psychology":   {"min_words": 187, "max_words": 211, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.45},
+    "science":      {"min_words": 164, "max_words": 187, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.64},
+    "sports":       {"min_words": 191, "max_words": 216, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.42},
+    "survival":     {"min_words": 183, "max_words": 207, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.48},
+    "tech_hackers": {"min_words": 163, "max_words": 186, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.65},
+    "wealth":       {"min_words": 157, "max_words": 180, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.71},
 }
 
 
@@ -69,11 +61,21 @@ def caps_for(niche: str | None) -> tuple[int, int, int]:
     silently expand the budget for a misspelled or new niche.
     """
     if not niche:
-        return MIN_WORDS, DEFAULT_MAX_WORDS, DEFAULT_MAX_SYLLABLES
+        return DEFAULT_MIN_WORDS, DEFAULT_MAX_WORDS, DEFAULT_MAX_SYLLABLES
     n = NICHE_CAPS.get(niche)
     if n is None:
-        return MIN_WORDS, DEFAULT_MAX_WORDS, DEFAULT_MAX_SYLLABLES
-    return MIN_WORDS, int(n["max_words"]), int(n["max_syllables"])
+        return DEFAULT_MIN_WORDS, DEFAULT_MAX_WORDS, DEFAULT_MAX_SYLLABLES
+    return int(n["min_words"]), int(n["max_words"]), int(n["max_syllables"])
+
+
+def syllable_floor_for(niche: str | None) -> int:
+    """Return the per-niche ``min_syllables`` floor (54 s narration target)."""
+    if not niche:
+        return DEFAULT_MIN_SYLLABLES
+    n = NICHE_CAPS.get(niche)
+    if n is None:
+        return DEFAULT_MIN_SYLLABLES
+    return int(n["min_syllables"])
 
 
 def count_syllables(text: str) -> int:

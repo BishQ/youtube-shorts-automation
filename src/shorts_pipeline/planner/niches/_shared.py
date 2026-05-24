@@ -170,11 +170,16 @@ QUANTITATIVE PRE-OUTPUT GATES (validator rejects on)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   • Clauses: EXACTLY 14.
   • full_script word count: see your niche's word budget (passed in the user prompt).
-    Budgets are calibrated per-niche from real Kokoro TTS runs — they are NOT 178 across
-    the board. Science/history budgets are ~135–140 words; sports/mythology run 160+.
-  • full_script syllable count: stays under the niche syllable budget. Long Latinate words
-    (logarithmic, demonstration, characteristics) burn the budget twice as fast as plain
-    English. Prefer short concrete words: "logs", "proof", "traits".
+    Budgets are calibrated per-niche from real Kokoro TTS runs so EVERY niche lands a
+    54–57 s body (final video 56.5–59.5 s after outro). Dense-vocabulary niches
+    (science, history, documentary) sit ~160–175 words; light-vocabulary niches
+    (sports, mythology, wealth) sit ~185–200 words. Both produce the same duration —
+    the SYLLABLE count is what matters, the word count is the cheap proxy.
+  • full_script syllable count: MUST sit inside [281, 296] (Kokoro reads ~5.2 syl/sec;
+    that window is 54–57 s). Long Latinate words (logarithmic, demonstration,
+    characteristics) burn the budget twice as fast as plain English. Prefer short
+    concrete words: "logs", "proof", "traits". UNDER-syllabified scripts are
+    rejected too — a 51 s narration leaves the final video below the 56.5 s floor.
   • Question marks: EXACTLY 2 (clause 1 hook + end_plate_question).
   • Clause 1 text starts with a curiosity-gap question ≤14 words.
   • Clause 1 image: hero/subject portrait, face dominant, cold_open_object secondary.

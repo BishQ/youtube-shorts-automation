@@ -16,9 +16,10 @@ from pydantic import ValidationInfo
 from shorts_pipeline.planner.niche_caps import (
     DEFAULT_MAX_SYLLABLES as _DEFAULT_MAX_SYLLABLES,
     DEFAULT_MAX_WORDS as _DEFAULT_MAX_WORDS,
-    MIN_WORDS as NARRATION_SCRIPT_MIN_WORDS,
+    DEFAULT_MIN_WORDS as NARRATION_SCRIPT_MIN_WORDS,
     caps_for as _caps_for,
     count_syllables as _count_syllables,
+    syllable_floor_for as _syllable_floor_for,
 )
 
 # Kept as a module-level name for backward compatibility with callers that
@@ -402,15 +403,25 @@ class NarrationPlan(BaseModel):
         # the word count is fine (typical failure mode: Latin titles, polysyllabic
         # technical jargon, hyphenated compound nouns).
         syll_count = _count_syllables(self.full_script)
+        min_syllables = _syllable_floor_for(niche)
         if syll_count > max_syllables:
             raise ValueError(
                 f"full_script contains {syll_count} syllables — exceeds the niche "
                 f"{niche!r} syllable budget of {max_syllables}. Even with the right "
-                "word count, dense polysyllabic vocabulary blows the 58 s TTS window "
-                "(Kokoro reads ~4.5 syllables/sec). Replace long Latinate/technical "
+                "word count, dense polysyllabic vocabulary blows the 57 s body window "
+                "(Kokoro reads ~5.2 syllables/sec). Replace long Latinate/technical "
                 "words with shorter plain-English equivalents. Examples: "
                 "'characteristics' → 'traits', 'demonstration' → 'proof', "
                 "'logarithmic' → 'logs', 'extraordinarily' → 'incredibly'."
+            )
+        if syll_count < min_syllables:
+            raise ValueError(
+                f"full_script contains only {syll_count} syllables — below the niche "
+                f"{niche!r} minimum of {min_syllables}. Final video must land in the "
+                "56.5–59.5 s window; with the current outro/pad budget, narration "
+                f"must be 54–57 s (≈{min_syllables}–{max_syllables} syllables). "
+                "Add ONE concrete verb+noun beat to clauses 6–9 (CRISIS) so the "
+                "rhythm stays tight while the syllable count rises."
             )
 
         # Closing bio-year ban: clauses 12-14 (indices 11-13) must end on a powerful

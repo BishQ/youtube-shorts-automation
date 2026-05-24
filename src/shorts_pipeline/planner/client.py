@@ -12,6 +12,12 @@ from shorts_pipeline.planner.schema import (
 )
 
 _THINK_TAG_RE = re.compile(r"<think>.*?</think>", re.DOTALL | re.IGNORECASE)
+# Gemma 4 / some Ollama models emit reasoning between literal "Thinking..."
+# and "...done thinking." markers instead of <think> tags.
+_THINKING_BLOCK_RE = re.compile(
+    r"Thinking\.\.\..*?\.\.\.done thinking\.",
+    re.DOTALL | re.IGNORECASE,
+)
 # Trailing comma before a closing brace or bracket — invalid JSON, very common
 # in LLM output especially on the last element of a long array.
 _TRAILING_COMMA_RE = re.compile(r",\s*([\]}])")

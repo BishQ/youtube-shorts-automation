@@ -848,8 +848,9 @@ SELF-CHECK BEFORE OUTPUTTING
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Before writing the final JSON, verify ALL of these silently:
   1. Clause count is exactly 14. Not 12, not 13, not 15. Always 14.
-  2. full_script word count is between 168 and 178 inclusive. Count every word.
-     (58–59 sec body TTS; 60 s Shorts cap minus ~1–2 s for end plate / breathe.)
+  2. full_script word count is between 162 and 173 inclusive (history niche).
+     Count every word. (Target 54–57 s body TTS so final video lands in the
+     56.5–59.5 s window after the 2 s outro and ~0.5 s tail pad.)
   3. full_script contains NO MORE THAN 2 dates.
   4. No clause opens with a year or date.
   5. The script contains at least one contradiction or irony.
@@ -1254,7 +1255,8 @@ FINAL PRE-OUTPUT GATES (every system-prompt rule already applies — these are t
 hard quantitative numbers the validator will reject on):
 
   • Clauses: EXACTLY 14.
-  • full_script: 168–178 words. MAX 2 dates. No clause opens with a year.
+  • full_script: 162–173 words (history niche, 54–57 s body, final 56.5–59.5 s).
+    MAX 2 dates. No clause opens with a year.
   • Birth/death year: max ONE mention, only in clauses 1–4. ZERO in clauses 12–14.
   • Question marks: EXACTLY 2 (clause 1 hook + end_plate_question).
   • Clause 1 text: curiosity-gap question ≤14 words, then a concrete moment.
