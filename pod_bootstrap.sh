@@ -13,8 +13,8 @@
 # Env overrides (set BEFORE running):
 #   REPO_URL=https://github.com/<USER>/<REPO>.git   # required if no local clone
 #   GIT_BRANCH=main
-#   VLLM_MODEL=Qwen/Qwen3-32B                         # HuggingFace model for vLLM
-#   VLLM_SERVED_NAME=Qwen/Qwen3-32B                   # must match SHORTS_LOCAL_LLM_MODEL
+#   VLLM_MODEL=/workspace/models/gemma4-31b              # local weights on pod
+#   VLLM_SERVED_NAME=gemma4-31b                          # must match settings local_llm_model
 #   VLLM_PORT=8000
 #   SKIP_MODELS=0                                   # 1 = skip huggingface downloads
 #   SKIP_SMOKE=0                                    # 1 = setup only, don't launch render
@@ -31,6 +31,29 @@ mkdir -p "$LOG_DIR"
 log() { echo -e "\n\033[1;36m[bootstrap]\033[0m $*"; }
 warn() { echo -e "\033[1;33m[bootstrap]\033[0m $*" >&2; }
 die() { echo -e "\033[1;31m[bootstrap]\033[0m $*" >&2; exit 1; }
+
+# Upsert a KEY=VALUE line in .env (creates file if missing).
+set_env_key() {
+  local file=$1 key=$2 val=$3
+  touch "$file"
+  if grep -q "^${key}=" "$file" 2>/dev/null; then
+    sed -i "s|^${key}=.*|${key}=${val}|" "$file"
+  else
+    echo "${key}=${val}" >> "$file"
+  fi
+}
+
+# Keep .env LLM block in sync with vLLM — no manual pod editing needed.
+sync_env_llm() {
+  local env_file=$1
+  log "Syncing LLM keys in ${env_file}…"
+  set_env_key "$env_file" SHORTS_PLANNER_BACKEND vllm
+  set_env_key "$env_file" SHORTS_LOCAL_LLM_BASE_URL "http://127.0.0.1:${VLLM_PORT}/v1"
+  set_env_key "$env_file" SHORTS_LOCAL_LLM_MODEL "$VLLM_SERVED_NAME"
+  set_env_key "$env_file" SHORTS_LOCAL_LLM_TIMEOUT_S 600
+  set_env_key "$env_file" SHORTS_LOCAL_LLM_TEMPERATURE 0.4
+  set_env_key "$env_file" SHORTS_LOCAL_LLM_MAX_TOKENS 8000
+}
 
 # ─── 1. System deps ──────────────────────────────────────────────────────────
 log "Installing system packages…"
@@ -107,8 +130,8 @@ if [ "${SKIP_MODELS:-0}" != "1" ]; then
 fi
 
 # ─── 4. vLLM (LLM backend) ───────────────────────────────────────────────────
-VLLM_MODEL=${VLLM_MODEL:-Qwen/Qwen3-32B}
-VLLM_SERVED_NAME=${VLLM_SERVED_NAME:-$VLLM_MODEL}
+VLLM_MODEL=${VLLM_MODEL:-/workspace/models/gemma4-31b}
+VLLM_SERVED_NAME=${VLLM_SERVED_NAME:-gemma4-31b}
 VLLM_PORT=${VLLM_PORT:-8000}
 
 log "Installing vLLM…"
@@ -150,8 +173,12 @@ pip install -q telethon pydantic-settings python-dotenv kokoro soundfile faster-
 
 # ─── 6. .env safety check ────────────────────────────────────────────────────
 if [ ! -f .env ]; then
-  warn ".env not found in $REPO_DIR — copy from local or create manually."
-  warn "Required keys: SHORTS_TG_API_ID, SHORTS_TG_API_HASH, SHORTS_TG_TARGET_CHAT"
+  warn ".env not found in $REPO_DIR — creating from defaults."
+  touch .env
+fi
+sync_env_llm "$REPO_DIR/.env"
+if ! grep -q '^SHORTS_TG_API_ID=' .env 2>/dev/null; then
+  warn "Telegram keys missing — add SHORTS_TG_API_ID, SHORTS_TG_API_HASH, SHORTS_TG_TARGET_CHAT to .env"
 fi
 
 # ─── 7. ComfyUI server ───────────────────────────────────────────────────────

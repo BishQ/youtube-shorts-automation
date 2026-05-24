@@ -23,10 +23,10 @@ class Settings(BaseSettings):
     # anything else raises in build_planner_client.
     planner_backend: str = "vllm"
 
-    # ── Local LLM (vLLM default: http://127.0.0.1:8000/v1) ───────────────────
-    # Default model must match vLLM --served-model-name (HuggingFace id).
+    # ── Local LLM (vLLM on RunPod pod: port 8000, Gemma 4 31B) ─────────────
+    # Default model must match vLLM --served-model-name (pod_bootstrap sets both).
     local_llm_base_url: str = "http://127.0.0.1:8000/v1"
-    local_llm_model: str = "Qwen/Qwen3-32B"
+    local_llm_model: str = "gemma4-31b"
     local_llm_timeout_s: float = 600.0
     local_llm_temperature: float = 0.4
     local_llm_max_tokens: int = 8000
