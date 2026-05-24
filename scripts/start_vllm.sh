@@ -1,8 +1,19 @@
 #!/usr/bin/env bash
-# Start vLLM for Gemma 4 31B (text-only Shorts planner).
-# Auto-tunes for 1×80GB vs 2×40GB. Ollama was simpler; this matches official vLLM recipe.
+# Start vLLM OpenAI API server (Gemma 4 31B text-only on RunPod).
 #
+# Usage:
 #   bash scripts/start_vllm.sh
+#
+# Env overrides:
+#   VLLM_MODEL=/workspace/models/gemma4-31b
+#   VLLM_SERVED_NAME=gemma4-31b
+#   VLLM_PORT=8000
+#   VLLM_TENSOR_PARALLEL_SIZE=2      # auto = GPU count (31B needs 80GB or TP>=2)
+#   VLLM_MAX_MODEL_LEN=8192
+#   VLLM_MAX_NUM_BATCHED_TOKENS=8192
+#   VLLM_GPU_MEMORY_UTILIZATION=0.92
+#   VLLM_KV_CACHE_DTYPE=fp8          # helps on 40–48GB GPUs
+#   VLLM_LIMIT_MM='{"image":0,"audio":0,"video":0}'  # text-only (Shorts planner)
 
 set -euo pipefail
 
@@ -14,6 +25,12 @@ VLLM_MODEL=${VLLM_MODEL:-/workspace/models/gemma4-31b}
 VLLM_SERVED_NAME=${VLLM_SERVED_NAME:-gemma4-31b}
 VLLM_PORT=${VLLM_PORT:-8000}
 VLLM_HOST=${VLLM_HOST:-0.0.0.0}
+VLLM_MAX_NUM_BATCHED_TOKENS=${VLLM_MAX_NUM_BATCHED_TOKENS:-8192}
+VLLM_MAX_MODEL_LEN=${VLLM_MAX_MODEL_LEN:-8192}
+VLLM_GPU_MEMORY_UTILIZATION=${VLLM_GPU_MEMORY_UTILIZATION:-0.92}
+VLLM_KV_CACHE_DTYPE=${VLLM_KV_CACHE_DTYPE:-fp8}
+VLLM_LIMIT_MM=${VLLM_LIMIT_MM:-'{"image":0,"audio":0,"video":0}'}
+VLLM_ENFORCE_EAGER=${VLLM_ENFORCE_EAGER:-1}
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 REPO_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
@@ -23,91 +40,125 @@ warn() { echo -e "\033[1;33m[vllm]\033[0m $*" >&2; }
 die() { echo -e "\033[1;31m[vllm]\033[0m $*" >&2; exit 1; }
 
 dump_vllm_errors() {
-  warn "=== nvidia-smi ==="
-  nvidia-smi 2>/dev/null || true
-  warn "=== vllm.log (last errors) ==="
-  grep -iE 'error|oom|cuda|failed|traceback|runtimeerror|valueerror' \
-    "$LOG_DIR/vllm.log" 2>/dev/null | tail -60 \
-    || tail -60 "$LOG_DIR/vllm.log" 2>/dev/null || true
+  local logfile=$1
+  warn "=== GPU status ==="
+  nvidia-smi 2>/dev/null || warn "nvidia-smi unavailable"
+  warn "=== vLLM log (errors / OOM / CUDA) ==="
+  grep -iE 'error|oom|cuda|failed|traceback|runtimeerror|valueerror|notimplemented' \
+    "$logfile" 2>/dev/null | tail -80 || tail -80 "$logfile" 2>/dev/null || true
 }
 
 gpu_count() {
-  nvidia-smi -L 2>/dev/null | wc -l || echo 1
-}
-
-gpu_vram_mb() {
-  nvidia-smi --query-gpu=memory.total --format=csv,noheader,nounits 2>/dev/null \
-    | head -1 | tr -d ' ' || echo 0
-}
-
-# Pick flags from GPU — 80GB single-GPU uses the official simple recipe (no fp8, no eager).
-apply_vram_profile() {
-  local gpus vram
-  gpus=$(gpu_count)
-  vram=$(gpu_vram_mb)
-
-  if [ -n "${VLLM_TENSOR_PARALLEL_SIZE:-}" ]; then
-    : # user override
-  elif [ "$gpus" -ge 2 ]; then
-    VLLM_TENSOR_PARALLEL_SIZE=2
+  if command -v nvidia-smi >/dev/null 2>&1; then
+    nvidia-smi -L 2>/dev/null | wc -l
   else
-    VLLM_TENSOR_PARALLEL_SIZE=1
+    echo 1
   fi
+}
 
-  # Defaults (override via env any time)
-  VLLM_MAX_MODEL_LEN=${VLLM_MAX_MODEL_LEN:-8192}
-  VLLM_MAX_NUM_BATCHED_TOKENS=${VLLM_MAX_NUM_BATCHED_TOKENS:-8192}
-  VLLM_LIMIT_MM=${VLLM_LIMIT_MM:-'{"image": 0, "audio": 0, "video": 0}'}
-
-  if [ "$vram" -ge 75000 ] && [ "$gpus" -eq 1 ]; then
-    log "Profile: 1×80GB — BF16, no fp8 KV (Gemma 4 safe on H100/A100-80G)"
-    VLLM_GPU_MEMORY_UTILIZATION=${VLLM_GPU_MEMORY_UTILIZATION:-0.90}
-    VLLM_KV_CACHE_DTYPE=${VLLM_KV_CACHE_DTYPE:-auto}
-    VLLM_ENFORCE_EAGER=${VLLM_ENFORCE_EAGER:-0}
-  elif [ "$gpus" -ge 2 ]; then
-    log "Profile: ${gpus} GPUs — tensor-parallel-size=${VLLM_TENSOR_PARALLEL_SIZE}"
-    VLLM_GPU_MEMORY_UTILIZATION=${VLLM_GPU_MEMORY_UTILIZATION:-0.90}
-    VLLM_KV_CACHE_DTYPE=${VLLM_KV_CACHE_DTYPE:-auto}
-    VLLM_ENFORCE_EAGER=${VLLM_ENFORCE_EAGER:-0}
+pick_tensor_parallel() {
+  if [ -n "${VLLM_TENSOR_PARALLEL_SIZE:-}" ]; then
+    echo "$VLLM_TENSOR_PARALLEL_SIZE"
+    return
+  fi
+  local gpus
+  gpus=$(gpu_count)
+  if [ "$gpus" -ge 2 ]; then
+    echo 2
   else
-    log "Profile: low VRAM — fp8 KV + eager mode"
-    VLLM_GPU_MEMORY_UTILIZATION=${VLLM_GPU_MEMORY_UTILIZATION:-0.92}
-    VLLM_KV_CACHE_DTYPE=${VLLM_KV_CACHE_DTYPE:-fp8}
-    VLLM_ENFORCE_EAGER=${VLLM_ENFORCE_EAGER:-1}
+    echo 1
   fi
 }
 
 if curl -sf "http://127.0.0.1:${VLLM_PORT}/v1/models" >/dev/null 2>&1; then
-  log "Already running."
-  curl -sf "http://127.0.0.1:${VLLM_PORT}/v1/models"; echo
+  log "Already running on port ${VLLM_PORT}."
+  curl -sf "http://127.0.0.1:${VLLM_PORT}/v1/models"
+  echo
   exit 0
 fi
 
-[ -e "$VLLM_MODEL" ] || die "Model not found: ${VLLM_MODEL}"
+if [ ! -e "$VLLM_MODEL" ]; then
+  die "Model not found: ${VLLM_MODEL} — set VLLM_MODEL to your local weights path"
+fi
 
-apply_vram_profile
+VLLM_TENSOR_PARALLEL_SIZE=$(pick_tensor_parallel)
+GPUS=$(gpu_count)
 
-log "Installing vLLM…"
-pip install -q -U 'vllm>=0.8.0'
+log "GPUs detected: ${GPUS}  tensor-parallel-size=${VLLM_TENSOR_PARALLEL_SIZE}"
+if [ "$GPUS" -lt 2 ] && echo "$VLLM_MODEL" | grep -qi '31b'; then
+  warn "Gemma 4 31B BF16 needs ~80GB VRAM on 1 GPU (official vLLM guide)."
+  warn "Single GPU: use VLLM_KV_CACHE_DTYPE=fp8 and VLLM_MAX_MODEL_LEN=8192, or pick a 2-GPU pod (TP=2)."
+fi
 
-[ -f "$REPO_DIR/scripts/sync_env_llm.sh" ] && \
+ensure_cuda_dev_headers() {
+  # FlashInfer JIT needs curand.h; RunPod images often ship runtime-only CUDA.
+  if [ -f /usr/local/cuda/include/curand.h ]; then
+    return 0
+  fi
+  log "Installing CUDA dev headers (curand) for FlashInfer…"
+  apt-get update -qq 2>/dev/null || true
+  apt-get install -y -qq \
+    build-essential ninja-build \
+    cuda-curand-dev-12-4 cuda-curand-dev-12-6 cuda-curand-dev-12-8 \
+    libcurand-dev 2>/dev/null || true
+  pip install -q nvidia-curand-cu12 2>/dev/null || true
+  if [ -f /usr/local/cuda/include/curand.h ]; then
+    log "  curand.h found."
+    return 0
+  fi
+  # Search pip-installed nvidia curand headers
+  local curand_inc
+  curand_inc=$(python3 - <<'PY' 2>/dev/null || true
+import glob
+hits = glob.glob("/usr/local/lib/python*/dist-packages/nvidia/curand/include/curand.h")
+print(hits[0] if hits else "")
+PY
+)
+  if [ -n "$curand_inc" ]; then
+    export CPATH="$(dirname "$curand_inc")${CPATH:+:$CPATH}"
+    export C_INCLUDE_PATH="$CPATH"
+    log "  curand.h via pip: $(dirname "$curand_inc")"
+    return 0
+  fi
+  warn "curand.h still missing — disabling FlashInfer sampler (VLLM_USE_FLASHINFER_SAMPLER=0)."
+  return 1
+}
+
+# Avoid FlashInfer JIT sampling compile on minimal CUDA images (needs curand.h).
+export VLLM_USE_FLASHINFER_SAMPLER=${VLLM_USE_FLASHINFER_SAMPLER:-0}
+ensure_cuda_dev_headers || true
+# Stale failed JIT cache can block retries after fixes.
+rm -rf /root/.cache/flashinfer 2>/dev/null || true
+
+export CUDA_HOME="${CUDA_HOME:-/usr/local/cuda}"
+export PATH="$CUDA_HOME/bin:${PATH}"
+
+log "Installing/upgrading vLLM…"
+pip install -q -U vllm ninja-build
+
+if [ -f "$REPO_DIR/scripts/sync_env_llm.sh" ]; then
   VLLM_PORT="$VLLM_PORT" VLLM_SERVED_NAME="$VLLM_SERVED_NAME" \
-  bash "$REPO_DIR/scripts/sync_env_llm.sh" "$REPO_DIR/.env"
+    bash "$REPO_DIR/scripts/sync_env_llm.sh" "$REPO_DIR/.env"
+fi
 
-log "Launching Gemma 4 text-only"
+log "Starting Gemma 4 (text-only)…"
 log "  model=${VLLM_MODEL}"
-log "  tp=${VLLM_TENSOR_PARALLEL_SIZE}  port=${VLLM_PORT}  vram=$(gpu_vram_mb)MB  gpus=$(gpu_count)"
+log "  served=${VLLM_SERVED_NAME}  port=${VLLM_PORT}  tp=${VLLM_TENSOR_PARALLEL_SIZE}"
+log "  max_model_len=${VLLM_MAX_MODEL_LEN}  max_batched=${VLLM_MAX_NUM_BATCHED_TOKENS}"
+log "  kv_cache=${VLLM_KV_CACHE_DTYPE}  limit_mm=${VLLM_LIMIT_MM}"
+log "  flashinfer_sampler=${VLLM_USE_FLASHINFER_SAMPLER}"
 
 pkill -f "vllm.entrypoints.openai.api_server" || true
 sleep 2
+
 export HF_HOME="${HF_HOME:-$ROOT/hf_cache}"
 mkdir -p "$HF_HOME"
 
-ARGS=(
+VLLM_ARGS=(
   --model "$VLLM_MODEL"
   --served-model-name "$VLLM_SERVED_NAME"
-  --host "$VLLM_HOST"
   --port "$VLLM_PORT"
+  --host "$VLLM_HOST"
   --tensor-parallel-size "$VLLM_TENSOR_PARALLEL_SIZE"
   --max-model-len "$VLLM_MAX_MODEL_LEN"
   --max-num-batched-tokens "$VLLM_MAX_NUM_BATCHED_TOKENS"
@@ -115,25 +166,38 @@ ARGS=(
   --limit-mm-per-prompt "$VLLM_LIMIT_MM"
   --trust-remote-code
 )
-[ "$VLLM_KV_CACHE_DTYPE" != "auto" ] && ARGS+=(--kv-cache-dtype "$VLLM_KV_CACHE_DTYPE")
-[ "$VLLM_ENFORCE_EAGER" = "1" ] && ARGS+=(--enforce-eager)
 
-nohup python3 -m vllm.entrypoints.openai.api_server "${ARGS[@]}" \
+if [ "$VLLM_KV_CACHE_DTYPE" != "auto" ]; then
+  VLLM_ARGS+=(--kv-cache-dtype "$VLLM_KV_CACHE_DTYPE")
+fi
+if [ "$VLLM_ENFORCE_EAGER" = "1" ]; then
+  VLLM_ARGS+=(--enforce-eager)
+fi
+
+nohup python3 -m vllm.entrypoints.openai.api_server \
+  "${VLLM_ARGS[@]}" \
   >"$LOG_DIR/vllm.log" 2>&1 &
 
-log "Loading weights… (2–8 min on 31B) — tail -f $LOG_DIR/vllm.log"
+log "Waiting for vLLM (log: ${LOG_DIR}/vllm.log) — 31B load can take several minutes…"
 for i in $(seq 1 180); do
-  curl -sf "http://127.0.0.1:${VLLM_PORT}/v1/models" >/dev/null 2>&1 && {
+  if curl -sf "http://127.0.0.1:${VLLM_PORT}/v1/models" >/dev/null 2>&1; then
     log "Ready."
-    curl -sf "http://127.0.0.1:${VLLM_PORT}/v1/models"; echo
+    curl -sf "http://127.0.0.1:${VLLM_PORT}/v1/models"
+    echo
     exit 0
-  }
-  if ! pgrep -f "vllm.entrypoints.openai.api_server" >/dev/null 2>&1 && [ "$i" -gt 15 ]; then
-    dump_vllm_errors
-    die "vLLM crashed — see $LOG_DIR/vllm.log"
   fi
-  [ "$((i % 12))" -eq 0 ] && log "  …still loading (${i}×5s)"
+  if ! pgrep -f "vllm.entrypoints.openai.api_server" >/dev/null 2>&1; then
+    if [ "$i" -gt 12 ]; then
+      dump_vllm_errors "$LOG_DIR/vllm.log"
+      die "vLLM process exited — see ${LOG_DIR}/vllm.log"
+    fi
+  fi
+  if [ "$((i % 12))" -eq 0 ]; then
+    log "  still loading… (${i}×5s)"
+    tail -3 "$LOG_DIR/vllm.log" 2>/dev/null || true
+  fi
   sleep 5
 done
-dump_vllm_errors
-die "Timeout — see $LOG_DIR/vllm.log"
+
+dump_vllm_errors "$LOG_DIR/vllm.log"
+die "vLLM not ready after 900s — see ${LOG_DIR}/vllm.log"
