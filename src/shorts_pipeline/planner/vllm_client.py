@@ -24,7 +24,7 @@ from shorts_pipeline.config.settings import Settings
 from shorts_pipeline.logging_setup import get_logger
 from shorts_pipeline.planner.client import _build_correction_message, _extract_json
 from shorts_pipeline.planner.word_budget import maybe_clamp_plan_json
-from shorts_pipeline.planner.prompts import SYSTEM_PROMPT, user_prompt
+from shorts_pipeline.planner.prompts import COMPACT_SYSTEM_PROMPT, compact_user_prompt
 from shorts_pipeline.planner.schema import NarrationPlan, validate_english_figure_v1
 from shorts_pipeline.planner.wiki_grounding import fetch_grounding, format_for_prompt
 
@@ -134,7 +134,7 @@ class VllmPlannerClient:
     ) -> NarrationPlan:
         grounding = fetch_grounding(figure_name)
         wiki_block = format_for_prompt(grounding)
-        system_with_facts = SYSTEM_PROMPT + ("\n\n" + wiki_block if wiki_block else "")
+        system_with_facts = COMPACT_SYSTEM_PROMPT + ("\n\n" + wiki_block[:6000] if wiki_block else "")
         if not grounding.found:
             import warnings
 
@@ -148,7 +148,7 @@ class VllmPlannerClient:
             "model": self._settings.local_llm_model,
             "temperature": self._settings.local_llm_temperature,
             "top_p": 0.95,
-            "max_tokens": self._settings.local_llm_max_tokens,
+            "max_tokens": min(self._settings.local_llm_max_tokens, 5000),
         }
 
         use_figure_name = getattr(self._settings, "image_prompts_include_figure_name", False)
@@ -156,7 +156,7 @@ class VllmPlannerClient:
 
         messages: list[dict[str, str]] = [
             {"role": "system", "content": system_with_facts},
-            {"role": "user", "content": user_prompt(figure_name, use_figure_name=use_figure_name)},
+            {"role": "user", "content": compact_user_prompt(figure_name, use_figure_name=use_figure_name)},
         ]
 
         if user_feedback and user_feedback.strip():

@@ -282,7 +282,7 @@ def local_qwen_generate_with_retry(settings: Settings, system_prompt: str,
             "model": settings.local_llm_model,
             "messages": messages,
             "temperature": settings.local_llm_temperature,
-            "max_tokens": settings.local_llm_max_tokens,
+            "max_tokens": min(settings.local_llm_max_tokens, 5000),
         }
         with httpx.Client(timeout=settings.local_llm_timeout_s) as c:
             try:

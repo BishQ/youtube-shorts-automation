@@ -1271,3 +1271,68 @@ hard quantitative numbers the validator will reject on):
   • Zero graphic blood/gore (imply violence through aftermath).
 
 Historical figure: {figure_name!r}"""
+
+
+COMPACT_SYSTEM_PROMPT = """You write production-ready YouTube Shorts narration plans as STRICT JSON only.
+Create a cinematic, factual, emotionally driven 56-60 second biography short.
+Rules: exactly 14 clauses; full_script 162-173 words; max 2 date mentions; exactly 2 question marks
+(first sentence of clause 1 and end_plate_question only); active voice; no markdown; no invented facts.
+Clause 1 must start with a curiosity-gap question and its image must be a dominant hero portrait.
+Image prompts must be cinematic, specific, safe, non-gory, mobile-readable, and include shot type,
+lighting, colour anchors, subject/action, and style. Avoid the figure's real name inside image_prompt
+unless explicitly asked. Each motion_prompt is only movement: camera move + subject motion + atmosphere.
+Return JSON that validates the schema exactly."""
+
+
+def compact_user_prompt(figure_name: str, *, use_figure_name: bool = False) -> str:
+    """Short prompt for local vLLM contexts where the full craft prompt is too large."""
+    name_policy = (
+        f'Every image_prompt that shows the hero MUST begin with "{figure_name}".'
+        if use_figure_name
+        else f'Never include "{figure_name}" or any part of the name inside image_prompt.'
+    )
+    return f"""Create a complete narration plan about: {figure_name!r}.
+
+Output exactly one JSON object with this shape:
+{{
+  "historical_figure": string,
+  "cold_open_object": string,
+  "decision_lever": {{"lever_type": "law"|"geography"|"politics", "description": string, "consequence": string}},
+  "clauses": [
+    {{
+      "text": string,
+      "image_prompt": string,
+      "motion_prompt": string,
+      "figure_present": boolean,
+      "beat": {{
+        "emotion": "hook"|"tense_buildup"|"suspense"|"reveal"|"triumphant"|"tragic"|"climactic"|"reflective"|"shock",
+        "intensity": number,
+        "camera": "ken_burns"|"pan"|"zoom_out"|"hold"|"parallax",
+        "transition_in": "hard_cut"|"xfade"|"dip_to_black"|"smash_white",
+        "duration_hint": "short"|"medium"|"long",
+        "color_grade": "epic_warm"|"tragic_cold"|"ancient_sepia"|"dark_thriller"|"golden_hour"|null,
+        "audio_event": "none"|"low_rumble"|"impact"|"paper_flutter"|"crowd_cheer"|"sword_clash"|"horse_gallop"|"fire_crackle"|"thunder_crack"|"crowd_murmur",
+        "emphasis_words": [string],
+        "visual_tier": "grounded"|"cinematic"|"legendary",
+        "subtitle_position": "top"|"middle"|"bottom",
+        "cut_target": string|null
+      }}
+    }}
+  ],
+  "full_script": string,
+  "lut_choice": "epic_warm"|"tragic_cold"|"ancient_sepia"|"dark_thriller"|"golden_hour",
+  "end_plate_question": string
+}}
+
+Hard requirements:
+- clauses length EXACTLY 14. full_script must be the clause texts joined in order.
+- 162-173 words total in full_script.
+- Clause 1 text first sentence is a question under 14 words.
+- end_plate_question is the only other question.
+- Each image_prompt min 40 chars, includes shot type and lighting. {name_policy}
+- At least 8 image_prompts show a human; clause 1 shows a dominant face/portrait.
+- Each motion_prompt min 20 chars and includes one camera verb: push-in, pull-back, dolly, pan, tilt, orbit, tracks, zoom, static shot, handheld.
+- Avoid gore and banned cliches: changed history, shaped the world, still echoes today, rose to power.
+- Use only well-known factual claims; if uncertain, write around the detail.
+
+Historical figure: {figure_name!r}"""
