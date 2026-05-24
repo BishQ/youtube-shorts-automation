@@ -35,6 +35,8 @@ mkdir -p "$LOG_DIR"
 VLLM_MODEL=${VLLM_MODEL:-/workspace/models/gemma4-31b}
 VLLM_SERVED_NAME=${VLLM_SERVED_NAME:-gemma4-31b}
 VLLM_PORT=${VLLM_PORT:-8000}
+VLLM_MAX_NUM_BATCHED_TOKENS=${VLLM_MAX_NUM_BATCHED_TOKENS:-8192}
+VLLM_GPU_MEMORY_UTILIZATION=${VLLM_GPU_MEMORY_UTILIZATION:-0.90}
 
 log() { echo -e "\n\033[1;36m[bootstrap]\033[0m $*"; }
 warn() { echo -e "\033[1;33m[bootstrap]\033[0m $*" >&2; }
@@ -71,7 +73,10 @@ sync_env_llm() {
 start_vllm_server() {
   if [ -f "$REPO_DIR/scripts/start_vllm.sh" ]; then
     VLLM_MODEL="$VLLM_MODEL" VLLM_SERVED_NAME="$VLLM_SERVED_NAME" \
-      VLLM_PORT="$VLLM_PORT" bash "$REPO_DIR/scripts/start_vllm.sh"
+      VLLM_PORT="$VLLM_PORT" \
+      VLLM_MAX_NUM_BATCHED_TOKENS="$VLLM_MAX_NUM_BATCHED_TOKENS" \
+      VLLM_GPU_MEMORY_UTILIZATION="$VLLM_GPU_MEMORY_UTILIZATION" \
+      bash "$REPO_DIR/scripts/start_vllm.sh"
     return
   fi
   log "Starting vLLM (inline fallback)…"
@@ -84,6 +89,9 @@ start_vllm_server() {
     --served-model-name "$VLLM_SERVED_NAME" \
     --port "$VLLM_PORT" \
     --host 0.0.0.0 \
+    --max-num-batched-tokens "$VLLM_MAX_NUM_BATCHED_TOKENS" \
+    --gpu-memory-utilization "$VLLM_GPU_MEMORY_UTILIZATION" \
+    --trust-remote-code \
     >"$LOG_DIR/vllm.log" 2>&1 &
   for i in $(seq 1 120); do
     curl -sf "http://127.0.0.1:${VLLM_PORT}/v1/models" >/dev/null 2>&1 && return 0
