@@ -12,7 +12,7 @@
 #   VLLM_MAX_MODEL_LEN=8192
 #   VLLM_MAX_NUM_BATCHED_TOKENS=8192
 #   VLLM_GPU_MEMORY_UTILIZATION=0.92
-#   VLLM_KV_CACHE_DTYPE=fp8          # helps on 40–48GB GPUs
+#   VLLM_KV_CACHE_DTYPE=auto         # A100-safe default; override only if supported
 #   VLLM_LIMIT_MM='{"image":0,"audio":0,"video":0}'  # text-only (Shorts planner)
 
 set -euo pipefail
@@ -28,7 +28,7 @@ VLLM_HOST=${VLLM_HOST:-0.0.0.0}
 VLLM_MAX_NUM_BATCHED_TOKENS=${VLLM_MAX_NUM_BATCHED_TOKENS:-8192}
 VLLM_MAX_MODEL_LEN=${VLLM_MAX_MODEL_LEN:-8192}
 VLLM_GPU_MEMORY_UTILIZATION=${VLLM_GPU_MEMORY_UTILIZATION:-0.92}
-VLLM_KV_CACHE_DTYPE=${VLLM_KV_CACHE_DTYPE:-fp8}
+VLLM_KV_CACHE_DTYPE=${VLLM_KV_CACHE_DTYPE:-auto}
 VLLM_LIMIT_MM=${VLLM_LIMIT_MM:-'{"image":0,"audio":0,"video":0}'}
 VLLM_ENFORCE_EAGER=${VLLM_ENFORCE_EAGER:-1}
 
@@ -87,7 +87,7 @@ GPUS=$(gpu_count)
 log "GPUs detected: ${GPUS}  tensor-parallel-size=${VLLM_TENSOR_PARALLEL_SIZE}"
 if [ "$GPUS" -lt 2 ] && echo "$VLLM_MODEL" | grep -qi '31b'; then
   warn "Gemma 4 31B BF16 needs ~80GB VRAM on 1 GPU (official vLLM guide)."
-  warn "Single GPU: use VLLM_KV_CACHE_DTYPE=fp8 and VLLM_MAX_MODEL_LEN=8192, or pick a 2-GPU pod (TP=2)."
+  warn "Single GPU A100 80GB should use VLLM_KV_CACHE_DTYPE=auto; use TP=2 for smaller GPUs."
 fi
 
 ensure_cuda_dev_headers() {
