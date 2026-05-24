@@ -18,17 +18,27 @@ _THINKING_BLOCK_RE = re.compile(
     r"Thinking\.\.\..*?\.\.\.done thinking\.",
     re.DOTALL | re.IGNORECASE,
 )
+_FENCED_JSON_RE = re.compile(r"^\s*```(?:json)?\s*|\s*```\s*$", re.IGNORECASE)
 # Trailing comma before a closing brace or bracket — invalid JSON, very common
 # in LLM output especially on the last element of a long array.
 _TRAILING_COMMA_RE = re.compile(r",\s*([\]}])")
 # Single-line JS-style comments that some models inject: // ...
 _JS_COMMENT_RE = re.compile(r"//[^\n]*")
+_UNQUOTED_KEY_RE = re.compile(r'([{\[,]\s*)([A-Za-z_][A-Za-z0-9_\-]*)(\s*:)')
 
 
 def _repair_json(raw: str) -> str:
     """Best-effort cleanup of common LLM JSON generation artifacts."""
+    raw = _FENCED_JSON_RE.sub("", raw.strip())
     # Strip JS-style comments before any other processing
     raw = _JS_COMMENT_RE.sub("", raw)
+    # Convert common JS/Python-ish object output into JSON:
+    # {title: 'x', ok: True} -> {"title": "x", "ok": true}
+    raw = _UNQUOTED_KEY_RE.sub(r'\1"\2"\3', raw)
+    raw = re.sub(r":\s*'([^'\\]*(?:\\.[^'\\]*)*)'", r': "\1"', raw)
+    raw = re.sub(r"\bTrue\b", "true", raw)
+    raw = re.sub(r"\bFalse\b", "false", raw)
+    raw = re.sub(r"\bNone\b", "null", raw)
     # Remove trailing commas before ] or }
     # Apply twice to catch nested cases: [{...,},...,]
     for _ in range(3):
@@ -36,9 +46,47 @@ def _repair_json(raw: str) -> str:
     return raw
 
 
+def _balanced_json_candidates(raw: str) -> list[str]:
+    """Return balanced top-level object candidates from noisy model output."""
+    candidates: list[str] = []
+    depth = 0
+    start: int | None = None
+    in_string = False
+    escape = False
+    quote = ""
+    for i, ch in enumerate(raw):
+        if in_string:
+            if escape:
+                escape = False
+                continue
+            if ch == "\\":
+                escape = True
+                continue
+            if ch == quote:
+                in_string = False
+                quote = ""
+            continue
+        if ch in ("'", '"'):
+            in_string = True
+            quote = ch
+            continue
+        if ch == "{":
+            if depth == 0:
+                start = i
+            depth += 1
+            continue
+        if ch == "}" and depth > 0:
+            depth -= 1
+            if depth == 0 and start is not None:
+                candidates.append(raw[start : i + 1])
+                start = None
+    return candidates
+
+
 def _extract_json(raw: str) -> dict[str, Any]:
     """Parse JSON from raw model output, stripping surrounding noise."""
-    raw = _THINK_TAG_RE.sub("", raw).strip()
+    raw = _THINK_TAG_RE.sub("", raw)
+    raw = _THINKING_BLOCK_RE.sub("", raw).strip()
 
     # First: try parsing as-is (fastest path for clean output)
     try:
@@ -46,16 +94,23 @@ def _extract_json(raw: str) -> dict[str, Any]:
     except json.JSONDecodeError:
         pass
 
-    # Second: extract the outermost { ... } and retry
-    start, end = raw.find("{"), raw.rfind("}")
-    if start >= 0 and end > start:
-        candidate = raw[start : end + 1]
+    # Second: parse the first balanced object. This handles output like
+    # {"a": 1}{"b": 2} or {"a": 1}\nextra prose.
+    for candidate in _balanced_json_candidates(raw):
         try:
             return cast(dict[str, Any], json.loads(candidate))
         except json.JSONDecodeError:
             pass
-        # Third: apply repair heuristics and retry
         repaired = _repair_json(candidate)
+        try:
+            return cast(dict[str, Any], json.loads(repaired))
+        except json.JSONDecodeError:
+            continue
+
+    # Third: extract the broad outer slice as a fallback for malformed nesting.
+    start, end = raw.find("{"), raw.rfind("}")
+    if start >= 0 and end > start:
+        repaired = _repair_json(raw[start : end + 1])
         try:
             return cast(dict[str, Any], json.loads(repaired))
         except json.JSONDecodeError:

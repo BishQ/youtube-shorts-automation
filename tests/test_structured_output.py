@@ -1,4 +1,5 @@
 from shorts_pipeline.config.settings import Settings
+from shorts_pipeline.planner.client import _extract_json
 from shorts_pipeline.planner.schema import NarrationPlan
 from shorts_pipeline.planner.structured_output import apply_structured_output, json_schema_for
 from shorts_pipeline.planner.vllm_client import VllmPlannerClient, VllmPlannerError
@@ -40,3 +41,15 @@ def test_vllm_planner_structured_fallback_to_json_object(monkeypatch) -> None:
     assert out == '{"ok": true}'
     assert "guided_json" in seen[0]
     assert seen[1]["response_format"] == {"type": "json_object"}
+
+
+def test_extract_json_repairs_js_style_object() -> None:
+    obj = _extract_json("{name: 'David Bowie', ok: True, count: 2,}")
+
+    assert obj == {"name": "David Bowie", "ok": True, "count": 2}
+
+
+def test_extract_json_uses_first_balanced_object_with_extra_data() -> None:
+    obj = _extract_json('{"name": "David Bowie"} {"ignored": true}')
+
+    assert obj == {"name": "David Bowie"}

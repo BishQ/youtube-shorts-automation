@@ -66,11 +66,12 @@ class VllmPublisherClient:
         payload: dict[str, Any],
         *,
         schema: dict[str, Any],
+        mode_override: str | None = None,
     ) -> str:
         try:
             structured = apply_structured_output(
                 payload,
-                mode=self._settings.local_llm_structured_output,
+                mode=mode_override or self._settings.local_llm_structured_output,
                 schema=schema,
                 name="PublishingPackage",
             )
@@ -181,11 +182,13 @@ class VllmPublisherClient:
         last_err: Exception | None = None
         last_obj: dict[str, Any] = {}
         schema = json_schema_for(PublishingPackage, name="PublishingPackage")
+        structured_mode_override: str | None = None
 
         for attempt in range(1, _MAX_RETRIES + 1):
             content = self._post_structured(
                 {**base_payload, "messages": messages},
                 schema=schema,
+                mode_override=structured_mode_override,
             )
 
             try:
@@ -198,6 +201,7 @@ class VllmPublisherClient:
                         attempt=attempt,
                         error=str(e)[:200],
                     )
+                    structured_mode_override = "json_object"
                     messages = [
                         *messages,
                         {"role": "assistant", "content": content[:_MAX_RETRY_CONTEXT_CHARS]},
