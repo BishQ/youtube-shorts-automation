@@ -13,8 +13,8 @@
 # Env overrides (set BEFORE running):
 #   REPO_URL=https://github.com/<USER>/<REPO>.git   # required if no local clone
 #   GIT_BRANCH=main
-#   VLLM_MODEL=/workspace/models/gemma4-31b              # local weights on pod
-#   VLLM_SERVED_NAME=gemma4-31b                          # must match settings local_llm_model
+#   VLLM_MODEL=/workspace/models/qwen3.6-27b              # local weights on pod
+#   VLLM_SERVED_NAME=qwen3-27b                          # must match settings local_llm_model
 #   VLLM_PORT=8000
 #   SKIP_MODELS=0                                   # 1 = skip huggingface downloads
 #   SKIP_SMOKE=0                                    # 1 = setup only, don't launch render
@@ -32,8 +32,8 @@ COMFY_DIR=${COMFY_DIR:-$ROOT/ComfyUI}
 LOG_DIR=$ROOT/logs
 mkdir -p "$LOG_DIR"
 
-VLLM_MODEL=${VLLM_MODEL:-/workspace/models/gemma4-31b}
-VLLM_SERVED_NAME=${VLLM_SERVED_NAME:-gemma4-31b}
+VLLM_MODEL=${VLLM_MODEL:-/workspace/models/qwen3.6-27b}
+VLLM_SERVED_NAME=${VLLM_SERVED_NAME:-qwen3-27b}
 VLLM_PORT=${VLLM_PORT:-8000}
 VLLM_MAX_MODEL_LEN=${VLLM_MAX_MODEL_LEN:-11264}
 VLLM_MAX_NUM_BATCHED_TOKENS=${VLLM_MAX_NUM_BATCHED_TOKENS:-11264}

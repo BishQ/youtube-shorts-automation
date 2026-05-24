@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
-# Start vLLM OpenAI API server (Gemma 4 31B text-only on RunPod).
+# Start vLLM OpenAI API server (Qwen3.6-27B on RunPod).
 #
 # Usage:
 #   bash scripts/start_vllm.sh
 #
 # Env overrides:
-#   VLLM_MODEL=/workspace/models/gemma4-31b
-#   VLLM_SERVED_NAME=gemma4-31b
+#   VLLM_MODEL=/workspace/models/qwen3.6-27b
+#   VLLM_SERVED_NAME=qwen3-27b
 #   VLLM_PORT=8000
 #   VLLM_TENSOR_PARALLEL_SIZE=2      # auto = GPU count (31B needs 80GB or TP>=2)
 #   VLLM_MAX_MODEL_LEN=11264
@@ -21,8 +21,8 @@ ROOT=${ROOT:-/workspace}
 LOG_DIR=${LOG_DIR:-$ROOT/logs}
 mkdir -p "$LOG_DIR"
 
-VLLM_MODEL=${VLLM_MODEL:-/workspace/models/gemma4-31b}
-VLLM_SERVED_NAME=${VLLM_SERVED_NAME:-gemma4-31b}
+VLLM_MODEL=${VLLM_MODEL:-/workspace/models/qwen3.6-27b}
+VLLM_SERVED_NAME=${VLLM_SERVED_NAME:-qwen3-27b}
 VLLM_PORT=${VLLM_PORT:-8000}
 VLLM_HOST=${VLLM_HOST:-0.0.0.0}
 VLLM_MAX_NUM_BATCHED_TOKENS=${VLLM_MAX_NUM_BATCHED_TOKENS:-11264}
@@ -85,9 +85,8 @@ VLLM_TENSOR_PARALLEL_SIZE=$(pick_tensor_parallel)
 GPUS=$(gpu_count)
 
 log "GPUs detected: ${GPUS}  tensor-parallel-size=${VLLM_TENSOR_PARALLEL_SIZE}"
-if [ "$GPUS" -lt 2 ] && echo "$VLLM_MODEL" | grep -qi '31b'; then
-  warn "Gemma 4 31B BF16 needs ~80GB VRAM on 1 GPU (official vLLM guide)."
-  warn "Single GPU A100 80GB should use VLLM_KV_CACHE_DTYPE=auto; use TP=2 for smaller GPUs."
+if [ "$GPUS" -lt 2 ] && echo "$VLLM_MODEL" | grep -qiE '27b|32b' && ! echo "$VLLM_MODEL" | grep -qi 'awq\|gptq\|int4\|int8'; then
+  warn "Qwen3.6-27B BF16 needs ~54GB VRAM — fits single A100 80GB with reduced KV cache."
 fi
 
 ensure_cuda_dev_headers() {
@@ -141,7 +140,7 @@ if [ -f "$REPO_DIR/scripts/sync_env_llm.sh" ]; then
     bash "$REPO_DIR/scripts/sync_env_llm.sh" "$REPO_DIR/.env"
 fi
 
-log "Starting Gemma 4 (text-only)…"
+log "Starting Qwen3.6-27B…"
 log "  model=${VLLM_MODEL}"
 log "  served=${VLLM_SERVED_NAME}  port=${VLLM_PORT}  tp=${VLLM_TENSOR_PARALLEL_SIZE}"
 log "  max_model_len=${VLLM_MAX_MODEL_LEN}  max_batched=${VLLM_MAX_NUM_BATCHED_TOKENS}"
@@ -163,9 +162,15 @@ VLLM_ARGS=(
   --max-model-len "$VLLM_MAX_MODEL_LEN"
   --max-num-batched-tokens "$VLLM_MAX_NUM_BATCHED_TOKENS"
   --gpu-memory-utilization "$VLLM_GPU_MEMORY_UTILIZATION"
-  --limit-mm-per-prompt "$VLLM_LIMIT_MM"
+  --enable-prefix-caching
+  --guided-decoding-backend xgrammar
   --trust-remote-code
 )
+
+# Qwen3 text-only — skip multimodal limits (only valid for VLM checkpoints).
+if echo "$VLLM_MODEL" | grep -qiE 'vl|vision|multimodal|gemma'; then
+  VLLM_ARGS+=(--limit-mm-per-prompt "$VLLM_LIMIT_MM")
+fi
 
 if [ "$VLLM_KV_CACHE_DTYPE" != "auto" ]; then
   VLLM_ARGS+=(--kv-cache-dtype "$VLLM_KV_CACHE_DTYPE")
