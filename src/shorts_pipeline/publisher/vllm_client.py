@@ -65,7 +65,10 @@ class VllmPublisherClient:
         except httpx.TimeoutException as e:
             raise VllmPublisherError(f"vLLM timeout: {e}") from e
         except httpx.RequestError as e:
-            raise VllmPublisherError(f"vLLM connection error at {base}: {e}") from e
+            raise VllmPublisherError(
+                f"vLLM connection error at {base}: {e}. "
+                "Is vLLM running? Start it: bash scripts/start_vllm.sh"
+            ) from e
 
         if r.status_code >= 400:
             raise VllmPublisherError(

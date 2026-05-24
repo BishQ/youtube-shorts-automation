@@ -23,10 +23,18 @@
 set -euo pipefail
 
 ROOT=/workspace
-REPO_DIR=${REPO_DIR:-$ROOT/shorts}
+if [ -d "$ROOT/youtube-shorts-automation" ]; then
+  REPO_DIR=${REPO_DIR:-$ROOT/youtube-shorts-automation}
+else
+  REPO_DIR=${REPO_DIR:-$ROOT/shorts}
+fi
 COMFY_DIR=${COMFY_DIR:-$ROOT/ComfyUI}
 LOG_DIR=$ROOT/logs
 mkdir -p "$LOG_DIR"
+
+VLLM_MODEL=${VLLM_MODEL:-/workspace/models/gemma4-31b}
+VLLM_SERVED_NAME=${VLLM_SERVED_NAME:-gemma4-31b}
+VLLM_PORT=${VLLM_PORT:-8000}
 
 log() { echo -e "\n\033[1;36m[bootstrap]\033[0m $*"; }
 warn() { echo -e "\033[1;33m[bootstrap]\033[0m $*" >&2; }
@@ -46,6 +54,11 @@ set_env_key() {
 # Keep .env LLM block in sync with vLLM — no manual pod editing needed.
 sync_env_llm() {
   local env_file=$1
+  if [ -f "$REPO_DIR/scripts/sync_env_llm.sh" ]; then
+    VLLM_PORT="$VLLM_PORT" VLLM_SERVED_NAME="$VLLM_SERVED_NAME" \
+      bash "$REPO_DIR/scripts/sync_env_llm.sh" "$env_file"
+    return
+  fi
   log "Syncing LLM keys in ${env_file}…"
   set_env_key "$env_file" SHORTS_PLANNER_BACKEND vllm
   set_env_key "$env_file" SHORTS_LOCAL_LLM_BASE_URL "http://127.0.0.1:${VLLM_PORT}/v1"
@@ -55,10 +68,49 @@ sync_env_llm() {
   set_env_key "$env_file" SHORTS_LOCAL_LLM_MAX_TOKENS 8000
 }
 
-# ─── 1. System deps ──────────────────────────────────────────────────────────
-log "Installing system packages…"
-apt-get update -qq
-apt-get install -y -qq git curl wget ffmpeg tmux htop nvtop nano rsync ca-certificates
+start_vllm_server() {
+  if [ -f "$REPO_DIR/scripts/start_vllm.sh" ]; then
+    VLLM_MODEL="$VLLM_MODEL" VLLM_SERVED_NAME="$VLLM_SERVED_NAME" \
+      VLLM_PORT="$VLLM_PORT" bash "$REPO_DIR/scripts/start_vllm.sh"
+    return
+  fi
+  log "Starting vLLM (inline fallback)…"
+  pip install -q vllm
+  pkill -f "vllm.entrypoints.openai.api_server" || true
+  export HF_HOME="${HF_HOME:-$ROOT/hf_cache}"
+  mkdir -p "$HF_HOME"
+  nohup python3 -m vllm.entrypoints.openai.api_server \
+    --model "$VLLM_MODEL" \
+    --served-model-name "$VLLM_SERVED_NAME" \
+    --port "$VLLM_PORT" \
+    --host 0.0.0.0 \
+    >"$LOG_DIR/vllm.log" 2>&1 &
+  for i in $(seq 1 120); do
+    curl -sf "http://127.0.0.1:${VLLM_PORT}/v1/models" >/dev/null 2>&1 && return 0
+    sleep 5
+  done
+  warn "vLLM not ready — check $LOG_DIR/vllm.log"
+  return 1
+}
+
+# ─── 0. vLLM + .env first (pipeline needs LLM even if apt/comfy fail) ────────
+if [ -d "$REPO_DIR" ]; then
+  touch "$REPO_DIR/.env"
+  sync_env_llm "$REPO_DIR/.env"
+fi
+start_vllm_server || warn "vLLM start failed — run: bash $REPO_DIR/scripts/start_vllm.sh"
+
+# ─── 1. System deps (non-fatal — RunPod images often preinstall these) ───────
+install_system_deps() {
+  log "Installing system packages…"
+  apt-get update -qq
+  apt-get install -y -qq git curl wget ffmpeg tmux htop nvtop nano rsync ca-certificates
+}
+if ! install_system_deps 2>/dev/null; then
+  warn "apt install failed — trying apt --fix-broken install…"
+  apt --fix-broken install -y -qq 2>/dev/null || true
+  install_system_deps || warn "system packages skipped (likely already installed)"
+fi
 
 # ─── 2. ComfyUI ──────────────────────────────────────────────────────────────
 if [ ! -d "$COMFY_DIR" ]; then
@@ -129,37 +181,7 @@ if [ "${SKIP_MODELS:-0}" != "1" ]; then
   du -sh diffusion_models text_encoders vae upscale_models
 fi
 
-# ─── 4. vLLM (LLM backend) ───────────────────────────────────────────────────
-VLLM_MODEL=${VLLM_MODEL:-/workspace/models/gemma4-31b}
-VLLM_SERVED_NAME=${VLLM_SERVED_NAME:-gemma4-31b}
-VLLM_PORT=${VLLM_PORT:-8000}
-
-log "Installing vLLM…"
-pip install -q vllm
-
-log "Starting vLLM OpenAI API server on :${VLLM_PORT}…"
-pkill -f "vllm.entrypoints.openai.api_server" || true
-export HF_HOME="${HF_HOME:-$ROOT/hf_cache}"
-mkdir -p "$HF_HOME"
-
-nohup python -m vllm.entrypoints.openai.api_server \
-  --model "$VLLM_MODEL" \
-  --served-model-name "$VLLM_SERVED_NAME" \
-  --port "$VLLM_PORT" \
-  --host 0.0.0.0 \
-  >"$LOG_DIR/vllm.log" 2>&1 &
-
-log "Waiting for vLLM to come up (model may download on first run)…"
-for i in {1..120}; do
-  if curl -sf "http://127.0.0.1:${VLLM_PORT}/v1/models" >/dev/null 2>&1; then
-    log "  vLLM ready."
-    break
-  fi
-  sleep 5
-  [ $i -eq 120 ] && warn "vLLM did not become ready in 600s — check $LOG_DIR/vllm.log"
-done
-
-# ─── 5. Shorts repo ──────────────────────────────────────────────────────────
+# ─── 4. Shorts repo ──────────────────────────────────────────────────────────
 if [ ! -d "$REPO_DIR" ]; then
   [ -n "${REPO_URL:-}" ] || die "REPO_DIR not found and REPO_URL not set"
   log "Cloning $REPO_URL into $REPO_DIR…"
