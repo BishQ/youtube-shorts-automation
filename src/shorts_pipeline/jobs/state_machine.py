@@ -117,7 +117,7 @@ class StageRunner:
             return len(clauses)
         return None
 
-    def resume_job(self, job_id: str) -> None:
+    def resume_job(self, job_id: str, *, stop_after: PipelineStage | None = None) -> None:
         set_job_id(job_id)
         record = self._store.get_job(job_id)
         if record is None:
@@ -148,6 +148,15 @@ class StageRunner:
                         current_stage=next_stage(stage) or stage,
                         last_completed_stage=stage,
                     )
+                    if stop_after is not None and stage == stop_after:
+                        self._store.update_job_progress(
+                            job_id,
+                            status=JobStatus.completed,
+                            last_completed_stage=stage,
+                            clear_current_stage=True,
+                        )
+                        log.info("pipeline_stopped_after_stage", job_id=job_id, stage=stage.value)
+                        return
                     continue
 
                 self._store.update_job_progress(job_id, current_stage=stage)
@@ -180,6 +189,15 @@ class StageRunner:
                     current_stage=nxt if nxt else stage,
                 )
                 log.info("stage_complete", stage=stage.value)
+                if stop_after is not None and stage == stop_after:
+                    self._store.update_job_progress(
+                        job_id,
+                        status=JobStatus.completed,
+                        last_completed_stage=stage,
+                        clear_current_stage=True,
+                    )
+                    log.info("pipeline_stopped_after_stage", job_id=job_id, stage=stage.value)
+                    return
 
             self._store.update_job_progress(
                 job_id,

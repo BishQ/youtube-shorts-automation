@@ -22,6 +22,7 @@ log = get_logger(__name__)
 @dataclass(frozen=True)
 class PipelineRunOptions:
     preflight: bool = False
+    stop_after: str | None = None
 
 
 class PipelineRunner:
@@ -45,7 +46,14 @@ class PipelineRunner:
         with PipelineProcessLock(settings.data_dir):
             raise_if_cancelled(self._store, job_id)
             handler = orchestrator_stage_handler(settings, self._store)
-            StageRunner(self._store, handler, settings=settings).resume_job(job_id)
+            stop_after_stage = None
+            if opts.stop_after:
+                from shorts_pipeline.jobs.models import PipelineStage
+
+                stop_after_stage = PipelineStage(opts.stop_after)
+            StageRunner(self._store, handler, settings=settings).resume_job(
+                job_id, stop_after=stop_after_stage
+            )
 
     def start_job(self, job_id: str, options: PipelineRunOptions | None = None) -> Future[None]:
         """Submit a full pipeline job to the runner's single-worker executor."""

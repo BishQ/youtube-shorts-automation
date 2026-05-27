@@ -29,6 +29,7 @@ from shorts_pipeline.jobs.image_order import (
 from shorts_pipeline.jobs.models import ArtifactType, JobStatus, PipelineStage
 from shorts_pipeline.jobs.store import JobStore, verify_artifact_path
 from shorts_pipeline.logging_setup import get_logger
+from shorts_pipeline.planner.lm_studio import unload_lm_studio_models
 from shorts_pipeline.planner.router import build_planner_client
 from shorts_pipeline.planner.schema import NarrationPlan
 from shorts_pipeline.runpod_adapter import make_i2v_client, make_image_client
@@ -162,17 +163,49 @@ class PipelineOrchestrator:
             words=len(plan.full_script.split()),
             script_preview=plan.full_script[:120],
         )
+        if self._settings.gpu_serial_mode:
+            if unload_lm_studio_models(self._settings):
+                log.info("gpu_serial_lm_unloaded", job_id=job_id)
+            else:
+                log.warning("gpu_serial_lm_unload_skipped", job_id=job_id)
 
     def run_images(self, job_id: str) -> None:
         rec = self._store.get_job(job_id)
         if rec is None:
             raise ValueError("job not found")
         plan = self._load_plan(job_id)
-        prompts = [c.image_prompt for c in plan.clauses]
+        from shorts_pipeline.planner.figure_visuals import enrich_image_prompt
+
+        figure_label = (rec.config_snapshot.figure_name or plan.historical_figure or "").strip()
+        prompts = [
+            enrich_image_prompt(
+                c.image_prompt,
+                figure_label,
+                figure_present=c.figure_present,
+            )
+            for c in plan.clauses
+        ]
         out_dir = self._job_dir(job_id) / "images"
         total = len(prompts)
+        # Per-niche backend routing: documentary uses Grok (real faces matter),
+        # other niches use ComfyUI/Qwen (objects + places + archetypes are fine).
+        niche = (getattr(rec.config_snapshot, "niche", None) or
+                 getattr(plan, "niche", None) or "").strip().lower()
+        # Heuristic: if niche is unset but the topic is clearly a single famous
+        # person (figure_name present + topic_type=historical_figure), treat as
+        # documentary so Grok renders the real face.
+        is_doc = niche == "documentary"
+        if not niche:
+            topic_type = (getattr(rec.config_snapshot, "topic_type", "") or "").lower()
+            figure = (rec.config_snapshot.figure_name or "").strip()
+            if topic_type == "historical_figure" and figure and len(figure.split()) <= 5:
+                is_doc = True
+                log.info("documentary_inferred_from_figure", job_id=job_id, figure=figure)
         backend = self._settings.image_backend.lower().strip()
-        log.info("images_start", job_id=job_id, total=total, backend=backend)
+        if is_doc and backend != "smart_grok":
+            backend = "smart_grok"
+            log.info("backend_override_documentary", job_id=job_id, new=backend)
+        log.info("images_start", job_id=job_id, total=total, backend=backend, niche=niche or "(inferred-doc)" if is_doc else niche)
         raise_if_cancelled(self._store, job_id)
 
         incremental_image_artifacts = False
@@ -295,6 +328,8 @@ class PipelineOrchestrator:
                         backend="comfy",
                         prompt_preview=ptxt[:80],
                     )
+                if self._settings.pause_after_each_image and i + 1 < len(prompts):
+                    self._pause_after_image_flag(job_id).write_text("1", encoding="utf-8")
                 self._consume_pause_after_image(job_id)
                 raise_if_cancelled(self._store, job_id)
 
@@ -933,11 +968,32 @@ class PipelineOrchestrator:
         )
         if art is None:
             raise RuntimeError("missing plan artifact")
+        raw = Path(art.path).read_text(encoding="utf-8")
         ctx = {"allow_figure_name": bool(getattr(self._settings, "image_prompts_include_figure_name", False))}
-        return NarrationPlan.model_validate_json(
-            Path(art.path).read_text(encoding="utf-8"),
-            context=ctx,
-        )
+        if self._settings.dev_skip_plan_validation:
+            import json
+
+            from shorts_pipeline.planner.schema import Beat, Clause, DecisionLever
+
+            data = json.loads(raw)
+            if isinstance(data.get("decision_lever"), dict):
+                data["decision_lever"] = DecisionLever.model_construct(
+                    **data["decision_lever"]
+                )
+            if isinstance(data.get("clauses"), list):
+                clauses: list = []
+                for c in data["clauses"]:
+                    if not isinstance(c, dict):
+                        clauses.append(c)
+                        continue
+                    clause_data = dict(c)
+                    beat_raw = clause_data.get("beat")
+                    if isinstance(beat_raw, dict):
+                        clause_data["beat"] = Beat.model_validate(beat_raw)
+                    clauses.append(Clause.model_construct(**clause_data))
+                data["clauses"] = clauses
+            return NarrationPlan.model_construct(**data)
+        return NarrationPlan.model_validate_json(raw, context=ctx)
 
 
 def orchestrator_stage_handler(settings: Settings, store: JobStore):

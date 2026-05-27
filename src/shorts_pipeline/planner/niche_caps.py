@@ -33,24 +33,27 @@ MIN_WORDS = DEFAULT_MIN_WORDS
 # broken data (most rows were 2–3 s aborted TTS runs, not full narrations).
 # Word range = (syl_window / measured_spw) ± 7 word wiggle. The HARD gate is
 # the syllable budget; word range is the cheap proxy for prompt guidance.
+# Word ranges reduced 15% — May 2026 recalibration after audio came out 70-90s
+# instead of target 54-57s. Combined with kokoro_speed=1.2x this lands audio
+# back in the 50-58s Shorts window.
 NICHE_CAPS: dict[str, dict[str, int | float]] = {
-    "business":     {"min_words": 162, "max_words": 185, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.67},
-    "cosmic":       {"min_words": 168, "max_words": 190, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.63},
-    "crime":        {"min_words": 176, "max_words": 199, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.53},
-    "cults":        {"min_words": 163, "max_words": 185, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.66},
-    "documentary":  {"min_words": 180, "max_words": 204, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.50},
-    "edutainment":  {"min_words": 179, "max_words": 202, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.51},
-    "health":       {"min_words": 174, "max_words": 198, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.55},
-    "history":      {"min_words": 180, "max_words": 204, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.50},
-    "lost_tech":    {"min_words": 174, "max_words": 198, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.55},
-    "military":     {"min_words": 170, "max_words": 193, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.59},
-    "mythology":    {"min_words": 206, "max_words": 230, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.32},
-    "psychology":   {"min_words": 187, "max_words": 211, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.45},
-    "science":      {"min_words": 164, "max_words": 187, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.64},
-    "sports":       {"min_words": 191, "max_words": 216, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.42},
-    "survival":     {"min_words": 183, "max_words": 207, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.48},
-    "tech_hackers": {"min_words": 163, "max_words": 186, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.65},
-    "wealth":       {"min_words": 157, "max_words": 180, "min_syllables": 281, "max_syllables": 296, "avg_syl_per_word": 1.71},
+    "business":     {"min_words": 138, "max_words": 158, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.67},
+    "cosmic":       {"min_words": 143, "max_words": 162, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.63},
+    "crime":        {"min_words": 150, "max_words": 169, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.53},
+    "cults":        {"min_words": 139, "max_words": 158, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.66},
+    "documentary":  {"min_words": 153, "max_words": 173, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.50},
+    "edutainment":  {"min_words": 152, "max_words": 172, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.51},
+    "health":       {"min_words": 148, "max_words": 168, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.55},
+    "history":      {"min_words": 153, "max_words": 173, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.50},
+    "lost_tech":    {"min_words": 148, "max_words": 168, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.55},
+    "military":     {"min_words": 145, "max_words": 164, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.59},
+    "mythology":    {"min_words": 175, "max_words": 196, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.32},
+    "psychology":   {"min_words": 159, "max_words": 179, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.45},
+    "science":      {"min_words": 139, "max_words": 159, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.64},
+    "sports":       {"min_words": 162, "max_words": 184, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.42},
+    "survival":     {"min_words": 156, "max_words": 176, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.48},
+    "tech_hackers": {"min_words": 139, "max_words": 158, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.65},
+    "wealth":       {"min_words": 133, "max_words": 153, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.71},
 }
 
 

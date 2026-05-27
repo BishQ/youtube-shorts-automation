@@ -150,7 +150,12 @@ def _add_visual_clips(
     """Prepare each clip input as [vkb{i}] — Wan MP4 trim/scale or Ken Burns PNG."""
     work_w = int(w * 1.8)
     work_h = int(h * 1.8)
-    fallback_lut_path = settings.resolve_lut(edit.lut_choice.value)
+    lut_key = (
+        edit.lut_choice.value
+        if hasattr(edit.lut_choice, "value")
+        else str(edit.lut_choice)
+    )
+    fallback_lut_path = settings.resolve_lut(lut_key)
 
     for clip in clips:
         i = clip.index
@@ -186,11 +191,12 @@ def _add_visual_clips(
                 f"trim=duration={dur:.6f},format=yuv420p,setpts=PTS-STARTPTS[{raw_tag}]"
             )
 
-        lut_path = (
-            settings.resolve_lut(clip.color_grade.value)
-            if clip.color_grade is not None
-            else fallback_lut_path
-        )
+        if clip.color_grade is not None:
+            cg = clip.color_grade
+            cg_key = cg.value if hasattr(cg, "value") else str(cg)
+            lut_path = settings.resolve_lut(cg_key)
+        else:
+            lut_path = fallback_lut_path
         if lut_path is not None:
             lut_esc = _escape_path_for_filter(lut_path)
             parts.append(f"[{raw_tag}]lut3d=file='{lut_esc}'[vkb{i}]")
@@ -820,7 +826,11 @@ def render_short(req: RenderRequest, settings: Settings) -> Path:
     if not req.out_mp4.is_file() or req.out_mp4.stat().st_size < 1024:
         raise RenderError(f"ffmpeg produced invalid output: {req.out_mp4}")
     ep_dur = settings.end_plate_duration_s if settings.end_plate_enabled else 0.0
-    expected_duration_s = req.narration_duration_s + settings.last_frame_breathe_s + ep_dur
+    uncapped_duration_s = req.narration_duration_s + settings.last_frame_breathe_s + ep_dur
+    expected_duration_s = min(
+        uncapped_duration_s,
+        settings.render_max_shorts_duration_s,
+    )
     try:
         probe = validate_render_output(
             mp4_path=req.out_mp4,

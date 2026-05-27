@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "prompt_key_path": ["7", "inputs", "text"],
+    "image_key_path": ["10", "inputs", "image"],
+    "length_key_path": ["12", "inputs", "length"],
+    "seed_key_path": ["13", "inputs", "noise_seed"],
+    "min_width": 720,
+    "min_height": 1280,
+    "_note": [
+      "Wan 2.2 I2V-A14B GGUF Q4_K_M — 8GB VRAM optimised.",
+      "Two-stage: high-noise (steps 0-5) -> low-noise refine (steps 5-12).",
+      "12 total steps with res_multistep/beta keeps quality high while halving",
+      "render time vs the previous 20-step euler/simple setup.",
+      "",
+      "Quality / VRAM upgrades:",
+      "  - res_multistep + beta scheduler (sharper motion at fewer steps).",
+      "  - TiledVAEDecode for video latents (mandatory on 8GB).",
+      "  - Stronger anti-morph negative prompt.",
+      "  - 480x848 native render (Wan 2.2 sweet-spot, fits 8GB),",
+      "    then ImageScale to 720x1280 for downstream FFmpeg.",
+      "  - Length 65 frames @ 16fps ≈ 4.06s — safe burst per clause.",
+      "  - Random seed (-1) so each retry varies.",
+      "",
+      "Required (UNCHANGED):",
+      "  models/unet/  Wan2.2-I2V-A14B-HighNoise-Q4_K_M.gguf",
+      "                 Wan2.2-I2V-A14B-LowNoise-Q4_K_M.gguf",
+      "  models/text_encoders/ umt5_xxl_fp16.safetensors",
+      "  models/vae/           wan_2.1_vae.safetensors",
+      "Custom nodes: ComfyUI-GGUF + ComfyUI-VideoHelperSuite."
+    ]
+  },
+  "prompt": {
+    "1": {
+      "class_type": "UnetLoaderGGUF",
+      "inputs": {"unet_name": "Wan2.2-I2V-A14B-HighNoise-Q4_K_M.gguf"},
+      "_meta": {"title": "Wan 2.2 I2V High-Noise GGUF Q4_K_M"}
+    },
+    "2": {
+      "class_type": "UnetLoaderGGUF",
+      "inputs": {"unet_name": "Wan2.2-I2V-A14B-LowNoise-Q4_K_M.gguf"},
+      "_meta": {"title": "Wan 2.2 I2V Low-Noise GGUF Q4_K_M"}
+    },
+    "3": {
+      "class_type": "CLIPLoader",
+      "inputs": {
+        "clip_name": "umt5_xxl_fp16.safetensors",
+        "type": "wan",
+        "device": "default"
+      },
+      "_meta": {"title": "UMT5-XXL Text Encoder"}
+    },
+    "4": {
+      "class_type": "VAELoader",
+      "inputs": {"vae_name": "wan_2.1_vae.safetensors"},
+      "_meta": {"title": "Wan VAE"}
+    },
+    "5": {
+      "class_type": "ModelSamplingSD3",
+      "inputs": {"model": ["1", 0], "shift": 5.0},
+      "_meta": {"title": "Model Sampling (high-noise, shift 5.0)"}
+    },
+    "6": {
+      "class_type": "ModelSamplingSD3",
+      "inputs": {"model": ["2", 0], "shift": 5.0},
+      "_meta": {"title": "Model Sampling (low-noise, shift 5.0)"}
+    },
+    "7": {
+      "class_type": "CLIPTextEncode",
+      "inputs": {"clip": ["3", 0], "text": ""},
+      "_meta": {"title": "POSITIVE MOTION PROMPT"}
+    },
+    "8": {
+      "class_type": "CLIPTextEncode",
+      "inputs": {
+        "clip": ["3", 0],
+        "text": "static, frozen, no motion, identical frames, jittery, stutter, low quality, blurry, soft, washed out, distorted, deformed face, morphing face, melting features, warping limbs, extra fingers, fused fingers, plastic skin, waxy skin, glitch artifacts, banding, duplicate frames, ghosting, text overlay, watermark, logo, subtitles, border, cropped"
+      },
+      "_meta": {"title": "NEGATIVE MOTION PROMPT (anti-morph)"}
+    },
+    "10": {
+      "class_type": "LoadImage",
+      "inputs": {"image": "placeholder.png"},
+      "_meta": {"title": "Load Source Image (Qwen output)"}
+    },
+    "11": {
+      "class_type": "ImageScale",
+      "inputs": {
+        "image": ["10", 0],
+        "upscale_method": "lanczos",
+        "width": 480,
+        "height": 848,
+        "crop": "center"
+      },
+      "_meta": {"title": "Resize to 480x848 (8GB-safe native)"}
+    },
+    "12": {
+      "class_type": "WanImageToVideo",
+      "inputs": {
+        "positive": ["7", 0],
+        "negative": ["8", 0],
+        "vae": ["4", 0],
+        "start_image": ["11", 0],
+        "width": 480,
+        "height": 848,
+        "length": 65,
+        "batch_size": 1
+      },
+      "_meta": {"title": "Wan I2V (65 frames ≈ 4s @ 16fps)"}
+    },
+    "13": {
+      "class_type": "KSamplerAdvanced",
+      "inputs": {
+        "model": ["5", 0],
+        "positive": ["12", 0],
+        "negative": ["12", 1],
+        "latent_image": ["12", 2],
+        "add_noise": "enable",
+        "noise_seed": -1,
+        "steps": 12,
+        "cfg": 3.0,
+        "sampler_name": "res_multistep",
+        "scheduler": "beta",
+        "start_at_step": 0,
+        "end_at_step": 5,
+        "return_with_leftover_noise": "enable"
+      },
+      "_meta": {"title": "KSampler High-Noise (0-5)"}
+    },
+    "14": {
+      "class_type": "KSamplerAdvanced",
+      "inputs": {
+        "model": ["6", 0],
+        "positive": ["12", 0],
+        "negative": ["12", 1],
+        "latent_image": ["13", 0],
+        "add_noise": "disable",
+        "noise_seed": -1,
+        "steps": 12,
+        "cfg": 3.0,
+        "sampler_name": "res_multistep",
+        "scheduler": "beta",
+        "start_at_step": 5,
+        "end_at_step": 12,
+        "return_with_leftover_noise": "disable"
+      },
+      "_meta": {"title": "KSampler Low-Noise refine (5-12)"}
+    },
+    "15": {
+      "class_type": "VAEDecodeTiled",
+      "inputs": {
+        "samples": ["14", 0],
+        "vae": ["4", 0],
+        "tile_size": 128,
+        "overlap": 32
+      },
+      "_meta": {"title": "Tiled VAE Decode (8GB-safe video)"}
+    },
+    "16": {
+      "class_type": "ImageScale",
+      "inputs": {
+        "image": ["15", 0],
+        "upscale_method": "lanczos",
+        "width": 720,
+        "height": 1280,
+        "crop": "disabled"
+      },
+      "_meta": {"title": "Upscale frames -> 720x1280"}
+    },
+    "17": {
+      "class_type": "VHS_VideoCombine",
+      "inputs": {
+        "images": ["16", 0],
+        "frame_rate": 16,
+        "loop_count": 0,
+        "filename_prefix": "shorts_wan_i2v_gguf",
+        "format": "video/h264-mp4",
+        "pix_fmt": "yuv420p",
+        "crf": 18,
+        "save_metadata": false,
+        "pingpong": false,
+        "save_output": true
+      },
+      "_meta": {"title": "Save MP4 (720x1280, 16fps, CRF 18)"}
+    }
+  }
+}

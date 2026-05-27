@@ -48,6 +48,20 @@ def apply_structured_output(
     )
 
 
+def structured_output_fallback_modes(primary: str) -> list[str | None]:
+    """Modes to try in order; ``None`` = plain chat (no structured-output fields)."""
+    selected = (primary or "guided_json").strip().lower()
+    if selected == "guided_json":
+        return ["guided_json", "json_schema", None]
+    if selected == "json_object":
+        return ["json_object", "json_schema", None]
+    if selected == "json_schema":
+        return ["json_schema", None]
+    if selected in ("", "off", "none", "false", "0"):
+        return [None]
+    return [selected, "json_schema", None]
+
+
 def looks_like_structured_output_rejection(detail: object) -> bool:
     text = str(detail).lower()
     return any(

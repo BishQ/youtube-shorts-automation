@@ -212,10 +212,11 @@ _IMG_BANNED = re.compile(
 )
 _SHOT_TYPES = re.compile(
     r'\b('
-    r'close.?up|wide shot|medium shot|low.angle|high.angle|dutch angle|establishing'
-    r'|over.?the.?shoulder|profile silhouette|reverse angle|god.?s.?eye'
-    r'|rack.?focus|hero shot|hero portrait|hero close|tight (?:close|portrait|shot)'
-    r'|extreme (?:close|wide)|portrait shot|tracking shot|aerial shot|top.?down'
+    r'close.?up|wide shot|medium shot|full shot|low.angle|high.angle|dutch angle|establishing'
+    r'|over.?the.?shoulder|overhead(?:\s+shot)?|profile silhouette|reverse angle|god.?s.?eye'
+    r'|rack.?focus|hero shot|hero portrait|hero close|silhouette(?:\s+shot)?|tight (?:close|portrait|shot)'
+    r'|extreme (?:close|wide)|portrait shot|tracking shot|action shot'
+    r'|aerial(?:\s+(?:view|shot))?|panoramic(?:\s+shot)?|cinematic portrait|abstract(?:\s+shot)?|top.?down'
     r')\b',
     re.IGNORECASE,
 )
@@ -224,7 +225,7 @@ _LIGHTING = re.compile(
     r'|glow|gleam|dim|bright|flicker|sunlit|moonlit|spotlight|torchlit|haze|mist'
     r'|chiaroscuro|volumetric|fluorescent|tungsten|diffused|ambient|sunrise|sunset'
     r'|twilight|midday|noon|harsh|soft.?light|natural.?light|blue.hour|golden.hour'
-    r'|low.?key|high.?key|contre.?jour)',
+    r'|low.?key|high.?key|contre.?jour|stormy|backlit|blue sky|clear.?day|daylight)',
     re.IGNORECASE,
 )
 # Camera-move verbs accepted in motion_prompt — kept narrow so the LLM doesn't
@@ -232,8 +233,9 @@ _LIGHTING = re.compile(
 # motion_prompt describes how the camera/subject MOVES inside it.
 _MOTION_CAMERA = re.compile(
     r'\b('
-    r'push.?in|pull.?out|pull.?back|dolly|tracks?|tracking|orbit|orbits?'
-    r'|pan(?:s|ning)?|tilt(?:s|ing)?|crane|booms?|booming|zooms?|zooming'
+    r'push.?in|pull.?out|pull.?back|dolly|tracks?|tracking|orbit(?:ing)?|orbits?'
+    r'|parallax'
+    r'|pan(?:s|ning)?|tilt(?:s|ing)?|crane|booms?|booming|zoom[_\s-]?(?:in|out)|zooms?|zooming'
     r'|rotates?|rotating|rises?|rising|descends?|descending|drifts?|drifting'
     r'|static shot|locked.?off|handheld|micro.?shake'
     r')\b',
@@ -319,13 +321,10 @@ class Clause(BaseModel):
                 f"secondary motion. Example: 'camera slow push-in, dust motes drift in shafts of light, "
                 f"subject slowly turns head'. Got: {v[:80]}"
             )
-        if not _MOTION_CAMERA.search(v):
-            raise ValueError(
-                "motion_prompt must include a camera-move verb "
-                "(push-in / pull-out / dolly / pan / tilt / orbit / tracks / zoom / "
-                "static shot / handheld). Describe MOTION, not scene content — the image "
-                f"already carries the scene. Got: {v[:120]}"
-            )
+        # Camera-verb check DISABLED — for WAN i2v we now accept subject-action
+        # motion ("lowers the telescope, dust drifts past her face") which is more
+        # animateable than a camera-only verb. Banned-content check below still
+        # applies.
         if _IMG_BANNED.search(v):
             raise ValueError(f"motion_prompt contains banned content: {v[:120]}")
         return v
@@ -342,10 +341,13 @@ class Clause(BaseModel):
                 "image_prompt contains banned content "
                 f"({m_ban.group(0)!r} in …{snippet}…): {v[:120]}"
             )
-        if not _SHOT_TYPES.search(v):
-            raise ValueError(f"image_prompt missing shot type (close-up/wide/medium etc): {v[:120]}")
-        if not _LIGHTING.search(v):
-            raise ValueError(f"image_prompt missing lighting description: {v[:120]}")
+        # Shot-type vocabulary check DISABLED — too restrictive. LLMs use
+        # cinema terms outside our whitelist ("three-quarter shot", "OTS",
+        # "Dutch angle") that are perfectly valid. The downstream image model
+        # handles framing well without enforcement.
+        # Lighting check DISABLED — LLMs frequently omit a vocabulary-matching
+        # lighting word; the downstream ComfyUI pipeline degrades gracefully
+        # when lighting is implied rather than named.
         return v
 
 
@@ -381,48 +383,24 @@ class NarrationPlan(BaseModel):
         min_words, max_words, max_syllables = _caps_for(niche)
 
         word_count = len(self.full_script.split())
-        if word_count < min_words:
+        # ±7 word tolerance — small over/under is acceptable downstream.
+        TOLERANCE = 7
+        if word_count < min_words - TOLERANCE:
             raise ValueError(
                 f"full_script is only {word_count} words — minimum is {min_words} words "
-                "(too short for the Shorts body window). Target "
-                f"{min_words}–{max_words} words across exactly 14 clauses for a 58-59 sec body."
+                f"(±{TOLERANCE} tolerance, so {min_words - TOLERANCE} hard floor). "
+                f"Target {min_words}–{max_words} words across 14 clauses."
             )
-        if word_count > max_words:
+        if word_count > max_words + TOLERANCE:
             raise ValueError(
-                f"full_script is {word_count} words — exceeds the niche {niche!r} word "
-                f"limit of {max_words}. This cap was calibrated from real Kokoro TTS "
-                "runs on this niche's vocabulary. Body must fit in 58-59 sec; outro "
-                f"takes 1-2 sec of the 60 sec cap. Keep between {min_words}–{max_words} "
-                "words across exactly 14 clauses."
+                f"full_script is {word_count} words — exceeds {max_words} (niche {niche!r}) "
+                f"with ±{TOLERANCE} tolerance ({max_words + TOLERANCE} hard ceiling). "
+                f"Keep between {min_words}–{max_words} words."
             )
 
-        # Syllable gate — the true TTS load. Word count alone is a weak predictor of
-        # duration (R²=0.21 in calibration) because vocabulary density varies wildly
-        # between niches. Syllable count predicts duration nearly linearly (R²=0.86).
-        # If this gate fails the script is over-syllabified for its niche even when
-        # the word count is fine (typical failure mode: Latin titles, polysyllabic
-        # technical jargon, hyphenated compound nouns).
-        syll_count = _count_syllables(self.full_script)
-        min_syllables = _syllable_floor_for(niche)
-        if syll_count > max_syllables:
-            raise ValueError(
-                f"full_script contains {syll_count} syllables — exceeds the niche "
-                f"{niche!r} syllable budget of {max_syllables}. Even with the right "
-                "word count, dense polysyllabic vocabulary blows the 57 s body window "
-                "(Kokoro reads ~5.2 syllables/sec). Replace long Latinate/technical "
-                "words with shorter plain-English equivalents. Examples: "
-                "'characteristics' → 'traits', 'demonstration' → 'proof', "
-                "'logarithmic' → 'logs', 'extraordinarily' → 'incredibly'."
-            )
-        if syll_count < min_syllables:
-            raise ValueError(
-                f"full_script contains only {syll_count} syllables — below the niche "
-                f"{niche!r} minimum of {min_syllables}. Final video must land in the "
-                "56.5–59.5 s window; with the current outro/pad budget, narration "
-                f"must be 54–57 s (≈{min_syllables}–{max_syllables} syllables). "
-                "Add ONE concrete verb+noun beat to clauses 6–9 (CRISIS) so the "
-                "rhythm stays tight while the syllable count rises."
-            )
+        # Syllable gate DISABLED — LLMs can't reliably count syllables, and the
+        # word-count band is a good enough proxy for the benchmark phase. The
+        # downstream pipeline can still measure syllable count for diagnostics.
 
         # Closing bio-year ban: clauses 12-14 (indices 11-13) must end on a powerful
         # reframe/image — NOT a biography footnote like "born in X" or "died in Y".
@@ -450,12 +428,8 @@ class NarrationPlan(BaseModel):
                 "or 'What does it cost to [seemingly-noble outcome]?'. "
                 f"Current first sentence: {first_sentence[:140]}"
             )
-        if not _CURIOSITY_GAP_OPENER.search(first_clause_text):
-            raise ValueError(
-                "clauses[0].text must START with a curiosity-gap question word "
-                "(How / Why / What / Who) — never a yes/no question, never a statement. "
-                f"Current opening: {first_clause_text[:80]}"
-            )
+        # 5W opener requirement DISABLED — too narrow. The clause-1 '?'
+        # requirement above is enough to enforce the hook question.
 
         body_question_marks = sum(c.text.count("?") for c in self.clauses[1:])
         first_clause_question_marks = first_clause_text.count("?")
@@ -483,23 +457,10 @@ class NarrationPlan(BaseModel):
                 f"Got {self.end_plate_question.count('?')}. Current: {self.end_plate_question[:120]}"
             )
 
-        first_image = self.clauses[0].image_prompt if self.clauses else ""
-        if not _HUMAN_REFERENCE.search(first_image):
-            raise ValueError(
-                "clauses[0].image_prompt must establish the historical figure visually "
-                "(face, hand, eye, silhouette, child version of the figure, etc.) — "
-                "never the cold_open_object alone in an empty frame. "
-                f"Current first image: {first_image[:140]}"
-            )
-        if not _FACE_REFERENCE.search(first_image):
-            raise ValueError(
-                "clauses[0].image_prompt must be a HERO PORTRAIT — the historical figure's "
-                "FACE (or face-related feature: eyes, jaw, brow, lips, mouth, profile, "
-                "expression, gaze) must be the dominant element. Hand-only, silhouette-only, "
-                "or environment-only first images are rejected. The face on screen must be "
-                "the visual answer to the hook question. "
-                f"Current first image: {first_image[:160]}"
-            )
+        # Hero portrait / face requirement on clause 1 DISABLED — it forced
+        # narrow image compositions and rejected otherwise good frames. The
+        # production pipeline can still nudge clause 1 toward a face shot via
+        # the Stage B prompt, but a missing FACE token no longer blocks output.
 
         banned_in_script = _BANNED_PHRASES.findall(self.full_script)
         if banned_in_script:

@@ -35,6 +35,12 @@ class Settings(BaseSettings):
     # OpenAI-compatible servers, or "off" only for debugging.
     local_llm_structured_output: str = "guided_json"
     local_llm_planner_temperature: float = Field(default=0.05, ge=0.0, le=1.0)
+    # After plan completes, unload LM Studio models so ComfyUI/Wan can use the GPU.
+    gpu_serial_mode: bool = True
+    # Dev only: load plan.json without Pydantic validation (word/syllable gates).
+    dev_skip_plan_validation: bool = False
+    # When True, pause the job after each Comfy image (resume from Web UI). Off = continuous.
+    pause_after_each_image: bool = False
 
     # ── Image backend selector ────────────────────────────────────────────────
     # "comfy"  → All images via local ComfyUI (default).
@@ -49,6 +55,9 @@ class Settings(BaseSettings):
     #             + last except second-to-last), rest local ComfyUI. Requires both
     #             SHORTS_GROK_API_KEY and SHORTS_FLUX_API_KEY.
     image_backend: str = "comfy"
+    # When True, API-generated PNGs (Together/Grok) are copied to clause_*.png as-is
+    # without ComfyUI upscale. Use when Comfy is not running.
+    skip_comfy_upscale: bool = False
 
     comfy_base_url: str = "http://127.0.0.1:8188"
     comfy_timeout_s: float = 600.0
@@ -176,7 +185,7 @@ class Settings(BaseSettings):
 
     # Kokoro shared options (used by both modes)
     kokoro_voice: str = "am_adam"
-    kokoro_speed: float = 1.0
+    kokoro_speed: float = 1.2  # 1.2x = audio fits 60s Shorts cap with current word ranges
     kokoro_lang_code: str = "a"   # 'a'=American English, 'b'=British English
 
     # Kokoro HTTP mode (tts_backend="kokoro_http")

@@ -21,6 +21,7 @@ from shorts_pipeline.planner.structured_output import (
     apply_structured_output,
     json_schema_for,
     looks_like_structured_output_rejection,
+    structured_output_fallback_modes,
 )
 from shorts_pipeline.publisher.json_helpers import build_correction_message, extract_json
 from shorts_pipeline.publisher.prompts import SYSTEM_PROMPT, user_prompt
@@ -68,28 +69,36 @@ class VllmPublisherClient:
         schema: dict[str, Any],
         mode_override: str | None = None,
     ) -> str:
-        try:
-            structured = apply_structured_output(
-                payload,
-                mode=mode_override or self._settings.local_llm_structured_output,
-                schema=schema,
-                name="PublishingPackage",
-            )
-        except ValueError as exc:
-            raise VllmPublisherError(str(exc)) from exc
-        try:
-            return self._post(structured)
-        except VllmPublisherError as exc:
-            if exc.status_code == 400 and looks_like_structured_output_rejection(exc.detail):
-                log.warning(
-                    "publisher_vllm_structured_output_rejected_retry_json_object",
-                    mode=self._settings.local_llm_structured_output,
-                    detail=str(exc.detail)[:300],
+        primary = mode_override or self._settings.local_llm_structured_output
+        modes = structured_output_fallback_modes(primary)
+        last_exc: VllmPublisherError | None = None
+        for mode in modes:
+            try:
+                if mode is None:
+                    return self._post(dict(payload))
+                structured = apply_structured_output(
+                    payload,
+                    mode=mode,
+                    schema=schema,
+                    name="PublishingPackage",
                 )
-                fallback = dict(payload)
-                fallback["response_format"] = {"type": "json_object"}
-                return self._post(fallback)
-            raise
+            except ValueError as exc:
+                raise VllmPublisherError(str(exc)) from exc
+            try:
+                return self._post(structured)
+            except VllmPublisherError as exc:
+                if exc.status_code == 400 and looks_like_structured_output_rejection(exc.detail):
+                    log.warning(
+                        "publisher_vllm_structured_output_rejected",
+                        mode=mode,
+                        detail=str(exc.detail)[:300],
+                    )
+                    last_exc = exc
+                    continue
+                raise
+        if last_exc is not None:
+            raise last_exc
+        raise VllmPublisherError("structured output: no modes to try")
 
     def _post_once(self, payload: dict[str, Any]) -> str:
         base = self._settings.local_llm_base_url.rstrip("/")

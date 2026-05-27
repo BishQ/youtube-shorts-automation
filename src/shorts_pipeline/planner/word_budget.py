@@ -26,7 +26,10 @@ import re
 from typing import Any
 
 from shorts_pipeline.logging_setup import get_logger
-from shorts_pipeline.planner.schema import NARRATION_SCRIPT_MAX_WORDS
+from shorts_pipeline.planner.schema import (
+    NARRATION_SCRIPT_MAX_WORDS,
+    NARRATION_SCRIPT_MIN_WORDS,
+)
 
 log = get_logger(__name__)
 
@@ -42,6 +45,16 @@ def _non_empty_sentence_min_chars(text: str) -> bool:
 
 
 _MAX_SAFE_OVERSHOOT = 30  # over this, refuse to clamp — LLM must retry instead.
+_MAX_SAFE_UNDERSHOOT = 28  # under min by more than this, refuse to pad — LLM must retry.
+
+
+_EXPAND_PREFIXES = (
+    "In fact, ",
+    "Crucially, ",
+    "Notably, ",
+    "Still, ",
+    "Indeed, ",
+)
 # Why 30: LLM convergence floor on dense topics (e.g. "John Napier") sits around
 # 200-205 words even after 10 correction retries. Allowing the clamp to trim up
 # to 30 trailing words from clauses 13→2 absorbs that gap without mangling
@@ -216,3 +229,71 @@ def maybe_clamp_plan_json(
         ceiling=max_words,
     )
     return True
+
+
+def maybe_expand_plan_json(
+    obj: dict[str, Any],
+    *,
+    min_words: int = NARRATION_SCRIPT_MIN_WORDS,
+    max_safe_undershoot: int = _MAX_SAFE_UNDERSHOOT,
+) -> bool:
+    """Pad clause texts when the plan is slightly under *min_words*."""
+    clauses = obj.get("clauses")
+    if not isinstance(clauses, list) or len(clauses) != _CLAUSE_TARGET:
+        return False
+
+    join_text = " ".join(
+        c["text"].strip()
+        for c in clauses
+        if isinstance(c, dict) and isinstance(c.get("text"), str)
+    ).strip()
+    fs = obj.get("full_script")
+    wc_join = _word_count(join_text)
+    wc_fs = _word_count(fs) if isinstance(fs, str) and fs.strip() else 0
+    wc = max(wc_join, wc_fs)
+
+    if wc >= min_words:
+        return False
+
+    deficit = min_words - wc
+    if deficit > max_safe_undershoot:
+        log.warning(
+            "plan_word_expand_refused_large_undershoot",
+            words=wc,
+            floor=min_words,
+            deficit=deficit,
+            max_safe_undershoot=max_safe_undershoot,
+        )
+        return False
+
+    prefix_idx = 0
+    for clause in clauses[1:]:
+        if deficit <= 0:
+            break
+        if not isinstance(clause, dict):
+            continue
+        text = clause.get("text")
+        if not isinstance(text, str) or not text.strip():
+            continue
+        prefix = _EXPAND_PREFIXES[prefix_idx % len(_EXPAND_PREFIXES)]
+        prefix_idx += 1
+        if text.lstrip().lower().startswith(prefix.strip().lower()):
+            continue
+        clause["text"] = prefix + text.lstrip()
+        added = len(prefix.split())
+        deficit -= added
+
+    obj["full_script"] = " ".join(
+        c["text"].strip()
+        for c in clauses
+        if isinstance(c, dict) and isinstance(c.get("text"), str)
+    ).strip()
+
+    final_wc = _word_count(obj["full_script"])
+    log.info(
+        "plan_word_count_expanded",
+        before_words=wc,
+        after_words=final_wc,
+        floor=min_words,
+    )
+    return final_wc > wc

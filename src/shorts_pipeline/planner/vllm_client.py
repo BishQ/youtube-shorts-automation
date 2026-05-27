@@ -29,13 +29,14 @@ from shorts_pipeline.planner.structured_output import (
     apply_structured_output,
     json_schema_for,
     looks_like_structured_output_rejection,
+    structured_output_fallback_modes,
 )
-from shorts_pipeline.planner.word_budget import maybe_clamp_plan_json
+from shorts_pipeline.planner.word_budget import maybe_clamp_plan_json, maybe_expand_plan_json
 from shorts_pipeline.planner.wiki_grounding import fetch_grounding, format_for_prompt
 
 log = get_logger(__name__)
 
-_MAX_RETRIES = 5
+_MAX_RETRIES = 8
 _BACKOFF_BASE_S = 3.0
 _BACKOFF_MAX_S = 30.0
 _MAX_GENERATION_TOKENS = 4000
@@ -75,28 +76,36 @@ class VllmPlannerClient:
         schema: dict[str, Any],
         mode_override: str | None = None,
     ) -> str:
-        try:
-            structured = apply_structured_output(
-                payload,
-                mode=mode_override or self._settings.local_llm_structured_output,
-                schema=schema,
-                name="NarrationPlan",
-            )
-        except ValueError as exc:
-            raise VllmPlannerError(str(exc)) from exc
-        try:
-            return self._post(structured)
-        except VllmPlannerError as exc:
-            if exc.status_code == 400 and looks_like_structured_output_rejection(exc.detail):
-                log.warning(
-                    "vllm_structured_output_rejected_retry_plain",
-                    mode=self._settings.local_llm_structured_output,
-                    detail=str(exc.detail)[:300],
+        primary = mode_override or self._settings.local_llm_structured_output
+        modes = structured_output_fallback_modes(primary)
+        last_exc: VllmPlannerError | None = None
+        for mode in modes:
+            try:
+                if mode is None:
+                    return self._post(dict(payload))
+                structured = apply_structured_output(
+                    payload,
+                    mode=mode,
+                    schema=schema,
+                    name="NarrationPlan",
                 )
-                fallback = dict(payload)
-                fallback["response_format"] = {"type": "json_object"}
-                return self._post(fallback)
-            raise
+            except ValueError as exc:
+                raise VllmPlannerError(str(exc)) from exc
+            try:
+                return self._post(structured)
+            except VllmPlannerError as exc:
+                if exc.status_code == 400 and looks_like_structured_output_rejection(exc.detail):
+                    log.warning(
+                        "vllm_structured_output_rejected",
+                        mode=mode,
+                        detail=str(exc.detail)[:300],
+                    )
+                    last_exc = exc
+                    continue
+                raise
+        if last_exc is not None:
+            raise last_exc
+        raise VllmPlannerError("structured output: no modes to try")
 
     def _post_once(self, payload: dict[str, Any]) -> str:
         base = self._settings.local_llm_base_url.rstrip("/")
@@ -236,6 +245,7 @@ class VllmPlannerClient:
             try:
                 obj = _extract_json(content)
                 maybe_clamp_plan_json(obj)
+                maybe_expand_plan_json(obj)
             except json.JSONDecodeError as e:
                 if attempt < _MAX_RETRIES:
                     log.warning(
@@ -243,7 +253,7 @@ class VllmPlannerClient:
                         attempt=attempt,
                         error=str(e)[:200],
                     )
-                    structured_mode_override = "json_object"
+                    structured_mode_override = None
                     messages = [
                         *initial_messages,
                         {

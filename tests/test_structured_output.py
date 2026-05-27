@@ -40,7 +40,7 @@ def test_vllm_planner_structured_fallback_to_json_object(monkeypatch) -> None:
 
     assert out == '{"ok": true}'
     assert "guided_json" in seen[0]
-    assert seen[1]["response_format"] == {"type": "json_object"}
+    assert seen[1]["response_format"]["type"] == "json_schema"
 
 
 def test_extract_json_repairs_js_style_object() -> None:

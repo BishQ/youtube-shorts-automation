@@ -244,7 +244,7 @@ Every motion_prompt MUST:
      parallax→orbit
 """
 
-_MAX_RETRIES = 10
+_MAX_RETRIES = 3  # Reduced for benchmark: slow hardware; most models won't recover after 3 retries
 
 
 # ────────────────────────────────────────────────────────────────────────────
@@ -262,8 +262,17 @@ def _strip_think_blocks(raw: str) -> str:
     return _THINK_BLOCK_RE.sub("", raw).strip()
 
 
+# Bench instrumentation — last generation's retry/error stats. The benchmark
+# script reads these after each generate call.
+LAST_ATTEMPTS: int = 0
+LAST_ATTEMPT_ERRORS: list[str] = []
+
+
 def local_qwen_generate_with_retry(settings: Settings, system_prompt: str,
                                    first_user_msg: str, *, niche: str | None = None) -> dict:
+    global LAST_ATTEMPTS, LAST_ATTEMPT_ERRORS
+    LAST_ATTEMPTS = 0
+    LAST_ATTEMPT_ERRORS = []
     if not settings.local_llm_model:
         raise RuntimeError("SHORTS_LOCAL_LLM_MODEL is unset")
     url = settings.local_llm_base_url.rstrip("/") + "/chat/completions"
@@ -278,11 +287,12 @@ def local_qwen_generate_with_retry(settings: Settings, system_prompt: str,
     last_err: Exception | None = None
 
     for attempt in range(1, _MAX_RETRIES + 1):
+        LAST_ATTEMPTS = attempt
         payload = {
             "model": settings.local_llm_model,
             "messages": messages,
             "temperature": settings.local_llm_temperature,
-            "max_tokens": min(settings.local_llm_max_tokens, 5000),
+            "max_tokens": min(settings.local_llm_max_tokens, 3000),
         }
         with httpx.Client(timeout=settings.local_llm_timeout_s) as c:
             try:
@@ -306,10 +316,11 @@ def local_qwen_generate_with_retry(settings: Settings, system_prompt: str,
             return plan.model_dump(mode="json")
         except Exception as e:
             last_err = e
+            LAST_ATTEMPT_ERRORS.append(f"a{attempt}: {str(e)[:120]}")
             if attempt == _MAX_RETRIES:
                 break
             correction = _build_correction(obj if "obj" in dir() else {}, e)
-            print(f"  [local] attempt {attempt} failed, retrying: {str(e)[:120]}")
+            print(f"  [local] attempt {attempt} failed, retrying: {str(e)[:120]}", flush=True)
             messages = [
                 *messages,
                 {"role": "assistant", "content": raw},
