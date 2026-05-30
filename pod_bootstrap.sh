@@ -204,12 +204,18 @@ log "Installing shorts pipeline Python deps…"
 pip install -q -e . 2>/dev/null || pip install -q -r requirements.txt 2>/dev/null || true
 pip install -q telethon pydantic-settings python-dotenv kokoro soundfile faster-whisper
 
-# ─── 6. .env safety check ────────────────────────────────────────────────────
-if [ ! -f .env ]; then
-  warn ".env not found in $REPO_DIR — creating from defaults."
+# ─── 6. .env (RunPod template — scripts/setup_runpod_env.sh) ─────────────────
+if [ -f "$REPO_DIR/scripts/setup_runpod_env.sh" ] && [ -f "$REPO_DIR/.env.runpod" ]; then
+  log "Applying .env.runpod via setup_runpod_env.sh…"
+  bash "$REPO_DIR/scripts/setup_runpod_env.sh" \
+    ${RUNPOD_MERGE_SECRETS:+--merge-secrets "$RUNPOD_MERGE_SECRETS"}
+elif [ ! -f .env ]; then
+  warn ".env not found — run: bash scripts/setup_runpod_env.sh"
   touch .env
+  sync_env_llm "$REPO_DIR/.env"
+else
+  sync_env_llm "$REPO_DIR/.env"
 fi
-sync_env_llm "$REPO_DIR/.env"
 if ! grep -q '^SHORTS_TG_API_ID=' .env 2>/dev/null; then
   warn "Telegram keys missing — add SHORTS_TG_API_ID, SHORTS_TG_API_HASH, SHORTS_TG_TARGET_CHAT to .env"
 fi
