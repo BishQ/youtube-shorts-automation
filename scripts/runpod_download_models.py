@@ -197,39 +197,50 @@ def _download_one(
         print(f"  SKIP (exists) {dest.name}  [{_fmt_gb(dest.stat().st_size)}]")
         return
 
-    print(f"  GET  {spec.repo_id} / {spec.filename}")
+    print(f"  GET  {spec.repo_id} / {spec.filename}", flush=True)
     if spec.note:
-        print(f"       ({spec.note})")
+        print(f"       ({spec.note})", flush=True)
 
-    # Download straight into a temp folder under models/, then move once.
-    # Avoids duplicating every file in ~/.cache/huggingface AND models/.
-    stage = models_root / ".staging" / spec.repo_id.replace("/", "__")
-    if force and stage.exists():
+    flat_name = Path(spec.filename).name
+    direct = spec.filename == flat_name and flat_name == dest.name
+
+    if direct:
+        # Single-segment filenames: write straight to final ComfyUI folder (no staging move).
+        print(f"  -> writing directly to {dest}", flush=True)
+        hf_hub_download(
+            repo_id=spec.repo_id,
+            filename=spec.filename,
+            local_dir=str(dest.parent),
+            local_dir_use_symlinks=False,
+            token=token,
+        )
+    else:
+        stage = models_root / ".staging" / spec.repo_id.replace("/", "__")
+        if force and stage.exists():
+            shutil.rmtree(stage, ignore_errors=True)
+        stage.mkdir(parents=True, exist_ok=True)
+        print(f"  -> staging under {stage}", flush=True)
+        hf_hub_download(
+            repo_id=spec.repo_id,
+            filename=spec.filename,
+            local_dir=str(stage),
+            local_dir_use_symlinks=False,
+            token=token,
+        )
+        downloaded = stage / spec.filename
+        if not downloaded.is_file():
+            matches = list(stage.rglob(flat_name))
+            if not matches:
+                raise FileNotFoundError(
+                    f"Expected {spec.filename} under {stage}, nothing found after download"
+                )
+            downloaded = matches[0]
+        print(f"  -> moving to {dest} (volume I/O, can take several min)...", flush=True)
+        if dest.exists():
+            dest.unlink()
+        shutil.move(str(downloaded), str(dest))
         shutil.rmtree(stage, ignore_errors=True)
-    stage.mkdir(parents=True, exist_ok=True)
-
-    hf_hub_download(
-        repo_id=spec.repo_id,
-        filename=spec.filename,
-        local_dir=str(stage),
-        local_dir_use_symlinks=False,
-        token=token,
-    )
-
-    downloaded = stage / spec.filename
-    if not downloaded.is_file():
-        matches = list(stage.rglob(Path(spec.filename).name))
-        if not matches:
-            raise FileNotFoundError(
-                f"Expected {spec.filename} under {stage}, nothing found after download"
-            )
-        downloaded = matches[0]
-
-    if dest.exists():
-        dest.unlink()
-    shutil.move(str(downloaded), str(dest))
-    shutil.rmtree(stage, ignore_errors=True)
-    _prune_dir(models_root / ".staging")
+        _prune_dir(models_root / ".staging")
 
     size = dest.stat().st_size
     if size < spec.min_bytes:
