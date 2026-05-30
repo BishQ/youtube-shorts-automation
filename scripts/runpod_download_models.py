@@ -172,6 +172,17 @@ def _already_ok(path: Path, min_bytes: int) -> bool:
     return path.is_file() and path.stat().st_size >= min_bytes
 
 
+def _prune_dir(path: Path) -> None:
+    """Remove empty parents up to *path* (exclusive)."""
+    cur = path
+    while cur != cur.parent:
+        try:
+            cur.rmdir()
+        except OSError:
+            break
+        cur = cur.parent
+
+
 def _download_one(
     spec: ModelSpec,
     models_root: Path,
@@ -190,17 +201,35 @@ def _download_one(
     if spec.note:
         print(f"       ({spec.note})")
 
-    cached = hf_hub_download(
+    # Download straight into a temp folder under models/, then move once.
+    # Avoids duplicating every file in ~/.cache/huggingface AND models/.
+    stage = models_root / ".staging" / spec.repo_id.replace("/", "__")
+    if force and stage.exists():
+        shutil.rmtree(stage, ignore_errors=True)
+    stage.mkdir(parents=True, exist_ok=True)
+
+    hf_hub_download(
         repo_id=spec.repo_id,
         filename=spec.filename,
+        local_dir=str(stage),
+        local_dir_use_symlinks=False,
         token=token,
-        resume_download=True,
     )
-    cached_path = Path(cached)
-    if cached_path.resolve() != dest.resolve():
-        if dest.exists():
-            dest.unlink()
-        shutil.copy2(cached_path, dest)
+
+    downloaded = stage / spec.filename
+    if not downloaded.is_file():
+        matches = list(stage.rglob(Path(spec.filename).name))
+        if not matches:
+            raise FileNotFoundError(
+                f"Expected {spec.filename} under {stage}, nothing found after download"
+            )
+        downloaded = matches[0]
+
+    if dest.exists():
+        dest.unlink()
+    shutil.move(str(downloaded), str(dest))
+    shutil.rmtree(stage, ignore_errors=True)
+    _prune_dir(models_root / ".staging")
 
     size = dest.stat().st_size
     if size < spec.min_bytes:
