@@ -61,7 +61,7 @@ function Get-ComfyBaseUrl {
 }
 
 function Get-LlmModelsUrl {
-    $base = ($env:SHORTS_LOCAL_LLM_BASE_URL -or "http://127.0.0.1:11434/v1").Trim().TrimEnd('/')
+    $base = ($(if ($env:SHORTS_LOCAL_LLM_BASE_URL) { $env:SHORTS_LOCAL_LLM_BASE_URL } else { "http://127.0.0.1:11434/v1" })).Trim().TrimEnd('/')
     if ($base -match '/v1$') {
         return "$base/models"
     }
@@ -71,9 +71,9 @@ function Get-LlmModelsUrl {
 $comfyBase = Get-ComfyBaseUrl
 $comfyStatsUrl = "$comfyBase/system_stats"
 $comfyIsLocal = Test-UrlIsLocal $comfyBase
-$i2vBackend = ($env:SHORTS_I2V_BACKEND -or "ltx").Trim().ToLowerInvariant()
-$i2vEnabled = ($env:SHORTS_I2V_ENABLED -or "true").Trim().ToLowerInvariant() -ne "false"
-$imageBackend = ($env:SHORTS_IMAGE_BACKEND -or "comfy").Trim().ToLowerInvariant()
+$i2vBackend = ($(if ($env:SHORTS_I2V_BACKEND) { $env:SHORTS_I2V_BACKEND } else { "ltx" })).Trim().ToLowerInvariant()
+$i2vEnabled = ($(if ($env:SHORTS_I2V_ENABLED) { $env:SHORTS_I2V_ENABLED } else { "true" })).Trim().ToLowerInvariant() -ne "false"
+$imageBackend = ($(if ($env:SHORTS_IMAGE_BACKEND) { $env:SHORTS_IMAGE_BACKEND } else { "comfy" })).Trim().ToLowerInvariant()
 $llmModelsUrl = Get-LlmModelsUrl
 $useOllama = $llmModelsUrl -match ':11434/'
 
@@ -84,7 +84,7 @@ Write-StartLog "ComfyUI: $comfyBase $(if ($comfyIsLocal) { '(local)' } else { '(
 
 $skipLlm = $SkipLlm -or $SkipVllm
 
-# ── 1. Planner LLM (Ollama or LM Studio) ─────────────────────────────────────
+# -- 1. Planner LLM (Ollama or LM Studio) --------------------------------------
 if (-not $skipLlm) {
     if ($useOllama) {
         Write-StartLog "Planner: Ollama ($llmModelsUrl)..."
@@ -105,15 +105,15 @@ if (-not $skipLlm) {
     }
 }
 
-# ── 2. ComfyUI (local Windows portable OR remote RunPod proxy) ────────────────
+# -- 2. ComfyUI (local Windows portable OR remote RunPod proxy) ----------------
 if (-not $SkipComfy) {
     if (-not $comfyIsLocal) {
-        Write-StartLog "Remote ComfyUI — not starting local copy." "Cyan"
+        Write-StartLog "Remote ComfyUI - not starting local copy." "Cyan"
         if (Test-HttpOk $comfyStatsUrl 15) {
             Write-StartLog "Remote ComfyUI ready." "Green"
         } else {
-            Write-StartLog "Remote ComfyUI DOWN — fix RunPod pod or SHORTS_COMFY_BASE_URL in .env" "Yellow"
-            Write-StartLog "Expected: https://<pod-id>-8188.proxy.runpod.net" "Yellow"
+            Write-StartLog "Remote ComfyUI DOWN - fix RunPod pod or SHORTS_COMFY_BASE_URL in .env" "Yellow"
+            Write-StartLog "Expected: https://POD_ID-8188.proxy.runpod.net" "Yellow"
         }
     } elseif (-not $ComfyRoot) {
         Write-StartLog "Set SHORTS_COMFYUI_ROOT in .env for local ComfyUI." "Yellow"
@@ -132,7 +132,7 @@ if (-not $SkipComfy) {
     }
 }
 
-# ── 3. Pipeline Web UI ───────────────────────────────────────────────────────
+# -- 3. Pipeline Web UI --------------------------------------------------------
 if (-not (Test-HttpOk "http://127.0.0.1:$Port/api/health" 2)) {
     $serverExe = Join-Path $ProjectRoot ".venv\Scripts\shorts-server.exe"
     if (-not (Test-Path $serverExe)) {

@@ -41,4 +41,7 @@ python3 "${SCRIPT_DIR}/runpod_download_models.py" \
   --comfy-root "${COMFYUI_ROOT}" \
   ${HF_TOKEN:+--hf-token "$HF_TOKEN"}
 
-echo ">>> Done. Start ComfyUI and point SHORTS_COMFY_BASE_URL to this pod."
+echo ">>> Done. Start ComfyUI:"
+echo "    bash scripts/start_comfyui.sh"
+echo ">>> Then on your laptop set:"
+echo "    SHORTS_COMFY_BASE_URL=https://<pod-id>-8188.proxy.runpod.net"

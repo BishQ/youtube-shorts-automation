@@ -26,6 +26,20 @@ class ComfyError(Exception):
         self.status_code = status_code
         self.detail = detail
 
+    def __str__(self) -> str:
+        base = super().__str__()
+        if not self.detail:
+            return base
+        if isinstance(self.detail, str):
+            snippet = self.detail.strip()
+        else:
+            snippet = str(self.detail).strip()
+        if not snippet:
+            return base
+        if len(snippet) > 500:
+            snippet = snippet[:500] + "..."
+        return f"{base}: {snippet}"
+
 
 # ── Workflow bundle types ─────────────────────────────────────────────────────
 
@@ -217,10 +231,12 @@ class ComfyClient:
                 detail=r.text[:2000],
             )
         if r.status_code >= 400:
+            detail = r.text[:2000]
+            log.error("comfy_prompt_rejected", status_code=r.status_code, detail=detail[:800])
             raise ComfyError(
                 f"Comfy client error HTTP {r.status_code}",
                 status_code=r.status_code,
-                detail=r.text[:2000],
+                detail=detail,
             )
         data = r.json()
         pid = data.get("prompt_id")

@@ -114,6 +114,20 @@ def _match_label(query: str, candidate: str) -> bool:
     return False
 
 
+def _count_batches_with_images(root: Path) -> tuple[int, int]:
+    """Return (batches with subjects.tsv, batches with at least one image file)."""
+    with_tsv = 0
+    with_images = 0
+    for batch in root.glob("batch_*"):
+        if not (batch / "subjects.tsv").is_file():
+            continue
+        with_tsv += 1
+        img_dir = batch / "images"
+        if img_dir.is_dir() and any(p.is_file() for p in img_dir.iterdir()):
+            with_images += 1
+    return with_tsv, with_images
+
+
 def resolve_person_references(
     figure_name: str,
     *,
@@ -166,5 +180,14 @@ def resolve_person_references(
                 batch_name=batch.name,
                 image_paths=paths,
             )
-    log.warning("reference_images_not_found", figure=figure_name, root=str(root))
+    batches_tsv, batches_images = _count_batches_with_images(root)
+    if batches_tsv and not batches_images:
+        log.warning(
+            "reference_images_not_downloaded",
+            figure=figure_name,
+            root=str(root),
+            hint="Run: python download_subject_images.py --root <famous_people_1000> --all-batches",
+        )
+    else:
+        log.warning("reference_images_not_found", figure=figure_name, root=str(root))
     return None
