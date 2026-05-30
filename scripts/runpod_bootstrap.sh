@@ -15,7 +15,12 @@
 #
 set -euo pipefail
 
+# RunPod: /workspace = network volume (persistent). ~/.cache = container disk (small).
 COMFYUI_ROOT="${COMFYUI_ROOT:-/workspace/ComfyUI}"
+export HF_HOME="${HF_HOME:-/workspace/hf_cache}"
+export HUGGINGFACE_HUB_CACHE="${HUGGINGFACE_HUB_CACHE:-$HF_HOME/hub}"
+mkdir -p "$HF_HOME" "$HUGGINGFACE_HUB_CACHE"
+
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 echo ">>> Installing huggingface_hub …"

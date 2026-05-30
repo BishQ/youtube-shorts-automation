@@ -322,6 +322,19 @@ def _resolve_token(cli_token: str | None) -> str | None:
     return None
 
 
+def _ensure_hf_cache_on_volume(comfy_root: Path) -> None:
+    """Keep HuggingFace hub cache off the small RunPod container disk."""
+    volume_root = comfy_root.parent if comfy_root.name == "ComfyUI" else Path("/workspace")
+    if not volume_root.is_dir():
+        volume_root = Path("/workspace")
+    hf_home = Path(os.environ.get("HF_HOME") or volume_root / "hf_cache")
+    hub_cache = Path(os.environ.get("HUGGINGFACE_HUB_CACHE") or hf_home / "hub")
+    os.environ.setdefault("HF_HOME", str(hf_home))
+    os.environ.setdefault("HUGGINGFACE_HUB_CACHE", str(hub_cache))
+    hf_home.mkdir(parents=True, exist_ok=True)
+    hub_cache.mkdir(parents=True, exist_ok=True)
+
+
 def main() -> int:
     p = argparse.ArgumentParser(description="Download Flux 2 + LTX 2.3 BF16 models for ComfyUI")
     p.add_argument(
@@ -347,6 +360,7 @@ def main() -> int:
     args = p.parse_args()
 
     comfy_root = Path(args.comfy_root).expanduser().resolve()
+    _ensure_hf_cache_on_volume(comfy_root)
     models_root = _comfy_models_root(comfy_root)
     token = _resolve_token(args.hf_token)
 
@@ -354,6 +368,7 @@ def main() -> int:
     print("RunPod model bootstrap — Flux 2 Dev BF16 + identity stack + LTX 2.3 Dev BF16")
     print(f"ComfyUI root : {comfy_root}")
     print(f"Models dir   : {models_root}")
+    print(f"HF_HOME      : {os.environ.get('HF_HOME')}")
     print(f"HF token     : {'set' if token else 'NOT SET (gated Flux will fail)'}")
     print("=" * 72)
 
