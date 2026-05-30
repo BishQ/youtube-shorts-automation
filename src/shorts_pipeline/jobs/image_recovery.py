@@ -13,10 +13,23 @@ from shorts_pipeline.config.settings import Settings
 from shorts_pipeline.image_worker.triple_hybrid_image_generator import split_grok_flux_local_indices
 from shorts_pipeline.jobs.models import ArtifactType, JobConfigSnapshot, PipelineStage
 from shorts_pipeline.jobs.store import JobStore
+from shorts_pipeline.jobs.paths import legacy_job_dir, niche_job_dir, resolve_job_dir_for_folder_scan
 
 
 def job_root(settings: Settings, job_id: str) -> Path:
-    return (settings.data_dir / "jobs" / job_id).resolve()
+    legacy = legacy_job_dir(settings, job_id)
+    if legacy.is_dir():
+        return legacy
+    # Disk-only recovery: infer niche folder by scanning data/jobs/*/<job_id>
+    jobs_root = (settings.data_dir / "jobs").resolve()
+    for niche_dir in jobs_root.iterdir():
+        if not niche_dir.is_dir():
+            continue
+        candidate = (niche_dir / job_id).resolve()
+        if candidate.is_dir():
+            return candidate
+    # Fallback (unknown niche) — callers may create it.
+    return niche_job_dir(settings, "unknown", job_id)
 
 
 def quick_png_ok(path: Path) -> bool:
@@ -157,7 +170,7 @@ def resolve_folder_to_job_id(settings: Settings, folder_path: str) -> str:
         p.relative_to(jobs_root)
     except ValueError:
         raise ValueError(f"Folder must be under job data directory: {jobs_root}") from None
-    job_id = p.name
+    job_id = resolve_job_dir_for_folder_scan(settings, p)
     if not _JOB_ID_RE.match(job_id):
         raise ValueError("Folder name must look like a job id (e.g. jamukha-75f2535c)")
     if not p.is_dir():

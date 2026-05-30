@@ -19,15 +19,31 @@ class JobStatus(StrEnum):
 
 
 class PipelineStage(StrEnum):
-    """Ordered gates. After a stage completes, next is the following enum value."""
+    """Pipeline gates. Execution order is ``PIPELINE_STAGE_ORDER`` (not enum order)."""
 
     plan = "plan"
-    images = "images"
     tts = "tts"
+    images = "images"
     align = "align"
     i2v = "i2v"
     render = "render"
     publish = "publish"
+
+
+# Voice before images: validate narration length before expensive image gen.
+PIPELINE_STAGE_ORDER: tuple[PipelineStage, ...] = (
+    PipelineStage.plan,
+    PipelineStage.tts,
+    PipelineStage.images,
+    PipelineStage.align,
+    PipelineStage.i2v,
+    PipelineStage.render,
+    PipelineStage.publish,
+)
+
+
+def pipeline_stage_order() -> list[PipelineStage]:
+    return list(PIPELINE_STAGE_ORDER)
 
 
 class ArtifactType(StrEnum):
@@ -38,6 +54,8 @@ class ArtifactType(StrEnum):
     subtitles_ass = "subtitles_ass"
     final_mp4 = "final_mp4"
     final_long_mp4 = "final_long_mp4"
+    final_wan_mp4 = "final_wan_mp4"
+    final_wan_long_mp4 = "final_wan_long_mp4"
     job_config = "job_config"
     clause_timings_json = "clause_timings_json"
     edit_plan_json = "edit_plan_json"
@@ -45,7 +63,7 @@ class ArtifactType(StrEnum):
 
 
 def next_stage(current: PipelineStage | None) -> PipelineStage | None:
-    order = list(PipelineStage)
+    order = pipeline_stage_order()
     if current is None:
         return PipelineStage.plan
     idx = order.index(current)
@@ -59,12 +77,20 @@ class JobConfigSnapshot(BaseModel):
 
     bgm_path: str = Field(..., description="Absolute or resolved path to single BGM track")
     figure_name: str
-    topic_type: str = "historical_figure"
+    # Planner niche slug (documentary, crime, history, …). Drives prompts + word caps.
+    niche: str = "documentary"
+    # Legacy mirror kept for DB column + folder layout; new jobs set both to the same slug.
+    topic_type: str = "documentary"
     language: str = "en"
     watermark_enabled: bool = False
     end_plate_enabled: bool = True
     comfy_workflow_name: str | None = None
     overlay_enabled: bool = True
+
+    def planner_niche(self) -> str:
+        from shorts_pipeline.planner.niche_resolve import resolve_niche
+
+        return resolve_niche(self.niche or self.topic_type)
 
 
 class JobErrorDetail(BaseModel):

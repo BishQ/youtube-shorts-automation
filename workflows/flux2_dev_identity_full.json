@@ -1,0 +1,264 @@
+{
+  "meta": {
+    "prompt_key_path": ["5", "inputs", "text"],
+    "seed_key_path": ["8", "inputs", "seed"],
+    "reference_image_key_paths": [
+      ["11", "inputs", "image"],
+      ["12", "inputs", "image"],
+      ["13", "inputs", "image"],
+      ["14", "inputs", "image"]
+    ],
+    "face_mask_key_path": ["61", "inputs", "image"],
+    "pulid_model_key_path": ["32", "inputs", "pulid_file"],
+    "pulid_strength_key_paths": [
+      ["33", "inputs", "strength"],
+      ["34", "inputs", "strength"],
+      ["35", "inputs", "strength"],
+      ["36", "inputs", "strength"]
+    ],
+    "controlnet_name_key_path": ["50", "inputs", "controlnet_name"],
+    "controlnet_strength_key_path": ["51", "inputs", "strength"],
+    "inpaint_denoise_key_path": ["63", "inputs", "denoise"],
+    "min_width": 720,
+    "min_height": 1280,
+    "_note": [
+      "Flux 2 Dev identity stack (NO person LoRA training):",
+      "  • 4× ReferenceLatent (topic-creator refs)",
+      "  • PuLID-Flux2 on each ref (ApplyPuLIDFlux2 nodes 33–36)",
+      "  • InstantID face keypoints → Flux2 Fun ControlNet (nodes 41–42, 50–51)",
+      "  • ControlNet + Inpaint refine KSampler (node 63) on face mask",
+      "",
+      "Custom nodes (RunPod bootstrap installs these):",
+      "  ComfyUI-PuLID-Flux2, ComfyUI_InstantID, comfyui-flux2fun-controlnet",
+      "",
+      "Models:",
+      "  diffusion_models/flux2-dev.safetensors",
+      "  text_encoders/mistral_3_small_flux2_bf16.safetensors",
+      "  vae/flux2-vae.safetensors",
+      "  pulid/pulid_flux2_klein_v2.safetensors",
+      "  controlnet/FLUX.2-dev-Fun-Controlnet-Union.safetensors",
+      "  insightface/models/antelopev2/",
+      "",
+      "InstantID ApplyInstantID is SDXL-only; Flux2 uses PuLID + InstantID keypoints path."
+    ]
+  },
+  "prompt": {
+    "1": {
+      "class_type": "UNETLoader",
+      "inputs": {"unet_name": "flux2-dev.safetensors", "weight_dtype": "default"},
+      "_meta": {"title": "Flux 2 Dev (BF16 full)"}
+    },
+    "3": {
+      "class_type": "CLIPLoader",
+      "inputs": {
+        "clip_name": "mistral_3_small_flux2_bf16.safetensors",
+        "type": "flux2",
+        "device": "default"
+      },
+      "_meta": {"title": "Mistral 3 Flux2 CLIP"}
+    },
+    "4": {
+      "class_type": "VAELoader",
+      "inputs": {"vae_name": "flux2-vae.safetensors"},
+      "_meta": {"title": "Flux2 VAE"}
+    },
+    "5": {
+      "class_type": "CLIPTextEncode",
+      "inputs": {"clip": ["3", 0], "text": ""},
+      "_meta": {"title": "POSITIVE PROMPT"}
+    },
+    "6": {
+      "class_type": "CLIPTextEncode",
+      "inputs": {
+        "clip": ["3", 0],
+        "text": "blurry, deformed, ugly, watermark, text, logo, low quality, cartoon, anime, plastic skin, bad anatomy, extra fingers, wrong face"
+      },
+      "_meta": {"title": "NEGATIVE PROMPT"}
+    },
+    "7": {
+      "class_type": "EmptyFlux2LatentImage",
+      "inputs": {"width": 832, "height": 1472, "batch_size": 1},
+      "_meta": {"title": "Empty Latent 832x1472 (9:16)"}
+    },
+    "8": {
+      "class_type": "KSampler",
+      "inputs": {
+        "model": ["36", 0],
+        "positive": ["23", 0],
+        "negative": ["6", 0],
+        "latent_image": ["7", 0],
+        "seed": 0,
+        "steps": 20,
+        "cfg": 1.0,
+        "sampler_name": "euler",
+        "scheduler": "simple",
+        "denoise": 1.0
+      },
+      "_meta": {"title": "Stage 1 — T2I + PuLID + refs"}
+    },
+    "9": {
+      "class_type": "VAEDecode",
+      "inputs": {"samples": ["8", 0], "vae": ["4", 0]},
+      "_meta": {"title": "Decode stage 1"}
+    },
+    "10": {
+      "class_type": "SaveImage",
+      "inputs": {"filename_prefix": "flux2_identity", "images": ["64", 0]},
+      "_meta": {"title": "Save final (after inpaint refine)"}
+    },
+    "11": {"class_type": "LoadImage", "inputs": {"image": "ref_1.png"}, "_meta": {"title": "REF 1 (primary face)"}},
+    "12": {"class_type": "LoadImage", "inputs": {"image": "ref_2.png"}, "_meta": {"title": "REF 2"}},
+    "13": {"class_type": "LoadImage", "inputs": {"image": "ref_3.png"}, "_meta": {"title": "REF 3"}},
+    "14": {"class_type": "LoadImage", "inputs": {"image": "ref_4.png"}, "_meta": {"title": "REF 4"}},
+    "15": {"class_type": "VAEEncode", "inputs": {"pixels": ["11", 0], "vae": ["4", 0]}, "_meta": {"title": "Encode ref 1"}},
+    "16": {"class_type": "VAEEncode", "inputs": {"pixels": ["12", 0], "vae": ["4", 0]}, "_meta": {"title": "Encode ref 2"}},
+    "17": {"class_type": "VAEEncode", "inputs": {"pixels": ["13", 0], "vae": ["4", 0]}, "_meta": {"title": "Encode ref 3"}},
+    "18": {"class_type": "VAEEncode", "inputs": {"pixels": ["14", 0], "vae": ["4", 0]}, "_meta": {"title": "Encode ref 4"}},
+    "19": {"class_type": "ReferenceLatent", "inputs": {"conditioning": ["5", 0], "latent": ["15", 0]}, "_meta": {"title": "ReferenceLatent 1"}},
+    "20": {"class_type": "ReferenceLatent", "inputs": {"conditioning": ["19", 0], "latent": ["16", 0]}, "_meta": {"title": "ReferenceLatent 2"}},
+    "21": {"class_type": "ReferenceLatent", "inputs": {"conditioning": ["20", 0], "latent": ["17", 0]}, "_meta": {"title": "ReferenceLatent 3"}},
+    "22": {"class_type": "ReferenceLatent", "inputs": {"conditioning": ["21", 0], "latent": ["18", 0]}, "_meta": {"title": "ReferenceLatent 4"}},
+    "23": {
+      "class_type": "FluxKontextMultiReferenceLatentMethod",
+      "inputs": {"conditioning": ["22", 0], "reference_latents_method": "index_timestep_zero"},
+      "_meta": {"title": "Multi-ref method"}
+    },
+    "30": {
+      "class_type": "PuLIDInsightFaceLoader",
+      "inputs": {"provider": "CUDA"},
+      "_meta": {"title": "PuLID InsightFace"}
+    },
+    "31": {
+      "class_type": "PuLIDEVACLIPLoader",
+      "inputs": {},
+      "_meta": {"title": "PuLID EVA-CLIP"}
+    },
+    "32": {
+      "class_type": "PuLIDModelLoader",
+      "inputs": {"pulid_file": "pulid_flux2_klein_v2.safetensors"},
+      "_meta": {"title": "PuLID Flux2 weights"}
+    },
+    "33": {
+      "class_type": "ApplyPuLIDFlux2",
+      "inputs": {
+        "model": ["1", 0],
+        "pulid_model": ["32", 0],
+        "strength": 1.2,
+        "eva_clip": ["31", 0],
+        "face_analysis": ["30", 0],
+        "image": ["11", 0],
+        "face_index": 0,
+        "debug_mode": false
+      },
+      "_meta": {"title": "PuLID ref 1"}
+    },
+    "34": {
+      "class_type": "ApplyPuLIDFlux2",
+      "inputs": {
+        "model": ["33", 0],
+        "pulid_model": ["32", 0],
+        "strength": 0.55,
+        "eva_clip": ["31", 0],
+        "face_analysis": ["30", 0],
+        "image": ["12", 0],
+        "face_index": 0,
+        "debug_mode": false
+      },
+      "_meta": {"title": "PuLID ref 2"}
+    },
+    "35": {
+      "class_type": "ApplyPuLIDFlux2",
+      "inputs": {
+        "model": ["34", 0],
+        "pulid_model": ["32", 0],
+        "strength": 0.45,
+        "eva_clip": ["31", 0],
+        "face_analysis": ["30", 0],
+        "image": ["13", 0],
+        "face_index": 0,
+        "debug_mode": false
+      },
+      "_meta": {"title": "PuLID ref 3"}
+    },
+    "36": {
+      "class_type": "ApplyPuLIDFlux2",
+      "inputs": {
+        "model": ["35", 0],
+        "pulid_model": ["32", 0],
+        "strength": 0.35,
+        "eva_clip": ["31", 0],
+        "face_analysis": ["30", 0],
+        "image": ["14", 0],
+        "face_index": 0,
+        "debug_mode": false
+      },
+      "_meta": {"title": "PuLID ref 4"}
+    },
+    "41": {
+      "class_type": "InstantIDFaceAnalysis",
+      "inputs": {"provider": "CUDA"},
+      "_meta": {"title": "InstantID face analysis (keypoints)"}
+    },
+    "42": {
+      "class_type": "FaceKeypointsPreprocessor",
+      "inputs": {"faceanalysis": ["41", 0], "image": ["11", 0]},
+      "_meta": {"title": "InstantID keypoints from ref 1"}
+    },
+    "50": {
+      "class_type": "Flux2FunControlNetLoader",
+      "inputs": {"controlnet_name": "FLUX.2-dev-Fun-Controlnet-Union.safetensors"},
+      "_meta": {"title": "Flux2 Fun ControlNet Union"}
+    },
+    "61": {
+      "class_type": "LoadImageMask",
+      "inputs": {"image": "face_mask.png", "channel": "red"},
+      "_meta": {"title": "Face inpaint mask (uploaded)"}
+    },
+    "62": {
+      "class_type": "InpaintModelConditioning",
+      "inputs": {
+        "positive": ["5", 0],
+        "negative": ["6", 0],
+        "vae": ["4", 0],
+        "pixels": ["9", 0],
+        "mask": ["61", 0],
+        "noise_mask": true
+      },
+      "_meta": {"title": "Inpaint conditioning (stage 1 output)"}
+    },
+    "51": {
+      "class_type": "Flux2FunControlNetApply",
+      "inputs": {
+        "conditioning": ["62", 0],
+        "controlnet": ["50", 0],
+        "vae": ["4", 0],
+        "strength": 0.35,
+        "control_image": ["42", 0],
+        "mask": ["61", 0],
+        "inpaint_image": ["9", 0]
+      },
+      "_meta": {"title": "ControlNet + inpaint (InstantID kps + face mask)"}
+    },
+    "63": {
+      "class_type": "KSampler",
+      "inputs": {
+        "model": ["36", 0],
+        "positive": ["51", 0],
+        "negative": ["62", 1],
+        "latent_image": ["62", 2],
+        "seed": 0,
+        "steps": 16,
+        "cfg": 1.0,
+        "sampler_name": "euler",
+        "scheduler": "simple",
+        "denoise": 0.42
+      },
+      "_meta": {"title": "Stage 2 — face ControlNet inpaint refine"}
+    },
+    "64": {
+      "class_type": "VAEDecode",
+      "inputs": {"samples": ["63", 0], "vae": ["4", 0]},
+      "_meta": {"title": "Decode final"}
+    }
+  }
+}

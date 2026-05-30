@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "prompt_key_path": ["5", "inputs", "text"],
+    "lora_key_path": ["2", "inputs", "lora_name"],
+    "lora_strength_key_path": ["2", "inputs", "strength_model"],
+    "reference_image_key_paths": [
+      ["11", "inputs", "image"],
+      ["12", "inputs", "image"],
+      ["13", "inputs", "image"],
+      ["14", "inputs", "image"]
+    ],
+    "seed_key_path": ["8", "inputs", "seed"],
+    "min_width": 720,
+    "min_height": 1280,
+    "_note": [
+      "Flux 2 Dev FULL + LoRA + 4× ReferenceLatent (9:16 portrait).",
+      "RunPod / local ComfyUI nightly with Flux2 core nodes.",
+      "",
+      "Required models (BF16 / full safetensors only — no Q/GGUF):",
+      "  diffusion_models/flux2-dev.safetensors",
+      "  text_encoders/mistral_3_small_flux2_bf16.safetensors",
+      "  vae/flux2-vae.safetensors",
+      "  loras/<person>.safetensors  (pipeline sets lora_name per job)",
+      "",
+      "Pipeline uploads 4 reference PNGs from topic-creator subjects.tsv",
+      "into LoadImage nodes 11–14 before each clause render."
+    ]
+  },
+  "prompt": {
+    "1": {
+      "class_type": "UNETLoader",
+      "inputs": {
+        "unet_name": "flux2-dev.safetensors",
+        "weight_dtype": "default"
+      },
+      "_meta": {"title": "Flux 2 Dev (full)"}
+    },
+    "2": {
+      "class_type": "LoraLoaderModelOnly",
+      "inputs": {
+        "lora_name": "person.safetensors",
+        "strength_model": 1.0,
+        "model": ["1", 0]
+      },
+      "_meta": {"title": "Person LoRA"}
+    },
+    "3": {
+      "class_type": "CLIPLoader",
+      "inputs": {
+        "clip_name": "mistral_3_small_flux2_bf16.safetensors",
+        "type": "flux2",
+        "device": "default"
+      },
+      "_meta": {"title": "Mistral 3 Flux2 CLIP"}
+    },
+    "4": {
+      "class_type": "VAELoader",
+      "inputs": {"vae_name": "flux2-vae.safetensors"},
+      "_meta": {"title": "Flux2 VAE"}
+    },
+    "5": {
+      "class_type": "CLIPTextEncode",
+      "inputs": {"clip": ["3", 0], "text": ""},
+      "_meta": {"title": "POSITIVE PROMPT"}
+    },
+    "6": {
+      "class_type": "CLIPTextEncode",
+      "inputs": {
+        "clip": ["3", 0],
+        "text": "blurry, deformed, ugly, watermark, text, logo, low quality, cartoon, anime, plastic skin, bad anatomy, extra fingers"
+      },
+      "_meta": {"title": "NEGATIVE PROMPT"}
+    },
+    "7": {
+      "class_type": "EmptyFlux2LatentImage",
+      "inputs": {"width": 832, "height": 1472, "batch_size": 1},
+      "_meta": {"title": "Empty Latent 832x1472 (9:16)"}
+    },
+    "8": {
+      "class_type": "KSampler",
+      "inputs": {
+        "model": ["2", 0],
+        "positive": ["23", 0],
+        "negative": ["6", 0],
+        "latent_image": ["7", 0],
+        "seed": 0,
+        "steps": 20,
+        "cfg": 1.0,
+        "sampler_name": "euler",
+        "scheduler": "simple",
+        "denoise": 1.0
+      },
+      "_meta": {"title": "KSampler"}
+    },
+    "9": {
+      "class_type": "VAEDecode",
+      "inputs": {"samples": ["8", 0], "vae": ["4", 0]},
+      "_meta": {"title": "VAE Decode"}
+    },
+    "10": {
+      "class_type": "SaveImage",
+      "inputs": {"filename_prefix": "flux2_lora", "images": ["9", 0]},
+      "_meta": {"title": "Save Image"}
+    },
+    "11": {
+      "class_type": "LoadImage",
+      "inputs": {"image": "ref_1.png"},
+      "_meta": {"title": "REF IMAGE 1"}
+    },
+    "12": {
+      "class_type": "LoadImage",
+      "inputs": {"image": "ref_2.png"},
+      "_meta": {"title": "REF IMAGE 2"}
+    },
+    "13": {
+      "class_type": "LoadImage",
+      "inputs": {"image": "ref_3.png"},
+      "_meta": {"title": "REF IMAGE 3"}
+    },
+    "14": {
+      "class_type": "LoadImage",
+      "inputs": {"image": "ref_4.png"},
+      "_meta": {"title": "REF IMAGE 4"}
+    },
+    "15": {
+      "class_type": "VAEEncode",
+      "inputs": {"pixels": ["11", 0], "vae": ["4", 0]},
+      "_meta": {"title": "Encode ref 1"}
+    },
+    "16": {
+      "class_type": "VAEEncode",
+      "inputs": {"pixels": ["12", 0], "vae": ["4", 0]},
+      "_meta": {"title": "Encode ref 2"}
+    },
+    "17": {
+      "class_type": "VAEEncode",
+      "inputs": {"pixels": ["13", 0], "vae": ["4", 0]},
+      "_meta": {"title": "Encode ref 3"}
+    },
+    "18": {
+      "class_type": "VAEEncode",
+      "inputs": {"pixels": ["14", 0], "vae": ["4", 0]},
+      "_meta": {"title": "Encode ref 4"}
+    },
+    "19": {
+      "class_type": "ReferenceLatent",
+      "inputs": {"conditioning": ["5", 0], "latent": ["15", 0]},
+      "_meta": {"title": "ReferenceLatent 1"}
+    },
+    "20": {
+      "class_type": "ReferenceLatent",
+      "inputs": {"conditioning": ["19", 0], "latent": ["16", 0]},
+      "_meta": {"title": "ReferenceLatent 2"}
+    },
+    "21": {
+      "class_type": "ReferenceLatent",
+      "inputs": {"conditioning": ["20", 0], "latent": ["17", 0]},
+      "_meta": {"title": "ReferenceLatent 3"}
+    },
+    "22": {
+      "class_type": "ReferenceLatent",
+      "inputs": {"conditioning": ["21", 0], "latent": ["18", 0]},
+      "_meta": {"title": "ReferenceLatent 4"}
+    },
+    "23": {
+      "class_type": "FluxKontextMultiReferenceLatentMethod",
+      "inputs": {
+        "conditioning": ["22", 0],
+        "reference_latents_method": "index_timestep_zero"
+      },
+      "_meta": {"title": "Flux2 multi-ref method"}
+    }
+  }
+}

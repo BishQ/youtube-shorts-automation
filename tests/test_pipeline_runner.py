@@ -23,8 +23,9 @@ def test_pipeline_runner_uses_effective_settings_for_stage_runner(
             seen["handler"] = handler
             seen["settings"] = settings
 
-        def resume_job(self, got_job_id: str) -> None:
+        def resume_job(self, got_job_id: str, *, stop_after=None) -> None:
             seen["job_id"] = got_job_id
+            seen["stop_after"] = stop_after
 
     monkeypatch.setattr("shorts_pipeline.jobs.pipeline_runner.StageRunner", FakeStageRunner)
     monkeypatch.setattr(

@@ -1,4 +1,9 @@
-"""Fetch verified Wikipedia facts for a historical figure to ground LLM generation."""
+"""Fetch verified Wikipedia facts to ground LLM generation.
+
+This is a lightweight "RAG" step: pull a small, citeable fact pack from
+Wikipedia / MediaWiki before writing the script. The planner is instructed
+to ONLY use these facts for dates, names, locations, and outcomes.
+"""
 
 from __future__ import annotations
 
@@ -16,15 +21,27 @@ _WIKI_REST    = "https://en.wikipedia.org/api/rest_v1/page/summary/{title}"
 _WIKI_API     = (
     "https://en.wikipedia.org/w/api.php"
     "?action=query&prop=extracts&exintro=false&explaintext=true"
-    "&exsectionformat=plain&titles={title}&format=json&redirects=1"
+    "&exsectionformat=plain&titles={title}&format=json&redirects=1&origin=*"
 )
 _WIKI_SEARCH  = (
     "https://en.wikipedia.org/w/api.php"
-    "?action=opensearch&search={query}&limit=1&namespace=0&format=json"
+    "?action=opensearch&search={query}&limit=1&namespace=0&format=json&origin=*"
 )
 _TIMEOUT = 15.0
 _MAX_EXTRACT_CHARS = 6000
-_HEADERS = {"User-Agent": "shorts-pipeline/1.0 (educational-automation)"}
+_HEADERS = {
+    # Wikipedia REST/API endpoints frequently 403 generic user agents.
+    # Provide contact info per Wikimedia API etiquette.
+    "User-Agent": "shorts-pipeline/1.0 (educational-automation; contact: https://runpod.ai/)",
+    "Accept": "application/json,text/plain;q=0.9,*/*;q=0.1",
+    "Accept-Language": "en-US,en;q=0.9",
+}
+
+
+def _http_get(url: str, *, timeout: float) -> httpx.Response:
+    # follow_redirects helps with canonicalization and some edge titles
+    with httpx.Client(headers=_HEADERS, timeout=timeout, follow_redirects=True) as client:
+        return client.get(url)
 
 
 @dataclass
@@ -32,6 +49,7 @@ class WikiGrounding:
     title: str
     summary: str
     extract: str
+    source_url: str
     found: bool = True
 
 
@@ -54,11 +72,7 @@ def _to_wiki_title(name: str) -> str:
 def _resolve_canonical_title(query: str, *, timeout: float) -> str | None:
     """Use OpenSearch to find the canonical Wikipedia title for a search query."""
     try:
-        r = httpx.get(
-            _WIKI_SEARCH.format(query=quote(query)),
-            timeout=timeout,
-            headers=_HEADERS,
-        )
+        r = _http_get(_WIKI_SEARCH.format(query=quote(query)), timeout=timeout)
         if r.status_code == 200:
             data = r.json()
             titles = data[1] if len(data) > 1 else []
@@ -81,18 +95,15 @@ def fetch_grounding(figure_name: str, *, timeout: float = _TIMEOUT) -> WikiGroun
     # Step 1: short summary via REST API
     summary = ""
     try:
-        r = httpx.get(
-            _WIKI_REST.format(title=quote(title, safe="")),
-            timeout=timeout,
-            headers=_HEADERS,
-        )
+        rest_url = _WIKI_REST.format(title=quote(title, safe=""))
+        r = _http_get(rest_url, timeout=timeout)
         if r.status_code == 200:
             data = r.json()
             summary = _clean(data.get("extract", ""))
             title = data.get("title", title).replace(" ", "_")
         elif r.status_code == 404:
             log.warning("wiki_not_found", figure=figure_name, query=query_name)
-            return WikiGrounding(title=query_name, summary="", extract="", found=False)
+            return WikiGrounding(title=query_name, summary="", extract="", source_url="", found=False)
         elif r.status_code == 403:
             # Some articles are restricted on the REST endpoint — try OpenSearch resolution
             log.warning("wiki_rest_403", figure=figure_name, query=query_name, title=title)
@@ -101,11 +112,8 @@ def fetch_grounding(figure_name: str, *, timeout: float = _TIMEOUT) -> WikiGroun
                 log.info("wiki_canonical_resolved", original=title, canonical=canonical)
                 title = canonical
                 # Retry with resolved title
-                r2 = httpx.get(
-                    _WIKI_REST.format(title=quote(title, safe="")),
-                    timeout=timeout,
-                    headers=_HEADERS,
-                )
+                rest_url = _WIKI_REST.format(title=quote(title, safe=""))
+                r2 = _http_get(rest_url, timeout=timeout)
                 if r2.status_code == 200:
                     data = r2.json()
                     summary = _clean(data.get("extract", ""))
@@ -118,11 +126,8 @@ def fetch_grounding(figure_name: str, *, timeout: float = _TIMEOUT) -> WikiGroun
     # Step 2: longer intro extract via MediaWiki API
     extract = summary
     try:
-        r3 = httpx.get(
-            _WIKI_API.format(title=quote(title, safe="")),
-            timeout=timeout,
-            headers=_HEADERS,
-        )
+        api_url = _WIKI_API.format(title=quote(title, safe=""))
+        r3 = _http_get(api_url, timeout=timeout)
         if r3.status_code == 200:
             pages = r3.json().get("query", {}).get("pages", {})
             for page in pages.values():
@@ -136,11 +141,12 @@ def fetch_grounding(figure_name: str, *, timeout: float = _TIMEOUT) -> WikiGroun
         log.warning("wiki_extract_error", error=str(e))
 
     if not summary and not extract:
-        return WikiGrounding(title=query_name, summary="", extract="", found=False)
+        return WikiGrounding(title=query_name, summary="", extract="", source_url="", found=False)
 
     log.info("wiki_grounding_fetched", figure=figure_name,
              summary_chars=len(summary), extract_chars=len(extract))
-    return WikiGrounding(title=title, summary=summary, extract=extract, found=True)
+    page_url = f"https://en.wikipedia.org/wiki/{quote(title)}"
+    return WikiGrounding(title=title, summary=summary, extract=extract, source_url=page_url, found=True)
 
 
 def format_for_prompt(g: WikiGrounding) -> str:
@@ -150,6 +156,7 @@ def format_for_prompt(g: WikiGrounding) -> str:
     return (
         "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         f"VERIFIED FACTS — WIKIPEDIA: {g.title.replace('_', ' ').upper()}\n"
+        f"SOURCE: {g.source_url}\n"
         "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         "The following is sourced from Wikipedia. You MUST base all dates, events,\n"
         "locations, and outcomes ONLY on the facts below.\n"

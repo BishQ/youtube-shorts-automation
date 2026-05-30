@@ -54,7 +54,30 @@ class Settings(BaseSettings):
     #             (Together or BFL) for the remaining hybrid "API" clauses (evens
     #             + last except second-to-last), rest local ComfyUI. Requires both
     #             SHORTS_GROK_API_KEY and SHORTS_FLUX_API_KEY.
+    # "flux_lora" → Flux 2 Dev + person LoRA + 4 reference photos (topic-creator).
+    # "flux_identity" → Flux 2 Dev + PuLID + InstantID kps + ControlNet inpaint (4 refs, no LoRA).
     image_backend: str = "comfy"
+    # Root of famous_people_1000 batches (subjects.tsv + images/).
+    reference_images_root: Path = Field(
+        default=Path(r"C:\Users\35383\Documents\topic creator\output\famous_people_1000")
+    )
+    # Workflow stem for flux_lora backend (under workflows_dir).
+    flux_lora_workflow_name: str = "flux2_dev_lora_full"
+    # Global LoRA filename in ComfyUI/models/loras/ (fallback if no per-person file).
+    flux_lora_name: str = ""
+    flux_lora_strength: float = Field(default=1.0, ge=0.0, le=2.0)
+    # Optional dir of per-person LoRAs named {QID}.safetensors or {index}.safetensors.
+    flux_person_lora_dir: Path | None = None
+    # flux_identity backend (PuLID + InstantID keypoints + Flux2 Fun ControlNet inpaint).
+    flux_identity_workflow_name: str = "flux2_dev_identity_full"
+    flux_pulid_model_name: str = "pulid_flux2_klein_v2.safetensors"
+    flux_pulid_strength_primary: float = Field(default=1.2, ge=0.0, le=2.0)
+    flux_pulid_strength_ref2: float = Field(default=0.55, ge=0.0, le=2.0)
+    flux_pulid_strength_ref3: float = Field(default=0.45, ge=0.0, le=2.0)
+    flux_pulid_strength_ref4: float = Field(default=0.35, ge=0.0, le=2.0)
+    flux_controlnet_name: str = "FLUX.2-dev-Fun-Controlnet-Union.safetensors"
+    flux_inpaint_controlnet_strength: float = Field(default=0.35, ge=0.0, le=2.0)
+    flux_inpaint_denoise: float = Field(default=0.42, ge=0.05, le=1.0)
     # When True, API-generated PNGs (Together/Grok) are copied to clause_*.png as-is
     # without ComfyUI upscale. Use when Comfy is not running.
     skip_comfy_upscale: bool = False
@@ -63,12 +86,18 @@ class Settings(BaseSettings):
     comfy_timeout_s: float = 600.0
     comfy_workflow_name: str = "qwen_image_2512_local"
     comfy_upscale_workflow_name: str = "upscale_4x_ultrasharp"
-    # Wan 2.2 I2V workflow JSON (without .json) under workflows_dir.
-    i2v_workflow_name: str = "wan22_i2v_a14b"
+    # I2V backend: "wan" (Wan 2.2) or "ltx" (LTX 2.3 full/dev on ComfyUI).
+    i2v_backend: str = "ltx"
+    # I2V workflow JSON stem under workflows_dir (must match i2v_backend).
+    i2v_workflow_name: str = "ltx23_i2v_full"
     # When True, pipeline runs align → i2v (Wan MP4 per clause) → render with video clips.
     i2v_enabled: bool = True
-    # Max clause duration sent to Wan (seconds). Wan quality drops beyond ~7 s.
-    i2v_max_clip_duration_s: float = Field(default=6.5, ge=2.0, le=7.0)
+    # When i2v runs: also emit Ken Burns final.mp4, then Wan final_wan.mp4 (two deliverables).
+    render_dual_outputs: bool = True
+    # Max clause duration sent to Wan (seconds). Wan coherence softens past ~7 s.
+    # Must cover the hook's HOOK_MAX_DURATION_S (7.5 s) slot so the renderer never
+    # runs out of Wan frames to trim and freezes the hook tail.
+    i2v_max_clip_duration_s: float = Field(default=7.5, ge=2.0, le=7.5)
     workflows_dir: Path = Field(default=Path("./workflows"))
     comfy_poll_interval_s: float = 1.0
     comfy_max_polls: int = 1200
@@ -192,6 +221,27 @@ class Settings(BaseSettings):
     kokoro_http_base_url: str = "http://127.0.0.1:8880"
     kokoro_http_timeout_s: float = 120.0
 
+    # ── Narration duration auto-fit (post-TTS) ───────────────────────────────
+    # After synthesis, measure narration.wav and atempo-stretch it (pitch-
+    # preserved) so it lands in the target band — slows short scripts to fill the
+    # Short, speeds long ones so the ending never gets truncated at the render cap.
+    # Deterministic single ffmpeg pass (unlike re-rendering Kokoro at a new speed).
+    narration_fit_enabled: bool = True
+    narration_fit_target_s: float = Field(default=59.0, ge=10.0, le=120.0)
+    narration_fit_band_min_s: float = Field(default=57.0, ge=5.0, le=120.0)
+    # Keep the upper edge below render_max_shorts_duration_s minus outro/breathe
+    # headroom (~2s) so narration + outro never exceeds the cap → no truncation.
+    narration_fit_band_max_s: float = Field(default=59.0, ge=5.0, le=120.0)
+    # atempo bounds: <0.9 muddies the voice; ≤1.15 mild speedup for raw TTS ≤65s.
+    narration_fit_atempo_min: float = Field(default=0.9, ge=0.5, le=1.0)
+    narration_fit_atempo_max: float = Field(default=1.15, ge=1.0, le=2.0)
+    # Last-resort hard cut (with fadeout) when atempo at its ceiling still leaves
+    # the narration over this length. Should be < render cap minus breathe.
+    narration_fit_hard_cap_s: float = Field(default=59.0, ge=5.0, le=600.0)
+    # Raw TTS over this → re-plan (≤65s uses mild speedup into the 59s band instead).
+    narration_replan_threshold_s: float = Field(default=65.0, ge=10.0, le=180.0)
+    narration_replan_max_attempts: int = Field(default=3, ge=1, le=8)
+
     gpu_id: int = 0
 
     aligner_backend: str = "faster_whisper"
@@ -220,6 +270,13 @@ class Settings(BaseSettings):
     # When set, fixes the RNG order for reproducible renders; when unset with
     # ``randomize_clip_transitions``, the render stage derives a seed from job_id.
     transition_random_seed: int | None = None
+
+    # Smart per-image camera motion (Ken Burns variety) when the plan's beats are
+    # flat/default. The motion director alternates push/release moves, avoids
+    # repeats, and shapes a strong hook + settled ending. Seed is derived from
+    # job_id by default for reproducible-yet-varied output.
+    randomize_clip_motion: bool = True
+    motion_random_seed: int | None = None
 
     watermark_enabled: bool = False
     watermark_opacity: float = 0.15

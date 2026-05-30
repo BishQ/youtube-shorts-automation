@@ -54,6 +54,11 @@ def main() -> int:
         default="Genghis Khan",
         help="Historical figure name for the short",
     )
+    parser.add_argument(
+        "--niche",
+        default="historical_figure",
+        help="Planner niche / topic_type (e.g. crime, science, business). Default: historical_figure",
+    )
     args = parser.parse_args()
 
     settings = Settings()
@@ -63,7 +68,7 @@ def main() -> int:
     job_id = store.create_job(
         JobConfigSnapshot(
             figure_name=args.figure,
-            topic_type="historical_figure",
+            topic_type=(args.niche or "historical_figure").strip(),
             language="en",
             bgm_path=str(bgm),
             watermark_enabled=False,

@@ -30,13 +30,27 @@ from shorts_pipeline.editor.emotion_to_filtergraph import zoompan_expr
 from shorts_pipeline.editor.models import ClipSpec, EditPlan
 from shorts_pipeline.editor.xfade_effects import resolve_xfade_for_clip
 from shorts_pipeline.logging_setup import get_logger
-from shorts_pipeline.planner.schema import TransitionType
+from shorts_pipeline.planner.schema import AudioEvent, TransitionType
 from shorts_pipeline.renderer.quality import RenderQualityError, validate_ass_for_render, validate_render_output
 
 log = get_logger(__name__)
 
 # Duration of the light-leak overlay on emphasis words (Rule 7)
 _LIGHT_LEAK_DURATION_S = 1.0 / 30.0  # 1 frame at 30 fps
+
+# Maps AudioEvent enum values to their SFX file name (used for input resolution
+# and filter-complex asplit routing — kept in one place so they stay in sync).
+_AUDIO_EVENT_SFX: dict[AudioEvent, str] = {
+    AudioEvent.low_rumble:    "low_rumble",
+    AudioEvent.impact:        "impact",
+    AudioEvent.paper_flutter: "paper_flutter",
+    AudioEvent.crowd_cheer:   "crowd_cheer",
+    AudioEvent.sword_clash:   "sword_clash",
+    AudioEvent.horse_gallop:  "horse_gallop",
+    AudioEvent.fire_crackle:  "fire_crackle",
+    AudioEvent.thunder_crack: "thunder_crack",
+    AudioEvent.crowd_murmur:  "crowd_murmur",
+}
 
 
 def transition_chain_duration_s(clips: list[ClipSpec]) -> float:
@@ -179,6 +193,7 @@ def _add_visual_clips(
                 intensity=clip.intensity,
                 clip_index=i,
                 emotion=clip.emotion,
+                fps=fps,
             )
             parts.append(
                 f"[{i}:v]scale={work_w}:{work_h}:force_original_aspect_ratio=decrease:flags=lanczos,"
@@ -600,21 +615,9 @@ def build_ffmpeg_argv(req: RenderRequest, settings: Settings) -> list[str]:  # n
 
     # ── Inputs: audio event SFX ──────────────────────────────────────────────
     # Collect unique SFX files needed for audio_events in clips
-    from shorts_pipeline.planner.schema import AudioEvent
     sfx_event_map: dict[str, int] = {}  # sfx_name → input index
-    sfx_name_map = {
-        AudioEvent.low_rumble: "low_rumble",
-        AudioEvent.impact: "impact",
-        AudioEvent.paper_flutter: "paper_flutter",
-        AudioEvent.crowd_cheer: "crowd_cheer",
-        AudioEvent.sword_clash: "sword_clash",
-        AudioEvent.horse_gallop: "horse_gallop",
-        AudioEvent.fire_crackle: "fire_crackle",
-        AudioEvent.thunder_crack: "thunder_crack",
-        AudioEvent.crowd_murmur: "crowd_murmur",
-    }
     for clip in clips:
-        sfx_name = sfx_name_map.get(clip.audio_event)
+        sfx_name = _AUDIO_EVENT_SFX.get(clip.audio_event)
         if sfx_name and sfx_name not in sfx_event_map:
             p = settings.resolve_sfx(sfx_name)
             if p is not None:
@@ -655,30 +658,15 @@ def build_ffmpeg_argv(req: RenderRequest, settings: Settings) -> list[str]:  # n
         idx_ep_bg = next_idx
         next_idx += 1
 
-    # ── Input: watermark (disabled — not applied to any render) ──────────────
-    idx_wm: int | None = None
-
     # ── Filter complex ────────────────────────────────────────────────────────
     parts: list[str] = []
 
     # Build per-clip SFX source tags using asplit for sources used >1 time.
     # FFmpeg filter_complex labels can only appear once as an input, so any
     # SFX file used by multiple clips must be split into N independent copies.
-    sfx_name_map2 = {
-        AudioEvent.low_rumble: "low_rumble",
-        AudioEvent.impact: "impact",
-        AudioEvent.paper_flutter: "paper_flutter",
-        AudioEvent.crowd_cheer: "crowd_cheer",
-        AudioEvent.sword_clash: "sword_clash",
-        AudioEvent.horse_gallop: "horse_gallop",
-        AudioEvent.fire_crackle: "fire_crackle",
-        AudioEvent.thunder_crack: "thunder_crack",
-        AudioEvent.crowd_murmur: "crowd_murmur",
-    }
-    # Group clip indices by SFX name
     sfx_usage: dict[str, list[int]] = {}
     for clip in clips:
-        sfx_name = sfx_name_map2.get(clip.audio_event)
+        sfx_name = _AUDIO_EVENT_SFX.get(clip.audio_event)
         if sfx_name and sfx_name in sfx_event_map:
             sfx_usage.setdefault(sfx_name, []).append(clip.index)
 
@@ -754,16 +742,6 @@ def build_ffmpeg_argv(req: RenderRequest, settings: Settings) -> list[str]:  # n
     ass_esc = _escape_path_for_filter(req.ass_path)
     parts.append(f"[{video_out}]ass=filename='{ass_esc}'[vsub]")
     video_out = "vsub"
-
-    # Watermark overlay
-    if idx_wm is not None:
-        alpha = max(0.0, min(1.0, settings.watermark_opacity))
-        parts.append(
-            f"[{idx_wm}:v]scale=-1:{int(h * 0.055)},format=rgba,"
-            f"colorchannelmixer=aa={alpha}[wmv]"
-        )
-        parts.append(f"[{video_out}][wmv]overlay=W-w-28:H-h-28[vfinal]")
-        video_out = "vfinal"
 
     # Rules 4, 10: Audio pipeline
     ep_dur = settings.end_plate_duration_s if settings.end_plate_enabled else 0.0

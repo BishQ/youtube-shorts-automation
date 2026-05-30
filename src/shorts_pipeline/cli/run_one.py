@@ -1,4 +1,8 @@
-"""Run one documentary topic through the SQLite-backed pipeline."""
+"""Run one topic through the SQLite-backed pipeline.
+
+By default this runs the "historical_figure" (documentary-style) topic type.
+Pass --niche to run other planner niches (e.g. crime, science, business).
+"""
 
 from __future__ import annotations
 
@@ -43,6 +47,14 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--topic", default=None)
     parser.add_argument("--batch", default="batch_001")
+    parser.add_argument(
+        "--niche",
+        default="historical_figure",
+        help=(
+            "Planner niche / topic_type (e.g. crime, science, business, history, "
+            "psychology, edutainment). Default: historical_figure"
+        ),
+    )
     args = parser.parse_args()
 
     root = Path.cwd()
@@ -54,7 +66,7 @@ def main() -> int:
     job_id = store.create_job(
         JobConfigSnapshot(
             figure_name=topic,
-            topic_type="historical_figure",
+            topic_type=(args.niche or "historical_figure").strip(),
             language="en",
             bgm_path=str(bgm),
             watermark_enabled=False,

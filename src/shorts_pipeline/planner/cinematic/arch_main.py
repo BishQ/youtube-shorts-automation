@@ -10,14 +10,14 @@ This architecture combines what worked:
   Stage 2 — RUBRIC (Python computes issues — word count, '?', identity, banned)
   Stage 3 — REWRITE (LLM gets draft + issues + ladder hints)
   Stage 4 — REPAIR (final ±7 word-count check, surgical fix only)
-  Stage 5 — VISUALS (14 image+motion+beat blocks)
+  Stage 5 — VISUALS (11 image+motion+beat blocks)
 
 Hard rules left at this stage (everything else softened or removed):
   - Word range with ±7 tolerance
-  - ZERO '?' in clauses 2-14 (only clause 1 hook + END_QUESTION)
+  - ZERO '?' in clauses 2-11 (only clause 1 hook + END_QUESTION)
   - Banned image content (skyscraper / smartphone / laptop / etc.)
   - Shot type required (lighting validator already disabled)
-  - 14 clauses exact
+  - 11 clauses exact (CLAUSE_COUNT in schema)
 
 Designed for DeepSeek-chat but works on any OpenAI-compatible endpoint.
 """
@@ -30,6 +30,7 @@ from shorts_pipeline.config.settings import Settings
 from shorts_pipeline.planner.multistage import parse_stage_a
 from shorts_pipeline.planner.niche_caps import caps_for
 from shorts_pipeline.planner.niches_compact import COMPACT_DATA
+from shorts_pipeline.planner.schema import CLAUSE_COUNT
 
 from ._shared import (
     apply_latinate_swaps,
@@ -56,14 +57,14 @@ Topic: {topic!r}
 Niche scope: {d['scope']}.
 Transformation: {d['transformation']}.
 
-Write a 14-clause narration. Aim for {min_w}-{max_w} words total.
+Write an {CLAUSE_COUNT}-clause narration. Aim for {min_w}-{max_w} words total.
 
 CURIOSITY LADDER (loose guide):
   - Clause 1: question — role + impossible situation, no name (under 14 words)
   - Clause 2: deepen mystery, still no name
   - Clause 3 or 4: identity reveal (the name appears here)
-  - Clauses 5-11: stakes, decision, cost, consequence, contradiction
-  - Clauses 12-14: macro reframe, end with the setup for END_QUESTION
+  - Clauses 5-7: stakes, decision, cost, consequence, contradiction
+  - Clauses 8-{CLAUSE_COUNT}: macro reframe, end with the setup for END_QUESTION
 
 OUTPUT FORMAT:
 
@@ -78,14 +79,14 @@ END_QUESTION: <one rhetorical question ending in '?'>
 CLAUSE 1: <hook question>
 CLAUSE 2: <text>
 ...
-CLAUSE 14: <text>"""
-    user_p = f"Draft a 14-clause narration for {topic!r}."
+CLAUSE {CLAUSE_COUNT}: <text>"""
+    user_p = f"Draft a {CLAUSE_COUNT}-clause narration for {topic!r}."
     raw = llm_post(settings, system=sys_p, user=user_p,
                    max_tokens=1500, timeout_s=timeout_s, temperature=0.55)
     parsed = parse_stage_a(raw)
-    if len([c for c in parsed["clauses"] if c["text"]]) < 14:
+    if len([c for c in parsed["clauses"] if c["text"]]) < CLAUSE_COUNT:
         n = len([c for c in parsed["clauses"] if c["text"]])
-        e = RuntimeError(f"stage1 draft: only {n}/14 clauses parsed")
+        e = RuntimeError(f"stage1 draft: only {n}/{CLAUSE_COUNT} clauses parsed")
         raise e
     return parsed
 
@@ -171,7 +172,7 @@ def generate(
     for i, c in enumerate(narrative["clauses"]):
         text = strip_ai_phrases(apply_latinate_swaps(c["text"])).strip()
         narrative["clauses"][i]["text"] = text
-    # Strip stray '?' from clauses 2-14 (and 2nd '?' from clause 1)
+    # Strip stray '?' from body clauses (and 2nd '?' from clause 1)
     narrative = strip_stray_questions(narrative)
     narrative["full_script"] = " ".join(c["text"] for c in narrative["clauses"]).strip()
 

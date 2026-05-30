@@ -49,12 +49,20 @@
     <div class="section-label">New Job</div>
     <div class="row2">
       <div class="field">
-        <label for="figure">Historical figure</label>
+        <label for="niche">Niche</label>
+        <select id="niche" class="input-select">
+          <option value="documentary">Documentary</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="figure">Topic / figure</label>
         <div class="input-icon-wrap">
           <input type="text" id="figure" placeholder="e.g. Genghis Khan" />
           <span class="icon">👤</span>
         </div>
       </div>
+    </div>
+    <div class="row2">
       <div class="field">
         <label for="bgm">BGM file path</label>
         <div class="input-icon-wrap">
@@ -62,6 +70,7 @@
           <span class="icon">🎵</span>
         </div>
       </div>
+      <div class="field" aria-hidden="true"></div>
     </div>
     <div class="toggle-row">
       <label class="toggle-label">
@@ -118,9 +127,17 @@
         </div>
         <textarea class="batch-textarea" id="batch-text"
           placeholder="1. Adolf Hitler&#10;2. Joseph Stalin&#10;3. Napoleon Bonaparte&#10;4. Genghis Khan&#10;..."></textarea>
-        <div class="field field--tight">
-          <label for="batch-bgm">BGM file path</label>
-          <input type="text" id="batch-bgm" placeholder="extra tools/bgm.mp3" value="extra tools/bgm.mp3" />
+        <div class="row2">
+          <div class="field field--tight">
+            <label for="batch-niche">Niche</label>
+            <select id="batch-niche" class="input-select">
+              <option value="documentary">Documentary</option>
+            </select>
+          </div>
+          <div class="field field--tight">
+            <label for="batch-bgm">BGM file path</label>
+            <input type="text" id="batch-bgm" placeholder="extra tools/bgm.mp3" value="extra tools/bgm.mp3" />
+          </div>
         </div>
         <div class="btn-row">
           <button type="button" class="btn btn-ghost btn--sm" id="btn-batch-preview">🔍 Preview topics</button>
@@ -157,7 +174,9 @@
       <button type="button" id="btn-edit-script" class="btn btn-ghost" title="Edit or regenerate the narration script">✏ Edit Script</button>
       <button type="button" id="btn-view-publish" class="btn btn-ghost btn-view-publish">📄 View Publish Data</button>
       <a id="dl-link-long" href="#" class="btn btn-ghost" download="final_long.mp4" style="display:none">⬇ Long MP4</a>
-      <a id="dl-link" href="#" class="btn btn-primary" download="final.mp4">⬇ Download MP4</a>
+      <a id="dl-link-wan" href="#" class="btn btn-ghost" download="final_wan.mp4" style="display:none">⬇ Wan MP4</a>
+      <a id="dl-link-wan-long" href="#" class="btn btn-ghost" download="final_wan_long.mp4" style="display:none">⬇ Wan Long</a>
+      <a id="dl-link" href="#" class="btn btn-primary" download="final.mp4">⬇ Ken Burns MP4</a>
     </div>
   </div>
 
@@ -173,7 +192,7 @@
              border-radius:8px;padding:12px;font-size:.82rem;color:#e8e8e8;
              font-family:var(--mono);resize:vertical;line-height:1.6;box-sizing:border-box"></textarea>
     <details id="script-clauses-details" style="margin-top:6px">
-      <summary style="cursor:pointer;font-size:.78rem;opacity:.65;user-select:none">Show / edit individual clauses (14 clauses)</summary>
+      <summary style="cursor:pointer;font-size:.78rem;opacity:.65;user-select:none">Show / edit individual clauses (11 clauses)</summary>
       <div id="script-clauses-list" style="margin-top:10px;display:flex;flex-direction:column;gap:6px"></div>
     </details>
     <div style="margin-top:10px">
@@ -756,8 +775,8 @@
 // ── App state ──────────────────────────────────────────────────────────────
 const STAGES = [
   { key: 'plan',    label: 'Plan',    icon: '📝', tooltip: 'Script & planning' },
-  { key: 'images',  label: 'Images',  icon: '🖼️', tooltip: 'Image generation' },
   { key: 'tts',     label: 'Voice',   icon: '🔊', tooltip: 'Voiceover (TTS)' },
+  { key: 'images',  label: 'Images',  icon: '🖼️', tooltip: 'Image generation' },
   { key: 'align',   label: 'Align',   icon: '⏱', tooltip: 'Subtitle timing' },
   { key: 'i2v',     label: 'I2V',     icon: '🎬', tooltip: 'Wan image-to-video clips' },
   { key: 'render',  label: 'Render',  icon: '🎞', tooltip: 'Video render & mux' },
@@ -1274,6 +1293,22 @@ function showDownloadBanner(job){
     longLink.href = '/api/jobs/' + encodeURIComponent(job.id) + '/artifact/final_long.mp4';
     longLink.style.display = '';
   }
+  const wanLink = document.getElementById('dl-link-wan');
+  if(wanLink) {
+    wanLink.href = '/api/jobs/' + encodeURIComponent(job.id) + '/artifact/final_wan.mp4';
+    wanLink.style.display = '';
+    fetch(wanLink.href, { method: 'HEAD' }).then(r => {
+      if(!r.ok) wanLink.style.display = 'none';
+    }).catch(() => { wanLink.style.display = 'none'; });
+  }
+  const wanLongLink = document.getElementById('dl-link-wan-long');
+  if(wanLongLink) {
+    wanLongLink.href = '/api/jobs/' + encodeURIComponent(job.id) + '/artifact/final_wan_long.mp4';
+    wanLongLink.style.display = '';
+    fetch(wanLongLink.href, { method: 'HEAD' }).then(r => {
+      if(!r.ok) wanLongLink.style.display = 'none';
+    }).catch(() => { wanLongLink.style.display = 'none'; });
+  }
   banner.classList.add('visible');
   
   // Try to pre-fetch and render the publish panel if it completed
@@ -1653,6 +1688,7 @@ async function createJob(){
   if(!bgm){ toast('Enter a BGM file path'); return null; }
   const body = {
     figure_name: fig, bgm_path: bgm,
+    niche: (document.getElementById('niche')||{}).value || 'documentary',
     watermark_enabled: document.getElementById('wm').checked,
     end_plate_enabled: document.getElementById('plate').checked,
     overlay_enabled: (document.getElementById('overlay')||{}).checked || false,
@@ -1740,7 +1776,7 @@ async function refreshJobList(){
       card.innerHTML = `
         <div class="job-status-dot ${statusKey}"></div>
         <div class="job-name">${escHtml(j.figure_name)}</div>
-        <div class="job-meta">${j.id.slice(0,8)}… · ${stage}</div>
+        <div class="job-meta">${escHtml(j.niche || 'documentary')} · ${j.id.slice(0,8)}… · ${stage}</div>
         <div class="job-badge badge-${statusKey}">${statusKey}</div>
       `;
 
@@ -2502,7 +2538,10 @@ document.getElementById('btn-batch-create').onclick = async () => {
     const name = 'Batch ' + new Date().toLocaleDateString();
     const batch = await api('/api/batch', {
       method: 'POST', headers: {'Content-Type': 'application/json'},
-      body: JSON.stringify({ name, topics: _parsedTopics, bgm_path: bgm }),
+      body: JSON.stringify({
+        name, topics: _parsedTopics, bgm_path: bgm,
+        niche: (document.getElementById('batch-niche')||{}).value || 'documentary',
+      }),
     });
     await api('/api/batch/' + batch.id + '/start', {
       method: 'POST', headers: {'Content-Type': 'application/json'},
@@ -2824,7 +2863,23 @@ async function refreshGeminiUsage(){
 }
 
 // ── Init ───────────────────────────────────────────────────────────────────
+async function loadNicheOptions(){
+  try {
+    const niches = await api('/api/niches');
+    for (const selId of ['niche', 'batch-niche']) {
+      const sel = document.getElementById(selId);
+      if (!sel || !Array.isArray(niches) || !niches.length) continue;
+      sel.innerHTML = niches.map(n =>
+        `<option value="${escHtml(n.id)}">${escHtml(n.label)}</option>`
+      ).join('');
+    }
+  } catch (e) {
+    console.warn('loadNicheOptions failed', e);
+  }
+}
+
 loadConfig();
+loadNicheOptions();
 refreshJobList();
 loadBatchStatus();
 refreshGeminiUsage();

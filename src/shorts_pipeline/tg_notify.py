@@ -46,7 +46,7 @@ _SENT_MARKER = ".tg_sent"
 # Operator backup zip skips logs/caches AND rendered deliverables (sent separately).
 _ARCHIVE_SKIP_SUFFIXES = {".log", ".tmp", ".part"}
 _ARCHIVE_SKIP_DIRS = {"__pycache__", ".cache"}
-_ARCHIVE_SKIP_FILES = {"final.mp4", "final_long.mp4"}
+_ARCHIVE_SKIP_FILES = {"final.mp4", "final_long.mp4", "final_wan.mp4", "final_wan_long.mp4"}
 
 _HDR = "══════════════════════════════════"
 _SEP = "──────────────────────────────────"

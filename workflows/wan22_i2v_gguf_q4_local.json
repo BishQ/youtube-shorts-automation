@@ -151,7 +151,9 @@
         "samples": ["14", 0],
         "vae": ["4", 0],
         "tile_size": 128,
-        "overlap": 32
+        "overlap": 32,
+        "temporal_size": 64,
+        "temporal_overlap": 8
       },
       "_meta": {"title": "Tiled VAE Decode (8GB-safe video)"}
     },

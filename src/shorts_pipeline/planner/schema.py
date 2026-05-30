@@ -27,6 +27,9 @@ from shorts_pipeline.planner.niche_caps import (
 NARRATION_SCRIPT_MAX_WORDS = _DEFAULT_MAX_WORDS
 NARRATION_SCRIPT_MIN_WORDS = _DEFAULT_MIN_WORDS
 
+# Single source of truth for Shorts clause count (planner, cinematic MAIN, pipeline gates).
+CLAUSE_COUNT = 11
+
 
 class DecisionLeverType(StrEnum):
     law = "law"
@@ -359,7 +362,11 @@ class NarrationPlan(BaseModel):
         description="Physical object tied to the cold open (coin, tablet, map, weapon, etc.)",
     )
     decision_lever: DecisionLever
-    clauses: list[Clause] = Field(..., min_length=14, max_length=14)
+    clauses: list[Clause] = Field(
+        ...,
+        min_length=CLAUSE_COUNT,
+        max_length=CLAUSE_COUNT,
+    )
     full_script: str = Field(..., min_length=20)
     lut_choice: LutChoice = LutChoice.epic_warm
     end_plate_question: str = Field(
@@ -389,7 +396,7 @@ class NarrationPlan(BaseModel):
             raise ValueError(
                 f"full_script is only {word_count} words — minimum is {min_words} words "
                 f"(±{TOLERANCE} tolerance, so {min_words - TOLERANCE} hard floor). "
-                f"Target {min_words}–{max_words} words across 14 clauses."
+                f"Target {min_words}–{max_words} words across 11 clauses."
             )
         if word_count > max_words + TOLERANCE:
             raise ValueError(
@@ -402,17 +409,17 @@ class NarrationPlan(BaseModel):
         # word-count band is a good enough proxy for the benchmark phase. The
         # downstream pipeline can still measure syllable count for diagnostics.
 
-        # Closing bio-year ban: clauses 12-14 (indices 11-13) must end on a powerful
+        # Closing bio-year ban: clauses 9-11 (indices 8-10) must end on a powerful
         # reframe/image — NOT a biography footnote like "born in X" or "died in Y".
         # Opening clauses may use birth/death year for viewer orientation.
-        for idx in range(11, len(self.clauses)):
+        for idx in range(8, len(self.clauses)):
             clause_text = self.clauses[idx].text
             m = _CLOSING_BIO_YEAR_RE.search(clause_text)
             if m:
                 raise ValueError(
                     f"clauses[{idx}].text (closing/resonance section) contains a biographical "
                     f"year pattern: '{m.group()[:40]}'. "
-                    "Closing clauses (12-14) must end on a concrete image or reframe — "
+                    "Closing clauses (9-11) must end on a concrete image or reframe — "
                     "not a biography block. Remove the year; keep the fact if it carries drama. "
                     f"Example: 'He died in 1227' → 'He died. His soldiers killed every witness.'"
                 )
@@ -538,8 +545,6 @@ _MONGOLIAN_CYRILLIC_RE = re.compile(r"[\u0400-\u04FF]")
 
 
 def validate_english_figure_v1(plan: NarrationPlan, *, topic_type: str, language: str) -> None:
-    if topic_type != "historical_figure":
-        raise ValueError("V1 only supports topic_type=historical_figure")
     if language != "en":
         raise ValueError("V1 only supports language=en")
     blob = plan.full_script + " " + " ".join(c.text for c in plan.clauses)

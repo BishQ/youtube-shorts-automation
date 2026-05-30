@@ -285,7 +285,7 @@ SCHEMA_REMINDER = """JSON schema (top-level keys):
   historical_figure: string
   cold_open_object: string (one concrete object, no person)
   decision_lever: {lever_type: "law"|"geography"|"politics", description, consequence}
-  clauses: 14 items, each {text, image_prompt, motion_prompt, figure_present (bool),
+  clauses: 11 items, each {text, image_prompt, motion_prompt, figure_present (bool),
     beat: {emotion, intensity, camera, transition_in, duration_hint, color_grade,
            audio_event, emphasis_words, visual_tier, subtitle_position, cut_target}}
   full_script: string (clause texts joined)
@@ -311,7 +311,7 @@ def make_system_prompt(niche: str) -> str:
     banned_lines = "\n".join(f"  - {b}" for b in d["banned"])
     return f"""You write {d['voice']}. Output STRICT JSON only — no markdown fences, no prose.
 
-A YouTube Shorts narration plan: 14 clauses, ~58 seconds, full_script {min_w}-{max_w} words (≤{max_syl} syllables).
+A YouTube Shorts narration plan: 11 clauses, ~58 seconds, full_script {min_w}-{max_w} words (≤{max_syl} syllables).
 
 SCOPE: {d['scope']}
 
@@ -357,7 +357,7 @@ def make_user_prompt(niche: str, topic: str, *, use_figure_name: bool = False) -
 Anchor every claim in the documented record for this niche.
 
 {name_rule}
-≥8 of 14 clauses show a human acting. ≥3 silhouette-first compositions.
+≥7 of 11 clauses show a human acting. ≥3 silhouette-first compositions.
 Each motion_prompt unique. No banned phrases. Exactly 2 question marks total.
 
 Return one JSON object matching the schema. Start with {{ and end with }}."""

@@ -55,6 +55,7 @@ def zoompan_expr(  # noqa: C901
     intensity: float = 0.5,
     clip_index: int = 0,
     emotion: EmotionType | None = None,
+    fps: int = 30,
 ) -> str:
     """Return a complete `zoompan=...` filter chain string.
 
@@ -76,7 +77,6 @@ def zoompan_expr(  # noqa: C901
     emotion:
         Optional emotion tag — chooses zmax, anchor, and easing flavour.
     """
-    fps = 30
     base = f"d={n_frames}:s={w}x{h}:fps={fps}"
     intensity = max(0.0, min(1.0, intensity))
 

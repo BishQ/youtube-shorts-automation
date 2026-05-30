@@ -424,3 +424,57 @@ class ComfyClient:
                 detail={"paths": [str(p) for p in paths]},
             )
         return paths
+
+    def generate_flux_lora_one(
+        self,
+        bundle: Any,
+        prompt_text: str,
+        out_path: Path,
+        *,
+        refs: Any,
+        settings: Settings,
+        seed: int | None = None,
+    ) -> None:
+        from shorts_pipeline.image_worker.flux_lora_generator import (
+            FluxLoraBundle,
+            generate_flux_lora_one,
+        )
+
+        if not isinstance(bundle, FluxLoraBundle):
+            raise ComfyError("generate_flux_lora_one requires FluxLoraBundle")
+        generate_flux_lora_one(
+            self,
+            bundle,
+            prompt_text,
+            out_path,
+            refs=refs,
+            settings=settings,
+            seed=seed,
+        )
+
+    def generate_flux_identity_one(
+        self,
+        bundle: Any,
+        prompt_text: str,
+        out_path: Path,
+        *,
+        refs: Any,
+        settings: Settings,
+        seed: int | None = None,
+    ) -> None:
+        from shorts_pipeline.image_worker.flux_identity_generator import (
+            FluxIdentityBundle,
+            generate_flux_identity_one,
+        )
+
+        if not isinstance(bundle, FluxIdentityBundle):
+            raise ComfyError("generate_flux_identity_one requires FluxIdentityBundle")
+        generate_flux_identity_one(
+            self,
+            bundle,
+            prompt_text,
+            out_path,
+            refs=refs,
+            settings=settings,
+            seed=seed,
+        )

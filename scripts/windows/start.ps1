@@ -8,7 +8,6 @@ param(
 )
 
 $ErrorActionPreference = "Stop"
-# Strip any embedded quotes from $ProjectRoot (caller may pass them) and use -LiteralPath
 $ProjectRoot = $ProjectRoot.Trim().Trim('"').Trim("'")
 Set-Location -LiteralPath $ProjectRoot
 
@@ -44,39 +43,89 @@ function Wait-ForUrl([string]$Url, [string]$Label, [int]$MaxSeconds = 120) {
     return $false
 }
 
+function Test-UrlIsLocal([string]$BaseUrl) {
+    if (-not $BaseUrl) { return $true }
+    try {
+        $hostName = ([Uri]$BaseUrl.Trim().TrimEnd('/')).Host.ToLowerInvariant()
+        return $hostName -in @('127.0.0.1', 'localhost', '::1')
+    } catch {
+        return $true
+    }
+}
+
+function Get-ComfyBaseUrl {
+    if ($env:SHORTS_COMFY_BASE_URL) {
+        return $env:SHORTS_COMFY_BASE_URL.Trim().TrimEnd('/')
+    }
+    return "http://127.0.0.1:8188"
+}
+
+function Get-LlmModelsUrl {
+    $base = ($env:SHORTS_LOCAL_LLM_BASE_URL -or "http://127.0.0.1:11434/v1").Trim().TrimEnd('/')
+    if ($base -match '/v1$') {
+        return "$base/models"
+    }
+    return "$base/v1/models"
+}
+
+$comfyBase = Get-ComfyBaseUrl
+$comfyStatsUrl = "$comfyBase/system_stats"
+$comfyIsLocal = Test-UrlIsLocal $comfyBase
+$i2vBackend = ($env:SHORTS_I2V_BACKEND -or "ltx").Trim().ToLowerInvariant()
+$i2vEnabled = ($env:SHORTS_I2V_ENABLED -or "true").Trim().ToLowerInvariant() -ne "false"
+$imageBackend = ($env:SHORTS_IMAGE_BACKEND -or "comfy").Trim().ToLowerInvariant()
+$llmModelsUrl = Get-LlmModelsUrl
+$useOllama = $llmModelsUrl -match ':11434/'
+
 Write-StartLog "Project: $ProjectRoot" "Cyan"
 Write-StartLog "Web UI: http://127.0.0.1:$Port" "Cyan"
-Write-StartLog "GPU serial: plan (LM Studio) -> unload LLM -> images/i2v (ComfyUI)" "Cyan"
+Write-StartLog "Image backend: $imageBackend | I2V: $(if ($i2vEnabled) { $i2vBackend } else { 'off' })" "Cyan"
+Write-StartLog "ComfyUI: $comfyBase $(if ($comfyIsLocal) { '(local)' } else { '(remote RunPod)' })" "Cyan"
 
 $skipLlm = $SkipLlm -or $SkipVllm
 
-# ── 1. LM Studio (planner) ───────────────────────────────────────────────────
+# ── 1. Planner LLM (Ollama or LM Studio) ─────────────────────────────────────
 if (-not $skipLlm) {
-    $startLm = Join-Path $ProjectRoot "scripts\windows\start_lmstudio.ps1"
-    if (Test-Path $startLm) {
-        Write-StartLog "LM Studio (script writer)..."
-        & $startLm -ProjectRoot $ProjectRoot -OpenApp
-        if ($LASTEXITCODE -ne 0) {
-            Write-StartLog "LM Studio: open app -> load google/gemma-4-e4b -> Developer -> Local Server -> Start (port 1234)" "Yellow"
-        } else {
-            Wait-ForUrl "http://127.0.0.1:1234/v1/models" "LM Studio" 45 | Out-Null
+    if ($useOllama) {
+        Write-StartLog "Planner: Ollama ($llmModelsUrl)..."
+        if (-not (Wait-ForUrl $llmModelsUrl "Ollama" 30)) {
+            Write-StartLog "Start Ollama and load model '$($env:SHORTS_LOCAL_LLM_MODEL)' before running jobs." "Yellow"
+        }
+    } else {
+        $startLm = Join-Path $ProjectRoot "scripts\windows\start_lmstudio.ps1"
+        if (Test-Path $startLm) {
+            Write-StartLog "Planner: LM Studio..."
+            & $startLm -ProjectRoot $ProjectRoot -OpenApp
+            if ($LASTEXITCODE -ne 0) {
+                Write-StartLog "LM Studio: load model -> Developer -> Local Server -> Start" "Yellow"
+            } else {
+                Wait-ForUrl $llmModelsUrl "LM Studio" 45 | Out-Null
+            }
         }
     }
 }
 
-# ── 2. ComfyUI (images + Wan video) ──────────────────────────────────────────
+# ── 2. ComfyUI (local Windows portable OR remote RunPod proxy) ────────────────
 if (-not $SkipComfy) {
-    if (-not $ComfyRoot) {
-        Write-StartLog "Set SHORTS_COMFYUI_ROOT in .env (ComfyUI folder path)." "Yellow"
-    } elseif (Test-Path $ComfyRoot) {
-        if (-not (Test-HttpOk "http://127.0.0.1:8188/system_stats")) {
-            Write-StartLog "Starting ComfyUI..."
-            $comfyCmd = "Set-Location '$ComfyRoot'; .\python_embeded\python.exe -s .\ComfyUI\main.py --windows-standalone-build --port 8188 --lowvram"
-            Write-StartLog "ComfyUI flags: --lowvram (required for 8GB + Qwen GGUF)" "Cyan"
-            Start-Process powershell -ArgumentList "-NoExit", "-Command", $comfyCmd -WindowStyle Normal
-            Wait-ForUrl "http://127.0.0.1:8188/system_stats" "ComfyUI" 180 | Out-Null
+    if (-not $comfyIsLocal) {
+        Write-StartLog "Remote ComfyUI — not starting local copy." "Cyan"
+        if (Test-HttpOk $comfyStatsUrl 15) {
+            Write-StartLog "Remote ComfyUI ready." "Green"
         } else {
-            Write-StartLog "ComfyUI already running on :8188" "Green"
+            Write-StartLog "Remote ComfyUI DOWN — fix RunPod pod or SHORTS_COMFY_BASE_URL in .env" "Yellow"
+            Write-StartLog "Expected: https://<pod-id>-8188.proxy.runpod.net" "Yellow"
+        }
+    } elseif (-not $ComfyRoot) {
+        Write-StartLog "Set SHORTS_COMFYUI_ROOT in .env for local ComfyUI." "Yellow"
+    } elseif (Test-Path $ComfyRoot) {
+        if (-not (Test-HttpOk $comfyStatsUrl)) {
+            Write-StartLog "Starting local ComfyUI..."
+            $comfyCmd = "Set-Location '$ComfyRoot'; .\python_embeded\python.exe -s .\ComfyUI\main.py --windows-standalone-build --port 8188 --lowvram"
+            Write-StartLog "ComfyUI flags: --lowvram" "Cyan"
+            Start-Process powershell -ArgumentList "-NoExit", "-Command", $comfyCmd -WindowStyle Normal
+            Wait-ForUrl $comfyStatsUrl "ComfyUI" 180 | Out-Null
+        } else {
+            Write-StartLog "ComfyUI already running at $comfyBase" "Green"
         }
     } else {
         throw "ComfyUI root not found: $ComfyRoot"
@@ -99,4 +148,4 @@ if (-not (Test-HttpOk "http://127.0.0.1:$Port/api/health" 2)) {
 
 Start-Process "http://127.0.0.1:$Port"
 
-Write-StartLog "Done. Open Web UI -> create/run job. Plan runs first; LM unloads before images." "Green"
+Write-StartLog "Done. Web UI -> create/run job. GPU work uses ComfyUI at $comfyBase" "Green"

@@ -314,6 +314,132 @@ class RunPodComfyClient:
             delay_ms=result.get("delayTime"),
         )
 
+    def generate_flux_lora_one(
+        self,
+        bundle: Any,
+        prompt_text: str,
+        out_path: Path,
+        *,
+        refs: Any,
+        settings: Settings,
+        seed: int | None = None,
+    ) -> None:
+        from shorts_pipeline.image_worker.flux_lora_generator import (
+            FluxLoraBundle,
+            _FluxLoraCapable,
+        )
+
+        if not isinstance(bundle, FluxLoraBundle):
+            raise RunPodError("generate_flux_lora_one requires FluxLoraBundle")
+        cap = _FluxLoraCapable()
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        lora_name = cap._resolve_lora_name(settings, refs)
+        actual_seed = seed if seed is not None else random.randint(1, 2**32 - 1)
+        images_payload: list[dict[str, str]] = []
+        ref_names: list[str] = []
+        for i, p in enumerate(refs.image_paths, start=1):
+            name = f"ref_{actual_seed}_{i}{p.suffix.lower() or '.png'}"
+            ref_names.append(name)
+            images_payload.append(
+                {"name": name, "image": base64.b64encode(p.read_bytes()).decode("ascii")}
+            )
+        wf = cap._patch_flux_workflow(
+            bundle,
+            prompt_text=prompt_text,
+            lora_name=lora_name,
+            lora_strength=float(settings.flux_lora_strength),
+            ref_uploaded_names=ref_names,
+            seed=actual_seed,
+        )
+        payload = {"input": {"workflow": wf, "images": images_payload}}
+        log.info(
+            "runpod_flux_lora_submit",
+            lora=lora_name,
+            refs=len(ref_names),
+            prompt_preview=prompt_text[:80],
+        )
+        job_id = _submit_job(self._cfg, payload)
+        result = _poll_until_complete(self._cfg, job_id)
+        output = result.get("output")
+        if output is None:
+            raise RunPodError("RunPod flux lora /status COMPLETED but output is null", detail=result)
+        png_bytes = _decode_runpod_output(output, expected_ext=".png")
+        out_path.write_bytes(png_bytes)
+        self.verify_png(out_path, min_w=bundle.min_width, min_h=bundle.min_height)
+        log.info(
+            "runpod_flux_lora_done",
+            out=out_path.name,
+            size_kb=int(out_path.stat().st_size / 1024),
+        )
+
+    def generate_flux_identity_one(
+        self,
+        bundle: Any,
+        prompt_text: str,
+        out_path: Path,
+        *,
+        refs: Any,
+        settings: Settings,
+        seed: int | None = None,
+    ) -> None:
+        from shorts_pipeline.image_worker.face_mask import build_face_inpaint_mask
+        from shorts_pipeline.image_worker.flux_identity_generator import (
+            FluxIdentityBundle,
+            PORTRAIT_H,
+            PORTRAIT_W,
+            _FluxIdentityCapable,
+        )
+
+        if not isinstance(bundle, FluxIdentityBundle):
+            raise RunPodError("generate_flux_identity_one requires FluxIdentityBundle")
+        cap = _FluxIdentityCapable()
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        actual_seed = seed if seed is not None else random.randint(1, 2**32 - 1)
+        images_payload: list[dict[str, str]] = []
+        ref_names: list[str] = []
+        for i, p in enumerate(refs.image_paths, start=1):
+            name = f"ref_{actual_seed}_{i}{p.suffix.lower() or '.png'}"
+            ref_names.append(name)
+            images_payload.append(
+                {"name": name, "image": base64.b64encode(p.read_bytes()).decode("ascii")}
+            )
+        mask_path = build_face_inpaint_mask(
+            refs.image_paths[0],
+            width=PORTRAIT_W,
+            height=PORTRAIT_H,
+        )
+        mask_name = f"face_mask_{actual_seed}.png"
+        images_payload.append(
+            {"name": mask_name, "image": base64.b64encode(mask_path.read_bytes()).decode("ascii")}
+        )
+        wf = cap._patch_identity_workflow(
+            bundle,
+            prompt_text=prompt_text,
+            ref_uploaded_names=ref_names,
+            face_mask_name=mask_name,
+            settings=settings,
+            seed=actual_seed,
+        )
+        payload = {"input": {"workflow": wf, "images": images_payload}}
+        log.info(
+            "runpod_flux_identity_submit",
+            refs=len(ref_names),
+            prompt_preview=prompt_text[:80],
+        )
+        job_id = _submit_job(self._cfg, payload)
+        result = _poll_until_complete(self._cfg, job_id)
+        output = result.get("output")
+        if output is None:
+            raise RunPodError("RunPod flux identity /status COMPLETED but output is null", detail=result)
+        png_bytes = _decode_runpod_output(output, expected_ext=".png")
+        out_path.write_bytes(png_bytes)
+        self.verify_png(out_path, min_w=bundle.min_width, min_h=bundle.min_height)
+        log.info(
+            "runpod_flux_identity_done",
+            out=out_path.name,
+            size_kb=int(out_path.stat().st_size / 1024),
+        )
+
     def verify_png(self, path: Path, *, min_w: int, min_h: int) -> None:
         """Match ComfyClient.verify_png so disk recovery works in either transport mode."""
         try:
@@ -412,6 +538,88 @@ class RunPodWanI2VClient:
         )
 
 
+class RunPodLtxI2VClient:
+    """RunPod-backed LTX 2.3 I2V. Mirrors LtxI2VClient.generate_clip()."""
+
+    def __init__(self, settings: Settings) -> None:
+        self._s = settings
+        self._cfg = _RunPodConfig.from_settings(settings)
+
+    def generate_clip(
+        self,
+        bundle: Any,
+        *,
+        image_path: Path,
+        motion_prompt: str,
+        duration_s: float,
+        out_path: Path,
+        seed: int | None = None,
+    ) -> None:
+        from shorts_pipeline.video_worker.ltx_i2v import (
+            LtxI2VBundle,
+            LtxI2VError,
+            duration_to_ltx_seconds,
+        )
+
+        if not isinstance(bundle, LtxI2VBundle):
+            raise RunPodError("RunPodLtxI2VClient requires LtxI2VBundle")
+        if not image_path.exists():
+            raise LtxI2VError(f"source image does not exist: {image_path}")
+        if not motion_prompt or len(motion_prompt) < 10:
+            raise LtxI2VError(f"motion_prompt too short ({len(motion_prompt)} chars)")
+
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        length_s = duration_to_ltx_seconds(duration_s)
+        actual_seed = seed if seed is not None else random.randint(1, 2**32 - 1)
+        uploaded_name = f"input_{actual_seed}.png"
+
+        wf = copy.deepcopy(bundle.prompt)
+        _nested_set(wf, bundle.prompt_key_path, motion_prompt)
+        _nested_set(wf, bundle.image_key_path, uploaded_name)
+        _nested_set(wf, bundle.length_key_path, length_s)
+        _patch_seeds(wf, actual_seed)
+        for sk in bundle.seed_key_paths:
+            _nested_set(wf, sk, actual_seed)
+        if bundle.ltx_audio_switch_key_path:
+            _nested_set(wf, bundle.ltx_audio_switch_key_path, False)
+
+        image_b64 = base64.b64encode(image_path.read_bytes()).decode("ascii")
+        payload = {
+            "input": {
+                "workflow": wf,
+                "images": [{"name": uploaded_name, "image": image_b64}],
+            }
+        }
+        log.info(
+            "runpod_ltx_i2v_submit",
+            image=image_path.name,
+            length_s=length_s,
+            seed=actual_seed,
+            prompt_preview=motion_prompt[:80],
+        )
+        job_id = _submit_job(self._cfg, payload)
+        result = _poll_until_complete(self._cfg, job_id)
+        output = result.get("output")
+        if output is None:
+            raise RunPodError("RunPod LTX I2V /status COMPLETED but output is null", detail=result)
+        mp4_bytes = _decode_runpod_output(output, expected_ext=".mp4")
+        out_path.write_bytes(mp4_bytes)
+        size_kb = int(out_path.stat().st_size / 1024)
+        if size_kb < 50:
+            raise RunPodError(
+                f"RunPod LTX I2V output suspiciously small ({size_kb} KB)",
+                detail={"job_id": job_id, "length_s": length_s},
+            )
+        log.info(
+            "runpod_ltx_i2v_done",
+            out=out_path.name,
+            size_kb=size_kb,
+            length_s=length_s,
+            exec_ms=result.get("executionTime"),
+            delay_ms=result.get("delayTime"),
+        )
+
+
 # ── Factory used by orchestrator (call sites untouched) ───────────────────────
 
 
@@ -431,8 +639,14 @@ def make_image_client(settings: Settings) -> Any:
 
 
 def make_i2v_client(settings: Settings) -> Any:
-    """Return WanI2VClient or RunPodWanI2VClient based on settings.comfy_mode."""
+    """Return I2V client for configured backend (wan or ltx) and comfy_mode."""
+    backend = (settings.i2v_backend or "wan").lower().strip()
     mode = (settings.comfy_mode or "local").lower()
+    if backend == "ltx":
+        if mode == "runpod":
+            return RunPodLtxI2VClient(settings)
+        from shorts_pipeline.video_worker.ltx_i2v import LtxI2VClient
+        return LtxI2VClient(settings)
     if mode == "runpod":
         return RunPodWanI2VClient(settings)
     if mode == "local":

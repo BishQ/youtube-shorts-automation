@@ -4,8 +4,8 @@ cd /d "%~dp0"
 
 echo.
 echo  Starting:
-echo    [1] LM Studio  (script / plan)
-echo    [2] ComfyUI    (images + video)
+echo    [1] Ollama or LM Studio  (plan / script)
+echo    [2] ComfyUI local OR RunPod remote  (images + LTX video)
 echo    [3] Web UI     (control panel)
 echo.
 
@@ -20,6 +20,6 @@ if %ERR% NEQ 0 (
 )
 
 echo  All services started. Browser should open http://127.0.0.1:8001
-echo  LM Studio: load model + Start Local Server if the yellow warning appeared.
+echo  If yellow warnings: Ollama model loaded OR RunPod ComfyUI URL in .env
 echo.
 timeout /t 5 >nul

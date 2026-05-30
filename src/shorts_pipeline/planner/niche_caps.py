@@ -39,7 +39,9 @@ MIN_WORDS = DEFAULT_MIN_WORDS
 NICHE_CAPS: dict[str, dict[str, int | float]] = {
     "business":     {"min_words": 138, "max_words": 158, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.67},
     "cosmic":       {"min_words": 143, "max_words": 162, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.63},
-    "crime":        {"min_words": 150, "max_words": 169, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.53},
+    # Crime scripts often need a few extra procedural beats to stay grounded.
+    # Keep the upper bound aligned with the global default to avoid planner deadlocks.
+    "crime":        {"min_words": 160, "max_words": 210, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.53},
     "cults":        {"min_words": 139, "max_words": 158, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.66},
     "documentary":  {"min_words": 153, "max_words": 173, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.50},
     "edutainment":  {"min_words": 152, "max_words": 172, "min_syllables": 239, "max_syllables": 252, "avg_syl_per_word": 1.51},

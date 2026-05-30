@@ -6,9 +6,14 @@ import random
 from pathlib import Path
 
 from shorts_pipeline.editor.models import ClipSpec, EditPlan
+from shorts_pipeline.editor.motion_director import direct_clip_motion
 from shorts_pipeline.editor.pacing import compute_cut_times_from_ranges
 from shorts_pipeline.editor.xfade_effects import pick_random_xfade_effect
-from shorts_pipeline.planner.schema import NarrationPlan, SubtitlePosition, TransitionType
+from shorts_pipeline.planner.schema import (
+    NarrationPlan,
+    SubtitlePosition,
+    TransitionType,
+)
 
 __all__ = ["ClipSpec", "EditPlan", "build_edit_plan_from_ranges"]
 
@@ -39,6 +44,17 @@ def _fixed_transition(clip_index: int) -> TransitionType:
     return _FALLBACK_TRANSITION
 
 
+def _beats_lack_motion_variety(plan: NarrationPlan) -> bool:
+    """True when every clause shares one camera mode (flat/default beats).
+
+    In that case the editor hands motion off to the smart motion director so the
+    deck doesn't read as one repeated centre zoom. Plans whose beats already
+    carry deliberate per-clause camera variety are left untouched.
+    """
+    cameras = {clause.beat.camera for clause in plan.clauses}
+    return len(cameras) <= 1
+
+
 def build_edit_plan_from_ranges(
     plan: NarrationPlan,
     image_paths: list[Path],
@@ -51,6 +67,7 @@ def build_edit_plan_from_ranges(
     run_face_detection: bool = True,
     randomize_transitions: bool = False,
     transition_random_seed: int | None = None,
+    motion_random_seed: int | None = None,
 ) -> EditPlan:
     """
     Build an EditPlan from precomputed clause time ranges.
@@ -70,6 +87,9 @@ def build_edit_plan_from_ranges(
         transition_random_seed: RNG seed when ``randomize_transitions`` is True;
             if None, uses an arbitrary seed (callers should pass a job-derived
             seed for reproducibility).
+        motion_random_seed: RNG seed for the smart motion director, used only
+            when the plan's beats are flat/default. Pass a job-derived seed for
+            reproducible-yet-varied per-image camera moves.
     """
     from shorts_pipeline.editor.face_locator import detect_subtitle_position
 
@@ -77,11 +97,32 @@ def build_edit_plan_from_ranges(
 
     normalized = compute_cut_times_from_ranges(ranges, narration_duration_s)
 
+    # When the planner emitted flat/default beats, let the motion director craft
+    # a smart, controlled-random camera move per image (no jarring repeats,
+    # breathing push/release rhythm, strong hook, settled resolution).
+    synth_motion = _beats_lack_motion_variety(plan)
+    motion_plan = (
+        direct_clip_motion(
+            len(plan.clauses),
+            seed=motion_random_seed,
+            emotions=[clause.beat.emotion for clause in plan.clauses],
+        )
+        if synth_motion
+        else None
+    )
+
     clips: list[ClipSpec] = []
     for i, (clause, img_path, (start_s, end_s)) in enumerate(
         zip(plan.clauses, image_paths, normalized)
     ):
         beat = clause.beat
+
+        if motion_plan is not None:
+            clip_camera = motion_plan[i].camera
+            clip_intensity = motion_plan[i].intensity
+        else:
+            clip_camera = beat.camera
+            clip_intensity = beat.intensity
 
         cut_at = start_s
         if snap_to_bgm_beats:
@@ -106,12 +147,12 @@ def build_edit_plan_from_ranges(
                 image_path=img_path,
                 duration_s=max(0.05, end_s - start_s),
                 cut_at_s=cut_at,
-                camera=beat.camera,
+                camera=clip_camera,
                 transition_in=trans_in,
                 audio_event=beat.audio_event,
                 subtitle_position=sub_pos,
                 emphasis_words=list(beat.emphasis_words),
-                intensity=beat.intensity,
+                intensity=clip_intensity,
                 emotion=beat.emotion,
                 color_grade=beat.color_grade,
                 xfade_effect_name=xfade_name,

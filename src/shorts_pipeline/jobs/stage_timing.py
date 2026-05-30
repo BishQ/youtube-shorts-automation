@@ -2,18 +2,10 @@
 
 from __future__ import annotations
 
-from shorts_pipeline.jobs.models import PipelineStage
+from shorts_pipeline.jobs.models import PipelineStage, pipeline_stage_order
 
 # Visual order matching the timeline (research-style naming for creators).
-_STAGE_ORDER = [
-    PipelineStage.plan,
-    PipelineStage.images,
-    PipelineStage.tts,
-    PipelineStage.align,
-    PipelineStage.i2v,
-    PipelineStage.render,
-    PipelineStage.publish,
-]
+_STAGE_ORDER = pipeline_stage_order()
 
 STAGE_TIMING_LABELS: dict[str, str] = {
     "plan": "Script & planning",

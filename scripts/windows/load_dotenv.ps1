@@ -17,5 +17,10 @@ Get-Content $EnvFile -Encoding UTF8 | ForEach-Object {
     if ($val.StartsWith('"') -and $val.EndsWith('"')) {
         $val = $val.Substring(1, $val.Length - 2)
     }
+    # Keep values already set by the caller (e.g. start_no_wan.bat overrides).
+    $existing = [Environment]::GetEnvironmentVariable($key, "Process")
+    if ($null -ne $existing -and $existing -ne "") {
+        return
+    }
     Set-Item -Path "env:$key" -Value $val
 }

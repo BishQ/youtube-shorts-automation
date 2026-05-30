@@ -31,7 +31,13 @@ def test_plan_stage_skipped_when_artifact_valid(tmp_path: Path) -> None:
         def run_align(self, job_id: str) -> None:
             raise RuntimeError("unexpected")
 
+        def run_i2v(self, job_id: str) -> None:
+            raise RuntimeError("unexpected")
+
         def run_render(self, job_id: str) -> None:
+            raise RuntimeError("unexpected")
+
+        def run_publish(self, job_id: str) -> None:
             raise RuntimeError("unexpected")
 
     jd = tmp_path / "jobs" / jid
@@ -112,7 +118,13 @@ def test_images_stage_not_complete_when_fewer_artifacts_than_clauses(tmp_path: P
         def run_align(self, job_id: str) -> None:
             raise RuntimeError("unexpected")
 
+        def run_i2v(self, job_id: str) -> None:
+            raise RuntimeError("unexpected")
+
         def run_render(self, job_id: str) -> None:
+            raise RuntimeError("unexpected")
+
+        def run_publish(self, job_id: str) -> None:
             raise RuntimeError("unexpected")
 
     runner = StageRunner(store, H())

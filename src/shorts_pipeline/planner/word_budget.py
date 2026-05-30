@@ -27,13 +27,15 @@ from typing import Any
 
 from shorts_pipeline.logging_setup import get_logger
 from shorts_pipeline.planner.schema import (
+    CLAUSE_COUNT,
     NARRATION_SCRIPT_MAX_WORDS,
     NARRATION_SCRIPT_MIN_WORDS,
 )
 
 log = get_logger(__name__)
 
-_CLAUSE_TARGET = 14
+# Keep this in sync with planner schema.
+_CLAUSE_TARGET = CLAUSE_COUNT
 
 
 def _word_count(script: str) -> int:
@@ -282,6 +284,30 @@ def maybe_expand_plan_json(
         clause["text"] = prefix + text.lstrip()
         added = len(prefix.split())
         deficit -= added
+
+    # If we're still under budget (often because clauses already start with a prefix),
+    # add a tiny, non-controversial procedural tail to the last clause(s).
+    # Keep it generic so it doesn't invent new facts.
+    filler = " The record stays silent."
+    filler_words = len(filler.split())
+    guard = 0
+    while deficit > 0 and guard < 20:
+        guard += 1
+        # Prefer the final clause, then work backward.
+        for idx in range(len(clauses) - 1, 0, -1):
+            c = clauses[idx]
+            if not isinstance(c, dict):
+                continue
+            t = c.get("text")
+            if not isinstance(t, str) or not t.strip():
+                continue
+            if t.rstrip().endswith("silent."):
+                continue
+            c["text"] = t.rstrip() + filler
+            deficit -= filler_words
+            break
+        else:
+            break
 
     obj["full_script"] = " ".join(
         c["text"].strip()

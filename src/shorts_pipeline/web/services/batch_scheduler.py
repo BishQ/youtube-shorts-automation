@@ -74,6 +74,7 @@ class BatchScheduler:
         cfg = JobConfigSnapshot(
             figure_name=topic,
             bgm_path=str(bgm.resolve()),
+            niche=batch.topic_type,
             topic_type=batch.topic_type,
             language=batch.language,
             watermark_enabled=effective.watermark_enabled,
@@ -120,9 +121,14 @@ class BatchScheduler:
         skip_job_id: str | None = None
         existing = self._store.find_jobs_by_figure(figure_name)
         for job in existing:
-            art = self._store.get_latest_artifact(job.id, PipelineStage.render, ArtifactType.final_mp4)
-            if art and Path(art.path).is_file() and Path(art.path).stat().st_size > 0:
-                skip_job_id = job.id
+            for art_type in (ArtifactType.final_mp4, ArtifactType.final_wan_mp4):
+                art = self._store.get_latest_artifact(
+                    job.id, PipelineStage.render, art_type
+                )
+                if art and Path(art.path).is_file() and Path(art.path).stat().st_size > 0:
+                    skip_job_id = job.id
+                    break
+            if skip_job_id is not None:
                 break
         if skip_job_id is not None:
             return skip_job_id

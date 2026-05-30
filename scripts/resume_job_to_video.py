@@ -42,6 +42,7 @@ from shorts_pipeline.context import set_job_id
 from shorts_pipeline.jobs.models import JobStatus, PipelineStage
 from shorts_pipeline.jobs.store import JobStore
 from shorts_pipeline.orchestrator import PipelineOrchestrator
+from shorts_pipeline.jobs.paths import resolve_job_dir, legacy_job_dir, niche_job_dir, niche_folder_name
 
 
 def main() -> int:
@@ -53,16 +54,41 @@ def main() -> int:
     settings = effective_settings(Settings())
     jobs_root = settings.data_dir / "jobs"
 
+    store = JobStore(settings.data_dir / "jobs.sqlite")
+
+    def _all_job_dirs_with_plans() -> list[Path]:
+        # Support both layouts:
+        #   data/jobs/<job_id>/
+        #   data/jobs/<niche>/<job_id>/
+        out: list[Path] = []
+        # Legacy
+        out.extend([p for p in jobs_root.glob("*-*") if (p / "plan.json").is_file()])
+        # Niche folders (one level deep)
+        for niche_dir in jobs_root.iterdir():
+            if not niche_dir.is_dir():
+                continue
+            out.extend([p for p in niche_dir.glob("*-*") if (p / "plan.json").is_file()])
+        return out
+
     if args.latest or not args.job_id:
-        jobs = sorted(jobs_root.glob("*-*"), key=lambda p: p.stat().st_mtime, reverse=True)
-        jobs = [p for p in jobs if (p / "plan.json").is_file()]
+        jobs = sorted(_all_job_dirs_with_plans(), key=lambda p: p.stat().st_mtime, reverse=True)
         if not jobs:
             print("No jobs with plan.json found"); return 1
         job_id = jobs[0].name
     else:
         job_id = args.job_id
 
-    jd = jobs_root / job_id
+    # Resolve actual job folder.
+    # NOTE: `resolve_job_dir` prefers legacy folders if they exist, but we want
+    # to support niche-first layout too, so check both.
+    rec = store.get_job(job_id)
+    niche = niche_folder_name(rec.topic_type) if rec else "unknown"
+    candidates = [
+        niche_job_dir(settings, niche, job_id),
+        legacy_job_dir(settings, job_id),
+        resolve_job_dir(settings, store, job_id),
+    ]
+    jd = next((p for p in candidates if p.is_dir()), candidates[-1])
     if not jd.is_dir():
         print(f"Job folder not found: {jd}"); return 1
     if not (jd / "plan.json").is_file():
@@ -73,13 +99,15 @@ def main() -> int:
     plan = json.loads((jd / "plan.json").read_text(encoding="utf-8"))
     print(f"  figure: {plan.get('historical_figure', '?')}")
 
-    # Clean images
+    # Clean images (folder + sqlite rows — otherwise run_images may skip missing files).
     imgs = jd / "images"
     if imgs.exists():
         shutil.rmtree(imgs)
         print("  cleared images/")
+    n_arts = store.delete_all_image_png_artifacts(job_id)
+    if n_arts:
+        print(f"  cleared {n_arts} image artifact row(s) in jobs.sqlite")
 
-    store = JobStore(settings.data_dir / "jobs.sqlite")
     orch = PipelineOrchestrator(settings, store)
     set_job_id(job_id)
 

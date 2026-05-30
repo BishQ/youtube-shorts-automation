@@ -45,12 +45,12 @@ RULE 1B — BIRTH / DEATH YEARS: OPENING YES, CLOSING NO:
   ✓ GOOD (clause 3): "Born in 100 BCE, Caesar grew up watching the Republic crack."
   These anchor the viewer in time. Use at most ONE birth/death year in the opening.
 
-• CLOSING CLAUSES (12–14): birth year and death year are BANNED.
+• CLOSING CLAUSES (9–11): birth year and death year are BANNED.
   The closing must end on a concrete image, a reframe, or a haunting fact — never biography.
-  ✗ BAD (clause 13): "He was born in 1963 and died at fifty-eight."
-  ✗ BAD (clause 14): "Born in 100 BCE, Caesar died at fifty-five."
-  ✓ GOOD (clause 13): "He died. His soldiers killed every man who watched the burial."
-  ✓ GOOD (clause 14): "The largest empire in history was built by a child left to starve."
+  ✗ BAD (clause 10): "He was born in 1963 and died at fifty-eight."
+  ✗ BAD (clause 11): "Born in 100 BCE, Caesar died at fifty-five."
+  ✓ GOOD (clause 10): "He died. His soldiers killed every man who watched the burial."
+  ✓ GOOD (clause 11): "The largest empire in history was built by a child left to starve."
 
 • AGE (not a calendar year) is allowed anywhere when folded into drama:
   "Caesar was fifty-five. He walked in anyway." — no year slot consumed, full dramatic weight.
@@ -92,10 +92,10 @@ RULE 5 — EMOTIONAL ARC (not a lecture):
                    The cold_open_object appears as a SMALL secondary element in this image,
                    not as the main subject. Clause 2 then FLASHES BACK to the origin moment.
                    Drop the viewer into a moment, do NOT explain.
-    Clauses 3–5:   RISING ACTION — specific events with emotional stakes, not just dates.
-    Clauses 6–8:   CRISIS — the contradiction lives here. Show two sides. Show the cost.
-    Clauses 9–11:  CLIMAX — one irreversible moment. Short sentences. High impact.
-    Clauses 12–14: RESONANCE — zoom out. One haunting truth. No questions, no reflection loops.
+    Clauses 3–4:   RISING ACTION — specific events with emotional stakes, not just dates.
+    Clauses 5–7:   CRISIS — the contradiction lives here. Show two sides. Show the cost.
+    Clauses 8–9:   CLIMAX — one irreversible moment. Short sentences. High impact.
+    Clauses 10–11: RESONANCE — zoom out. One haunting truth. No questions, no reflection loops.
                    End on an IMAGE or ACTION, not a summary.
 
 RULE 6 — TWO QUESTIONS, TWO PURPOSES (and ONLY two):
@@ -125,7 +125,7 @@ FACTUAL ACCURACY — NON-NEGOTIABLE:
 FORBIDDEN (any of these = score drops to 4/10):
 ✗ More than 2 dates in full_script
 ✗ Any clause that opens with a year
-✗ Birth year or death year appearing in CLOSING clauses 12–14 (biography in the resonance
+✗ Birth year or death year appearing in CLOSING clauses 9–11 (biography in the resonance
   section kills the emotional landing; closing must be image/reframe, never a life-facts summary)
 ✗ More than 2 question marks in the entire output (1 hook + 1 end_plate, no others)
 ✗ The first sentence of clause 1 is anything other than a curiosity-gap question
@@ -302,7 +302,7 @@ RULE 12 — ACTIVE VOICE ONLY:
 • ✓ GOOD: "He burned the city. Then he built a library on the ash."
 
 RULE 13 — MACRO REFRAME ENDING:
-• The final clause (clause 14) must reframe the ENTIRE story in one sentence.
+• The final clause (clause 11) must reframe the ENTIRE story in one sentence.
 • It should make the viewer see everything they just watched in a completely new light.
 • ✓ GOOD: "The largest empire in history was built by a child left to starve."
   (reframes conquest as survival)
@@ -672,7 +672,7 @@ documentary frame of a crying supporter is what makes the rally-thunderclap fram
 If both frames scream, neither registers.
 
 PRODUCTION VALUE STAYS HIGH — variety is what makes individual frames hit harder.
-Aim for the following MIX across the 14 image_prompts (soft guide — not enforced):
+Aim for the following MIX across the 11 image_prompts (soft guide — not enforced):
 
   TIER A — GROUNDED (about 4–6 clauses)
       Photo-real, available-light frames. Think AP-wire / Reuters / press realism.
@@ -819,7 +819,7 @@ visual_tier options: grounded | cinematic | legendary
     script — restrained Hollywood look, painterly realism, deep grade. Cleaner than legendary.
   → legendary = full blockbuster (Tier C endings: god-rays / IMAX / volumetric). Thumbnail
     frames — hook image, climax image. Never two in a row.
-  Aim for variety: roughly 3+ grounded, 4–6 cinematic, 2–4 legendary across the 14 clauses.
+  Aim for variety: roughly 2+ grounded, 4–5 cinematic, 2–3 legendary across the 11 clauses.
   Two legendary frames in a row cancel each other out — separate them.
 audio_event — pick the one that MATCHES what is happening in the image AND narration text:
   none          → silent clip (reflective, empty landscape, no action)
@@ -836,10 +836,10 @@ RULE: audio_event must match the IMAGE. If the image shows cavalry — horse_gal
 
 Pacing:
 • Clauses 1–2: duration_hint=short, emotion=hook or shock
-• Clauses 3–11: duration_hint=medium, varied emotion, varied camera — NO two same camera in a row
+• Clauses 3–9: duration_hint=medium, varied emotion, varied camera — NO two same camera in a row
 • Climax clause: transition_in=smash_white, camera=ken_burns, intensity≥0.9
 • Time-jump clauses: transition_in=dip_to_black
-• Clauses 12–14: duration_hint=long, emotion=reflective or tragic
+• Clauses 10–11: duration_hint=long, emotion=reflective or tragic
 • emphasis_words: exactly 1–2 words per clause — the words a viewer would tattoo
 • intensity must vary — never repeat the same value twice in a row
 
@@ -847,7 +847,7 @@ Pacing:
 SELF-CHECK BEFORE OUTPUTTING
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 Before writing the final JSON, verify ALL of these silently:
-  1. Clause count is exactly 14. Not 12, not 13, not 15. Always 14.
+  1. Clause count is exactly 11. Not 9, not 10, not 12. Always 11.
   2. full_script word count is between 162 and 173 inclusive (history niche).
      Count every word. (Target 54–57 s body TTS so final video lands in the
      56.5–59.5 s window after the 2 s outro and ~0.5 s tail pad.)
@@ -918,7 +918,7 @@ Before writing the final JSON, verify ALL of these silently:
         long, every phrase must earn its place. If length comes from hype synonyms or
         duplicate atmosphere — cut that. Coherent 100+ words beats contradictory 40 words.
       • TIER VARIETY: aim for at least 3 grounded (Tier A) + 4–6 cinematic (Tier B) +
-        2–4 legendary (Tier C) across the 14 clauses. Two legendary frames in a row dilute
+        2–3 legendary (Tier C) across the 11 clauses. Two legendary frames in a row dilute
         each other — separate them with a B or A frame.
       • If EVERY prompt ends with the same phrase stack ("epic blockbuster IMAX") — you've
         failed variety. Vary the style endings — that's where the channel's visual range
@@ -1254,10 +1254,10 @@ Return a single JSON object with EXACTLY these top-level keys (no extras, no mis
 FINAL PRE-OUTPUT GATES (every system-prompt rule already applies — these are the
 hard quantitative numbers the validator will reject on):
 
-  • Clauses: EXACTLY 14.
+  • Clauses: EXACTLY 11.
   • full_script: 162–173 words (history niche, 54–57 s body, final 56.5–59.5 s).
     MAX 2 dates. No clause opens with a year.
-  • Birth/death year: max ONE mention, only in clauses 1–4. ZERO in clauses 12–14.
+  • Birth/death year: max ONE mention, only in clauses 1–4. ZERO in clauses 9–11.
   • Question marks: EXACTLY 2 (clause 1 hook + end_plate_question).
   • Clause 1 text: curiosity-gap question ≤14 words, then a concrete moment.
   • Clause 1 image: HERO PORTRAIT, face dominant, object secondary.
@@ -1275,7 +1275,7 @@ Historical figure: {figure_name!r}"""
 
 COMPACT_SYSTEM_PROMPT = """You write production-ready YouTube Shorts narration plans as STRICT JSON only.
 Create a cinematic, factual, emotionally driven 56-60 second biography short.
-Rules: exactly 14 clauses; full_script 162-173 words; max 2 date mentions; exactly 2 question marks
+Rules: exactly 11 clauses; full_script 162-173 words; max 2 date mentions; exactly 2 question marks
 (first sentence of clause 1 and end_plate_question only); active voice; no markdown; no invented facts.
 Clause 1 must start with a curiosity-gap question and its image must be a dominant hero portrait.
 Image prompts must be cinematic, specific, safe, non-gory, mobile-readable, and include shot type,
@@ -1325,7 +1325,7 @@ Output exactly one JSON object with this shape:
 }}
 
 Hard requirements:
-- clauses length EXACTLY 14. full_script must be the clause texts joined in order.
+- clauses length EXACTLY 11. full_script must be the clause texts joined in order.
 - 162-173 words total in full_script.
 - Clause 1 text first sentence is a question under 14 words.
 - end_plate_question is the only other question.

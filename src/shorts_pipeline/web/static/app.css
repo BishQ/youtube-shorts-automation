@@ -1005,6 +1005,7 @@ a:hover { text-decoration: underline; }
 .modal-sub { font-size: .85rem; color: var(--muted); margin-bottom: 1.25rem; line-height: 1.5; }
 .modal-sub strong { color: var(--text); }
 
+.input-select,
 .resume-select {
   width: 100%;
   background: rgba(255,255,255,.05);
@@ -1015,7 +1016,9 @@ a:hover { text-decoration: underline; }
   outline: none; margin-bottom: 1.25rem;
   cursor: pointer;
 }
+.input-select:focus,
 .resume-select:focus { border-color: rgba(232,184,75,.45); }
+.input-select option,
 .resume-select option { background: #0f0f20; }
 
 .modal-btn-row { display: flex; gap: .6rem; flex-wrap: wrap; }

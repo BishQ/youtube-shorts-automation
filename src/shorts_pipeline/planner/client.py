@@ -126,29 +126,32 @@ def _extract_json(raw: str) -> dict[str, Any]:
 
 
 def _build_correction_message(obj: dict[str, Any], err: Exception) -> str:
+    from shorts_pipeline.planner.schema import CLAUSE_COUNT
+
     err_str = str(err)
     current_count = len(obj.get("clauses", []))
 
     if "too_short" in err_str and "clauses" in err_str:
-        needed = 14 - current_count
+        needed = CLAUSE_COUNT - current_count
         existing = "\n".join(
             f"  {i + 1}. {c.get('text', '')[:60]}"
             for i, c in enumerate(obj.get("clauses", []))
         )
         return (
-            f"CRITICAL: You only wrote {current_count} clauses. The requirement is EXACTLY 14.\n"
+            f"CRITICAL: You only wrote {current_count} clauses. "
+            f"The requirement is EXACTLY {CLAUSE_COUNT}.\n"
             f"Your existing clauses:\n{existing}\n\n"
-            f"You MUST add {needed} more clause(s) to reach exactly 14 total. "
+            f"You MUST add {needed} more clause(s) to reach exactly {CLAUSE_COUNT} total. "
             "Continue the story arc after the last clause above. "
             "Use structure: CLIMAX → RESONANCE for the remaining clauses. "
             "Each new clause needs its own image_prompt and beat metadata. "
-            "Return the COMPLETE JSON with ALL 14 clauses (existing + new ones)."
+            f"Return the COMPLETE JSON with ALL {CLAUSE_COUNT} clauses (existing + new ones)."
         )
 
     if "too_long" in err_str and "clauses" in err_str:
-        excess = current_count - 14
+        excess = current_count - CLAUSE_COUNT
         return (
-            f"Your JSON has {current_count} clauses. Maximum is 14. "
+            f"Your JSON has {current_count} clauses. Maximum is {CLAUSE_COUNT}. "
             f"Remove the {excess} weakest clause(s) and return the complete corrected JSON."
         )
 

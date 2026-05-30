@@ -25,7 +25,7 @@ from shorts_pipeline.planner.multistage import (
     stage_b_system,
     stage_b_user,
 )
-from shorts_pipeline.planner.schema import NarrationPlan
+from shorts_pipeline.planner.schema import CLAUSE_COUNT, NarrationPlan
 
 
 # ── Soft rules block — pasted into every Stage A prompt ──────────────────────
@@ -40,7 +40,7 @@ def hard_rules_block(min_w: int, max_w: int, max_syl: int) -> str:
       - Target natural spoken pacing, not a count.
     """
     target = (min_w + max_w) // 2
-    return f"""Target natural spoken pacing for ~58 seconds (~{target} words across 14 clauses).
+    return f"""Target natural spoken pacing for ~58 seconds (~{target} words across {CLAUSE_COUNT} clauses).
 
 OPENING — clause 1's first sentence is a curiosity question under 14 words.
   Don't name the subject in clauses 1-2. Reveal at clause 3 or 4.
@@ -218,7 +218,7 @@ def find_narrative_issues(narrative: dict, min_w: int, max_w: int) -> list[str]:
             extra_qs += text.count("?")
     if extra_qs > 0:
         issues.append(
-            f"Too many question marks — {extra_qs} stray '?' inside clauses 2-14. "
+            f"Too many question marks — {extra_qs} stray '?' inside clauses 2-{CLAUSE_COUNT}. "
             f"Rewrite those questions as statements (remove the '?')."
         )
 
@@ -256,13 +256,13 @@ def repair_narrative(
     sys_p = f"""You are doing a single targeted repair pass on a narration draft.
 
 Fix ONLY the issues listed below. Do NOT rewrite clauses that are fine.
-Keep the same number of clauses (14). Keep the same HISTORICAL_FIGURE,
+Keep the same number of clauses ({CLAUSE_COUNT}). Keep the same HISTORICAL_FIGURE,
 COLD_OPEN_OBJECT, LEVER_*, LUT, END_QUESTION values from the draft.
 
 ISSUES TO FIX:
 {issues_block}
 
-OUTPUT FORMAT — repeat the same 7 metadata lines, then CLAUSE 1..14:
+OUTPUT FORMAT — repeat the same 7 metadata lines, then CLAUSE 1..{CLAUSE_COUNT}:
 
 HISTORICAL_FIGURE: <name>
 COLD_OPEN_OBJECT: <object>
@@ -274,7 +274,7 @@ END_QUESTION: <one '?' question>
 
 CLAUSE 1: <fixed text>
 ...
-CLAUSE 14: <fixed text>"""
+CLAUSE {CLAUSE_COUNT}: <fixed text>"""
     metadata = (
         f"HISTORICAL_FIGURE: {narrative.get('historical_figure','')}\n"
         f"COLD_OPEN_OBJECT: {narrative.get('cold_open_object','')}\n"
@@ -290,7 +290,7 @@ CLAUSE 14: <fixed text>"""
     from shorts_pipeline.planner.multistage import parse_stage_a
     repaired = parse_stage_a(raw)
     parsed = sum(1 for c in repaired["clauses"] if c["text"])
-    if parsed < 14:
+    if parsed < CLAUSE_COUNT:
         # repair failed — return original
         return narrative
     # Preserve fields if repair dropped them
@@ -302,10 +302,10 @@ CLAUSE 14: <fixed text>"""
     return repaired
 
 
-# ── Auto-fix stray question marks in clauses 2-14 ────────────────────────────
+# ── Auto-fix stray question marks in body clauses ─────────────────────────────
 
 def strip_stray_questions(narrative: dict) -> dict:
-    """Replace '?' with '.' in clauses 2-14, and any second '?' in clause 1.
+    """Replace '?' with '.' in clauses 2..N, and any second '?' in clause 1.
 
     The validator allows exactly ONE '?' in clause 1's first sentence and one
     END_QUESTION. Anything else is converted to a period silently.
@@ -325,7 +325,7 @@ def strip_stray_questions(narrative: dict) -> dict:
             tail = text[first_q + 1:].replace("?", ".")
             clauses[i]["text"] = head + tail
         else:
-            # No questions allowed in clauses 2-14.
+            # No questions allowed in body clauses.
             if "?" in text:
                 clauses[i]["text"] = text.replace("?", ".")
     narrative["full_script"] = " ".join(c.get("text", "") for c in clauses).strip()
@@ -341,12 +341,12 @@ def cadence_rewrite(
     niche: str,
     timeout_s: float = 600.0,
 ) -> dict:
-    """Rewrite the 14 clauses to introduce rhythm — short hits, long lines,
+    """Rewrite narration clauses to introduce rhythm — short hits, long lines,
     deliberate pauses. Only triggers if pacing is uniform (most clauses within
     ±2 words of each other).
     """
     clauses = narrative.get("clauses", [])
-    if len(clauses) != 14:
+    if len(clauses) != CLAUSE_COUNT:
         return narrative
 
     # Skip if narrative is already at or above the niche band — rewriting risks
@@ -367,7 +367,7 @@ def cadence_rewrite(
     clauses_block = "\n".join(
         f"CLAUSE {i+1}: {c['text']}" for i, c in enumerate(clauses)
     )
-    sys_p = """You are rewriting a 14-clause Short narration for spoken RHYTHM.
+    sys_p = f"""You are rewriting a {CLAUSE_COUNT}-clause Short narration for spoken RHYTHM.
 
 The current draft is too uniform — every clause is the same length.
 Real cinematic narration alternates: short hit, medium explain, short punch,
@@ -382,11 +382,11 @@ Example transformation:
      He charged."
 
 RULES:
-- Keep all 14 clauses.
+- Keep all {CLAUSE_COUNT} clauses.
 - Keep all factual content.
 - Change LENGTHS only — make some 4-5 words, some 18-22 words.
 - Pattern target: short / medium / short / long / impact / medium / short / etc.
-- Keep clause 1's question and clause 14's setup.
+- Keep clause 1's question and the final clause's setup.
 
 Output same labelled format as input."""
     user_p = f"REWRITE FOR RHYTHM:\n\n{clauses_block}"
@@ -394,7 +394,7 @@ Output same labelled format as input."""
                    max_tokens=1500, timeout_s=timeout_s, temperature=0.5)
     from shorts_pipeline.planner.multistage import parse_stage_a
     revised = parse_stage_a(raw)
-    if len([c for c in revised["clauses"] if c["text"]]) < 14:
+    if len([c for c in revised["clauses"] if c["text"]]) < CLAUSE_COUNT:
         return narrative  # rewrite failed, keep original
     # Preserve metadata
     revised["historical_figure"] = narrative.get("historical_figure", revised.get("historical_figure", ""))
@@ -415,7 +415,7 @@ def visual_stage(
     timeout_s: float = 600.0,
     previous_error: str | None = None,
 ) -> list[dict]:
-    """Generate visual blocks for the 14 clauses. Returns parsed list."""
+    """Generate visual blocks for all clauses. Returns parsed list."""
     sys_p = stage_b_system(niche)
     if previous_error:
         sys_p += f"\n\nIMPORTANT — your last attempt failed with: {previous_error}\nFix this and try again."
@@ -424,8 +424,8 @@ def visual_stage(
                    max_tokens=16000, timeout_s=timeout_s)
     visuals = parse_stage_b(raw)
     parsed = sum(1 for v in visuals if v["image_prompt"])
-    if parsed < 14:
-        raise RuntimeError(f"visual stage parsed {parsed}/14 blocks")
+    if parsed < CLAUSE_COUNT:
+        raise RuntimeError(f"visual stage parsed {parsed}/{CLAUSE_COUNT} blocks")
     return visuals
 
 

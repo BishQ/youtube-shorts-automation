@@ -105,21 +105,21 @@ class JobStore:
             )
 
     def has_blocking_pipeline_job(self, *, exclude_job_id: str | None = None) -> bool:
-        """True if any job is running or cooperatively paused (optional exclude for resume)."""
+        """True if another job is actively executing pipeline stages (not merely paused)."""
         with self.connect() as c:
             if exclude_job_id:
                 row = c.execute(
-                    "SELECT id FROM jobs WHERE status IN ('running', 'paused') AND id != ? LIMIT 1",
+                    "SELECT id FROM jobs WHERE status = 'running' AND id != ? LIMIT 1",
                     (exclude_job_id,),
                 ).fetchone()
             else:
                 row = c.execute(
-                    "SELECT id FROM jobs WHERE status IN ('running', 'paused') LIMIT 1",
+                    "SELECT id FROM jobs WHERE status = 'running' LIMIT 1",
                 ).fetchone()
         return row is not None
 
     def has_running_job(self) -> bool:
-        """True when a job holds the single pipeline slot (running or cooperatively paused)."""
+        """True when any job is actively executing (paused jobs do not block the queue)."""
         return self.has_blocking_pipeline_job()
 
     def create_job(self, config: JobConfigSnapshot) -> str:
@@ -361,10 +361,11 @@ class JobStore:
     def delete_artifacts_from_stage(self, job_id: str, from_stage: PipelineStage) -> int:
         """Delete all artifact rows for *from_stage* and every stage after it.
 
-        Used when re-scripting a job: keeps plan + images, clears tts/align/render/publish
-        so that ``resume_job`` re-runs those stages with the updated script.
+        Used when re-scripting a job: keeps plan, clears tts onward (voice before images).
         """
-        stage_order = list(PipelineStage)
+        from shorts_pipeline.jobs.models import pipeline_stage_order
+
+        stage_order = pipeline_stage_order()
         from_idx = stage_order.index(from_stage)
         stages = [s.value for s in stage_order[from_idx:]]
         placeholders = ",".join("?" * len(stages))

@@ -6,7 +6,7 @@ model handles fluently) and parse it ourselves into the NarrationPlan shape.
 
 Stage A — Narrative (plain text)
   Out: HISTORICAL_FIGURE, COLD_OPEN_OBJECT, DECISION_LEVER/DESC/CONSEQ,
-       LUT, END_QUESTION, CLAUSE 1..14
+       LUT, END_QUESTION, CLAUSE 1..N (CLAUSE_COUNT)
 
 Stage B — Visual + Motion + Beat per clause (plain text)
   Out: per clause: IMAGE / MOTION / EMOTION / INTENSITY / CAMERA / TRANSITION
@@ -26,7 +26,23 @@ import httpx
 from shorts_pipeline.config.settings import Settings
 from shorts_pipeline.planner.niche_caps import caps_for
 from shorts_pipeline.planner.niches_compact import COMPACT_DATA
-from shorts_pipeline.planner.schema import NarrationPlan
+from shorts_pipeline.planner.schema import CLAUSE_COUNT, NarrationPlan
+
+# When reducing 14-slot arcs to 11, drop these 0-based indices (middle body).
+_ARC_DROP_FOR_11 = frozenset({4, 8, 11})
+
+
+def _arc_n(items: list) -> list:
+    """Truncate a 14-item production arc to CLAUSE_COUNT (11)."""
+    if len(items) == CLAUSE_COUNT:
+        return items
+    if CLAUSE_COUNT == 11 and len(items) >= 14:
+        return [v for i, v in enumerate(items) if i not in _ARC_DROP_FOR_11]
+    return items[:CLAUSE_COUNT]
+
+
+def _clause_lines_prompt() -> str:
+    return "\n".join(f"CLAUSE {i}: <text>" for i in range(1, CLAUSE_COUNT + 1))
 
 
 _THINK_RE = re.compile(r"<think(?:ing)?>.*?</think(?:ing)?>", re.DOTALL | re.IGNORECASE)
@@ -40,21 +56,21 @@ def stage_a_system(niche: str) -> str:
     banned = "; ".join(d["banned"][:7])
     return f"""You write {d['voice']}.
 
-Write the NARRATION ONLY for a 14-clause YouTube Short (~58 sec).
+Write the NARRATION ONLY for a {CLAUSE_COUNT}-clause YouTube Short (~58 sec).
 
 SCOPE: {d['scope']}
 TRANSFORMATION: {d['transformation']}
 
-Target ~{(min_w+max_w)//2} words across 14 clauses for ~58 seconds of speech.
+Target ~{(min_w+max_w)//2} words across {CLAUSE_COUNT} clauses for ~58 seconds of speech.
 Mix short and long sentences for rhythm. Plain Anglo-Saxon English.
 
 QUESTION MARKS:
   • Clause 1's first sentence ends with '?' (the curiosity hook).
   • END_QUESTION ends with '?'.
-  • Clauses 2-14: no question marks.
+  • Clauses 2-{CLAUSE_COUNT}: no question marks.
 
 STRUCTURE:
-- Exactly 14 clauses.
+- Exactly {CLAUSE_COUNT} clauses.
 - Clause 1's hook is under 14 words. Style: {d['hook_style']}
 
 BANNED PHRASES (any = fail): {banned}; changed history; shaped the world.
@@ -71,26 +87,13 @@ LEVER_CONSEQ: <one sentence>
 LUT: <epic_warm | tragic_cold | ancient_sepia | dark_thriller | golden_hour>   # prefer {d['color_grade'].split(',')[0].strip()}
 END_QUESTION: <one rhetorical question ending in '?'>
 
-CLAUSE 1: <text — first sentence is the curiosity-gap question>
-CLAUSE 2: <text>
-CLAUSE 3: <text>
-CLAUSE 4: <text>
-CLAUSE 5: <text>
-CLAUSE 6: <text>
-CLAUSE 7: <text>
-CLAUSE 8: <text>
-CLAUSE 9: <text>
-CLAUSE 10: <text>
-CLAUSE 11: <text>
-CLAUSE 12: <text>
-CLAUSE 13: <text>
-CLAUSE 14: <text>"""
+{_clause_lines_prompt().replace('<text>', '<text — first sentence is the curiosity-gap question>', 1)}"""
 
 
 def stage_a_user(topic: str) -> str:
     return (
         f"Write the narration for a YouTube Short about: {topic!r}.\n"
-        f"14 clauses. Hit the word budget."
+        f"{CLAUSE_COUNT} clauses. Hit the word budget."
     )
 
 
@@ -166,7 +169,7 @@ def parse_stage_a(raw: str) -> dict:
     #   *Clause 1:* ...
     #   **Clause 1:** ...
     #   Clause 1. ...
-    #   1. ... (when wrapped in a list of 14)
+    #   1. ... (when wrapped in a numbered list of CLAUSE_COUNT items)
     _clause_re = re.compile(
         r"^\s*[*_#>\-\s]*\**\s*clause\s*(\d+)\s*[:.\-)]\**\s*(.*)$",
         re.IGNORECASE,
@@ -193,7 +196,7 @@ def parse_stage_a(raw: str) -> dict:
     flush()
 
     # Fallback: if labeled format failed, look for a "1. ... 14. ..." numbered block
-    if len(clauses) < 14:
+    if len(clauses) < CLAUSE_COUNT:
         num_re = re.compile(r"^\s*[*\-_]?\s*(\d{1,2})[.\)]\s+(.+?)\s*$")
         candidates: list[dict[int, str]] = []
         cur: dict[int, str] = {}
@@ -201,7 +204,7 @@ def parse_stage_a(raw: str) -> dict:
         for line in lines:
             m = num_re.match(line)
             if not m:
-                if expected > 1 and len(cur) >= 14:
+                if expected > 1 and len(cur) >= CLAUSE_COUNT:
                     candidates.append(cur)
                 if len(cur) > 0:
                     cur = {}
@@ -213,16 +216,15 @@ def parse_stage_a(raw: str) -> dict:
                 cur[idx] = text
                 expected = idx + 1
             else:
-                if len(cur) >= 14:
+                if len(cur) >= CLAUSE_COUNT:
                     candidates.append(cur)
                 cur = {idx: text} if idx == 1 else {}
                 expected = idx + 1 if idx == 1 else 1
-        if len(cur) >= 14:
+        if len(cur) >= CLAUSE_COUNT:
             candidates.append(cur)
         if candidates:
-            # Prefer the LAST 14-item block (often the refined version)
-            best = candidates[-1]
-            for i in range(1, 15):
+            best = max(candidates, key=len)
+            for i in range(1, CLAUSE_COUNT + 1):
                 if i in best and i not in clauses:
                     clauses[i] = best[i]
 
@@ -230,8 +232,7 @@ def parse_stage_a(raw: str) -> dict:
     for i in list(clauses.keys()):
         clauses[i] = _strip_clause_decoration(clauses[i])
 
-    # Order clauses 1..14
-    out["clauses"] = [{"text": clauses.get(i, "")} for i in range(1, 15)]
+    out["clauses"] = [{"text": clauses.get(i, "")} for i in range(1, CLAUSE_COUNT + 1)]
     texts = [c["text"] for c in out["clauses"]]
     out["full_script"] = " ".join(t for t in texts if t).strip()
     return out
@@ -241,7 +242,7 @@ def parse_stage_a(raw: str) -> dict:
 
 def stage_b_system(niche: str) -> str:
     d = COMPACT_DATA[niche]
-    return f"""You write HOLLYWOOD-GRADE cinematic visual prompts for a 14-clause Short.
+    return f"""You write HOLLYWOOD-GRADE cinematic visual prompts for a {CLAUSE_COUNT}-clause Short.
 IMAGE feeds a still-image model. MOTION feeds a WAN image-to-video model.
 
 Niche visual context: {d['visual']}
@@ -347,7 +348,7 @@ Use specific physical verbs:
   exhales, blinks, leans, presses, traces, smooths, brushes, sweeps,
   staggers, steadies, tightens, slackens, presses, withdraws, advances.
 
-Vary categories across the 14 clauses — never reuse the same verb twice.
+Vary categories across the {CLAUSE_COUNT} clauses — never reuse the same verb twice.
 Mix in:
   • Object interaction (sealing a letter, drawing a sword, pouring oil)
   • Body motion (kneeling, walking forward, turning the head, leaning in)
@@ -365,11 +366,11 @@ its flame stretches sideways, then steadies."
 Each MOTION unique. Min 80 chars.
 
 ══════════════════════════════════════════════════════════════════
-VISUAL PROGRESSION across the 14 clauses
+VISUAL PROGRESSION across the {CLAUSE_COUNT} clauses
 ══════════════════════════════════════════════════════════════════
-  Clauses 1-4   : mystery, cold light, distance, single subject
-  Clauses 5-9   : movement, decision, faces visible, escalation
-  Clauses 10-14 : cost, emptiness, decay, simpler frames
+  Clauses 1-3   : mystery, cold light, distance, single subject
+  Clauses 4-8   : movement, decision, faces visible, escalation
+  Clauses 9-{CLAUSE_COUNT} : cost, emptiness, decay, simpler frames
 
 Try to reuse 1-2 RECURRING OBJECTS across clauses (a sealed letter, a single
 candle, an empty throne) — they create subconscious continuity.
@@ -385,15 +386,15 @@ CLAUSE 2:
   IMAGE: <text>
   MOTION: <text>
 
-... up through CLAUSE 14."""
+... up through CLAUSE {CLAUSE_COUNT}."""
 
 
 def stage_b_user(clauses: list[dict]) -> str:
     lines = [f"  {i+1}. {c['text']}" for i, c in enumerate(clauses)]
     return (
-        "Design the visual + motion + beat for each of these 14 clauses (in order):\n\n"
+        f"Design the visual + motion + beat for each of these {CLAUSE_COUNT} clauses (in order):\n\n"
         + "\n".join(lines)
-        + "\n\nProduce 14 blocks in the format above."
+        + f"\n\nProduce {CLAUSE_COUNT} blocks in the format above."
     )
 
 
@@ -407,7 +408,7 @@ _FIELD_RE = re.compile(r"^\s*[*_>\-\s]*\**\s*([A-Z_]+)\s*\**\s*:\s*(.*)$")
 
 
 def parse_stage_b(raw: str) -> list[dict]:
-    """Parse Stage B's labelled blocks. Returns list of 14 dicts."""
+    """Parse Stage B's labelled blocks. Returns one visual dict per clause."""
     blocks: dict[int, dict[str, str]] = {}
     cur_block: dict[str, str] | None = None
     cur_idx: int | None = None
@@ -442,49 +443,48 @@ def parse_stage_b(raw: str) -> list[dict]:
     if cur_block is not None and cur_idx is not None:
         blocks[cur_idx] = cur_block
 
-    # Build 14 visual dicts. Engine derives beat metadata deterministically —
-    # the model only provides IMAGE + MOTION.
     out: list[dict] = []
-    # Visual progression arcs (engine-side, not model-side)
-    EMOTION_ARC = [
-        "hook", "tense_buildup", "suspense", "tense_buildup",      # 1-4 mystery
-        "reveal", "climactic", "shock", "tense_buildup", "tragic", # 5-9 escalation
-        "reflective", "tragic", "reflective", "climactic", "reflective",  # 10-14 cost
-    ]
-    INTENSITY_ARC = [
+    EMOTION_ARC = _arc_n([
+        "hook", "tense_buildup", "suspense", "tense_buildup",
+        "reveal", "climactic", "shock", "tense_buildup", "tragic",
+        "reflective", "tragic", "reflective", "climactic", "reflective",
+    ])
+    INTENSITY_ARC = _arc_n([
         0.90, 0.55, 0.60, 0.65,
         0.80, 0.95, 0.85, 0.70, 0.80,
         0.60, 0.75, 0.55, 0.85, 0.70,
-    ]
-    # Every clause has motion (no "hold"). Mix of ken_burns/pan/zoom_out/parallax.
-    CAMERA_ARC = [
+    ])
+    CAMERA_ARC = _arc_n([
         "ken_burns", "pan", "ken_burns", "zoom_out",
         "pan", "ken_burns", "zoom_out", "ken_burns", "pan",
         "parallax", "ken_burns", "pan", "ken_burns", "zoom_out",
-    ]
-    AUDIO_ARC = [
+    ])
+    AUDIO_ARC = _arc_n([
         "low_rumble", "paper_flutter", "none", "none",
         "impact", "thunder_crack", "crowd_murmur", "none", "low_rumble",
         "none", "fire_crackle", "none", "impact", "none",
-    ]
-    # Smooth img-to-img transitions throughout — only clause 1 is hard_cut
-    # (it's the opening and has nothing to fade FROM).
-    TRANSITION_ARC = [
+    ])
+    TRANSITION_ARC = _arc_n([
         "hard_cut", "xfade", "xfade", "xfade",
         "xfade", "smash_white", "dip_to_black", "xfade", "xfade",
         "xfade", "dip_to_black", "xfade", "xfade", "dip_to_black",
-    ]
-    TIER_ARC = [
-        "legendary", "cinematic", "cinematic", "cinematic",
-        "cinematic", "legendary", "legendary", "cinematic", "cinematic",
-        "grounded", "cinematic", "grounded", "cinematic", "cinematic",
-    ]
-    SUBTITLE_ARC = [
+    ])
+    # 70/20/10 law: grounded=8, cinematic=2, legendary=1 across 11 clauses.
+    # Arc drops indices 4,8,11 → kept: 0,1,2,3,5,6,7,9,10,12,13
+    # Narrative shape: cinematic hook → grounded build → cinematic pivot
+    #                  → grounded consequence → legendary climax → grounded close
+    TIER_ARC = _arc_n([
+        "cinematic", "grounded", "grounded", "grounded",
+        "grounded",  "grounded", "cinematic", "grounded",
+        "grounded",  "grounded", "legendary", "grounded",
+        "grounded",  "grounded",
+    ])
+    SUBTITLE_ARC = _arc_n([
         "middle", "bottom", "bottom", "bottom",
         "middle", "middle", "middle", "bottom", "bottom",
         "bottom", "middle", "bottom", "middle", "bottom",
-    ]
-    for i in range(1, 15):
+    ])
+    for i in range(1, CLAUSE_COUNT + 1):
         b = blocks.get(i, {})
         idx0 = i - 1
         out.append({
@@ -561,10 +561,10 @@ def generate_multistage(
     debug["stages"]["A"] = {"time_s": round(time.time() - tA0, 1), "raw_chars": len(rawA)}
     debug["raw_A"] = rawA[:4000]
     partial = parse_stage_a(rawA)
-    if not partial["full_script"] or len([c for c in partial["clauses"] if c["text"]]) < 14:
+    if not partial["full_script"] or len([c for c in partial["clauses"] if c["text"]]) < CLAUSE_COUNT:
         n = len([c for c in partial["clauses"] if c["text"]])
         debug["stages"]["A"]["error"] = f"only {n} clauses parsed"
-        e = RuntimeError(f"stage A: missing clauses (parsed {n}/14)")
+        e = RuntimeError(f"stage A: missing clauses (parsed {n}/{CLAUSE_COUNT})")
         e.debug = debug
         raise e
 
@@ -579,9 +579,9 @@ def generate_multistage(
     visuals = parse_stage_b(rawB)
     parsed_count = sum(1 for v in visuals if v["image_prompt"])
     debug["stages"]["B"]["parsed_count"] = parsed_count
-    if parsed_count < 14:
-        debug["stages"]["B"]["error"] = f"only {parsed_count}/14 visuals parsed"
-        e = RuntimeError(f"stage B: missing visuals (parsed {parsed_count}/14)")
+    if parsed_count < CLAUSE_COUNT:
+        debug["stages"]["B"]["error"] = f"only {parsed_count}/{CLAUSE_COUNT} visuals parsed"
+        e = RuntimeError(f"stage B: missing visuals (parsed {parsed_count}/{CLAUSE_COUNT})")
         e.debug = debug
         raise e
 

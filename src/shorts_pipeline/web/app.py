@@ -15,6 +15,12 @@ from pydantic import BaseModel, ConfigDict, Field
 
 from shorts_pipeline.config.settings import Settings, get_settings
 from shorts_pipeline.config.ui_store import effective_settings, get_ui_store
+from shorts_pipeline.planner.niche_resolve import (
+    available_niches,
+    is_valid_niche,
+    niche_label,
+    resolve_niche,
+)
 from shorts_pipeline.jobs.batch_store import BatchStore, parse_topics
 from shorts_pipeline.jobs.image_recovery import (
     build_job_config_for_disk_import,
@@ -30,6 +36,7 @@ from shorts_pipeline.jobs.models import ArtifactType, JobConfigSnapshot, JobStat
 from shorts_pipeline.jobs.pipeline_runner import PipelineRunner
 from shorts_pipeline.jobs.preflight import run_preflight
 from shorts_pipeline.jobs.recovery import recover_interrupted_jobs
+from shorts_pipeline.jobs.paths import resolve_job_dir
 from shorts_pipeline.jobs.store import JobStore
 from shorts_pipeline.logging_setup import configure_logging, get_logger
 from shorts_pipeline.web.log_buffer import job_log_buffer
@@ -66,6 +73,10 @@ def _store() -> JobStore:
         s = _settings()
         _store_singleton = JobStore(s.data_dir / "jobs.sqlite")
     return _store_singleton
+
+
+def _job_dir(job_id: str) -> Path:
+    return resolve_job_dir(_settings(), _store(), job_id)
 
 
 def _batch_store() -> BatchStore:
@@ -212,7 +223,8 @@ async def _local_production_guards(request: Request, call_next):
 class CreateJobBody(BaseModel):
     figure_name: str = Field(..., min_length=1)
     bgm_path: str = Field(..., min_length=1)
-    topic_type: str = "historical_figure"
+    niche: str = "documentary"
+    topic_type: str | None = None  # legacy alias for niche
     language: str = "en"
     watermark_enabled: bool = Field(default_factory=lambda: get_settings().watermark_enabled)
     end_plate_enabled: bool = Field(default_factory=lambda: get_settings().end_plate_enabled)
@@ -231,7 +243,8 @@ class CreateBatchBody(BaseModel):
     name: str = Field(..., min_length=1)
     topics: list[str] = Field(..., min_items=1)
     bgm_path: str = Field(..., min_length=1)
-    topic_type: str = "historical_figure"
+    niche: str = "documentary"
+    topic_type: str | None = None  # legacy alias
     language: str = "en"
 
 
@@ -309,19 +322,34 @@ def put_config(body: UiPatchBody) -> dict:
 
 # ── Job endpoints ─────────────────────────────────────────────────────────────
 
+def _niche_from_body(niche: str | None, topic_type: str | None) -> str:
+    raw = niche or topic_type or "documentary"
+    if not is_valid_niche(raw):
+        raise HTTPException(
+            status_code=400,
+            detail=f"Unknown niche {raw!r}. Choose one of: {', '.join(available_niches())}",
+        )
+    return resolve_niche(raw)
+
+
+@app.get("/api/niches")
+def list_niches() -> list[dict[str, str]]:
+    return [{"id": n, "label": niche_label(n)} for n in available_niches()]
+
+
 @app.post("/api/jobs")
 def create_job(body: CreateJobBody) -> dict:
-    if body.topic_type != "historical_figure":
-        raise HTTPException(status_code=400, detail="V1 only supports topic_type=historical_figure")
     if body.language != "en":
         raise HTTPException(status_code=400, detail="V1 only supports language=en")
+    niche = _niche_from_body(body.niche, body.topic_type)
     bgm = Path(body.bgm_path)
     if not bgm.is_file():
         raise HTTPException(status_code=400, detail=f"BGM path is not a file: {body.bgm_path}")
 
     cfg = JobConfigSnapshot(
         figure_name=body.figure_name,
-        topic_type=body.topic_type,
+        niche=niche,
+        topic_type=niche,
         language=body.language,
         bgm_path=str(bgm.resolve()),
         watermark_enabled=body.watermark_enabled,
@@ -341,6 +369,7 @@ def list_jobs() -> list[dict]:
         out.append({
             "id": j.id,
             "figure_name": j.figure_name,
+            "niche": j.config_snapshot.planner_niche(),
             "status": j.status.value,
             "current_stage": j.current_stage.value if j.current_stage else None,
             "last_completed_stage": j.last_completed_stage.value if j.last_completed_stage else None,
@@ -361,6 +390,7 @@ def get_job(job_id: str) -> dict:
     return {
         "id": j.id,
         "figure_name": j.figure_name,
+        "niche": j.config_snapshot.planner_niche(),
         "status": j.status.value,
         "current_stage": j.current_stage.value if j.current_stage else None,
         "last_completed_stage": j.last_completed_stage.value if j.last_completed_stage else None,
@@ -396,7 +426,7 @@ def _plan_clauses_list(job_id: str) -> tuple[list[dict], int]:
     if art and Path(art.path).is_file():
         data = json.loads(Path(art.path).read_text(encoding="utf-8"))
     else:
-        p = s.data_dir / "jobs" / job_id / "plan.json"
+        p = _job_dir(job_id) / "plan.json"
         if not p.is_file():
             raise HTTPException(status_code=404, detail="plan.json not found — cannot list clauses")
         data = json.loads(p.read_text(encoding="utf-8"))
@@ -427,7 +457,7 @@ def reconcile_job_folder_endpoint(body: ReconcileFolderBody) -> JSONResponse:
         jid = resolve_folder_to_job_id(s, body.folder_path)
     except ValueError as e:
         raise HTTPException(status_code=400, detail=str(e)) from e
-    root = s.data_dir / "jobs" / jid
+    root = _job_dir(jid)
     imported_from_disk = False
     j = store.get_job(jid)
     if j is None:
@@ -464,14 +494,15 @@ def reconcile_job_folder_endpoint(body: ReconcileFolderBody) -> JSONResponse:
             status=JobStatus.paused,
             clear_error=True,
             last_completed_stage=PipelineStage.images,
-            current_stage=PipelineStage.tts,
+            current_stage=PipelineStage.align,
         )
     else:
+        tts_art = store.get_latest_artifact(jid, PipelineStage.tts, ArtifactType.narration_wav)
         store.update_job_progress(
             jid,
             status=JobStatus.paused,
             clear_error=True,
-            last_completed_stage=PipelineStage.plan,
+            last_completed_stage=PipelineStage.tts if tts_art else PipelineStage.plan,
             current_stage=PipelineStage.images,
         )
     log.info("job_images_reconciled", job_id=jid, registered=info.get("registered_from_disk"))
@@ -488,7 +519,7 @@ def images_review(job_id: str) -> dict:
         Path(a.path).name: a
         for a in store.get_artifacts_for_stage(job_id, PipelineStage.images, ArtifactType.image_png)
     }
-    img_dir = _settings().data_dir / "jobs" / job_id / "images"
+    img_dir = _job_dir(job_id) / "images"
     out: list[dict] = []
     for i, cl in enumerate(clauses):
         if not isinstance(cl, dict):
@@ -528,7 +559,7 @@ def download_clause_png(job_id: str, clause_index: int) -> FileResponse:
     store = _store()
     if store.get_job(job_id) is None:
         raise HTTPException(status_code=404, detail="job not found")
-    p = _settings().data_dir / "jobs" / job_id / "images" / f"clause_{clause_index:03d}.png"
+    p = _job_dir(job_id) / "images" / f"clause_{clause_index:03d}.png"
     if not p.is_file():
         raise HTTPException(status_code=404, detail="image not found")
     return FileResponse(p, media_type="image/png", filename=p.name)
@@ -587,7 +618,7 @@ async def replace_clause_image_upload(
     raw = await file.read()
     if len(raw) < 64 or not raw.startswith(b"\x89PNG\r\n\x1a\n"):
         raise HTTPException(status_code=400, detail="upload a valid PNG file")
-    out = _settings().data_dir / "jobs" / job_id / "images" / f"clause_{clause_index:03d}.png"
+    out = _job_dir(job_id) / "images" / f"clause_{clause_index:03d}.png"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_bytes(raw)
     store.add_artifact(
@@ -608,7 +639,7 @@ def reset_all_clause_images_endpoint(job_id: str, clear_raw: bool = True) -> JSO
     if j is None:
         raise HTTPException(status_code=404, detail="job not found")
     _job_must_not_be_running_for_image_edit(j)
-    img_dir = _settings().data_dir / "jobs" / job_id / "images"
+    img_dir = _job_dir(job_id) / "images"
     store.delete_all_image_png_artifacts(job_id)
     if img_dir.is_dir():
         for p in img_dir.glob("clause_*.png"):
@@ -647,7 +678,7 @@ def pause_after_image(job_id: str) -> JSONResponse:
             status_code=409,
             detail="pause-after-image is only available while the job is running on the images stage",
         )
-    img_dir = _settings().data_dir / "jobs" / job_id / "images"
+    img_dir = _job_dir(job_id) / "images"
     img_dir.mkdir(parents=True, exist_ok=True)
     (img_dir / ".pause_after_image").write_text("1", encoding="utf-8")
     log.info("pause_after_image_requested", job_id=job_id)
@@ -675,7 +706,7 @@ def cancel_job(job_id: str) -> JSONResponse:
     ok = _store().cancel_job(job_id)
     if not ok:
         raise HTTPException(status_code=409, detail="job is not running or pending")
-    flag = _settings().data_dir / "jobs" / job_id / "images" / ".pause_after_image"
+    flag = _job_dir(job_id) / "images" / ".pause_after_image"
     flag.unlink(missing_ok=True)
     log.info("job_cancelled", job_id=job_id)
     return JSONResponse({"ok": True, "job_id": job_id})
@@ -721,6 +752,34 @@ def download_final_long(job_id: str) -> FileResponse:
     if not p.is_file():
         raise HTTPException(status_code=404, detail="file missing on disk")
     return FileResponse(p, media_type="video/mp4", filename="final_long.mp4")
+
+
+@app.get("/api/jobs/{job_id}/artifact/final_wan.mp4")
+def download_final_wan(job_id: str) -> FileResponse:
+    from shorts_pipeline.jobs.models import ArtifactType, PipelineStage
+
+    art = _store().get_latest_artifact(job_id, PipelineStage.render, ArtifactType.final_wan_mp4)
+    if art is None:
+        raise HTTPException(status_code=404, detail="Wan final not available")
+    p = Path(art.path)
+    if not p.is_file():
+        raise HTTPException(status_code=404, detail="file missing on disk")
+    return FileResponse(p, media_type="video/mp4", filename="final_wan.mp4")
+
+
+@app.get("/api/jobs/{job_id}/artifact/final_wan_long.mp4")
+def download_final_wan_long(job_id: str) -> FileResponse:
+    from shorts_pipeline.jobs.models import ArtifactType, PipelineStage
+
+    art = _store().get_latest_artifact(
+        job_id, PipelineStage.render, ArtifactType.final_wan_long_mp4
+    )
+    if art is None:
+        raise HTTPException(status_code=404, detail="Wan long version not available")
+    p = Path(art.path)
+    if not p.is_file():
+        raise HTTPException(status_code=404, detail="file missing on disk")
+    return FileResponse(p, media_type="video/mp4", filename="final_wan_long.mp4")
 
 
 # ── Script editor endpoints ───────────────────────────────────────────────────
@@ -785,7 +844,7 @@ def update_script(job_id: str, body: ScriptUpdateBody) -> JSONResponse:
         job_id,
         status=JobStatus.pending,
         current_stage=PipelineStage.tts,
-        last_completed_stage=PipelineStage.images,
+        last_completed_stage=PipelineStage.plan,
         clear_error=True,
     )
     return JSONResponse({"ok": True, "word_count": len(body.full_script.split())})
@@ -979,7 +1038,13 @@ def batch_create(body: CreateBatchBody) -> dict:
     topics = [t.strip() for t in body.topics if t.strip()]
     if not topics:
         raise HTTPException(status_code=400, detail="topics list is empty")
-    b = _batch_store().create(body.name, topics, str(bgm.resolve()), topic_type=body.topic_type, language=body.language)
+    b = _batch_store().create(
+        body.name,
+        topics,
+        str(bgm.resolve()),
+        topic_type=_niche_from_body(body.niche, body.topic_type),
+        language=body.language,
+    )
     log.info("batch_created", batch_id=b.id, total=len(topics))
     return _batch_to_dict(b)
 
@@ -1050,6 +1115,7 @@ def _batch_to_dict(b) -> dict:
         "total": b.total,
         "current_index": b.current_index,
         "bgm_path": b.bgm_path,
+        "niche": resolve_niche(b.topic_type),
         "topic_type": b.topic_type,
         "language": b.language,
         "created_at": b.created_at.isoformat(),

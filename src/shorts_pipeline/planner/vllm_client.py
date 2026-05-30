@@ -23,7 +23,8 @@ import httpx
 from shorts_pipeline.config.settings import Settings
 from shorts_pipeline.logging_setup import get_logger
 from shorts_pipeline.planner.client import _build_correction_message, _extract_json
-from shorts_pipeline.planner.prompts import COMPACT_SYSTEM_PROMPT, compact_user_prompt
+from shorts_pipeline.planner.niches_compact import make_system_prompt, make_user_prompt
+from shorts_pipeline.planner.niche_resolve import resolve_niche
 from shorts_pipeline.planner.schema import NarrationPlan, validate_english_figure_v1
 from shorts_pipeline.planner.structured_output import (
     apply_structured_output,
@@ -32,14 +33,17 @@ from shorts_pipeline.planner.structured_output import (
     structured_output_fallback_modes,
 )
 from shorts_pipeline.planner.word_budget import maybe_clamp_plan_json, maybe_expand_plan_json
-from shorts_pipeline.planner.wiki_grounding import fetch_grounding, format_for_prompt
+from shorts_pipeline.planner.niche_caps import caps_for
+from shorts_pipeline.planner.grounding import fetch_multi_grounding, format_multi_for_prompt
 
 log = get_logger(__name__)
 
 _MAX_RETRIES = 8
 _BACKOFF_BASE_S = 3.0
 _BACKOFF_MAX_S = 30.0
-_MAX_GENERATION_TOKENS = 4000
+# Local runtimes (LM Studio / vLLM) can crash on long structured generations.
+# Keep this conservative; retries + correction loop handle the rest.
+_MAX_GENERATION_TOKENS = 2500
 
 
 class VllmPlannerError(Exception):
@@ -54,6 +58,10 @@ class VllmPlannerError(Exception):
 def _is_transient_vllm_error(exc: VllmPlannerError) -> bool:
     code = exc.status_code
     if code is None:
+        return True
+    # Some OpenAI-compatible servers return HTTP 400 when the model process
+    # crashes (LM Studio can do this). Treat as transient so we can retry.
+    if code == 400 and "model has crashed" in str(exc.detail).lower():
         return True
     return 500 <= code < 600 and code not in (400, 401, 403, 404)
 
@@ -177,15 +185,17 @@ class VllmPlannerClient:
         language: str,
         user_feedback: str | None = None,
     ) -> NarrationPlan:
-        grounding = fetch_grounding(figure_name)
-        wiki_block = format_for_prompt(grounding)
-        system_with_facts = COMPACT_SYSTEM_PROMPT + ("\n\n" + wiki_block[:6000] if wiki_block else "")
-        if not grounding.found:
+        niche = resolve_niche(topic_type)
+        grounding = fetch_multi_grounding(figure_name)
+        facts_block = format_multi_for_prompt(grounding)
+        system_with_facts = make_system_prompt(niche) + (
+            "\n\n" + facts_block[:8000] if facts_block else ""
+        )
+        if not grounding.found_any:
             import warnings
 
             warnings.warn(
-                f"wiki_grounding_missing: figure={figure_name!r} — "
-                "proceeding without Wikipedia facts — hallucination risk is higher",
+                f"grounding_missing: topic={figure_name!r} — proceeding without verified facts — hallucination risk is higher",
                 stacklevel=2,
             )
 
@@ -200,11 +210,23 @@ class VllmPlannerClient:
         }
 
         use_figure_name = getattr(self._settings, "image_prompts_include_figure_name", False)
-        _validate_ctx = {"allow_figure_name": use_figure_name}
+        # Validation gates (word budgets, etc.) depend on ValidationInfo.context["niche"].
+        # If we don't pass it, plans get validated against conservative defaults and
+        # niches like "crime" will fail the word cap.
+        _validate_ctx = {
+            "allow_figure_name": use_figure_name,
+            "niche": niche,
+        }
+        _min_words, _max_words, _max_syl = caps_for(niche)
 
         messages: list[dict[str, str]] = [
             {"role": "system", "content": system_with_facts},
-            {"role": "user", "content": compact_user_prompt(figure_name, use_figure_name=use_figure_name)},
+            {
+                "role": "user",
+                "content": make_user_prompt(
+                    niche, figure_name, use_figure_name=use_figure_name
+                ),
+            },
         ]
 
         if user_feedback and user_feedback.strip():
@@ -226,6 +248,7 @@ class VllmPlannerClient:
         log.info(
             "vllm_generate_start",
             figure=figure_name,
+            niche=niche,
             model=self._settings.local_llm_model,
             base_url=self._settings.local_llm_base_url,
         )
@@ -244,8 +267,27 @@ class VllmPlannerClient:
 
             try:
                 obj = _extract_json(content)
-                maybe_clamp_plan_json(obj)
-                maybe_expand_plan_json(obj)
+                # Deterministic small trims/pads to help convergence inside the niche caps.
+                maybe_clamp_plan_json(obj, max_words=_max_words)
+                maybe_expand_plan_json(obj, min_words=_min_words)
+                # Hard policy: only 2 question marks in the entire output:
+                # clause 1 hook + end_plate_question. Strip stray '?' deterministically.
+                if isinstance(obj, dict):
+                    clauses = obj.get("clauses")
+                    if isinstance(clauses, list) and clauses:
+                        for i, c in enumerate(clauses):
+                            if i == 0:
+                                continue
+                            if isinstance(c, dict) and isinstance(c.get("text"), str):
+                                c["text"] = c["text"].replace("?", "").strip()
+                    if isinstance(obj.get("end_plate_question"), str):
+                        q = obj["end_plate_question"].strip()
+                        if not q.endswith("?"):
+                            obj["end_plate_question"] = q + "?"
+                # Persist niche on the object so downstream stages + saved plan.json
+                # remain self-describing and caps can be derived without extra context.
+                if isinstance(obj, dict) and not obj.get("niche"):
+                    obj["niche"] = niche
             except json.JSONDecodeError as e:
                 if attempt < _MAX_RETRIES:
                     log.warning(

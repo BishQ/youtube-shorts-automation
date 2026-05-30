@@ -16,6 +16,7 @@ from shorts_pipeline.jobs.models import (
     JobStatus,
     PipelineStage,
     next_stage,
+    pipeline_stage_order,
 )
 from shorts_pipeline.jobs.stage_timing import timing_label
 from shorts_pipeline.jobs.store import JobStore, verify_artifact_path
@@ -88,10 +89,17 @@ class StageRunner:
                 return False
             return all(verify_artifact_path(Path(a.path), a.sha256) for a in arts)
         if stage == PipelineStage.render:
-            art = self._store.get_latest_artifact(job_id, stage, ArtifactType.final_mp4)
-            if art is None:
+            mp4 = self._store.get_latest_artifact(job_id, stage, ArtifactType.final_mp4)
+            if mp4 is None or not verify_artifact_path(Path(mp4.path), mp4.sha256):
                 return False
-            return verify_artifact_path(Path(art.path), art.sha256)
+            if self._i2v_enabled() and self._settings and self._settings.render_dual_outputs:
+                wan = self._store.get_latest_artifact(
+                    job_id, stage, ArtifactType.final_wan_mp4
+                )
+                if wan is None:
+                    return False
+                return verify_artifact_path(Path(wan.path), wan.sha256)
+            return True
         if stage == PipelineStage.publish:
             art = self._store.get_latest_artifact(
                 job_id, stage, ArtifactType.publish_package_json
@@ -132,10 +140,14 @@ class StageRunner:
             clear_error=True,
         )
 
-        stage_order = list(PipelineStage)
+        stage_order = pipeline_stage_order()
         start_idx = 0
-        if record.last_completed_stage is not None:
-            start_idx = stage_order.index(record.last_completed_stage) + 1
+        for i, stage in enumerate(stage_order):
+            if not self._gate_complete(job_id, stage):
+                start_idx = i
+                break
+        else:
+            start_idx = len(stage_order)
 
         try:
             for stage in stage_order[start_idx:]:

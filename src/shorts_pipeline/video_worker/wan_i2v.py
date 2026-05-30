@@ -44,7 +44,10 @@ class WanI2VError(ComfyError):
 WAN_FPS = 16
 # Wan native sequence is 81 frames (~5s). Hard cap to avoid quality degradation.
 WAN_MIN_FRAMES = 33   # ~2.0s — anything shorter and the model can't establish motion
-WAN_MAX_FRAMES = 113  # ~7.0s — beyond this the model loses temporal coherence
+# 121 = 4×30+1 → ~7.5s, the hook's HOOK_MAX_DURATION_S slot. Wan coherence softens
+# past ~7s; this +0.5s margin exists only so the renderer never runs out of frames
+# to trim for a 7.5s hook. Dial back to 113 (~7.0s) if hook clips warp/ghost.
+WAN_MAX_FRAMES = 121  # ~7.5s
 
 
 @dataclass

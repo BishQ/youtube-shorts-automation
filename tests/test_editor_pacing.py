@@ -5,6 +5,10 @@ from pathlib import Path
 import pytest
 
 from shorts_pipeline.editor.pacing import (
+    BODY_MAX_DURATION_S,
+    BODY_MIN_DURATION_S,
+    HOOK_MAX_DURATION_S,
+    HOOK_MIN_DURATION_S,
     MAX_CLIP_DURATION_S,
     MIN_CLIP_DURATION_S,
     compute_cut_times_from_ranges,
@@ -49,60 +53,91 @@ def _make_plan(n: int = 4) -> NarrationPlan:
     )
 
 
-def test_normalize_ranges_last_clip_ends_at_narration_duration() -> None:
-    # Cut starts spaced by >= MIN_CLIP_DURATION_S so nudge is a no-op
-    ranges = [(0.0, 1.0), (2.5, 2.5), (5.0, 4.0), (7.5, 5.0)]
-    result = compute_cut_times_from_ranges(ranges, narration_duration_s=10.5)
-    assert result[-1][1] == pytest.approx(10.5)
+def _even_ranges(n: int, narr: float) -> list[tuple[float, float]]:
+    """11 evenly spaced clause starts, like a typical TTS alignment."""
+    step = narr / n
+    return [(i * step, (i + 1) * step) for i in range(n)]
 
 
-def test_normalize_ranges_cuts_on_start_of_next() -> None:
-    ranges = [(0.0, 1.0), (2.6, 2.8), (5.2, 4.5), (7.8, 6.0)]
-    result = compute_cut_times_from_ranges(ranges, narration_duration_s=11.0)
-    assert result[0][1] == pytest.approx(2.6)
-    assert result[1][1] == pytest.approx(5.2)
-    assert result[2][1] == pytest.approx(7.8)
-    assert result[3][1] == pytest.approx(11.0)
+def test_back_compat_constants_map_to_body_band() -> None:
+    assert MIN_CLIP_DURATION_S == BODY_MIN_DURATION_S
+    assert MAX_CLIP_DURATION_S == BODY_MAX_DURATION_S
 
 
-def test_normalize_ranges_no_clip_exceeds_max_duration() -> None:
-    """Long silence after last clause start must not yield a >MAX last image."""
-    ranges = [(0.0, 1.0), (2.5, 2.5), (5.0, 4.0), (7.5, 5.0)]
-    result = compute_cut_times_from_ranges(ranges, narration_duration_s=20.0)
-    for i, (a, b) in enumerate(result):
-        assert b - a <= MAX_CLIP_DURATION_S + 0.001, f"clip {i} too long: {b - a}"
+def test_last_clip_ends_exactly_at_narration() -> None:
+    ranges = _even_ranges(11, 54.0)
+    result = compute_cut_times_from_ranges(ranges, narration_duration_s=54.0)
+    assert result[-1][1] == pytest.approx(54.0)
 
 
-def test_normalize_ranges_tail_no_micro_clips() -> None:
-    """Tail clauses in tiny alignment windows must still get minimum image time."""
-    ranges = [
-        (0.0, 1.0),
-        (48.16, 52.92),
-        (53.24, 53.744),
-        (53.74999999999999, 54.044),
-        (54.05, 54.08),
-    ]
+def test_clips_tile_the_timeline_back_to_back() -> None:
+    ranges = _even_ranges(11, 55.0)
     result = compute_cut_times_from_ranges(ranges, narration_duration_s=55.0)
-    for i, (a, b) in enumerate(result):
-        assert b - a >= MIN_CLIP_DURATION_S - 0.001, f"clip {i} too short: {b - a}"
-    assert result[-1][1] == pytest.approx(55.0)
+    assert result[0][0] == pytest.approx(0.0)
+    for i in range(1, len(result)):
+        assert result[i][0] == pytest.approx(result[i - 1][1])
+    total = sum(b - a for a, b in result)
+    assert total == pytest.approx(55.0)
 
 
-def test_normalize_ranges_minimum_duration() -> None:
-    ranges = [(1.0, 1.0)]
-    result = _normalize_ranges(ranges, narration_duration_s=5.0)
-    assert result[0][1] - result[0][0] >= MIN_CLIP_DURATION_S - 0.001
+def test_hook_held_within_hook_band() -> None:
+    ranges = _even_ranges(11, 54.0)
+    result = compute_cut_times_from_ranges(ranges, narration_duration_s=54.0)
+    hook = result[0][1] - result[0][0]
+    assert HOOK_MIN_DURATION_S - 1e-6 <= hook <= HOOK_MAX_DURATION_S + 1e-6
+
+
+def test_body_clips_within_body_band_when_narration_fits() -> None:
+    # 54 s ∈ [43, 57] tiling window → every clip must stay in-band.
+    ranges = _even_ranges(11, 54.0)
+    result = compute_cut_times_from_ranges(ranges, narration_duration_s=54.0)
+    for i in range(1, len(result)):
+        dur = result[i][1] - result[i][0]
+        assert BODY_MIN_DURATION_S - 1e-6 <= dur <= BODY_MAX_DURATION_S + 1e-6, (
+            f"body clip {i} out of band: {dur}"
+        )
+
+
+def test_no_clip_parks_when_narration_overshoots_deck() -> None:
+    """Narration longer than the deck's max tiling must not park one image.
+
+    sum_max = 7 + 10×5 = 57 s. At 62 s the 5 s overflow is shared across body
+    clips, so no clip balloons to the old 12 s 'frozen last frame' bug.
+    """
+    ranges = _even_ranges(11, 62.0)
+    result = compute_cut_times_from_ranges(ranges, narration_duration_s=62.0)
+    durs = [b - a for a, b in result]
+    assert result[-1][1] == pytest.approx(62.0)
+    # Hook stays at its cap; body overflow (~0.5 s/clip) is shared, not dumped on
+    # one image — the last clip must never balloon to the old 12 s frozen frame.
+    body_durs = durs[1:]
+    assert max(body_durs) <= 6.0, f"a body clip parked: {durs}"
+    assert max(body_durs) - min(body_durs) <= 0.5, f"overflow not shared evenly: {durs}"
+    assert sum(durs) == pytest.approx(62.0)
+
+
+def test_hook_kept_clean_under_overflow() -> None:
+    # Hook should stay at its max (7) while body clips absorb overflow.
+    ranges = _even_ranges(11, 62.0)
+    result = compute_cut_times_from_ranges(ranges, narration_duration_s=62.0)
+    hook = result[0][1] - result[0][0]
+    assert hook == pytest.approx(HOOK_MAX_DURATION_S, abs=0.05)
+
+
+def test_single_clip_covers_full_narration() -> None:
+    result = _normalize_ranges([(1.0, 1.0)], narration_duration_s=5.0)
+    assert result[0][0] == pytest.approx(0.0)
     assert result[0][1] == pytest.approx(5.0)
 
 
 def test_build_edit_plan_from_ranges(tmp_path: Path) -> None:
     import wave
 
-    plan = _make_plan(4)
+    n = 11
+    plan = _make_plan(n)
 
-    # Create dummy image + bgm files
     imgs: list[Path] = []
-    for i in range(4):
+    for i in range(n):
         p = tmp_path / f"img{i}.png"
         p.write_bytes(
             b"\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\x00\x01\x00\x00\x00\x01\x08\x06"
@@ -117,18 +152,20 @@ def test_build_edit_plan_from_ranges(tmp_path: Path) -> None:
         w.setnchannels(1)
         w.setsampwidth(2)
         w.setframerate(fr)
-        w.writeframes(b"\x00\x00" * fr * 10)
+        w.writeframes(b"\x00\x00" * fr * 60)
 
-    ranges = [(0.0, 1.5), (3.0, 3.0), (6.0, 4.5), (9.0, 6.0)]
-    narr = 12.0
+    ranges = _even_ranges(n, 54.0)
+    narr = 54.0
     edit = build_edit_plan_from_ranges(
         plan, imgs, ranges, narr, bgm, run_face_detection=False
     )
 
-    assert len(edit.clips) == 4
+    assert len(edit.clips) == n
     assert edit.clips[0].cut_at_s == pytest.approx(0.0)
-    assert edit.clips[1].cut_at_s == pytest.approx(3.0)
-    assert edit.clips[3].duration_s == pytest.approx(3.0)
+    # Hook held in its band; total tiles to narration.
+    hook_dur = edit.clips[0].duration_s
+    assert HOOK_MIN_DURATION_S - 1e-6 <= hook_dur <= HOOK_MAX_DURATION_S + 1e-6
+    assert sum(c.duration_s for c in edit.clips) == pytest.approx(narr, abs=0.01)
     assert edit.lut_choice == LutChoice.epic_warm
     assert edit.end_plate_question == "Would you have crossed?"
     assert edit.narration_duration_s == pytest.approx(narr)
