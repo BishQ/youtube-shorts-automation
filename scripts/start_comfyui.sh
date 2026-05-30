@@ -71,17 +71,26 @@ stop_comfy() {
 
 start_comfy() {
   if [[ ! -f "$COMFYUI_ROOT/main.py" ]]; then
-    echo "ComfyUI not found at $COMFYUI_ROOT/main.py" >&2
+    echo "ComfyUI app missing at $COMFYUI_ROOT/main.py" >&2
+    echo "Run: bash scripts/ensure_comfyui_app.sh" >&2
     exit 1
   fi
-  if command -v python3 >/dev/null 2>&1; then
-    PYTHON=python3
-  elif command -v python >/dev/null 2>&1; then
-    PYTHON=python
-  else
+  PYTHON=""
+  for candidate in \
+    "$COMFYUI_ROOT/.venv/bin/python" \
+    "$COMFYUI_ROOT/venv/bin/python" \
+    python3 \
+    python; do
+    if [[ -x "$candidate" ]] || command -v "$candidate" >/dev/null 2>&1; then
+      PYTHON="$candidate"
+      break
+    fi
+  done
+  if [[ -z "$PYTHON" ]]; then
     echo "python3/python not found in PATH" >&2
     exit 127
   fi
+  echo "Using Python: $PYTHON ($("$PYTHON" --version 2>&1))"
   cd "$COMFYUI_ROOT"
   : > "$LOG_FILE"
   nohup "$PYTHON" main.py \

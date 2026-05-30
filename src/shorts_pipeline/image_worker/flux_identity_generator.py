@@ -143,33 +143,34 @@ def generate_flux_identity_one(
     refs: PersonReferences,
     settings: Settings,
     seed: int | None = None,
+    ref_uploaded_names: list[str] | None = None,
+    face_mask_name: str | None = None,
 ) -> None:
     cap = _FluxIdentityCapable()
     out_path.parent.mkdir(parents=True, exist_ok=True)
     actual_seed = seed if seed is not None else random.randint(1, 2**32 - 1)
 
-    uploaded: list[str] = []
-    for p in refs.image_paths:
-        uploaded.append(comfy.upload_image(p))
-
-    mask_path = build_face_inpaint_mask(
-        refs.image_paths[0],
-        width=PORTRAIT_W,
-        height=PORTRAIT_H,
-    )
-    mask_name = comfy.upload_image(mask_path)
+    if ref_uploaded_names is None:
+        ref_uploaded_names = [comfy.upload_image(p) for p in refs.image_paths]
+    if face_mask_name is None:
+        mask_path = build_face_inpaint_mask(
+            refs.image_paths[0],
+            width=PORTRAIT_W,
+            height=PORTRAIT_H,
+        )
+        face_mask_name = comfy.upload_image(mask_path)
 
     wf = cap._patch_identity_workflow(
         bundle,
         prompt_text=prompt_text,
-        ref_uploaded_names=uploaded,
-        face_mask_name=mask_name,
+        ref_uploaded_names=ref_uploaded_names,
+        face_mask_name=face_mask_name,
         settings=settings,
         seed=actual_seed,
     )
     log.info(
         "flux_identity_generate_start",
-        refs=len(uploaded),
+        refs=len(ref_uploaded_names),
         figure=refs.figure_name,
         qid=refs.wikidata_id,
         pulid=settings.flux_pulid_model_name,
@@ -177,13 +178,90 @@ def generate_flux_identity_one(
     )
     pid = comfy.queue_prompt(wf)
     hist = comfy.wait_for_completion(pid)
-    outputs = hist.get("outputs") or {}
+    _write_flux_identity_png(comfy, bundle, hist, out_path)
+
+
+def _prepare_flux_identity_uploads(
+    comfy: ComfyClient,
+    refs: PersonReferences,
+) -> tuple[list[str], str]:
+    uploaded = [comfy.upload_image(p) for p in refs.image_paths]
+    mask_path = build_face_inpaint_mask(
+        refs.image_paths[0],
+        width=PORTRAIT_W,
+        height=PORTRAIT_H,
+    )
+    return uploaded, comfy.upload_image(mask_path)
+
+
+def _write_flux_identity_png(
+    comfy: ComfyClient,
+    bundle: FluxIdentityBundle,
+    hist: dict[str, Any],
+    out_path: Path,
+) -> None:
     from shorts_pipeline.image_worker.comfy import _pick_last_png
 
+    outputs = hist.get("outputs") or {}
     png_name, subfolder = _pick_last_png(outputs)
     data = comfy.fetch_output_png(png_name, subfolder=subfolder)
     out_path.write_bytes(data)
     comfy.verify_png(out_path, min_w=bundle.min_width, min_h=bundle.min_height)
+
+
+def generate_flux_identity_batch(
+    comfy: ComfyClient,
+    bundle: FluxIdentityBundle,
+    items: list[tuple[str, Path]],
+    *,
+    refs: PersonReferences,
+    settings: Settings,
+    use_batch_queue: bool | None = None,
+) -> None:
+    """Queue many Flux identity prompts; poll once when batch mode is on."""
+    if not items:
+        return
+    batch = (
+        settings.comfy_queue_batch if use_batch_queue is None else use_batch_queue
+    )
+    ref_names, mask_name = _prepare_flux_identity_uploads(comfy, refs)
+    cap = _FluxIdentityCapable()
+
+    if not batch or len(items) == 1:
+        for prompt_text, out_path in items:
+            generate_flux_identity_one(
+                comfy,
+                bundle,
+                prompt_text,
+                out_path,
+                refs=refs,
+                settings=settings,
+                ref_uploaded_names=ref_names,
+                face_mask_name=mask_name,
+            )
+        return
+
+    queued: list[tuple[str, Path]] = []
+    prompt_ids: list[str] = []
+    for prompt_text, out_path in items:
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        seed = random.randint(1, 2**32 - 1)
+        wf = cap._patch_identity_workflow(
+            bundle,
+            prompt_text=prompt_text,
+            ref_uploaded_names=ref_names,
+            face_mask_name=mask_name,
+            settings=settings,
+            seed=seed,
+        )
+        pid = comfy.queue_prompt(wf)
+        prompt_ids.append(pid)
+        queued.append((pid, out_path))
+
+    log.info("flux_identity_batch_queued", count=len(prompt_ids), figure=refs.figure_name)
+    hist_map = comfy.wait_for_prompts(prompt_ids)
+    for pid, out_path in queued:
+        _write_flux_identity_png(comfy, bundle, hist_map[pid], out_path)
 
 
 class FluxIdentityComfyMixin(_FluxIdentityCapable):
@@ -255,17 +333,39 @@ class FluxIdentityImageGenerator:
             encoding="utf-8",
         )
 
-        paths: list[Path] = []
+        slot_paths: list[Path | None] = [None] * len(prompts)
+        pending: list[tuple[int, str, Path]] = []
         for i, ptxt in enumerate(prompts):
             out_path = out_dir / f"clause_{i:03d}.png"
             if resume and out_path.is_file() and out_path.stat().st_size > 1000:
-                paths.append(out_path)
+                slot_paths[i] = out_path
                 continue
-            self._generate_one(bundle, ptxt, out_path, refs=refs)
-            paths.append(out_path)
-            if progress_cb:
-                progress_cb(i, ptxt)
-        return paths
+            pending.append((i, ptxt, out_path))
+
+        if pending:
+            comfy = self._client if isinstance(self._client, ComfyClient) else None
+            batch_items = [(ptxt, op) for _, ptxt, op in pending]
+            if comfy is not None and self._s.comfy_queue_batch:
+                generate_flux_identity_batch(
+                    comfy,
+                    bundle,
+                    batch_items,
+                    refs=refs,
+                    settings=self._s,
+                )
+            else:
+                for _, ptxt, out_path in pending:
+                    self._generate_one(bundle, ptxt, out_path, refs=refs)
+
+            for i, ptxt, out_path in pending:
+                slot_paths[i] = out_path
+                if progress_cb:
+                    progress_cb(i, ptxt)
+
+        missing = [i for i, p in enumerate(slot_paths) if p is None]
+        if missing:
+            raise ComfyError(f"flux identity missing outputs for clause indices: {missing}")
+        return [p for p in slot_paths if p is not None]
 
     def _generate_one(
         self,

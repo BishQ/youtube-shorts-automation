@@ -31,6 +31,7 @@ class StageHandler(Protocol):
     def run_plan(self, job_id: str) -> None: ...
     def run_images(self, job_id: str) -> None: ...
     def run_tts(self, job_id: str) -> None: ...
+    def run_post_plan_parallel_stages(self, job_id: str) -> None: ...
     def run_align(self, job_id: str) -> None: ...
     def run_i2v(self, job_id: str) -> None: ...
     def run_render(self, job_id: str) -> None: ...
@@ -53,6 +54,63 @@ class StageRunner:
         if self._settings is None:
             return False
         return bool(self._settings.i2v_enabled)
+
+    def _parallel_stages_enabled(self) -> bool:
+        return bool(self._settings and self._settings.pipeline_parallel_stages)
+
+    def _should_run_parallel_post_plan(self, job_id: str) -> bool:
+        if not self._parallel_stages_enabled():
+            return False
+        if not self._gate_complete(job_id, PipelineStage.plan):
+            return False
+        need_tts = not self._gate_complete(job_id, PipelineStage.tts)
+        need_images = not self._gate_complete(job_id, PipelineStage.images)
+        need_align = bool(
+            self._settings
+            and self._settings.pipeline_parallel_align
+            and not self._gate_complete(job_id, PipelineStage.align)
+        )
+        return need_tts or need_images or need_align
+
+    def _run_parallel_post_plan_block(self, job_id: str) -> set[PipelineStage]:
+        method = getattr(self._handler, "run_post_plan_parallel_stages", None)
+        if method is None or not callable(method):
+            raise RuntimeError("stage handler is missing run_post_plan_parallel_stages")
+
+        log.info("parallel_post_plan_block_start", job_id=job_id)
+        self._store.update_job_progress(job_id, current_stage=PipelineStage.tts)
+        self._store.record_stage_start(
+            job_id,
+            PipelineStage.tts,
+            "TTS + Images (parallel)",
+        )
+        try:
+            method(job_id)
+        finally:
+            self._store.record_stage_end(job_id)
+
+        finished: set[PipelineStage] = set()
+        for stage in (PipelineStage.tts, PipelineStage.images, PipelineStage.align):
+            if not self._gate_complete(job_id, stage):
+                if stage == PipelineStage.align:
+                    continue
+                raise RuntimeError(
+                    f"parallel post-plan block finished without valid {stage.value} artifacts"
+                )
+            finished.add(stage)
+            self._store.update_job_progress(
+                job_id,
+                last_completed_stage=stage,
+                current_stage=next_stage(stage) or stage,
+            )
+            log.info("stage_complete", stage=stage.value, parallel=True)
+
+        log.info(
+            "parallel_post_plan_block_done",
+            job_id=job_id,
+            stages=sorted(s.value for s in finished),
+        )
+        return finished
 
     def _gate_complete(self, job_id: str, stage: PipelineStage) -> bool:
         if stage == PipelineStage.plan:
@@ -168,6 +226,23 @@ class StageRunner:
                             clear_current_stage=True,
                         )
                         log.info("pipeline_stopped_after_stage", job_id=job_id, stage=stage.value)
+                        return
+                    continue
+
+                if stage == PipelineStage.tts and self._should_run_parallel_post_plan(job_id):
+                    finished = self._run_parallel_post_plan_block(job_id)
+                    if stop_after is not None and stop_after in finished:
+                        self._store.update_job_progress(
+                            job_id,
+                            status=JobStatus.completed,
+                            last_completed_stage=stop_after,
+                            clear_current_stage=True,
+                        )
+                        log.info(
+                            "pipeline_stopped_after_stage",
+                            job_id=job_id,
+                            stage=stop_after.value,
+                        )
                         return
                     continue
 

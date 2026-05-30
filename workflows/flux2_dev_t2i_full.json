@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "prompt_key_path": ["5", "inputs", "text"],
+    "seed_key_path": ["8", "inputs", "seed"],
+    "min_width": 720,
+    "min_height": 1280,
+    "_note": [
+      "Flux 2 Dev text-to-image only (no LoRA, no reference photos, no InstantID).",
+      "Use with SHORTS_IMAGE_BACKEND=comfy and SHORTS_COMFY_WORKFLOW_NAME=flux2_dev_t2i_full",
+      "for crime / science / business niches where likeness refs are not needed.",
+      "",
+      "Required models (same as flux_identity on RunPod):",
+      "  diffusion_models/flux2-dev.safetensors",
+      "  text_encoders/mistral_3_small_flux2_bf16.safetensors",
+      "  vae/flux2-vae.safetensors"
+    ]
+  },
+  "prompt": {
+    "1": {
+      "class_type": "UNETLoader",
+      "inputs": {
+        "unet_name": "flux2-dev.safetensors",
+        "weight_dtype": "default"
+      },
+      "_meta": {"title": "Flux 2 Dev (full)"}
+    },
+    "3": {
+      "class_type": "CLIPLoader",
+      "inputs": {
+        "clip_name": "mistral_3_small_flux2_bf16.safetensors",
+        "type": "flux2",
+        "device": "default"
+      },
+      "_meta": {"title": "Mistral 3 Flux2 CLIP"}
+    },
+    "4": {
+      "class_type": "VAELoader",
+      "inputs": {"vae_name": "flux2-vae.safetensors"},
+      "_meta": {"title": "Flux2 VAE"}
+    },
+    "5": {
+      "class_type": "CLIPTextEncode",
+      "inputs": {"clip": ["3", 0], "text": ""},
+      "_meta": {"title": "POSITIVE PROMPT"}
+    },
+    "6": {
+      "class_type": "CLIPTextEncode",
+      "inputs": {
+        "clip": ["3", 0],
+        "text": "blurry, deformed, ugly, watermark, text, logo, low quality, cartoon, anime, plastic skin, bad anatomy, extra fingers"
+      },
+      "_meta": {"title": "NEGATIVE PROMPT"}
+    },
+    "7": {
+      "class_type": "EmptyFlux2LatentImage",
+      "inputs": {"width": 832, "height": 1472, "batch_size": 1},
+      "_meta": {"title": "Empty Latent 832x1472 (9:16)"}
+    },
+    "8": {
+      "class_type": "KSampler",
+      "inputs": {
+        "model": ["1", 0],
+        "positive": ["5", 0],
+        "negative": ["6", 0],
+        "latent_image": ["7", 0],
+        "seed": 0,
+        "steps": 20,
+        "cfg": 1.0,
+        "sampler_name": "euler",
+        "scheduler": "simple",
+        "denoise": 1.0
+      },
+      "_meta": {"title": "KSampler"}
+    },
+    "9": {
+      "class_type": "VAEDecode",
+      "inputs": {"samples": ["8", 0], "vae": ["4", 0]},
+      "_meta": {"title": "VAE Decode"}
+    },
+    "10": {
+      "class_type": "SaveImage",
+      "inputs": {"filename_prefix": "flux2_t2i", "images": ["9", 0]},
+      "_meta": {"title": "Save Image"}
+    }
+  }
+}

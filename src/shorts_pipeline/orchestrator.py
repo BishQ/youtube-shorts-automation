@@ -17,6 +17,8 @@ from shorts_pipeline.editor import build_edit_plan_from_ranges
 from shorts_pipeline.editor.pacing import (
     BODY_MAX_DURATION_S,
     HOOK_MAX_DURATION_S,
+    compute_cut_times_from_ranges,
+    compute_i2v_generation_durations_s,
 )
 from shorts_pipeline.image_worker.comfy import ComfyClient, ComfyError, load_workflow_bundle
 from shorts_pipeline.image_worker.flux_identity_generator import FluxIdentityImageGenerator
@@ -312,14 +314,9 @@ class PipelineOrchestrator:
             comfy = make_image_client(self._settings)
             out_dir.mkdir(parents=True, exist_ok=True)
             paths: list[Path] = []
+            pending_batch: list[tuple[str, Path, int]] = []
             for i, ptxt in enumerate(prompts):
                 raise_if_cancelled(self._store, job_id)
-                log.info(
-                    "image_generating",
-                    index=i + 1,
-                    total=len(prompts),
-                    prompt_preview=ptxt[:80],
-                )
                 out_path = out_dir / f"clause_{i:03d}.png"
                 if self._image_artifact_valid_for_path(job_id, out_path):
                     paths.append(out_path)
@@ -344,6 +341,37 @@ class PipelineOrchestrator:
                         recovered=True,
                     )
                 else:
+                    pending_batch.append((ptxt, out_path, i))
+
+            if pending_batch and isinstance(comfy, ComfyClient):
+                batch_items = [(ptxt, op) for ptxt, op, _ in pending_batch]
+                comfy.generate_many(bundle, batch_items)
+                for ptxt, out_path, i in pending_batch:
+                    self._store.add_artifact(
+                        job_id,
+                        PipelineStage.images,
+                        ArtifactType.image_png,
+                        out_path,
+                        meta={},
+                    )
+                    paths.append(out_path)
+                    log.info(
+                        "image_done",
+                        job_id=job_id,
+                        index=i + 1,
+                        total=total,
+                        backend="comfy",
+                        prompt_preview=ptxt[:80],
+                    )
+            else:
+                for ptxt, out_path, i in pending_batch:
+                    raise_if_cancelled(self._store, job_id)
+                    log.info(
+                        "image_generating",
+                        index=i + 1,
+                        total=len(prompts),
+                        prompt_preview=ptxt[:80],
+                    )
                     comfy.generate_one(bundle, ptxt, out_path)
                     self._store.add_artifact(
                         job_id,
@@ -361,10 +389,10 @@ class PipelineOrchestrator:
                         backend="comfy",
                         prompt_preview=ptxt[:80],
                     )
-                if self._settings.pause_after_each_image and i + 1 < len(prompts):
-                    self._pause_after_image_flag(job_id).write_text("1", encoding="utf-8")
-                self._consume_pause_after_image(job_id)
-                raise_if_cancelled(self._store, job_id)
+                    if self._settings.pause_after_each_image and i + 1 < len(prompts):
+                        self._pause_after_image_flag(job_id).write_text("1", encoding="utf-8")
+                    self._consume_pause_after_image(job_id)
+                    raise_if_cancelled(self._store, job_id)
 
         if not incremental_image_artifacts:
             for p in paths:
@@ -382,6 +410,79 @@ class PipelineOrchestrator:
 
         log.info("images_done", job_id=job_id, total=total, backend=backend)
 
+    def _stage_gate_complete(self, job_id: str, stage: PipelineStage, art_type: ArtifactType) -> bool:
+        if stage == PipelineStage.images:
+            arts = self._store.get_artifacts_for_stage(job_id, stage, art_type)
+            if not arts:
+                return False
+            plan = self._load_plan(job_id)
+            if len(arts) != len(plan.clauses):
+                return False
+            return all(verify_artifact_path(Path(a.path), a.sha256) for a in arts)
+        art = self._store.get_latest_artifact(job_id, stage, art_type)
+        if art is None:
+            return False
+        return verify_artifact_path(Path(art.path), art.sha256)
+
+    def run_post_plan_parallel_stages(self, job_id: str) -> None:
+        """Overlap TTS (local), images (RunPod), and align (local after TTS)."""
+        from concurrent.futures import ThreadPoolExecutor
+
+        s = self._settings
+        if not s.pipeline_parallel_stages:
+            if not self._stage_gate_complete(job_id, PipelineStage.tts, ArtifactType.narration_wav):
+                self.run_tts(job_id)
+            if not self._stage_gate_complete(job_id, PipelineStage.images, ArtifactType.image_png):
+                self.run_images(job_id)
+            if s.pipeline_parallel_align and not self._stage_gate_complete(
+                job_id, PipelineStage.align, ArtifactType.subtitles_ass
+            ):
+                self.run_align(job_id)
+            return
+
+        need_tts = not self._stage_gate_complete(job_id, PipelineStage.tts, ArtifactType.narration_wav)
+        need_images = not self._stage_gate_complete(job_id, PipelineStage.images, ArtifactType.image_png)
+        need_align = s.pipeline_parallel_align and not self._stage_gate_complete(
+            job_id, PipelineStage.align, ArtifactType.subtitles_ass
+        )
+
+        if not need_tts and not need_images and not need_align:
+            return
+
+        log.info(
+            "parallel_post_plan_start",
+            job_id=job_id,
+            tts=need_tts,
+            images=need_images,
+            align=need_align,
+        )
+
+        def tts_then_align() -> None:
+            if need_tts:
+                self.run_tts(job_id)
+            if need_align:
+                self.run_align(job_id)
+
+        def images_worker() -> None:
+            if need_images:
+                self.run_images(job_id)
+
+        with ThreadPoolExecutor(max_workers=2, thread_name_prefix="shorts-par") as pool:
+            futures = []
+            if need_tts or need_align:
+                futures.append(pool.submit(tts_then_align))
+            if need_images:
+                futures.append(pool.submit(images_worker))
+            for fut in futures:
+                fut.result()
+
+        if not s.pipeline_parallel_align and not self._stage_gate_complete(
+            job_id, PipelineStage.align, ArtifactType.subtitles_ass
+        ):
+            self.run_align(job_id)
+
+        log.info("parallel_post_plan_done", job_id=job_id)
+
     def run_tts(self, job_id: str) -> None:
         from shorts_pipeline.media.ffprobe import ffprobe_duration_s
         from shorts_pipeline.tts_worker.narration_fit import fit_narration
@@ -393,8 +494,14 @@ class PipelineOrchestrator:
         rec = self._store.get_job(job_id)
         if rec is None:
             raise ValueError("job not found")
-        cfg = rec.config_snapshot
         out = self._job_dir(job_id) / "narration.wav"
+        existing = self._store.get_latest_artifact(
+            job_id, PipelineStage.tts, ArtifactType.narration_wav
+        )
+        if existing and verify_artifact_path(Path(existing.path), existing.sha256):
+            log.info("tts_skip_existing", job_id=job_id, path=str(out))
+            return
+        cfg = rec.config_snapshot
         backend = self._settings.tts_backend.lower().strip()
         threshold = narration_replan_threshold_s(self._settings)
         max_replans = self._settings.narration_replan_max_attempts
@@ -510,6 +617,13 @@ class PipelineOrchestrator:
         )
 
     def run_align(self, job_id: str) -> None:
+        ass_path = self._job_dir(job_id) / "subtitles.ass"
+        existing = self._store.get_latest_artifact(
+            job_id, PipelineStage.align, ArtifactType.subtitles_ass
+        )
+        if existing and verify_artifact_path(Path(existing.path), existing.sha256):
+            log.info("align_skip_existing", job_id=job_id, path=str(ass_path))
+            return
         log.info("align_start", job_id=job_id)
         plan = self._load_plan(job_id)
         wav = self._store.get_latest_artifact(job_id, PipelineStage.tts, ArtifactType.narration_wav)
@@ -574,8 +688,9 @@ class PipelineOrchestrator:
         plan = self._load_plan(job_id)
         niche = plan.niche or rec.config_snapshot.topic_type
 
-        image_paths, _, _, _, timings_path = self._load_render_artifacts(job_id, plan)
+        image_paths, _, _, wav_path, timings_path = self._load_render_artifacts(job_id, plan)
         ranges = self._load_ranges(timings_path, expected=len(plan.clauses))
+        narration_duration_s = self._compute_narration_duration(job_id, wav_path, ranges)
 
         wf_name = self._settings.i2v_workflow_name
         bundle_path = (self._settings.workflows_dir / f"{wf_name}.json").resolve()
@@ -593,6 +708,18 @@ class PipelineOrchestrator:
         out_dir = self._job_dir(job_id) / "videos"
         out_dir.mkdir(parents=True, exist_ok=True)
         max_dur = float(self._settings.i2v_max_clip_duration_s)
+        normalized_slots: list[tuple[float, float]] | None = None
+        if self._settings.i2v_match_render_pacing:
+            normalized_slots = compute_cut_times_from_ranges(ranges, narration_duration_s)
+            pacing_durations = compute_i2v_generation_durations_s(
+                ranges,
+                narration_duration_s,
+                margin_s=float(self._settings.i2v_pacing_margin_s),
+                max_clip_s=max_dur,
+                last_clip_extra_s=float(self._settings.last_frame_breathe_s or 0.0),
+            )
+        else:
+            pacing_durations = None
 
         log.info(
             "i2v_start",
@@ -601,8 +728,10 @@ class PipelineOrchestrator:
             workflow=wf_name,
             backend=i2v_backend,
             niche=niche,
+            match_render_pacing=self._settings.i2v_match_render_pacing,
         )
 
+        pending: list[tuple[int, float, float, str, Path, Path]] = []
         for i, (clause, img_path, (start_s, end_s)) in enumerate(
             zip(plan.clauses, image_paths, ranges)
         ):
@@ -612,49 +741,95 @@ class PipelineOrchestrator:
                 log.info("i2v_done", job_id=job_id, index=i + 1, total=len(plan.clauses), skipped=True)
                 continue
 
-            tts_dur = end_s - start_s
-            # Wan clips must be at least as long as the timeline slot the renderer
-            # trims them to (see editor.pacing): the hook is held up to
-            # HOOK_MAX_DURATION_S, every other scene up to BODY_MAX_DURATION_S.
-            # Generate a small margin past those caps so trimming never runs out of
-            # source frames and freezes the tail.
-            if i == 0 or clause.beat.emotion == EmotionType.hook:
-                # Full Wan budget → motion spread over maximum frames; renderer trims to hook slot.
-                duration_s = min(max_dur, max(HOOK_MAX_DURATION_S, max_dur))
+            if pacing_durations is not None and normalized_slots is not None:
+                duration_s = pacing_durations[i]
+                slot_start, slot_end = normalized_slots[i]
+                slot_s = round(slot_end - slot_start, 2)
             else:
-                # ≥ BODY_MAX_DURATION_S so a long body slot always has frames to trim from.
-                duration_s = min(max_dur, max(BODY_MAX_DURATION_S + 0.3, min(max_dur, tts_dur)))
+                tts_dur = end_s - start_s
+                if i == 0 or clause.beat.emotion == EmotionType.hook:
+                    duration_s = min(max_dur, max(HOOK_MAX_DURATION_S, max_dur))
+                else:
+                    duration_s = min(max_dur, max(BODY_MAX_DURATION_S + 0.3, min(max_dur, tts_dur)))
+                slot_s = round(end_s - start_s, 2)
             motion = resolve_motion_prompt(clause, niche=niche)
             log.info(
                 "i2v_generating",
                 job_id=job_id,
                 index=i + 1,
                 total=len(plan.clauses),
+                render_slot_s=slot_s,
                 duration_s=round(duration_s, 2),
                 motion_preview=motion[:80],
             )
-            client.generate_clip(
-                bundle,
-                image_path=img_path,
-                motion_prompt=motion,
-                duration_s=duration_s,
-                out_path=out_path,
-            )
-            self._store.add_artifact(
-                job_id,
-                PipelineStage.i2v,
-                ArtifactType.video_mp4,
-                out_path,
-                meta={"clause_index": i, "duration_s": duration_s},
-            )
-            log.info(
-                "i2v_done",
-                job_id=job_id,
-                index=i + 1,
-                total=len(plan.clauses),
-                out=out_path.name,
-            )
-            raise_if_cancelled(self._store, job_id)
+            pending.append((i, slot_s, duration_s, motion, img_path, out_path))
+
+        if pending and hasattr(client, "generate_clips_batched"):
+            if i2v_backend == "ltx":
+                from shorts_pipeline.video_worker.ltx_i2v import LtxClipRequest
+
+                requests = [
+                    LtxClipRequest(
+                        image_path=img_path,
+                        motion_prompt=motion,
+                        duration_s=duration_s,
+                        out_path=out_path,
+                    )
+                    for _, _slot_s, duration_s, motion, img_path, out_path in pending
+                ]
+            else:
+                from shorts_pipeline.video_worker.wan_i2v import WanClipRequest
+
+                requests = [
+                    WanClipRequest(
+                        image_path=img_path,
+                        motion_prompt=motion,
+                        duration_s=duration_s,
+                        out_path=out_path,
+                    )
+                    for _, _slot_s, duration_s, motion, img_path, out_path in pending
+                ]
+            client.generate_clips_batched(bundle, requests)
+            for i, _slot_s, duration_s, _motion, _img_path, out_path in pending:
+                self._store.add_artifact(
+                    job_id,
+                    PipelineStage.i2v,
+                    ArtifactType.video_mp4,
+                    out_path,
+                    meta={"clause_index": i, "duration_s": duration_s},
+                )
+                log.info(
+                    "i2v_done",
+                    job_id=job_id,
+                    index=i + 1,
+                    total=len(plan.clauses),
+                    out=out_path.name,
+                )
+        else:
+            for i, _slot_s, duration_s, motion, img_path, out_path in pending:
+                raise_if_cancelled(self._store, job_id)
+                client.generate_clip(
+                    bundle,
+                    image_path=img_path,
+                    motion_prompt=motion,
+                    duration_s=duration_s,
+                    out_path=out_path,
+                )
+                self._store.add_artifact(
+                    job_id,
+                    PipelineStage.i2v,
+                    ArtifactType.video_mp4,
+                    out_path,
+                    meta={"clause_index": i, "duration_s": duration_s},
+                )
+                log.info(
+                    "i2v_done",
+                    job_id=job_id,
+                    index=i + 1,
+                    total=len(plan.clauses),
+                    out=out_path.name,
+                )
+                raise_if_cancelled(self._store, job_id)
 
         log.info("i2v_stage_done", job_id=job_id, total=len(plan.clauses))
 
@@ -679,6 +854,32 @@ class PipelineOrchestrator:
             clause_index_from_video_path(str(a.path)): Path(a.path) for a in sorted_arts
         }
         return [by_idx.get(i) for i in range(len(plan.clauses))]
+
+    def _prepare_i2v_paths_for_render(
+        self,
+        video_paths: list[Path | None],
+    ) -> list[Path | None]:
+        mode = (self._settings.render_i2v_upscale or "ffmpeg").lower().strip()
+        if mode == "ffmpeg":
+            return video_paths
+        from shorts_pipeline.image_worker.comfy import load_upscale_bundle
+        from shorts_pipeline.renderer.i2v_realesrgan import prepare_i2v_paths_for_render
+        from shorts_pipeline.runpod_adapter import make_image_client
+
+        comfy = None
+        up_bundle = None
+        if mode == "realesrgan_comfy":
+            wf_name = self._settings.render_i2v_realesrgan_workflow_name
+            bundle_path = (self._settings.workflows_dir / f"{wf_name}.json").resolve()
+            up_bundle = load_upscale_bundle(bundle_path)
+            comfy = make_image_client(self._settings)
+        log.info("render_i2v_upscale_mode", mode=mode)
+        return prepare_i2v_paths_for_render(
+            video_paths,
+            settings=self._settings,
+            comfy=comfy,
+            up_bundle=up_bundle,
+        )
 
     # ── Render helpers ────────────────────────────────────────────────────────
 
@@ -920,6 +1121,8 @@ class PipelineOrchestrator:
                 )
         else:
             video_paths = self._load_i2v_video_paths(job_id, plan)
+
+        video_paths = self._prepare_i2v_paths_for_render(video_paths)
 
         ranges = self._load_ranges(timings_path, expected=len(plan.clauses))
         narration_duration_s = self._compute_narration_duration(job_id, wav_path, ranges)
@@ -1209,6 +1412,9 @@ def orchestrator_stage_handler(settings: Settings, store: JobStore):
         def run_tts(self, job_id: str) -> None:
             from shorts_pipeline.pipeline.stages import tts
             tts.run(orch, job_id)
+
+        def run_post_plan_parallel_stages(self, job_id: str) -> None:
+            orch.run_post_plan_parallel_stages(job_id)
 
         def run_align(self, job_id: str) -> None:
             from shorts_pipeline.pipeline.stages import align

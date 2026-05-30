@@ -111,40 +111,106 @@ def generate_flux_lora_one(
     refs: PersonReferences,
     settings: Settings,
     seed: int | None = None,
+    ref_uploaded_names: list[str] | None = None,
+    lora_name: str | None = None,
 ) -> None:
     """Generate one clause image via Flux2 + LoRA + 4 reference uploads."""
     cap = _FluxLoraCapable()
     out_path.parent.mkdir(parents=True, exist_ok=True)
-    lora_name = cap._resolve_lora_name(settings, refs)
-    uploaded: list[str] = []
-    for p in refs.image_paths:
-        uploaded.append(comfy.upload_image(p))
+    if lora_name is None:
+        lora_name = cap._resolve_lora_name(settings, refs)
+    if ref_uploaded_names is None:
+        ref_uploaded_names = [comfy.upload_image(p) for p in refs.image_paths]
     actual_seed = seed if seed is not None else random.randint(1, 2**32 - 1)
     wf = cap._patch_flux_workflow(
         bundle,
         prompt_text=prompt_text,
         lora_name=lora_name,
         lora_strength=float(settings.flux_lora_strength),
-        ref_uploaded_names=uploaded,
+        ref_uploaded_names=ref_uploaded_names,
         seed=actual_seed,
     )
     log.info(
         "flux_lora_generate_start",
         lora=lora_name,
-        refs=len(uploaded),
+        refs=len(ref_uploaded_names),
         figure=refs.figure_name,
         qid=refs.wikidata_id,
         prompt_preview=prompt_text[:80],
     )
     pid = comfy.queue_prompt(wf)
     hist = comfy.wait_for_completion(pid)
-    outputs = hist.get("outputs") or {}
+    _write_flux_lora_png(comfy, bundle, hist, out_path)
+
+
+def _write_flux_lora_png(
+    comfy: ComfyClient,
+    bundle: FluxLoraBundle,
+    hist: dict[str, Any],
+    out_path: Path,
+) -> None:
     from shorts_pipeline.image_worker.comfy import _pick_last_png
 
+    outputs = hist.get("outputs") or {}
     png_name, subfolder = _pick_last_png(outputs)
     data = comfy.fetch_output_png(png_name, subfolder=subfolder)
     out_path.write_bytes(data)
     comfy.verify_png(out_path, min_w=bundle.min_width, min_h=bundle.min_height)
+
+
+def generate_flux_lora_batch(
+    comfy: ComfyClient,
+    bundle: FluxLoraBundle,
+    items: list[tuple[str, Path]],
+    *,
+    refs: PersonReferences,
+    settings: Settings,
+    use_batch_queue: bool | None = None,
+) -> None:
+    if not items:
+        return
+    batch = (
+        settings.comfy_queue_batch if use_batch_queue is None else use_batch_queue
+    )
+    cap = _FluxLoraCapable()
+    lora_name = cap._resolve_lora_name(settings, refs)
+    ref_names = [comfy.upload_image(p) for p in refs.image_paths]
+
+    if not batch or len(items) == 1:
+        for prompt_text, out_path in items:
+            generate_flux_lora_one(
+                comfy,
+                bundle,
+                prompt_text,
+                out_path,
+                refs=refs,
+                settings=settings,
+                ref_uploaded_names=ref_names,
+                lora_name=lora_name,
+            )
+        return
+
+    queued: list[tuple[str, Path]] = []
+    prompt_ids: list[str] = []
+    for prompt_text, out_path in items:
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        seed = random.randint(1, 2**32 - 1)
+        wf = cap._patch_flux_workflow(
+            bundle,
+            prompt_text=prompt_text,
+            lora_name=lora_name,
+            lora_strength=float(settings.flux_lora_strength),
+            ref_uploaded_names=ref_names,
+            seed=seed,
+        )
+        pid = comfy.queue_prompt(wf)
+        prompt_ids.append(pid)
+        queued.append((pid, out_path))
+
+    log.info("flux_lora_batch_queued", count=len(prompt_ids), figure=refs.figure_name)
+    hist_map = comfy.wait_for_prompts(prompt_ids)
+    for pid, out_path in queued:
+        _write_flux_lora_png(comfy, bundle, hist_map[pid], out_path)
 
 
 class FluxLoraComfyMixin(_FluxLoraCapable):
@@ -218,17 +284,39 @@ class FluxLoraImageGenerator:
             encoding="utf-8",
         )
 
-        paths: list[Path] = []
+        slot_paths: list[Path | None] = [None] * len(prompts)
+        pending: list[tuple[int, str, Path]] = []
         for i, ptxt in enumerate(prompts):
             out_path = out_dir / f"clause_{i:03d}.png"
             if resume and out_path.is_file() and out_path.stat().st_size > 1000:
-                paths.append(out_path)
+                slot_paths[i] = out_path
                 continue
-            self._generate_one(bundle, ptxt, out_path, refs=refs)
-            paths.append(out_path)
-            if progress_cb:
-                progress_cb(i, ptxt)
-        return paths
+            pending.append((i, ptxt, out_path))
+
+        if pending:
+            comfy = self._client if isinstance(self._client, ComfyClient) else None
+            batch_items = [(ptxt, op) for _, ptxt, op in pending]
+            if comfy is not None and self._s.comfy_queue_batch:
+                generate_flux_lora_batch(
+                    comfy,
+                    bundle,
+                    batch_items,
+                    refs=refs,
+                    settings=self._s,
+                )
+            else:
+                for _, ptxt, out_path in pending:
+                    self._generate_one(bundle, ptxt, out_path, refs=refs)
+
+            for i, ptxt, out_path in pending:
+                slot_paths[i] = out_path
+                if progress_cb:
+                    progress_cb(i, ptxt)
+
+        missing = [i for i, p in enumerate(slot_paths) if p is None]
+        if missing:
+            raise ComfyError(f"flux lora missing outputs for clause indices: {missing}")
+        return [p for p in slot_paths if p is not None]
 
     def _generate_one(
         self,

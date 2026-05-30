@@ -175,3 +175,31 @@ def _normalize_ranges(
         result.append((start, end))
         cursor = end
     return result
+
+
+def compute_i2v_generation_durations_s(
+    ranges: list[tuple[float, float]],
+    narration_duration_s: float,
+    *,
+    margin_s: float = 0.25,
+    max_clip_s: float = 7.5,
+    last_clip_extra_s: float = 0.0,
+) -> list[float]:
+    """I2V source length per clause from the render pacing graph + trim headroom.
+
+    FFmpeg trims each generated MP4 to the normalized slot (``end - start`` from
+    ``compute_cut_times_from_ranges``). We synthesize ``slot + margin_s`` (capped
+    at ``max_clip_s``) so RunPod does not waste GPU on uniform ~6 s body clips
+    while still leaving enough frames for trim and the last-clip breathe pad.
+    """
+    normalized = compute_cut_times_from_ranges(ranges, narration_duration_s)
+    if not normalized:
+        return []
+    n = len(normalized)
+    out: list[float] = []
+    for i, (start, end) in enumerate(normalized):
+        slot = max(0.05, float(end) - float(start))
+        extra = last_clip_extra_s if i == n - 1 else 0.0
+        gen = min(float(max_clip_s), slot + float(margin_s) + extra)
+        out.append(max(0.5, gen))
+    return out

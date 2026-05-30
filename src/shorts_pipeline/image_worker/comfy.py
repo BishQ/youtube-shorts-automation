@@ -286,20 +286,44 @@ class ComfyClient:
         return entry if isinstance(entry, dict) else None
 
     def wait_for_completion(self, prompt_id: str) -> dict[str, Any]:
-        for _ in range(self._s.comfy_max_polls):
-            h = self.get_history(prompt_id)
-            if h and h.get("outputs"):
-                return h
+        results = self.wait_for_prompts([prompt_id])
+        return results[prompt_id]
+
+    def wait_for_prompts(self, prompt_ids: list[str]) -> dict[str, dict[str, Any]]:
+        """Poll until every prompt_id has history outputs (batch-friendly)."""
+        if not prompt_ids:
+            return {}
+        pending = set(prompt_ids)
+        results: dict[str, dict[str, Any]] = {}
+        interval = self._s.comfy_poll_interval_s
+        max_polls = self._s.comfy_max_polls
+        for poll_i in range(max_polls):
+            for pid in list(pending):
+                h = self.get_history(pid)
+                if h and h.get("outputs"):
+                    results[pid] = h
+                    pending.discard(pid)
+            if not pending:
+                log.info(
+                    "comfy_batch_complete",
+                    count=len(prompt_ids),
+                    polls=poll_i + 1,
+                )
+                return results
             status_r = self._request("GET", "/queue")
             if status_r.status_code >= 500:
                 raise ComfyError(
                     f"Comfy queue 5xx HTTP {status_r.status_code}",
                     status_code=status_r.status_code,
                 )
-            time.sleep(self._s.comfy_poll_interval_s)
+            time.sleep(interval)
         raise ComfyError(
-            f"Comfy prompt {prompt_id} did not complete within "
-            f"{self._s.comfy_max_polls * self._s.comfy_poll_interval_s}s"
+            f"Comfy batch: {len(pending)} prompt(s) did not complete within "
+            f"{max_polls * interval:.0f}s",
+            detail={
+                "incomplete": sorted(pending)[:10],
+                "completed": len(results),
+            },
         )
 
     def fetch_output_png(self, filename: str, subfolder: str = "", folder_type: str = "output") -> bytes:
@@ -381,6 +405,50 @@ class ComfyClient:
         data = self.fetch_output_png(png_name, subfolder=subfolder)
         out_path.write_bytes(data)
         self.verify_png(out_path, min_w=bundle.min_width, min_h=bundle.min_height)
+
+    def generate_many(
+        self,
+        bundle: WorkflowBundle,
+        items: list[tuple[str, Path]],
+        *,
+        use_batch_queue: bool | None = None,
+    ) -> None:
+        """Generate PNGs for (prompt_text, out_path) pairs.
+
+        When ``use_batch_queue`` is True (default: settings.comfy_queue_batch),
+        all workflows are queued before any polling so ComfyUI keeps the GPU busy.
+        """
+        if not items:
+            return
+        batch = (
+            self._s.comfy_queue_batch if use_batch_queue is None else use_batch_queue
+        )
+        if not batch or len(items) == 1:
+            for prompt_text, out_path in items:
+                self.generate_one(bundle, prompt_text, out_path)
+            return
+
+        queued: list[tuple[str, Path]] = []
+        prompt_ids: list[str] = []
+        for prompt_text, out_path in items:
+            out_path.parent.mkdir(parents=True, exist_ok=True)
+            wf = copy.deepcopy(bundle.prompt)
+            actual_seed = random.randint(1, 2**32 - 1)
+            _nested_set(wf, bundle.prompt_key_path, prompt_text)
+            _patch_workflow(wf, prompt_text, actual_seed)
+            pid = self.queue_prompt(wf)
+            prompt_ids.append(pid)
+            queued.append((pid, out_path))
+
+        log.info("comfy_batch_queued", count=len(prompt_ids))
+        hist_map = self.wait_for_prompts(prompt_ids)
+        for pid, out_path in queued:
+            hist = hist_map[pid]
+            outputs = hist.get("outputs") or {}
+            png_name, subfolder = _pick_last_png(outputs)
+            data = self.fetch_output_png(png_name, subfolder=subfolder)
+            out_path.write_bytes(data)
+            self.verify_png(out_path, min_w=bundle.min_width, min_h=bundle.min_height)
 
     # ── Upscale ───────────────────────────────────────────────────────────────
 

@@ -12,6 +12,7 @@ from shorts_pipeline.editor.pacing import (
     MAX_CLIP_DURATION_S,
     MIN_CLIP_DURATION_S,
     compute_cut_times_from_ranges,
+    compute_i2v_generation_durations_s,
     _normalize_ranges,
 )
 from shorts_pipeline.editor import build_edit_plan_from_ranges
@@ -169,3 +170,41 @@ def test_build_edit_plan_from_ranges(tmp_path: Path) -> None:
     assert edit.lut_choice == LutChoice.epic_warm
     assert edit.end_plate_question == "Would you have crossed?"
     assert edit.narration_duration_s == pytest.approx(narr)
+
+
+def test_i2v_durations_follow_render_slots_with_margin() -> None:
+    ranges = _even_ranges(11, 54.0)
+    narr = 54.0
+    edit_slots = compute_cut_times_from_ranges(ranges, narr)
+    i2v = compute_i2v_generation_durations_s(
+        ranges,
+        narr,
+        margin_s=0.25,
+        max_clip_s=7.5,
+        last_clip_extra_s=0.8,
+    )
+    assert len(i2v) == 11
+    for (start, end), gen in zip(edit_slots, i2v):
+        slot = end - start
+        assert gen >= slot
+        assert gen <= 7.5 + 1e-6
+    # Last clip includes breathe headroom.
+    last_slot = edit_slots[-1][1] - edit_slots[-1][0]
+    assert i2v[-1] == pytest.approx(min(7.5, last_slot + 0.25 + 0.8), abs=0.01)
+    # Body clips should not all park at the old uniform ~5.3 s floor.
+    body_gens = i2v[1:]
+    assert min(body_gens) < 5.0
+    assert max(body_gens) - min(body_gens) > 0.2
+
+
+def test_i2v_durations_shorter_than_legacy_body_floor() -> None:
+    """Short body slots should request less GPU time than the old BODY_MAX+0.3 rule."""
+    ranges = _even_ranges(11, 54.0)
+    narr = 54.0
+    i2v = compute_i2v_generation_durations_s(ranges, narr, margin_s=0.25, max_clip_s=7.5)
+    edit_slots = compute_cut_times_from_ranges(ranges, narr)
+    short_body_idx = min(
+        range(1, 11),
+        key=lambda i: edit_slots[i][1] - edit_slots[i][0],
+    )
+    assert i2v[short_body_idx] < BODY_MAX_DURATION_S + 0.3

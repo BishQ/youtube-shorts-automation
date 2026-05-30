@@ -32,6 +32,11 @@ from shorts_pipeline.editor.xfade_effects import resolve_xfade_for_clip
 from shorts_pipeline.logging_setup import get_logger
 from shorts_pipeline.planner.schema import AudioEvent, TransitionType
 from shorts_pipeline.renderer.quality import RenderQualityError, validate_ass_for_render, validate_render_output
+from shorts_pipeline.renderer.video_enhance import (
+    cover_scale_crop_filter,
+    i2v_upscale_filter_chain,
+    still_image_scale_filter,
+)
 
 log = get_logger(__name__)
 
@@ -178,11 +183,14 @@ def _add_visual_clips(
 
         if use_video:
             raw_tag = f"vkb{i}_raw"
-            parts.append(
-                f"[{i}:v]scale={w}:{h}:force_original_aspect_ratio=increase:flags=lanczos,"
-                f"crop={w}:{h},fps={fps},trim=duration={dur:.6f},setpts=PTS-STARTPTS,"
-                f"format=yuv420p[{raw_tag}]"
+            chain = i2v_upscale_filter_chain(
+                w=w,
+                h=h,
+                fps=fps,
+                duration_s=dur,
+                settings=settings,
             )
+            parts.append(f"[{i}:v]{chain}[{raw_tag}]")
         else:
             frames = max(1, math.ceil(dur * fps))
             zp = zoompan_expr(
@@ -196,9 +204,7 @@ def _add_visual_clips(
                 fps=fps,
             )
             parts.append(
-                f"[{i}:v]scale={work_w}:{work_h}:force_original_aspect_ratio=decrease:flags=lanczos,"
-                f"pad={work_w}:{work_h}:(ow-iw)/2:(oh-ih)/2,setsar=1,"
-                f"trim=end_frame=1,setpts=PTS-STARTPTS,format=yuv420p[sc{i}]"
+                f"[{i}:v]{still_image_scale_filter(work_w=work_w, work_h=work_h, settings=settings)}[sc{i}]"
             )
             raw_tag = f"vkb{i}_raw"
             parts.append(
@@ -394,10 +400,9 @@ def _add_end_plate(
         saturation = 0.85
 
     blur_filter = f"gblur=sigma={blur_sigma}," if blur_sigma > 0 else ""
+    bg_scale = cover_scale_crop_filter(w=w, h=h, settings=settings)
     parts.append(
-        f"[{idx_ep_bg}:v]"
-        f"scale={w}:{h}:force_original_aspect_ratio=increase:flags=lanczos,"
-        f"crop={w}:{h},setsar=1,fps={fps},settb=1/{fps},"
+        f"[{idx_ep_bg}:v]{bg_scale},setsar=1,fps={fps},settb=1/{fps},"
         f"trim=duration={ep_dur:.6f},setpts=PTS-STARTPTS,"
         f"{blur_filter}eq=brightness={brightness}:saturation={saturation},"
         f"format=yuv420p[ep_bg]"
@@ -770,8 +775,8 @@ def build_ffmpeg_argv(req: RenderRequest, settings: Settings) -> list[str]:  # n
     argv.extend([
         "-t", f"{total_dur:.6f}",
         "-c:v", "libx264",
-        "-preset", "fast",
-        "-crf", "20",
+        "-preset", settings.render_x264_preset,
+        "-crf", str(int(settings.render_crf)),
         "-pix_fmt", "yuv420p",
         "-c:a", "aac",
         "-b:a", "192k",

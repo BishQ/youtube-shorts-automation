@@ -38,6 +38,8 @@
       "LTX 2.3 22B dev BF16 full two-stage I2V (Sunwood API export, de-quantized).",
       "LENGTH is injected as whole seconds into node 291.",
       "Requires ComfyUI-LTXVideo on RunPod (no ComfyUI-GGUF).",
+      "Custom nodes: ComfyUI-VideoHelperSuite, ComfyUI-KJNodes, rgthree-comfy.",
+      "Pipeline muxes narration.wav in render — set SHORTS_LTX_I2V_MUTE_CLIP_AUDIO=true (default) for silent clause MP4s.",
       "Required models (BF16 / full safetensors only — no Q/GGUF):",
       "  diffusion_models/ltx-2.3-22b-dev.safetensors",
       "  text_encoders/comfy_gemma_3_12B_it.safetensors  (rename from gemma_3_12B_it.safetensors)",
@@ -127,7 +129,7 @@
           0
         ],
         "audio_latent": [
-          "376",
+          "199",
           0
         ]
       },
@@ -392,7 +394,7 @@
           0
         ],
         "audio": [
-          "373",
+          "201",
           0
         ]
       },

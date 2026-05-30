@@ -217,6 +217,7 @@ def test_orchestrator_handler_exposes_run_publish(tmp_path) -> None:
         "run_plan",
         "run_images",
         "run_tts",
+        "run_post_plan_parallel_stages",
         "run_align",
         "run_i2v",
         "run_render",

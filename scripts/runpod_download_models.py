@@ -33,6 +33,7 @@ import os
 import shutil
 import subprocess
 import sys
+import urllib.request
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -52,6 +53,7 @@ class ModelSpec:
     min_bytes: int = 1_000_000
     gated: bool = False
     note: str = ""
+    download_url: str | None = None
 
 
 # Matches workflows/flux2_dev_lora_full.json + workflows/ltx23_i2v_full.json
@@ -154,6 +156,28 @@ OPTIONAL_UPSCALE = ModelSpec(
     note="Only if SHORTS_COMFY_UPSCALE_WORKFLOW_NAME=upscale_4x_ultrasharp",
 )
 
+REALESRGAN_X4 = ModelSpec(
+    repo_id="xinntao/Real-ESRGAN",
+    filename="RealESRGAN_x4plus.pth",
+    dest_subdir="upscale_models",
+    min_bytes=50_000_000,
+    note="upscale_realesrgan_x4 workflow",
+    download_url=(
+        "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/RealESRGAN_x4plus.pth"
+    ),
+)
+
+REALESRGAN_X2 = ModelSpec(
+    repo_id="xinntao/Real-ESRGAN",
+    filename="RealESRGAN_x2plus.pth",
+    dest_subdir="upscale_models",
+    min_bytes=40_000_000,
+    note="upscale_realesrgan_x2 / I2V frame upscale",
+    download_url=(
+        "https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.1/RealESRGAN_x2plus.pth"
+    ),
+)
+
 
 def _fmt_gb(n: int) -> str:
     return f"{n / (1024**3):.2f} GB"
@@ -183,6 +207,23 @@ def _prune_dir(path: Path) -> None:
         cur = cur.parent
 
 
+def _download_http_url(dest: Path, url: str) -> None:
+    """Fetch a single file from a direct HTTP(S) URL (e.g. GitHub release asset)."""
+    tmp = dest.with_suffix(dest.suffix + ".part")
+    if tmp.exists():
+        tmp.unlink()
+    print(f"  -> writing to {dest}", flush=True)
+    req = urllib.request.Request(
+        url,
+        headers={"User-Agent": "shorts-pipeline/runpod_download_models"},
+    )
+    with urllib.request.urlopen(req, timeout=300) as resp, tmp.open("wb") as out:
+        shutil.copyfileobj(resp, out)
+    if dest.exists():
+        dest.unlink()
+    tmp.rename(dest)
+
+
 def _download_one(
     spec: ModelSpec,
     models_root: Path,
@@ -197,9 +238,22 @@ def _download_one(
         print(f"  SKIP (exists) {dest.name}  [{_fmt_gb(dest.stat().st_size)}]")
         return
 
-    print(f"  GET  {spec.repo_id} / {spec.filename}", flush=True)
+    if spec.download_url:
+        print(f"  GET  {spec.download_url}", flush=True)
+    else:
+        print(f"  GET  {spec.repo_id} / {spec.filename}", flush=True)
     if spec.note:
         print(f"       ({spec.note})", flush=True)
+
+    if spec.download_url:
+        _download_http_url(dest, spec.download_url)
+        size = dest.stat().st_size
+        if size < spec.min_bytes:
+            raise RuntimeError(
+                f"Download looks truncated: {dest} ({size} bytes, expected >= {spec.min_bytes})"
+            )
+        print(f"  OK   {dest.name}  [{_fmt_gb(size)}]")
+        return
 
     flat_name = Path(spec.filename).name
     direct = spec.filename == flat_name and flat_name == dest.name
@@ -251,11 +305,30 @@ def _download_one(
 
 
 def _install_ltx_custom_node(comfy_root: Path) -> None:
+    """All custom nodes required by workflows/ltx23_i2v_full.json."""
     _clone_custom_node(
         comfy_root,
         folder="ComfyUI-LTXVideo",
         repo_url="https://github.com/Lightricks/ComfyUI-LTXVideo.git",
         pip_requirements=True,
+    )
+    _clone_custom_node(
+        comfy_root,
+        folder="ComfyUI-VideoHelperSuite",
+        repo_url="https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git",
+        pip_requirements=True,
+    )
+    _clone_custom_node(
+        comfy_root,
+        folder="ComfyUI-KJNodes",
+        repo_url="https://github.com/kijai/ComfyUI-KJNodes.git",
+        pip_requirements=True,
+    )
+    _clone_custom_node(
+        comfy_root,
+        folder="rgthree-comfy",
+        repo_url="https://github.com/rgthree/rgthree-comfy.git",
+        pip_requirements=False,
     )
 
 
@@ -392,6 +465,11 @@ def main() -> int:
     )
     p.add_argument("--with-upscale", action="store_true", help="Also fetch 4x-UltraSharp.pth")
     p.add_argument(
+        "--with-realesrgan",
+        action="store_true",
+        help="Also fetch RealESRGAN_x4plus.pth and RealESRGAN_x2plus.pth",
+    )
+    p.add_argument(
         "--skip-custom-nodes",
         action="store_true",
         help="Do not clone ComfyUI-LTXVideo or flux_identity custom nodes",
@@ -431,6 +509,8 @@ def main() -> int:
         specs.extend(IDENTITY_MODELS)
     if args.with_upscale:
         specs.append(OPTIONAL_UPSCALE)
+    if getattr(args, "with_realesrgan", False):
+        specs.extend([REALESRGAN_X4, REALESRGAN_X2])
 
     flux_gated = [s for s in specs if s.gated]
     if flux_gated and not token:

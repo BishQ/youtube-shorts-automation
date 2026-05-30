@@ -98,6 +98,12 @@ class Settings(BaseSettings):
     # Must cover the hook's HOOK_MAX_DURATION_S (7.5 s) slot so the renderer never
     # runs out of Wan frames to trim and freezes the hook tail.
     i2v_max_clip_duration_s: float = Field(default=7.5, ge=2.0, le=7.5)
+    # Match I2V synth length to render pacing graph (shorter clips → less GPU time).
+    i2v_match_render_pacing: bool = True
+    # Extra seconds past each render slot so FFmpeg trim never runs out of frames.
+    i2v_pacing_margin_s: float = Field(default=0.25, ge=0.0, le=1.5)
+    # LTX I2V: omit ambient audio in clause MP4s (final Short uses narration.wav + BGM only).
+    ltx_i2v_mute_clip_audio: bool = True
     workflows_dir: Path = Field(default=Path("./workflows"))
     comfy_poll_interval_s: float = 1.0
     comfy_max_polls: int = 1200
@@ -105,6 +111,12 @@ class Settings(BaseSettings):
     # 0 on max wait = keep trying until Comfy accepts TCP (cancel the job to stop).
     comfy_connect_retry_interval_s: float = Field(default=2.5, ge=0.5, le=120.0)
     comfy_connect_max_wait_s: float = Field(default=0.0, ge=0.0)
+    # Queue all pending Comfy prompts before polling (keeps RunPod GPU queue full).
+    comfy_queue_batch: bool = True
+    # Overlap local TTS with RunPod image gen after plan (images only need plan.json).
+    pipeline_parallel_stages: bool = True
+    # Start Whisper align as soon as TTS finishes, while images may still be on RunPod.
+    pipeline_parallel_align: bool = True
 
     # ── ComfyUI execution mode ────────────────────────────────────────────────
     # "local"    → talk to comfy_base_url directly (localhost or a RunPod GPU Pod
@@ -254,6 +266,22 @@ class Settings(BaseSettings):
     video_width: int = 1080
     video_height: int = 1920
     video_fps: int = 30
+    # I2V clips (~480×832) → 1080×1920: spline upscale + optional 2× pre-pass + unsharp.
+    render_scale_flags: str = "spline+accurate_rnd+full_chroma_int"
+    render_i2v_two_step_upscale: bool = True
+    render_unsharp_enabled: bool = True
+    render_unsharp_luma_amount: float = Field(default=0.45, ge=0.0, le=2.0)
+    render_unsharp_luma_size: int = Field(default=5, ge=3, le=23)
+    render_unsharp_chroma_amount: float = Field(default=0.0, ge=0.0, le=2.0)
+    render_crf: int = Field(default=18, ge=0, le=51)
+    render_x264_preset: str = "medium"
+    # I2V clip pre-upscale before FFmpeg: ffmpeg | realesrgan_comfy | realesrgan_ncnn
+    render_i2v_upscale: str = "ffmpeg"
+    render_i2v_realesrgan_workflow_name: str = "upscale_realesrgan_x2"
+    render_i2v_realesrgan_fps: float = Field(default=24.0, ge=1.0, le=60.0)
+    render_i2v_realesrgan_scale: int = Field(default=2, ge=2, le=4)
+    realesrgan_ncnn_path: str | None = None
+    realesrgan_ncnn_model: str = "realesrgan-x4plus"
     render_duration_tolerance_s: float = Field(default=0.75, ge=0.0, le=5.0)
     render_fps_tolerance: float = Field(default=0.25, ge=0.0, le=2.0)
     render_max_shorts_duration_s: float = Field(default=60.0, ge=1.0, le=600.0)

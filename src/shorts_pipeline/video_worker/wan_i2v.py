@@ -67,6 +67,15 @@ class WanI2VBundle:
     min_height: int
 
 
+@dataclass(frozen=True)
+class WanClipRequest:
+    image_path: Path
+    motion_prompt: str
+    duration_s: float
+    out_path: Path
+    seed: int | None = None
+
+
 def load_i2v_bundle(path: Path) -> WanI2VBundle:
     raw = json.loads(path.read_text(encoding="utf-8"))
     if not isinstance(raw, dict):
@@ -158,53 +167,35 @@ class WanI2VClient:
         self._s = settings
         self._comfy = ComfyClient(settings)
 
-    def generate_clip(
+    def _build_workflow(
         self,
         bundle: WanI2VBundle,
         *,
-        image_path: Path,
+        uploaded_name: str,
         motion_prompt: str,
         duration_s: float,
-        out_path: Path,
-        seed: int | None = None,
-    ) -> None:
-        """Run one image-to-video job: upload image, queue workflow, save MP4."""
-        if not image_path.exists():
-            raise WanI2VError(f"source image does not exist: {image_path}")
-        if not motion_prompt or len(motion_prompt) < 10:
-            raise WanI2VError(
-                f"motion_prompt too short ({len(motion_prompt)} chars). "
-                "Use video_worker.motion_templates.default_motion_prompt() for fallback."
-            )
-
-        out_path.parent.mkdir(parents=True, exist_ok=True)
+        seed: int,
+    ) -> tuple[dict[str, Any], int]:
         frames = duration_to_frames(duration_s)
-        actual_seed = seed if seed is not None else random.randint(1, 2**32 - 1)
-
-        uploaded_name = self._comfy.upload_image(image_path)
-        log.info(
-            "wan_i2v_start",
-            image=image_path.name,
-            uploaded_as=uploaded_name,
-            duration_s=round(duration_s, 2),
-            frames=frames,
-            out=out_path.name,
-            prompt_preview=motion_prompt[:80],
-        )
-
         wf = copy.deepcopy(bundle.prompt)
         _nested_set(wf, bundle.prompt_key_path, motion_prompt)
         _nested_set(wf, bundle.image_key_path, uploaded_name)
         _nested_set(wf, bundle.length_key_path, frames)
-        _patch_seeds(wf, actual_seed)
+        _patch_seeds(wf, seed)
+        return wf, frames
 
-        pid = self._comfy.queue_prompt(wf)
-        hist = self._comfy.wait_for_completion(pid)
+    def _save_clip_from_history(
+        self,
+        hist: dict[str, Any],
+        out_path: Path,
+        *,
+        frames: int,
+        seed: int,
+    ) -> None:
         outputs = hist.get("outputs") or {}
         video_name, subfolder = _pick_last_mp4(outputs)
         data = self._comfy.fetch_output_png(video_name, subfolder=subfolder)
         out_path.write_bytes(data)
-
         size_kb = int(out_path.stat().st_size / 1024)
         if size_kb < 50:
             raise WanI2VError(
@@ -215,6 +206,118 @@ class WanI2VClient:
             "wan_i2v_done",
             out=out_path.name,
             size_kb=size_kb,
+            frames=frames,
+            seed=seed,
+        )
+
+    def generate_clip(
+        self,
+        bundle: WanI2VBundle,
+        *,
+        image_path: Path,
+        motion_prompt: str,
+        duration_s: float,
+        out_path: Path,
+        seed: int | None = None,
+    ) -> None:
+        self.generate_clips_batched(
+            bundle,
+            [
+                WanClipRequest(
+                    image_path=image_path,
+                    motion_prompt=motion_prompt,
+                    duration_s=duration_s,
+                    out_path=out_path,
+                    seed=seed,
+                )
+            ],
+        )
+
+    def generate_clips_batched(
+        self,
+        bundle: WanI2VBundle,
+        requests: list[WanClipRequest],
+    ) -> None:
+        if not requests:
+            return
+        batch = self._s.comfy_queue_batch and len(requests) > 1
+        if not batch:
+            for req in requests:
+                self._generate_one_serial(bundle, req)
+            return
+
+        queued: list[tuple[str, WanClipRequest, int, int]] = []
+        prompt_ids: list[str] = []
+        for req in requests:
+            self._validate_request(req)
+            req.out_path.parent.mkdir(parents=True, exist_ok=True)
+            actual_seed = req.seed if req.seed is not None else random.randint(1, 2**32 - 1)
+            uploaded_name = self._comfy.upload_image(req.image_path)
+            wf, frames = self._build_workflow(
+                bundle,
+                uploaded_name=uploaded_name,
+                motion_prompt=req.motion_prompt,
+                duration_s=req.duration_s,
+                seed=actual_seed,
+            )
+            log.info(
+                "wan_i2v_queued",
+                image=req.image_path.name,
+                uploaded_as=uploaded_name,
+                duration_s=round(req.duration_s, 2),
+                frames=frames,
+                out=req.out_path.name,
+                prompt_preview=req.motion_prompt[:80],
+            )
+            pid = self._comfy.queue_prompt(wf)
+            prompt_ids.append(pid)
+            queued.append((pid, req, frames, actual_seed))
+
+        log.info("wan_i2v_batch_queued", count=len(prompt_ids))
+        hist_map = self._comfy.wait_for_prompts(prompt_ids)
+        for pid, req, frames, actual_seed in queued:
+            self._save_clip_from_history(
+                hist_map[pid],
+                req.out_path,
+                frames=frames,
+                seed=actual_seed,
+            )
+
+    def _validate_request(self, req: WanClipRequest) -> None:
+        if not req.image_path.exists():
+            raise WanI2VError(f"source image does not exist: {req.image_path}")
+        if not req.motion_prompt or len(req.motion_prompt) < 10:
+            raise WanI2VError(
+                f"motion_prompt too short ({len(req.motion_prompt)} chars). "
+                "Use video_worker.motion_templates.default_motion_prompt() for fallback."
+            )
+
+    def _generate_one_serial(self, bundle: WanI2VBundle, req: WanClipRequest) -> None:
+        self._validate_request(req)
+        req.out_path.parent.mkdir(parents=True, exist_ok=True)
+        actual_seed = req.seed if req.seed is not None else random.randint(1, 2**32 - 1)
+        uploaded_name = self._comfy.upload_image(req.image_path)
+        wf, frames = self._build_workflow(
+            bundle,
+            uploaded_name=uploaded_name,
+            motion_prompt=req.motion_prompt,
+            duration_s=req.duration_s,
+            seed=actual_seed,
+        )
+        log.info(
+            "wan_i2v_start",
+            image=req.image_path.name,
+            uploaded_as=uploaded_name,
+            duration_s=round(req.duration_s, 2),
+            frames=frames,
+            out=req.out_path.name,
+            prompt_preview=req.motion_prompt[:80],
+        )
+        pid = self._comfy.queue_prompt(wf)
+        hist = self._comfy.wait_for_completion(pid)
+        self._save_clip_from_history(
+            hist,
+            req.out_path,
             frames=frames,
             seed=actual_seed,
         )

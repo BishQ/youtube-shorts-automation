@@ -23,6 +23,12 @@ mkdir -p "$HF_HOME" "$HUGGINGFACE_HUB_CACHE"
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
+if [[ ! -f "${COMFYUI_ROOT}/main.py" ]]; then
+  echo ">>> ComfyUI app missing at ${COMFYUI_ROOT}/main.py"
+  echo ">>> Installing ComfyUI core (models/custom_nodes on volume are kept) ..."
+  bash "${SCRIPT_DIR}/ensure_comfyui_app.sh"
+fi
+
 echo ">>> Installing huggingface_hub …"
 python3 -m pip install -q -U "huggingface_hub[cli]"
 

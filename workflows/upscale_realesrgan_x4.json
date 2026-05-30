@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "image_key_path": ["1", "inputs", "image"],
+    "min_width": 1080,
+    "min_height": 1920,
+    "_note": [
+      "Real-ESRGAN x4 — ComfyUI UpscaleModelLoader + ImageUpscaleWithModel.",
+      "Required: models/upscale_models/RealESRGAN_x4plus.pth",
+      "Set SHORTS_COMFY_UPSCALE_WORKFLOW_NAME=upscale_realesrgan_x4",
+      "Best for API/Grok low-res PNGs; FFmpeg scales to 1080x1920 after."
+    ]
+  },
+  "prompt": {
+    "1": {
+      "class_type": "LoadImage",
+      "inputs": {"image": "placeholder.png"},
+      "_meta": {"title": "LOAD INPUT IMAGE"}
+    },
+    "2": {
+      "class_type": "UpscaleModelLoader",
+      "inputs": {"model_name": "RealESRGAN_x4plus.pth"},
+      "_meta": {"title": "Real-ESRGAN x4plus"}
+    },
+    "3": {
+      "class_type": "ImageUpscaleWithModel",
+      "inputs": {"upscale_model": ["2", 0], "image": ["1", 0]},
+      "_meta": {"title": "Real-ESRGAN Upscale x4"}
+    },
+    "4": {
+      "class_type": "SaveImage",
+      "inputs": {"images": ["3", 0], "filename_prefix": "upscaled_realesrgan"},
+      "_meta": {"title": "SAVE UPSCALED"}
+    }
+  }
+}

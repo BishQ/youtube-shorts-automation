@@ -66,6 +66,7 @@ def main() -> int:
 
     from shorts_pipeline.config.settings import Settings
     from shorts_pipeline.jobs.models import ArtifactType, PipelineStage
+    from shorts_pipeline.jobs.paths import resolve_job_dir
     from shorts_pipeline.jobs.store import JobStore
     from shorts_pipeline.orchestrator import PipelineOrchestrator
 
@@ -77,7 +78,7 @@ def main() -> int:
         print(f"ERROR: job {job_id} not in database. Create it in Web UI first.", file=sys.stderr)
         return 1
 
-    job_dir = settings.data_dir / "jobs" / job_id
+    job_dir = resolve_job_dir(settings, store, job_id)
     plan_path = job_dir / "plan.json"
     if args.promote_failed or not plan_path.is_file():
         plan_path = _promote_failed_plan(job_dir)
@@ -129,11 +130,11 @@ def main() -> int:
         print("[i2v] done")
 
     img_dir = job_dir / "images"
-    i2v_dir = job_dir / "i2v"
-    n_img = len(list(img_dir.glob("*.png"))) if img_dir.is_dir() else 0
-    n_vid = len(list(i2v_dir.glob("*.mp4"))) if i2v_dir.is_dir() else 0
+    vid_dir = job_dir / "videos"
+    n_img = len(list(img_dir.glob("clause_*.png"))) if img_dir.is_dir() else 0
+    n_vid = len(list(vid_dir.glob("clause_*.mp4"))) if vid_dir.is_dir() else 0
     print(f"Output: {n_img} PNG in {img_dir}")
-    print(f"Output: {n_vid} MP4 in {i2v_dir}")
+    print(f"Output: {n_vid} MP4 in {vid_dir}")
     return 0
 
 

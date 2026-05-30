@@ -58,7 +58,15 @@ def resolve_job_dir(settings: Settings, store: JobStore, job_id: str) -> Path:
     niche = rec.topic_type if rec is not None else "unknown"
     if rec is not None:
         niche = rec.config_snapshot.planner_niche()
-    return niche_job_dir(settings, niche, job_id)
+    candidate = niche_job_dir(settings, niche, job_id)
+    if candidate.is_dir():
+        return candidate
+    # Jobs created before niche_folder_name(historical_figure)->documentary rename.
+    if niche_folder_name(niche) == "documentary":
+        legacy_niche = niche_job_dir(settings, "historical_figure", job_id)
+        if legacy_niche.is_dir():
+            return legacy_niche
+    return candidate
 
 
 def resolve_job_dir_for_folder_scan(settings: Settings, folder: Path) -> str:

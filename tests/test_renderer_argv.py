@@ -17,7 +17,6 @@ from shorts_pipeline.renderer.ffmpeg import (
     transition_chain_duration_s,
 )
 
-
 def _write_min_png(path: Path) -> None:
     path.write_bytes(
         b"\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR\x00\x00\x00\x01\x00\x00\x00\x01\x08\x06\x00\x00\x00"
@@ -177,6 +176,74 @@ def test_build_ffmpeg_argv_two_clips_xfade(tmp_path: Path) -> None:
     # before the transition chain, not by freezing the last frame.
     assert transition_chain_duration_s(clips) < req.narration_duration_s - 0.01
     assert "vpadnarr" not in fc
+
+
+def test_build_ffmpeg_argv_i2v_clip_uses_enhanced_upscale(tmp_path: Path) -> None:
+    img = tmp_path / "a.png"
+    _write_min_png(img)
+    clip_mp4 = tmp_path / "clause_000.mp4"
+    clip_mp4.write_bytes(b"\x00" * 64)
+    wav = tmp_path / "n.wav"
+    _write_min_wav(wav, 2.0)
+    bgm = tmp_path / "b.wav"
+    _write_min_wav(bgm, 3.0)
+    ass = tmp_path / "s.ass"
+    ass.write_text(
+        "[Script Info]\nScriptType: v4.00+\n\n[V4+ Styles]\n"
+        "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, "
+        "BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, "
+        "BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\n"
+        "Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,"
+        "0,0,0,0,100,100,0,0,1,2,2,2,10,10,60,1\n"
+        "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n"
+        "Dialogue: 0,0:00:00.00,0:00:02.00,Default,,0,0,0,,Test\n",
+        encoding="utf-8",
+    )
+    out = tmp_path / "out.mp4"
+    clip = ClipSpec(
+        index=0,
+        image_path=img,
+        duration_s=2.0,
+        cut_at_s=0.0,
+        camera=CameraMotion.ken_burns,
+        transition_in=TransitionType.hard_cut,
+        audio_event=AudioEvent.none,
+        subtitle_position=SubtitlePosition.bottom,
+        video_path=clip_mp4,
+    )
+    edit = EditPlan(
+        clips=[clip],
+        lut_choice=LutChoice.epic_warm,
+        end_plate_question="What would YOU have done?",
+        narration_duration_s=2.0,
+        bgm_path=bgm,
+    )
+    settings = Settings(
+        ffmpeg_path="ffmpeg",
+        ffprobe_path="ffprobe",
+        watermark_enabled=False,
+        end_plate_enabled=False,
+        grain_strength=0,
+        vignette_angle=0.0,
+        render_unsharp_enabled=True,
+        render_i2v_two_step_upscale=True,
+        render_crf=18,
+        render_x264_preset="medium",
+    )
+    req = RenderRequest(
+        edit=edit,
+        narration_wav=wav,
+        ass_path=ass,
+        out_mp4=out,
+        narration_duration_s=2.0,
+    )
+    argv = build_ffmpeg_argv(req, settings)
+    fc = argv[argv.index("-filter_complex") + 1]
+    assert "scale=iw*2:ih*2" in fc
+    assert "unsharp=" in fc
+    assert "-crf" in argv
+    assert argv[argv.index("-crf") + 1] == "18"
+    assert argv[argv.index("-preset") + 1] == "medium"
 
 
 def test_compensate_xfade_overlap_spreads_missing_time_without_over_max(tmp_path: Path) -> None:

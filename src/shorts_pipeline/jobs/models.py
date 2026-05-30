@@ -30,7 +30,8 @@ class PipelineStage(StrEnum):
     publish = "publish"
 
 
-# Voice before images: validate narration length before expensive image gen.
+# Voice before images in the linear fallback; when pipeline_parallel_stages is on,
+# TTS and images run together after plan (images only need plan.json).
 PIPELINE_STAGE_ORDER: tuple[PipelineStage, ...] = (
     PipelineStage.plan,
     PipelineStage.tts,
